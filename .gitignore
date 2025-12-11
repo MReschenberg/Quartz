@@ -4,5 +4,8 @@
 # But not these files...
 .gitignore
 !public/
+!.github/
+!README.md
+!LICENSE.txt
 # etc...
 
