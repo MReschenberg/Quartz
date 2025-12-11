@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "mreschenberg.github.io/Quartz",
     ignorePatterns: ["private", "tempaltes", "Attachments/!(public-|Public-)*.*", "Templates"],
     defaultDateType: "modified",
     theme: {
