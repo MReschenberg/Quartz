@@ -6,6 +6,12 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Private publishing with Quartz, Obsidian, and Github Pages</title>
+    <link>https://mreschenberg.github.io/Quartz/Private-publishing-with-Quartz,-Obsidian,-and-Github-Pages</link>
+    <guid>https://mreschenberg.github.io/Quartz/Private-publishing-with-Quartz,-Obsidian,-and-Github-Pages</guid>
+    <description><![CDATA[ Outcome This guide enables you to publish files from Obsidian to the web, without leaving Obsidian. ]]></description>
+    <pubDate>Fri, 12 Dec 2025 00:08:22 GMT</pubDate>
+  </item><item>
     <title>Morgan&#039;s Obsidian Guide</title>
     <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Morgan's-Obsidian-Guide</link>
     <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Morgan's-Obsidian-Guide</guid>
@@ -17,12 +23,6 @@
     <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Git-Workflow-Notes</guid>
     <description><![CDATA[ Git Workflow Notes General Advice / Differences You’ll want to create a git branch to store work before beginning the work itself. ]]></description>
     <pubDate>Fri, 12 Dec 2025 00:01:17 GMT</pubDate>
-  </item><item>
-    <title>Private publishing with Quartz, Obsidian, and Github Pages</title>
-    <link>https://mreschenberg.github.io/Quartz/Private-publishing-with-Quartz,-Obsidian,-and-Github-Pages</link>
-    <guid>https://mreschenberg.github.io/Quartz/Private-publishing-with-Quartz,-Obsidian,-and-Github-Pages</guid>
-    <description><![CDATA[ The default building and publishing instructions for Quartz and Github Pages assume your markdown files are stored within a public Github repository. ]]></description>
-    <pubDate>Thu, 11 Dec 2025 23:58:38 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://mreschenberg.github.io/Quartz/</link>
