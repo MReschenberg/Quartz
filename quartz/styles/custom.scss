@@ -44,11 +44,30 @@ body {
   .folder-container div > a,
   .folder-container div > button span {
     color: #427b58 !important; // gruvbox faded aqua
+    font-size: 1.01rem !important; // larger folder names
   }
 
   // Active file in explorer uses purple
   .explorer-content ul li > a.active {
     color: #8f3f71 !important; // gruvbox faded purple
+  }
+
+  // Add spacing between sidebar items
+  .explorer-content ul li {
+    margin-bottom: 0.4rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  // Add border above first item
+  .explorer-content ul li:first-child {
+    padding-top: 0.4rem;
+    border-top: 1px solid var(--lightgray);
+  }
+
+  // Remove border from last item
+  .explorer-content ul li:last-child {
+    border-bottom: none;
   }
 
   // Blockquote accent: use blue
@@ -122,11 +141,30 @@ body {
   .folder-container div > a,
   .folder-container div > button span {
     color: #8ec07c !important; // gruvbox bright aqua
+    font-size: 1.1rem !important; // larger folder names
   }
 
   // Active file in explorer uses purple
   .explorer-content ul li > a.active {
     color: #d3869b !important; // gruvbox bright purple
+  }
+
+  // Add spacing between sidebar items
+  .explorer-content ul li {
+    margin-bottom: 0.4rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  // Add border above first item
+  .explorer-content ul li:first-child {
+    padding-top: 0.4rem;
+    border-top: 1px solid var(--lightgray);
+  }
+
+  // Remove border from last item
+  .explorer-content ul li:last-child {
+    border-bottom: none;
   }
 
   // Blockquote accent: use blue
