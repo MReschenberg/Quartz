@@ -31,6 +31,12 @@ body {
 
   // Additional color variety for UI elements
 
+  // Explorer header size
+  .desktop-explorer h2,
+  .mobile-explorer h2 {
+    font-size: 1.2rem !important;
+  }
+
   // Explorer: use aqua/teal for folders
   .folder-icon {
     color: #427b58 !important; // gruvbox faded aqua
@@ -127,6 +133,12 @@ body {
   }
 
   // Additional color variety for UI elements
+
+  // Explorer header size
+  .desktop-explorer h2,
+  .mobile-explorer h2 {
+    font-size: 1.2rem !important;
+  }
 
   // Explorer: use aqua/teal for folders
   .folder-icon {
