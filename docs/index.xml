@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Quartz 4</title>
+      <title>Morgan&#039;s Digital Garden 🪴</title>
       <link>https://mreschenberg.github.io/Quartz</link>
-      <description>Last 10 notes on Quartz 4</description>
+      <description>Last 10 notes on Morgan&#039;s Digital Garden 🪴</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Welcome!</title>
+    <link>https://mreschenberg.github.io/Quartz/Welcome!</link>
+    <guid>https://mreschenberg.github.io/Quartz/Welcome!</guid>
+    <description><![CDATA[ My name is Morgan and this is my website. Please use the sidebar to select something to read. Enjoy!. ]]></description>
+    <pubDate>Fri, 12 Dec 2025 00:45:36 GMT</pubDate>
+  </item><item>
     <title>Mozilla Git Workflow Notes</title>
     <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Mozilla-Git-Workflow-Notes</link>
     <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Mozilla-Git-Workflow-Notes</guid>
@@ -13,33 +19,15 @@
     <pubDate>Fri, 12 Dec 2025 00:16:49 GMT</pubDate>
   </item><item>
     <title>Morgan&#039;s Obsidian Guide</title>
-    <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Morgan's-Obsidian-Guide</link>
-    <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Morgan's-Obsidian-Guide</guid>
+    <link>https://mreschenberg.github.io/Quartz/Infrastructure/Morgan's-Obsidian-Guide</link>
+    <guid>https://mreschenberg.github.io/Quartz/Infrastructure/Morgan's-Obsidian-Guide</guid>
     <description><![CDATA[ Using Obsidian Obsidian is a Swiss army knife. At its core, it is a markdown editor which renders in real time. ]]></description>
     <pubDate>Fri, 12 Dec 2025 00:15:30 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://mreschenberg.github.io/Quartz/</link>
-    <guid>https://mreschenberg.github.io/Quartz/</guid>
-    <description><![CDATA[ I am a home page ? I will make some changes so this shows up online hello world. ]]></description>
-    <pubDate>Thu, 11 Dec 2025 22:41:38 GMT</pubDate>
-  </item><item>
-    <title>I am new</title>
-    <link>https://mreschenberg.github.io/Quartz/I-am-new</link>
-    <guid>https://mreschenberg.github.io/Quartz/I-am-new</guid>
-    <description><![CDATA[ I am a new note that will be published by default, enjoy enjoy ! here are some things I could say Heading two Heading three Heading four Heading Five. ]]></description>
-    <pubDate>Thu, 11 Dec 2025 20:56:46 GMT</pubDate>
-  </item><item>
     <title>Private publishing with Quartz, Obsidian, and Github Pages</title>
-    <link>https://mreschenberg.github.io/Quartz/Private-publishing-with-Quartz,-Obsidian,-and-Github-Pages</link>
-    <guid>https://mreschenberg.github.io/Quartz/Private-publishing-with-Quartz,-Obsidian,-and-Github-Pages</guid>
+    <link>https://mreschenberg.github.io/Quartz/Infrastructure/Private-publishing-with-Quartz,-Obsidian,-and-Github-Pages</link>
+    <guid>https://mreschenberg.github.io/Quartz/Infrastructure/Private-publishing-with-Quartz,-Obsidian,-and-Github-Pages</guid>
     <description><![CDATA[ Outcome This guide enables you to publish files from Obsidian to the web, without leaving Obsidian. ]]></description>
-    <pubDate>Thu, 11 Dec 2025 08:00:00 GMT</pubDate>
-  </item><item>
-    <title>Sample Gist</title>
-    <link>https://mreschenberg.github.io/Quartz/Sample-Gist</link>
-    <guid>https://mreschenberg.github.io/Quartz/Sample-Gist</guid>
-    <description><![CDATA[ 2025-12-11 - Sample Gist Here is some gist-like information I will pubish this, too. ]]></description>
     <pubDate>Thu, 11 Dec 2025 08:00:00 GMT</pubDate>
   </item>
     </channel>

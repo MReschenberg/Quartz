@@ -1,3 +1,165 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Increase body font size for better readability
+body {
+  font-size: 1.1rem;
+}
+
+// Gruvbox heading color differentiation
+:root[saved-theme="light"] {
+  h1 {
+    color: #9d0006 !important; // gruvbox faded red
+  }
+
+  h2 {
+    color: #b57614 !important; // gruvbox faded yellow
+  }
+
+  h3 {
+    color: var(--dark);
+  }
+
+  h4 {
+    color: var(--darkgray);
+  }
+
+  h5, h6 {
+    color: var(--darkgray);
+  }
+
+  // Additional color variety for UI elements
+
+  // Explorer: use aqua/teal for folders
+  .folder-icon {
+    color: #427b58 !important; // gruvbox faded aqua
+  }
+
+  .folder-icon:hover,
+  .folder-container div > a:hover {
+    color: #d65d0e !important; // gruvbox neutral orange (warm and distinct)
+  }
+
+  .folder-container div > a,
+  .folder-container div > button span {
+    color: #427b58 !important; // gruvbox faded aqua
+  }
+
+  // Active file in explorer uses purple
+  .explorer-content ul li > a.active {
+    color: #8f3f71 !important; // gruvbox faded purple
+  }
+
+  // Blockquote accent: use blue
+  blockquote {
+    border-left-color: #076678 !important; // gruvbox faded blue
+  }
+
+  // Search tags: use green
+  .result-card > ul > li > p {
+    color: #79740e !important; // gruvbox faded green
+    &.match-tag {
+      color: #8f3f71 !important; // gruvbox faded purple
+    }
+  }
+
+  // Code highlight borders: use aqua
+  pre > code > [data-line][data-highlighted-line] {
+    border-left-color: #427b58 !important; // gruvbox faded aqua
+  }
+
+  // Site title (Quartz 4): use blue
+  .page-title a {
+    color: #076678 !important; // gruvbox faded blue
+  }
+
+  // Breadcrumbs: use green
+  .breadcrumb-element a {
+    color: #79740e !important; // gruvbox faded green
+  }
+
+  .breadcrumb-element p {
+    color: var(--gray);
+  }
+
+  // Article/document title: keep as H1 color (red)
+}
+
+:root[saved-theme="dark"] {
+  h1 {
+    color: #cc241d !important; // gruvbox neutral red
+  }
+
+  h2 {
+    color: #d79921 !important; // gruvbox neutral yellow
+  }
+
+  h3 {
+    color: var(--dark);
+  }
+
+  h4 {
+    color: var(--darkgray);
+  }
+
+  h5, h6 {
+    color: var(--darkgray);
+  }
+
+  // Additional color variety for UI elements
+
+  // Explorer: use aqua/teal for folders
+  .folder-icon {
+    color: #8ec07c !important; // gruvbox bright aqua
+  }
+
+  .folder-icon:hover,
+  .folder-container div > a:hover {
+    color: #fe8019 !important; // gruvbox bright orange (warm and distinct)
+  }
+
+  .folder-container div > a,
+  .folder-container div > button span {
+    color: #8ec07c !important; // gruvbox bright aqua
+  }
+
+  // Active file in explorer uses purple
+  .explorer-content ul li > a.active {
+    color: #d3869b !important; // gruvbox bright purple
+  }
+
+  // Blockquote accent: use blue
+  blockquote {
+    border-left-color: #83a598 !important; // gruvbox bright blue
+  }
+
+  // Search tags: use green
+  .result-card > ul > li > p {
+    color: #b8bb26 !important; // gruvbox bright green
+    &.match-tag {
+      color: #d3869b !important; // gruvbox bright purple
+    }
+  }
+
+  // Code highlight borders: use aqua
+  pre > code > [data-line][data-highlighted-line] {
+    border-left-color: #8ec07c !important; // gruvbox bright aqua
+  }
+
+  // Site title (Quartz 4): use blue
+  .page-title a {
+    color: #83a598 !important; // gruvbox bright blue
+  }
+
+  // Breadcrumbs: use green
+  .breadcrumb-element a {
+    color: #b8bb26 !important; // gruvbox bright green
+  }
+
+  .breadcrumb-element p {
+    color: var(--gray);
+  }
+
+  // Article/document title: keep as H1 color (red)
+}
