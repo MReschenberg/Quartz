@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - date
+    sort:
+      - property: date
+        direction: ASC
+      - property: file.name
+        direction: ASC
