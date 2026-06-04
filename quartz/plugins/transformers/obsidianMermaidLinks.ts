@@ -24,7 +24,13 @@ export const ObsidianMermaidLinks: QuartzTransformerPlugin = () => {
             if (node.lang !== "mermaid") return
             // Strip [[ and ]] from quoted wiki-link click URLs, leaving a
             // plain relative URL that works in any browser.
-            node.value = node.value.replace(/"(\[\[([^\]]+)\]\])"/g, '"$2"')
+            // OFM's wiki-link processing adds a |display alias before this
+            // plugin sees the node (e.g. [[file#heading]] → [[file#heading|heading]]).
+            // Split on | and keep only the target portion before closing the quote.
+            node.value = node.value.replace(
+              /"(\[\[([^\]]+)\]\])"/g,
+              (_, __, inner) => `"${inner.split("|")[0]}"`,
+            )
           })
         },
       ]

@@ -8,7 +8,7 @@ Intended to run every minute via LaunchAgent.
 """
 
 import os, re, json, glob, subprocess, logging
-from datetime import date, datetime
+from datetime import date, datetime, time as dtime
 
 VAULT = os.path.expanduser("~/Library/Mobile Documents/iCloud~md~obsidian/Documents")
 STATE_FILE = os.path.join(VAULT, "Scripts", "meeting_monitor_state.json")
@@ -59,72 +59,56 @@ def find_next_h2(lines, start):
 
 # ── Calendar ───────────────────────────────────────────────────────────────────
 
-APPLESCRIPT = """
-tell application "Calendar"
-    set today to current date
-    set startOfDay to today - (time of today)
-    set endOfDay to startOfDay + (24 * 60 * 60 - 1)
-    set output to ""
-    repeat with cal in every calendar
-        try
-            set calEvents to (every event of cal whose start date >= startOfDay and start date <= endOfDay)
-            repeat with evt in calEvents
-                set output to output & (summary of evt) & "|" & ((start date of evt) as string) & linefeed
-            end repeat
-        end try
-    end repeat
-    return output
-end tell
-"""
-
-DT_FORMATS = [
-    "%A, %B %d, %Y at %I:%M:%S %p",
-    "%A, %B  %d, %Y at %I:%M:%S %p",  # double-space for single-digit days on some locales
-]
-
-def parse_applescript_date(s):
-    s = s.strip()
-    for fmt in DT_FORMATS:
-        try:
-            return datetime.strptime(s, fmt)
-        except ValueError:
-            pass
-    # Fallback: try removing extra spaces
-    s2 = re.sub(r'\s+', ' ', s)
-    for fmt in DT_FORMATS:
-        try:
-            return datetime.strptime(s2, fmt)
-        except ValueError:
-            pass
-    return None
+CALENDAR_NAME = "Work"
+ICAL_BUDDY    = "/opt/homebrew/bin/icalBuddy"
+ANSI_RE       = re.compile(r'\x1b\[[0-9;]*[a-zA-Z]')
 
 def get_today_events():
+    """Return list of (title, start_datetime) for today's Work calendar events."""
     try:
         out = subprocess.run(
-            ['osascript', '-e', APPLESCRIPT],
-            capture_output=True, text=True, timeout=15
+            [ICAL_BUDDY, "--noColorCodes", "--noPropNames", "eventsToday"],
+            capture_output=True, text=True, timeout=15,
         )
-        if out.returncode != 0 or not out.stdout.strip():
-            return []
-        events = []
-        for line in out.stdout.strip().splitlines():
-            if '|' not in line:
-                continue
-            title, dt_str = line.split('|', 1)
-            dt = parse_applescript_date(dt_str)
-            if dt:
-                events.append((title.strip(), dt))
-        return events
+        raw = ANSI_RE.sub('', out.stdout)
     except Exception as e:
-        log.warning(f"Calendar read failed: {e}")
+        log.warning(f"icalBuddy failed: {e}")
         return []
+
+    events = []
+    today  = date.today()
+    current_title    = None
+    current_calendar = None
+
+    for line in raw.splitlines():
+        # New event header: "• Title (Calendar Name)"
+        m_header = re.match(r'^[•\*]\s+(.+?)\s+\(([^)]+)\)\s*$', line)
+        if m_header:
+            current_title    = m_header.group(1).strip()
+            current_calendar = m_header.group(2).strip()
+            continue
+
+        # Time line: "    9:30 AM - 10:00 AM"  or "    9:30 AM"
+        if current_title and current_calendar == CALENDAR_NAME:
+            m_time = re.match(r'^\s+(\d{1,2}:\d{2}\s*[AP]M)', line)
+            if m_time:
+                try:
+                    t = datetime.strptime(m_time.group(1).strip(), "%I:%M %p")
+                    dt = datetime.combine(today, dtime(t.hour, t.minute))
+                    events.append((current_title, dt))
+                except ValueError:
+                    pass
+                current_title = current_calendar = None
+
+    return events
 
 
 # ── Zoom detection ─────────────────────────────────────────────────────────────
 
-def is_zoom_running():
+def is_zoom_in_meeting():
+    """True only when ZoomHybridConf is running, i.e. actively in a meeting."""
     try:
-        r = subprocess.run(['pgrep', '-i', 'zoom'], capture_output=True)
+        r = subprocess.run(['pgrep', 'ZoomHybridConf'], capture_output=True)
         return r.returncode == 0
     except Exception:
         return False
@@ -215,7 +199,7 @@ def main():
 
     state   = load_state()
     logged  = set(state.get("logged", []))
-    zoom_up = is_zoom_running()
+    zoom_up = is_zoom_in_meeting()
 
     events    = get_today_events()
     new_keys  = []

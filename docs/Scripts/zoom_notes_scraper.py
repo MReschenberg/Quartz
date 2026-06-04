@@ -11,14 +11,16 @@ Usage:
     python3 zoom_notes_scraper.py [--date YYYY-MM-DD] [--headless]
 """
 
-import os, re, glob, argparse, logging
+import os, re, glob, argparse, logging, sqlite3, shutil
 from datetime import date, datetime
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeoutError
 
-VAULT       = os.path.expanduser("~/Library/Mobile Documents/iCloud~md~obsidian/Documents")
-PROFILE_DIR = os.path.join(VAULT, "Scripts", "playwright_firefox_profile")
-LOG_FILE    = os.path.join(VAULT, "Scripts", "zoom_notes_scraper.log")
-ZOOM_NOTES  = "https://hub.zoom.us/notes"
+VAULT          = os.path.expanduser("~/Library/Mobile Documents/iCloud~md~obsidian/Documents")
+LOG_FILE       = os.path.join(VAULT, "Scripts", "zoom_notes_scraper.log")
+ZOOM_NOTES     = "https://hub.zoom.us/notes"
+FF_COOKIES_DB  = os.path.expanduser(
+    "~/Library/Application Support/Firefox/Profiles/6gqnyzas.default-nightly/cookies.sqlite"
+)
 
 logging.basicConfig(
     level=logging.INFO,
@@ -109,7 +111,7 @@ def get_meetings_from_standup(d):
 
 def safe_filename(name, suffix=""):
     """Sanitise a meeting name for use as a filename (no slashes, colons, etc.)."""
-    clean = re.sub(r'[\\/:*?"<>|]', '', name).strip()
+    clean = re.sub(r'[\\/*?"<>|]', '', name.replace(':', '-')).strip()
     if suffix:
         return f"{clean} {suffix}.md"
     return f"{clean}.md"
@@ -223,6 +225,39 @@ def ensure_transcript_expanded(page):
     log.warning("Could not find or expand transcript section")
     return False
 
+def load_zoom_cookies_from_firefox():
+    """Read Zoom session cookies from Firefox Nightly's profile."""
+    tmp = "/tmp/ff_cookies_scraper.sqlite"
+    try:
+        shutil.copy(FF_COOKIES_DB, tmp)
+        con = sqlite3.connect(tmp)
+        rows = con.execute(
+            "SELECT host, path, name, value, expiry, isSecure, isHttpOnly, sameSite "
+            "FROM moz_cookies WHERE host LIKE '%zoom%'"
+        ).fetchall()
+        con.close()
+    except Exception as e:
+        log.warning(f"Could not read Firefox cookies: {e}")
+        return []
+
+    SAME_SITE = {0: "None", 1: "Lax", 2: "Strict"}
+    cookies = []
+    for host, path, name, value, expiry, secure, http_only, same_site in rows:
+        # Playwright requires domain without leading dot for exact-match cookies
+        cookies.append({
+            "name":     name,
+            "value":    value,
+            "domain":   host,
+            "path":     path,
+            "expires":  (expiry // 1000) if expiry > 32503680000 else (expiry if expiry > 0 else -1),
+            "httpOnly": bool(http_only),
+            "secure":   bool(secure),
+            "sameSite": SAME_SITE.get(same_site, "None"),
+        })
+    log.info(f"Loaded {len(cookies)} Zoom cookies from Firefox Nightly")
+    return cookies
+
+
 def scroll_to_load_all(page):
     """Scroll to the bottom to ensure lazy-loaded transcript content is rendered."""
     page.evaluate("""
@@ -258,22 +293,24 @@ def main():
     from collections import Counter
     name_counts = Counter(meetings)
 
-    os.makedirs(PROFILE_DIR, exist_ok=True)
+    zoom_cookies = load_zoom_cookies_from_firefox()
 
     with sync_playwright() as p:
-        context = p.firefox.launch_persistent_context(
-            user_data_dir=PROFILE_DIR,
-            headless=args.headless,
-            slow_mo=200,
-        )
+        browser = p.firefox.launch(headless=args.headless, slow_mo=200)
+        context = browser.new_context()
+
+        # Seed context with existing Zoom session cookies before first navigation
+        if zoom_cookies:
+            context.add_cookies(zoom_cookies)
+
         page = context.new_page()
 
         log.info(f"Navigating to {ZOOM_NOTES}")
         page.goto(ZOOM_NOTES, wait_until="networkidle", timeout=30000)
 
-        # If we land on a login page, pause for the user to authenticate
+        # Fall back to interactive login if cookies didn't carry the session
         if not args.headless and "login" in page.url.lower():
-            log.info("Login required — please sign in to Zoom in the browser window, then press Enter here.")
+            log.info("Cookies didn't carry session — please log in, then press Enter.")
             input("Press Enter after logging in...")
             page.goto(ZOOM_NOTES, wait_until="networkidle", timeout=30000)
 
@@ -319,7 +356,7 @@ def main():
                 f.write(content)
             log.info(f"Saved: {out_path}")
 
-        context.close()
+        browser.close()
 
     log.info("Done.")
 

@@ -11,13 +11,19 @@
         <string>/Users/morganraereschenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents/Scripts/meeting_monitor.py</string>
     </array>
 
-    <!-- Run every 60 seconds -->
-    <key>StartInterval</key>
-    <integer>60</integer>
-
-    <!-- Don't fire at load time -->
-    <key>RunAtLoad</key>
-    <false/>
+    <!--
+        Fire whenever files appear or disappear inside any Zoom "meet/" directory.
+        This happens on meeting join (files created) and leave (files deleted).
+        The script filters to join-only by checking for the ZoomHybridConf process.
+        All four known account meet/ directories are watched so any active account works.
+    -->
+    <key>WatchPaths</key>
+    <array>
+        <string>/Users/morganraereschenberg/Library/Application Support/zoom.us/data/chatcf/jxqizjebtpauvihtlw5x4a@xmpp.zoom.us/meet</string>
+        <string>/Users/morganraereschenberg/Library/Application Support/zoom.us/data/chatcf/6hmk1zrpstqape_feooo6g@xmpp.zoom.us/meet</string>
+        <string>/Users/morganraereschenberg/Library/Application Support/zoom.us/data/chatcf/qa76xbabslspvc3w3m-j6g@xmpp.zoom.us/meet</string>
+        <string>/Users/morganraereschenberg/Library/Application Support/zoom.us/data/chatcf/f9di6hsdr7i3uk8cboboiq@xmpp.zoom.us/meet</string>
+    </array>
 
     <key>StandardOutPath</key>
     <string>/Users/morganraereschenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents/Scripts/meeting_monitor.log</string>
