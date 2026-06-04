@@ -1,0 +1,266 @@
+{
+  "unresolved": [
+    {
+      "id": "1652865822",
+      "uuid": "edc744a8-8ac0-4318-80ee-1d28de89433e",
+      "file_key": "rARttaCzE4SKtIcCVym1OA",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-27T16:07:20.145Z",
+      "resolved_at": null,
+      "message": "In progress as of 2/25 :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "266:5270",
+        "node_offset": {
+          "x": 558,
+          "y": 932
+        },
+        "stable_path": [
+          "266:5270"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1597899833",
+      "uuid": "6e9dea7c-b695-4bc6-9293-684511248b9b",
+      "file_key": "rARttaCzE4SKtIcCVym1OA",
+      "parent_id": "",
+      "user": {
+        "handle": "Laurel Bybee",
+        "img_url": "https://s3-alpha.figma.com/profile/d5c12097-78fa-450d-88de-7df434a78a0a",
+        "id": "1582552736584810535"
+      },
+      "created_at": "2026-01-21T18:07:33.388Z",
+      "resolved_at": null,
+      "message": "How will this work for small files...will it feel slow?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "36:714",
+        "node_offset": {
+          "x": 1286,
+          "y": 109
+        },
+        "stable_path": [
+          "36:714"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1588298922",
+      "uuid": "9e81c3af-5ba0-4cdc-9c04-af8f772fb623",
+      "file_key": "rARttaCzE4SKtIcCVym1OA",
+      "parent_id": "",
+      "user": {
+        "handle": "Laurel Bybee",
+        "img_url": "https://s3-alpha.figma.com/profile/d5c12097-78fa-450d-88de-7df434a78a0a",
+        "id": "1582552736584810535"
+      },
+      "created_at": "2026-01-14T20:52:53.069Z",
+      "resolved_at": null,
+      "message": "This loader bar is only shown for a split second before transitioning to the next screen.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:3892",
+        "node_offset": {
+          "x": 775,
+          "y": 116
+        },
+        "stable_path": [
+          "7:3892"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1588297913",
+      "uuid": "7e27bd83-31cd-4bbc-b478-d24c2f4c4b57",
+      "file_key": "rARttaCzE4SKtIcCVym1OA",
+      "parent_id": "",
+      "user": {
+        "handle": "Laurel Bybee",
+        "img_url": "https://s3-alpha.figma.com/profile/d5c12097-78fa-450d-88de-7df434a78a0a",
+        "id": "1582552736584810535"
+      },
+      "created_at": "2026-01-14T20:52:03.071Z",
+      "resolved_at": null,
+      "message": "We have 2 different loading patterns represented here - download icon filling and the circle loader - why?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2:3859",
+        "node_offset": {
+          "x": 1167,
+          "y": 14
+        },
+        "stable_path": [
+          "2:3859"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1588297133",
+      "uuid": "28661ae1-031b-4754-bd89-f107886c1dd3",
+      "file_key": "rARttaCzE4SKtIcCVym1OA",
+      "parent_id": "",
+      "user": {
+        "handle": "Laurel Bybee",
+        "img_url": "https://s3-alpha.figma.com/profile/d5c12097-78fa-450d-88de-7df434a78a0a",
+        "id": "1582552736584810535"
+      },
+      "created_at": "2026-01-14T20:51:25.978Z",
+      "resolved_at": null,
+      "message": "Can we continue t show loader?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2:3863",
+        "node_offset": {
+          "x": 1159,
+          "y": 16
+        },
+        "stable_path": [
+          "2:3863"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1588296960",
+      "uuid": "d9ebbab5-d38d-4ea7-87de-7c66598d14e4",
+      "file_key": "rARttaCzE4SKtIcCVym1OA",
+      "parent_id": "",
+      "user": {
+        "handle": "Laurel Bybee",
+        "img_url": "https://s3-alpha.figma.com/profile/d5c12097-78fa-450d-88de-7df434a78a0a",
+        "id": "1582552736584810535"
+      },
+      "created_at": "2026-01-14T20:51:18.063Z",
+      "resolved_at": null,
+      "message": "This file can't be downloaded at this state why are we showing completed?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2:3863",
+        "node_offset": {
+          "x": 791,
+          "y": 72
+        },
+        "stable_path": [
+          "2:3863"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1588296286",
+      "uuid": "c10cbb45-da27-479a-bbaa-a5349ddac4c1",
+      "file_key": "rARttaCzE4SKtIcCVym1OA",
+      "parent_id": "",
+      "user": {
+        "handle": "Laurel Bybee",
+        "img_url": "https://s3-alpha.figma.com/profile/d5c12097-78fa-450d-88de-7df434a78a0a",
+        "id": "1582552736584810535"
+      },
+      "created_at": "2026-01-14T20:50:45.902Z",
+      "resolved_at": null,
+      "message": "What is this icon communicating? Is it just used as transition?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:126",
+        "node_offset": {
+          "x": 1159,
+          "y": 14
+        },
+        "stable_path": [
+          "1:126"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1588295477",
+      "uuid": "e0f71e8e-9ceb-49d9-a6c1-4214715ec060",
+      "file_key": "rARttaCzE4SKtIcCVym1OA",
+      "parent_id": "",
+      "user": {
+        "handle": "Laurel Bybee",
+        "img_url": "https://s3-alpha.figma.com/profile/d5c12097-78fa-450d-88de-7df434a78a0a",
+        "id": "1582552736584810535"
+      },
+      "created_at": "2026-01-14T20:50:07.703Z",
+      "resolved_at": null,
+      "message": "Only show 'open file' text after the 1 second security delay",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:128",
+        "node_offset": {
+          "x": 761,
+          "y": 75
+        },
+        "stable_path": [
+          "1:128"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1588294865",
+      "uuid": "3280be55-efa8-4e16-b35a-6b0976d43fb4",
+      "file_key": "rARttaCzE4SKtIcCVym1OA",
+      "parent_id": "",
+      "user": {
+        "handle": "Laurel Bybee",
+        "img_url": "https://s3-alpha.figma.com/profile/d5c12097-78fa-450d-88de-7df434a78a0a",
+        "id": "1582552736584810535"
+      },
+      "created_at": "2026-01-14T20:49:39.323Z",
+      "resolved_at": null,
+      "message": "Only show this state when a user may open file.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:130",
+        "node_offset": {
+          "x": 1154,
+          "y": 14
+        },
+        "stable_path": [
+          "1:130"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1652865822",
+      "uuid": "edc744a8-8ac0-4318-80ee-1d28de89433e",
+      "file_key": "rARttaCzE4SKtIcCVym1OA",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-27T16:07:20.145Z",
+      "resolved_at": null,
+      "message": "In progress as of 2/25 :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "266:5270",
+        "node_offset": {
+          "x": 558,
+          "y": 932
+        },
+        "stable_path": [
+          "266:5270"
+        ]
+      },
+      "order_id": "9"
+    }
+  ]
+}

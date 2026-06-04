@@ -1,0 +1,2982 @@
+{
+  "unresolved": [
+    {
+      "id": "1420535612",
+      "uuid": "21d3a920-0be1-49a5-9d83-a11237169ded",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-09-10T18:56:45.193Z",
+      "resolved_at": null,
+      "message": "@Santiago Andrigo should we add hiding email banners to this list?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10059:44876",
+        "node_offset": {
+          "x": 1038,
+          "y": 429
+        },
+        "stable_path": [
+          "10059:44876"
+        ]
+      },
+      "order_id": "188"
+    },
+    {
+      "id": "1414031550",
+      "uuid": "5a4129e9-f3d0-4ca6-92c1-51380ee8af70",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-09-05T17:34:24.376Z",
+      "resolved_at": null,
+      "message": "Note: this has been postponed (see https://mozilla.slack.com/archives/C4E0W8B8E/p1754948337282049?thread_ts=1753914935.632329&cid=C4E0W8B8E)\n\n@Wolasi Konu - once this becomes ready for review again, feel free to reach out to the Accessibility Team. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9808:39941",
+        "node_offset": {
+          "x": 334,
+          "y": 88
+        },
+        "stable_path": [
+          "9808:39941"
+        ]
+      },
+      "order_id": "187"
+    },
+    {
+      "id": "1378068599",
+      "uuid": "9e4c6091-eae5-45ab-9632-c8b8769d578e",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-08-11T20:55:58.441Z",
+      "resolved_at": null,
+      "message": "Don't like this - the first and the second statements don't have any self-evident relationship to one another.  I like it more when we specifically called out \"Upgrade now to unlock unlimited masks\" (and the CTA should probably say \"Upgrade\").\n\n(I also wouldn't introduce \"block spam\").",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10121:20800",
+        "node_offset": {
+          "x": 370,
+          "y": 264
+        },
+        "stable_path": [
+          "10121:20800"
+        ]
+      },
+      "order_id": "152"
+    },
+    {
+      "id": "1378066287",
+      "uuid": "296ff8b4-dd4b-4b28-8ef8-957ae9b5c0d7",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-08-11T20:53:53.498Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu FYI that Sally wasn't too keen on this icon, as it connoted speed more than anything else (which I agree with).\n\nI don't think you should work on it now, but let's note it for whenever we pick this up again.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10121:20800",
+        "node_offset": {
+          "x": 306,
+          "y": 101
+        },
+        "stable_path": [
+          "10121:20800"
+        ]
+      },
+      "order_id": "151"
+    },
+    {
+      "id": "1378065368",
+      "uuid": "0d0eb62c-a93d-4caa-a0be-56fe608192d7",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-08-11T20:53:05.911Z",
+      "resolved_at": null,
+      "message": "I didn't think this was part of the proposal, right @Wolasi Konu ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10101:9969",
+        "node_offset": {
+          "x": 195,
+          "y": 81
+        },
+        "stable_path": [
+          "10101:9969"
+        ]
+      },
+      "order_id": "150"
+    },
+    {
+      "id": "1377969269",
+      "uuid": "ed715d7d-e757-4089-b3e1-fe89f8dc0f5d",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-08-11T19:33:37.031Z",
+      "resolved_at": null,
+      "message": "The action from a user standpoint continues to be to \"Use an email mask\" as that's what contextually they want to do on the login field. \n\nChanging this to \"Get unlimited masks\" seems out of place, given they only want one and they are not necessarily aware (yet) why they should think of it as \"unlimited masks\". That's what they learn in the next panel.\n\nTL;DR: I think we should keep things as they are here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10101:9969",
+        "node_offset": {
+          "x": 176,
+          "y": 47
+        },
+        "stable_path": [
+          "10101:9969"
+        ]
+      },
+      "order_id": "149"
+    },
+    {
+      "id": "1377962562",
+      "uuid": "df750741-f14d-4211-91fa-1f1562ed63c6",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-08-11T19:28:07.435Z",
+      "resolved_at": null,
+      "message": "I'm not sure this is consistent. The subtitle is used to designate that what follows is the Relay section, but here we are transforming it into an actual message.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-08-11T21:35:21.928Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10101:9969",
+        "node_offset": {
+          "x": 118,
+          "y": 11
+        },
+        "stable_path": [
+          "10101:9969"
+        ]
+      },
+      "order_id": "148"
+    },
+    {
+      "id": "1365949187",
+      "uuid": "a90ce139-a43d-4352-a048-da74e5c6b860",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-08-01T15:46:03.824Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi @Natalie Stroud what would be the best way to annotate this list of masks a user has previously created? Should screen readers read out the email mask addresses? Or should they reference the domain the mask was created for instead?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9808:41541",
+        "node_offset": {
+          "x": 397,
+          "y": 180
+        },
+        "stable_path": [
+          "9808:41541"
+        ]
+      },
+      "order_id": "147"
+    },
+    {
+      "id": "1364638609",
+      "uuid": "8ad8f7f7-a01b-4d64-829f-ab449b7d948c",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-07-31T20:23:02.919Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu Here's the one recommended version reflecting edits and comments from Laura and Jeff",
+      "reactions": [
+        {
+          "emoji": ":pray::skin-tone-5:",
+          "created_at": "2025-08-01T01:58:11.002Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10101:9683",
+        "node_offset": {
+          "x": 481,
+          "y": 54
+        },
+        "stable_path": [
+          "10101:9683"
+        ]
+      },
+      "order_id": "146"
+    },
+    {
+      "id": "1364610686",
+      "uuid": "972f3b3a-b84d-4f01-94fe-8c30b0be5deb",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-07-31T19:59:02.805Z",
+      "resolved_at": null,
+      "message": "Maybe remove \"billing\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10075:44262",
+        "node_offset": {
+          "x": 660,
+          "y": 194
+        },
+        "stable_path": [
+          "10075:44262"
+        ]
+      },
+      "order_id": "145"
+    },
+    {
+      "id": "1364607207",
+      "uuid": "d0544c67-4cfe-4204-a26d-ff649f4a8622",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T19:56:10.120Z",
+      "resolved_at": null,
+      "message": "I think you don't need this copy",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-08-11T21:20:56.952Z",
+          "user": {
+            "id": "1138649166372164567",
+            "handle": "Santiago Andrigo",
+            "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10075:45860",
+        "node_offset": {
+          "x": 493,
+          "y": 499
+        },
+        "stable_path": [
+          "10075:45860"
+        ]
+      },
+      "order_id": "144"
+    },
+    {
+      "id": "1364606880",
+      "uuid": "a7bdba95-c776-49a1-b803-14bb351ed667",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T19:55:54.092Z",
+      "resolved_at": null,
+      "message": "Save 50% on your current unlimited masks",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10075:44262",
+        "node_offset": {
+          "x": 336,
+          "y": 200
+        },
+        "stable_path": [
+          "10075:44262"
+        ]
+      },
+      "order_id": "143"
+    },
+    {
+      "id": "1364604063",
+      "uuid": "ea0ef8ea-1879-4f19-8225-485dc5386268",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T19:53:28.362Z",
+      "resolved_at": null,
+      "message": "Upgrade",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-08-11T21:11:50.925Z",
+          "user": {
+            "id": "1138649166372164567",
+            "handle": "Santiago Andrigo",
+            "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9870:27360",
+        "node_offset": {
+          "x": 1229,
+          "y": 190
+        },
+        "stable_path": [
+          "9870:27360"
+        ]
+      },
+      "order_id": "141"
+    },
+    {
+      "id": "1364603932",
+      "uuid": "f01a2c22-3cf1-4ae8-b999-a53922a962c9",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T19:53:21.041Z",
+      "resolved_at": null,
+      "message": "Unlock unlimited masks and more",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-08-11T21:11:47.191Z",
+          "user": {
+            "id": "1138649166372164567",
+            "handle": "Santiago Andrigo",
+            "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9870:27360",
+        "node_offset": {
+          "x": 479,
+          "y": 196
+        },
+        "stable_path": [
+          "9870:27360"
+        ]
+      },
+      "order_id": "140"
+    },
+    {
+      "id": "1364603368",
+      "uuid": "3ee5d8b4-f504-4c8e-a988-f8531a6d84cb",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-07-31T19:52:54.731Z",
+      "resolved_at": null,
+      "message": "Would also remove the \"and more\" piece here.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-07-31T20:14:19.252Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10075:45477",
+        "node_offset": {
+          "x": 620,
+          "y": 191
+        },
+        "stable_path": [
+          "10075:45477"
+        ]
+      },
+      "order_id": "139"
+    },
+    {
+      "id": "1364603157",
+      "uuid": "299301d3-f888-4d00-b78c-8fd8e4415dee",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T19:52:43.604Z",
+      "resolved_at": null,
+      "message": "I would just say \"Get these benefits\", since there's a tier called \"Premium\"",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-08-11T21:11:58.453Z",
+          "user": {
+            "id": "1138649166372164567",
+            "handle": "Santiago Andrigo",
+            "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968"
+          }
+        },
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-07-31T20:13:36.087Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9870:26881",
+        "node_offset": {
+          "x": 895,
+          "y": 300
+        },
+        "stable_path": [
+          "9870:26881"
+        ]
+      },
+      "order_id": "138"
+    },
+    {
+      "id": "1364602876",
+      "uuid": "2860277a-a97d-4091-ac78-6450e2585fe7",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-07-31T19:52:29.525Z",
+      "resolved_at": null,
+      "message": "I don't prefer this version because it repeats \"unlimited masks\" twice in one line.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-07-31T19:53:48.507Z",
+          "user": {
+            "id": "1083509274597697392",
+            "handle": "Jeff Pfaller",
+            "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10075:45477",
+        "node_offset": {
+          "x": 1273,
+          "y": 171
+        },
+        "stable_path": [
+          "10075:45477"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "1364602512",
+      "uuid": "94ca1423-a8f3-4469-9aa4-b2edc24bb58a",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T19:52:11.541Z",
+      "resolved_at": null,
+      "message": "This feels kind of vague and like it hides some of the value. What about \"Upgrade with phone masks, VPN, and more\"",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-07-31T20:13:28.382Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9870:26881",
+        "node_offset": {
+          "x": 963,
+          "y": 646
+        },
+        "stable_path": [
+          "9870:26881"
+        ]
+      },
+      "order_id": "136"
+    },
+    {
+      "id": "1364601523",
+      "uuid": "23bdacf6-16a2-4346-93c2-f2532b98079a",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-07-31T19:51:22.759Z",
+      "resolved_at": null,
+      "message": "Wonder if we can cut the \"and more\" here to tighten up.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-08-11T21:13:28.777Z",
+          "user": {
+            "id": "1138649166372164567",
+            "handle": "Santiago Andrigo",
+            "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968"
+          }
+        },
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-07-31T20:14:11.171Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10075:45104",
+        "node_offset": {
+          "x": 603,
+          "y": 381
+        },
+        "stable_path": [
+          "10075:45104"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "1364601057",
+      "uuid": "01fe2450-02dd-4e48-9253-2c4437640ac3",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T19:50:58.727Z",
+      "resolved_at": null,
+      "message": "Right now it's apples vs. oranges. I would show the monthly price in bold and then maybe have smaller text noting how much the yearly bill is.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9870:26881",
+        "node_offset": {
+          "x": 231,
+          "y": 572
+        },
+        "stable_path": [
+          "9870:26881"
+        ]
+      },
+      "order_id": "134"
+    },
+    {
+      "id": "1364585897",
+      "uuid": "2058bc8b-ff18-4f84-80eb-c392f876038d",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T19:38:30.416Z",
+      "resolved_at": null,
+      "message": "I like mentioning the number.",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-07-31T19:38:43.330Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        },
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-07-31T20:10:07.090Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10090:9356",
+        "node_offset": {
+          "x": 179,
+          "y": 292
+        },
+        "stable_path": [
+          "10090:9356"
+        ]
+      },
+      "order_id": "132"
+    },
+    {
+      "id": "1364580836",
+      "uuid": "11c3404b-ed0a-4ce5-a8ae-74d6a1de95f5",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T19:34:07.247Z",
+      "resolved_at": null,
+      "message": "I wonder if having this header show the count is a way of reinforcing the idea that you're out, plus as the number goes down, it primes the user that there's a limit.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10099:9363",
+        "node_offset": {
+          "x": 814,
+          "y": 146
+        },
+        "stable_path": [
+          "10099:9363"
+        ]
+      },
+      "order_id": "131"
+    },
+    {
+      "id": "1364577956",
+      "uuid": "6635e393-e44b-4dd2-abe8-734ee8a919f4",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T19:31:38.113Z",
+      "resolved_at": null,
+      "message": "Maybe having an icon here would be good? @Wolasi Konu",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-07-31T20:18:32.051Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10099:9363",
+        "node_offset": {
+          "x": 99,
+          "y": 199
+        },
+        "stable_path": [
+          "10099:9363"
+        ]
+      },
+      "order_id": "130"
+    },
+    {
+      "id": "1364567287",
+      "uuid": "cfab2266-e433-4af3-bb91-fe9a350e8300",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-07-31T19:23:03.232Z",
+      "resolved_at": null,
+      "message": "Alt riff that leans away from pointing out they've reached the limit:\n\nGet more masks to stay private on the web (this could also cut out the first part in the body copy)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9854:23302",
+        "node_offset": {
+          "x": 332,
+          "y": 132
+        },
+        "stable_path": [
+          "9854:23302"
+        ]
+      },
+      "order_id": "129"
+    },
+    {
+      "id": "1364567181",
+      "uuid": "09762069-3e98-481b-ac84-c435543727cc",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T19:22:59.099Z",
+      "resolved_at": null,
+      "message": "Alt: \"Manage email masks\" Subcopy \"All free masks used\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9943:31203",
+        "node_offset": {
+          "x": 717,
+          "y": 3893
+        },
+        "stable_path": [
+          "9943:31203"
+        ]
+      },
+      "order_id": "128"
+    },
+    {
+      "id": "1364565886",
+      "uuid": "c25defc0-b633-4433-85df-ceeb9b077a49",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T19:21:59.186Z",
+      "resolved_at": null,
+      "message": "Another headline riff that's more positive. \"Maximize your privacy with unlimited masks\" (and then add that you're out to body copy.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9943:31203",
+        "node_offset": {
+          "x": 1314,
+          "y": 4110
+        },
+        "stable_path": [
+          "9943:31203"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "1364564923",
+      "uuid": "6364af3b-45f8-48f7-b04d-f108b707f8ff",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T19:21:15.156Z",
+      "resolved_at": null,
+      "message": "Alt: You don't have any masks left. OR You've used all your free masks.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9943:31203",
+        "node_offset": {
+          "x": 855,
+          "y": 4119
+        },
+        "stable_path": [
+          "9943:31203"
+        ]
+      },
+      "order_id": "126"
+    },
+    {
+      "id": "1364562989",
+      "uuid": "199ed800-4e73-4945-9403-8ae967ecfd35",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T19:19:46.047Z",
+      "resolved_at": null,
+      "message": "Alt: Use a mask from another site:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9943:31203",
+        "node_offset": {
+          "x": 1473,
+          "y": 4005
+        },
+        "stable_path": [
+          "9943:31203"
+        ]
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "1364562527",
+      "uuid": "bcd293c6-3e7a-4ebe-ba1e-53ac9dd0c3c3",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T19:19:24.663Z",
+      "resolved_at": null,
+      "message": "A riff on the CTA: Unlock unlimited masks",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-07-31T20:06:55.829Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9943:31203",
+        "node_offset": {
+          "x": 1325,
+          "y": 4233
+        },
+        "stable_path": [
+          "9943:31203"
+        ]
+      },
+      "order_id": "124"
+    },
+    {
+      "id": "1364560224",
+      "uuid": "18ab4659-6d1f-4119-b00a-9dd1a1d9fb87",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T19:17:34.950Z",
+      "resolved_at": null,
+      "message": "To make yourself harder to track across the web, use a different mask for every site. @Wolasi Konu",
+      "reactions": [
+        {
+          "emoji": ":zap:",
+          "created_at": "2025-07-31T20:07:12.139Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9943:31248",
+        "node_offset": {
+          "x": 161,
+          "y": 307
+        },
+        "stable_path": [
+          "9943:31248"
+        ]
+      },
+      "order_id": "123"
+    },
+    {
+      "id": "1343136944",
+      "uuid": "6d4f79dd-ea13-4fd6-a59b-90352cc6b539",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-07-16T22:11:29.366Z",
+      "resolved_at": null,
+      "message": "@Luke Crouch Could we create a query that tell us - for users who have 4 email masks - how many emails they've had relayed thus far? My concern is that that stat will be very poor most of times and not impressive.\n\n(I don't say \"5 email masks\" because that will be polluted by folks who are at 5 forever)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9938:19246",
+        "node_offset": {
+          "x": 573,
+          "y": 217
+        },
+        "stable_path": [
+          "9938:19246"
+        ]
+      },
+      "order_id": "105"
+    },
+    {
+      "id": "1343135226",
+      "uuid": "903b0197-173a-42cb-a6d7-fc4bb56486f7",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-07-16T22:09:09.724Z",
+      "resolved_at": null,
+      "message": "Not super convinced about this text.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9938:19246",
+        "node_offset": {
+          "x": 654,
+          "y": 358
+        },
+        "stable_path": [
+          "9938:19246"
+        ]
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "1342985295",
+      "uuid": "62560614-8dde-4cf1-ac77-90911586e3b9",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-07-16T19:47:48.105Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu Here's another take. I'm basically using the same text as before. Of note, I added an \"Upgrade\" link telling them to upgrade without a link seems wrong. wdyt?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9933:19960",
+        "node_offset": {
+          "x": 344,
+          "y": 29
+        },
+        "stable_path": [
+          "9933:19960"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "1302783648",
+      "uuid": "a16b5657-0fea-4151-b377-0a3fb27dfcfa",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2025-06-17T16:26:48.665Z",
+      "resolved_at": null,
+      "message": "AND they are human-readable / you can name them - there's a UX incentive for the upgrade beyond just the sheer # of masks",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 3437,
+          "y": 980
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1302782938",
+      "uuid": "bbf07c08-0070-4895-bba4-8de98fa985c5",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2025-06-17T16:26:22.697Z",
+      "resolved_at": null,
+      "message": "Would be nice to explain why - in that the more you use any one mask, the more it turns into a simple email alias / alternative email that accumulates data about you that can be turned into an advertising profile and sold. This obv isn't the best user-facing language, but.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-06-23T23:08:01.969Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 3410,
+          "y": 900
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1302780892",
+      "uuid": "103f5652-31e4-4942-a3b2-9ca3c98cdcc2",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2025-06-17T16:25:06.253Z",
+      "resolved_at": null,
+      "message": "I think these proposals all make sense. My big Q is higher level - is running out of masks the primary incentive for folks to upgrade to Premium? I thought most folks are only using like 2 masks. What does the telemetry say here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 2379,
+          "y": 1740
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1302737787",
+      "uuid": "3219d40c-8ebc-490a-83a9-6af077175926",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-17T15:59:19.172Z",
+      "resolved_at": null,
+      "message": "Wonder if we can lead with the benefit instead of emphasizing the upgrade? \n\nRiffs that have not been vetted/critiqued: \nBoost your privacy with unlimited masks\nTake control of your privacy with unlimited masks \nEtc. \n\nMad libs style:\nHow a mask helps + unlimited masks",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-06-17T19:43:20.048Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9598:4552",
+        "node_offset": {
+          "x": 5410,
+          "y": 573
+        },
+        "stable_path": [
+          "9598:4552"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1302735928",
+      "uuid": "9369326c-5781-41da-93d9-2478a9cc95b6",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2025-06-17T15:58:20.180Z",
+      "resolved_at": null,
+      "message": "I really like this version, feels very clean and nonintrusive:raised_hands:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4552",
+        "node_offset": {
+          "x": 5691,
+          "y": 464
+        },
+        "stable_path": [
+          "9598:4552"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1302726962",
+      "uuid": "85ad2d9e-1779-452a-9b74-48444464ebcc",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-06-17T15:53:27.036Z",
+      "resolved_at": null,
+      "message": "Curious if this type of layout would create a behavior where the user can game the system and make it too easy for the user to just keep reusing/not giving them  incentive to upgrade.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4552",
+        "node_offset": {
+          "x": 3928,
+          "y": 641
+        },
+        "stable_path": [
+          "9598:4552"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "1302726827",
+      "uuid": "b7ab3a9f-a216-48c3-859d-c40dd2a01c5c",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-17T15:53:22.809Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu I mentioned this previously but could we use the copy icon here to show that it's copyable when selected?",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-06-17T16:11:08.888Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9598:4552",
+        "node_offset": {
+          "x": 3824,
+          "y": 658
+        },
+        "stable_path": [
+          "9598:4552"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "1302725707",
+      "uuid": "b38fd893-c0bc-41ec-ab49-9b8ede39d192",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-17T15:52:48.316Z",
+      "resolved_at": null,
+      "message": "Maybe worth describing the \"what's in it for me\" for users vs. just saying it's secure.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-06-17T16:10:45.832Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9598:4552",
+        "node_offset": {
+          "x": 7313,
+          "y": 569
+        },
+        "stable_path": [
+          "9598:4552"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1302722111",
+      "uuid": "34150984-0618-4106-b9c9-4a61dce31d40",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-06-17T15:50:54.522Z",
+      "resolved_at": null,
+      "message": "This isn't vital, but would be nice to have an icon here for consistency",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4552",
+        "node_offset": {
+          "x": 581,
+          "y": 1049
+        },
+        "stable_path": [
+          "9598:4552"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1302708249",
+      "uuid": "558349e2-aabd-4cf7-8d69-d9e10dc846e3",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-17T15:43:46.542Z",
+      "resolved_at": null,
+      "message": "Click = not accessible language",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4552",
+        "node_offset": {
+          "x": 3687,
+          "y": 616
+        },
+        "stable_path": [
+          "9598:4552"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1302690886",
+      "uuid": "3c0f9159-2b26-4b09-97d0-3763de7a9030",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-06-17T15:34:48.096Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu let's make these UI snippets consistent in look and feel\n\ncc @Diana Horn",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 2289,
+          "y": 993
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1301233946",
+      "uuid": "9453ce8d-d4ba-41b4-916c-f2c87cf1e2f2",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-16T22:56:04.753Z",
+      "resolved_at": null,
+      "message": "Since this is early on in the onboarding journey, maybe it's worth it to spell it out for users. \n\nRiff: \nWant to minimize social media notifications in your inbox? Use an email mask when signing up for a social account or when getting notification emails so you can stay safe, organized, and in control of your online identity.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 1397,
+          "y": 1085
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1301225187",
+      "uuid": "539c1053-8127-456c-a3d3-a5d8f7652271",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-16T22:40:59.801Z",
+      "resolved_at": null,
+      "message": "Would recommend against mask reuse since that distances them from upgrading.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 3282,
+          "y": 906
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1301224825",
+      "uuid": "97419cf2-a677-4ab4-845d-917f0b8922d9",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-16T22:40:26.769Z",
+      "resolved_at": null,
+      "message": "Could we maybe put this in the header instead as a log in? Since we want to discourage mask reuse.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 3377,
+          "y": 596
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1301224590",
+      "uuid": "de9d4c9f-e2db-4151-bb4b-f042e82aa2e9",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-16T22:40:05.312Z",
+      "resolved_at": null,
+      "message": "I'll have to look in the research but can't remember what pushes folks to upgrade. The fact that they run out of masks? If so, then yes, we'd want to emphasize they're out of masks. \n\nIf not, maybe we emphasize a diff val prop here.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-06-17T02:21:33.537Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 3660,
+          "y": 491
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1301222761",
+      "uuid": "b9c3615a-d024-402f-8c31-cedf1fe81bfa",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-16T22:36:58.808Z",
+      "resolved_at": null,
+      "message": "Would not call out tap or the button since some people use voice commands (a11y)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 2102,
+          "y": 1562
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1301222583",
+      "uuid": "e7a071cd-3e12-4e0c-9dfc-238c8fd85ca9",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-16T22:36:38.625Z",
+      "resolved_at": null,
+      "message": "Select \"Generate new mask\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 2487,
+          "y": 1157
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1301222267",
+      "uuid": "f869b873-56b3-430b-8ec8-739b94c09d4d",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-16T22:36:06.950Z",
+      "resolved_at": null,
+      "message": "No ellipses here. A period is fine.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 3427,
+          "y": 805.998046875
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1301222128",
+      "uuid": "38243b01-7dc2-4e85-ba49-b11ec38dfe6b",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-16T22:35:50.491Z",
+      "resolved_at": null,
+      "message": "Is there a reason to spell out the URL vs. just linking to it as a text link?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 3400,
+          "y": 769.998046875
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1301221735",
+      "uuid": "67a3f4dc-ed7f-428f-bc0a-8783b1961701",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-16T22:35:09.261Z",
+      "resolved_at": null,
+      "message": "Riffs: \n\nOur favorite ways to use email masks\nCommon uses for email masks \nEveryday uses for email masks\nIdeas for how to use your email masks",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 1573,
+          "y": 511
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1301220147",
+      "uuid": "e08d8bae-d28d-4489-80a0-38bc66179f0c",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-16T22:32:30.998Z",
+      "resolved_at": null,
+      "message": "Header could focus on the benefit vs. simply upgrading \n\nSome riffs: \nNeed more masks? Try premium \nWant to get unlimited masks? Try premium\nHave more uses for masks? Try premium \netc.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-06-17T01:53:27.587Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 1456,
+          "y": 1400
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1301219338",
+      "uuid": "626ea893-8ddf-4fb3-aa97-4babdce8b768",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-16T22:31:14.608Z",
+      "resolved_at": null,
+      "message": "Need to share your email address with people you don't know? Whether you're selling something, networking with others, or posting on a forum, masks keep your identity private. \n\nI'd leave out the \"if things get weird\" piece.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-06-17T01:52:39.625Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        },
+        {
+          "emoji": ":sweat_smile:",
+          "created_at": "2025-06-17T01:52:42.293Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 1564,
+          "y": 1161
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1301217202",
+      "uuid": "9ced896c-47ae-4b4e-ab34-d4eaa95a7446",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-16T22:28:01.244Z",
+      "resolved_at": null,
+      "message": "\"Chat with strangers\" is a bit odd wording...",
+      "reactions": [
+        {
+          "emoji": ":sweat_smile:",
+          "created_at": "2025-06-17T01:46:46.929Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 1590,
+          "y": 1074
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1301216633",
+      "uuid": "45eb20d0-277a-47a5-b81e-7a53492f17ff",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-16T22:27:07.630Z",
+      "resolved_at": null,
+      "message": "Do we want to emphasize deleting email masks? Also, the headline + body seem disjointed. We talk about newsletters here but the focus seems to be on getting the deal (which, IMO, is the stronger point here.)\n\nRiff: \nGet the coupon code without getting spam\n* Use an email mask to get special newsletter-only offers, like coupon codes. No need to use your real email address.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-06-17T01:51:20.990Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 1579,
+          "y": 943
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1301214797",
+      "uuid": "452bb284-c7cc-42b6-ad7c-9840b2eae0ff",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-16T22:24:18.731Z",
+      "resolved_at": null,
+      "message": "Since someone is a free user, \"disposable addresses\" make it sound like they have a ton to use which isn't necessarily true. \n\nSome riffs: \nEmail masks give you the option to hide your address and only get the emails you want, like receipts or order confirmations.\n^ Emphasizes control over what you do want vs. not",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 1573,
+          "y": 731
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "1282275690",
+      "uuid": "94385a51-7155-4fd7-bb41-d604bec49da5",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-02T20:25:22.770Z",
+      "resolved_at": null,
+      "message": "What does this look like on mobile?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9437:2457",
+        "node_offset": {
+          "x": 521,
+          "y": 62
+        },
+        "stable_path": [
+          "9437:2457"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1282275416",
+      "uuid": "5f2b1199-f5b9-4b97-acf4-8a5fc0104a13",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-02T20:25:08.753Z",
+      "resolved_at": null,
+      "message": "Would reco much, much shorter content to support scanning reading behavior",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-06-02T20:36:22.550Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9437:2457",
+        "node_offset": {
+          "x": 405,
+          "y": 860
+        },
+        "stable_path": [
+          "9437:2457"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "1274807065",
+      "uuid": "38d4cdb4-e7be-4d01-a3a1-88258e6f20da",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-27T21:26:01.618Z",
+      "resolved_at": null,
+      "message": "Is there rationale behind having a hero image in the first email vs. second?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9437:2457",
+        "node_offset": {
+          "x": 654,
+          "y": 76
+        },
+        "stable_path": [
+          "9437:2457"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1274805791",
+      "uuid": "dd798d2f-8194-4a71-ab5f-985d8f8c3f37",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-27T21:24:43.739Z",
+      "resolved_at": null,
+      "message": "Do we want to have an ask for users to upgrade to premium right in their first onboarding email? \n\nWondering if this is better suited later in the email drip. My hunch is it'll get so few clicks if users are super new.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9437:2407",
+        "node_offset": {
+          "x": 641,
+          "y": 1030
+        },
+        "stable_path": [
+          "9437:2407"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1274804794",
+      "uuid": "b167796d-696d-4368-8905-b17d60a7d4ad",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-27T21:23:41.213Z",
+      "resolved_at": null,
+      "message": "Would reco deleting the line about receiving it in error unless we know that happens a lot and we need to inform users.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9437:2407",
+        "node_offset": {
+          "x": 556,
+          "y": 1499
+        },
+        "stable_path": [
+          "9437:2407"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1274803276",
+      "uuid": "b844d70b-1a26-476c-bb79-eb1d47325e24",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-27T21:22:06.759Z",
+      "resolved_at": null,
+      "message": "Maybe a riff is \"Use a new mask each time to make it harder for scammers and trackers to follow you online\" <- could be a powerful motivator to get ppl to use a unique mask.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9437:2407",
+        "node_offset": {
+          "x": 633,
+          "y": 556
+        },
+        "stable_path": [
+          "9437:2407"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1274801847",
+      "uuid": "4b2b03a1-3ad0-4374-ab63-7e9b690bb4b2",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-27T21:20:41.777Z",
+      "resolved_at": null,
+      "message": "This only accounts for a sign up flow. Maybe we also want to call out situations like signing up for a newsletter to get a coupon code or simply buying something online",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9437:2407",
+        "node_offset": {
+          "x": 648,
+          "y": 489
+        },
+        "stable_path": [
+          "9437:2407"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1274798769",
+      "uuid": "e57cd0c3-76c5-4be6-a2fa-ab9175dd223d",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-27T21:17:37.519Z",
+      "resolved_at": null,
+      "message": "Likely can't use absolutes like this \"Your email address is safe\" bc we can't guarantee that\n\nSome quick riffs\n* Your email address is protected: use an email mask to hide your read address and get the emails you care about\n* Mask your email to protect your inbox: email masks hide your real address from online retailers, newsletters, and more",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9437:2407",
+        "node_offset": {
+          "x": 311,
+          "y": 157
+        },
+        "stable_path": [
+          "9437:2407"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1223750039",
+      "uuid": "782990d9-2b87-4746-9be0-b42f3e9cda12",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-04-19T01:56:57.667Z",
+      "resolved_at": null,
+      "message": "When a user clicks here, do they go to the upselling page or to the modal that shows them their existing masks? Based on the text I'd think it's the former, and it feels a bit aggressive. \n\nRight now users can 'request a new mask' and they get the 'you've reached the 5 masks limit' modal, that tells them to upgrade OR to reuse a mask.\n\nI think we should do a better job at advising them NOT to use masks in this modal, BUT I think it should still be possible for them to do so. Otherwise this will look like a permanent banner for Relay Premium on every login field (unless they delete a mask and \"make space\").\n\nAlso, I would rather a user dealt with the pain of needing to click once to request a mask, be reminded that it's a bad idea to reuse, and select a mask they've already created. They will feel that they are doing a smart financial thing and continue using Relay until they think of it as second nature. At some point, the needless friction + love for the product will convince them to get Relay premium.\n\n@Luke Crouch @Wolasi Konu @Laura Lopez",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-04-19T15:09:25.360Z",
+          "user": {
+            "id": "908394248768663776",
+            "handle": "Luke Crouch",
+            "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9333:1554",
+        "node_offset": {
+          "x": 233,
+          "y": 1834
+        },
+        "stable_path": [
+          "9333:1554"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1223749150",
+      "uuid": "f15734d2-3819-456a-a771-d3ebafd9f32d",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-04-19T01:46:36.377Z",
+      "resolved_at": null,
+      "message": "This is part of free Relay. Let's remove it.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-04-19T15:15:14.472Z",
+          "user": {
+            "id": "908394248768663776",
+            "handle": "Luke Crouch",
+            "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9284:1731",
+        "node_offset": {
+          "x": 1080,
+          "y": 2867
+        },
+        "stable_path": [
+          "9284:1731"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1223749071",
+      "uuid": "00736db2-6868-4ea9-b12b-569395e0e6d6",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-04-19T01:45:43.845Z",
+      "resolved_at": null,
+      "message": "@Ludwig Fichte I don't have the survey top of mind, but do you think it might help us know how to sort-rank the value props of Relay Premium?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9284:1731",
+        "node_offset": {
+          "x": 1354,
+          "y": 1981
+        },
+        "stable_path": [
+          "9284:1731"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1223749014",
+      "uuid": "188da87d-aa3b-4c1a-bdcc-9aec173f10f0",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-04-19T01:45:03.119Z",
+      "resolved_at": null,
+      "message": "This is a critique to our current website. I feel that we use a lot of real estate for illustrations that don't really help convey the points. Let's see if we can come up with more helpful imagery.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9284:1731",
+        "node_offset": {
+          "x": 1354,
+          "y": 933
+        },
+        "stable_path": [
+          "9284:1731"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1223748675",
+      "uuid": "ac7812d3-32e2-4678-b710-32eea31672f5",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-04-19T01:41:20.625Z",
+      "resolved_at": null,
+      "message": "Simpler. The user has just hit the limit of 5 masks and is curious to see what they get with Premium Relay. We showed them all the benefits of Premium Relay Email. Let's not confuse them in the end offering them other options.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9284:1731",
+        "node_offset": {
+          "x": 1342,
+          "y": 3414
+        },
+        "stable_path": [
+          "9284:1731"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1223748568",
+      "uuid": "1c1263e6-a9d0-42b7-9a25-fb1c41830c46",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-04-19T01:40:08.482Z",
+      "resolved_at": null,
+      "message": ":clap::clap::clap:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2902:842",
+        "node_offset": {
+          "x": 5981,
+          "y": 967
+        },
+        "stable_path": [
+          "2902:842"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1217850075",
+      "uuid": "36b83db5-c5b0-4731-9997-2eab99b04b46",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-15T13:21:35.320Z",
+      "resolved_at": null,
+      "message": "May need more of a framing/intro at the beginning. \n\nThanks for trying out Firefox Relay. You've used your 5 free email masks which help protect your real email address from spam.   Learn more about masks and how they're a powerful tool to protect your identity online.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9272:14155",
+        "node_offset": {
+          "x": 31,
+          "y": -5440
+        },
+        "stable_path": [
+          "9272:14155"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1216656595",
+      "uuid": "1824cfdd-38ac-4630-8190-027714fd2f93",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-14T21:43:31.879Z",
+      "resolved_at": null,
+      "message": "Made a tweak the language: \n\"You've used your 5 free email masks.\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9272:14155",
+        "node_offset": {
+          "x": 556,
+          "y": 154
+        },
+        "stable_path": [
+          "9272:14155"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1210651113",
+      "uuid": "f8674db0-54e7-4389-8ea2-64cb1a84568f",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-09T21:36:48.058Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu \"More protection with unlimited masks\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9286:1371",
+        "node_offset": {
+          "x": 331,
+          "y": 282
+        },
+        "stable_path": [
+          "9286:1371"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1210531143",
+      "uuid": "29867ddd-bbfa-4efa-938a-21cbf32b20fc",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-09T19:54:40.704Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez @Wolasi Konu Could we make this celebrate/encourage the usage of masks, aka positive reinforce that they are doing good behavior and continue being smart with your privacy?",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-04-09T21:40:33.043Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9224:2282",
+        "node_offset": {
+          "x": 508,
+          "y": 267
+        },
+        "stable_path": [
+          "9224:2282"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1210528715",
+      "uuid": "b50fc0fc-a3f1-4d09-b4a7-2eb821a5382e",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-09T19:52:49.882Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu @Laura Lopez Is it possible to frame this section as what you can do vs just FAQs? Can we illicit the need to respond?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-04-14T21:44:18.732Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9272:14155",
+        "node_offset": {
+          "x": 262,
+          "y": 361
+        },
+        "stable_path": [
+          "9272:14155"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1210526435",
+      "uuid": "0681e6dd-1f6d-4429-8ae2-2857c1be8a69",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-09T19:51:05.644Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu Is there a way to make this have a stronger call to action and still be considered \"transactional\".",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9272:14155",
+        "node_offset": {
+          "x": 441,
+          "y": 263
+        },
+        "stable_path": [
+          "9272:14155"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1210524988",
+      "uuid": "867b53e9-d183-453b-89d5-c41b04084c99",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-09T19:50:02.956Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu In the same vein as when you are about to run out of storage... maybe the moment to inform people is when they are almost out of masks (after 4th is created) and also when they are out? The 4th mask could be more of a celebratory statement. \"Great job using masks, but you are about to run out. Keep going with unlimited\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2902:842",
+        "node_offset": {
+          "x": 1436,
+          "y": 395
+        },
+        "stable_path": [
+          "2902:842"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1209928065",
+      "uuid": "f2d9b830-5cec-4c66-b474-0d8315bc200b",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2025-04-09T14:05:02.555Z",
+      "resolved_at": null,
+      "message": "Note: if Firefox has saved your password for this site, the email address you saved (your real one, or a mask) will show in this drop-down.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-04-09T14:12:23.597Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9286:1371",
+        "node_offset": {
+          "x": 374,
+          "y": 259
+        },
+        "stable_path": [
+          "9286:1371"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1209922964",
+      "uuid": "5b27313f-8468-445b-90fe-9d9525923d57",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2025-04-09T14:02:47.791Z",
+      "resolved_at": null,
+      "message": "This feature is for everyone - not just premium. Does it make sense to include it here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9284:1731",
+        "node_offset": {
+          "x": 762,
+          "y": 2867
+        },
+        "stable_path": [
+          "9284:1731"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1209921808",
+      "uuid": "8aa756a9-75f2-4c29-86d7-2aa75e9d2ec3",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2025-04-09T14:02:18.017Z",
+      "resolved_at": null,
+      "message": "Is it safe/okay to remind people that re-using masks is not as good for their privacy as using a unique mask on every site, app, and service?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-04-19T01:43:36.979Z",
+          "user": {
+            "id": "1138649166372164567",
+            "handle": "Santiago Andrigo",
+            "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9284:1731",
+        "node_offset": {
+          "x": 481,
+          "y": 963
+        },
+        "stable_path": [
+          "9284:1731"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1209895546",
+      "uuid": "dc0ac1d7-5dea-49ef-a8c6-dc4a3b4eb72b",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2025-04-09T13:51:29.832Z",
+      "resolved_at": null,
+      "message": "They Relay DB does not have the field to indicate whether or not a user has opted-in for marketing emails. It will be more work to:\n\n1. Check MKTG email DB for the user to either: \n2. Trigger MKTG email system to send an email, or:\n3. Fall back to transactional email \n\nWhich means we should ask: why do we want to build 2 separate emails and send them from 2 separate systems rather than just send the transactional email to everyone?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9272:14154",
+        "node_offset": {
+          "x": 761,
+          "y": 43
+        },
+        "stable_path": [
+          "9272:14154"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1209879038",
+      "uuid": "e9f0577c-9a0d-42d8-a46c-b6ff05e0748f",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-09T13:44:42.833Z",
+      "resolved_at": null,
+      "message": "I did a few explorations on these for upsells. Can dig them up. \n\nI had a version where it was almost like a countdown when someone got close to running out that would promote getting more email masks which is less jarring than to suddenly be told you're out. \n\nIt could help build the urgency and understanding that a free user only has 5 free masks which isn't totally apparent if you're just using the dropdown.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9284:2858",
+        "node_offset": {
+          "x": 855,
+          "y": 585
+        },
+        "stable_path": [
+          "9284:2858"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1209828628",
+      "uuid": "a426f2de-3587-4584-b9ca-15f24e6ed534",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-09T13:23:34.519Z",
+      "resolved_at": null,
+      "message": "Do we want to disclose the price anywhere? According to research, since users don't fully understand the product, they sometimes go off price to make decisions. We could either: \n* Emphasize the benefits or \n* Emphasize the pricing is better with Relay",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9224:2282",
+        "node_offset": {
+          "x": 627,
+          "y": 307
+        },
+        "stable_path": [
+          "9224:2282"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1209825224",
+      "uuid": "41327763-294f-43cd-ab3b-3af8b1ef015e",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-09T13:22:08.771Z",
+      "resolved_at": null,
+      "message": "Maybe we lead with the benefit vs. asking to upgrade? \n\nRiffs: \nGet unlimited masks to protect your emails and phone numbers from spam [incl mentions about phone masking]\nGet unlimited email masks to protect against spam [closer to wording we used for the experiment]\nGet unlimited email masks to hide your email address and protect against spam",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-04-09T13:47:51.072Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9224:2282",
+        "node_offset": {
+          "x": 571,
+          "y": 102
+        },
+        "stable_path": [
+          "9224:2282"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1209813548",
+      "uuid": "b91a4b14-c183-4b95-8ae4-65fe41bf949d",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-09T13:17:20.786Z",
+      "resolved_at": null,
+      "message": "I know this info was foraged from the website but wondering if this email could be a bit more humanized/give users a bit more context-setting? \n\nOne thing to flag: we cannot market things in a transactional email so any mention of upgrades I think would be hard to get past legal. \n\nAlso, do we want to be encouraging mask re-use? \n\nEx (off-the-cuff riff): \nYou've used your 5 free email masks\n\nThanks for trying out Firefox Relay. You've used all of your 5 free email masks which takes you closer to keeping your info more private on the web.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9272:14155",
+        "node_offset": {
+          "x": 395,
+          "y": 370
+        },
+        "stable_path": [
+          "9272:14155"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1209804148",
+      "uuid": "738ab511-6ecf-4f7e-9588-3bf99d80bf28",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-09T13:13:15.942Z",
+      "resolved_at": null,
+      "message": "One idea: we give people an email prior to them running out so it's not as much of a surprise and is more proactive",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9288:1846",
+        "node_offset": {
+          "x": 135,
+          "y": 26
+        },
+        "stable_path": [
+          "9288:1846"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1176372539",
+      "uuid": "e6ae194b-cbee-4e84-bcc7-342b2f3a599b",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2025-03-17T16:25:57.743Z",
+      "resolved_at": null,
+      "message": "Yes. When someone is logged in, we can distinguish that they signed up for Relay thru Firefox, and we could alter the page UI for that.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-03-17T17:08:29.486Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9143:185",
+        "node_offset": {
+          "x": 218,
+          "y": 211
+        },
+        "stable_path": [
+          "9143:185"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1176371261",
+      "uuid": "463f7404-8ccc-4e59-bd96-5b1f93d4bbbc",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2025-03-17T16:25:16.984Z",
+      "resolved_at": null,
+      "message": "In a way, yes this is a security precaution. If someone has only used Relay thru the Firefox integration, their browser only has a token for the Relay API thru the browser - it does not have a token to use the relay.firefox.com website. Sadly, this would be quite a bit of work to build a flow to do both. We would have to estimate and plan it out.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9143:191",
+        "node_offset": {
+          "x": 240,
+          "y": 138
+        },
+        "stable_path": [
+          "9143:191"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1176363762",
+      "uuid": "1f85a0ea-572d-435d-9c04-1181fdcea803",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2025-03-17T16:21:12.723Z",
+      "resolved_at": null,
+      "message": "All good points for improvement, and they all seem at least technically possible, though I'm not sure which ones would take more or less work.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-03-17T17:13:31.598Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9102:605",
+        "node_offset": {
+          "x": 363,
+          "y": 340
+        },
+        "stable_path": [
+          "9102:605"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1176361060",
+      "uuid": "ce94f7e6-5290-4e8b-9b13-609cdd279be8",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2025-03-17T16:19:44.143Z",
+      "resolved_at": null,
+      "message": "It should end with the user on the tab from which they started with a Relay email mask filled in. The FXA tab remains on accounts.firefox.com.\n\nIt's not currently possible to send them to the Relay dashboard automatically signed-in. Signing into the website starts an OAuth flow to get a token for relay.firefox.com. But the integration flow does not go thru relay.firefox.com, so the browser does not have an OAuth token for relay.firefox.com. Sadly, it would take some significant work to build out a flow that does both in a single flow.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9167:56",
+        "node_offset": {
+          "x": 279,
+          "y": 221
+        },
+        "stable_path": [
+          "9167:56"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1176354583",
+      "uuid": "223daac0-d2fb-4711-a0a6-218e8fcab31a",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2025-03-17T16:16:20.824Z",
+      "resolved_at": null,
+      "message": "Yes it's a security precaution. We need someone to verify they own the email address before we forward emails to it. And FXA verifies the ownership as part of the sign-up flow. Definitely could try to make this clearer. This part is in the FXA code-base so it would be a ticket for that team.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-03-17T17:18:52.689Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "4903:29531",
+        "node_offset": {
+          "x": 4428,
+          "y": 1586
+        },
+        "stable_path": [
+          "4903:29531"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1176351600",
+      "uuid": "5b3d0b0e-75e1-4b46-8b80-dacfa81d201e",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2025-03-17T16:14:48.398Z",
+      "resolved_at": null,
+      "message": "Both. If you say \"don't show me this again\" we stop show you the relay mask menu item in any of the menu drop-downs.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9167:53",
+        "node_offset": {
+          "x": 394,
+          "y": 58
+        },
+        "stable_path": [
+          "9167:53"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1176344858",
+      "uuid": "0dc46a58-3c7c-48ec-9c73-f9c598adf227",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2025-03-17T16:11:15.199Z",
+      "resolved_at": null,
+      "message": "This is the UI pattern already established for saved logins, which is the component and code to which we are adding Relay. I don't know if Firefox UX is open to spotlight modals in flows like this: I've never seen them for any other features.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9102:598",
+        "node_offset": {
+          "x": 380,
+          "y": 282
+        },
+        "stable_path": [
+          "9102:598"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1176340890",
+      "uuid": "e30aae50-552b-44ab-803a-4fc433bff148",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2025-03-17T16:09:11.235Z",
+      "resolved_at": null,
+      "message": "@Santiago Andrigo : did you already file a bug or start a Slack thread about this with the #credential-management team?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9136:74",
+        "node_offset": {
+          "x": 382,
+          "y": 66
+        },
+        "stable_path": [
+          "9136:74"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1414031550",
+      "uuid": "5a4129e9-f3d0-4ca6-92c1-51380ee8af70",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-09-05T17:34:24.376Z",
+      "resolved_at": null,
+      "message": "Note: this has been postponed (see https://mozilla.slack.com/archives/C4E0W8B8E/p1754948337282049?thread_ts=1753914935.632329&cid=C4E0W8B8E)\n\n@Wolasi Konu - once this becomes ready for review again, feel free to reach out to the Accessibility Team. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9808:39941",
+        "node_offset": {
+          "x": 334,
+          "y": 88
+        },
+        "stable_path": [
+          "9808:39941"
+        ]
+      },
+      "order_id": "187"
+    },
+    {
+      "id": "1365949187",
+      "uuid": "a90ce139-a43d-4352-a048-da74e5c6b860",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-08-01T15:46:03.824Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi @Natalie Stroud what would be the best way to annotate this list of masks a user has previously created? Should screen readers read out the email mask addresses? Or should they reference the domain the mask was created for instead?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9808:41541",
+        "node_offset": {
+          "x": 397,
+          "y": 180
+        },
+        "stable_path": [
+          "9808:41541"
+        ]
+      },
+      "order_id": "147"
+    },
+    {
+      "id": "1302708249",
+      "uuid": "558349e2-aabd-4cf7-8d69-d9e10dc846e3",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-17T15:43:46.542Z",
+      "resolved_at": null,
+      "message": "Click = not accessible language",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4552",
+        "node_offset": {
+          "x": 3687,
+          "y": 616
+        },
+        "stable_path": [
+          "9598:4552"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1301222761",
+      "uuid": "b9c3615a-d024-402f-8c31-cedf1fe81bfa",
+      "file_key": "DNPHOhftoJi22lvV77xd4M",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-16T22:36:58.808Z",
+      "resolved_at": null,
+      "message": "Would not call out tap or the button since some people use voice commands (a11y)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9598:4553",
+        "node_offset": {
+          "x": 2102,
+          "y": 1562
+        },
+        "stable_path": [
+          "9598:4553"
+        ]
+      },
+      "order_id": "60"
+    }
+  ]
+}

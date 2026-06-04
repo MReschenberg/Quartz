@@ -1,0 +1,530 @@
+{
+  "unresolved": [
+    {
+      "id": "1642855797",
+      "uuid": "b073ecae-c235-45de-8414-95f5628bc3e7",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-02-20T21:17:17.668Z",
+      "resolved_at": null,
+      "message": "@Ekaterina Galetski Can you please replace this image with the correct image for split view? Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11877:4266",
+        "node_offset": {
+          "x": 164,
+          "y": 152
+        },
+        "stable_path": [
+          "11877:4266"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1640977142",
+      "uuid": "d42940da-35b8-4ebe-99f1-98198aec4e70",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-19T19:37:19.812Z",
+      "resolved_at": null,
+      "message": "don't love that it's on two lines, but that might happen anyway with zooming for ppl",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11857:4044",
+        "node_offset": {
+          "x": 88,
+          "y": 73
+        },
+        "stable_path": [
+          "11857:4044"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1640973797",
+      "uuid": "6df96f28-84ce-46cb-a8be-c2863dcf74fe",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-19T19:34:54.391Z",
+      "resolved_at": null,
+      "message": "there is something very tidy about \"multi tasking made easy\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11824:3825",
+        "node_offset": {
+          "x": 256,
+          "y": 50
+        },
+        "stable_path": [
+          "11824:3825"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1640973191",
+      "uuid": "93e9a569-d73a-4314-981f-0e48fd900bcc",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2026-02-19T19:34:29.007Z",
+      "resolved_at": null,
+      "message": "OPO that this feels a little too obscure",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-02-19T19:34:59.654Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "11824:3462",
+        "node_offset": {
+          "x": 245,
+          "y": 60
+        },
+        "stable_path": [
+          "11824:3462"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1640969611",
+      "uuid": "cab41ef7-b6e0-41c2-9f31-e4b8a029fd30",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-19T19:31:53.930Z",
+      "resolved_at": null,
+      "message": "this is cute, but probably note as quick a \"get\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11824:3704",
+        "node_offset": {
+          "x": 276,
+          "y": 80
+        },
+        "stable_path": [
+          "11824:3704"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1640964271",
+      "uuid": "4e91dc2b-b8ca-4530-9a1f-9836a5fea83f",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-19T19:28:12.495Z",
+      "resolved_at": null,
+      "message": "love the ones that name the pain, \"breaking your flow. tab switching, juggling windows\" etc\n\nI suspect that's effective for conversion",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11823:2843",
+        "node_offset": {
+          "x": 95,
+          "y": 97
+        },
+        "stable_path": [
+          "11823:2843"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1640962678",
+      "uuid": "720d2f59-c942-40f1-b12e-996a25e652b7",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-19T19:27:09.242Z",
+      "resolved_at": null,
+      "message": "this HL feels more compelling IF the targeting considers users who aren't set to default\n\nlike, hey, this new thing that you've been waiting for is here. kinda like with vertical tabs",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11823:3099",
+        "node_offset": {
+          "x": 148,
+          "y": 53
+        },
+        "stable_path": [
+          "11823:3099"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1640961337",
+      "uuid": "04e423d1-f5cc-420e-83c9-2db041a29d06",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-19T19:26:16.901Z",
+      "resolved_at": null,
+      "message": "love the clarity of \"see two tabs at once\"",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-02-19T19:33:33.583Z",
+          "user": {
+            "id": "1169379060174051036",
+            "handle": "Katie Lower",
+            "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "11823:2978",
+        "node_offset": {
+          "x": 93,
+          "y": 51
+        },
+        "stable_path": [
+          "11823:2978"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1525529804",
+      "uuid": "9b332709-2d7b-4d69-a590-06f2cbc30856",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2025-11-21T13:26:47.807Z",
+      "resolved_at": null,
+      "message": "@Kelly Cochrane I think it can go almost till the end before it starts to overflow.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10731:20198",
+        "node_offset": {
+          "x": 1682,
+          "y": 559
+        },
+        "stable_path": [
+          "10731:20198"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1517358902",
+      "uuid": "87fd7242-3592-456a-b51b-9db9394858b9",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2025-11-17T14:58:08.885Z",
+      "resolved_at": null,
+      "message": "@Kelly Cochrane I have kept the same color, just bumped it up to 22%. And behind this gradient is the tab strip bg color from the dark theme.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10658:23162",
+        "node_offset": {
+          "x": 1741,
+          "y": 174
+        },
+        "stable_path": [
+          "10658:23162"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1394843008",
+      "uuid": "4061fea3-2421-4d32-a1a2-d125bce55cf2",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Clements",
+        "img_url": "https://www.gravatar.com/avatar/a5c64c086e83ba611b034ee859d843d4?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "845740316875106093"
+      },
+      "created_at": "2025-08-22T17:27:23.647Z",
+      "resolved_at": null,
+      "message": "Is this graphic overlay something we're supposed to implement?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8847:13540",
+        "node_offset": {
+          "x": 1713,
+          "y": 710
+        },
+        "stable_path": [
+          "8847:13540"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1384674960",
+      "uuid": "d3b8e72b-2e41-4256-8614-edbbdab4e94c",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2025-08-15T13:27:36.853Z",
+      "resolved_at": null,
+      "message": "Can we hide the split view line if the tabs already have a container line?  Alternatively, we could allow the container line to cover the split view line.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9431:52577",
+        "node_offset": {
+          "x": 134,
+          "y": 185
+        },
+        "stable_path": [
+          "9431:52577"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1347992174",
+      "uuid": "fbe47b32-c00a-49f2-b0ef-d59e569319d1",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Clements",
+        "img_url": "https://www.gravatar.com/avatar/a5c64c086e83ba611b034ee859d843d4?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "845740316875106093"
+      },
+      "created_at": "2025-07-21T12:02:45.894Z",
+      "resolved_at": null,
+      "message": "Similar to my other question about handling of pinned tabs and tabs in groups by selecting two tabs: In this case dragging a tab that's not next to that tab will mean we should move it so visually its part of that split view group. But if you do that with a pinned tab or tab in a group that's not next to the initial tab how do we handle this? We could attempt to keep that tab in its initial state and move the initial unpinned/ungrouped tab to be next to it. Or should adding a tab to a split view remove its previous state?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8771:6255",
+        "node_offset": {
+          "x": 251,
+          "y": 138
+        },
+        "stable_path": [
+          "8771:6255"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1347209476",
+      "uuid": "0adb396d-ef51-4090-874a-8b7f82f0d0d0",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-07-20T23:53:04.116Z",
+      "resolved_at": null,
+      "message": "@Ania Safko @Yulia Popova - Since what the user is controlling is more about the tabs than the larger 'view', I think \"Tabs\" may be the better noun - particularly for the close item.  Explorations included here that use tabs. LMK what you think.\n\nThis would apply to other places where these items appear, too (like in the address bar icon and tab context menu).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8836:18663",
+        "node_offset": {
+          "x": 81,
+          "y": 9
+        },
+        "stable_path": [
+          "8836:18663"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1346526102",
+      "uuid": "374f95d9-5241-4096-8b81-fb24578d5e36",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-18T18:18:24.494Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova the backgrounds of tabs (and all buttons) should be using \"button/background/color\" (not \"ghost\" one that it's there now), so it would appear yellowish-black",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8882:33613",
+        "node_offset": {
+          "x": 187,
+          "y": 92
+        },
+        "stable_path": [
+          "8882:33613"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1310583904",
+      "uuid": "17d28c01-2941-4077-b4d4-4628ce868147",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2025-06-23T21:34:22.885Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova dropping an earmark here to update the 14 days to the rules Dasha formulated here - https://www.figma.com/design/pRBvQjgzSoUzUXFGajgcBt/Google-Lens-Search-integration?node-id=481-5967&t=WhDi4Fbkphv38Gpl-0",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-06-24T14:19:19.124Z",
+          "user": {
+            "id": "1042453533635562984",
+            "handle": "Yulia Popova",
+            "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8605:20000",
+        "node_offset": {
+          "x": 2224,
+          "y": 46
+        },
+        "stable_path": [
+          "8605:20000"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1295967383",
+      "uuid": "ef04caef-e6cd-4e61-8d05-4b9ffc89319a",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2025-06-12T06:27:11.885Z",
+      "resolved_at": null,
+      "message": "@Ania Safko @Katie Lower @Sarah Clements\njust wanted to double-check with you that we are on the same page and that this is feasible:\nWe are showing the \"NEW\" badge only to users with horizontal tabs who have no pinned tabs, because for these users, we will set the default location of pinned tabs to the sidebar. So when they choose \"Pin tab\", the tab will be pinned to the sidebar instead of the tab strip.\nFor other users \u2014 those using vertical tabs, and those using horizontal tabs but who already have pinned tabs \u2014 we do not show the \"NEW\" badge, because for them the functionality remains unchanged: the tab will be pinned to the tab strip.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8160:7973",
+        "node_offset": {
+          "x": 742,
+          "y": 144
+        },
+        "stable_path": [
+          "8160:7973"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1295931703",
+      "uuid": "e7901717-3841-458f-8e26-f6ac18d54553",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2025-06-12T05:56:33.492Z",
+      "resolved_at": null,
+      "message": "@Katie Lower @Ania Safko added some sketches for the visual. Is it understandable?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8318:28432",
+        "node_offset": {
+          "x": 9591,
+          "y": 358
+        },
+        "stable_path": [
+          "8318:28432"
+        ]
+      },
+      "order_id": "10"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1346526102",
+      "uuid": "374f95d9-5241-4096-8b81-fb24578d5e36",
+      "file_key": "URUNfOzQNRFiQnz67coSd0",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-18T18:18:24.494Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova the backgrounds of tabs (and all buttons) should be using \"button/background/color\" (not \"ghost\" one that it's there now), so it would appear yellowish-black",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8882:33613",
+        "node_offset": {
+          "x": 187,
+          "y": 92
+        },
+        "stable_path": [
+          "8882:33613"
+        ]
+      },
+      "order_id": "16"
+    }
+  ]
+}

@@ -1,0 +1,4808 @@
+{
+  "unresolved": [
+    {
+      "id": "688945155",
+      "uuid": "edd3be07-f276-4a45-b088-cb1b62227dad",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2024-02-01T19:25:11.975Z",
+      "resolved_at": null,
+      "message": "Add some redlining here and note on what is being changed more clearly!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "944:9800",
+        "node_offset": {
+          "x": 310,
+          "y": 107
+        },
+        "stable_path": [
+          "944:9800"
+        ]
+      },
+      "order_id": "128"
+    },
+    {
+      "id": "688938136",
+      "uuid": "961ea13a-d582-4075-9020-0b06dfb3a44e",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2024-02-01T19:18:59.097Z",
+      "resolved_at": null,
+      "message": "specify the link here -- dashboard phone tab view",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1005:10639",
+        "node_offset": {
+          "x": 174,
+          "y": 437
+        },
+        "stable_path": [
+          "1005:10639"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "688933009",
+      "uuid": "8b20bf7b-d801-43c8-a9f2-3d494980060c",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2024-02-01T19:14:18.807Z",
+      "resolved_at": null,
+      "message": "@Chris Rooney add the waitlist view + NEW phone tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "937:9496",
+        "node_offset": {
+          "x": 1997,
+          "y": -2040
+        },
+        "stable_path": [
+          "937:9496"
+        ]
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "688932381",
+      "uuid": "e0984c21-a940-4adb-bdd5-8d623256cb64",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2024-02-01T19:13:42.239Z",
+      "resolved_at": null,
+      "message": "Update functional requirement and trigger",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1008:14170",
+        "node_offset": {
+          "x": 60,
+          "y": 173
+        },
+        "stable_path": [
+          "1008:14170"
+        ]
+      },
+      "order_id": "124"
+    },
+    {
+      "id": "684456505",
+      "uuid": "9bec3083-0bc4-49f5-889d-1537ff8bfa5c",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Chris Rooney",
+        "img_url": "https://www.gravatar.com/avatar/0fc31fd9d3dc2e16579e032e9eaa9b8e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "968543860034055610"
+      },
+      "created_at": "2024-01-29T22:00:20.189Z",
+      "resolved_at": null,
+      "message": "@Doris Deng take a look at this news item and let me know what you think. Am I covering the bases as far as you can see?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "937:9496",
+        "node_offset": {
+          "x": 5921,
+          "y": -2208
+        },
+        "stable_path": [
+          "937:9496"
+        ]
+      },
+      "order_id": "123"
+    },
+    {
+      "id": "684381195",
+      "uuid": "d5515fe3-8099-4df5-8232-5926c25c9e62",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Chris Rooney",
+        "img_url": "https://www.gravatar.com/avatar/0fc31fd9d3dc2e16579e032e9eaa9b8e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "968543860034055610"
+      },
+      "created_at": "2024-01-29T20:37:27.542Z",
+      "resolved_at": null,
+      "message": "@Jessica Valentine here's what I'm thinking",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "952:19205",
+        "node_offset": {
+          "x": 280,
+          "y": 68
+        },
+        "stable_path": [
+          "952:19205"
+        ]
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "684255436",
+      "uuid": "18d25ba6-0548-4dee-8f4a-3a6603bdcaef",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2024-01-29T18:34:46.490Z",
+      "resolved_at": null,
+      "message": "@Doris Deng this is what it would looks like with the scroll :+1:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "997:15144",
+        "node_offset": {
+          "x": 241,
+          "y": 240
+        },
+        "stable_path": [
+          "997:15144"
+        ]
+      },
+      "order_id": "117"
+    },
+    {
+      "id": "684194473",
+      "uuid": "6213bbf6-bedb-4619-af44-b6296dde8a23",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Se Yeon Kim",
+        "img_url": "https://www.gravatar.com/avatar/1a6b7195e69eb0f26f36ebc08c04fb2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "981655370670084154"
+      },
+      "created_at": "2024-01-29T17:38:45.189Z",
+      "resolved_at": null,
+      "message": "Will you add another option for \"I haven't received a text from this website that I was expecting\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "951:9941",
+        "node_offset": {
+          "x": 107,
+          "y": 404
+        },
+        "stable_path": [
+          "951:9941"
+        ]
+      },
+      "order_id": "116"
+    },
+    {
+      "id": "681220823",
+      "uuid": "eb4f3625-ef01-4b10-b266-161d76128adb",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2024-01-25T18:00:40.692Z",
+      "resolved_at": null,
+      "message": "@Chris Rooney hey! can you take a look at this string -- we need to combine email & phone and just adding phone to the OG line (pictured left) its super long --- I was like :woozy_face: lol",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "944:9800",
+        "node_offset": {
+          "x": 12,
+          "y": 94
+        },
+        "stable_path": [
+          "944:9800"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "672351800",
+      "uuid": "cefba766-e16a-4806-a77c-afd585398c54",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-17T22:20:49.530Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim this is what I mean, for reference",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "440:4988",
+        "node_offset": {
+          "x": 795,
+          "y": 193
+        },
+        "stable_path": [
+          "440:4988"
+        ]
+      },
+      "order_id": "113"
+    },
+    {
+      "id": "672195284",
+      "uuid": "80bc50b5-f8f1-443b-a253-66893b09723b",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-17T19:34:39.417Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim you did an awesome job on these annotations, thank you for being so thorough!",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-17T22:18:44.502Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "713:9483",
+        "node_offset": {
+          "x": 417,
+          "y": 80
+        },
+        "stable_path": [
+          "713:9483"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "672194329",
+      "uuid": "e7c14991-184e-48fc-9213-4ac7c3c694f1",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-17T19:33:42.427Z",
+      "resolved_at": null,
+      "message": "There should be a grey annotation in the annotations kit that is for presentational items specifically",
+      "reactions": [
+        {
+          "emoji": ":raised_hands:",
+          "created_at": "2024-01-17T22:21:17.099Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "740:11054",
+        "node_offset": {
+          "x": 54,
+          "y": 1202
+        },
+        "stable_path": [
+          "740:11054"
+        ]
+      },
+      "order_id": "111"
+    },
+    {
+      "id": "672192341",
+      "uuid": "bd523086-6f4a-49fa-bfc0-4456bc6a9ac2",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-17T19:31:45.076Z",
+      "resolved_at": null,
+      "message": "Please move 6B above B",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "733:10765",
+        "node_offset": {
+          "x": 565,
+          "y": 504
+        },
+        "stable_path": [
+          "733:10765"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "672189091",
+      "uuid": "9e1bdb4e-453e-4a0b-adc4-3e2858ccd0a5",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-17T19:28:38.877Z",
+      "resolved_at": null,
+      "message": "This button should follow HCM button states (see Icon Button component above), but these states should be distinct from the states of the email ie. hovering the email doesn't automatically hover the button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "440:4988",
+        "node_offset": {
+          "x": 818,
+          "y": 129
+        },
+        "stable_path": [
+          "440:4988"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "672156652",
+      "uuid": "e8fce45a-9a81-4ca8-81a1-1e354849764b",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-17T18:57:59.436Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg , what would be the name here...? Name can be based on the tab button (forwarding vs. blocking)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "733:10765",
+        "node_offset": {
+          "x": 627,
+          "y": 350
+        },
+        "stable_path": [
+          "733:10765"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "670814331",
+      "uuid": "b78f8e00-d653-45d2-89b3-8e481f33705e",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-16T21:31:21.496Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg , can we just use the tabs only for the icon button \"copy\"? I think this more makes sense like you said, the focusing the list doesn't really do anything. :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "742:11643",
+        "node_offset": {
+          "x": 559,
+          "y": 296
+        },
+        "stable_path": [
+          "742:11643"
+        ]
+      },
+      "order_id": "107"
+    },
+    {
+      "id": "667978438",
+      "uuid": "0d8bbd41-3e38-4fdb-a5db-44ad491c0c98",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:25:03.570Z",
+      "resolved_at": null,
+      "message": "There are new annotations you can use in figma, courtesy of the reusable components team :) look here for more info https://docs.google.com/document/d/1PaxpJoWrke1vTHu_lVPyvpmEjFqHAmxu6lt0eXboX2s/edit",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "733:10765",
+        "node_offset": {
+          "x": 90,
+          "y": 5
+        },
+        "stable_path": [
+          "733:10765"
+        ]
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "667978022",
+      "uuid": "73b9849d-542b-4e7f-9da7-987702b50dfd",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:21:45.995Z",
+      "resolved_at": null,
+      "message": "list item",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:10026",
+        "node_offset": {
+          "x": 103,
+          "y": 318
+        },
+        "stable_path": [
+          "713:10026"
+        ]
+      },
+      "order_id": "105"
+    },
+    {
+      "id": "667978004",
+      "uuid": "7c180e33-deaa-4710-8aa2-edc2ecb8f1a2",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:21:34.684Z",
+      "resolved_at": null,
+      "message": "these copy buttons should have individual annotations, since they're distinct from the list item",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:9989",
+        "node_offset": {
+          "x": 367,
+          "y": 26
+        },
+        "stable_path": [
+          "713:9989"
+        ]
+      },
+      "order_id": "104"
+    },
+    {
+      "id": "667977974",
+      "uuid": "8c7b6e31-a5ac-4a3d-a091-803e012ca02f",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:21:20.325Z",
+      "resolved_at": null,
+      "message": "list item",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:10026",
+        "node_offset": {
+          "x": 118,
+          "y": 108
+        },
+        "stable_path": [
+          "713:10026"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "667977954",
+      "uuid": "7e9969b3-e4fe-4f19-b691-13de0166a356",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:21:12.854Z",
+      "resolved_at": null,
+      "message": "Please add a container around these items with role=list",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "742:11848",
+        "node_offset": {
+          "x": 23,
+          "y": 98
+        },
+        "stable_path": [
+          "742:11848"
+        ]
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "667977930",
+      "uuid": "eaab2a8e-e4a0-47ab-a103-13ca61a0d517",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:21:03.368Z",
+      "resolved_at": null,
+      "message": "list item",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:9861",
+        "node_offset": {
+          "x": 106,
+          "y": 835
+        },
+        "stable_path": [
+          "713:9861"
+        ]
+      },
+      "order_id": "101"
+    },
+    {
+      "id": "667977921",
+      "uuid": "e4fd3e02-dcb1-4eb1-be6c-4901af021933",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:21:00.313Z",
+      "resolved_at": null,
+      "message": "list item",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:9861",
+        "node_offset": {
+          "x": 119,
+          "y": 1006
+        },
+        "stable_path": [
+          "713:9861"
+        ]
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "667977845",
+      "uuid": "188ee8f5-74be-4ac8-8ff4-55661927a9c5",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:20:26.662Z",
+      "resolved_at": null,
+      "message": "see earlier annotation notes for tabs",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:9861",
+        "node_offset": {
+          "x": 68,
+          "y": 486
+        },
+        "stable_path": [
+          "713:9861"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "667977808",
+      "uuid": "432aa072-bac4-406a-94c1-584f9609c4d7",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:20:12.209Z",
+      "resolved_at": null,
+      "message": "please note that users should move between tabs with arrow keys, not tab key",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17191",
+        "node_offset": {
+          "x": 73,
+          "y": 23
+        },
+        "stable_path": [
+          "707:17191"
+        ]
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "667977806",
+      "uuid": "b1d487eb-8c9e-4429-bcd8-2f2a2958357e",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:20:10.235Z",
+      "resolved_at": null,
+      "message": "please note that users should move between tabs with arrow keys, not tab key",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17176",
+        "node_offset": {
+          "x": 7,
+          "y": 33
+        },
+        "stable_path": [
+          "707:17176"
+        ]
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "667977709",
+      "uuid": "35c7db2c-91e8-4434-ae94-789770be3f93",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:19:33.351Z",
+      "resolved_at": null,
+      "message": "see earlier annotation notes for tabs",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:9022",
+        "node_offset": {
+          "x": 174,
+          "y": 563
+        },
+        "stable_path": [
+          "713:9022"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "667977694",
+      "uuid": "20ae6a91-e4a7-407b-89fd-057ed9d00d35",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:19:28.320Z",
+      "resolved_at": null,
+      "message": "see earlier annotations for tabs",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:9022",
+        "node_offset": {
+          "x": 94,
+          "y": 422
+        },
+        "stable_path": [
+          "713:9022"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "667977669",
+      "uuid": "163bbd7f-30bc-4afb-8b95-0a9e9cfe848c",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:19:18.208Z",
+      "resolved_at": null,
+      "message": "please annotate that this illlustration should be presentational",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:8568",
+        "node_offset": {
+          "x": 206,
+          "y": 364
+        },
+        "stable_path": [
+          "713:8568"
+        ]
+      },
+      "order_id": "94"
+    },
+    {
+      "id": "667977601",
+      "uuid": "f4db0570-6ec9-413d-9227-097c7ef6c550",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:18:45.937Z",
+      "resolved_at": null,
+      "message": "see notes in first annotatiosn list",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "733:10766",
+        "node_offset": {
+          "x": 343,
+          "y": 849
+        },
+        "stable_path": [
+          "733:10766"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "667977581",
+      "uuid": "b029baaa-1acf-4ad0-8fc4-422c2e06aa29",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:18:41.713Z",
+      "resolved_at": null,
+      "message": "See notes in first annotations list",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "733:10766",
+        "node_offset": {
+          "x": 337,
+          "y": 623
+        },
+        "stable_path": [
+          "733:10766"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "667977472",
+      "uuid": "6a9776cc-6e73-475e-886a-c9d4f00f709c",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:17:56.830Z",
+      "resolved_at": null,
+      "message": "role=tab\nalso, under props, please add that each tab should have an aria-controls property where the value of the prop is the ID of the tab panel it operates on",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17201",
+        "node_offset": {
+          "x": 108,
+          "y": 898
+        },
+        "stable_path": [
+          "707:17201"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "667977193",
+      "uuid": "6f6435f8-5029-4a8c-accb-703243b0094b",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:15:48.542Z",
+      "resolved_at": null,
+      "message": "Please add an annotation around this content (the content shown when \"forwarding\" is selected) and annotate it with role=tabpanel",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "728:8933",
+        "node_offset": {
+          "x": 60,
+          "y": 215
+        },
+        "stable_path": [
+          "728:8933"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "667977130",
+      "uuid": "34660df8-cec7-48bf-912e-7d44be8473f2",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:15:23.760Z",
+      "resolved_at": null,
+      "message": "role=tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17201",
+        "node_offset": {
+          "x": 102,
+          "y": 824
+        },
+        "stable_path": [
+          "707:17201"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "667977110",
+      "uuid": "5e01c6a3-1533-4bff-9503-b499db8e55d1",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:15:12.294Z",
+      "resolved_at": null,
+      "message": "Please put an annotation around both these elements (7,8) with role-tablist, not sure what the best name is here. \"Relay action\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17191",
+        "node_offset": {
+          "x": 138,
+          "y": 21
+        },
+        "stable_path": [
+          "707:17191"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "667977021",
+      "uuid": "57b91f2d-35cf-4e80-ae9f-d71fcf2d734a",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:14:28.699Z",
+      "resolved_at": null,
+      "message": "This region (containing all the content of the current active tab) should be annotated with a role=tabpanel",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:16900",
+        "node_offset": {
+          "x": 28,
+          "y": 127
+        },
+        "stable_path": [
+          "707:16900"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "667976774",
+      "uuid": "cc64a6b0-46d4-47bd-b129-64669eee2f47",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:12:39.375Z",
+      "resolved_at": null,
+      "message": "Please note under properties that the selected tab should have aria-selected=true",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17201",
+        "node_offset": {
+          "x": 274,
+          "y": 458
+        },
+        "stable_path": [
+          "707:17201"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "667976685",
+      "uuid": "9fb2da5b-1c76-43fd-a2ee-1a978a8bef8e",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:11:59.547Z",
+      "resolved_at": null,
+      "message": "role=tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17201",
+        "node_offset": {
+          "x": 275,
+          "y": 483
+        },
+        "stable_path": [
+          "707:17201"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "667976680",
+      "uuid": "2191f6eb-cf15-4a5a-b436-1efd4d16ac8e",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:11:57.388Z",
+      "resolved_at": null,
+      "message": "role=tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17201",
+        "node_offset": {
+          "x": 168,
+          "y": 407
+        },
+        "stable_path": [
+          "707:17201"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "667976599",
+      "uuid": "d10e4d1a-a4c9-4f08-bf71-cb72b5b51a7a",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:11:27.720Z",
+      "resolved_at": null,
+      "message": "Please put an annotation around both of these elements (4, 5) with role=tablist",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17171",
+        "node_offset": {
+          "x": 11,
+          "y": 32
+        },
+        "stable_path": [
+          "707:17171"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "667969581",
+      "uuid": "8035320f-217e-42d9-bf13-21a07ff704d2",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T00:32:48.369Z",
+      "resolved_at": null,
+      "message": "Please use Text and Canvas to color this, without a border. Continue to use Button Text and Button Background for the copy button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "693:9081",
+        "node_offset": {
+          "x": 306,
+          "y": 246
+        },
+        "stable_path": [
+          "693:9081"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "667969517",
+      "uuid": "e78c8023-ad42-47e9-93ea-1cf8d051e27b",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T00:32:27.357Z",
+      "resolved_at": null,
+      "message": "Please use ButtonText and Button Background for the copy button -- its state should be independent of the state of the row (ie. if the row is hovered, the button is not necessarily hovered, unless clicking the row does the same thing as clicking the button)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "693:9081",
+        "node_offset": {
+          "x": 378,
+          "y": 195
+        },
+        "stable_path": [
+          "693:9081"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "667957588",
+      "uuid": "6f6892a8-36b2-46b7-ad97-d1ef7a178e38",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-12T23:42:02.245Z",
+      "resolved_at": null,
+      "message": "Sorry I missed this earlier, please bold these labels",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-12T23:49:45.972Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "681:7294",
+        "node_offset": {
+          "x": 119,
+          "y": 206
+        },
+        "stable_path": [
+          "681:7294"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "667957457",
+      "uuid": "84a40f29-5e5f-4051-8bce-30cca1c5c107",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-12T23:41:33.873Z",
+      "resolved_at": null,
+      "message": "In HCM, all form control labels/content should be bold",
+      "reactions": [
+        {
+          "emoji": ":saluting_face:",
+          "created_at": "2024-01-12T23:47:25.325Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "707:14466",
+        "node_offset": {
+          "x": 69,
+          "y": 48
+        },
+        "stable_path": [
+          "707:14466"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "667957323",
+      "uuid": "af6e50d7-6eed-4fcc-aeb9-97696bb9c914",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-12T23:41:05.054Z",
+      "resolved_at": null,
+      "message": "Are items in this list clickable, aside from the copy button?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "521:28518",
+        "node_offset": {
+          "x": 224,
+          "y": 228
+        },
+        "stable_path": [
+          "521:28518"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "667956839",
+      "uuid": "56e1d0b6-061c-44c4-bbbe-b5a2cf757c1b",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-12T23:39:42.204Z",
+      "resolved_at": null,
+      "message": "gorgeous!",
+      "reactions": [
+        {
+          "emoji": ":raised_hands:",
+          "created_at": "2024-01-12T23:45:23.871Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "691:12920",
+        "node_offset": {
+          "x": 214,
+          "y": 338
+        },
+        "stable_path": [
+          "691:12920"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "667956777",
+      "uuid": "e70a49c9-4c10-484d-92b6-5380f1c9a395",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-12T23:39:28.840Z",
+      "resolved_at": null,
+      "message": "This rocks, thank you so much!",
+      "reactions": [
+        {
+          "emoji": ":raised_hands:",
+          "created_at": "2024-01-12T23:45:18.686Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "649:9886",
+        "node_offset": {
+          "x": 131,
+          "y": 16
+        },
+        "stable_path": [
+          "649:9886"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "667945808",
+      "uuid": "3087af3d-363d-4327-bfe8-dba2ba3a18a0",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-12T23:02:34.906Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg , the current add-on button in the form field has an interesting focus state, which the pink line is visible below the Relay icon button. So in HCM, I copied the behavior here... Let me know what you think, thank you.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:9503",
+        "node_offset": {
+          "x": 406,
+          "y": 43
+        },
+        "stable_path": [
+          "713:9503"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "666850022",
+      "uuid": "fa5aa861-7bd9-49de-b4c6-af5f4496d683",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-12T02:22:07.424Z",
+      "resolved_at": null,
+      "message": "Secondary buttons in HCM should have bold labels as well",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-12T17:03:23.385Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "691:14127",
+        "node_offset": {
+          "x": 62,
+          "y": 65
+        },
+        "stable_path": [
+          "691:14127"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "666843771",
+      "uuid": "3c42e775-7404-41d7-96f6-0ece591c29e9",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-12T02:09:26.986Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim can you please add screen reader annotations and keyboard focus order?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4:31",
+        "node_offset": {
+          "x": -7878,
+          "y": -12315
+        },
+        "stable_path": [
+          "4:31"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "666794572",
+      "uuid": "b524dd11-8986-4a48-a0e1-a087ef009dd5",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-12T00:15:30.593Z",
+      "resolved_at": null,
+      "message": "@Jessica Valentine , this pill/toggle design has been updated by the accessibility team. The current design has super light text when it's not selected/hovered. So the text now has violet and the pill has a border line. This should be applied to other surfaces in Relay fyi.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "681:7294",
+        "node_offset": {
+          "x": 326,
+          "y": 19
+        },
+        "stable_path": [
+          "681:7294"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "665571610",
+      "uuid": "e0509eac-61b2-451c-8f35-9334cc7ea451",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T05:23:08.318Z",
+      "resolved_at": null,
+      "message": "Where is this used? How is this content exposed to screen reader or keyboard users?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "648:16390",
+        "node_offset": {
+          "x": 40,
+          "y": 16
+        },
+        "stable_path": [
+          "648:16390"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "665563166",
+      "uuid": "75ad9a9f-7b62-4fa4-a34d-1679609b66a0",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T05:07:38.087Z",
+      "resolved_at": null,
+      "message": "Please mock this in HCM",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-11T16:29:55.925Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "521:28518",
+        "node_offset": {
+          "x": 176,
+          "y": 102
+        },
+        "stable_path": [
+          "521:28518"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "665562998",
+      "uuid": "c628b9c0-075b-46fd-b4d0-2e0f142bd51c",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T05:07:18.619Z",
+      "resolved_at": null,
+      "message": "Please mock this illustration in HCM using the guidance at the bottom of this page https://wiki.mozilla.org/Accessibility/Design_Guide",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-11T16:29:52.051Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "521:26798",
+        "node_offset": {
+          "x": 224,
+          "y": 332
+        },
+        "stable_path": [
+          "521:26798"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "665560347",
+      "uuid": "155b650c-86c7-495c-a5ea-966d7ee24f33",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T05:02:07.193Z",
+      "resolved_at": null,
+      "message": "If this is clickable, it needs to use button colors -- text colored UI is never clickable in HCM",
+      "reactions": [
+        {
+          "emoji": ":open_mouth:",
+          "created_at": "2024-01-11T16:05:49.259Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "296:1164",
+        "node_offset": {
+          "x": 431,
+          "y": 38
+        },
+        "stable_path": [
+          "296:1164"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "665556309",
+      "uuid": "93fcf21c-3a74-4bc6-8e65-a486ec1ac509",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T04:54:36.625Z",
+      "resolved_at": null,
+      "message": "Please mock this in HCM",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-11T16:29:43.742Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "573:16235",
+        "node_offset": {
+          "x": 139,
+          "y": 135
+        },
+        "stable_path": [
+          "573:16235"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "665555911",
+      "uuid": "c443d2e8-94e3-4370-9a24-29e738f2557b",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T04:53:53.849Z",
+      "resolved_at": null,
+      "message": "What is this component? It looks like it is functioning more like a tab/tabpanel than a button. I think this needs new HCM styling from the a11y team/to be added to our HCM lib",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "648:16527",
+        "node_offset": {
+          "x": 166,
+          "y": 200
+        },
+        "stable_path": [
+          "648:16527"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "665555057",
+      "uuid": "403ab79a-e63f-4088-af4f-97f0a404a827",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T04:52:18.139Z",
+      "resolved_at": null,
+      "message": "Please use a Canvas background here with Text foreground and a 1px solid Text border",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-11T16:16:22.006Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "648:13858",
+        "node_offset": {
+          "x": 148,
+          "y": 545
+        },
+        "stable_path": [
+          "648:13858"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "665554369",
+      "uuid": "27824c47-fa2d-457c-bdfd-af0609957529",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T04:51:01.510Z",
+      "resolved_at": null,
+      "message": "Is it possible to differentiate these icons in a way other than color? To a colorblind user or a user using a monochrome display these may appear identical.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "610:11388",
+        "node_offset": {
+          "x": 244,
+          "y": 317
+        },
+        "stable_path": [
+          "610:11388"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "665553913",
+      "uuid": "94aa5e0f-4333-45f4-b842-c2c3788856a4",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T04:50:08.564Z",
+      "resolved_at": null,
+      "message": "Can we use an exclamation in a circle icon here to indicate this is a warning/error aside from the red background?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-11T16:05:08.620Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "573:16309",
+        "node_offset": {
+          "x": 160,
+          "y": 138
+        },
+        "stable_path": [
+          "573:16309"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "665553211",
+      "uuid": "ea7697cb-0c70-4c76-8213-49d04389acb1",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T04:48:48.742Z",
+      "resolved_at": null,
+      "message": "The grey text color on the inactive pill, combined with the light background color of hte inactive pill makes it difficult to tell if this item is selectable or disabled. Can you increase the contrast here, or add color to distinguish it from disabled?",
+      "reactions": [
+        {
+          "emoji": ":grinning:",
+          "created_at": "2024-01-11T16:20:12.469Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "648:16527",
+        "node_offset": {
+          "x": 197,
+          "y": 36
+        },
+        "stable_path": [
+          "648:16527"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "665358045",
+      "uuid": "0376124c-0159-41f9-b534-38c64d0e16a2",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-10T22:16:49.425Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim can you please add an \"accessibility in progress\" badge to this file?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-10T22:36:12.030Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "663:11319",
+        "node_offset": {
+          "x": 1320,
+          "y": 12
+        },
+        "stable_path": [
+          "663:11319"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "665316704",
+      "uuid": "da6fe45a-e18a-47a8-b0e9-5c71b76d5986",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2024-01-10T21:23:58.547Z",
+      "resolved_at": null,
+      "message": "@Lloan Alas @Luke Crouch to help validate if the current phone dashboard does this",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "610:11388",
+        "node_offset": {
+          "x": 185,
+          "y": 195
+        },
+        "stable_path": [
+          "610:11388"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "662600273",
+      "uuid": "7d2ea290-2c1e-4059-b435-1e860d2fbcd2",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-08T21:05:23.162Z",
+      "resolved_at": null,
+      "message": "@Chris Rooney, here you can change the content. This will deliver information about both relay email/phone? @Jessica Valentine",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "624:11413",
+        "node_offset": {
+          "x": 30,
+          "y": 6
+        },
+        "stable_path": [
+          "624:11413"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "662398794",
+      "uuid": "047871c5-ac9c-451f-a8a7-9ede00aa09ef",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2024-01-08T17:11:29.738Z",
+      "resolved_at": null,
+      "message": "@Chris Rooney we did have get started initially from paeg v3 in the file and it got lost in copy/paste error on our end ----- so I added it back here for the 'activate' cta -- -is that still what we wanted? and is that okay that its different here in the panel vrs in the input field?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "512:16365",
+        "node_offset": {
+          "x": 274,
+          "y": 394
+        },
+        "stable_path": [
+          "512:16365"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "662393533",
+      "uuid": "43d8b779-cbad-4b5e-bd89-aeda33539eab",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Chris Rooney",
+        "img_url": "https://www.gravatar.com/avatar/0fc31fd9d3dc2e16579e032e9eaa9b8e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "968543860034055610"
+      },
+      "created_at": "2024-01-08T17:06:12.145Z",
+      "resolved_at": null,
+      "message": "@Jessica Valentine I worry that this is asking users to click through to a guaranteed dead end.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "507:12513",
+        "node_offset": {
+          "x": 199,
+          "y": 84
+        },
+        "stable_path": [
+          "507:12513"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "661231164",
+      "uuid": "15d80547-8048-43d3-9e2a-ff2091f8fd5e",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-05T22:24:50.962Z",
+      "resolved_at": null,
+      "message": "@Jessica Valentine , I made a warning panel which is the same red bar that we have for the email masks. Please take a look at it and the notes here. Def need Chris's help. \ncc: @Chris Rooney",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "573:16378",
+        "node_offset": {
+          "x": 1258,
+          "y": 184
+        },
+        "stable_path": [
+          "573:16378"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "660180527",
+      "uuid": "e1c09af7-0f2a-4d93-aa24-d2a79f123589",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2024-01-04T19:43:34.568Z",
+      "resolved_at": null,
+      "message": "@Chris Rooney",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "507:12460",
+        "node_offset": {
+          "x": 298,
+          "y": 154
+        },
+        "stable_path": [
+          "507:12460"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "660169290",
+      "uuid": "e14dd226-0c72-4ebb-8569-461526927e1f",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Maxx Crawford",
+        "img_url": "https://s3-alpha.figma.com/profile/c2ff00c0-9a76-4112-b613-891afcc3091e",
+        "id": "860588100877622114"
+      },
+      "created_at": "2024-01-04T19:29:15.123Z",
+      "resolved_at": null,
+      "message": "Add hover text to explain what clicking the button will do?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "507:12402",
+        "node_offset": {
+          "x": 576,
+          "y": 296
+        },
+        "stable_path": [
+          "507:12402"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "659334106",
+      "uuid": "670e891c-c22f-47a1-a8e1-b473a063a754",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2024-01-04T02:56:34.740Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim this is what I was thinking",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "499:10973",
+        "node_offset": {
+          "x": 321,
+          "y": 26
+        },
+        "stable_path": [
+          "499:10973"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "659241639",
+      "uuid": "8e737c7b-abb1-4ae6-9752-82dc2dbe7be7",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-03T22:33:10.306Z",
+      "resolved_at": null,
+      "message": "@Jessica Valentine , I think we should probably make the icon available for the form field to expose relay to more users. So I started putting the icon back in to all the flows below. Please take a look and let me know. Thanks.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "440:5223",
+        "node_offset": {
+          "x": 744,
+          "y": 575
+        },
+        "stable_path": [
+          "440:5223"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "659225498",
+      "uuid": "c770f4a8-c977-4406-9bad-3fe63db23d59",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-03T22:01:26.116Z",
+      "resolved_at": null,
+      "message": "@Jessica Valentine , the add-on from form fields won't have some navigations and stats to be consistent with the current email version. What do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "494:11531",
+        "node_offset": {
+          "x": 396,
+          "y": 80
+        },
+        "stable_path": [
+          "494:11531"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "658975880",
+      "uuid": "96d7bac3-eb11-4e98-ac8e-c67319944e85",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2024-01-03T16:33:56.217Z",
+      "resolved_at": null,
+      "message": "If a user runs out of minutes -- what happens? do we show the icon input field or not?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "565:10363",
+        "node_offset": {
+          "x": 135,
+          "y": 171
+        },
+        "stable_path": [
+          "565:10363"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "658974346",
+      "uuid": "3e59fae6-7043-4ffb-8727-c232212d4500",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2024-01-03T16:32:18.147Z",
+      "resolved_at": null,
+      "message": "This flow makes me REALLY want to figure out how to put the icon in the phone field. So when they come back to the page, the button is there and can auto-fill their new number.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "440:6633",
+        "node_offset": {
+          "x": 886,
+          "y": 86
+        },
+        "stable_path": [
+          "440:6633"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "658967906",
+      "uuid": "805f43b4-aeb9-44a2-a5c6-2dac5cb98260",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2024-01-03T16:25:36.382Z",
+      "resolved_at": null,
+      "message": "Cycle refresh",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "565:10363",
+        "node_offset": {
+          "x": 207,
+          "y": 355
+        },
+        "stable_path": [
+          "565:10363"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "658967272",
+      "uuid": "33290027-80fd-4aae-810f-b5ea73b45808",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2024-01-03T16:24:57.817Z",
+      "resolved_at": null,
+      "message": "Note: this copy button just needs to copy the value 3055555555 - i.e., it does NOT need to include the country code.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "440:5290",
+        "node_offset": {
+          "x": 311,
+          "y": 201
+        },
+        "stable_path": [
+          "440:5290"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "658966204",
+      "uuid": "7e1c3d9c-2a98-41fb-ad7a-f4778b386112",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2024-01-03T16:23:52.620Z",
+      "resolved_at": null,
+      "message": "What happens when this button is clicked? Does it open the same pop-up as clicking the browser action button?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "440:5223",
+        "node_offset": {
+          "x": 725,
+          "y": 582
+        },
+        "stable_path": [
+          "440:5223"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "658252585",
+      "uuid": "20ce4310-623c-465f-9c8e-da9e259e2df8",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2024-01-02T21:42:02.244Z",
+      "resolved_at": null,
+      "message": "@Chris Rooney feedback from product: can we make this content seem less like it is a trial period -- avoid using the term try -- needs update",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-03T16:14:40.407Z",
+          "user": {
+            "id": "968543860034055610",
+            "handle": "Chris Rooney",
+            "img_url": "https://www.gravatar.com/avatar/0fc31fd9d3dc2e16579e032e9eaa9b8e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "440:7323",
+        "node_offset": {
+          "x": 327,
+          "y": 454
+        },
+        "stable_path": [
+          "440:7323"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "658184717",
+      "uuid": "d1c90e35-aaef-42a2-a477-681992419c00",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2024-01-02T19:38:10.094Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim last thing to figure with PM (Jess owning) but  what is the detection tech constraints and capability of the phone input field & relay icon? Are we going to over detect or under detect?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "399:6775",
+        "node_offset": {
+          "x": 739,
+          "y": 596
+        },
+        "stable_path": [
+          "399:6775"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "653312626",
+      "uuid": "23688db5-819c-40a7-9871-b20162dfefae",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-12-21T20:37:11.688Z",
+      "resolved_at": null,
+      "message": "@Jessica Valentine page for waitlist",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "293:2723",
+        "node_offset": {
+          "x": 20969,
+          "y": 2067
+        },
+        "stable_path": [
+          "293:2723"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "653311470",
+      "uuid": "539356e3-d32a-4504-b984-df882dc20f3a",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-12-21T20:35:23.549Z",
+      "resolved_at": null,
+      "message": "CTA button: clear language that users have to pay for the premium...? Include the message that this is not free for all.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "403:6799",
+        "node_offset": {
+          "x": 330,
+          "y": 486
+        },
+        "stable_path": [
+          "403:6799"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "653302400",
+      "uuid": "a81b4a56-fce2-45c0-9476-9080340c2ca8",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-12-21T20:21:49.831Z",
+      "resolved_at": null,
+      "message": "Empty state",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "296:1047",
+        "node_offset": {
+          "x": 399,
+          "y": 94
+        },
+        "stable_path": [
+          "296:1047"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "619925550",
+      "uuid": "11c6fde4-66e4-47e3-b46b-9cb529ca07f7",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Casey Tang",
+        "img_url": "https://s3-alpha.figma.com/profile/78e55cbc-8292-46e8-bddb-78db7301f960",
+        "id": "1066403607587083765"
+      },
+      "created_at": "2023-11-17T19:42:42.711Z",
+      "resolved_at": null,
+      "message": "Ideally make your Navigation uniform. Currently its moving from bottom to the top",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "180:6386",
+        "node_offset": {
+          "x": 1113,
+          "y": 643
+        },
+        "stable_path": [
+          "180:6386"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "619915554",
+      "uuid": "e05fd5a3-134b-48ea-87ad-066afd589915",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2023-11-17T19:30:04.529Z",
+      "resolved_at": null,
+      "message": "Do you think this state looks like enabled? I'm getting the sense that this is disabled. Something to review.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "180:6386",
+        "node_offset": {
+          "x": 972,
+          "y": 165
+        },
+        "stable_path": [
+          "180:6386"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "619914867",
+      "uuid": "999841b0-096a-48c9-abbd-a32a876a4807",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2023-11-17T19:29:10.830Z",
+      "resolved_at": null,
+      "message": "Is this message under the same hierarchy level vs the box above? Not sure if there is a sense of urgency regarding the expiration. Something to consider.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "180:2069",
+        "node_offset": {
+          "x": 1022,
+          "y": 488
+        },
+        "stable_path": [
+          "180:2069"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "619837052",
+      "uuid": "a86453dd-0db8-4102-8594-703ccec23146",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Casey Tang",
+        "img_url": "https://s3-alpha.figma.com/profile/78e55cbc-8292-46e8-bddb-78db7301f960",
+        "id": "1066403607587083765"
+      },
+      "created_at": "2023-11-17T17:55:45.444Z",
+      "resolved_at": null,
+      "message": "Consider navigation type size in relation to the primary action",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "178:5806",
+        "node_offset": {
+          "x": 1133,
+          "y": 182
+        },
+        "stable_path": [
+          "178:5806"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "619835366",
+      "uuid": "167e2b0d-2a08-4ecf-b267-4ece089b135b",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Casey Tang",
+        "img_url": "https://s3-alpha.figma.com/profile/78e55cbc-8292-46e8-bddb-78db7301f960",
+        "id": "1066403607587083765"
+      },
+      "created_at": "2023-11-17T17:53:47.737Z",
+      "resolved_at": null,
+      "message": "theres two sections here. It actually seems the top section is more important if user can actually reach a limit. \n\nStatus should be surfaced if user can run out of masking per month",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "180:2069",
+        "node_offset": {
+          "x": 805,
+          "y": 287
+        },
+        "stable_path": [
+          "180:2069"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "619834358",
+      "uuid": "d2b163ec-7a09-4561-a0e8-534c6ed55e4a",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Casey Tang",
+        "img_url": "https://s3-alpha.figma.com/profile/78e55cbc-8292-46e8-bddb-78db7301f960",
+        "id": "1066403607587083765"
+      },
+      "created_at": "2023-11-17T17:52:36.296Z",
+      "resolved_at": null,
+      "message": "Ideally make your Navigation uniform",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "180:2069",
+        "node_offset": {
+          "x": 857,
+          "y": 239
+        },
+        "stable_path": [
+          "180:2069"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "619833234",
+      "uuid": "11bce180-cbb6-4209-8564-5eeb9b811606",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Casey Tang",
+        "img_url": "https://s3-alpha.figma.com/profile/78e55cbc-8292-46e8-bddb-78db7301f960",
+        "id": "1066403607587083765"
+      },
+      "created_at": "2023-11-17T17:51:24.405Z",
+      "resolved_at": null,
+      "message": "Consider using a uniform stroke for the entire icon. if you can't achieve it through strokes, find another means to create uniformity",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "178:5806",
+        "node_offset": {
+          "x": 1109,
+          "y": 296
+        },
+        "stable_path": [
+          "178:5806"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "619829778",
+      "uuid": "f8eb7ebe-137b-45bd-a477-df4922df1a40",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Casey Tang",
+        "img_url": "https://s3-alpha.figma.com/profile/78e55cbc-8292-46e8-bddb-78db7301f960",
+        "id": "1066403607587083765"
+      },
+      "created_at": "2023-11-17T17:47:28.897Z",
+      "resolved_at": null,
+      "message": "Nav is not demarcated enough from the section above. \n\nAdditionally, differentiation is achieve through font size but you might want to try another means to create that differentiation because it essentially creates more attention than the nav section over the section right above",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "178:5806",
+        "node_offset": {
+          "x": 1084,
+          "y": 646
+        },
+        "stable_path": [
+          "178:5806"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "619826248",
+      "uuid": "7f99e96e-a5d7-4f01-9895-7ff7823423c4",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Setareh Shamdani",
+        "img_url": "https://www.gravatar.com/avatar/f3234bc84da431aa55190fce2684a703?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "976542209905128424"
+      },
+      "created_at": "2023-11-17T17:43:39.075Z",
+      "resolved_at": null,
+      "message": "Curious what the blocked view looks like (you likely have this elsewhere) because the \"forward to\" will disappear right?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "178:5806",
+        "node_offset": {
+          "x": 1116,
+          "y": 450
+        },
+        "stable_path": [
+          "178:5806"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "619822747",
+      "uuid": "5c5bf08c-4627-459c-a073-bd6b4cf9a33b",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2023-11-17T17:39:58.850Z",
+      "resolved_at": null,
+      "message": "Casey: the design might feel better if this is better aligned, feels floating",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "178:5806",
+        "node_offset": {
+          "x": 862,
+          "y": 248
+        },
+        "stable_path": [
+          "178:5806"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "619821305",
+      "uuid": "ea48d9a5-6538-4bdc-b7c0-591013d97d54",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2023-11-17T17:38:23.250Z",
+      "resolved_at": null,
+      "message": "Casey feedback: the relationship between the top and bottom component could be perhaps more visually developed.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "178:5806",
+        "node_offset": {
+          "x": 842,
+          "y": 688
+        },
+        "stable_path": [
+          "178:5806"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "619820211",
+      "uuid": "28d0de50-c135-4c69-82a1-fbfdb4e5fdc0",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2023-11-17T17:37:10.906Z",
+      "resolved_at": null,
+      "message": "Maybe mask singular is more accurate?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-11-17T17:42:37.283Z",
+          "user": {
+            "id": "968543860034055610",
+            "handle": "Chris Rooney",
+            "img_url": "https://www.gravatar.com/avatar/0fc31fd9d3dc2e16579e032e9eaa9b8e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "178:5806",
+        "node_offset": {
+          "x": 1166,
+          "y": 172
+        },
+        "stable_path": [
+          "178:5806"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "619818210",
+      "uuid": "aa5b01ee-fdfe-4f84-9975-8ef1cad20e66",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Zachery Sutton",
+        "img_url": "https://s3-alpha.figma.com/profile/2a1dc37d-4206-407a-8e5d-c246def9ba40",
+        "id": "976544365619812549"
+      },
+      "created_at": "2023-11-17T17:35:03.397Z",
+      "resolved_at": null,
+      "message": "Maybe blue circle with with icon?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "178:5806",
+        "node_offset": {
+          "x": 1100,
+          "y": 278
+        },
+        "stable_path": [
+          "178:5806"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "619818136",
+      "uuid": "25dc035a-5875-4b0f-80f0-c4514dfac62b",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Setareh Shamdani",
+        "img_url": "https://www.gravatar.com/avatar/f3234bc84da431aa55190fce2684a703?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "976542209905128424"
+      },
+      "created_at": "2023-11-17T17:34:58.531Z",
+      "resolved_at": null,
+      "message": "Curious what the remainder of this flow would look like :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "177:2628",
+        "node_offset": {
+          "x": 1140,
+          "y": 2564
+        },
+        "stable_path": [
+          "177:2628"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "619815078",
+      "uuid": "4962ff3b-30ad-42e1-a1f2-ce2baf107516",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Peter Benvenuto",
+        "img_url": "https://www.gravatar.com/avatar/da32cc5a290e3b7d1a69f10f488f7516?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "973970800642847098"
+      },
+      "created_at": "2023-11-17T17:31:32.673Z",
+      "resolved_at": null,
+      "message": "Should image be on top of the copy or below?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "180:3507",
+        "node_offset": {
+          "x": 1094,
+          "y": 498
+        },
+        "stable_path": [
+          "180:3507"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "619813577",
+      "uuid": "7b2f1d1a-09c8-4fec-a017-15bff9a01407",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2023-11-17T17:29:55.179Z",
+      "resolved_at": null,
+      "message": "Maybe an opportunity to consider removing \"mask\" and just keep: Email | Phone Number ... Thinking on the future if you need translations and the spacing, for example: \"Email Masks\" -> \"M\u00e1scaras de Correo Electr\u00f3nico\"",
+      "reactions": [
+        {
+          "emoji": ":thinking_face:",
+          "created_at": "2023-11-17T17:42:29.170Z",
+          "user": {
+            "id": "968543860034055610",
+            "handle": "Chris Rooney",
+            "img_url": "https://www.gravatar.com/avatar/0fc31fd9d3dc2e16579e032e9eaa9b8e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "178:5806",
+        "node_offset": {
+          "x": 937,
+          "y": 182
+        },
+        "stable_path": [
+          "178:5806"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "619805996",
+      "uuid": "e430131c-2dac-4ba3-aebc-557d06e963e4",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Peter Benvenuto",
+        "img_url": "https://www.gravatar.com/avatar/da32cc5a290e3b7d1a69f10f488f7516?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "973970800642847098"
+      },
+      "created_at": "2023-11-17T17:21:55.657Z",
+      "resolved_at": null,
+      "message": "Copy button + copy icon beside - do we need both?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "178:5806",
+        "node_offset": {
+          "x": 1128,
+          "y": 292
+        },
+        "stable_path": [
+          "178:5806"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "619799757",
+      "uuid": "78972141-05d1-45bc-b99c-4d12f05d801a",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Peter Benvenuto",
+        "img_url": "https://www.gravatar.com/avatar/da32cc5a290e3b7d1a69f10f488f7516?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "973970800642847098"
+      },
+      "created_at": "2023-11-17T17:15:30.729Z",
+      "resolved_at": null,
+      "message": "Is there a way to keep the user in the extension to complete some of this? - Zachery",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "180:4332",
+        "node_offset": {
+          "x": 706,
+          "y": 423
+        },
+        "stable_path": [
+          "180:4332"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "619799344",
+      "uuid": "1863444e-03f6-4798-9009-12abd73c66dc",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2023-11-17T17:15:06.867Z",
+      "resolved_at": null,
+      "message": "Should we consider having the experience of activation in the widget/addon maybe maybe not instead of going out to the web",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "180:7004",
+        "node_offset": {
+          "x": 1139,
+          "y": 542
+        },
+        "stable_path": [
+          "180:7004"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "619798797",
+      "uuid": "853fbf17-d57f-4d42-9973-f25c6ecc7352",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Peter Benvenuto",
+        "img_url": "https://www.gravatar.com/avatar/da32cc5a290e3b7d1a69f10f488f7516?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "973970800642847098"
+      },
+      "created_at": "2023-11-17T17:14:32.209Z",
+      "resolved_at": null,
+      "message": "Tabs are great here - good interaction to switch between views",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "180:7004",
+        "node_offset": {
+          "x": 1023,
+          "y": 143
+        },
+        "stable_path": [
+          "180:7004"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "619798795",
+      "uuid": "b0cd52a5-7633-4b8a-8b7a-51fe5c02a873",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2023-11-17T17:14:32.158Z",
+      "resolved_at": null,
+      "message": "The tabs make sense & reusing a lot of the patterns we currently have from the design system -- feels successful",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "180:7004",
+        "node_offset": {
+          "x": 1190,
+          "y": 150
+        },
+        "stable_path": [
+          "180:7004"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "602861414",
+      "uuid": "9b6fd597-93a2-4cda-90a7-6bf9108c1db3",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Doris Deng",
+        "img_url": "https://www.gravatar.com/avatar/ba4f00f8b4af9f2ba7a44cdc28ea1021?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1264259860578666887"
+      },
+      "created_at": "2023-11-01T17:17:59.595Z",
+      "resolved_at": null,
+      "message": "@Maxx Crawford is it technically feasible/realistic for the add-on to detect geo so this experience can be \"upgrade now\" if you are in US and Canada, and \"sign up for waitlist\" if you are in other geos/countries?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "73:4139",
+        "node_offset": {
+          "x": 410,
+          "y": 234
+        },
+        "stable_path": [
+          "73:4139"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "602858451",
+      "uuid": "51b75ef5-c5ea-48e0-b624-0cc12181f561",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2023-11-01T17:15:23.446Z",
+      "resolved_at": null,
+      "message": "Lets review with ENG and see if this is even possible to do the phone activation workflow in the add-on? Feasibility wise.... and then --- {product/design questions] would we want to do this in the add-on? or push them to the dashboard ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "73:4368",
+        "node_offset": {
+          "x": 267,
+          "y": 63
+        },
+        "stable_path": [
+          "73:4368"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "597449459",
+      "uuid": "3fb1a6d7-dcb7-4e95-8622-50738e5eff12",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-10-26T19:18:29.486Z",
+      "resolved_at": null,
+      "message": "Content to highlight, for example, \"the phone masking is coming soon...\" - countries where we do not provide the phone masking yet. Maybe add a link to direct users and to share any news.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "67:3812",
+        "node_offset": {
+          "x": 475,
+          "y": 174
+        },
+        "stable_path": [
+          "67:3812"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "597443831",
+      "uuid": "742919df-b240-4d73-b4bc-6ac5380863e0",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2023-10-26T19:12:34.117Z",
+      "resolved_at": null,
+      "message": "refreshing limits -- \n10ish ppl reaching text limit in 6mos\nLow amounts of people reaching these limits.... but this is valuable to show still....every 30 days is when this refresh happens",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "30:4287",
+        "node_offset": {
+          "x": 584,
+          "y": 358
+        },
+        "stable_path": [
+          "30:4287"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "597435843",
+      "uuid": "d9b31be2-d8be-4086-9d01-ea8f18ae699f",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2023-10-26T19:04:01.419Z",
+      "resolved_at": null,
+      "message": "Possible tech constraint: need ENG consult ... trouble detecting this field all the time",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:4224",
+        "node_offset": {
+          "x": 170,
+          "y": 14
+        },
+        "stable_path": [
+          "29:4224"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "597434237",
+      "uuid": "b05fa9e8-8c61-4bff-ad01-d27927c8a2e6",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2023-10-26T19:02:14.389Z",
+      "resolved_at": null,
+      "message": "What if we have someone viewing this who isnt currently in the GEO where we offer this? what would they see? a waitlist link? re: Doris",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "58:2565",
+        "node_offset": {
+          "x": 408,
+          "y": 177
+        },
+        "stable_path": [
+          "58:2565"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "597432824",
+      "uuid": "aa9237e2-76a7-4c93-aeeb-e4b9b3299d59",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Valentine",
+        "img_url": "https://s3-alpha.figma.com/profile/ecc278ef-8d66-4e48-9dcf-60373fd8f40a",
+        "id": "789159187067802532"
+      },
+      "created_at": "2023-10-26T19:00:43.954Z",
+      "resolved_at": null,
+      "message": "Lets make sure the country code decision is still flexible to allow for adding this back in the future -- re: Doris",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:3948",
+        "node_offset": {
+          "x": 88,
+          "y": 255
+        },
+        "stable_path": [
+          "29:3948"
+        ]
+      },
+      "order_id": "2"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "684194473",
+      "uuid": "6213bbf6-bedb-4619-af44-b6296dde8a23",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Se Yeon Kim",
+        "img_url": "https://www.gravatar.com/avatar/1a6b7195e69eb0f26f36ebc08c04fb2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "981655370670084154"
+      },
+      "created_at": "2024-01-29T17:38:45.189Z",
+      "resolved_at": null,
+      "message": "Will you add another option for \"I haven't received a text from this website that I was expecting\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "951:9941",
+        "node_offset": {
+          "x": 107,
+          "y": 404
+        },
+        "stable_path": [
+          "951:9941"
+        ]
+      },
+      "order_id": "116"
+    },
+    {
+      "id": "672351800",
+      "uuid": "cefba766-e16a-4806-a77c-afd585398c54",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-17T22:20:49.530Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim this is what I mean, for reference",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "440:4988",
+        "node_offset": {
+          "x": 795,
+          "y": 193
+        },
+        "stable_path": [
+          "440:4988"
+        ]
+      },
+      "order_id": "113"
+    },
+    {
+      "id": "672195284",
+      "uuid": "80bc50b5-f8f1-443b-a253-66893b09723b",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-17T19:34:39.417Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim you did an awesome job on these annotations, thank you for being so thorough!",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-17T22:18:44.502Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "713:9483",
+        "node_offset": {
+          "x": 417,
+          "y": 80
+        },
+        "stable_path": [
+          "713:9483"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "672194329",
+      "uuid": "e7c14991-184e-48fc-9213-4ac7c3c694f1",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-17T19:33:42.427Z",
+      "resolved_at": null,
+      "message": "There should be a grey annotation in the annotations kit that is for presentational items specifically",
+      "reactions": [
+        {
+          "emoji": ":raised_hands:",
+          "created_at": "2024-01-17T22:21:17.099Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "740:11054",
+        "node_offset": {
+          "x": 54,
+          "y": 1202
+        },
+        "stable_path": [
+          "740:11054"
+        ]
+      },
+      "order_id": "111"
+    },
+    {
+      "id": "672192341",
+      "uuid": "bd523086-6f4a-49fa-bfc0-4456bc6a9ac2",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-17T19:31:45.076Z",
+      "resolved_at": null,
+      "message": "Please move 6B above B",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "733:10765",
+        "node_offset": {
+          "x": 565,
+          "y": 504
+        },
+        "stable_path": [
+          "733:10765"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "672189091",
+      "uuid": "9e1bdb4e-453e-4a0b-adc4-3e2858ccd0a5",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-17T19:28:38.877Z",
+      "resolved_at": null,
+      "message": "This button should follow HCM button states (see Icon Button component above), but these states should be distinct from the states of the email ie. hovering the email doesn't automatically hover the button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "440:4988",
+        "node_offset": {
+          "x": 818,
+          "y": 129
+        },
+        "stable_path": [
+          "440:4988"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "672156652",
+      "uuid": "e8fce45a-9a81-4ca8-81a1-1e354849764b",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-17T18:57:59.436Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg , what would be the name here...? Name can be based on the tab button (forwarding vs. blocking)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "733:10765",
+        "node_offset": {
+          "x": 627,
+          "y": 350
+        },
+        "stable_path": [
+          "733:10765"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "670814331",
+      "uuid": "b78f8e00-d653-45d2-89b3-8e481f33705e",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-16T21:31:21.496Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg , can we just use the tabs only for the icon button \"copy\"? I think this more makes sense like you said, the focusing the list doesn't really do anything. :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "742:11643",
+        "node_offset": {
+          "x": 559,
+          "y": 296
+        },
+        "stable_path": [
+          "742:11643"
+        ]
+      },
+      "order_id": "107"
+    },
+    {
+      "id": "667978438",
+      "uuid": "0d8bbd41-3e38-4fdb-a5db-44ad491c0c98",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:25:03.570Z",
+      "resolved_at": null,
+      "message": "There are new annotations you can use in figma, courtesy of the reusable components team :) look here for more info https://docs.google.com/document/d/1PaxpJoWrke1vTHu_lVPyvpmEjFqHAmxu6lt0eXboX2s/edit",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "733:10765",
+        "node_offset": {
+          "x": 90,
+          "y": 5
+        },
+        "stable_path": [
+          "733:10765"
+        ]
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "667978022",
+      "uuid": "73b9849d-542b-4e7f-9da7-987702b50dfd",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:21:45.995Z",
+      "resolved_at": null,
+      "message": "list item",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:10026",
+        "node_offset": {
+          "x": 103,
+          "y": 318
+        },
+        "stable_path": [
+          "713:10026"
+        ]
+      },
+      "order_id": "105"
+    },
+    {
+      "id": "667978004",
+      "uuid": "7c180e33-deaa-4710-8aa2-edc2ecb8f1a2",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:21:34.684Z",
+      "resolved_at": null,
+      "message": "these copy buttons should have individual annotations, since they're distinct from the list item",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:9989",
+        "node_offset": {
+          "x": 367,
+          "y": 26
+        },
+        "stable_path": [
+          "713:9989"
+        ]
+      },
+      "order_id": "104"
+    },
+    {
+      "id": "667977974",
+      "uuid": "8c7b6e31-a5ac-4a3d-a091-803e012ca02f",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:21:20.325Z",
+      "resolved_at": null,
+      "message": "list item",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:10026",
+        "node_offset": {
+          "x": 118,
+          "y": 108
+        },
+        "stable_path": [
+          "713:10026"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "667977954",
+      "uuid": "7e9969b3-e4fe-4f19-b691-13de0166a356",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:21:12.854Z",
+      "resolved_at": null,
+      "message": "Please add a container around these items with role=list",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "742:11848",
+        "node_offset": {
+          "x": 23,
+          "y": 98
+        },
+        "stable_path": [
+          "742:11848"
+        ]
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "667977930",
+      "uuid": "eaab2a8e-e4a0-47ab-a103-13ca61a0d517",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:21:03.368Z",
+      "resolved_at": null,
+      "message": "list item",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:9861",
+        "node_offset": {
+          "x": 106,
+          "y": 835
+        },
+        "stable_path": [
+          "713:9861"
+        ]
+      },
+      "order_id": "101"
+    },
+    {
+      "id": "667977921",
+      "uuid": "e4fd3e02-dcb1-4eb1-be6c-4901af021933",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:21:00.313Z",
+      "resolved_at": null,
+      "message": "list item",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:9861",
+        "node_offset": {
+          "x": 119,
+          "y": 1006
+        },
+        "stable_path": [
+          "713:9861"
+        ]
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "667977845",
+      "uuid": "188ee8f5-74be-4ac8-8ff4-55661927a9c5",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:20:26.662Z",
+      "resolved_at": null,
+      "message": "see earlier annotation notes for tabs",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:9861",
+        "node_offset": {
+          "x": 68,
+          "y": 486
+        },
+        "stable_path": [
+          "713:9861"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "667977808",
+      "uuid": "432aa072-bac4-406a-94c1-584f9609c4d7",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:20:12.209Z",
+      "resolved_at": null,
+      "message": "please note that users should move between tabs with arrow keys, not tab key",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17191",
+        "node_offset": {
+          "x": 73,
+          "y": 23
+        },
+        "stable_path": [
+          "707:17191"
+        ]
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "667977806",
+      "uuid": "b1d487eb-8c9e-4429-bcd8-2f2a2958357e",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:20:10.235Z",
+      "resolved_at": null,
+      "message": "please note that users should move between tabs with arrow keys, not tab key",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17176",
+        "node_offset": {
+          "x": 7,
+          "y": 33
+        },
+        "stable_path": [
+          "707:17176"
+        ]
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "667977709",
+      "uuid": "35c7db2c-91e8-4434-ae94-789770be3f93",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:19:33.351Z",
+      "resolved_at": null,
+      "message": "see earlier annotation notes for tabs",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:9022",
+        "node_offset": {
+          "x": 174,
+          "y": 563
+        },
+        "stable_path": [
+          "713:9022"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "667977694",
+      "uuid": "20ae6a91-e4a7-407b-89fd-057ed9d00d35",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:19:28.320Z",
+      "resolved_at": null,
+      "message": "see earlier annotations for tabs",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:9022",
+        "node_offset": {
+          "x": 94,
+          "y": 422
+        },
+        "stable_path": [
+          "713:9022"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "667977669",
+      "uuid": "163bbd7f-30bc-4afb-8b95-0a9e9cfe848c",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:19:18.208Z",
+      "resolved_at": null,
+      "message": "please annotate that this illlustration should be presentational",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:8568",
+        "node_offset": {
+          "x": 206,
+          "y": 364
+        },
+        "stable_path": [
+          "713:8568"
+        ]
+      },
+      "order_id": "94"
+    },
+    {
+      "id": "667977601",
+      "uuid": "f4db0570-6ec9-413d-9227-097c7ef6c550",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:18:45.937Z",
+      "resolved_at": null,
+      "message": "see notes in first annotatiosn list",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "733:10766",
+        "node_offset": {
+          "x": 343,
+          "y": 849
+        },
+        "stable_path": [
+          "733:10766"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "667977581",
+      "uuid": "b029baaa-1acf-4ad0-8fc4-422c2e06aa29",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:18:41.713Z",
+      "resolved_at": null,
+      "message": "See notes in first annotations list",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "733:10766",
+        "node_offset": {
+          "x": 337,
+          "y": 623
+        },
+        "stable_path": [
+          "733:10766"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "667977472",
+      "uuid": "6a9776cc-6e73-475e-886a-c9d4f00f709c",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:17:56.830Z",
+      "resolved_at": null,
+      "message": "role=tab\nalso, under props, please add that each tab should have an aria-controls property where the value of the prop is the ID of the tab panel it operates on",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17201",
+        "node_offset": {
+          "x": 108,
+          "y": 898
+        },
+        "stable_path": [
+          "707:17201"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "667977193",
+      "uuid": "6f6435f8-5029-4a8c-accb-703243b0094b",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:15:48.542Z",
+      "resolved_at": null,
+      "message": "Please add an annotation around this content (the content shown when \"forwarding\" is selected) and annotate it with role=tabpanel",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "728:8933",
+        "node_offset": {
+          "x": 60,
+          "y": 215
+        },
+        "stable_path": [
+          "728:8933"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "667977130",
+      "uuid": "34660df8-cec7-48bf-912e-7d44be8473f2",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:15:23.760Z",
+      "resolved_at": null,
+      "message": "role=tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17201",
+        "node_offset": {
+          "x": 102,
+          "y": 824
+        },
+        "stable_path": [
+          "707:17201"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "667977110",
+      "uuid": "5e01c6a3-1533-4bff-9503-b499db8e55d1",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:15:12.294Z",
+      "resolved_at": null,
+      "message": "Please put an annotation around both these elements (7,8) with role-tablist, not sure what the best name is here. \"Relay action\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17191",
+        "node_offset": {
+          "x": 138,
+          "y": 21
+        },
+        "stable_path": [
+          "707:17191"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "667977021",
+      "uuid": "57b91f2d-35cf-4e80-ae9f-d71fcf2d734a",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:14:28.699Z",
+      "resolved_at": null,
+      "message": "This region (containing all the content of the current active tab) should be annotated with a role=tabpanel",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:16900",
+        "node_offset": {
+          "x": 28,
+          "y": 127
+        },
+        "stable_path": [
+          "707:16900"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "667976774",
+      "uuid": "cc64a6b0-46d4-47bd-b129-64669eee2f47",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:12:39.375Z",
+      "resolved_at": null,
+      "message": "Please note under properties that the selected tab should have aria-selected=true",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17201",
+        "node_offset": {
+          "x": 274,
+          "y": 458
+        },
+        "stable_path": [
+          "707:17201"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "667976685",
+      "uuid": "9fb2da5b-1c76-43fd-a2ee-1a978a8bef8e",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:11:59.547Z",
+      "resolved_at": null,
+      "message": "role=tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17201",
+        "node_offset": {
+          "x": 275,
+          "y": 483
+        },
+        "stable_path": [
+          "707:17201"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "667976680",
+      "uuid": "2191f6eb-cf15-4a5a-b436-1efd4d16ac8e",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:11:57.388Z",
+      "resolved_at": null,
+      "message": "role=tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17201",
+        "node_offset": {
+          "x": 168,
+          "y": 407
+        },
+        "stable_path": [
+          "707:17201"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "667976599",
+      "uuid": "d10e4d1a-a4c9-4f08-bf71-cb72b5b51a7a",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T01:11:27.720Z",
+      "resolved_at": null,
+      "message": "Please put an annotation around both of these elements (4, 5) with role=tablist",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:17171",
+        "node_offset": {
+          "x": 11,
+          "y": 32
+        },
+        "stable_path": [
+          "707:17171"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "667969581",
+      "uuid": "8035320f-217e-42d9-bf13-21a07ff704d2",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T00:32:48.369Z",
+      "resolved_at": null,
+      "message": "Please use Text and Canvas to color this, without a border. Continue to use Button Text and Button Background for the copy button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "693:9081",
+        "node_offset": {
+          "x": 306,
+          "y": 246
+        },
+        "stable_path": [
+          "693:9081"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "667969517",
+      "uuid": "e78c8023-ad42-47e9-93ea-1cf8d051e27b",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-13T00:32:27.357Z",
+      "resolved_at": null,
+      "message": "Please use ButtonText and Button Background for the copy button -- its state should be independent of the state of the row (ie. if the row is hovered, the button is not necessarily hovered, unless clicking the row does the same thing as clicking the button)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "693:9081",
+        "node_offset": {
+          "x": 378,
+          "y": 195
+        },
+        "stable_path": [
+          "693:9081"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "667957588",
+      "uuid": "6f6892a8-36b2-46b7-ad97-d1ef7a178e38",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-12T23:42:02.245Z",
+      "resolved_at": null,
+      "message": "Sorry I missed this earlier, please bold these labels",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-12T23:49:45.972Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "681:7294",
+        "node_offset": {
+          "x": 119,
+          "y": 206
+        },
+        "stable_path": [
+          "681:7294"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "667957457",
+      "uuid": "84a40f29-5e5f-4051-8bce-30cca1c5c107",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-12T23:41:33.873Z",
+      "resolved_at": null,
+      "message": "In HCM, all form control labels/content should be bold",
+      "reactions": [
+        {
+          "emoji": ":saluting_face:",
+          "created_at": "2024-01-12T23:47:25.325Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "707:14466",
+        "node_offset": {
+          "x": 69,
+          "y": 48
+        },
+        "stable_path": [
+          "707:14466"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "667957323",
+      "uuid": "af6e50d7-6eed-4fcc-aeb9-97696bb9c914",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-12T23:41:05.054Z",
+      "resolved_at": null,
+      "message": "Are items in this list clickable, aside from the copy button?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "521:28518",
+        "node_offset": {
+          "x": 224,
+          "y": 228
+        },
+        "stable_path": [
+          "521:28518"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "667956839",
+      "uuid": "56e1d0b6-061c-44c4-bbbe-b5a2cf757c1b",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-12T23:39:42.204Z",
+      "resolved_at": null,
+      "message": "gorgeous!",
+      "reactions": [
+        {
+          "emoji": ":raised_hands:",
+          "created_at": "2024-01-12T23:45:23.871Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "691:12920",
+        "node_offset": {
+          "x": 214,
+          "y": 338
+        },
+        "stable_path": [
+          "691:12920"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "667956777",
+      "uuid": "e70a49c9-4c10-484d-92b6-5380f1c9a395",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-12T23:39:28.840Z",
+      "resolved_at": null,
+      "message": "This rocks, thank you so much!",
+      "reactions": [
+        {
+          "emoji": ":raised_hands:",
+          "created_at": "2024-01-12T23:45:18.686Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "649:9886",
+        "node_offset": {
+          "x": 131,
+          "y": 16
+        },
+        "stable_path": [
+          "649:9886"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "667945808",
+      "uuid": "3087af3d-363d-4327-bfe8-dba2ba3a18a0",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-12T23:02:34.906Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg , the current add-on button in the form field has an interesting focus state, which the pink line is visible below the Relay icon button. So in HCM, I copied the behavior here... Let me know what you think, thank you.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "713:9503",
+        "node_offset": {
+          "x": 406,
+          "y": 43
+        },
+        "stable_path": [
+          "713:9503"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "666850022",
+      "uuid": "fa5aa861-7bd9-49de-b4c6-af5f4496d683",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-12T02:22:07.424Z",
+      "resolved_at": null,
+      "message": "Secondary buttons in HCM should have bold labels as well",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-12T17:03:23.385Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "691:14127",
+        "node_offset": {
+          "x": 62,
+          "y": 65
+        },
+        "stable_path": [
+          "691:14127"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "666843771",
+      "uuid": "3c42e775-7404-41d7-96f6-0ece591c29e9",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-12T02:09:26.986Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim can you please add screen reader annotations and keyboard focus order?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4:31",
+        "node_offset": {
+          "x": -7878,
+          "y": -12315
+        },
+        "stable_path": [
+          "4:31"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "666794572",
+      "uuid": "b524dd11-8986-4a48-a0e1-a087ef009dd5",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-12T00:15:30.593Z",
+      "resolved_at": null,
+      "message": "@Jessica Valentine , this pill/toggle design has been updated by the accessibility team. The current design has super light text when it's not selected/hovered. So the text now has violet and the pill has a border line. This should be applied to other surfaces in Relay fyi.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "681:7294",
+        "node_offset": {
+          "x": 326,
+          "y": 19
+        },
+        "stable_path": [
+          "681:7294"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "665571610",
+      "uuid": "e0509eac-61b2-451c-8f35-9334cc7ea451",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T05:23:08.318Z",
+      "resolved_at": null,
+      "message": "Where is this used? How is this content exposed to screen reader or keyboard users?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "648:16390",
+        "node_offset": {
+          "x": 40,
+          "y": 16
+        },
+        "stable_path": [
+          "648:16390"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "665563166",
+      "uuid": "75ad9a9f-7b62-4fa4-a34d-1679609b66a0",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T05:07:38.087Z",
+      "resolved_at": null,
+      "message": "Please mock this in HCM",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-11T16:29:55.925Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "521:28518",
+        "node_offset": {
+          "x": 176,
+          "y": 102
+        },
+        "stable_path": [
+          "521:28518"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "665562998",
+      "uuid": "c628b9c0-075b-46fd-b4d0-2e0f142bd51c",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T05:07:18.619Z",
+      "resolved_at": null,
+      "message": "Please mock this illustration in HCM using the guidance at the bottom of this page https://wiki.mozilla.org/Accessibility/Design_Guide",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-11T16:29:52.051Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "521:26798",
+        "node_offset": {
+          "x": 224,
+          "y": 332
+        },
+        "stable_path": [
+          "521:26798"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "665560347",
+      "uuid": "155b650c-86c7-495c-a5ea-966d7ee24f33",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T05:02:07.193Z",
+      "resolved_at": null,
+      "message": "If this is clickable, it needs to use button colors -- text colored UI is never clickable in HCM",
+      "reactions": [
+        {
+          "emoji": ":open_mouth:",
+          "created_at": "2024-01-11T16:05:49.259Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "296:1164",
+        "node_offset": {
+          "x": 431,
+          "y": 38
+        },
+        "stable_path": [
+          "296:1164"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "665556309",
+      "uuid": "93fcf21c-3a74-4bc6-8e65-a486ec1ac509",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T04:54:36.625Z",
+      "resolved_at": null,
+      "message": "Please mock this in HCM",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-11T16:29:43.742Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "573:16235",
+        "node_offset": {
+          "x": 139,
+          "y": 135
+        },
+        "stable_path": [
+          "573:16235"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "665555911",
+      "uuid": "c443d2e8-94e3-4370-9a24-29e738f2557b",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T04:53:53.849Z",
+      "resolved_at": null,
+      "message": "What is this component? It looks like it is functioning more like a tab/tabpanel than a button. I think this needs new HCM styling from the a11y team/to be added to our HCM lib",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "648:16527",
+        "node_offset": {
+          "x": 166,
+          "y": 200
+        },
+        "stable_path": [
+          "648:16527"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "665555057",
+      "uuid": "403ab79a-e63f-4088-af4f-97f0a404a827",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T04:52:18.139Z",
+      "resolved_at": null,
+      "message": "Please use a Canvas background here with Text foreground and a 1px solid Text border",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-11T16:16:22.006Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "648:13858",
+        "node_offset": {
+          "x": 148,
+          "y": 545
+        },
+        "stable_path": [
+          "648:13858"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "665554369",
+      "uuid": "27824c47-fa2d-457c-bdfd-af0609957529",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T04:51:01.510Z",
+      "resolved_at": null,
+      "message": "Is it possible to differentiate these icons in a way other than color? To a colorblind user or a user using a monochrome display these may appear identical.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "610:11388",
+        "node_offset": {
+          "x": 244,
+          "y": 317
+        },
+        "stable_path": [
+          "610:11388"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "665553913",
+      "uuid": "94aa5e0f-4333-45f4-b842-c2c3788856a4",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T04:50:08.564Z",
+      "resolved_at": null,
+      "message": "Can we use an exclamation in a circle icon here to indicate this is a warning/error aside from the red background?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-11T16:05:08.620Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "573:16309",
+        "node_offset": {
+          "x": 160,
+          "y": 138
+        },
+        "stable_path": [
+          "573:16309"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "665553211",
+      "uuid": "ea7697cb-0c70-4c76-8213-49d04389acb1",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-11T04:48:48.742Z",
+      "resolved_at": null,
+      "message": "The grey text color on the inactive pill, combined with the light background color of hte inactive pill makes it difficult to tell if this item is selectable or disabled. Can you increase the contrast here, or add color to distinguish it from disabled?",
+      "reactions": [
+        {
+          "emoji": ":grinning:",
+          "created_at": "2024-01-11T16:20:12.469Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "648:16527",
+        "node_offset": {
+          "x": 197,
+          "y": 36
+        },
+        "stable_path": [
+          "648:16527"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "665358045",
+      "uuid": "0376124c-0159-41f9-b534-38c64d0e16a2",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-10T22:16:49.425Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim can you please add an \"accessibility in progress\" badge to this file?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-01-10T22:36:12.030Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "663:11319",
+        "node_offset": {
+          "x": 1320,
+          "y": 12
+        },
+        "stable_path": [
+          "663:11319"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "662600273",
+      "uuid": "7d2ea290-2c1e-4059-b435-1e860d2fbcd2",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-08T21:05:23.162Z",
+      "resolved_at": null,
+      "message": "@Chris Rooney, here you can change the content. This will deliver information about both relay email/phone? @Jessica Valentine",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "624:11413",
+        "node_offset": {
+          "x": 30,
+          "y": 6
+        },
+        "stable_path": [
+          "624:11413"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "661231164",
+      "uuid": "15d80547-8048-43d3-9e2a-ff2091f8fd5e",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-05T22:24:50.962Z",
+      "resolved_at": null,
+      "message": "@Jessica Valentine , I made a warning panel which is the same red bar that we have for the email masks. Please take a look at it and the notes here. Def need Chris's help. \ncc: @Chris Rooney",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "573:16378",
+        "node_offset": {
+          "x": 1258,
+          "y": 184
+        },
+        "stable_path": [
+          "573:16378"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "659241639",
+      "uuid": "8e737c7b-abb1-4ae6-9752-82dc2dbe7be7",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-03T22:33:10.306Z",
+      "resolved_at": null,
+      "message": "@Jessica Valentine , I think we should probably make the icon available for the form field to expose relay to more users. So I started putting the icon back in to all the flows below. Please take a look and let me know. Thanks.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "440:5223",
+        "node_offset": {
+          "x": 744,
+          "y": 575
+        },
+        "stable_path": [
+          "440:5223"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "659225498",
+      "uuid": "c770f4a8-c977-4406-9bad-3fe63db23d59",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-03T22:01:26.116Z",
+      "resolved_at": null,
+      "message": "@Jessica Valentine , the add-on from form fields won't have some navigations and stats to be consistent with the current email version. What do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "494:11531",
+        "node_offset": {
+          "x": 396,
+          "y": 80
+        },
+        "stable_path": [
+          "494:11531"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "653312626",
+      "uuid": "23688db5-819c-40a7-9871-b20162dfefae",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-12-21T20:37:11.688Z",
+      "resolved_at": null,
+      "message": "@Jessica Valentine page for waitlist",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "293:2723",
+        "node_offset": {
+          "x": 20969,
+          "y": 2067
+        },
+        "stable_path": [
+          "293:2723"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "653311470",
+      "uuid": "539356e3-d32a-4504-b984-df882dc20f3a",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-12-21T20:35:23.549Z",
+      "resolved_at": null,
+      "message": "CTA button: clear language that users have to pay for the premium...? Include the message that this is not free for all.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "403:6799",
+        "node_offset": {
+          "x": 330,
+          "y": 486
+        },
+        "stable_path": [
+          "403:6799"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "653302400",
+      "uuid": "a81b4a56-fce2-45c0-9476-9080340c2ca8",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-12-21T20:21:49.831Z",
+      "resolved_at": null,
+      "message": "Empty state",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "296:1047",
+        "node_offset": {
+          "x": 399,
+          "y": 94
+        },
+        "stable_path": [
+          "296:1047"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "597449459",
+      "uuid": "3fb1a6d7-dcb7-4e95-8622-50738e5eff12",
+      "file_key": "2hz71ydX49MKCRfw9OffTm",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-10-26T19:18:29.486Z",
+      "resolved_at": null,
+      "message": "Content to highlight, for example, \"the phone masking is coming soon...\" - countries where we do not provide the phone masking yet. Maybe add a link to direct users and to share any news.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "67:3812",
+        "node_offset": {
+          "x": 475,
+          "y": 174
+        },
+        "stable_path": [
+          "67:3812"
+        ]
+      },
+      "order_id": "6"
+    }
+  ]
+}

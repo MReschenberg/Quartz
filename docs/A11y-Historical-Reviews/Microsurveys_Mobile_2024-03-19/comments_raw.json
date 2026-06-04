@@ -1,0 +1,1108 @@
+{
+  "unresolved": [
+    {
+      "id": "848816468",
+      "uuid": "883c8662-810c-4bb4-8288-41e592e87965",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-06-21T20:11:19.446Z",
+      "resolved_at": null,
+      "message": "@Diana Andreea Barladeanu the final demos will have 6 choices instead of 5 as they are in this file!",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-06-25T06:01:24.198Z",
+          "user": {
+            "id": "1273905447875649937",
+            "handle": "Diana Andreea Barladeanu",
+            "img_url": "https://www.gravatar.com/avatar/f3aea066fbf394ccd741aed066cd1776?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1124:109362",
+        "node_offset": {
+          "x": 323,
+          "y": 458
+        },
+        "stable_path": [
+          "1124:109362"
+        ]
+      },
+      "order_id": "130"
+    },
+    {
+      "id": "789217466",
+      "uuid": "bdd4246c-04e0-4680-a448-e26c3bf2ad57",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-05-01T15:24:14.145Z",
+      "resolved_at": null,
+      "message": "@Cyndi Chin",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1121:21902",
+        "node_offset": {
+          "x": 10,
+          "y": 22
+        },
+        "stable_path": [
+          "1121:21902"
+        ]
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "782365785",
+      "uuid": "836f14b2-2db7-43bb-bf8f-2e6bb430bb2e",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-04-24T21:17:54.029Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1105:57197",
+        "node_offset": {
+          "x": 2414,
+          "y": 69
+        },
+        "stable_path": [
+          "1105:57197"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "772042941",
+      "uuid": "e693f19b-6089-4769-b5f9-2d139e06e988",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Zac McKenney",
+        "img_url": "https://www.gravatar.com/avatar/f673fce5ce64d2a2e0a4cc639ca46344?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_z_v2.png",
+        "id": "1174491559421975070"
+      },
+      "created_at": "2024-04-16T18:19:48.750Z",
+      "resolved_at": null,
+      "message": "Because there is still content behind/above the survey, what happens if a user taps the content? Since there's an X to close it's not clear. Also, what if a user starts a scroll action above the survey? Does this scroll the page behind the survey or is that not possible?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "257:11880",
+        "node_offset": {
+          "x": 338,
+          "y": 100
+        },
+        "stable_path": [
+          "257:11880"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "770373540",
+      "uuid": "5de00b5f-8ef9-41a6-ad58-40c6f7299ecc",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-04-15T18:54:57.624Z",
+      "resolved_at": null,
+      "message": "Flagging for @Kuu Chen",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "286:17951",
+        "node_offset": {
+          "x": 4017,
+          "y": 113
+        },
+        "stable_path": [
+          "286:17951"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "760885030",
+      "uuid": "d0030924-18da-4052-bb9e-538b214b0df2",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-04-05T19:09:18.907Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong if i visit this from either dark or light mode, it shows up this way. whereas if i input the link into a browser and don't follow it from a link, then it shifts to dark mode. is this is a bug, or is it not reading the system theme because it's a link to another page?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "452:5525",
+        "node_offset": {
+          "x": -1764,
+          "y": -1151
+        },
+        "stable_path": [
+          "452:5525"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "756204006",
+      "uuid": "970d943b-46ce-4b8d-a42c-283e4b650f5c",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-04-02T18:07:36.041Z",
+      "resolved_at": null,
+      "message": "@Kuu Chen for reference, this is the screen we need the illustration for (just submit request!)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "330:29377",
+        "node_offset": {
+          "x": 291,
+          "y": 519
+        },
+        "stable_path": [
+          "330:29377"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "755986695",
+      "uuid": "c3b6fc53-db74-4b88-af54-528162f1dc95",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-04-02T15:22:03.928Z",
+      "resolved_at": null,
+      "message": "@Tiffanie Shakespeare here's the presentation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "330:24570",
+        "node_offset": {
+          "x": -6047,
+          "y": -2670
+        },
+        "stable_path": [
+          "330:24570"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "754879445",
+      "uuid": "aa837387-bf26-410d-b9a0-98624c13323a",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-04-01T22:32:37.531Z",
+      "resolved_at": null,
+      "message": "@Tiffanie Shakespeare here are iOS and Android designs i'll be presenting tmr!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "330:29237",
+        "node_offset": {
+          "x": -651,
+          "y": -993
+        },
+        "stable_path": [
+          "330:29237"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "754741443",
+      "uuid": "45929e41-2b1f-42ca-b61f-c8ff3726df2b",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-04-01T19:32:09.714Z",
+      "resolved_at": null,
+      "message": "Contrast here is too low -- 2.22:1. needs to be at least 4.5:1 for AA",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "306:8646",
+        "node_offset": {
+          "x": 110,
+          "y": 19
+        },
+        "stable_path": [
+          "306:8646"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "754739972",
+      "uuid": "9a2f11da-d2ee-4dcf-bcad-e866034f5b26",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-04-01T19:30:33.761Z",
+      "resolved_at": null,
+      "message": "thanks for underlining this link !",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "304:39203",
+        "node_offset": {
+          "x": 52,
+          "y": 705
+        },
+        "stable_path": [
+          "304:39203"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "754739499",
+      "uuid": "77049d84-783e-4823-ae88-388493064665",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-04-01T19:30:02.573Z",
+      "resolved_at": null,
+      "message": "The contrast here is good",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "292:38207",
+        "node_offset": {
+          "x": 210,
+          "y": 319
+        },
+        "stable_path": [
+          "292:38207"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "754737692",
+      "uuid": "60d5f8f5-6784-44bc-814f-b93f4d1b5180",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-04-01T19:28:07.223Z",
+      "resolved_at": null,
+      "message": "Can we make these controls easier to distinguish? (thicker, darker border or different bg color inside the circle) It's very hard to see them against the white of the pane",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "292:38207",
+        "node_offset": {
+          "x": 52,
+          "y": 451
+        },
+        "stable_path": [
+          "292:38207"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "754566069",
+      "uuid": "e00dd2d7-1f44-4f17-8198-230f90b23d77",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Michael Verdi",
+        "img_url": "https://s3-alpha.figma.com/profile/52220d82-0e0a-44e4-927f-a9cc8ed86edf",
+        "id": "185146236911313054"
+      },
+      "created_at": "2024-04-01T16:29:07.600Z",
+      "resolved_at": null,
+      "message": "@Juhee Jain This is the mock from last year that I mentioned",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "318:4470",
+        "node_offset": {
+          "x": 334,
+          "y": 630
+        },
+        "stable_path": [
+          "318:4470"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "754504082",
+      "uuid": "96ddc32b-fa2a-4f97-8a46-4b82a208c39f",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-04-01T15:24:26.681Z",
+      "resolved_at": null,
+      "message": "@Michael Verdi thoughts on these?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "292:38127",
+        "node_offset": {
+          "x": -741,
+          "y": -546
+        },
+        "stable_path": [
+          "292:38127"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "754457581",
+      "uuid": "74c28c5f-47b3-434d-8c3d-501c74bc702f",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-04-01T14:40:59.913Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg is there enough contrast here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "292:38207",
+        "node_offset": {
+          "x": 324,
+          "y": 253
+        },
+        "stable_path": [
+          "292:38207"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "754412123",
+      "uuid": "6d73c8e9-d0df-4afc-8362-d79b3999e884",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-04-01T13:58:26.270Z",
+      "resolved_at": null,
+      "message": "@Andres Furlan",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "109:2876",
+        "node_offset": {
+          "x": -468,
+          "y": 606
+        },
+        "stable_path": [
+          "109:2876"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "742740782",
+      "uuid": "492aaf45-af3f-4f50-bd97-d5aa189dabd4",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-20T20:33:58.424Z",
+      "resolved_at": null,
+      "message": "I think this mode is probably the best for a11y since the controls are easy to see, the chevron is close to the label for magnifier users, and the expand/close controls are sufficiently differentiated",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "112:3593",
+        "node_offset": {
+          "x": 113,
+          "y": 24
+        },
+        "stable_path": [
+          "112:3593"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "741168823",
+      "uuid": "68ca1d5b-dfeb-48bb-96e2-f37ac379538f",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-19T21:52:46.714Z",
+      "resolved_at": null,
+      "message": "does this state indicate selection/interaction, or is this the default state for this chevron (unexpanded)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "112:3548",
+        "node_offset": {
+          "x": 20,
+          "y": 21
+        },
+        "stable_path": [
+          "112:3548"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "741168452",
+      "uuid": "dc3e5557-97d1-4ab5-a93a-7179ff3f1e66",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-19T21:52:18.180Z",
+      "resolved_at": null,
+      "message": "How are we expressing selection here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "112:3206",
+        "node_offset": {
+          "x": 42,
+          "y": 500
+        },
+        "stable_path": [
+          "112:3206"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "741167406",
+      "uuid": "ea9dacb7-e12b-482d-ac50-e226784c62a5",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-19T21:50:59.495Z",
+      "resolved_at": null,
+      "message": "Please annotate this screen using a11y annotations from the UX template",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "112:3206",
+        "node_offset": {
+          "x": 171,
+          "y": 294
+        },
+        "stable_path": [
+          "112:3206"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "741166877",
+      "uuid": "d4e7f6fa-71ec-49bd-a26a-16dc96f4ee0c",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-19T21:50:22.141Z",
+      "resolved_at": null,
+      "message": "Are these designs we're choosing from, or are they all going to be in use?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "109:2876",
+        "node_offset": {
+          "x": -354,
+          "y": 519
+        },
+        "stable_path": [
+          "109:2876"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "741166578",
+      "uuid": "a542048b-86cf-42fd-a318-00d078d1b9c1",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-19T21:50:10.017Z",
+      "resolved_at": null,
+      "message": "How does this scale with dynamic text?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "109:2876",
+        "node_offset": {
+          "x": -301,
+          "y": 564
+        },
+        "stable_path": [
+          "109:2876"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "740930658",
+      "uuid": "56a98da4-561c-418e-b906-c89fb9b48fdc",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-03-19T18:14:34.818Z",
+      "resolved_at": null,
+      "message": "Question for eng: @Nishant Bhasin what, if anything COULD go wrong? And what options can we offer the user if it does?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "112:3172",
+        "node_offset": {
+          "x": 312,
+          "y": 549
+        },
+        "stable_path": [
+          "112:3172"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "740729065",
+      "uuid": "9b340633-0672-4bf1-bd39-b300751b844e",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-03-19T15:59:07.492Z",
+      "resolved_at": null,
+      "message": "@Rosanne Scholl tagging you here - feel free to leave input about the prompt. I'm looping in Emily this week as well.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "109:2876",
+        "node_offset": {
+          "x": -262,
+          "y": 367
+        },
+        "stable_path": [
+          "109:2876"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "735818414",
+      "uuid": "e10854ee-db88-4149-9897-6db1d17113c9",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Michael Verdi",
+        "img_url": "https://s3-alpha.figma.com/profile/52220d82-0e0a-44e4-927f-a9cc8ed86edf",
+        "id": "185146236911313054"
+      },
+      "created_at": "2024-03-14T16:32:44.500Z",
+      "resolved_at": null,
+      "message": "How will this look in German or when someone wants to use a 7-point scale?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "25:8126",
+        "node_offset": {
+          "x": 322,
+          "y": 546
+        },
+        "stable_path": [
+          "25:8126"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "735588802",
+      "uuid": "18668ac6-c14f-468b-aab3-3bbe47cc4c9b",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Michael Verdi",
+        "img_url": "https://s3-alpha.figma.com/profile/52220d82-0e0a-44e4-927f-a9cc8ed86edf",
+        "id": "185146236911313054"
+      },
+      "created_at": "2024-03-14T14:25:39.471Z",
+      "resolved_at": null,
+      "message": "I don't think a one-line bar can work for the entire survey. This will be two plus lines when it's localized. Also you can never use only color to distinguish between items - you'd have to label these. You could use icons but people generally find it difficult to interpret icons.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "37:1475",
+        "node_offset": {
+          "x": 201,
+          "y": 631
+        },
+        "stable_path": [
+          "37:1475"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "735580967",
+      "uuid": "68750c93-acac-43de-9af4-9facb979f5e5",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Michael Verdi",
+        "img_url": "https://s3-alpha.figma.com/profile/52220d82-0e0a-44e4-927f-a9cc8ed86edf",
+        "id": "185146236911313054"
+      },
+      "created_at": "2024-03-14T14:21:36.453Z",
+      "resolved_at": null,
+      "message": "Let's always mock these up with a 5-point scale (in the spec)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "25:8126",
+        "node_offset": {
+          "x": 374,
+          "y": 513
+        },
+        "stable_path": [
+          "25:8126"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "735579204",
+      "uuid": "aa303ae7-7f23-4ddc-bcfd-941ddab5450d",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Michael Verdi",
+        "img_url": "https://s3-alpha.figma.com/profile/52220d82-0e0a-44e4-927f-a9cc8ed86edf",
+        "id": "185146236911313054"
+      },
+      "created_at": "2024-03-14T14:20:41.057Z",
+      "resolved_at": null,
+      "message": "This should be a button.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5:1238",
+        "node_offset": {
+          "x": 257,
+          "y": 230
+        },
+        "stable_path": [
+          "5:1238"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "735578380",
+      "uuid": "f7d93d6d-5cca-4dd8-aa43-e26f4300acc3",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Michael Verdi",
+        "img_url": "https://s3-alpha.figma.com/profile/52220d82-0e0a-44e4-927f-a9cc8ed86edf",
+        "id": "185146236911313054"
+      },
+      "created_at": "2024-03-14T14:20:15.144Z",
+      "resolved_at": null,
+      "message": "How can you make the call to action clear? In this view, we've said two things and the action we want is for people to tap on that tiny chevron.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5:1239",
+        "node_offset": {
+          "x": 372,
+          "y": 657
+        },
+        "stable_path": [
+          "5:1239"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "735575149",
+      "uuid": "084ca6e3-9209-4ac4-b5d2-1217f63bde1f",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Michael Verdi",
+        "img_url": "https://s3-alpha.figma.com/profile/52220d82-0e0a-44e4-927f-a9cc8ed86edf",
+        "id": "185146236911313054"
+      },
+      "created_at": "2024-03-14T14:18:33.072Z",
+      "resolved_at": null,
+      "message": "How can you make this look as if it's part of the Firefox UI and not a sticky bottom footer on the website?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5:1239",
+        "node_offset": {
+          "x": 375,
+          "y": 582
+        },
+        "stable_path": [
+          "5:1239"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "754741443",
+      "uuid": "45929e41-2b1f-42ca-b61f-c8ff3726df2b",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-04-01T19:32:09.714Z",
+      "resolved_at": null,
+      "message": "Contrast here is too low -- 2.22:1. needs to be at least 4.5:1 for AA",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "306:8646",
+        "node_offset": {
+          "x": 110,
+          "y": 19
+        },
+        "stable_path": [
+          "306:8646"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "754739972",
+      "uuid": "9a2f11da-d2ee-4dcf-bcad-e866034f5b26",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-04-01T19:30:33.761Z",
+      "resolved_at": null,
+      "message": "thanks for underlining this link !",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "304:39203",
+        "node_offset": {
+          "x": 52,
+          "y": 705
+        },
+        "stable_path": [
+          "304:39203"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "754739499",
+      "uuid": "77049d84-783e-4823-ae88-388493064665",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-04-01T19:30:02.573Z",
+      "resolved_at": null,
+      "message": "The contrast here is good",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "292:38207",
+        "node_offset": {
+          "x": 210,
+          "y": 319
+        },
+        "stable_path": [
+          "292:38207"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "754737692",
+      "uuid": "60d5f8f5-6784-44bc-814f-b93f4d1b5180",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-04-01T19:28:07.223Z",
+      "resolved_at": null,
+      "message": "Can we make these controls easier to distinguish? (thicker, darker border or different bg color inside the circle) It's very hard to see them against the white of the pane",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "292:38207",
+        "node_offset": {
+          "x": 52,
+          "y": 451
+        },
+        "stable_path": [
+          "292:38207"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "754457581",
+      "uuid": "74c28c5f-47b3-434d-8c3d-501c74bc702f",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-04-01T14:40:59.913Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg is there enough contrast here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "292:38207",
+        "node_offset": {
+          "x": 324,
+          "y": 253
+        },
+        "stable_path": [
+          "292:38207"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "742740782",
+      "uuid": "492aaf45-af3f-4f50-bd97-d5aa189dabd4",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-20T20:33:58.424Z",
+      "resolved_at": null,
+      "message": "I think this mode is probably the best for a11y since the controls are easy to see, the chevron is close to the label for magnifier users, and the expand/close controls are sufficiently differentiated",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "112:3593",
+        "node_offset": {
+          "x": 113,
+          "y": 24
+        },
+        "stable_path": [
+          "112:3593"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "741168823",
+      "uuid": "68ca1d5b-dfeb-48bb-96e2-f37ac379538f",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-19T21:52:46.714Z",
+      "resolved_at": null,
+      "message": "does this state indicate selection/interaction, or is this the default state for this chevron (unexpanded)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "112:3548",
+        "node_offset": {
+          "x": 20,
+          "y": 21
+        },
+        "stable_path": [
+          "112:3548"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "741168452",
+      "uuid": "dc3e5557-97d1-4ab5-a93a-7179ff3f1e66",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-19T21:52:18.180Z",
+      "resolved_at": null,
+      "message": "How are we expressing selection here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "112:3206",
+        "node_offset": {
+          "x": 42,
+          "y": 500
+        },
+        "stable_path": [
+          "112:3206"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "741167406",
+      "uuid": "ea9dacb7-e12b-482d-ac50-e226784c62a5",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-19T21:50:59.495Z",
+      "resolved_at": null,
+      "message": "Please annotate this screen using a11y annotations from the UX template",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "112:3206",
+        "node_offset": {
+          "x": 171,
+          "y": 294
+        },
+        "stable_path": [
+          "112:3206"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "741166877",
+      "uuid": "d4e7f6fa-71ec-49bd-a26a-16dc96f4ee0c",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-19T21:50:22.141Z",
+      "resolved_at": null,
+      "message": "Are these designs we're choosing from, or are they all going to be in use?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "109:2876",
+        "node_offset": {
+          "x": -354,
+          "y": 519
+        },
+        "stable_path": [
+          "109:2876"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "741166578",
+      "uuid": "a542048b-86cf-42fd-a318-00d078d1b9c1",
+      "file_key": "mXN2bu7ma50VkhqCfUpNie",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-19T21:50:10.017Z",
+      "resolved_at": null,
+      "message": "How does this scale with dynamic text?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "109:2876",
+        "node_offset": {
+          "x": -301,
+          "y": 564
+        },
+        "stable_path": [
+          "109:2876"
+        ]
+      },
+      "order_id": "13"
+    }
+  ]
+}

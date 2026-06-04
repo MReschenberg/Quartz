@@ -1,0 +1,624 @@
+{
+  "unresolved": [
+    {
+      "id": "1119081496",
+      "uuid": "f89ac3cb-05f1-497f-a77f-3ce04c558fbd",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-02-05T03:29:05.767Z",
+      "resolved_at": null,
+      "message": "@Florian Zia Florian Zia here's the updated design, with the label above the input, and the placeholder text within. This new design has been applied for all the breakpoints.\n\nHere's the spec for the input: https://www.figma.com/design/xa533LXIOuK6KG6vXGyysr/Landing-pages?node-id=1237-5870&m=dev\n\ncc @Tony Cinotto @Laura Lopez",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "544:10039",
+        "node_offset": {
+          "x": 846,
+          "y": 430
+        },
+        "stable_path": [
+          "544:10039"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1110522379",
+      "uuid": "9577e655-30ac-403b-bf5f-e0641e5f8576",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Florian Zia",
+        "img_url": "https://www.gravatar.com/avatar/aea2cf3391a47c5f5c118b752c44a393?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_f_v2.png",
+        "id": "999243054426938867"
+      },
+      "created_at": "2025-01-29T11:19:03.648Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu @Robert Vass and I were talking about this section on desktop: I\u2019ve leaned more towards staying with what is implemented for the tablet (I\u2019ve brought that up in a Slack thread sometime ago), but was wondering a few thing:\n* Could we update the design here if that is still OK?\n* Should the CTA here (like the other CTAs) be purple instead (and just have the dark purple in the header)?\n* \u201cTake back control\u201d in purple was fine too or do you think bold works better?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "544:10039",
+        "node_offset": {
+          "x": 1748,
+          "y": 5640
+        },
+        "stable_path": [
+          "544:10039"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1102256793",
+      "uuid": "5a771270-f3cf-407d-9d50-012223b04354",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-01-22T18:39:32.554Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez can we shorten this copy? It looks awkward on mobile when it wraps",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "544:10039",
+        "node_offset": {
+          "x": 933,
+          "y": 435
+        },
+        "stable_path": [
+          "544:10039"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1100808438",
+      "uuid": "3e3dbe93-d071-44a5-888b-f55f77329e3e",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-01-22T02:26:59.160Z",
+      "resolved_at": null,
+      "message": "@Florian Zia noticed a couple of layout issues for the 320px breakpoint",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "284:13391",
+        "node_offset": {
+          "x": 4212,
+          "y": 204
+        },
+        "stable_path": [
+          "284:13391"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "1100796121",
+      "uuid": "0a501185-f855-4e11-95db-8972b3c70c38",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-01-22T02:10:14.250Z",
+      "resolved_at": null,
+      "message": "@Florian Zia the border here should 4px not 3px",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-01-22T18:13:32.861Z",
+          "user": {
+            "id": "999243054426938867",
+            "handle": "Florian Zia",
+            "img_url": "https://www.gravatar.com/avatar/aea2cf3391a47c5f5c118b752c44a393?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_f_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "544:10039",
+        "node_offset": {
+          "x": 1159,
+          "y": 2937
+        },
+        "stable_path": [
+          "544:10039"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1100323079",
+      "uuid": "aafa0907-342d-47a6-a9e7-a62191e1b664",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-01-21T17:58:00.538Z",
+      "resolved_at": null,
+      "message": "@Florian Zia monitor logo for the desktop breakpoint doesn't match what's in figma",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-01-22T18:14:11.942Z",
+          "user": {
+            "id": "999243054426938867",
+            "handle": "Florian Zia",
+            "img_url": "https://www.gravatar.com/avatar/aea2cf3391a47c5f5c118b752c44a393?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_f_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "544:10039",
+        "node_offset": {
+          "x": 457,
+          "y": 56
+        },
+        "stable_path": [
+          "544:10039"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1085761654",
+      "uuid": "11689a55-31fa-415d-9f99-4ca03ca87f6c",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Florian Zia",
+        "img_url": "https://www.gravatar.com/avatar/aea2cf3391a47c5f5c118b752c44a393?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_f_v2.png",
+        "id": "999243054426938867"
+      },
+      "created_at": "2025-01-09T12:49:03.758Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller@Tony Cinotto Are we not showing the total savings for the yearly plan to users anymore? Attached a screenshot from the current landing page.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "544:13426",
+        "node_offset": {
+          "x": 835,
+          "y": 3378
+        },
+        "stable_path": [
+          "544:13426"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1081613581",
+      "uuid": "b66579b2-78de-4382-85c6-3d78e627a82a",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Florian Zia",
+        "img_url": "https://www.gravatar.com/avatar/aea2cf3391a47c5f5c118b752c44a393?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_f_v2.png",
+        "id": "999243054426938867"
+      },
+      "created_at": "2025-01-06T16:20:44.594Z",
+      "resolved_at": null,
+      "message": "@Tony Cinotto On the current landing page we have \u201cGoogle\u201d listed as well \u2014 just making sure we are dropping their logo.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "544:13426",
+        "node_offset": {
+          "x": 881,
+          "y": 3989
+        },
+        "stable_path": [
+          "544:13426"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1081596643",
+      "uuid": "80768c10-a031-46a3-a251-08ff90cf1c16",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Florian Zia",
+        "img_url": "https://www.gravatar.com/avatar/aea2cf3391a47c5f5c118b752c44a393?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_f_v2.png",
+        "id": "999243054426938867"
+      },
+      "created_at": "2025-01-06T16:05:57.930Z",
+      "resolved_at": null,
+      "message": "@Tony Cinotto @Jessica Miller Could you help me out here: What company logo is this first one?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "544:13426",
+        "node_offset": {
+          "x": 142,
+          "y": 3869
+        },
+        "stable_path": [
+          "544:13426"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1080068853",
+      "uuid": "be8f68b7-073b-40a2-ae63-92ee72f7f367",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Florian Zia",
+        "img_url": "https://www.gravatar.com/avatar/aea2cf3391a47c5f5c118b752c44a393?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_f_v2.png",
+        "id": "999243054426938867"
+      },
+      "created_at": "2025-01-03T14:42:43.718Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller @Tony Cinotto We have a variation/alternative CTA that we are showing if we are at capacity for free scans on the current landing page. Do we keep the current style and strings or are thinking of adapting it as well?\n\ncc: @Wolasi Konu",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "544:10039",
+        "node_offset": {
+          "x": 1058,
+          "y": 460
+        },
+        "stable_path": [
+          "544:10039"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1065799593",
+      "uuid": "ccd400e8-e637-4bcd-9778-3cf50284ab60",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Florian Zia",
+        "img_url": "https://www.gravatar.com/avatar/aea2cf3391a47c5f5c118b752c44a393?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_f_v2.png",
+        "id": "999243054426938867"
+      },
+      "created_at": "2024-12-16T14:06:20.183Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller If I remember correctly from a previous UX review we are going to use this style of links for globally. For the settings we have a second level of links: Do we treat those differently?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:30019",
+        "node_offset": {
+          "x": 240,
+          "y": 24
+        },
+        "stable_path": [
+          "538:30019"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1065796582",
+      "uuid": "1ae54664-5c5b-40e9-9596-e5124f20007d",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Florian Zia",
+        "img_url": "https://www.gravatar.com/avatar/aea2cf3391a47c5f5c118b752c44a393?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_f_v2.png",
+        "id": "999243054426938867"
+      },
+      "created_at": "2024-12-16T14:04:35.916Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller What would the hover states ideally be here? Currently, the background is becoming purple and the color white.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:30019",
+        "node_offset": {
+          "x": 181,
+          "y": 110
+        },
+        "stable_path": [
+          "538:30019"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "1017401043",
+      "uuid": "524e47d2-fa8d-4e3c-bb2d-bf3b81beb875",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Miller",
+        "img_url": "https://s3-alpha.figma.com/profile/270be48a-2b7e-4444-8a02-214d79380fcf",
+        "id": "1241057319310543066"
+      },
+      "created_at": "2024-11-07T16:50:16.433Z",
+      "resolved_at": null,
+      "message": "Note: this is the current pricing table format. We need to change format to meet a11y standards. Content + layout need revamp",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "399:38172",
+        "node_offset": {
+          "x": 1815,
+          "y": 3567
+        },
+        "stable_path": [
+          "399:38172"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1004879348",
+      "uuid": "cf314dbd-7951-44f6-b5fd-fa734729b051",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Elizabeth Renieris",
+        "img_url": "https://www.gravatar.com/avatar/8c5973114f43b7df6366b906658d6005?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "1334237999376278642"
+      },
+      "created_at": "2024-10-29T13:22:43.237Z",
+      "resolved_at": null,
+      "message": "Have I already reviewed the rest of the FAQs? If not, would be good to have the Qs and Answers in a Google Doc to review.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "399:38172",
+        "node_offset": {
+          "x": 1684,
+          "y": 5279
+        },
+        "stable_path": [
+          "399:38172"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1004871748",
+      "uuid": "6ae4dd29-b500-4572-b144-32abad2dfefc",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Elizabeth Renieris",
+        "img_url": "https://www.gravatar.com/avatar/8c5973114f43b7df6366b906658d6005?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "1334237999376278642"
+      },
+      "created_at": "2024-10-29T13:19:04.331Z",
+      "resolved_at": null,
+      "message": "This still won't be fully \"automatic\" or automated, correct? So I'd prefer to say something like \"Enhanced data removal\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "399:38172",
+        "node_offset": {
+          "x": 1716,
+          "y": 3240
+        },
+        "stable_path": [
+          "399:38172"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1004856583",
+      "uuid": "c46f810c-f334-42ef-baa4-1215316d1cc1",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Elizabeth Renieris",
+        "img_url": "https://www.gravatar.com/avatar/8c5973114f43b7df6366b906658d6005?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "1334237999376278642"
+      },
+      "created_at": "2024-10-29T13:11:24.276Z",
+      "resolved_at": null,
+      "message": "We don't actually \"take it back\" in any sense or \"make it private again\"\n correct? We help remove it from certain sites/surfaces. Let's soften \nthe claims here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "399:38172",
+        "node_offset": {
+          "x": 1513,
+          "y": 298
+        },
+        "stable_path": [
+          "399:38172"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1003525156",
+      "uuid": "4b59c42c-788c-4bdd-8a93-9d08fea75736",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2024-10-28T17:25:03.401Z",
+      "resolved_at": null,
+      "message": "Ill take an action item to work on the timing but want to make sure legal is okay with the concept. If i can get the data ill add the following together:\n-how many data broker sites on average a user has in their first scan x 10 minutes \n-208 data broker sites we scan against x 10 minutes per month: to equal a user needing to search every website to find if their info is exposed.\n-if we make the assumption that 10-20% of data brokers will add a user back, ill take the average above of how many data brokers a user has on average and times it by the lower end of 10% x 12 months.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "319:4160",
+        "node_offset": {
+          "x": 1043,
+          "y": 664
+        },
+        "stable_path": [
+          "319:4160"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "998344210",
+      "uuid": "5d83962c-9c15-4aa6-86a9-fffa56875f1f",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-23T20:32:12.962Z",
+      "resolved_at": null,
+      "message": "Diana: 3 versions we could make out of this: \n1. Version that Jess has (with data breaches) but leave 3 content blocks below as-is\n2. Version that puts how up top w CTAs removed from 3 content blocks\n3. Streamlined version!!!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "285:9440",
+        "node_offset": {
+          "x": 613,
+          "y": 384
+        },
+        "stable_path": [
+          "285:9440"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "998337657",
+      "uuid": "efef316b-fc7e-4b78-8552-0fcc2d9e4169",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-23T20:26:17.093Z",
+      "resolved_at": null,
+      "message": "Add 10M figure back in somehow. Mix of how and why version",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "285:9177",
+        "node_offset": {
+          "x": 769,
+          "y": 828
+        },
+        "stable_path": [
+          "285:9177"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "998316107",
+      "uuid": "349e8ee9-779a-4dbb-a4e7-8ebda74df7be",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-23T20:07:00.152Z",
+      "resolved_at": null,
+      "message": "Diana: maybe we don't have these links here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "285:9445",
+        "node_offset": {
+          "x": 294,
+          "y": 1028
+        },
+        "stable_path": [
+          "285:9445"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "998310836",
+      "uuid": "7f54b089-faf6-4f75-83cf-f6b49e74af9a",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-23T20:02:01.570Z",
+      "resolved_at": null,
+      "message": "Diana is checking on the focus KW: data breaches vs. data brokers",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "285:9177",
+        "node_offset": {
+          "x": 1327,
+          "y": 263
+        },
+        "stable_path": [
+          "285:9177"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "998288837",
+      "uuid": "53e1345b-042f-42ea-a107-d4809d1a61c3",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-23T19:43:33.524Z",
+      "resolved_at": null,
+      "message": "Jess: can't do a label below the field \n\nLabel needs to be above",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "285:9177",
+        "node_offset": {
+          "x": 1576,
+          "y": 651
+        },
+        "stable_path": [
+          "285:9177"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1017401043",
+      "uuid": "524e47d2-fa8d-4e3c-bb2d-bf3b81beb875",
+      "file_key": "xa533LXIOuK6KG6vXGyysr",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Miller",
+        "img_url": "https://s3-alpha.figma.com/profile/270be48a-2b7e-4444-8a02-214d79380fcf",
+        "id": "1241057319310543066"
+      },
+      "created_at": "2024-11-07T16:50:16.433Z",
+      "resolved_at": null,
+      "message": "Note: this is the current pricing table format. We need to change format to meet a11y standards. Content + layout need revamp",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "399:38172",
+        "node_offset": {
+          "x": 1815,
+          "y": 3567
+        },
+        "stable_path": [
+          "399:38172"
+        ]
+      },
+      "order_id": "46"
+    }
+  ]
+}

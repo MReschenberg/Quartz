@@ -1,0 +1,3331 @@
+{
+  "unresolved": [
+    {
+      "id": "1503223030",
+      "uuid": "c84baf4a-6d4e-4729-a31c-974a148e7c9c",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-11-06T22:18:03.166Z",
+      "resolved_at": null,
+      "message": "Do you know if this text could stretch to two lines for l10n? cc @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10439:13319",
+        "node_offset": {
+          "x": 903,
+          "y": 524
+        },
+        "stable_path": [
+          "10439:13319"
+        ]
+      },
+      "order_id": "168"
+    },
+    {
+      "id": "1478144565",
+      "uuid": "6cbeb5e9-3ce8-40ee-819c-5c6f7e41baa8",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-21T19:03:40.982Z",
+      "resolved_at": null,
+      "message": "I think having a banner here for optional updates would be helpful (maybe it would be blue?)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10334:8717",
+        "node_offset": {
+          "x": 96,
+          "y": 88
+        },
+        "stable_path": [
+          "10334:8717"
+        ]
+      },
+      "order_id": "167"
+    },
+    {
+      "id": "1477819194",
+      "uuid": "22b8bcbc-4c90-41bb-bece-758944b09d9c",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-10-21T15:42:06.654Z",
+      "resolved_at": null,
+      "message": "can you tap on 'update' and then the bottom sheet opens?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10334:8109",
+        "node_offset": {
+          "x": 260,
+          "y": 401
+        },
+        "stable_path": [
+          "10334:8109"
+        ]
+      },
+      "order_id": "164"
+    },
+    {
+      "id": "1477817828",
+      "uuid": "edf7b292-23d4-4376-a716-be629e6e83f3",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-10-21T15:41:26.184Z",
+      "resolved_at": null,
+      "message": "when would you go to the next screen?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10334:8370",
+        "node_offset": {
+          "x": 41.5,
+          "y": 330.5
+        },
+        "stable_path": [
+          "10334:8370"
+        ]
+      },
+      "order_id": "163"
+    },
+    {
+      "id": "1477805315",
+      "uuid": "d58c268a-cadf-484b-80b5-eadc1d40d770",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2025-10-21T15:35:18.467Z",
+      "resolved_at": null,
+      "message": "What happens in terms of multiple updates simultaneously?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10334:8109",
+        "node_offset": {
+          "x": 267,
+          "y": 451
+        },
+        "stable_path": [
+          "10334:8109"
+        ]
+      },
+      "order_id": "158"
+    },
+    {
+      "id": "1469973749",
+      "uuid": "b62cc4ed-10b4-4717-b796-87770292d937",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-15T17:04:03.301Z",
+      "resolved_at": null,
+      "message": "FYI desktop update dialogs @Aarjav Pandya",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4914:45005",
+        "node_offset": {
+          "x": 13347,
+          "y": 177
+        },
+        "stable_path": [
+          "4914:45005"
+        ]
+      },
+      "order_id": "153"
+    },
+    {
+      "id": "1288237344",
+      "uuid": "1e9f6164-cfa4-49f4-895e-0d5756cb53b3",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-06-05T22:26:07.571Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya this is probably a recommendation to the Design Systems team: the buttons here (i.e. \"Learn more...\") look very much like headings (i.e. \"Permissions\") - are there ways we could distinguish them visually a bit more? (maybe not in this project, but in further iterations of these components)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9542:23455",
+        "node_offset": {
+          "x": 328,
+          "y": 15
+        },
+        "stable_path": [
+          "9542:23455"
+        ]
+      },
+      "order_id": "151"
+    },
+    {
+      "id": "1266532251",
+      "uuid": "2f119919-41af-42ca-b901-1afea2fdded8",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2025-05-21T14:37:40.943Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I have updated the notification to reflect the earlier designs. Please review. \n\nAlso, the earlier designs are either below or next to the new notification designs.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9480:23361",
+        "node_offset": {
+          "x": 1400,
+          "y": 293
+        },
+        "stable_path": [
+          "9480:23361"
+        ]
+      },
+      "order_id": "148"
+    },
+    {
+      "id": "1252778283",
+      "uuid": "a989748a-e616-41fa-8706-a361c99490be",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-05-12T19:52:31.324Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya I updated some of the titles and buttons here before I saw the content section -- however some of these are unique to the situation so I'm not sure they need a content component. We can chat more about it!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9328:30782",
+        "node_offset": {
+          "x": 478,
+          "y": 161
+        },
+        "stable_path": [
+          "9328:30782"
+        ]
+      },
+      "order_id": "146"
+    },
+    {
+      "id": "1252776256",
+      "uuid": "70745aa0-6ffd-42d6-a9bf-fa90411b9bfb",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-05-12T19:50:49.789Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya Can we clarify how users will access these messages? Will it be through the menu, or will these just pop up during browsing?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9328:30782",
+        "node_offset": {
+          "x": 270,
+          "y": 75
+        },
+        "stable_path": [
+          "9328:30782"
+        ]
+      },
+      "order_id": "145"
+    },
+    {
+      "id": "1240331825",
+      "uuid": "82893141-027a-4794-98ea-c563166bbd9f",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Bryan Olsson",
+        "img_url": "https://www.gravatar.com/avatar/34df29d70aca0d9b18a6a8fbb65acd5b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1128440584731101832"
+      },
+      "created_at": "2025-05-01T22:28:51.707Z",
+      "resolved_at": null,
+      "message": "Note: \"technical and interaction data\" will need to be formatted similarly to the other data types that would go in the placeholder [Data type]. (E.g. if the other data types are initial cap, then this would need to be \"Technical and interaction data\")",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9204:2719",
+        "node_offset": {
+          "x": 341,
+          "y": 106
+        },
+        "stable_path": [
+          "9204:2719"
+        ]
+      },
+      "order_id": "141"
+    },
+    {
+      "id": "1236908883",
+      "uuid": "0d561723-5652-4c9b-ba75-29c5f923bbca",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-29T16:11:49.872Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya mobile work",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "715:1807",
+        "node_offset": {
+          "x": -10520,
+          "y": 20680
+        },
+        "stable_path": [
+          "715:1807"
+        ]
+      },
+      "order_id": "140"
+    },
+    {
+      "id": "1232531235",
+      "uuid": "e5bf9fc6-b5de-4645-acf5-e77defd664c6",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-25T14:10:42.755Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya Before our product design review, we need to confirm if this \"see details\" state will be included in MVP",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9080:10583",
+        "node_offset": {
+          "x": 1259,
+          "y": 285
+        },
+        "stable_path": [
+          "9080:10583"
+        ]
+      },
+      "order_id": "139"
+    },
+    {
+      "id": "1208579332",
+      "uuid": "2c3ad53f-9060-48fb-af24-9c3febe51ca6",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-08T21:19:58.418Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya We will need to document here how to bring in the new AMO privacy section into the current AMO listing page design.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8977:48997",
+        "node_offset": {
+          "x": 232,
+          "y": 1
+        },
+        "stable_path": [
+          "8977:48997"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "1208574862",
+      "uuid": "d2136545-72f1-41cb-b6d3-0f386f970496",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-08T21:15:42.106Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya These are some of the short term designs that Will will be building for the preffed off version in Nightly. These will never be user-facing.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8841:26553",
+        "node_offset": {
+          "x": 1650,
+          "y": 46
+        },
+        "stable_path": [
+          "8841:26553"
+        ]
+      },
+      "order_id": "136"
+    },
+    {
+      "id": "1208411841",
+      "uuid": "e6d48c5b-eef6-42f7-8254-f3a55c68dc7f",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-08T19:09:58.606Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya FUTURE: Do we want an icon or visual treatment that conveys that this is a good thing?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8676:31489",
+        "node_offset": {
+          "x": 846,
+          "y": 108
+        },
+        "stable_path": [
+          "8676:31489"
+        ]
+      },
+      "order_id": "133"
+    },
+    {
+      "id": "1205200674",
+      "uuid": "8f027b2c-71fc-4447-a4e9-6c5f6fc85198",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-04-07T08:14:23.323Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak re data consent, I added the pref'd off MVP ones here, that Will asked for in the doc https://docs.google.com/document/d/1_dK3AD8os5I7fucYWfYCypZ2qk1n_r37AKDx_0tlTZk/edit?usp=sharing",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8841:26553",
+        "node_offset": {
+          "x": 176,
+          "y": 712
+        },
+        "stable_path": [
+          "8841:26553"
+        ]
+      },
+      "order_id": "131"
+    },
+    {
+      "id": "1188457266",
+      "uuid": "bb4a622b-9cde-4b25-8713-71de84af2d51",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-25T15:16:06.110Z",
+      "resolved_at": null,
+      "message": "I don't think we need this at all once users have installed the extension",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8798:26767",
+        "node_offset": {
+          "x": 456,
+          "y": 337
+        },
+        "stable_path": [
+          "8798:26767"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "1188444665",
+      "uuid": "68b46a25-4ae2-4d11-957c-073aa2e8b2de",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-25T15:10:44.896Z",
+      "resolved_at": null,
+      "message": "Would this headline be the same regardless of whether or not T&I data settings appear? If so, we need to be far more generic with the headline.\n\nE.g. \"Optional settings for added functionality:\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8798:26770",
+        "node_offset": {
+          "x": 57,
+          "y": 232
+        },
+        "stable_path": [
+          "8798:26770"
+        ]
+      },
+      "order_id": "126"
+    },
+    {
+      "id": "1188439016",
+      "uuid": "1cf0f506-471e-46eb-8c91-26cf609465f8",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-25T15:08:22.151Z",
+      "resolved_at": null,
+      "message": "Can we see what this version will look like with the T&I data collection checkbox?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8798:25702",
+        "node_offset": {
+          "x": 914,
+          "y": 1723
+        },
+        "stable_path": [
+          "8798:25702"
+        ]
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "1188436728",
+      "uuid": "dd2e55eb-c611-437d-b5ca-339c7dee7bcb",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-25T15:07:22.628Z",
+      "resolved_at": null,
+      "message": "What is the difference between these two screenshots?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8798:25701",
+        "node_offset": {
+          "x": 6296,
+          "y": 3948
+        },
+        "stable_path": [
+          "8798:25701"
+        ]
+      },
+      "order_id": "124"
+    },
+    {
+      "id": "1186269740",
+      "uuid": "59b8a419-1c1c-4fcb-a1c5-7f238008d3ca",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-24T14:01:47.977Z",
+      "resolved_at": null,
+      "message": "This feels like a very heavy treatment for something that isn't required. On desktop, we don't use a headline for this section. But even without the headline, this extra statement feels like a lot on mobile where space is at such a premium.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8761:23000",
+        "node_offset": {
+          "x": 303,
+          "y": 488
+        },
+        "stable_path": [
+          "8761:23000"
+        ]
+      },
+      "order_id": "120"
+    },
+    {
+      "id": "1186024048",
+      "uuid": "6a773f7e-91a1-4962-a1c1-cedf9cd76a59",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-03-24T11:51:54.476Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I updated it based on your feedback and also updated the styles to better match with where we want to go with Android visually. Let me know if there's anything around the content that needs to be update or if it look ok to you. TY",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8761:23217",
+        "node_offset": {
+          "x": 85,
+          "y": 104
+        },
+        "stable_path": [
+          "8761:23217"
+        ]
+      },
+      "order_id": "119"
+    },
+    {
+      "id": "1184379200",
+      "uuid": "4c2e46d9-6f12-4fe9-90eb-df41b91f39ae",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-21T17:28:28.029Z",
+      "resolved_at": null,
+      "message": "I'd like to propose that we get rid of \"Learn more\" link",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-2:",
+          "created_at": "2025-03-24T09:55:06.314Z",
+          "user": {
+            "id": "862656244535756550",
+            "handle": "Nicole Weber",
+            "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8700:24956",
+        "node_offset": {
+          "x": 69,
+          "y": 674
+        },
+        "stable_path": [
+          "8700:24956"
+        ]
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "1184377486",
+      "uuid": "d3a47535-728c-4aaa-9e6f-af41c4bc4d71",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-21T17:27:13.265Z",
+      "resolved_at": null,
+      "message": "See details link needs styling",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8700:24956",
+        "node_offset": {
+          "x": 219,
+          "y": 508
+        },
+        "stable_path": [
+          "8700:24956"
+        ]
+      },
+      "order_id": "117"
+    },
+    {
+      "id": "1184377088",
+      "uuid": "73db1d59-0ab4-4d16-a9f3-a8304bb7610d",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-21T17:26:57.590Z",
+      "resolved_at": null,
+      "message": "What if we didn't use a bullet here? Style it just like the \"no data collection\" one",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8700:24956",
+        "node_offset": {
+          "x": 3,
+          "y": 431
+        },
+        "stable_path": [
+          "8700:24956"
+        ]
+      },
+      "order_id": "116"
+    },
+    {
+      "id": "1184373841",
+      "uuid": "0e8d11d3-0253-4a9a-a172-1fa475989aa4",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-21T17:24:36.329Z",
+      "resolved_at": null,
+      "message": "Like desktop, I don't think we'll need the checkbox",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8701:33684",
+        "node_offset": {
+          "x": 73,
+          "y": 584
+        },
+        "stable_path": [
+          "8701:33684"
+        ]
+      },
+      "order_id": "115"
+    },
+    {
+      "id": "1175437992",
+      "uuid": "51fe966e-fa81-4d29-8f34-40a01c4f252a",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-03-17T08:35:36.724Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I started with mobile data consent",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8700:22058",
+        "node_offset": {
+          "x": 336,
+          "y": 1462
+        },
+        "stable_path": [
+          "8700:22058"
+        ]
+      },
+      "order_id": "113"
+    },
+    {
+      "id": "1175338033",
+      "uuid": "46bac50e-4766-46a6-8a40-ef34232700b9",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-03-17T07:34:06.419Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I wonder if the Learn more links can be combined, assuming that users are interested in both or/and don't know exactly what the diff is",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8676:42154",
+        "node_offset": {
+          "x": 273,
+          "y": 830
+        },
+        "stable_path": [
+          "8676:42154"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "1172524847",
+      "uuid": "fc0cf99e-137a-40dc-b298-dbe5b83485c2",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-03-13T18:27:57.822Z",
+      "resolved_at": null,
+      "message": "Riff: Information provided by extension developer.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8638:51028",
+        "node_offset": {
+          "x": 276,
+          "y": 613
+        },
+        "stable_path": [
+          "8638:51028"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "1172524169",
+      "uuid": "7c3cfaae-f4f2-4d46-a92a-0fd90e00a1bd",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-03-13T18:27:31.052Z",
+      "resolved_at": null,
+      "message": "I prefer this variant of the data collection section. \n\nI like how the disclaimer that info is provided by the extension developer is secondary rather than in the title. That hierarchy seems more appropriate.\n\nI also think the additional info \"Required for core functionality\" is clearer in helping users understand that the add-on might not work as well without accepting the data collection.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8638:51028",
+        "node_offset": {
+          "x": 158,
+          "y": 682
+        },
+        "stable_path": [
+          "8638:51028"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "1172523844",
+      "uuid": "e1685ae0-c0d4-4e56-95a6-02c9658cb41b",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-03-13T18:27:17.411Z",
+      "resolved_at": null,
+      "message": "I like the reason for optional, but not sure about for \"Required\"; might be about how it's phrased - like \"Required for extension to work\" is what runs through my head.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-03-13T18:28:31.301Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-03-13T18:28:33.747Z",
+          "user": {
+            "id": "1298754465457927621",
+            "handle": "Tina Vaamonde",
+            "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8638:51028",
+        "node_offset": {
+          "x": 534,
+          "y": 493
+        },
+        "stable_path": [
+          "8638:51028"
+        ]
+      },
+      "order_id": "107"
+    },
+    {
+      "id": "1172523760",
+      "uuid": "40442477-fa6b-4d1c-92ac-0f4cb876f6df",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-03-13T18:27:14.590Z",
+      "resolved_at": null,
+      "message": "If we're trying to achieve a goal around users feeling informed about their data and how it's used, I feel like this version achieves that. \n\nPersonally though? I know that my data is out there, it's needed to use a site (ex: things like baseline cookies will always be required) so feel like the second version would work just as fine.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8638:51028",
+        "node_offset": {
+          "x": 508,
+          "y": 374
+        },
+        "stable_path": [
+          "8638:51028"
+        ]
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "1172521377",
+      "uuid": "33aec938-ba87-4eff-8bc8-74eb4d9e0921",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-03-13T18:25:40.529Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak What's the \"information\" you're referring to?\n\nwondering if you can just have \"Provided by extension developer\"",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-03-13T18:28:57.060Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8638:55954",
+        "node_offset": {
+          "x": 430,
+          "y": 582
+        },
+        "stable_path": [
+          "8638:55954"
+        ]
+      },
+      "order_id": "105"
+    },
+    {
+      "id": "1172520056",
+      "uuid": "a0586fbe-4434-4f21-a3a9-37761c9ba6cf",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-03-13T18:24:51.058Z",
+      "resolved_at": null,
+      "message": "I think this works better than the one to the right. You could probably also shorten to \"Info provided by the extension developer\" or \"Info provided by <extension name>\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8638:51028",
+        "node_offset": {
+          "x": 757,
+          "y": 608
+        },
+        "stable_path": [
+          "8638:51028"
+        ]
+      },
+      "order_id": "104"
+    },
+    {
+      "id": "1172520016",
+      "uuid": "9f13185b-7c5e-4391-b81e-e33c3b20ab4d",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-03-13T18:24:49.482Z",
+      "resolved_at": null,
+      "message": "I like the simplicity here as the \"core vs added functionality\" could need more explaining.\n\nFor example, what other functionality is obtained by letting you read and modify bookmarks?",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-03-13T18:25:22.053Z",
+          "user": {
+            "id": "1083509274597697392",
+            "handle": "Jeff Pfaller",
+            "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8638:55954",
+        "node_offset": {
+          "x": 363,
+          "y": 382
+        },
+        "stable_path": [
+          "8638:55954"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "1172518329",
+      "uuid": "575cc9e3-a4ea-493b-a473-3a548c53e9f2",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-03-13T18:23:47.222Z",
+      "resolved_at": null,
+      "message": "Is this broad enough to cover the use cases we need? Understand this is what most devs are doing, but could there be cases where a dev asks for additional data for monetization / data brokering? Maybe not",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-03-13T18:26:23.983Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8638:51028",
+        "node_offset": {
+          "x": 538,
+          "y": 720
+        },
+        "stable_path": [
+          "8638:51028"
+        ]
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "1172382494",
+      "uuid": "858dcc17-3e90-43b0-aaa9-08d9869fb13c",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-13T16:58:55.907Z",
+      "resolved_at": null,
+      "message": "I'm leaning towards this one because I like the organization of the headlines...I will take this to CD critique today to see if they have any other ideas.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8648:45659",
+        "node_offset": {
+          "x": 198,
+          "y": 98
+        },
+        "stable_path": [
+          "8648:45659"
+        ]
+      },
+      "order_id": "101"
+    },
+    {
+      "id": "1172279104",
+      "uuid": "8b79ebb3-b69e-420d-8d2b-e80f026faa92",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-03-13T16:04:53.186Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak which one works better? the second or the third? This is separating the optionals into data and permissions",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8626:43977",
+        "node_offset": {
+          "x": 106,
+          "y": 40
+        },
+        "stable_path": [
+          "8626:43977"
+        ]
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "1162446262",
+      "uuid": "887c5d46-875e-4387-b271-84880715d363",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-06T21:13:27.129Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber a third option. Do you like it better than #2 or no?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8445:34416",
+        "node_offset": {
+          "x": 6699,
+          "y": 2767
+        },
+        "stable_path": [
+          "8445:34416"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "1156288217",
+      "uuid": "871681a1-f0a0-429e-bc8b-3367dda90fb9",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-03T18:54:42.972Z",
+      "resolved_at": null,
+      "message": "(Not reviewed by Firefox) legal edit",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8258:20256",
+        "node_offset": {
+          "x": 2314,
+          "y": 291
+        },
+        "stable_path": [
+          "8258:20256"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "1156286204",
+      "uuid": "887be1aa-9493-4c98-b339-eb71423fb29a",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-03T18:52:59.792Z",
+      "resolved_at": null,
+      "message": "Could lead with \"The developer says\" per legal",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8211:30330",
+        "node_offset": {
+          "x": 81,
+          "y": 151
+        },
+        "stable_path": [
+          "8211:30330"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "1156134150",
+      "uuid": "3ab78f48-acef-4e64-8c69-ea813b92e122",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-03T16:55:39.292Z",
+      "resolved_at": null,
+      "message": "Is it worth showing the view with the persistent add button? Or will that focus too much on the new template?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8327:44602",
+        "node_offset": {
+          "x": 827,
+          "y": 268
+        },
+        "stable_path": [
+          "8327:44602"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "1155919185",
+      "uuid": "08a179c5-6076-4231-ba53-a904de83768e",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-03T14:53:08.843Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber Looks like the leadership review page is using outdated copy. Can we please use copy from this prototype?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8211:30330",
+        "node_offset": {
+          "x": 417,
+          "y": 28
+        },
+        "stable_path": [
+          "8211:30330"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "1155514522",
+      "uuid": "75eff284-b04f-4311-bf30-915d76f96a41",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-03-03T10:48:09.393Z",
+      "resolved_at": null,
+      "message": "remove listing page from review",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8315:22950",
+        "node_offset": {
+          "x": 853,
+          "y": 963
+        },
+        "stable_path": [
+          "8315:22950"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "1155511574",
+      "uuid": "04d6cc73-321e-4e97-be29-a1c8e8e68a6d",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-03-03T10:46:28.132Z",
+      "resolved_at": null,
+      "message": "@Alan Byrne @Emily Wachowiak date consent -- have a look",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8311:77650",
+        "node_offset": {
+          "x": 692,
+          "y": 255
+        },
+        "stable_path": [
+          "8311:77650"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "1155291764",
+      "uuid": "b244d904-e87d-4d5e-b82e-9ffaa28ee07b",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-03-03T08:45:38.233Z",
+      "resolved_at": null,
+      "message": "@Alan Byrne @Emily Wachowiak Here's a version for an extension that collects no data, I wouldn't be surprised if users get confused about the permission to access data above, we should test this.  Thoughts?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8312:106889",
+        "node_offset": {
+          "x": 1046,
+          "y": 1914
+        },
+        "stable_path": [
+          "8312:106889"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "1154101397",
+      "uuid": "be888da2-4f7d-43bf-bb76-a7359e8679d5",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-28T17:55:29.106Z",
+      "resolved_at": null,
+      "message": "\"Required data collection\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8295:29169",
+        "node_offset": {
+          "x": 498,
+          "y": 221
+        },
+        "stable_path": [
+          "8295:29169"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "1154090880",
+      "uuid": "9469f38d-df1f-4351-9481-9d188afe0c61",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-02-28T17:47:01.274Z",
+      "resolved_at": null,
+      "message": "\"reviewed\" \"vetted\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8295:26835",
+        "node_offset": {
+          "x": 2447,
+          "y": 1981
+        },
+        "stable_path": [
+          "8295:26835"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1154090574",
+      "uuid": "fbb1fada-edec-4d4e-bdbc-c9979f881655",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-02-28T17:46:46.792Z",
+      "resolved_at": null,
+      "message": "Difference between \n\"permissions\" and \"personal data\" not clear/meaningful to user. \"Permissions\" is read/write access on the browser, while \"personal data\" is data is taken somewhere else (non-local).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8295:26835",
+        "node_offset": {
+          "x": 2369,
+          "y": 2102
+        },
+        "stable_path": [
+          "8295:26835"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1154087040",
+      "uuid": "d66d1385-7368-4e13-b2ed-28ce7f126590",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-02-28T17:43:56.572Z",
+      "resolved_at": null,
+      "message": "Cut \"Learn all about\"? And move Fox to front",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8295:26835",
+        "node_offset": {
+          "x": 1979,
+          "y": 2230
+        },
+        "stable_path": [
+          "8295:26835"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1148463489",
+      "uuid": "8ae968a6-5ab6-496e-bff2-e36a53fd52b8",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-02-25T20:25:51.064Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak how should this look like in about:addons?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8222:34424",
+        "node_offset": {
+          "x": 688,
+          "y": 469
+        },
+        "stable_path": [
+          "8222:34424"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1148461807",
+      "uuid": "35deab34-9487-453e-8841-020ab8081fbe",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-02-25T20:24:42.703Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak so maybe something like this and the screen to the right when all is unfolded -- maybe we also need a 'show all option' to not make them click multiple times",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8239:11290",
+        "node_offset": {
+          "x": 1160,
+          "y": 501
+        },
+        "stable_path": [
+          "8239:11290"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1148315539",
+      "uuid": "3d8a2da9-ed27-4a58-b6ad-a3c45325bc0e",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-02-25T18:43:18.074Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I think instead of opening a pop-up/modal we could scroll to the position in the listing page and keep a sticky header so that users can install the extension -- if feasible",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8208:21625",
+        "node_offset": {
+          "x": 1080,
+          "y": 348
+        },
+        "stable_path": [
+          "8208:21625"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "1148314144",
+      "uuid": "aae0e1c2-e906-4876-ade3-5f786d22bf07",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-02-25T18:42:25.345Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak what you think about the modal? You think we could use this as starting point for usability testing?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8211:30330",
+        "node_offset": {
+          "x": 407,
+          "y": 127
+        },
+        "stable_path": [
+          "8211:30330"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "1146433469",
+      "uuid": "2fa1c5b1-e6ca-4872-a377-3f801b334360",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-24T21:01:42.958Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber See my updated content suggestions on the left, and this is a suggestion for what the user will see if they click \"See more details\" or if they click the \"learn more\" link from the installation modal. \n\nI took the extra content directly from SUMO. The idea is that each permission AND personal data request gets more context/examples PLUS the developer statement, if available. Could be some kind of modal or its own page--but it has the \"Add\" button right on it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8183:32267",
+        "node_offset": {
+          "x": 3333,
+          "y": 1077
+        },
+        "stable_path": [
+          "8183:32267"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1145975266",
+      "uuid": "3d57afcf-1b26-4dac-a750-187e1905f344",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-24T15:52:05.886Z",
+      "resolved_at": null,
+      "message": "Another idea to explore: An installation success message that invites users to edit their privacy settings.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8183:32267",
+        "node_offset": {
+          "x": 3488,
+          "y": 116
+        },
+        "stable_path": [
+          "8183:32267"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "1145950782",
+      "uuid": "486d3825-7f19-420a-a9bc-fed2c0723f13",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-24T15:40:10.523Z",
+      "resolved_at": null,
+      "message": "Notes from our chat today: \n* Can we bring back icons for the permissions? \n* Can we represent data collection in a list & provide a more detailed view behind a click that has examples, similar to Chrome webstore? This could be the view shown when users click through from the install modal.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8184:49550",
+        "node_offset": {
+          "x": 711,
+          "y": 108
+        },
+        "stable_path": [
+          "8184:49550"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1145672411",
+      "uuid": "a877216f-d1d0-4573-b437-76a247c50175",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-02-24T13:25:58.881Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak this is super crude but maybe we could just downplay the importance by not using a list, making the section visually smaller and also going back to the radio buttons since toggles that are not grouped look off; \n\nalso wondering if there is anything we can do about the permission section, so instead of saying 'Data consent is from the developer' focusing on what is verified by Firefox. \n\nAlso wondering if we can make it clear that permissions are required for the extension to work; and anything we can do to avoid the assumption that permissions collect data, e.g. instead of 'Access YOUR data for all websites' just 'Access data for all websites' or maybe even replace 'data' or going back to this old doc where Jeff suggested to replace 'access' with 'use' https://docs.google.com/spreadsheets/d/1RUnQqItoLPaJvmXdnYOnc4nCUoi1CD4rqAFFqku1vIU/edit?usp=sharing maybe that helps to indicate that it's needed for the extension to work",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8184:48822",
+        "node_offset": {
+          "x": 150,
+          "y": 230
+        },
+        "stable_path": [
+          "8184:48822"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1143937336",
+      "uuid": "ec8eff6c-61d7-4e45-866f-cbed7d1e08a7",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-21T18:08:20.380Z",
+      "resolved_at": null,
+      "message": "Think about adding \"Add\" button to save users a click!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8149:47857",
+        "node_offset": {
+          "x": 660,
+          "y": 778
+        },
+        "stable_path": [
+          "8149:47857"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1143922605",
+      "uuid": "1a25d252-de68-4419-bd2e-b346daee3098",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-21T17:56:07.794Z",
+      "resolved_at": null,
+      "message": "Note: we will need to plan for this type of scenario",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8163:50916",
+        "node_offset": {
+          "x": 240,
+          "y": 62
+        },
+        "stable_path": [
+          "8163:50916"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1143679396",
+      "uuid": "dd6f7f05-6823-41a6-9999-af6f96cad013",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-21T15:13:01.416Z",
+      "resolved_at": null,
+      "message": "I think it would be a good idea to offer some sort of detailed view about what these permissions mean--potentially this is built into the \"Why this is needed\" modal experience. Because right now that content is pretty repetitive from the install modal and this would offer more context in addition to the developer statement.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8149:47846",
+        "node_offset": {
+          "x": 111,
+          "y": 254
+        },
+        "stable_path": [
+          "8149:47846"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1142268540",
+      "uuid": "d043f61b-d8fd-470c-80b5-8024206e7a96",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-02-20T19:37:42.242Z",
+      "resolved_at": null,
+      "message": "The permissions that appear in toggles are the only ones that are optional... could we group THESE into their own section?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8129:9782",
+        "node_offset": {
+          "x": 77,
+          "y": 181
+        },
+        "stable_path": [
+          "8129:9782"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1142266996",
+      "uuid": "9067cfad-64a2-4697-868d-40f7164aeed9",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-02-20T19:36:37.070Z",
+      "resolved_at": null,
+      "message": "From a user perspective, I suspect there isn't a material difference between the different permission types. Legally, we need to indicate which ones we have vetted or not. I would push back on the concern about having EVERYTHING exposed - feels too far. I wonder if you could try something like grouping all and using the \"i\" icon for the non-vetted data requests.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8129:9782",
+        "node_offset": {
+          "x": 331,
+          "y": 79
+        },
+        "stable_path": [
+          "8129:9782"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1142265618",
+      "uuid": "d8f28682-01cd-46cb-b2a5-309d1607b4c9",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-02-20T19:35:35.920Z",
+      "resolved_at": null,
+      "message": "Here, trying to make sure there are only two \"parties\" in this modal - the extension and the user. Bringing 'the developer' (of the extension) and the host of this space - Mozilla - into it feels maybe unnecessary.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8116:21555",
+        "node_offset": {
+          "x": 3549,
+          "y": 4322
+        },
+        "stable_path": [
+          "8116:21555"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "1142256776",
+      "uuid": "fc97d369-1fc8-4507-a3b7-29ee445e1ab6",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-02-20T19:29:11.930Z",
+      "resolved_at": null,
+      "message": "If you DO go back to two-step, I wonder about re-locating the \"run in private windows\" there, too. Rationale: group toggles.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8116:22731",
+        "node_offset": {
+          "x": 1023,
+          "y": 224
+        },
+        "stable_path": [
+          "8116:22731"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "1142255752",
+      "uuid": "38540620-e720-4f44-8fa7-36074cb35ff6",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-20T19:28:27.322Z",
+      "resolved_at": null,
+      "message": "Any thoughts on whether we should include something like \"to help the extension work\" / \"support its functionality\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8116:22731",
+        "node_offset": {
+          "x": 1104,
+          "y": 251
+        },
+        "stable_path": [
+          "8116:22731"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1142253954",
+      "uuid": "44c04385-ab8a-47b7-96bd-bc3634073557",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-02-20T19:27:13.829Z",
+      "resolved_at": null,
+      "message": "What if we just said \"Here's what the developer says they collect:\" and leave Mozilla out of it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8116:22731",
+        "node_offset": {
+          "x": 1203,
+          "y": 272
+        },
+        "stable_path": [
+          "8116:22731"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1141226199",
+      "uuid": "b9914bc0-43e9-48b8-9dae-851a6d3f9b91",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Andreas Wagner",
+        "img_url": "https://www.gravatar.com/avatar/b6a5fb3cea1462c6e008f93bab39b1dd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "885525952684484268"
+      },
+      "created_at": "2025-02-20T10:13:05.111Z",
+      "resolved_at": null,
+      "message": "We should have a statement somewhere that the data declaration is information provided by the developer (and might not have been verified). This is also why a separate data section makes much more sense to me.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7749:8127",
+        "node_offset": {
+          "x": 817,
+          "y": 226
+        },
+        "stable_path": [
+          "7749:8127"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "1141220185",
+      "uuid": "2ea98a90-0bff-47d0-971e-1026239c6fd5",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Andreas Wagner",
+        "img_url": "https://www.gravatar.com/avatar/b6a5fb3cea1462c6e008f93bab39b1dd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "885525952684484268"
+      },
+      "created_at": "2025-02-20T10:10:17.476Z",
+      "resolved_at": null,
+      "message": "The data declaration should be separate from the technical permissions. Contrary to permissions, the data declaration is just that; it's not a permission. Not granting that \"permission\" will not prevent the extension from accessing and collecting/sending the data anyway. But technical permissions would.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7749:8127",
+        "node_offset": {
+          "x": 990,
+          "y": 146
+        },
+        "stable_path": [
+          "7749:8127"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1141210876",
+      "uuid": "cc2839d7-0701-4555-94b3-24e79025f844",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Andreas Wagner",
+        "img_url": "https://www.gravatar.com/avatar/b6a5fb3cea1462c6e008f93bab39b1dd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "885525952684484268"
+      },
+      "created_at": "2025-02-20T10:05:49.868Z",
+      "resolved_at": null,
+      "message": "Possibly each might need a separate toggle",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7749:8127",
+        "node_offset": {
+          "x": 934,
+          "y": 269
+        },
+        "stable_path": [
+          "7749:8127"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1141209295",
+      "uuid": "fc47b068-5b20-4c09-b903-a6cf126a155e",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Andreas Wagner",
+        "img_url": "https://www.gravatar.com/avatar/b6a5fb3cea1462c6e008f93bab39b1dd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "885525952684484268"
+      },
+      "created_at": "2025-02-20T10:05:03.932Z",
+      "resolved_at": null,
+      "message": "Personal data can be optional and therefore needs a toggle that should be disabled by default",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7749:8127",
+        "node_offset": {
+          "x": 983,
+          "y": 233
+        },
+        "stable_path": [
+          "7749:8127"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1132244174",
+      "uuid": "8fe3de70-b2ba-4016-9358-30ca24f1d89b",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-13T17:03:11.866Z",
+      "resolved_at": null,
+      "message": "What would it look like if we added something like this from Google store? I noticed some users assumed their data would be sold. I know this section is hefty but maybe it's as simple as including something around the first bullet point.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7996:15190",
+        "node_offset": {
+          "x": 1223,
+          "y": 1875
+        },
+        "stable_path": [
+          "7996:15190"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1130252702",
+      "uuid": "a99732db-4a73-41e4-9401-47b1c7d68c09",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-12T17:05:30.632Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber after talking with Meridel, we were exploring a simplified dialog with no separate sections for optional permissions + a simple Why text link vs the felt privacy banner. She thinks we can still explore the felt privacy here but needs more consideration and research. Perhaps something like this for Alan's Phase 1 in Nightly would be good as well. \n\nBut ultimately I'd like to do some moderated user testing that compares a simple install dialog with one that has more felt privacy, perhaps redesigned to be bigger like your previous explorations.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7984:13660",
+        "node_offset": {
+          "x": 1103,
+          "y": 21
+        },
+        "stable_path": [
+          "7984:13660"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1130191675",
+      "uuid": "f3399c83-838e-491a-8bf8-92eaa613c090",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-12T16:31:41.068Z",
+      "resolved_at": null,
+      "message": "Articulate the content strategy of this modal. e.g. priorities to install extensions, understand privacy, etc.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7978:13035",
+        "node_offset": {
+          "x": 253,
+          "y": 104
+        },
+        "stable_path": [
+          "7978:13035"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1130173106",
+      "uuid": "c3436fea-f247-426d-9685-a9394697435a",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-12T16:22:05.967Z",
+      "resolved_at": null,
+      "message": "Let's make sure the Add button is in view if a user clicks from the install dialog",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7998:15027",
+        "node_offset": {
+          "x": 1036,
+          "y": 1876
+        },
+        "stable_path": [
+          "7998:15027"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1126207170",
+      "uuid": "1076e542-9570-4f0c-8ede-7bb345026925",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-10T15:56:56.829Z",
+      "resolved_at": null,
+      "message": "Wondering if there are more visual cues we can use to signal that this part is coming from the developer. Perhaps by using their logo and/or giving this section more of a \"pull quote\" treatment with a white background or offsetting with large quotation marks like in a blog or news article or a vertical line to the left of the quote like in slack.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7996:15190",
+        "node_offset": {
+          "x": 947,
+          "y": 1735
+        },
+        "stable_path": [
+          "7996:15190"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1126139669",
+      "uuid": "225d51ac-e2ea-40e7-ab8a-21b4a082f2e6",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-02-10T15:22:09.541Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak something like this? I need to create a few more options... what you think about having the permissions first, adding the header '....why this data is needed' to tie it back to the copy we have in the installation prompt and removing the part about optional permissions to focus on the most important info, keeping it short? TY",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7996:15190",
+        "node_offset": {
+          "x": 1061,
+          "y": 1408
+        },
+        "stable_path": [
+          "7996:15190"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1124296062",
+      "uuid": "fffbebf5-9e88-4f7a-a71c-36b5b824ffe5",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-07T20:29:56.884Z",
+      "resolved_at": null,
+      "message": "please ignore the hackiest layout of all time, but what if the privacy section was hollistic like this with a global Firefox statement at the top? We might reverse the order below and have permissions/data consent on the left and developer statement on the right.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7978:13053",
+        "node_offset": {
+          "x": 442,
+          "y": 1451
+        },
+        "stable_path": [
+          "7978:13053"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1124267567",
+      "uuid": "9b0a6d79-36bc-4749-a82c-71e06b468228",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-07T20:00:29.696Z",
+      "resolved_at": null,
+      "message": "If we just need this for a disclaimer, maybe that's better (no layered clicks beyond this). Legal said this disclaimer was optional but recommended, so we can press her again on if it's okay to remove.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7984:13660",
+        "node_offset": {
+          "x": 655,
+          "y": 159
+        },
+        "stable_path": [
+          "7984:13660"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "1124265666",
+      "uuid": "03c47f27-4504-493d-acec-4a57d97910f4",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-07T19:58:41.554Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber This looks kinda dumb but what if we break this part out and make it apply to the whole thing. I don't want these developer statements to become the new data consent (a pain to produce, hard to vet), so we should make sure developers WANT to produce these statements, and I don't think we should vet them if we don't have the resources, just make sure there's a disclaimer.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7984:13660",
+        "node_offset": {
+          "x": 297,
+          "y": 338
+        },
+        "stable_path": [
+          "7984:13660"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1122280779",
+      "uuid": "090534ef-76b9-40b3-a881-bf543db41af6",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-06T16:40:57.404Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber Here is a slightly altered layout for the 2-screen experience. I've moved the disclaimer to the bottom of the screen--I feel this increases clarity between the first paragraph and the bullet points. Thoughts?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7834:7698",
+        "node_offset": {
+          "x": -72,
+          "y": 4730
+        },
+        "stable_path": [
+          "7834:7698"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "1118224423",
+      "uuid": "c6f89fc4-ad9e-4e92-8c73-cac50c885fdd",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-04T15:09:04.823Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber Andreas mentioned that some extensions split their settings for technical & interaction data into 2 settings. In the examples we collected, I only saw one extension that split this in 2. We should discuss whether we want to accomodate extensions who want to split this with 2 settings on this dialog during installation or if we need to come up with another solution. cc @Alan Byrne",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7828:10943",
+        "node_offset": {
+          "x": 250,
+          "y": 270
+        },
+        "stable_path": [
+          "7828:10943"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1118196313",
+      "uuid": "3e6db179-00f1-44bb-a75f-d330e933a094",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-04T14:55:31.155Z",
+      "resolved_at": null,
+      "message": "What do you think about moving this link to the top of this paragraph? Maybe it should be more prominent?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7828:10943",
+        "node_offset": {
+          "x": 667,
+          "y": 238
+        },
+        "stable_path": [
+          "7828:10943"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1116512702",
+      "uuid": "91fbbef2-b327-4eac-b9b3-643a60211b0a",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-02-03T16:18:15.626Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak the 2-step prototype",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7409:5980",
+        "node_offset": {
+          "x": 777,
+          "y": 235
+        },
+        "stable_path": [
+          "7409:5980"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1116423673",
+      "uuid": "df4752f7-9154-45a8-bdb8-2d60afbf6531",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-03T15:27:58.434Z",
+      "resolved_at": null,
+      "message": "It is confusing that the \"Why this data is needed\" link closes the dialog and doesn't change anything on the page. Is it possible to make this imitate and \"anchor link\" so that when it closes, the user lands with the Privacy Policy at the top of the screen? \n\nOr, is it easier to make this happen in a \"new tab\"? If it's in a new tab, I would expect the install dialog to remain open on the original tab. What do you think? @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7749:8127",
+        "node_offset": {
+          "x": 973,
+          "y": 301
+        },
+        "stable_path": null
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1116412781",
+      "uuid": "4a41fe58-0e3b-474d-9f89-916a7e673b30",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-02-03T15:22:10.363Z",
+      "resolved_at": null,
+      "message": "After the install is complete, the message disappears after just a few seconds. I think today it stays until the user clicks on it. Can we make it stay so users have time to read it? @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7749:8304",
+        "node_offset": {
+          "x": 1225,
+          "y": 76
+        },
+        "stable_path": null
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1113213402",
+      "uuid": "d3bfb3f9-4cf0-49d0-ba3f-eff57bf75bbe",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-01-30T20:36:22.044Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I updated the data types here, can you double-check this looks good to you?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7749:8033",
+        "node_offset": {
+          "x": 89,
+          "y": 1011
+        },
+        "stable_path": [
+          "7749:8033"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1112909244",
+      "uuid": "4c2b7e8c-ee94-4950-bc81-00a106da5375",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-30T16:56:33.882Z",
+      "resolved_at": null,
+      "message": "We discussed needing a link with more context from the devleoper",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7767:19326",
+        "node_offset": {
+          "x": 651,
+          "y": 242
+        },
+        "stable_path": [
+          "7767:19326"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1112908187",
+      "uuid": "5421e060-e903-4fac-b1a3-ee3acf5c83cb",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-30T16:55:57.483Z",
+      "resolved_at": null,
+      "message": "Per Alan's comment today, I'm trying to clarify that this data is shared with the extension/the extension developer. This is different than the \"personal\" data above because we can't say where that is sent to. We just don't know. cc @Alan Byrne",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7749:8127",
+        "node_offset": {
+          "x": 1160,
+          "y": 361
+        },
+        "stable_path": [
+          "7749:8127"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1100527519",
+      "uuid": "d40387cd-d20e-4518-9750-0418f1bc77cc",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-21T20:40:31.345Z",
+      "resolved_at": null,
+      "message": "Average number of personal data items is 2.5 but let's round that up to 3",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7715:10402",
+        "node_offset": {
+          "x": 963,
+          "y": 267
+        },
+        "stable_path": [
+          "7715:10402"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1096565160",
+      "uuid": "d6d4de32-6cc0-47b3-986f-3eb60b56c9fe",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-17T17:12:40.447Z",
+      "resolved_at": null,
+      "message": "There are some cases where collecting personal data is optional (per Andreas). Let's ping him next week and he can show us. So this may HAVE to be a checkbox or toggle",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7655:5869",
+        "node_offset": {
+          "x": 438,
+          "y": 249
+        },
+        "stable_path": [
+          "7655:5869"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1096560672",
+      "uuid": "88ac88e5-0078-4f98-ac8a-f0389506b1b5",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-17T17:09:03.624Z",
+      "resolved_at": null,
+      "message": "Instead of collect, try transmit (but less technical) - note for emily later",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7512:5358",
+        "node_offset": {
+          "x": 5106,
+          "y": 2462
+        },
+        "stable_path": [
+          "7512:5358"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1096558838",
+      "uuid": "fc820c6c-a598-4c0f-9a01-3b4ab2a9eed9",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-17T17:07:32.475Z",
+      "resolved_at": null,
+      "message": "What if we try this one with the 2 permissions and expandable accordion for personal data? (per convo w/ Andreas)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7512:5358",
+        "node_offset": {
+          "x": 4856,
+          "y": 2481
+        },
+        "stable_path": [
+          "7512:5358"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1096548136",
+      "uuid": "08e337a0-b643-4db4-8c28-2d4a59c92117",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-17T16:58:42.872Z",
+      "resolved_at": null,
+      "message": "What if the personal data was a manual opt-in checkbox like User Script permissions? (from a discussion with Andreas)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7647:8394",
+        "node_offset": {
+          "x": 786,
+          "y": 240
+        },
+        "stable_path": [
+          "7647:8394"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1096038017",
+      "uuid": "2b6c3c76-046e-4245-b909-a5881a53e6c9",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-01-17T11:13:22.967Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak quick mock of how it could look like. I'll explore how to progressively disclose the detailed information on data collection next week",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7647:8394",
+        "node_offset": {
+          "x": 1121,
+          "y": 202
+        },
+        "stable_path": [
+          "7647:8394"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1094552440",
+      "uuid": "bfcfaa6f-87cf-4cae-b8e8-d64388e04b4a",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-16T13:39:13.722Z",
+      "resolved_at": null,
+      "message": "Per legal, we can't say \"anonymous\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7409:5988",
+        "node_offset": {
+          "x": 895,
+          "y": 233
+        },
+        "stable_path": [
+          "7409:5988"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1086950900",
+      "uuid": "6a527f65-fe9d-4900-a3eb-d8fa1b49841b",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-01-10T08:23:20.070Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I think we can explore a bunch of these layout options to reduce or manage information overload better; I also replaced the list with checkmarks, which works a little better. \n\nI was also wondering if we could phrase the headers a little more conversational, so instead of 'Permissions' describe what it actually is, or what the impact is. \n\nAnother thing I'm wondering is if we can try to avoid the word 'data' in the context of permissions, not sure if this is possible though.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7584:7858",
+        "node_offset": {
+          "x": 435,
+          "y": 102
+        },
+        "stable_path": [
+          "7584:7858"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1086401328",
+      "uuid": "26eac2fd-f1f9-4743-8235-e53cde923d1d",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-09T20:09:06.085Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber Can we explore a 1-screen experience that is vertical instead of horizontal and includes progressive disclosure? I can't find a good example but what I'm thinking is almost like accordions...potentially there are still 2 separate buttons to agree but it feels more cohesive and less overwhelming than 2 separate screens. Maybe we can sketch something out in Berlin.\n\nBut I do think we will have issues with a 2-column format...it is very hard to consume information this way.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7379:3848",
+        "node_offset": {
+          "x": 350,
+          "y": 313
+        },
+        "stable_path": [
+          "7379:3848"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1086306871",
+      "uuid": "3f0d8e96-379e-4b14-8cc1-662b4175ab27",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-09T18:44:59.408Z",
+      "resolved_at": null,
+      "message": "Bookmarking this for myself",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7512:5358",
+        "node_offset": {
+          "x": 2191,
+          "y": 2985
+        },
+        "stable_path": [
+          "7512:5358"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1059864913",
+      "uuid": "eab75282-93f0-4c7f-908b-562e8bbcbf22",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-12-11T08:20:43.141Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I wonder if 'collect' is the best word, Alan mentioned that this has potential for misunderstanding since developers think that this is about storing data in a database but it actually is relevant not only for the database case but also anytime data leaves Firefox, even if it stays on the laptop. Google uses 'handles date' or something like that. I don't have a strong opinion here, just wanted to flag it, thanks",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7409:7757",
+        "node_offset": {
+          "x": 123,
+          "y": 792
+        },
+        "stable_path": [
+          "7409:7757"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1059059470",
+      "uuid": "e1ae97aa-81f9-464f-9cd3-bf1f1e920356",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-12-10T17:55:38.202Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber In your research have you come across a comprehensive list of data types that Apple uses?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7110:3454",
+        "node_offset": {
+          "x": 538,
+          "y": 817
+        },
+        "stable_path": [
+          "7110:3454"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1057214009",
+      "uuid": "d6d575b6-f3e9-4951-8591-fa278811959f",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-12-09T17:34:55.445Z",
+      "resolved_at": null,
+      "message": "Do we want to think about icons for these items to match permissions? I think we can at least have icons for the 2 sections. Safari does a nice job with this.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2902:1444",
+        "node_offset": {
+          "x": 2053,
+          "y": 2335
+        },
+        "stable_path": [
+          "2902:1444"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1057213445",
+      "uuid": "647b490b-f177-49e1-a9a8-aec2bc83fa69",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-12-09T17:34:29.114Z",
+      "resolved_at": null,
+      "message": "Note that the IA is divided in 2 sections. I added ONE explanation for each category where the developer-provided content would go. I think this is more efficient than having an explanation for each individual item, but we can explore this in testing.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-2:",
+          "created_at": "2024-12-10T07:03:07.366Z",
+          "user": {
+            "id": "862656244535756550",
+            "handle": "Nicole Weber",
+            "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2902:1444",
+        "node_offset": {
+          "x": 2039,
+          "y": 2282
+        },
+        "stable_path": [
+          "2902:1444"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1057211856",
+      "uuid": "e18b5738-1eb9-48cc-9052-d6d91758b3a2",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-12-09T17:33:16.384Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber Updated take on IA here.\nI think the headline should include the word \"Privacy\" as that seems to be industry standard. We may or may not want to mention data collection explicitly in the headline.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-2:",
+          "created_at": "2024-12-10T07:05:17.074Z",
+          "user": {
+            "id": "862656244535756550",
+            "handle": "Nicole Weber",
+            "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2902:1444",
+        "node_offset": {
+          "x": 2174,
+          "y": 2131
+        },
+        "stable_path": [
+          "2902:1444"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1057188699",
+      "uuid": "ad68d447-9efa-4a3b-be35-8140fedc73c0",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-12-09T17:16:13.808Z",
+      "resolved_at": null,
+      "message": "Data linked to you / not linked to you is from Safari. I quite like it...are we allowed to steal it? lol",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2902:1444",
+        "node_offset": {
+          "x": 3698,
+          "y": 1744
+        },
+        "stable_path": [
+          "2902:1444"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1057129820",
+      "uuid": "8c9830e4-f2c2-4835-9ef0-0f9ace6599a3",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-12-09T16:36:29.818Z",
+      "resolved_at": null,
+      "message": "Another option to explore is to not elaborate at all on the 3 data types listed here. Maybe something to explore in user testing",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7404:3676",
+        "node_offset": {
+          "x": 394,
+          "y": 149
+        },
+        "stable_path": [
+          "7404:3676"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1057116062",
+      "uuid": "99838425-0d8d-46b3-9896-20b52e6de927",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-12-09T16:27:38.095Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber I know the hierarchy is off here but we do need an overarching statement about what this modal is doing (currently bold text)\n\nAnd can we explore having a checkbox next to anonymous data and each data type listed below? Not every extension collects all 3 items in this category, apparently.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2902:1444",
+        "node_offset": {
+          "x": 4293,
+          "y": 1626
+        },
+        "stable_path": [
+          "2902:1444"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1057052051",
+      "uuid": "0aa491d6-2914-4fda-8802-d492520e3874",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-12-09T15:49:01.362Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak added this bit here to talk about the data collection",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7384:7355",
+        "node_offset": {
+          "x": 218,
+          "y": 857
+        },
+        "stable_path": [
+          "7384:7355"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1057051009",
+      "uuid": "0520c3dd-e4dc-4735-942f-560ef3dd4227",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-12-09T15:48:25.933Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak could you review this work and make sure it looks alright to you? I want to share that on Wednesday for the Add-ons allHands. Thanks",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2902:1444",
+        "node_offset": {
+          "x": 745,
+          "y": 139
+        },
+        "stable_path": [
+          "2902:1444"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1039770245",
+      "uuid": "161dc328-803d-4fca-a1f0-f2ca5eaa6bb3",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-25T16:41:07.423Z",
+      "resolved_at": null,
+      "message": "Message should persist for a good amount of time to make sure it can be read. Could it be paired with some sort of animation into the extension button?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7245:5734",
+        "node_offset": {
+          "x": 1104,
+          "y": 81
+        },
+        "stable_path": [
+          "7245:5734"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1039768071",
+      "uuid": "6d2bf3d4-e11c-47ac-920a-2a11698cdc43",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-25T16:39:44.902Z",
+      "resolved_at": null,
+      "message": "Not sure how I feel about this as extraneous content when there will already be a ton of content to consume here. I'd feel better if this was just a one-time onboarding to the new flow.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7245:2838",
+        "node_offset": {
+          "x": 1051,
+          "y": 123
+        },
+        "stable_path": [
+          "7245:2838"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1039687604",
+      "uuid": "2e8abb1e-eec1-4f00-80fd-c03b0d2819c7",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-25T15:51:57.646Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber here are 2 alternative IA explorations that more clearly separates required data from optional data",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "715:1766",
+        "node_offset": {
+          "x": 3120,
+          "y": -62
+        },
+        "stable_path": [
+          "715:1766"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1039667149",
+      "uuid": "4e55f215-085a-4bb2-a21b-fe6f50221cdf",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-25T15:40:50.238Z",
+      "resolved_at": null,
+      "message": "I would want to stick with simple labels for this section. So instead of \"Help...\" it would just be \"Crashes and errors\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7245:5774",
+        "node_offset": {
+          "x": 1149,
+          "y": 171
+        },
+        "stable_path": [
+          "7245:5774"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1039664560",
+      "uuid": "427dacc9-6f52-4507-8449-a4c97717df5a",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-25T15:39:25.466Z",
+      "resolved_at": null,
+      "message": "I like this approach with the bullets and the extension-provided explanation below. I'd be interested to see this separated into tied to you/not tied to you like how Apple does as well.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7245:5762",
+        "node_offset": {
+          "x": 986,
+          "y": 801
+        },
+        "stable_path": [
+          "7245:5762"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1039661138",
+      "uuid": "40904a10-b709-4f4b-90f4-8db1d6906027",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-25T15:37:36.502Z",
+      "resolved_at": null,
+      "message": "Just curious, any reason why we'd ask for data consent before permissions?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7245:5774",
+        "node_offset": {
+          "x": 965,
+          "y": 89
+        },
+        "stable_path": [
+          "7245:5774"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1032375681",
+      "uuid": "0efc76bf-6aef-4d6f-af07-b7efa73bdc68",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-19T18:24:26.445Z",
+      "resolved_at": null,
+      "message": "Can you please add step 1, step 2 progress indicators? TY",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7212:2199",
+        "node_offset": {
+          "x": 377,
+          "y": 9
+        },
+        "stable_path": [
+          "7212:2199"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1032306773",
+      "uuid": "5f1755ac-64f8-4197-b20b-0cad56bfafbf",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-11-19T17:35:59.384Z",
+      "resolved_at": null,
+      "message": "we could add it to manifest file",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7182:9",
+        "node_offset": {
+          "x": 9557,
+          "y": 155
+        },
+        "stable_path": [
+          "7182:9"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1032304788",
+      "uuid": "bc825948-136f-449a-a0db-dcf765d988c8",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-11-19T17:34:36.145Z",
+      "resolved_at": null,
+      "message": "expand",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7212:1616",
+        "node_offset": {
+          "x": 226,
+          "y": 197
+        },
+        "stable_path": [
+          "7212:1616"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "968136610",
+      "uuid": "cdb35983-01cb-4553-98b8-2fa9034f2688",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-30T14:26:55.623Z",
+      "resolved_at": null,
+      "message": "Nice use of categories and accordions here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7104:3431",
+        "node_offset": {
+          "x": 490,
+          "y": 763
+        },
+        "stable_path": [
+          "7104:3431"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "968135251",
+      "uuid": "80f631aa-0d4f-4a8d-bc16-bb7c615e0ac0",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-30T14:26:14.198Z",
+      "resolved_at": null,
+      "message": "This is a nice addition as well. I wonder how this is checked/enforced?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7110:3456",
+        "node_offset": {
+          "x": 1647,
+          "y": 148
+        },
+        "stable_path": [
+          "7110:3456"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "968126706",
+      "uuid": "fd9ac031-483a-4d81-90af-62b29da6e1da",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-30T14:21:53.108Z",
+      "resolved_at": null,
+      "message": "I find this pretty confusing tbh",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7118:1609",
+        "node_offset": {
+          "x": 957,
+          "y": 512.5743408203125
+        },
+        "stable_path": [
+          "7118:1609"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "968114805",
+      "uuid": "4560adbe-aee3-4995-94bf-da9b0674ca00",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-30T14:15:45.306Z",
+      "resolved_at": null,
+      "message": "I really like this linked to you/not linked to you distinction",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7110:3453",
+        "node_offset": {
+          "x": 998,
+          "y": 263
+        },
+        "stable_path": [
+          "7110:3453"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1288237344",
+      "uuid": "1e9f6164-cfa4-49f4-895e-0d5756cb53b3",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-06-05T22:26:07.571Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya this is probably a recommendation to the Design Systems team: the buttons here (i.e. \"Learn more...\") look very much like headings (i.e. \"Permissions\") - are there ways we could distinguish them visually a bit more? (maybe not in this project, but in further iterations of these components)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9542:23455",
+        "node_offset": {
+          "x": 328,
+          "y": 15
+        },
+        "stable_path": [
+          "9542:23455"
+        ]
+      },
+      "order_id": "151"
+    },
+    {
+      "id": "1039770245",
+      "uuid": "161dc328-803d-4fca-a1f0-f2ca5eaa6bb3",
+      "file_key": "VTylBLmckvnODLEU4RwvSp",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-25T16:41:07.423Z",
+      "resolved_at": null,
+      "message": "Message should persist for a good amount of time to make sure it can be read. Could it be paired with some sort of animation into the extension button?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7245:5734",
+        "node_offset": {
+          "x": 1104,
+          "y": 81
+        },
+        "stable_path": [
+          "7245:5734"
+        ]
+      },
+      "order_id": "13"
+    }
+  ]
+}

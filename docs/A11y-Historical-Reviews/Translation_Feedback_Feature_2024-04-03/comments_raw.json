@@ -1,0 +1,1656 @@
+{
+  "unresolved": [
+    {
+      "id": "770018094",
+      "uuid": "9dbfecae-0d84-418f-87aa-cd7959c42ca5",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-04-15T14:24:26.909Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko I'm marking copy complete for this project and closing my Jira ticket. If we need to revisit copy just let me know!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1184:22665",
+        "node_offset": {
+          "x": 1311,
+          "y": 352
+        },
+        "stable_path": [
+          "1184:22665"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "769120849",
+      "uuid": "ba8db1b0-9620-436b-a05c-bc5b872c378b",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-15T00:13:27.217Z",
+      "resolved_at": null,
+      "message": "@Erik Nordin \nI just added this resizer back into the specs as we've chatted how this is already getting requested in select translation work as well. \n\nLet me know what you think",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1044:24346",
+        "node_offset": {
+          "x": 334,
+          "y": 1349
+        },
+        "stable_path": [
+          "1044:24346"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "769119079",
+      "uuid": "0c7ca1f4-9552-4c0b-a365-003cf06ad8fa",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-15T00:03:47.513Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi I just added this resizer here and wated to double check to see if this HCM styling is ok, or if it needs to have a border styling like the icon buttons?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1057:6830",
+        "node_offset": {
+          "x": 364,
+          "y": 1354
+        },
+        "stable_path": [
+          "1057:6830"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "765306875",
+      "uuid": "150f1c94-8c26-498b-9a1a-d09bc05f5358",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-10T13:52:54.661Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko oh, I forgot that we may want to communicate this element is a heading (H1 or H2), to take the guess work away from the engineers. I added an annotation :) Sorry for the extra change",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1520:5557",
+        "node_offset": {
+          "x": 149,
+          "y": 3
+        },
+        "stable_path": [
+          "1520:5557"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "765296071",
+      "uuid": "8db7a0f9-e46e-4aed-a907-91a9b5a1e4c9",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-10T13:47:04.799Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko I added the text areas here for clarity for engineers how we could accessibly communicate the field's instructions/text.\nFYI @Emily Wachowiak WDYT about \"Error:\" as the alt text for the image when the field in error? (item #F)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1044:7987",
+        "node_offset": {
+          "x": 958,
+          "y": 2545
+        },
+        "stable_path": [
+          "1044:7987"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "764415654",
+      "uuid": "83fa8f1f-2df4-4b36-b9c0-c74aed6000d6",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-04-09T21:24:34.800Z",
+      "resolved_at": null,
+      "message": "Idea: \"Approaching 700 character limit\"\n\nWhen you hit limit:\n\"Can't exceed 700 characters\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1062:12764",
+        "node_offset": {
+          "x": 250,
+          "y": 1896
+        },
+        "stable_path": [
+          "1062:12764"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "764362221",
+      "uuid": "a03204b3-1c2d-45a3-9dfd-01bb811a4cd6",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-09T20:25:57.969Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I am thinking for this maybe we can have like a bit of a hint. Letting user know how many characters they might have.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1062:12764",
+        "node_offset": {
+          "x": 305,
+          "y": 922
+        },
+        "stable_path": [
+          "1062:12764"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "764290521",
+      "uuid": "9044deae-7781-4e72-ae34-aa50036a9e3a",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-09T19:16:33.025Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko chatting with @Morgan Rae Reschenberg about it now. This option for the pressed button is the one to go: border is still \"Button Text\" but the fill and the label are \"Selected\" pair - this is similar to what we're using for menu items. I'll draft the component in our HCM file for Morgan to review it and will get back with the final version with states :wink:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1479:5972",
+        "node_offset": {
+          "x": 214,
+          "y": 42
+        },
+        "stable_path": [
+          "1479:5972"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "764278100",
+      "uuid": "7ae83988-cf1a-4ef5-852d-b58fd08d9f10",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-09T19:04:31.884Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko We usually have an offset for the focus outline (attached) - this may be beneficial for WCAG 2.2 Level AA focus compliance (new success criterion). It's not an issue though, commenting in case the focused state got reused from the input field or so. I think the offset comes out of the box too, but again, not an issue, just a note",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1181:7787",
+        "node_offset": {
+          "x": 108,
+          "y": 158
+        },
+        "stable_path": [
+          "1181:7787"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "764260563",
+      "uuid": "313cd482-63e3-43df-9ffa-fb4c689f92e0",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-09T18:48:30.070Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko this would be a good example when an icon like \"(!)\" is beneficial (especially with alt=\"Error\" or \"Attention\"). Not a blocker and not a bug though\n\nAdded to clarify: for both HCM and default views",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1062:22583",
+        "node_offset": {
+          "x": 522,
+          "y": 302
+        },
+        "stable_path": [
+          "1062:22583"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "764241745",
+      "uuid": "aed268ca-e7b5-4325-ab41-01c7f2f02bad",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-09T18:31:54.084Z",
+      "resolved_at": null,
+      "message": "Refer to the items 1A-1C above",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1181:8837",
+        "node_offset": {
+          "x": 277,
+          "y": 267
+        },
+        "stable_path": [
+          "1181:8837"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "764235507",
+      "uuid": "f9c2a51b-8429-42d9-bbe0-f8b0bf30db80",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-09T18:26:38.717Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi is this correct? \n\nLike first they enter through tab naiagtion #1, and then they go from 1A-1B with arrows.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1469:30925",
+        "node_offset": {
+          "x": 24,
+          "y": 9
+        },
+        "stable_path": [
+          "1469:30925"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "764234839",
+      "uuid": "3ef27343-f8b9-4119-a05c-f988ba36f70a",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-09T18:26:02.292Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko Do you think that the textarea could/should be used by the \"Other\" answers only, or could someone who, let's say, think the meaning was wrong, they could provide more details too?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1181:8476",
+        "node_offset": {
+          "x": 302,
+          "y": 24
+        },
+        "stable_path": [
+          "1181:8476"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "764227904",
+      "uuid": "6471b2b3-2efa-48d3-a327-fe3554bd0913",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-09T18:20:08.675Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko we could actually make them radio buttons - this would mean that only 1 of them is focusable and the navigation within the group is with Arrows. \n\nIt would also mean that only 1 is to be checked (i.e. we cannot rate both Good and Bad).\n\nI'm correcting the \"Note\" for the emojis",
+      "reactions": [
+        {
+          "emoji": ":pray:",
+          "created_at": "2024-04-09T18:20:49.352Z",
+          "user": {
+            "id": "1174480039733711256",
+            "handle": "Dasha Andriyenko",
+            "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1181:8838",
+        "node_offset": {
+          "x": 284,
+          "y": 147
+        },
+        "stable_path": [
+          "1181:8838"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "764227736",
+      "uuid": "4a558c47-29f4-4e9f-ad0e-8aac405045df",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-04-09T18:20:00.540Z",
+      "resolved_at": null,
+      "message": "This link needs to be formatted to be location neutral--there should be existing places in the code where eng can grab this. This link is specific to the US",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1242:10425",
+        "node_offset": {
+          "x": 1045,
+          "y": 182
+        },
+        "stable_path": [
+          "1242:10425"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "764222742",
+      "uuid": "4f2ca75a-2565-42fd-ac41-8fcc7bb703e5",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-09T18:15:54.314Z",
+      "resolved_at": null,
+      "message": "FYI @Dasha Andriyenko confirmed with Jamie re: Reviews: including emoji in the button\u2019s accessible name (i.e. :smile: Good)\n1. Great way to have equal experience plus screen readers announce emojis from unicode (same across apps, will be known way). NVDA announces short description of the image and VoiceOver does the long one, but they are the same across platforms, so this is a nice way to do it ;)",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-04-09T18:28:35.218Z",
+          "user": {
+            "id": "1174480039733711256",
+            "handle": "Dasha Andriyenko",
+            "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1181:8529",
+        "node_offset": {
+          "x": 336,
+          "y": 3
+        },
+        "stable_path": [
+          "1181:8529"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "762316789",
+      "uuid": "8bc8aeb1-f764-4684-ae38-4ffb434ff74a",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-04-08T13:49:18.781Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko - l10n review is complete. For SUMO, PM should file a ticket for a new article once we have a release date for the feature",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1184:22665",
+        "node_offset": {
+          "x": 1269,
+          "y": 886
+        },
+        "stable_path": [
+          "1184:22665"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "759704585",
+      "uuid": "cc55c1e2-b178-4b92-a792-94b06c996df9",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-04-04T23:04:04.617Z",
+      "resolved_at": null,
+      "message": "hey! I'll be doing the a11y review, please let me know if you have questions (also, I'm off tomorrow apr 5, so I probably won't start until Monday -- thanks for bearing with me :) )",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1033:5137",
+        "node_offset": {
+          "x": 1184,
+          "y": -3696
+        },
+        "stable_path": [
+          "1033:5137"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "759042607",
+      "uuid": "030dcf5e-c717-4485-b1a2-e1f9f742b94b",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-04-04T13:50:21.807Z",
+      "resolved_at": null,
+      "message": "It would be good to have some sort of signal when users are close or at the limit--like the numbers turn red or something",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1044:7926",
+        "node_offset": {
+          "x": 967,
+          "y": 125
+        },
+        "stable_path": [
+          "1044:7926"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "759027417",
+      "uuid": "7ac37c53-f546-4e09-89b0-254c7c17357a",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-04-04T13:42:27.240Z",
+      "resolved_at": null,
+      "message": "FYI this is the link but it needs to be formatted so that it renders in the correct language--best to use the same URL format that they use on the current microsurvey https://www.mozilla.org/en-US/about/legal/terms/firefox/",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1242:10425",
+        "node_offset": {
+          "x": 1049,
+          "y": 140
+        },
+        "stable_path": [
+          "1242:10425"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "758091161",
+      "uuid": "a0f658ec-190d-463e-bb4b-77d941b170df",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-03T22:18:18.554Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak this is ready for your review",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1214:8544",
+        "node_offset": {
+          "x": 114,
+          "y": 91
+        },
+        "stable_path": [
+          "1214:8544"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "757538424",
+      "uuid": "43b0bbea-1e51-4500-aa2e-c74e764c39b4",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-03T14:41:16.609Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi this is just an error mock up of character limit exceeded. My team is still talking about how we can deal with the live character counter display. So for now I mocked this up as a plan B just incase.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-04-09T19:08:55.205Z",
+          "user": {
+            "id": "1065698646736968458",
+            "handle": "Anna Yeddi",
+            "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1062:13609",
+        "node_offset": {
+          "x": 282,
+          "y": 1898
+        },
+        "stable_path": [
+          "1062:13609"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "757532416",
+      "uuid": "bcd23798-a458-4bef-b00d-a5ba1f252975",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-03T14:38:03.698Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi please take a look here at all of the HCM breakdown on on the component level.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-04-09T19:00:16.730Z",
+          "user": {
+            "id": "1065698646736968458",
+            "handle": "Anna Yeddi",
+            "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1181:7838",
+        "node_offset": {
+          "x": 1197,
+          "y": 492
+        },
+        "stable_path": [
+          "1181:7838"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "757530757",
+      "uuid": "b40e4961-c722-472c-8474-83c84217e4ce",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-03T14:37:10.300Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi what do you think about this? I am a bit concerned that following the current HCM active button styling is actually not providing enough difference for the \"pressed state\". \n\nI followed this here:\nhttps://www.figma.com/file/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?type=design&node-id=1-278&mode=design&t=8XQ9yjg61gLHkztC-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1181:7353",
+        "node_offset": {
+          "x": 92,
+          "y": 54
+        },
+        "stable_path": [
+          "1181:7353"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "756401464",
+      "uuid": "03ad3ecd-1a03-4d50-88dd-09def93ca0d4",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-02T21:08:46.093Z",
+      "resolved_at": null,
+      "message": "Instead of character count:\n* Use \"Bite count\"\n* % space left\n* Warning message",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1062:12764",
+        "node_offset": {
+          "x": 269,
+          "y": 1856
+        },
+        "stable_path": [
+          "1062:12764"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "756305931",
+      "uuid": "432d6ec6-09a9-43af-ae35-39132bc2301f",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-02T19:37:21.905Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko We could have autocomplete in here. For users who might be typing out similar issues.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1062:21313",
+        "node_offset": {
+          "x": 28,
+          "y": 339.5
+        },
+        "stable_path": [
+          "1062:21313"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "756289700",
+      "uuid": "76bae8d6-4048-437d-880d-cc38bba256d7",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-02T19:22:48.804Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko \nA11y: it is best to have a character limit to be more transparent. \n* showing live update is better.\n* users would still be able to make a prediction if they see letters drop. \n* This can also help users formulate feedback better.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1175:16323",
+        "node_offset": {
+          "x": 305,
+          "y": 409
+        },
+        "stable_path": [
+          "1175:16323"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "756282385",
+      "uuid": "51c90770-29b5-4235-bfde-a0319c417487",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-02T19:16:16.039Z",
+      "resolved_at": null,
+      "message": "A11y:\nPressed state should have a slight border to indicate \"pressed/ persistent state.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1062:12764",
+        "node_offset": {
+          "x": 211,
+          "y": 226
+        },
+        "stable_path": [
+          "1062:12764"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "753096773",
+      "uuid": "7586b95a-a853-4416-84ee-816f4b4c1cf3",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-03-29T13:59:40.103Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko here's the content I recommend for the next round of testing...lmk what you think!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1011:15517",
+        "node_offset": {
+          "x": 296,
+          "y": 1143
+        },
+        "stable_path": [
+          "1011:15517"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "752461961",
+      "uuid": "e6b33978-88dd-4f48-86de-1805133dca3e",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-03-28T21:02:31.827Z",
+      "resolved_at": null,
+      "message": "Is there an option if the user doesn't want to tell us more? Like, can they just submit without checking a box?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "894:11828",
+        "node_offset": {
+          "x": 181,
+          "y": 538
+        },
+        "stable_path": [
+          "894:11828"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "752460940",
+      "uuid": "5dbc8c85-f914-43e6-b006-8e9da7299075",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-03-28T21:01:12.861Z",
+      "resolved_at": null,
+      "message": "I think Submit works, but \"Send\" or \"Send feedback\" might be less formal @Emily Wachowiak",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "894:11828",
+        "node_offset": {
+          "x": 300,
+          "y": 541
+        },
+        "stable_path": [
+          "894:11828"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "752460080",
+      "uuid": "d18a17de-6ecb-4df1-93fc-a410d4070bc0",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2024-03-28T21:00:06.849Z",
+      "resolved_at": null,
+      "message": "OPO: \"How is the translation\" felt a bit stiff perhaps? Also had this inclination to get more specific... Alt takes: \n\n\"How's the translation?\"\n\"How's the translation quality\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "894:11827",
+        "node_offset": {
+          "x": 254,
+          "y": 225
+        },
+        "stable_path": [
+          "894:11827"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "752460071",
+      "uuid": "66f6056f-903a-4ef0-8880-b8488252da27",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-03-28T21:00:05.925Z",
+      "resolved_at": null,
+      "message": "Just an OPO but I like Just OK a bit more than OK",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "894:11827",
+        "node_offset": {
+          "x": 206,
+          "y": 253
+        },
+        "stable_path": [
+          "894:11827"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "752459715",
+      "uuid": "1878fd41-e6d0-4c98-ba4f-9727c9b0d2d9",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-03-28T20:59:38.456Z",
+      "resolved_at": null,
+      "message": "The 'is' does throw me a bit. Just riffin...\n\nHow was the translation?\nHow was the translation quality?\nHow'd we do with the translation?",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-03-28T21:00:43.009Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "894:11827",
+        "node_offset": {
+          "x": 255,
+          "y": 218
+        },
+        "stable_path": [
+          "894:11827"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "752458020",
+      "uuid": "64407604-6ffe-4136-bc29-8c101b056541",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-03-28T20:57:36.651Z",
+      "resolved_at": null,
+      "message": "can this options split based on the selection?\n\nalt: what could we improve?\njeff: what could be better?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "894:11828",
+        "node_offset": {
+          "x": 149,
+          "y": 312
+        },
+        "stable_path": [
+          "894:11828"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "747670814",
+      "uuid": "d5c15a2f-c454-42e4-867a-72a083e13034",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-03-25T21:57:11.644Z",
+      "resolved_at": null,
+      "message": "It would be harder to estimate number of characters left. Easier to say \"this is too long\" instead of how many characters left.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "896:15946",
+        "node_offset": {
+          "x": 217,
+          "y": 649
+        },
+        "stable_path": [
+          "896:15946"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "747439897",
+      "uuid": "31f9f887-a491-448b-baa8-c9ec46169349",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-03-25T18:06:31.639Z",
+      "resolved_at": null,
+      "message": "For legal review:\n* need to confirm if this is anonymous.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "894:11828",
+        "node_offset": {
+          "x": 243,
+          "y": 526
+        },
+        "stable_path": [
+          "894:11828"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "747368372",
+      "uuid": "b5bfa090-7f10-4f93-a493-4a947efb0bf7",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-03-25T17:10:00.573Z",
+      "resolved_at": null,
+      "message": "think about colour contrast",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "881:19194",
+        "node_offset": {
+          "x": 307,
+          "y": 222
+        },
+        "stable_path": [
+          "881:19194"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "747367969",
+      "uuid": "d99d9ff8-2587-4553-b94d-15142829e344",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-03-25T17:09:43.351Z",
+      "resolved_at": null,
+      "message": "How is the translation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "881:19194",
+        "node_offset": {
+          "x": 191,
+          "y": 710
+        },
+        "stable_path": [
+          "881:19194"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "738067111",
+      "uuid": "dbe1bdd6-064c-41e0-8a8c-cdc12bcfbfa5",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-03-18T01:49:15.713Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko double check best practice with UR on this.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "700:25271",
+        "node_offset": {
+          "x": 915,
+          "y": 2290
+        },
+        "stable_path": [
+          "700:25271"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "730746686",
+      "uuid": "7502846b-875d-4872-9b25-1b29e1cbb351",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-03-11T15:30:45.462Z",
+      "resolved_at": null,
+      "message": "Acorn: \n* Looks like Microsurvey is a unique component that wasn't run by acorn. So it's not 100% the same as some of our other panels. Should we try to stick to our panel design, or should we align closer to the panel. Make our pop ups look and feel the same \n* Panel with x in the corner in our panel? Potentially a cancel button instead. \n* The padding is also bigger then our pannels",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "451:6994",
+        "node_offset": {
+          "x": 623,
+          "y": 23
+        },
+        "stable_path": [
+          "451:6994"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "729001207",
+      "uuid": "de2a529d-4c94-467f-8806-77e4d7bfc919",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-03-08T16:03:05.807Z",
+      "resolved_at": null,
+      "message": "Initial copy ideas:\nWhat was wrong with this translation?\n* Wrong meaning\n* Awkward or incoherent language\n* Wrong translation of symbols or numbers\n* Wrong source language detected\n* Other",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "458:8600",
+        "node_offset": {
+          "x": 270,
+          "y": 76
+        },
+        "stable_path": [
+          "458:8600"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "769119079",
+      "uuid": "0c7ca1f4-9552-4c0b-a365-003cf06ad8fa",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-15T00:03:47.513Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi I just added this resizer here and wated to double check to see if this HCM styling is ok, or if it needs to have a border styling like the icon buttons?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1057:6830",
+        "node_offset": {
+          "x": 364,
+          "y": 1354
+        },
+        "stable_path": [
+          "1057:6830"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "765306875",
+      "uuid": "150f1c94-8c26-498b-9a1a-d09bc05f5358",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-10T13:52:54.661Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko oh, I forgot that we may want to communicate this element is a heading (H1 or H2), to take the guess work away from the engineers. I added an annotation :) Sorry for the extra change",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1520:5557",
+        "node_offset": {
+          "x": 149,
+          "y": 3
+        },
+        "stable_path": [
+          "1520:5557"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "765296071",
+      "uuid": "8db7a0f9-e46e-4aed-a907-91a9b5a1e4c9",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-10T13:47:04.799Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko I added the text areas here for clarity for engineers how we could accessibly communicate the field's instructions/text.\nFYI @Emily Wachowiak WDYT about \"Error:\" as the alt text for the image when the field in error? (item #F)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1044:7987",
+        "node_offset": {
+          "x": 958,
+          "y": 2545
+        },
+        "stable_path": [
+          "1044:7987"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "764290521",
+      "uuid": "9044deae-7781-4e72-ae34-aa50036a9e3a",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-09T19:16:33.025Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko chatting with @Morgan Rae Reschenberg about it now. This option for the pressed button is the one to go: border is still \"Button Text\" but the fill and the label are \"Selected\" pair - this is similar to what we're using for menu items. I'll draft the component in our HCM file for Morgan to review it and will get back with the final version with states :wink:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1479:5972",
+        "node_offset": {
+          "x": 214,
+          "y": 42
+        },
+        "stable_path": [
+          "1479:5972"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "764278100",
+      "uuid": "7ae83988-cf1a-4ef5-852d-b58fd08d9f10",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-09T19:04:31.884Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko We usually have an offset for the focus outline (attached) - this may be beneficial for WCAG 2.2 Level AA focus compliance (new success criterion). It's not an issue though, commenting in case the focused state got reused from the input field or so. I think the offset comes out of the box too, but again, not an issue, just a note",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1181:7787",
+        "node_offset": {
+          "x": 108,
+          "y": 158
+        },
+        "stable_path": [
+          "1181:7787"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "764260563",
+      "uuid": "313cd482-63e3-43df-9ffa-fb4c689f92e0",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-09T18:48:30.070Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko this would be a good example when an icon like \"(!)\" is beneficial (especially with alt=\"Error\" or \"Attention\"). Not a blocker and not a bug though\n\nAdded to clarify: for both HCM and default views",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1062:22583",
+        "node_offset": {
+          "x": 522,
+          "y": 302
+        },
+        "stable_path": [
+          "1062:22583"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "764241745",
+      "uuid": "aed268ca-e7b5-4325-ab41-01c7f2f02bad",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-09T18:31:54.084Z",
+      "resolved_at": null,
+      "message": "Refer to the items 1A-1C above",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1181:8837",
+        "node_offset": {
+          "x": 277,
+          "y": 267
+        },
+        "stable_path": [
+          "1181:8837"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "764235507",
+      "uuid": "f9c2a51b-8429-42d9-bbe0-f8b0bf30db80",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-09T18:26:38.717Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi is this correct? \n\nLike first they enter through tab naiagtion #1, and then they go from 1A-1B with arrows.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1469:30925",
+        "node_offset": {
+          "x": 24,
+          "y": 9
+        },
+        "stable_path": [
+          "1469:30925"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "764234839",
+      "uuid": "3ef27343-f8b9-4119-a05c-f988ba36f70a",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-09T18:26:02.292Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko Do you think that the textarea could/should be used by the \"Other\" answers only, or could someone who, let's say, think the meaning was wrong, they could provide more details too?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1181:8476",
+        "node_offset": {
+          "x": 302,
+          "y": 24
+        },
+        "stable_path": [
+          "1181:8476"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "764227904",
+      "uuid": "6471b2b3-2efa-48d3-a327-fe3554bd0913",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-09T18:20:08.675Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko we could actually make them radio buttons - this would mean that only 1 of them is focusable and the navigation within the group is with Arrows. \n\nIt would also mean that only 1 is to be checked (i.e. we cannot rate both Good and Bad).\n\nI'm correcting the \"Note\" for the emojis",
+      "reactions": [
+        {
+          "emoji": ":pray:",
+          "created_at": "2024-04-09T18:20:49.352Z",
+          "user": {
+            "id": "1174480039733711256",
+            "handle": "Dasha Andriyenko",
+            "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1181:8838",
+        "node_offset": {
+          "x": 284,
+          "y": 147
+        },
+        "stable_path": [
+          "1181:8838"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "764222742",
+      "uuid": "4f2ca75a-2565-42fd-ac41-8fcc7bb703e5",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-09T18:15:54.314Z",
+      "resolved_at": null,
+      "message": "FYI @Dasha Andriyenko confirmed with Jamie re: Reviews: including emoji in the button\u2019s accessible name (i.e. :smile: Good)\n1. Great way to have equal experience plus screen readers announce emojis from unicode (same across apps, will be known way). NVDA announces short description of the image and VoiceOver does the long one, but they are the same across platforms, so this is a nice way to do it ;)",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-04-09T18:28:35.218Z",
+          "user": {
+            "id": "1174480039733711256",
+            "handle": "Dasha Andriyenko",
+            "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1181:8529",
+        "node_offset": {
+          "x": 336,
+          "y": 3
+        },
+        "stable_path": [
+          "1181:8529"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "759704585",
+      "uuid": "cc55c1e2-b178-4b92-a792-94b06c996df9",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-04-04T23:04:04.617Z",
+      "resolved_at": null,
+      "message": "hey! I'll be doing the a11y review, please let me know if you have questions (also, I'm off tomorrow apr 5, so I probably won't start until Monday -- thanks for bearing with me :) )",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1033:5137",
+        "node_offset": {
+          "x": 1184,
+          "y": -3696
+        },
+        "stable_path": [
+          "1033:5137"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "757538424",
+      "uuid": "43b0bbea-1e51-4500-aa2e-c74e764c39b4",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-03T14:41:16.609Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi this is just an error mock up of character limit exceeded. My team is still talking about how we can deal with the live character counter display. So for now I mocked this up as a plan B just incase.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-04-09T19:08:55.205Z",
+          "user": {
+            "id": "1065698646736968458",
+            "handle": "Anna Yeddi",
+            "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1062:13609",
+        "node_offset": {
+          "x": 282,
+          "y": 1898
+        },
+        "stable_path": [
+          "1062:13609"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "757532416",
+      "uuid": "bcd23798-a458-4bef-b00d-a5ba1f252975",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-03T14:38:03.698Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi please take a look here at all of the HCM breakdown on on the component level.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-04-09T19:00:16.730Z",
+          "user": {
+            "id": "1065698646736968458",
+            "handle": "Anna Yeddi",
+            "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1181:7838",
+        "node_offset": {
+          "x": 1197,
+          "y": 492
+        },
+        "stable_path": [
+          "1181:7838"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "757530757",
+      "uuid": "b40e4961-c722-472c-8474-83c84217e4ce",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-03T14:37:10.300Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi what do you think about this? I am a bit concerned that following the current HCM active button styling is actually not providing enough difference for the \"pressed state\". \n\nI followed this here:\nhttps://www.figma.com/file/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?type=design&node-id=1-278&mode=design&t=8XQ9yjg61gLHkztC-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1181:7353",
+        "node_offset": {
+          "x": 92,
+          "y": 54
+        },
+        "stable_path": [
+          "1181:7353"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "756289700",
+      "uuid": "76bae8d6-4048-437d-880d-cc38bba256d7",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-02T19:22:48.804Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko \nA11y: it is best to have a character limit to be more transparent. \n* showing live update is better.\n* users would still be able to make a prediction if they see letters drop. \n* This can also help users formulate feedback better.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1175:16323",
+        "node_offset": {
+          "x": 305,
+          "y": 409
+        },
+        "stable_path": [
+          "1175:16323"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "756282385",
+      "uuid": "51c90770-29b5-4235-bfde-a0319c417487",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-02T19:16:16.039Z",
+      "resolved_at": null,
+      "message": "A11y:\nPressed state should have a slight border to indicate \"pressed/ persistent state.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1062:12764",
+        "node_offset": {
+          "x": 211,
+          "y": 226
+        },
+        "stable_path": [
+          "1062:12764"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "747368372",
+      "uuid": "b5bfa090-7f10-4f93-a493-4a947efb0bf7",
+      "file_key": "DJJC6dlt5KndkH7aHpVWeZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-03-25T17:10:00.573Z",
+      "resolved_at": null,
+      "message": "think about colour contrast",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "881:19194",
+        "node_offset": {
+          "x": 307,
+          "y": 222
+        },
+        "stable_path": [
+          "881:19194"
+        ]
+      },
+      "order_id": "5"
+    }
+  ]
+}

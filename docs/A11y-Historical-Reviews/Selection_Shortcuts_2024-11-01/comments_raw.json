@@ -1,0 +1,1283 @@
+{
+  "unresolved": [
+    {
+      "id": "1061138024",
+      "uuid": "bb4534c0-9132-49d1-912e-f85d9915c566",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-12-11T21:20:42.843Z",
+      "resolved_at": null,
+      "message": ":+1:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "694:18474",
+        "node_offset": {
+          "x": 12.5478515625,
+          "y": 220.555419921875
+        },
+        "stable_path": [
+          "694:18474"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1061137766",
+      "uuid": "e0a7dc72-debc-4176-a4cb-727442fea85b",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-12-11T21:20:28.412Z",
+      "resolved_at": null,
+      "message": "good with this too!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "697:12383",
+        "node_offset": {
+          "x": 15,
+          "y": 218
+        },
+        "stable_path": [
+          "697:12383"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1061137619",
+      "uuid": "7359c408-04e7-49f6-a477-cbf094481ab0",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-12-11T21:20:19.808Z",
+      "resolved_at": null,
+      "message": "I'm not sure how to vote :sweat_smile:. But I'm good with this!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "697:12383",
+        "node_offset": {
+          "x": 23,
+          "y": 175
+        },
+        "stable_path": [
+          "697:12383"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "1061128406",
+      "uuid": "9d6a8cd6-8146-474e-9277-9efc8b35ca92",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-12-11T21:11:58.910Z",
+      "resolved_at": null,
+      "message": "wanted to flag @Emanuela Damiani here too. I know she would like to see \"take screenshot\" as one of the options to add to the menu. I can see there being a benefit since the current feature is so buried -- and even harder to do on windows. But I know there's concern about it not being directly related to text select but maybe that's okay since we are framing it around \"helpful actions\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "694:18474",
+        "node_offset": {
+          "x": 46,
+          "y": 273
+        },
+        "stable_path": [
+          "694:18474"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1061123902",
+      "uuid": "473ad115-0878-4cba-a43d-fd44d8af61da",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-12-11T21:07:44.495Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko what do you think of showing the disabled state on the surface level? I know it's not ideal since it's not often that pdf shortcut appears. But if the person doesn't use it they can just uncheck it. I feel that this removes the confusing aspect of which items to show in the kebab menu and we can just show them all -- and checking/unchecking adds them to the menu without changing the experience.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "734:14956",
+        "node_offset": {
+          "x": 40,
+          "y": 11.213623046875
+        },
+        "stable_path": [
+          "734:14956"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1057641302",
+      "uuid": "3d39ad15-ba1f-4198-b974-c4696cd4eb99",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-12-10T00:59:26.486Z",
+      "resolved_at": null,
+      "message": "We discussed this here: https://www.figma.com/design/Q7EbXFidghryjkOQr3a02E?node-id=639-12547#1047988146",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "694:18474",
+        "node_offset": {
+          "x": 7,
+          "y": 435
+        },
+        "stable_path": [
+          "694:18474"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1057638310",
+      "uuid": "d75abea5-a289-4ab7-aa6b-b2fac04ae715",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-12-10T00:54:19.112Z",
+      "resolved_at": null,
+      "message": "Idk if it's ok for these to be in a different order. but I was thinking that PDF could go last here... as it is only relevant to the pdf world",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "697:12383",
+        "node_offset": {
+          "x": 34,
+          "y": 657
+        },
+        "stable_path": [
+          "697:12383"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1057633814",
+      "uuid": "6c165a2e-0fd6-415d-871a-edee5b4c723b",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-12-10T00:46:33.800Z",
+      "resolved_at": null,
+      "message": "My thinking on the order:\n1. PDF highlight- I thought that since it only shows up in pdfs it can be highlighted as first. \n2. Ai chatbot-I think is more relevant in most websites (and will look first in most instances)\n3. Copy ( if on)- highest interacted with with context menu action\n4. Search (if on)- second highest interacted with context menu action\n5. Transaltions-might only be relevant sometimes.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "694:18474",
+        "node_offset": {
+          "x": 6,
+          "y": 489
+        },
+        "stable_path": [
+          "694:18474"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1057631743",
+      "uuid": "97fcb235-2f1c-487a-8229-228fb0d146b0",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-12-10T00:43:10.119Z",
+      "resolved_at": null,
+      "message": "Added only these options, based on this discussion here:https://www.figma.com/design/Q7EbXFidghryjkOQr3a02E?node-id=639-12694#1043655964",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "694:18474",
+        "node_offset": {
+          "x": 7.5478515625,
+          "y": 243.555419921875
+        },
+        "stable_path": [
+          "694:18474"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1057629905",
+      "uuid": "0bbb34f7-536b-4c0b-93f8-a3ef8a28b94c",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-12-10T00:40:07.633Z",
+      "resolved_at": null,
+      "message": "Seeing as I don't usually run a lot of experiments... I think I want to be really clear about what happens when the experiment is over?\n\nAre things gonna most likely go back to how they were? Should we try and just implement this?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "694:18474",
+        "node_offset": {
+          "x": 4.5478515625,
+          "y": 56.555419921875
+        },
+        "stable_path": [
+          "694:18474"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1053836466",
+      "uuid": "e63eb845-b11a-4d8d-a350-a8fc0d9aeda4",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-12-05T20:39:19.678Z",
+      "resolved_at": null,
+      "message": "Although this option feels nice and simple... I do think this might hurt us. Because if user checks everything off (without seeing all of the actions), they might not get other relevant items offered to them when they could be.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "673:10112",
+        "node_offset": {
+          "x": 36.53515625,
+          "y": 7
+        },
+        "stable_path": [
+          "673:10112"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "1052236952",
+      "uuid": "1ea353bd-f27b-4f43-98f6-aa6d2145df5a",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-12-04T23:43:17.076Z",
+      "resolved_at": null,
+      "message": "In this scenario, why would translate be last?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "639:12547",
+        "node_offset": {
+          "x": 676,
+          "y": 352
+        },
+        "stable_path": [
+          "639:12547"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "1052236402",
+      "uuid": "854dbf71-e25f-4bbd-bc06-eb3673ddfdb7",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-12-04T23:42:22.104Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko - I think changing up the order might cause issues from a learnability standpoint.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "639:10910",
+        "node_offset": {
+          "x": 334.40234375,
+          "y": 77.6640625
+        },
+        "stable_path": [
+          "639:10910"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1047988146",
+      "uuid": "e6845938-eb6e-4bc6-9129-edfc564d0668",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-12-02T15:06:00.079Z",
+      "resolved_at": null,
+      "message": "I would argue for always having all options visible in the kebab menu so it's not confusing about where they went. Perhaps the non-relevant options would be shown as disabled. This is the approach we took for mobile menus so people would learn where things are even if they are not always available.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "639:12547",
+        "node_offset": {
+          "x": 148,
+          "y": 371
+        },
+        "stable_path": [
+          "639:12547"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1047985664",
+      "uuid": "641f6c37-11ff-49b3-bc84-70debcd55567",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-12-02T15:04:40.134Z",
+      "resolved_at": null,
+      "message": "Based on our last discussion, I think it is okay to always offer translation. It might be confusing to have this option disappear and reappear, especially in the settings menu. The highlighter one I am less worried about since it is highly contextual to PDFs.\n\nA future AB test might be to test always showing translate vs only on \"translatable\" pages.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-12-06T20:21:30.551Z",
+          "user": {
+            "id": "845670076645908195",
+            "handle": "Eric Pang",
+            "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png"
+          }
+        },
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-12-05T20:38:08.544Z",
+          "user": {
+            "id": "1174480039733711256",
+            "handle": "Dasha Andriyenko",
+            "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "639:10910",
+        "node_offset": {
+          "x": 307.40234375,
+          "y": 40.6640625
+        },
+        "stable_path": [
+          "639:10910"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "1043667254",
+      "uuid": "062c0a6e-d427-42a4-a909-04fceef1959f",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-11-27T19:52:42.741Z",
+      "resolved_at": null,
+      "message": "@Katie Lower @Eric Pang @Emily Wachowiak here is the visualized options",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "639:9895",
+        "node_offset": {
+          "x": 1.8505859375,
+          "y": 18.4267578125
+        },
+        "stable_path": [
+          "639:9895"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1043655964",
+      "uuid": "7c740de5-aa8f-42ba-90a1-8c5735f04c7e",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-11-27T19:41:15.958Z",
+      "resolved_at": null,
+      "message": "I've excluded inspect, take screenshot, and select all as those actions don't seem to pertain to very specific section, or can be more applicable  to larger non selected text areas",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "639:12694",
+        "node_offset": {
+          "x": 622.40234375,
+          "y": 22.6640625
+        },
+        "stable_path": [
+          "639:12694"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1041745277",
+      "uuid": "e3bd47cf-aec8-47ec-8bd3-237b1f1509c4",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-11-26T17:55:23.943Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko @Eric Pang - Thanks for getting the telemetry Dasha! Spent some time thinking about your first question here - What should belong in this menu? - in light of it, and documented my 'answer / train of thought' here (with a helpful talking it thru with Eric during a 1:1). \n\nGive it a read through and then let me know your thoughts on either 'going bigger' or 'going smaller'. I'm out Thursday and Friday of this week, but happen to try and sync / talk it thru if that would be preferred - either this week yet or next.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "615:25028",
+        "node_offset": {
+          "x": 114.9990234375,
+          "y": 234.323974609375
+        },
+        "stable_path": [
+          "615:25028"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1040044910",
+      "uuid": "ce849ae1-8d14-4340-9e22-650cc156f41f",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-11-25T20:16:03.112Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko What do you think about including the text select icon? Do you think it helps make it more clear what's happening?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "594:11863",
+        "node_offset": {
+          "x": 202,
+          "y": 36
+        },
+        "stable_path": [
+          "594:11863"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1037937925",
+      "uuid": "76f4c884-c950-497b-8db3-3c0ea253a73c",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2024-11-22T21:32:31.001Z",
+      "resolved_at": null,
+      "message": "Btw are you concerned that these styles are still LTR? :thinking_face:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "506:11666",
+        "node_offset": {
+          "x": 766,
+          "y": 33
+        },
+        "stable_path": [
+          "506:11666"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1037937327",
+      "uuid": "a72b7240-dcdc-49aa-815d-e8bbc8e6dc6b",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2024-11-22T21:31:45.263Z",
+      "resolved_at": null,
+      "message": "And yah! sry Just saw this :D",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "506:11661",
+        "node_offset": {
+          "x": 113.1083984375,
+          "y": 42.125946044921875
+        },
+        "stable_path": [
+          "506:11661"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1037937190",
+      "uuid": "9e295fab-7eb1-4ffe-b823-da042fcadf30",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2024-11-22T21:31:36.364Z",
+      "resolved_at": null,
+      "message": "Ooo this could work! I just discouraged you from E bc the gradient effect felt 'too stylized' u know what I mean?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "506:11527",
+        "node_offset": {
+          "x": 152.177734375,
+          "y": 13.099639892578125
+        },
+        "stable_path": [
+          "506:11527"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1037846806",
+      "uuid": "7006e986-bd7b-484b-81ac-6ba492f8f514",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-11-22T19:48:28.699Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak @Katie Lower @Eric Pang \nHey folks I wanted to follow up on the discussion we had a few days ago...\n\nWith Erik Nordin's help we got a sample of telemetry to look at here that shows how often search, translation and action to copy get clicked on in the context menu settings. \n\nCurious to see if y'all have any thoughts on how this impacts order/ hierarchy of what should belong here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "530:8088",
+        "node_offset": {
+          "x": 51,
+          "y": 30
+        },
+        "stable_path": [
+          "530:8088"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1037748447",
+      "uuid": "14efa44a-1856-4191-96dd-486e2aee115d",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-11-22T18:13:28.956Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler @Jules Simplicio @Eric Pang \n\nA few weeks ago, Mark Striemer raised a thoughtful point about the proposed menu design, questioning why we are creating a new menu component when an existing version already exists.\n\nAfter some brainstorming with Jules, we concluded that incorporating checkmarks that clearly indicate a selectable and deselectable state feels much more intuitive and user-friendly.\n\nThat said, I'm open to aligning the design more closely with our existing system to maintain consistency.\nWhat are your thoughts on this approach?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "530:7996",
+        "node_offset": {
+          "x": 13,
+          "y": 11
+        },
+        "stable_path": [
+          "530:7996"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1037715832",
+      "uuid": "8c404c8a-11df-40ad-ba9c-ae10575b68cb",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-11-22T17:44:02.406Z",
+      "resolved_at": null,
+      "message": "@Katie Lower @Emily Wachowiak  would one of y'all possibly help out here by checking that the Name sections are how you'd like them to be.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "213:7125",
+        "node_offset": {
+          "x": 877,
+          "y": 3490
+        },
+        "stable_path": [
+          "213:7125"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "1036442855",
+      "uuid": "466e4051-7b87-4555-9469-7dd554bb963b",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-11-21T23:09:58.845Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler @Jules Simplicio \ncheck out some quick ittirations of this here...\n\nwhat do y'all think.. am i not thinking of something here....",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "506:11666",
+        "node_offset": {
+          "x": 22,
+          "y": 21.5
+        },
+        "stable_path": [
+          "506:11666"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "1034416223",
+      "uuid": "7cd13e6a-77d5-46bd-a437-7b3f993c49ac",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-11-20T20:32:27.816Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko can we update \"AI Chatbot\" to \"Ask [Provider]? This will be consistent with what's in the right click menu",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "330:16586",
+        "node_offset": {
+          "x": 123,
+          "y": 20.6162109375
+        },
+        "stable_path": [
+          "330:16586"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1034408179",
+      "uuid": "b496220b-286a-4f09-b673-5670cdb10982",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-11-20T20:25:44.521Z",
+      "resolved_at": null,
+      "message": "Is this needed? \nusers would be redirected to a different tab. Might feel like a different motion rather then the rest of the items.\n\nCan we get telemetry on this?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "151:7472",
+        "node_offset": {
+          "x": 195.6708984375,
+          "y": 40.01123046875
+        },
+        "stable_path": [
+          "151:7472"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1028463734",
+      "uuid": "8db6fd9c-25c5-439e-ab9b-b4028bb8a800",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-15T20:40:41.632Z",
+      "resolved_at": null,
+      "message": "hey @Dasha Andriyenko ! These should follow the same styling as the HCM toolbar component here - https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1396-11830&t=H5LGwoP9WVqkxJao-4\nThank you :grin:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "151:7472",
+        "node_offset": {
+          "x": 590.6708984375,
+          "y": 182.01123046875
+        },
+        "stable_path": [
+          "151:7472"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1019127859",
+      "uuid": "91af1514-e3d8-4d2f-b1ba-94c570d24d99",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-11-08T17:54:25.288Z",
+      "resolved_at": null,
+      "message": "might be a bit tricky to keep the shortcut visible if user scrolls down. \n\nmight be something that needs to hide and reshow. Can refer to panel element.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "452:14870",
+        "node_offset": {
+          "x": 443.177734375,
+          "y": 1954.615966796875
+        },
+        "stable_path": [
+          "452:14870"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1019122114",
+      "uuid": "ae211480-9c31-4b53-b512-5186c63e4ddc",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-11-08T17:49:18.727Z",
+      "resolved_at": null,
+      "message": "what whoudl the corner behaviour be. When the window is responsive and goes outside the browser window.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "213:7125",
+        "node_offset": {
+          "x": 2010,
+          "y": 2882
+        },
+        "stable_path": [
+          "213:7125"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1019060634",
+      "uuid": "f1e85ce1-0580-4313-afca-d1c00cbb9728",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-11-08T16:57:44.849Z",
+      "resolved_at": null,
+      "message": "how can I communicate that the order of these will adjust depending on where the selection was made and also which options the user has turned on/off",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "354:10228",
+        "node_offset": {
+          "x": 82,
+          "y": 270
+        },
+        "stable_path": [
+          "354:10228"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1019059847",
+      "uuid": "600ca475-1dc6-41e7-80ed-77dc47e9270b",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-11-08T16:57:07.609Z",
+      "resolved_at": null,
+      "message": "Should these be arrow nav, with exception to settings. I assume settings needs to be something the user tabs into because they open a menu with more things in it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "354:10228",
+        "node_offset": {
+          "x": 59,
+          "y": 221
+        },
+        "stable_path": [
+          "354:10228"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1019058787",
+      "uuid": "1fab2256-ba42-418d-b4e7-07b6f3665e2e",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-11-08T16:56:16.832Z",
+      "resolved_at": null,
+      "message": "How do I communicate the time out aspect of thing. And what is the reccomended a11y time?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "359:6688",
+        "node_offset": {
+          "x": 72,
+          "y": 54
+        },
+        "stable_path": [
+          "359:6688"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1015937260",
+      "uuid": "e70b028f-7e9f-4562-9043-5efaa4b4ea1f",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-11-06T21:46:40.086Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko worked with Katie and explored an option to hide the menu using a list item. First I tried out the toggle, but it didn't feel like the right pattern in a menu. What do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "169:18538",
+        "node_offset": {
+          "x": 83,
+          "y": 396
+        },
+        "stable_path": [
+          "169:18538"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1015504699",
+      "uuid": "47c493d3-f359-4318-a640-91a1b9f91574",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-11-06T16:12:22.561Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko @Katie Lower Based off of Katie's comment I'm thinking we can include a top level toggle like we do in settings to turn off all shortcuts.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "279:16713",
+        "node_offset": {
+          "x": 72,
+          "y": 8
+        },
+        "stable_path": [
+          "279:16713"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1013618742",
+      "uuid": "0faf4323-4e51-4be0-bd1f-75129dab6a8e",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-05T15:43:31.625Z",
+      "resolved_at": null,
+      "message": "@Katie Lower Would the confirmation msg be something like \"Menu item removed\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "169:19162",
+        "node_offset": {
+          "x": 65.00390625,
+          "y": 56.1947021484375
+        },
+        "stable_path": [
+          "169:19162"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1013608603",
+      "uuid": "c73f276d-2aa3-47be-bf64-61473d7e09cb",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-11-05T15:38:18.801Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak and Brent Trotter - Trying out some of the terms in about:settings",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "169:18538",
+        "node_offset": {
+          "x": 954,
+          "y": 445
+        },
+        "stable_path": [
+          "169:18538"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1013598914",
+      "uuid": "dd5185b9-d65a-4c52-a0b5-1cb27bab1238",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-11-05T15:33:17.472Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak @Brent Trotter - Trying out the terms 'menu' and actions to describe this. Let me know how it works, or doesn't. The original write-up, where shortcut is used is on the left for reference.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "169:12634",
+        "node_offset": {
+          "x": 148,
+          "y": -2068
+        },
+        "stable_path": [
+          "169:12634"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1011844804",
+      "uuid": "254b1d67-06b4-4b62-a3c0-fafb39d22603",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-11-04T15:49:43.923Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko we need to decide if we want to include Copy and Search (and anything else?). I think copy makes a lot of sense to have here. Not sure if search is as clear. Maybe it should be \"Search [search provider]\". We'll also need to make sure we have the right icons for them.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "213:7125",
+        "node_offset": {
+          "x": 1246,
+          "y": 2349
+        },
+        "stable_path": [
+          "213:7125"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1008922535",
+      "uuid": "785a3098-7643-40c1-9280-e2e906cd0154",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-10-31T18:31:04.232Z",
+      "resolved_at": null,
+      "message": "this doesn't feel as actionable, maybe we can have actual checkboxes",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-11-04T15:54:53.718Z",
+          "user": {
+            "id": "845670076645908195",
+            "handle": "Eric Pang",
+            "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "92:8626",
+        "node_offset": {
+          "x": 86.408203125,
+          "y": 59.51123046875
+        },
+        "stable_path": [
+          "92:8626"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1008913907",
+      "uuid": "cdae538a-f231-4e30-b341-b2e7c53fe84f",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-10-31T18:24:10.422Z",
+      "resolved_at": null,
+      "message": "Make sure it's easily searchable",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "132:8328",
+        "node_offset": {
+          "x": 42,
+          "y": 47
+        },
+        "stable_path": [
+          "132:8328"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1007327041",
+      "uuid": "8c5d454b-80f8-4bdb-8431-5b4d1fc16bdd",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-10-30T19:02:51.337Z",
+      "resolved_at": null,
+      "message": "When we bring a user to these settings, what section will be highlighted in blue?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "453:14915",
+        "node_offset": {
+          "x": 3218,
+          "y": 1664
+        },
+        "stable_path": [
+          "453:14915"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1003612104",
+      "uuid": "1532e558-3b35-468c-a0f6-ea5a3cfa4ff8",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-10-28T18:30:25.656Z",
+      "resolved_at": null,
+      "message": "gap between items: 4 px\nmight be worth doing a thicker border and maybe making these the size of our current buttons.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15:6688",
+        "node_offset": {
+          "x": 30,
+          "y": 214
+        },
+        "stable_path": [
+          "15:6688"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1003603118",
+      "uuid": "c2b09e90-6d93-4eec-a178-de79ef2d14b0",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-10-28T18:23:28.214Z",
+      "resolved_at": null,
+      "message": "Submit request about font weight.\nAligning it together",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15:6688",
+        "node_offset": {
+          "x": 38,
+          "y": 176
+        },
+        "stable_path": [
+          "15:6688"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1003594321",
+      "uuid": "26c4ab6f-0928-42a8-b16a-d7430839d1b7",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-10-28T18:16:46.778Z",
+      "resolved_at": null,
+      "message": "background: \n\"Canvas\"\n\n\"icon\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15:6688",
+        "node_offset": {
+          "x": 37,
+          "y": 135
+        },
+        "stable_path": [
+          "15:6688"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1028463734",
+      "uuid": "8db6fd9c-25c5-439e-ab9b-b4028bb8a800",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-15T20:40:41.632Z",
+      "resolved_at": null,
+      "message": "hey @Dasha Andriyenko ! These should follow the same styling as the HCM toolbar component here - https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1396-11830&t=H5LGwoP9WVqkxJao-4\nThank you :grin:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "151:7472",
+        "node_offset": {
+          "x": 590.6708984375,
+          "y": 182.01123046875
+        },
+        "stable_path": [
+          "151:7472"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1019058787",
+      "uuid": "1fab2256-ba42-418d-b4e7-07b6f3665e2e",
+      "file_key": "Q7EbXFidghryjkOQr3a02E",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-11-08T16:56:16.832Z",
+      "resolved_at": null,
+      "message": "How do I communicate the time out aspect of thing. And what is the reccomended a11y time?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "359:6688",
+        "node_offset": {
+          "x": 72,
+          "y": 54
+        },
+        "stable_path": [
+          "359:6688"
+        ]
+      },
+      "order_id": "32"
+    }
+  ]
+}

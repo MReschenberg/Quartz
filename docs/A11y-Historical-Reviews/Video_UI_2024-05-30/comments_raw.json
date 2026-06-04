@@ -1,0 +1,599 @@
+{
+  "unresolved": [
+    {
+      "id": "895184427",
+      "uuid": "841b16d5-34b5-4c4a-955a-a3b6783781b3",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-07-31T15:42:16.792Z",
+      "resolved_at": null,
+      "message": "@Michael Verdi how others do their CCs",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "385:81",
+        "node_offset": {
+          "x": -25281,
+          "y": 1040
+        },
+        "stable_path": [
+          "385:81"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "895032019",
+      "uuid": "d70dcbbf-90d7-497f-b4cf-17107b5114ff",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-07-31T14:19:03.368Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg @Anna Yeddi i know you've looked at previous designs, but wanted to ask: is the contrast here enough?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "393:1707",
+        "node_offset": {
+          "x": 4506,
+          "y": 262
+        },
+        "stable_path": [
+          "393:1707"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "860274134",
+      "uuid": "a4c671c9-de9d-496a-94b2-27a3ad37ff96",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-07-02T16:24:00.814Z",
+      "resolved_at": null,
+      "message": "Some other questions. I feel ike the expand to full screen and PiP icons are similar enough to be confusing. Can I suggest a different icon here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "293:7",
+        "node_offset": {
+          "x": 491,
+          "y": 329
+        },
+        "stable_path": [
+          "293:7"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "860193370",
+      "uuid": "1249bc33-79af-4039-8b13-a08ffe610659",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-07-02T15:29:17.094Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong working on the desktop version of this. in this screenshot, the icon has a background behind it. is that the correct implementation?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "291:423",
+        "node_offset": {
+          "x": 1293,
+          "y": 111
+        },
+        "stable_path": [
+          "291:423"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "832741080",
+      "uuid": "5674a762-3046-4318-99dd-7862444eb928",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-07T21:41:17.379Z",
+      "resolved_at": null,
+      "message": "Please ensure these meet minimum touch-target sizes when rendered",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "184:552",
+        "node_offset": {
+          "x": 315,
+          "y": 184
+        },
+        "stable_path": [
+          "184:552"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "832433896",
+      "uuid": "f0fb31de-d82a-4e1a-ae6b-32bf0369c525",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-06-07T15:43:08.420Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg this is what it would look like",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "163:432",
+        "node_offset": {
+          "x": 590,
+          "y": -47
+        },
+        "stable_path": [
+          "163:432"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "827934840",
+      "uuid": "57c43702-7ee1-4711-8673-67acf66782d5",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-04T19:53:22.454Z",
+      "resolved_at": null,
+      "message": "does this thumb get larger on hover?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "163:432",
+        "node_offset": {
+          "x": 260,
+          "y": 1396
+        },
+        "stable_path": [
+          "163:432"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "827934350",
+      "uuid": "b00d10f1-287f-438a-89ad-3e0bf56b3433",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-04T19:52:57.235Z",
+      "resolved_at": null,
+      "message": "Is it possible to increase this contrast?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "163:591",
+        "node_offset": {
+          "x": 147,
+          "y": 340
+        },
+        "stable_path": [
+          "163:591"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "827932768",
+      "uuid": "234d1958-d7fa-4ccf-8cba-c92e5f3ce5a9",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-04T19:51:34.018Z",
+      "resolved_at": null,
+      "message": "What is this showing?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "163:9450",
+        "node_offset": {
+          "x": 105,
+          "y": 25
+        },
+        "stable_path": [
+          "163:9450"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "826409897",
+      "uuid": "f3e69802-6a7c-43fb-9055-4f59d41b7c81",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Mike Conley",
+        "img_url": "https://s3-alpha.figma.com/profile/691ad8c8-8eca-46b4-b775-37a18938f675",
+        "id": "828018010608368979"
+      },
+      "created_at": "2024-06-03T23:50:43.036Z",
+      "resolved_at": null,
+      "message": "Will this at all impact the design of the desktop Picture-in-Picture player window? It has a completely distinct video playback UI, and this might be a good opportunity to unify them:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:2",
+        "node_offset": {
+          "x": -63,
+          "y": 637
+        },
+        "stable_path": [
+          "1:2"
+        ],
+        "region_width": 651,
+        "region_height": 363,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "826409254",
+      "uuid": "6bdc1887-13a8-466b-980b-a42a5419b2c4",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Mike Conley",
+        "img_url": "https://s3-alpha.figma.com/profile/691ad8c8-8eca-46b4-b775-37a18938f675",
+        "id": "828018010608368979"
+      },
+      "created_at": "2024-06-03T23:49:17.304Z",
+      "resolved_at": null,
+      "message": "Controls for <video> are also shared by <audio>. Can we presume this style is also meant to apply to <audio> elements?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "129:452",
+        "node_offset": {
+          "x": 359,
+          "y": 387
+        },
+        "stable_path": [
+          "129:452"
+        ],
+        "region_width": 361,
+        "region_height": 50,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "826406928",
+      "uuid": "6557a7fd-836a-44fc-b9bd-251f3d9a2fd5",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Mike Conley",
+        "img_url": "https://s3-alpha.figma.com/profile/691ad8c8-8eca-46b4-b775-37a18938f675",
+        "id": "828018010608368979"
+      },
+      "created_at": "2024-06-03T23:43:48.639Z",
+      "resolved_at": null,
+      "message": "Video elements can get arbitrarily small. Here's what a video element looks like when it has a width of 150px, for example:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:2",
+        "node_offset": {
+          "x": 85,
+          "y": -102
+        },
+        "stable_path": [
+          "1:2"
+        ],
+        "region_width": 364,
+        "region_height": 227,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "826405992",
+      "uuid": "3b84b7f2-cefc-4ab2-a4cf-f54583317d74",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Mike Conley",
+        "img_url": "https://s3-alpha.figma.com/profile/691ad8c8-8eca-46b4-b775-37a18938f675",
+        "id": "828018010608368979"
+      },
+      "created_at": "2024-06-03T23:41:46.881Z",
+      "resolved_at": null,
+      "message": "Does this show a slider on click to control the specific volume? What does that look like?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "125:294",
+        "node_offset": {
+          "x": 335,
+          "y": 393
+        },
+        "stable_path": [
+          "125:294"
+        ],
+        "region_width": 40,
+        "region_height": 41,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "826405824",
+      "uuid": "4192e21d-79c9-4988-a0e1-b0ba8c32561b",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Mike Conley",
+        "img_url": "https://s3-alpha.figma.com/profile/691ad8c8-8eca-46b4-b775-37a18938f675",
+        "id": "828018010608368979"
+      },
+      "created_at": "2024-06-03T23:41:24.223Z",
+      "resolved_at": null,
+      "message": "Can I hear more about when we'd show these buttons, vs when we'd show the back 10s / forward 10s buttons?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "125:294",
+        "node_offset": {
+          "x": 123,
+          "y": 305
+        },
+        "stable_path": [
+          "125:294"
+        ],
+        "region_width": 54,
+        "region_height": 61,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "826405220",
+      "uuid": "14166a5a-c997-4dd4-86fc-40ccde8f3bbc",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Mike Conley",
+        "img_url": "https://s3-alpha.figma.com/profile/691ad8c8-8eca-46b4-b775-37a18938f675",
+        "id": "828018010608368979"
+      },
+      "created_at": "2024-06-03T23:40:02.817Z",
+      "resolved_at": null,
+      "message": "The current implementation will show something like this if the video is streaming and doesn't have a known duration:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "125:294",
+        "node_offset": {
+          "x": 77,
+          "y": 360
+        },
+        "stable_path": [
+          "125:294"
+        ],
+        "region_width": 72,
+        "region_height": 22,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "826404072",
+      "uuid": "d6404412-07a0-4ea8-b00c-501d145b20a9",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Mike Conley",
+        "img_url": "https://s3-alpha.figma.com/profile/691ad8c8-8eca-46b4-b775-37a18938f675",
+        "id": "828018010608368979"
+      },
+      "created_at": "2024-06-03T23:37:32.381Z",
+      "resolved_at": null,
+      "message": "If we're watching an HTML video not in fullscreen or PiP...what does 'X' do in this case?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:2",
+        "node_offset": {
+          "x": -331,
+          "y": -287
+        },
+        "stable_path": [
+          "1:2"
+        ],
+        "region_width": 49,
+        "region_height": 47,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "895032019",
+      "uuid": "d70dcbbf-90d7-497f-b4cf-17107b5114ff",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-07-31T14:19:03.368Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg @Anna Yeddi i know you've looked at previous designs, but wanted to ask: is the contrast here enough?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "393:1707",
+        "node_offset": {
+          "x": 4506,
+          "y": 262
+        },
+        "stable_path": [
+          "393:1707"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "832741080",
+      "uuid": "5674a762-3046-4318-99dd-7862444eb928",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-07T21:41:17.379Z",
+      "resolved_at": null,
+      "message": "Please ensure these meet minimum touch-target sizes when rendered",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "184:552",
+        "node_offset": {
+          "x": 315,
+          "y": 184
+        },
+        "stable_path": [
+          "184:552"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "832433896",
+      "uuid": "f0fb31de-d82a-4e1a-ae6b-32bf0369c525",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-06-07T15:43:08.420Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg this is what it would look like",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "163:432",
+        "node_offset": {
+          "x": 590,
+          "y": -47
+        },
+        "stable_path": [
+          "163:432"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "827934840",
+      "uuid": "57c43702-7ee1-4711-8673-67acf66782d5",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-04T19:53:22.454Z",
+      "resolved_at": null,
+      "message": "does this thumb get larger on hover?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "163:432",
+        "node_offset": {
+          "x": 260,
+          "y": 1396
+        },
+        "stable_path": [
+          "163:432"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "827934350",
+      "uuid": "b00d10f1-287f-438a-89ad-3e0bf56b3433",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-04T19:52:57.235Z",
+      "resolved_at": null,
+      "message": "Is it possible to increase this contrast?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "163:591",
+        "node_offset": {
+          "x": 147,
+          "y": 340
+        },
+        "stable_path": [
+          "163:591"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "827932768",
+      "uuid": "234d1958-d7fa-4ccf-8cba-c92e5f3ce5a9",
+      "file_key": "z4rm5aXzifZ29D4CvBxQFA",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-04T19:51:34.018Z",
+      "resolved_at": null,
+      "message": "What is this showing?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "163:9450",
+        "node_offset": {
+          "x": 105,
+          "y": 25
+        },
+        "stable_path": [
+          "163:9450"
+        ]
+      },
+      "order_id": "9"
+    }
+  ]
+}

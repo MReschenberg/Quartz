@@ -1,0 +1,4076 @@
+{
+  "unresolved": [
+    {
+      "id": "1640921744",
+      "uuid": "fa805617-c45c-4ca2-937e-25b696056961",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrey Zinovyev",
+        "img_url": "https://www.gravatar.com/avatar/a9cb7610ad22d5e1f679429c84ec2683?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1502339399472907954"
+      },
+      "created_at": "2026-02-19T18:58:31.636Z",
+      "resolved_at": null,
+      "message": "Do we have a reference for using gradient on text or is this the first time this will be done? cc: @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "20347:58820",
+        "node_offset": {
+          "x": 333,
+          "y": 371
+        },
+        "stable_path": [
+          "20347:58820"
+        ]
+      },
+      "order_id": "180"
+    },
+    {
+      "id": "1629385760",
+      "uuid": "08648c38-5914-4141-a6bc-17bdaf57015f",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2026-02-11T18:00:01.271Z",
+      "resolved_at": null,
+      "message": "make it full height\ncheck the wordmark",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "20320:65626",
+        "node_offset": {
+          "x": 701,
+          "y": 1447
+        },
+        "stable_path": [
+          "20320:65626"
+        ]
+      },
+      "order_id": "176"
+    },
+    {
+      "id": "1627376525",
+      "uuid": "6dea3562-0f9d-4d6f-b708-70cc7b0c38d5",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2026-02-10T18:39:11.620Z",
+      "resolved_at": null,
+      "message": "not obvious enough",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "20179:36757",
+        "node_offset": {
+          "x": 356,
+          "y": 381
+        },
+        "stable_path": [
+          "20179:36757"
+        ]
+      },
+      "order_id": "175"
+    },
+    {
+      "id": "1627376352",
+      "uuid": "5a52742b-fc21-4fc5-902b-b5e3a4b99bd7",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2026-02-10T18:39:04.671Z",
+      "resolved_at": null,
+      "message": "hard to read icon",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "20179:36757",
+        "node_offset": {
+          "x": 394,
+          "y": 164
+        },
+        "stable_path": [
+          "20179:36757"
+        ]
+      },
+      "order_id": "174"
+    },
+    {
+      "id": "1626938578",
+      "uuid": "6cd41d8e-5c97-4dd4-8905-07581fc57624",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-10T14:52:43.682Z",
+      "resolved_at": null,
+      "message": "Option to see search bar in the bottom",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "20220:50471",
+        "node_offset": {
+          "x": 47,
+          "y": 853
+        },
+        "stable_path": [
+          "20220:50471"
+        ]
+      },
+      "order_id": "173"
+    },
+    {
+      "id": "1626937364",
+      "uuid": "5f7925cc-efed-4107-b451-9d5656783b41",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-10T14:52:13.681Z",
+      "resolved_at": null,
+      "message": "How the situation is when we have all setting ON",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "20220:50471",
+        "node_offset": {
+          "x": 362,
+          "y": 790
+        },
+        "stable_path": [
+          "20220:50471"
+        ]
+      },
+      "order_id": "172"
+    },
+    {
+      "id": "1626936000",
+      "uuid": "3172e35f-ca23-4000-ba49-9989a42668d8",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-10T14:51:39.087Z",
+      "resolved_at": null,
+      "message": "Review the empty states or first time state",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "20220:50471",
+        "node_offset": {
+          "x": 103,
+          "y": 521
+        },
+        "stable_path": [
+          "20220:50471"
+        ]
+      },
+      "order_id": "171"
+    },
+    {
+      "id": "1626934941",
+      "uuid": "23830650-c823-4494-8858-47f05d1ed822",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-10T14:51:13.223Z",
+      "resolved_at": null,
+      "message": "For V2, HMW tell this story better",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "20220:50471",
+        "node_offset": {
+          "x": 365,
+          "y": 144
+        },
+        "stable_path": [
+          "20220:50471"
+        ]
+      },
+      "order_id": "170"
+    },
+    {
+      "id": "1626934244",
+      "uuid": "7514f649-20dd-4ed7-a2ff-f8dfcbc2b96d",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-10T14:50:55.682Z",
+      "resolved_at": null,
+      "message": "Presenting the Value rather then explain features",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "20220:50471",
+        "node_offset": {
+          "x": 140,
+          "y": 520
+        },
+        "stable_path": [
+          "20220:50471"
+        ]
+      },
+      "order_id": "169"
+    },
+    {
+      "id": "1626933323",
+      "uuid": "75c5398f-fbe0-45b5-a9e6-e2651ca63937",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-10T14:50:33.304Z",
+      "resolved_at": null,
+      "message": "Placement for balance the design",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "20220:50471",
+        "node_offset": {
+          "x": 99,
+          "y": 156
+        },
+        "stable_path": [
+          "20220:50471"
+        ]
+      },
+      "order_id": "168"
+    },
+    {
+      "id": "1626932923",
+      "uuid": "f663bfcd-da0b-4665-b5ea-3d3548002d86",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-10T14:50:23.445Z",
+      "resolved_at": null,
+      "message": "Evaluate HMW make this entry point more visual relevant",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "20220:50471",
+        "node_offset": {
+          "x": 356,
+          "y": 281
+        },
+        "stable_path": [
+          "20220:50471"
+        ]
+      },
+      "order_id": "167"
+    },
+    {
+      "id": "1622546415",
+      "uuid": "bd33a8ba-e987-4bda-9d83-1c140e67f6ce",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-06T15:23:42.219Z",
+      "resolved_at": null,
+      "message": "I think having just the icon is cleaner and maybe we can introduce son cool and playful effects when you try to refresh this page (swiping down) currently there is nothing because it's the homepage but maybe this is something we can explore to display educative messages coming from the logo. Just an idea",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19945:30810",
+        "node_offset": {
+          "x": 212,
+          "y": 105
+        },
+        "stable_path": [
+          "19945:30810"
+        ]
+      },
+      "order_id": "166"
+    },
+    {
+      "id": "1622532641",
+      "uuid": "9b169bb1-59eb-43bf-83f6-0a7f21222f43",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-06T15:15:58.091Z",
+      "resolved_at": null,
+      "message": "Can we introduce the story-style experience for V1?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19945:30617",
+        "node_offset": {
+          "x": 381,
+          "y": 90
+        },
+        "stable_path": [
+          "19945:30617"
+        ]
+      },
+      "order_id": "165"
+    },
+    {
+      "id": "1622531108",
+      "uuid": "d9de8723-47e4-4e4c-b2e9-5f53e5de0b12",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-06T15:15:05.725Z",
+      "resolved_at": null,
+      "message": "For iOS can we use squares?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19945:30617",
+        "node_offset": {
+          "x": 256,
+          "y": 378
+        },
+        "stable_path": [
+          "19945:30617"
+        ]
+      },
+      "order_id": "164"
+    },
+    {
+      "id": "1622529593",
+      "uuid": "988af9f3-c99a-4532-bf31-18be13517843",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-06T15:14:16.474Z",
+      "resolved_at": null,
+      "message": "We need a search bar with Android flavor",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19945:30617",
+        "node_offset": {
+          "x": 306,
+          "y": 251
+        },
+        "stable_path": [
+          "19945:30617"
+        ]
+      },
+      "order_id": "163"
+    },
+    {
+      "id": "1622526680",
+      "uuid": "a3b7cae3-c28a-4b6d-b4df-439460d40ee7",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-06T15:12:40.001Z",
+      "resolved_at": null,
+      "message": "Is this part of the MVP?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19945:30617",
+        "node_offset": {
+          "x": 361,
+          "y": 397
+        },
+        "stable_path": [
+          "19945:30617"
+        ]
+      },
+      "order_id": "162"
+    },
+    {
+      "id": "1622513152",
+      "uuid": "960d6200-45bd-4698-8377-c84ba295f78e",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-06T15:04:55.627Z",
+      "resolved_at": null,
+      "message": "Did we take decision about shortcuts, jump me back in, collections, etc?\n\nWould like to see/know what is the worst scenario",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19945:29913",
+        "node_offset": {
+          "x": 235,
+          "y": 715
+        },
+        "stable_path": [
+          "19945:29913"
+        ]
+      },
+      "order_id": "161"
+    },
+    {
+      "id": "1622490603",
+      "uuid": "1efa8d6b-0884-49bf-a007-8371c2afd1f2",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-06T14:52:31.280Z",
+      "resolved_at": null,
+      "message": "Can we show how the new features are going to be here? Voice Search",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19940:34798",
+        "node_offset": {
+          "x": 361,
+          "y": 301
+        },
+        "stable_path": [
+          "19940:34798"
+        ]
+      },
+      "order_id": "160"
+    },
+    {
+      "id": "1622489845",
+      "uuid": "3ed2dbf4-82e3-4581-8542-c802384a9381",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-06T14:52:06.646Z",
+      "resolved_at": null,
+      "message": "Still not sure about this format. But I imagine you have context",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19940:34798",
+        "node_offset": {
+          "x": 317,
+          "y": 746
+        },
+        "stable_path": [
+          "19940:34798"
+        ]
+      },
+      "order_id": "159"
+    },
+    {
+      "id": "1622487687",
+      "uuid": "0b384ef5-e185-41e5-8345-3bed9ee601c8",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-06T14:50:57.475Z",
+      "resolved_at": null,
+      "message": "I like this option a lot, to me it's a clear order from the priority perspective.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19940:34798",
+        "node_offset": {
+          "x": 211,
+          "y": 236
+        },
+        "stable_path": [
+          "19940:34798"
+        ]
+      },
+      "order_id": "158"
+    },
+    {
+      "id": "1622481783",
+      "uuid": "7c1708cf-7662-4107-a82b-a51dee9f205e",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-06T14:47:49.268Z",
+      "resolved_at": null,
+      "message": "I think this introduce a more \"playful\" flavor which is in line with the design principles",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19939:32535",
+        "node_offset": {
+          "x": 371,
+          "y": 82
+        },
+        "stable_path": [
+          "19939:32535"
+        ]
+      },
+      "order_id": "157"
+    },
+    {
+      "id": "1622480529",
+      "uuid": "ad0e503f-9cb6-48f8-b4d6-5d2ec7acef4f",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-06T14:47:10.402Z",
+      "resolved_at": null,
+      "message": "Is the intention to have additional bookmarks here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19939:32535",
+        "node_offset": {
+          "x": 126,
+          "y": 432
+        },
+        "stable_path": [
+          "19939:32535"
+        ]
+      },
+      "order_id": "156"
+    },
+    {
+      "id": "1622479110",
+      "uuid": "53b8a3ad-fb8c-43ef-ab13-0f69e694496a",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-06T14:46:24.867Z",
+      "resolved_at": null,
+      "message": "I was wondering if we can use KIT here instead of the checkmark? or maybe depending on the type of situation we see KIT or not. for example, if we blocked some trackers KIT is sharing the report but if nothing new happened we have a flat \"empty\" state with the checkmark.\n\nI'm not fan of this checkmark, but I know this is part of the assets we have.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19939:31349",
+        "node_offset": {
+          "x": 86,
+          "y": 439
+        },
+        "stable_path": [
+          "19939:31349"
+        ]
+      },
+      "order_id": "155"
+    },
+    {
+      "id": "1622474572",
+      "uuid": "deaa6b2d-0c1b-4ac5-92e7-5f03aaf4a382",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-06T14:44:01.904Z",
+      "resolved_at": null,
+      "message": "LOVE this simplicity",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19939:31349",
+        "node_offset": {
+          "x": 59,
+          "y": 80
+        },
+        "stable_path": [
+          "19939:31349"
+        ]
+      },
+      "order_id": "154"
+    },
+    {
+      "id": "1622474036",
+      "uuid": "d5876327-ede9-45ef-9442-99b82bc51c2a",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-06T14:43:45.690Z",
+      "resolved_at": null,
+      "message": "This is very interesting approach. Do we need to see 2 rows of shorcuts?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19939:31349",
+        "node_offset": {
+          "x": 390,
+          "y": 400
+        },
+        "stable_path": [
+          "19939:31349"
+        ]
+      },
+      "order_id": "153"
+    },
+    {
+      "id": "1621284193",
+      "uuid": "24059c03-340d-4918-ae28-077e7aa335d1",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-05T22:45:20.439Z",
+      "resolved_at": null,
+      "message": "Consider an exploration where we don't text in these elements: News and Private toggle",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19728:34217",
+        "node_offset": {
+          "x": 330,
+          "y": 85
+        },
+        "stable_path": [
+          "19728:34217"
+        ]
+      },
+      "order_id": "152"
+    },
+    {
+      "id": "1621283322",
+      "uuid": "cbc24b1b-fe21-41bf-8353-8ccf497cdc75",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-05T22:44:19.644Z",
+      "resolved_at": null,
+      "message": "I have a concern with localizations here and longer words",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19728:33228",
+        "node_offset": {
+          "x": 121,
+          "y": 104
+        },
+        "stable_path": [
+          "19728:33228"
+        ]
+      },
+      "order_id": "151"
+    },
+    {
+      "id": "1621281510",
+      "uuid": "f87d3323-34a1-4b10-9beb-fc36a3c5dc43",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-05T22:42:09.082Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan @Nicole Weber Do you prefer this interaction in comparison with the carousel we have today?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19882:12522",
+        "node_offset": {
+          "x": 357,
+          "y": 676
+        },
+        "stable_path": [
+          "19882:12522"
+        ]
+      },
+      "order_id": "150"
+    },
+    {
+      "id": "1621280211",
+      "uuid": "abed6c74-42dc-4663-86d2-6cfb9659c082",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-05T22:40:38.103Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan can we design this more close to the reality? Using the team shields/flags and maybe adding some results. Also, I think this is a good space for animations (V2)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19882:15574",
+        "node_offset": {
+          "x": 221,
+          "y": 578
+        },
+        "stable_path": [
+          "19882:15574"
+        ]
+      },
+      "order_id": "149"
+    },
+    {
+      "id": "1621279029",
+      "uuid": "bc551067-0cec-4f9c-9364-7e09e2e232d8",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-05T22:39:16.537Z",
+      "resolved_at": null,
+      "message": "I like this approach better but, where the Private Mode is going to be?\n\nAlso, not sure if \"Daily News Firefox\" is the right term, Are we going to showcase other type of content there? such games, sport results, etc\n\nAlso, not sure if this could be perceived as news from Firefox, Do we have a rational about this concept?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19807:8825",
+        "node_offset": {
+          "x": 398,
+          "y": 225
+        },
+        "stable_path": [
+          "19807:8825"
+        ]
+      },
+      "order_id": "148"
+    },
+    {
+      "id": "1621275080",
+      "uuid": "5632957f-630a-4eb3-ac7d-f76c6c8b959a",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-05T22:34:37.039Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan I think this is so heavy and not natural. Is there any other way to present this switcher using the icon.\n\nAlso I personally perceive cognitive workload having the icon and the label standard, not sure what that means. \n\nI think we need to come with a more simple approach. What about just the icon using a On/Off approach ?\n\n@Nicole Weber WDYT",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19728:32547",
+        "node_offset": {
+          "x": 61,
+          "y": 76
+        },
+        "stable_path": [
+          "19728:32547"
+        ]
+      },
+      "order_id": "147"
+    },
+    {
+      "id": "1618545779",
+      "uuid": "be143368-ff27-4805-ba55-f8e2ea4c3dd8",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2026-02-04T15:43:46.118Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan This is too prominent especially since we don't have a good handle on user relevance",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19575:21176",
+        "node_offset": {
+          "x": 2736,
+          "y": 433
+        },
+        "stable_path": [
+          "19575:21176"
+        ]
+      },
+      "order_id": "145"
+    },
+    {
+      "id": "1618543792",
+      "uuid": "7bbd1291-2055-4180-8bf2-7a51e6f47d09",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2026-02-04T15:42:53.186Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan we could also integrate the privacy dashboard here as a card",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-02-05T22:49:51.498Z",
+          "user": {
+            "id": "966012506228212394",
+            "handle": "Eduardo Feo",
+            "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "19704:6859",
+        "node_offset": {
+          "x": 211,
+          "y": 506
+        },
+        "stable_path": [
+          "19704:6859"
+        ]
+      },
+      "order_id": "144"
+    },
+    {
+      "id": "1618540044",
+      "uuid": "99d571ff-a1ef-4ae8-a953-29ca455bfabd",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2026-02-04T15:41:13.126Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan I was wondering if we need the header here at all, we could just add page control once it runs over x rows and then let users swipe",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19575:21176",
+        "node_offset": {
+          "x": 74,
+          "y": 115
+        },
+        "stable_path": [
+          "19575:21176"
+        ]
+      },
+      "order_id": "140"
+    },
+    {
+      "id": "1615955731",
+      "uuid": "ac499a2c-06cd-443b-95b7-88af9052f9d2",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2026-02-03T12:13:03.206Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan re contrast issue with toolbar, yes! good point, what about just using 'surface' for the search box?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19425:11352",
+        "node_offset": {
+          "x": 292,
+          "y": 819
+        },
+        "stable_path": [
+          "19425:11352"
+        ]
+      },
+      "order_id": "139"
+    },
+    {
+      "id": "1614817545",
+      "uuid": "843a8703-5d69-4623-832b-1f2fee19d459",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2026-02-02T21:14:55.103Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber Can we discuss using an alternative color (android/surface?) for the search bar, or perhaps an outline? Gets lost when certain colors are behind it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19297:15957",
+        "node_offset": {
+          "x": 374,
+          "y": 783
+        },
+        "stable_path": [
+          "19297:15957"
+        ]
+      },
+      "order_id": "138"
+    },
+    {
+      "id": "1614623304",
+      "uuid": "6a54d284-14ab-4a5f-9e6d-25174eaff117",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-02-02T18:47:35.040Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan this is the reference I shared",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18292:3131",
+        "node_offset": {
+          "x": 8229,
+          "y": 6474
+        },
+        "stable_path": [
+          "18292:3131"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "1610238821",
+      "uuid": "e8f79257-41d3-4db5-94d0-2b279e397170",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2026-01-29T16:37:54.131Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan 'My feed' and 'local' seem like relevant places",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18933:4405",
+        "node_offset": {
+          "x": 157,
+          "y": 115
+        },
+        "stable_path": [
+          "18933:4405"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "1608644218",
+      "uuid": "d837a152-e250-4898-ae45-601de70ee6b8",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2026-01-28T22:39:55.348Z",
+      "resolved_at": null,
+      "message": "This would likely go in settings? Why move it up to here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18582:9389",
+        "node_offset": {
+          "x": 272,
+          "y": 747
+        },
+        "stable_path": [
+          "18582:9389"
+        ]
+      },
+      "order_id": "134"
+    },
+    {
+      "id": "1608246531",
+      "uuid": "95d3d203-1979-41c9-8252-2d5ed1c03e28",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2026-01-28T17:46:48.932Z",
+      "resolved_at": null,
+      "message": "@Anthony Keane wondering if we should have both: microphone AND waves or prioritise one (waves) and keep the mic in the keyboard. Thoughts?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18643:6011",
+        "node_offset": {
+          "x": 367,
+          "y": 668
+        },
+        "stable_path": [
+          "18643:6011"
+        ]
+      },
+      "order_id": "133"
+    },
+    {
+      "id": "1606530564",
+      "uuid": "21d8c6c5-b985-4af6-bf50-dcac1186e519",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2026-01-27T23:19:42.931Z",
+      "resolved_at": null,
+      "message": "Add options menu as a secondary touch target",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18582:9269",
+        "node_offset": {
+          "x": 117,
+          "y": 54
+        },
+        "stable_path": [
+          "18582:9269"
+        ]
+      },
+      "order_id": "132"
+    },
+    {
+      "id": "1606522765",
+      "uuid": "2104385d-5325-4e07-8f63-cf3bbfd863e4",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2026-01-27T23:10:03.585Z",
+      "resolved_at": null,
+      "message": "use 10 to 15 participants for each prototype",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18490:1786",
+        "node_offset": {
+          "x": 985,
+          "y": 818
+        },
+        "stable_path": [
+          "18490:1786"
+        ]
+      },
+      "order_id": "131"
+    },
+    {
+      "id": "1606520663",
+      "uuid": "a5cbacb2-4894-47e9-87ca-5115fa28b0d5",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2026-01-27T23:07:38.404Z",
+      "resolved_at": null,
+      "message": "How easy was it to find this feature (use ratings scale 1 to 5)\nexplain your answer",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18490:1786",
+        "node_offset": {
+          "x": 436,
+          "y": 741
+        },
+        "stable_path": [
+          "18490:1786"
+        ]
+      },
+      "order_id": "130"
+    },
+    {
+      "id": "1606517286",
+      "uuid": "6ddde650-1c6f-4585-8df3-af85926189d5",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2026-01-27T23:03:29.247Z",
+      "resolved_at": null,
+      "message": "What browser do you use the most? Not a screener question, just a question for all participants",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18490:1786",
+        "node_offset": {
+          "x": 961,
+          "y": 288
+        },
+        "stable_path": [
+          "18490:1786"
+        ]
+      },
+      "order_id": "129"
+    },
+    {
+      "id": "1605534274",
+      "uuid": "7f2abf94-d530-49af-8a3f-866be0814d4d",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-01-27T13:18:08.689Z",
+      "resolved_at": null,
+      "message": "Because you are in a new tab, I think we can also propose to get access to this stories view with a swiping right gesture from the homepage. Additional to the entry point you are thinking",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18401:37732",
+        "node_offset": {
+          "x": 351,
+          "y": 751
+        },
+        "stable_path": [
+          "18401:37732"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "1605526728",
+      "uuid": "33e292f2-d8f9-4930-9078-ca80230f1e0f",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-01-27T13:14:21.846Z",
+      "resolved_at": null,
+      "message": "one of my open questions is, do we need to have a search here or not. I was checking and the majority of the other browsers have a search here, I think Perplexity is a little different so maybe there is an opportunity to be different removing the search from this page but I would like to have a solid intentional reason for that.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18439:1545",
+        "node_offset": {
+          "x": 382,
+          "y": 698
+        },
+        "stable_path": [
+          "18439:1545"
+        ]
+      },
+      "order_id": "126"
+    },
+    {
+      "id": "1605503399",
+      "uuid": "6367e95c-7eb0-431a-8b85-4949da31fddf",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-01-27T13:02:19.217Z",
+      "resolved_at": null,
+      "message": "Can you explore any cool or fancy approach for the scrolling here? maybe the very bottom story is a little smaller or blurry to bring more deep visual. Just an idea to try to do something different",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18401:37732",
+        "node_offset": {
+          "x": 386,
+          "y": 545
+        },
+        "stable_path": [
+          "18401:37732"
+        ]
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "1605501095",
+      "uuid": "341c5a96-cff8-45d3-a0b9-a268b9b7e178",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-01-27T13:01:01.069Z",
+      "resolved_at": null,
+      "message": "I like to have one featured story.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18401:37732",
+        "node_offset": {
+          "x": 384,
+          "y": 265
+        },
+        "stable_path": [
+          "18401:37732"
+        ]
+      },
+      "order_id": "124"
+    },
+    {
+      "id": "1605499519",
+      "uuid": "8cb592c8-704c-4301-923a-57720c087f13",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-01-27T13:00:09.352Z",
+      "resolved_at": null,
+      "message": "We need to have a \"default\" message for first timers.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18425:75213",
+        "node_offset": {
+          "x": 357,
+          "y": 446
+        },
+        "stable_path": [
+          "18425:75213"
+        ]
+      },
+      "order_id": "123"
+    },
+    {
+      "id": "1605498566",
+      "uuid": "933519a4-4bc0-4386-8a21-3c196327ba54",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-01-27T12:59:39.597Z",
+      "resolved_at": null,
+      "message": "Are we supporting only 1 row of shortcuts?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18425:75213",
+        "node_offset": {
+          "x": 386,
+          "y": 182
+        },
+        "stable_path": [
+          "18425:75213"
+        ]
+      },
+      "order_id": "122"
+    },
+    {
+      "id": "1605497408",
+      "uuid": "fa0c5a18-869d-4735-a1dc-b0ea770e88ce",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-01-27T12:59:03.584Z",
+      "resolved_at": null,
+      "message": "I think the arrows state should be in the opposite way right? and I was wondering when do we need to have an \"action\" over the back arrow here in the homepage, what could be the destination?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18425:75213",
+        "node_offset": {
+          "x": 36,
+          "y": 754
+        },
+        "stable_path": [
+          "18425:75213"
+        ]
+      },
+      "order_id": "121"
+    },
+    {
+      "id": "1605495553",
+      "uuid": "45280c58-85ef-4ed3-bb28-572c85f34d59",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-01-27T12:58:07.378Z",
+      "resolved_at": null,
+      "message": "I think, having the stories througth the icon here it doesn't make sense having the arrow indicator, WDYT",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18425:75213",
+        "node_offset": {
+          "x": 212,
+          "y": 761
+        },
+        "stable_path": [
+          "18425:75213"
+        ]
+      },
+      "order_id": "120"
+    },
+    {
+      "id": "1604791702",
+      "uuid": "b657debe-749b-487c-af90-b59fd91f2c83",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2026-01-27T07:06:52.659Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan should we add this as an option for the usertest?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18295:4156",
+        "node_offset": {
+          "x": 363,
+          "y": 114
+        },
+        "stable_path": [
+          "18295:4156"
+        ]
+      },
+      "order_id": "119"
+    },
+    {
+      "id": "1604791250",
+      "uuid": "cf238d0f-113f-4323-83f0-92a86ded5877",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2026-01-27T07:06:32.490Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan even hear, I wonder if users expect the feed to show up below, similar to what Edge is doing",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18439:1869",
+        "node_offset": {
+          "x": 214,
+          "y": 600
+        },
+        "stable_path": [
+          "18439:1869"
+        ]
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "1604786454",
+      "uuid": "8ac279d7-6cfd-4afd-8381-63711d77b26b",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2026-01-27T07:02:56.249Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan wouldn't this be more like a scroll down to see more, instead of popping in the stories?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18445:2556",
+        "node_offset": {
+          "x": 288,
+          "y": 654
+        },
+        "stable_path": [
+          "18445:2556"
+        ]
+      },
+      "order_id": "117"
+    },
+    {
+      "id": "1604325353",
+      "uuid": "a40e58ec-c132-4895-acc0-459ba8fe8490",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2026-01-26T22:09:20.388Z",
+      "resolved_at": null,
+      "message": "@Andres Furlan can we pls deliver the nicer tab switcher soon?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18295:3722",
+        "node_offset": {
+          "x": 367,
+          "y": 781
+        },
+        "stable_path": [
+          "18295:3722"
+        ]
+      },
+      "order_id": "115"
+    },
+    {
+      "id": "1604324962",
+      "uuid": "b4d9ca01-eb74-4de6-a09b-268e79ca024a",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2026-01-26T22:08:57.928Z",
+      "resolved_at": null,
+      "message": "Changing the toolbar is out of scope",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18295:4044",
+        "node_offset": {
+          "x": 228,
+          "y": 776
+        },
+        "stable_path": [
+          "18295:4044"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "1599889659",
+      "uuid": "2cb19aaa-3f9a-47a5-8901-7b3654b19345",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2026-01-22T17:10:46.681Z",
+      "resolved_at": null,
+      "message": "FYI @Nicole Weber, this was a Rick design for cards, but currently we don't have a version that works for landscape or for tablet.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18295:3722",
+        "node_offset": {
+          "x": 365,
+          "y": 590
+        },
+        "stable_path": [
+          "18295:3722"
+        ]
+      },
+      "order_id": "113"
+    },
+    {
+      "id": "1597739424",
+      "uuid": "15f92f81-383e-49cd-9861-b35e75dbd7c3",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2026-01-21T16:32:32.432Z",
+      "resolved_at": null,
+      "message": "This looks great!\n\nOne thought:\nIn the native iOS wallpaper flow, the smaller preview that's similar to this with apps overlaid doesn\u2019t allow adjustments like scaling/moving. Because of that, users might not realize that this screen does support adjusting those things, so it might be helpful to include a small caption calling out that functionality!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17003:20067",
+        "node_offset": {
+          "x": 363,
+          "y": 28
+        },
+        "stable_path": [
+          "17003:20067"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "1597726562",
+      "uuid": "1456128b-76da-4aad-84fc-698852efe99a",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2026-01-21T16:25:55.030Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan not sure if this passes contrast, is this our regular component?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17763:63700",
+        "node_offset": {
+          "x": 224,
+          "y": 458
+        },
+        "stable_path": [
+          "17763:63700"
+        ]
+      },
+      "order_id": "111"
+    },
+    {
+      "id": "1582248342",
+      "uuid": "6f63f3ed-60cb-45db-be8b-1fcbdcb7e8ba",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Maggie Atkinson",
+        "img_url": "https://s3-alpha.figma.com/profile/fa6225e6-d985-4047-b845-bfdbc634a565",
+        "id": "1394737576747859156"
+      },
+      "created_at": "2026-01-09T20:06:31.131Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan Hi! What color token should this background color be? It looks different than the stories card background color.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17430:13707",
+        "node_offset": {
+          "x": 344,
+          "y": 493
+        },
+        "stable_path": [
+          "17430:13707"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "1570782529",
+      "uuid": "1f6478bf-5761-4ab0-97c7-b46852cd8625",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Cyndi Chin",
+        "img_url": "https://s3-alpha.figma.com/profile/c9778bcf-098d-499c-98ac-8c399f0d014b",
+        "id": "1098972298677980056"
+      },
+      "created_at": "2025-12-26T13:35:52.434Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan It seems that the spacing when the toolbar at the top is 12 points and 32 when the toolbar is at the bottom. Double checking, do we want to make this distinction or keep it consistent?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17430:13707",
+        "node_offset": {
+          "x": 95,
+          "y": 84
+        },
+        "stable_path": [
+          "17430:13707"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "1539542362",
+      "uuid": "e089f002-730d-43f2-b612-1e49fd142dc3",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-12-02T15:59:57.210Z",
+      "resolved_at": null,
+      "message": "Hi @Maggie Atkinson , we're using layer/2 for the search bars here based on the work from the handoff file: https://www.figma.com/design/EQBqApLh2iZjwvpnJG9NQD/Toolbar-Handoff?node-id=8854-4672&t=9ktM2fZBuSnYhylK-4\nThe purple here looks too vibrant for the rest of this screen. Any suggestions on an alternative color?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17688:29871",
+        "node_offset": {
+          "x": 1494,
+          "y": 194
+        },
+        "stable_path": [
+          "17688:29871"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "1496770733",
+      "uuid": "8a724584-0bf5-4c20-b4c2-c8ecbd06c5b9",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-11-03T19:01:47.706Z",
+      "resolved_at": null,
+      "message": "Multiple headlines",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17126:20709",
+        "node_offset": {
+          "x": 174,
+          "y": 3
+        },
+        "stable_path": [
+          "17126:20709"
+        ]
+      },
+      "order_id": "105"
+    },
+    {
+      "id": "1496770283",
+      "uuid": "2e1cab9d-9de8-41e4-88bc-66428e3e1f3c",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-11-03T19:01:28.583Z",
+      "resolved_at": null,
+      "message": "Rotating headlines, card is button to experience",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17126:20699",
+        "node_offset": {
+          "x": 191,
+          "y": 7
+        },
+        "stable_path": [
+          "17126:20699"
+        ]
+      },
+      "order_id": "104"
+    },
+    {
+      "id": "1468172637",
+      "uuid": "356166d3-60e9-42a5-99b9-a6ef1ef6df47",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-14T20:35:20.514Z",
+      "resolved_at": null,
+      "message": "Any thoughts about onboarding for the new wallpapers?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17542:42202",
+        "node_offset": {
+          "x": 348,
+          "y": 577
+        },
+        "stable_path": [
+          "17542:42202"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "1468168867",
+      "uuid": "c4c13d76-3ebb-4a51-a37d-a5cc59611c2e",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-14T20:32:25.868Z",
+      "resolved_at": null,
+      "message": "Do we need any error states or to communicate if a user has hit an upload limit of X images?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16847:9294",
+        "node_offset": {
+          "x": 131,
+          "y": 493
+        },
+        "stable_path": [
+          "16847:9294"
+        ]
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "1468168109",
+      "uuid": "187d263f-598a-4ee5-9989-e4eaf27f8753",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-14T20:31:49.714Z",
+      "resolved_at": null,
+      "message": "Might we have an inviting empty state when you have no uploads? Maybe kit peaking out from the corner of the empty box? Just a thought...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17542:99145",
+        "node_offset": {
+          "x": 159,
+          "y": 647
+        },
+        "stable_path": [
+          "17542:99145"
+        ]
+      },
+      "order_id": "101"
+    },
+    {
+      "id": "1468166269",
+      "uuid": "d8363dd7-c803-4d26-981a-2e3ed43a07bf",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-14T20:30:27.434Z",
+      "resolved_at": null,
+      "message": "I actually don't mind the version that adds a contrasting color that vibes with the image. Not sure about how accessible it is, but it gives the homepage a cohesive and custom look.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15618:9298",
+        "node_offset": {
+          "x": 362,
+          "y": 339
+        },
+        "stable_path": [
+          "15618:9298"
+        ]
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "1468164793",
+      "uuid": "85d753b7-6015-435d-821e-65f93f01848b",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-14T20:29:23.170Z",
+      "resolved_at": null,
+      "message": "I love this!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17547:25873",
+        "node_offset": {
+          "x": 257,
+          "y": 375
+        },
+        "stable_path": [
+          "17547:25873"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "1468164403",
+      "uuid": "b2b6f651-fc08-4496-93e5-03a4fa804e10",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-14T20:29:06.340Z",
+      "resolved_at": null,
+      "message": "Consider adding option to change text from black to white in case we cannot detect correct setting.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17003:20176",
+        "node_offset": {
+          "x": 368,
+          "y": 785
+        },
+        "stable_path": [
+          "17003:20176"
+        ]
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "1468163781",
+      "uuid": "e843f5a8-76b2-408b-8346-fe69ef4ee376",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-14T20:28:39.864Z",
+      "resolved_at": null,
+      "message": "Rewrite: Adjust the wallpaper contrast to make text easier to read.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17547:23129",
+        "node_offset": {
+          "x": 351,
+          "y": 748
+        },
+        "stable_path": [
+          "17547:23129"
+        ]
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "1468162508",
+      "uuid": "e5af9c03-1e38-427c-b68f-01c62d7d33e6",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-14T20:27:41.445Z",
+      "resolved_at": null,
+      "message": "Relabel to \"Wallpaper contrast\" (if that is what is being adjusted)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17547:23129",
+        "node_offset": {
+          "x": 209,
+          "y": 667
+        },
+        "stable_path": [
+          "17547:23129"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "1468161249",
+      "uuid": "16aa998b-c61e-4e02-8169-6466ffc23ebf",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-14T20:26:46.327Z",
+      "resolved_at": null,
+      "message": "Maybe include edit & delete options? Edit allows for recropping & updating of contrast. Def need a delete option.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16847:9294",
+        "node_offset": {
+          "x": 211,
+          "y": 608
+        },
+        "stable_path": [
+          "16847:9294"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "1468159312",
+      "uuid": "96c41892-e3f4-4916-8b62-13308be89926",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-14T20:25:21.161Z",
+      "resolved_at": null,
+      "message": "Update label to \"Change wallpaper\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16831:53610",
+        "node_offset": {
+          "x": 52,
+          "y": 738
+        },
+        "stable_path": [
+          "16831:53610"
+        ]
+      },
+      "order_id": "94"
+    },
+    {
+      "id": "1454331641",
+      "uuid": "ab30e738-e627-439c-9857-05e3ecc71288",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-10-03T22:25:38.321Z",
+      "resolved_at": null,
+      "message": "We wouldn't put the URL bar on the bottom @Christopher Logan @Eduardo Feo; it seems really awkward and hard to use . cc @Andres Furlan @John Hall",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16144:13435",
+        "node_offset": {
+          "x": 803,
+          "y": 793
+        },
+        "stable_path": [
+          "16144:13435"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "1454330647",
+      "uuid": "03522868-f037-4f4c-993f-542340384b45",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-10-03T22:22:52.434Z",
+      "resolved_at": null,
+      "message": "@Matt Lichtenstein Landscape view on iPhone can come as a separate iteration and version if that makes things easier. What do you think @Andres Furlan @John Hall",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15932:136704",
+        "node_offset": {
+          "x": 1566,
+          "y": 1460
+        },
+        "stable_path": [
+          "15932:136704"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "1426647587",
+      "uuid": "d7031084-3a10-419f-8140-a405e26bb9ad",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "John Hall",
+        "img_url": "https://www.gravatar.com/avatar/c3ea2555c85b9ca7c2e99411f189c901?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1116417447678874919"
+      },
+      "created_at": "2025-09-15T20:30:31.154Z",
+      "resolved_at": null,
+      "message": "I like this one the best. We'll have to collab with devs to understand what's possible/limitations",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16275:6962",
+        "node_offset": {
+          "x": 351,
+          "y": 705
+        },
+        "stable_path": [
+          "16275:6962"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "1408303615",
+      "uuid": "71124860-9e38-4522-a561-a5f602c177f2",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-09-02T18:20:58.332Z",
+      "resolved_at": null,
+      "message": "From Eduardo\n@Christopher Logan Thoughts on use a color background for the Ads cards coming from the ads content?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16144:13828",
+        "node_offset": {
+          "x": 290,
+          "y": 882
+        },
+        "stable_path": [
+          "16144:13828"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "1408295991",
+      "uuid": "dd6e4c86-de59-4ba4-9e41-0cabdc376c8c",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-09-02T18:15:35.976Z",
+      "resolved_at": null,
+      "message": "From Eduardo\n@Christopher Logan Do we have any gesture opportunity here to swipe to the next card without going back to the thread?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16144:5743",
+        "node_offset": {
+          "x": 855,
+          "y": 316
+        },
+        "stable_path": [
+          "16144:5743"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "1408294721",
+      "uuid": "e2d04499-3dcd-4a4c-9c7b-b85ea74beeb5",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-09-02T18:14:39.537Z",
+      "resolved_at": null,
+      "message": "From Eduardo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16144:5744",
+        "node_offset": {
+          "x": 360,
+          "y": 581
+        },
+        "stable_path": [
+          "16144:5744"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "1408293830",
+      "uuid": "29a41197-73a8-4404-8d64-11bc14771dd2",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-09-02T18:14:01.485Z",
+      "resolved_at": null,
+      "message": "From Eduardo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16144:5744",
+        "node_offset": {
+          "x": 362,
+          "y": 516
+        },
+        "stable_path": [
+          "16144:5744"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "1408291473",
+      "uuid": "1de1b958-62ad-41b8-a3da-220ac22a6678",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-09-02T18:12:21.885Z",
+      "resolved_at": null,
+      "message": "From Eduardo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16144:5743",
+        "node_offset": {
+          "x": 860,
+          "y": 230
+        },
+        "stable_path": [
+          "16144:5743"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "1402659920",
+      "uuid": "af438e7b-e30a-4fa1-ab18-3ba0f675beb5",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-08-28T14:37:53.496Z",
+      "resolved_at": null,
+      "message": "I would like to see other Ads examples to see different use cases for this format",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16031:150994",
+        "node_offset": {
+          "x": 378,
+          "y": 584
+        },
+        "stable_path": [
+          "16031:150994"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1402652566",
+      "uuid": "33743a55-0d9b-458d-a73f-9b7b01cb3f7a",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-08-28T14:34:34.008Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan not sure if for MVP or future but I would like to explore something different here. Maybe think about Pinterest board, because we have more real estate maybe we can present content with different card sizes based on local relevancy or recently posted, etc - That way the ads can live here with a more natural approach.\nPlease let me know your thoughts",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16062:154209",
+        "node_offset": {
+          "x": 1173,
+          "y": 381
+        },
+        "stable_path": [
+          "16062:154209"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1397068430",
+      "uuid": "62382c91-7862-4c9e-a90a-0aee6970f144",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-08-25T18:35:12.507Z",
+      "resolved_at": null,
+      "message": "@Matt Lichtenstein Please add this localization note to the string",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15866:39544",
+        "node_offset": {
+          "x": 249,
+          "y": 64
+        },
+        "stable_path": [
+          "15866:39544"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1396946435",
+      "uuid": "623a37fc-35b7-48c6-a93e-c43c43042196",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-08-25T17:03:09.037Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan Can this copy stretch to 2 lines for l10n purposes? Does that need to be mocked up?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15425:68827",
+        "node_offset": {
+          "x": 307,
+          "y": 82
+        },
+        "stable_path": [
+          "15425:68827"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1396780009",
+      "uuid": "5eadf0a6-f874-4191-8f51-5ccde51f8107",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-08-25T15:10:12.417Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan @John Hall \nIf we're presenting the same content in the same order as HNT, I recommend using the same headline here.\n\nHowever, if we could shuffle the order on this \"All\" page, that would provide some more value to the page (even if the content is overlapping). If we are able to do this, I would recommend a different headline for this page: \"Today's top stories\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15425:68827",
+        "node_offset": {
+          "x": 264,
+          "y": 71
+        },
+        "stable_path": [
+          "15425:68827"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1348697596",
+      "uuid": "2fb812bb-d248-4de1-906a-c0edb3f1074c",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-07-21T19:00:44.669Z",
+      "resolved_at": null,
+      "message": "I interpret the plus sign to be a \"Save for later\" action, not open in a background tab. Recommend a label for clarity.\n\nBut Read Now / Save for Later seem like the clearest two options... HMW integrate with Nicole's work on \"Saves\"? or surface saved content later on the homepage?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14475:55666",
+        "node_offset": {
+          "x": 1489,
+          "y": 1208
+        },
+        "stable_path": [
+          "14475:55666"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1348522294",
+      "uuid": "7c1228c1-04b8-40c3-8794-bc0f46bdc5be",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-07-21T16:48:34.086Z",
+      "resolved_at": null,
+      "message": "For reference, desktop is going with \"In the news\" and \"Popular today\" as labels for its feeds: https://www.figma.com/design/VdghooQZTLiXYO8hF5pAuS/Feed?node-id=7517-173104&t=1MwDFRT4WtVE5Due-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14475:55666",
+        "node_offset": {
+          "x": 779,
+          "y": 1179
+        },
+        "stable_path": [
+          "14475:55666"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1348340846",
+      "uuid": "33090758-8f0d-44fb-aef6-5a6c9ceeee31",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-07-21T15:00:11.043Z",
+      "resolved_at": null,
+      "message": "Top stories, Popular stories",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14513:18734",
+        "node_offset": {
+          "x": 226,
+          "y": 641
+        },
+        "stable_path": [
+          "14513:18734"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1342632875",
+      "uuid": "86f14cbc-fe09-4d54-8ea9-6e7f20e292eb",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-07-16T15:46:53.693Z",
+      "resolved_at": null,
+      "message": "@Rick Russie @Eduardo Feo do we want to use the photo as a blurred background here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14213:11001",
+        "node_offset": {
+          "x": 383,
+          "y": 171
+        },
+        "stable_path": [
+          "14213:11001"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1342557217",
+      "uuid": "722bba6c-a619-4e22-8fde-0e76090434a9",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-07-16T15:09:12.754Z",
+      "resolved_at": null,
+      "message": "@Rick Russie Developers have asked that we use the standard toolbar color here. Any thoughts?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14157:8304",
+        "node_offset": {
+          "x": 388,
+          "y": 775
+        },
+        "stable_path": [
+          "14157:8304"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1342555244",
+      "uuid": "9a23927d-e720-4d97-9e43-dfc50dd2f9d0",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-07-16T15:08:14.715Z",
+      "resolved_at": null,
+      "message": "@Rick Russie @Eduardo Feo Any thoughts on using a modal stack here? My own thoughts - It ties the experience more to new tab since you always see it as the underlying layer in the stack. Also pairs well with the close button (would need to add the grabber at the top though). Curious what you think!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14157:8899",
+        "node_offset": {
+          "x": 639,
+          "y": 1263
+        },
+        "stable_path": [
+          "14157:8899"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "1342446442",
+      "uuid": "959e4095-a9df-4b39-bcac-2af32de5b83c",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-07-16T14:20:50.851Z",
+      "resolved_at": null,
+      "message": "@Rick Russie @Eduardo Feo This is probably a small thing but something I was thinking about. Given that in the immersive experience, the cards start from the right, should we reverse this order so the topmost card is on the left here, with the underlying cards going rightward? In my mind that makes more sense when thinking about transitioning from this screen to the stories screen.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14445:53214",
+        "node_offset": {
+          "x": 274,
+          "y": 7
+        },
+        "stable_path": [
+          "14445:53214"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1340631150",
+      "uuid": "758313ec-9924-406d-99e5-6f7f12a7d230",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Rick Russie",
+        "img_url": "https://s3-alpha.figma.com/profile/1dc52e8f-9d10-4da2-bc70-7f851ad13194",
+        "id": "932288466684909710"
+      },
+      "created_at": "2025-07-15T15:57:06.831Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan aren't we showing the icons in here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13825:50973",
+        "node_offset": {
+          "x": 50,
+          "y": 541
+        },
+        "stable_path": [
+          "13825:50973"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "1338493771",
+      "uuid": "47d0c783-7a63-4d6f-aedf-3a9ce69583ca",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-07-14T14:19:35.360Z",
+      "resolved_at": null,
+      "message": "@Rick Russie you may have intended this but I think we should consider having the card be the item that makes the transition/animation into the tabs icon in the toolbar (rather than the (+) button)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14213:11001",
+        "node_offset": {
+          "x": 267,
+          "y": 620
+        },
+        "stable_path": [
+          "14213:11001"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1335139018",
+      "uuid": "cecb0e10-18c9-492f-817e-5b01733fcc30",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Rick Russie",
+        "img_url": "https://s3-alpha.figma.com/profile/1dc52e8f-9d10-4da2-bc70-7f851ad13194",
+        "id": "932288466684909710"
+      },
+      "created_at": "2025-07-10T19:41:19.367Z",
+      "resolved_at": null,
+      "message": "swipe cards page to page",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14213:11001",
+        "node_offset": {
+          "x": 305,
+          "y": 383
+        },
+        "stable_path": [
+          "14213:11001"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1334569738",
+      "uuid": "7f3fcda4-cd9c-4fe3-a36d-4eb6dff3a35e",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Cyndi Chin",
+        "img_url": "https://s3-alpha.figma.com/profile/c9778bcf-098d-499c-98ac-8c399f0d014b",
+        "id": "1098972298677980056"
+      },
+      "created_at": "2025-07-10T13:51:12.297Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan Making sure that we're okay with the scrim not overlaying the status bar. In slack we discussed that we were okay since the zero state will change eventually.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13783:47687",
+        "node_offset": {
+          "x": 360,
+          "y": 54
+        },
+        "stable_path": [
+          "13783:47687"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1334566685",
+      "uuid": "853be81a-ce3b-45eb-a349-da8642e45beb",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Cyndi Chin",
+        "img_url": "https://s3-alpha.figma.com/profile/c9778bcf-098d-499c-98ac-8c399f0d014b",
+        "id": "1098972298677980056"
+      },
+      "created_at": "2025-07-10T13:49:50.104Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan This state will be what we have pre-existing and the scrim only appears for search bar. Let me know if I misunderstood!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13897:57597",
+        "node_offset": {
+          "x": 222,
+          "y": 157
+        },
+        "stable_path": [
+          "13897:57597"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1331491025",
+      "uuid": "38cc61bb-a7c6-434c-867b-13fcd57a54d6",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-07-09T01:22:00.070Z",
+      "resolved_at": null,
+      "message": "@Rick Russie In later versions if we added \"offline mode\" could we should a button here where the user could save this article for later  - see https://docs.google.com/document/d/1MrOv45u61deARCiJe3g2Jfb5GyJHgQErlH1qBS88Xvo/edit?tab=t.0#heading=h.86qg8k4jqswv (Still very WIP)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13964:4751",
+        "node_offset": {
+          "x": 320,
+          "y": 719
+        },
+        "stable_path": [
+          "13964:4751"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1330944407",
+      "uuid": "1a67ae18-fbda-493b-9b0c-86f7bed498a8",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Rick Russie",
+        "img_url": "https://s3-alpha.figma.com/profile/1dc52e8f-9d10-4da2-bc70-7f851ad13194",
+        "id": "932288466684909710"
+      },
+      "created_at": "2025-07-08T16:24:34.141Z",
+      "resolved_at": null,
+      "message": "@Alex Schumacher",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13964:5461",
+        "node_offset": {
+          "x": 175,
+          "y": 716
+        },
+        "stable_path": [
+          "13964:5461"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1330943700",
+      "uuid": "99f6aed3-2f88-4c7d-a64f-a4ee7c390ee8",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Rick Russie",
+        "img_url": "https://s3-alpha.figma.com/profile/1dc52e8f-9d10-4da2-bc70-7f851ad13194",
+        "id": "932288466684909710"
+      },
+      "created_at": "2025-07-08T16:24:07.439Z",
+      "resolved_at": null,
+      "message": "could animate into folder when you add something",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13979:6381",
+        "node_offset": {
+          "x": 19,
+          "y": 24
+        },
+        "stable_path": [
+          "13979:6381"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1330878618",
+      "uuid": "aa35a377-1b84-4093-9f91-57ad73f700ee",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-07-08T15:45:27.942Z",
+      "resolved_at": null,
+      "message": "Instead of a \"Discover more\" text link, what if the top slot was always an entry point into the Stories/Discovery/Highlights view? And the stories that follow just link to individual stories so users don't need to click twice.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13933:14664",
+        "node_offset": {
+          "x": 141,
+          "y": 648
+        },
+        "stable_path": [
+          "13933:14664"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1330876212",
+      "uuid": "2433a856-d683-4634-9913-2826887e63ff",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-07-08T15:44:12.058Z",
+      "resolved_at": null,
+      "message": "Love the idea of being able to click into a stories/highlight reel from just one source. Like \"New York Times Highlights\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13964:4751",
+        "node_offset": {
+          "x": 166,
+          "y": 98
+        },
+        "stable_path": [
+          "13964:4751"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1330870660",
+      "uuid": "a015a44d-9990-4b2e-8b6d-2901a6d3787f",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-07-08T15:41:19.337Z",
+      "resolved_at": null,
+      "message": "Could we add more content value by incorporating something like \"link previews\" from desktop?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13964:4751",
+        "node_offset": {
+          "x": 380,
+          "y": 668
+        },
+        "stable_path": [
+          "13964:4751"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1330861680",
+      "uuid": "c03fcb49-49e0-4a48-b4f2-3015b3c9493b",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Jamie Sigadel",
+        "img_url": "https://www.gravatar.com/avatar/53c8c0a1d0c0f42134e8d49ced9aecb6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1403078798096954142"
+      },
+      "created_at": "2025-07-08T15:36:33.615Z",
+      "resolved_at": null,
+      "message": "Going off what Emily mentioned, I wonder if framing this in a way other than \"Top Stories\" may indicate more of an immersive/carousel type of experience.. Not sure how opinionated we want to get as far as tying this to Firefox\n\nBut for example, with Pocket there was more of an expectation of \"here's content we specifically curated\"",
+      "reactions": [
+        {
+          "emoji": ":eyes:",
+          "created_at": "2025-07-08T16:02:27.698Z",
+          "user": {
+            "id": "1038486177349410999",
+            "handle": "Alex Schumacher",
+            "img_url": "https://www.gravatar.com/avatar/f12e1e8656e9147fd51b60c3b417bc90?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "13933:14664",
+        "node_offset": {
+          "x": 378,
+          "y": 669
+        },
+        "stable_path": [
+          "13933:14664"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1328915648",
+      "uuid": "9a0840b5-511d-4726-8d0a-22ecbcd2389f",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-07-07T15:46:59.759Z",
+      "resolved_at": null,
+      "message": "@John Hall do we want to allow scrolling or eliminate stories for SE devices in landscape? Shortcuts are locked to 60px. We could look at removing headers, but need to know if we can do that for 141 - I'm guessing not (cc @Matt Lichtenstein)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13897:57154",
+        "node_offset": {
+          "x": 85,
+          "y": 262
+        },
+        "stable_path": [
+          "13897:57154"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1328762255",
+      "uuid": "112e280f-90f0-4562-90cd-d0717b451461",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Matt Lichtenstein",
+        "img_url": "https://www.gravatar.com/avatar/1585fc417d2bb2f8d79f669dc3dac9e5?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1088299530916622674"
+      },
+      "created_at": "2025-07-07T14:26:39.404Z",
+      "resolved_at": null,
+      "message": "The change from \"Stories\" to \"Top Stories\" seems recent. We are far past 141 string freeze, so could we revert this back to \"Stories\" for the time being?",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-07-07T17:17:36.061Z",
+          "user": {
+            "id": "1098972298677980056",
+            "handle": "Cyndi Chin",
+            "img_url": "https://s3-alpha.figma.com/profile/c9778bcf-098d-499c-98ac-8c399f0d014b"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "13825:50973",
+        "node_offset": {
+          "x": 70,
+          "y": 641
+        },
+        "stable_path": [
+          "13825:50973"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1325658791",
+      "uuid": "29598ce3-4156-409d-89dd-132756337cb3",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-03T17:48:17.167Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan Thank you for drafting the options here, Chris! \n\nAvoiding truncation is an important part of the WCAG 2.2 compliance at the (baseline) Level A covered by the Success Criterion 1.4.4 Resize Text. It allows users with low vision to be able to access the same amount of information that other users would get, even when they are explicitly setting their own iOS settings to show larger fonts. \n\nBeyond providing an equal access to information, this is also something that is required for any accessibility compliance, either Section 508 in the US, EAA in EU, or the corresponding legal requirements enforced in India, Japan, Australia, etc. They all use WCAG 2.0 or 2.1, aiming to 2.2 for both Levels A and AA - and this criterion has been included even in the earlier versions of WCAG.\n\nIf we want to avoid stretching the titles for tiles on larger fonts, we could reflow the tiles section from 4 in a row to 3 and 2, or even 1 a row. This would still satisfy both the Resize Text and WCAG 2.2 Level AA SC 1.4.10 Reflow. While this appearance may not provide as compact view as it is on a \"regular\" font size, users who are proactively searching for larger font sizes are not expecting (and, per user feedback/research, do not like) those compact appearance because for them it means they would miss out on important information for something that is readily available for users with a better eyesight. These users are okay and expect and prefer to scroll the page. Oftentimes, users who find the content being cut or lost would choose an alternative application that does not limit their ability to access Internet independently.\n\nTo observe a user of screen magnification who is also relying on a large font size, I recommend to review the demo recorded by a Fable tester Carrie (on Android, but the same result and feedback would be on iOS device too) - the course and this video are available for any Mozillian with SSO, just use your SSO email to log in. \n\nThere is a self-guided task in-progress with Fable for a user with iOS Magnification to do standard browsing actions with Firefox on iOS, it should be available by Tuesday, July 8th in the Fable platform. Also, an example of a feedback on the small UI size provided by a user relying on a large font size and, when needed, magnification that was recently shared in a Compatibility Test for Firefox iOS as well:\n\"The close button used to exit the carousel after reviewing all the  onboarding slides in Firefox was very small. The X to close the welcome slides, which highlight Firefox features after downloading the app, was difficult to locate. After reading all the slides, I had to magnify the screen just to find the close button, and even then, I had to keep the screen zoomed in to tap it accurately, as the touch target area was quite small. I recommend increasing the size of the close button to make it more perceivable and easier to interact with.\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10144:17064",
+        "node_offset": {
+          "x": 1678,
+          "y": 81
+        },
+        "stable_path": [
+          "10144:17064"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1321782737",
+      "uuid": "e1acb5d1-0106-499c-89af-063581052c7d",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T17:00:35.690Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Could you please remind me which option for the sheet grabber did you decide to use for the iOS? I cannot recall which review that we had this conversation recently, I am sorry - I'll write it down for the future reference this time, I promise :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12176:23938",
+        "node_offset": {
+          "x": 120,
+          "y": 110
+        },
+        "stable_path": [
+          "12176:23938"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1321772120",
+      "uuid": "6b73b4ac-b069-40e7-892f-96c0634eaacb",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T16:52:45.620Z",
+      "resolved_at": null,
+      "message": "eng note: this item should receive VoiceOver focus as one element\n\n(the inner items are marked as \"arrow key navigation\" only to indicate they should not be separately focusable with VO within our Figma annotation component limitations)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12176:23811",
+        "node_offset": {
+          "x": 225,
+          "y": 442
+        },
+        "stable_path": [
+          "12176:23811"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1321766003",
+      "uuid": "e49fd471-52c6-4e3e-9b29-092b7ad69c90",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T16:48:23.249Z",
+      "resolved_at": null,
+      "message": "eng note: these are likely to be already labeled by the iOS, and do not need to be customized",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12165:23753",
+        "node_offset": {
+          "x": 237,
+          "y": 1097
+        },
+        "stable_path": [
+          "12165:23753"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1321764045",
+      "uuid": "69949460-0ecc-4d01-a9ef-ed4a89dabfb1",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T16:47:01.644Z",
+      "resolved_at": null,
+      "message": "Not focusable / Presentational",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12165:23753",
+        "node_offset": {
+          "x": 194,
+          "y": 538
+        },
+        "stable_path": [
+          "12165:23753"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1321763675",
+      "uuid": "d66ad4a7-1daf-4677-84a1-f068dee6e5e7",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T16:46:47.174Z",
+      "resolved_at": null,
+      "message": "Focusable",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12165:23753",
+        "node_offset": {
+          "x": 209,
+          "y": 867
+        },
+        "stable_path": [
+          "12165:23753"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1321763562",
+      "uuid": "870362c4-1348-4172-8603-f05f50e513b6",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T16:46:41.609Z",
+      "resolved_at": null,
+      "message": "Role: search / text field \nName: [use on-screen placeholder text as a label]\nFocusable",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12165:23753",
+        "node_offset": {
+          "x": 191,
+          "y": 769
+        },
+        "stable_path": [
+          "12165:23753"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1321762117",
+      "uuid": "ac8875cf-128c-4902-a566-527c9d3099b2",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T16:45:39.431Z",
+      "resolved_at": null,
+      "message": "Role: header",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12165:23753",
+        "node_offset": {
+          "x": 162,
+          "y": 355
+        },
+        "stable_path": [
+          "12165:23753"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1321761201",
+      "uuid": "53651a3e-3506-4572-b79c-c43f7335de88",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T16:44:59.306Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan probably too late for this iteration, but for the future designs, would that be possible to add any visual identification for these controls, so sighted VoiceOver users (i.e. those with cognitive disabilities) and other sighted users with and without any assistive technology could also benefit from knowing about this control? I.e. make it look like \"X\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12240:13368",
+        "node_offset": {
+          "x": 290,
+          "y": 438
+        },
+        "stable_path": [
+          "12240:13368"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1321758100",
+      "uuid": "055eeb7e-c1fb-4f58-ae1d-debb0c533aa6",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T16:42:40.931Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan and @Cyndi Chin I added this bright note for the long-tap actions and their access via VoiceOver Rotor Actions menu. And included a link to Jira where we discussed it with @Matt Lichtenstein. In iOS 18.5 and, I assume, further, the `actions available` system hint is announced by default, so we do not have to override the system hints anymore, yay! LMK if you have questions and feel free to move the note to whatever place/format would be more convenient to you ;)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13732:19013",
+        "node_offset": {
+          "x": 502,
+          "y": 17
+        },
+        "stable_path": [
+          "13732:19013"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1319910535",
+      "uuid": "0d4a8daa-95c3-4b6e-9cbe-2661dc02848a",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Cyndi Chin",
+        "img_url": "https://s3-alpha.figma.com/profile/c9778bcf-098d-499c-98ac-8c399f0d014b",
+        "id": "1098972298677980056"
+      },
+      "created_at": "2025-06-30T17:04:22.017Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi Should this be a button type? This UI acts more like a button than search itself. Since it does not allow the user to type into it as described here: https://www.magentaa11y.com/#/native-criteria/controls/search?tab=3\nI see that #7 is a button. So if voice reader, reads out \"Search or enter address, button\" does that meet the a11y reqs?\ncc: @Christopher Logan",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 131,
+          "y": 949
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1220107262",
+      "uuid": "689dc35c-6ab8-42d7-8596-1e850bcdc638",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-04-16T14:59:26.683Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan I think we need to update this icon",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12103:8243",
+        "node_offset": {
+          "x": 369,
+          "y": 549
+        },
+        "stable_path": [
+          "12103:8243"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1168180149",
+      "uuid": "324bbd7c-4ce2-48eb-89c8-439fcdc5adb1",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-11T16:30:36.860Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan I think we could have the item 1 as:\n* Name: [use on-screen string, i.e. Google Sponsored]\n* Role: Button\n* Note: use a hint to communicate the additional actions, i.e. \"Double tap to remove, tap and hold to drag\" (the iOS own home edit mode includes only the \"tap and hold to drag\", so the removal is not clear and not expected, so we could do better without making the navigation tedious)\n\nAnd the 1a and 1b could be marked as \"Presentational\" so they are not expected to be focused separately. Basically, while we would ideally use `-` button as a separate control, because there may be multiple shortcuts on-screen available, users would have to navigate tediously twice to pass by each shortcut, and this would be more difficult. Since the removal is (expected to be) included in a tap action without a screen reader, double-tap with a screen reader would do it too. LMK if you have any questions",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10139:15887",
+        "node_offset": {
+          "x": 356,
+          "y": 196
+        },
+        "stable_path": [
+          "10139:15887"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1168169498",
+      "uuid": "d22fa0bf-6be1-4808-bee8-1f833502c6f0",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-11T16:25:27.572Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan would we have here something like iOS Home page > Edit mode has: buttons \"Edit\" and \"Done\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12240:16197",
+        "node_offset": {
+          "x": 366,
+          "y": 62
+        },
+        "stable_path": [
+          "12240:16197"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1162160015",
+      "uuid": "33674723-f926-4766-899b-b990d5bdc923",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-06T17:43:23.646Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan I'm not able to edit this but \"Open in New Tab\" and \"Open in a Private Tab\" should be title case",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12240:16174",
+        "node_offset": {
+          "x": 88,
+          "y": 138
+        },
+        "stable_path": [
+          "12240:16174"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1160450688",
+      "uuid": "060b5944-3dbe-4a56-aaae-44408a12d1eb",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-05T21:39:37.271Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan could you tell me more about what it would be doing? ATM there is no visual indication for any action, so I am not sure how discoverable any action would be for sighted users (i.e. for a Switch Control user) + how a screen reader user would get to do it too.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 182,
+          "y": 1712
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1160448124",
+      "uuid": "b7c3dad8-2ed3-4832-a0d2-b226dbc95da7",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-05T21:37:36.813Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan how many items do we expect to have in the carousel here? I'd say if it would be limited to like 3 stories, maybe we could just use a list/table view for it and have each story to be separately focusable with VoiceOver. But if we expect there would be more stories, then a carousel with its built-in gestures would be needed, so a user would not have to swipe ten times to just bypass this section",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 263,
+          "y": 1458
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1160442986",
+      "uuid": "5b48caca-04fe-4ae4-9503-5229a4ef8486",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-05T21:33:20.372Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan maybe we could find it more descriptive label, i.e. \"Scan with Google Lens\" or similar, to better describe the functionality of this button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 205,
+          "y": 1235
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1160426133",
+      "uuid": "c915e2ac-888d-451f-99ca-2d499a993f6b",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-05T21:19:38.610Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan I moved the item 4 a bit:\n1. Basically, we want the 4 item as it is now to be focusable with VoiceOver, then. the 4C is separate control (I would use \"5\" for it - see below).\n2. Thank you for marking the 4a image as \"presentation\" - we need to make sure it's not focusable with VO by itself! If you could add a \"Note\" section in this annotation block and add a MagentA11y Decorative images example link - this would be great engineering/QA note too\n3. 4b we could mark as \"placeholder\" but TBH we could just remove it altogether from the annotations, since we have \"4\" there and it would be just an internal part of it (should not be separately focusable)\n4. Item \"4\" that is a search field should have \"Name: [use on-screen placeholder string]\" and \"Role: Search Field\" - if you could add a \"Note\" in the annotation and provide a MagentA11y Search Field example link for engineers and QA folks to reference - this would be great. We'd expect VO to focus the field (excluding the google lens icon) and announce: \"Search or enter address, Search field\"\n5. Item \"4c\" should be \"5\" because it would be a separate focusable element: it is a button, but @Christopher Logan we have to give it a human-redable, informative name, i.e. \"Name: Use Google Lens to search\" or similar - we need to provide an action that user would do if this button is activated",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 197,
+          "y": 452
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1160407441",
+      "uuid": "80b32919-fc0e-4598-ac5c-272a637369dd",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-05T21:04:41.655Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan here we could use the \"Role: list/group\" and \"Name: Shortcuts\", so when a VoiceOver user focuses the first item in the list, they hear something like: \"Shortcuts, [Google, sponsored], button\" - similarly to the iOS Messages app when there are pinned items. The second and following buttons would not announce the label of the list anymore.\n\nAlso, we'd need items like \"3a\" for Google, \"3b\" for Amazon etc., i.e.\n* 3a\n* Name: \"[use on-screen string], Sponsored\"\n* Role: button\nthen:\n* 3b\n* Name: \"[use on-screen string], Sponsored\"\n* Role: button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 268,
+          "y": 325
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1615955731",
+      "uuid": "ac499a2c-06cd-443b-95b7-88af9052f9d2",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2026-02-03T12:13:03.206Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan re contrast issue with toolbar, yes! good point, what about just using 'surface' for the search box?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19425:11352",
+        "node_offset": {
+          "x": 292,
+          "y": 819
+        },
+        "stable_path": [
+          "19425:11352"
+        ]
+      },
+      "order_id": "139"
+    },
+    {
+      "id": "1597726562",
+      "uuid": "1456128b-76da-4aad-84fc-698852efe99a",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2026-01-21T16:25:55.030Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan not sure if this passes contrast, is this our regular component?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17763:63700",
+        "node_offset": {
+          "x": 224,
+          "y": 458
+        },
+        "stable_path": [
+          "17763:63700"
+        ]
+      },
+      "order_id": "111"
+    },
+    {
+      "id": "1468166269",
+      "uuid": "d8363dd7-c803-4d26-981a-2e3ed43a07bf",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-14T20:30:27.434Z",
+      "resolved_at": null,
+      "message": "I actually don't mind the version that adds a contrasting color that vibes with the image. Not sure about how accessible it is, but it gives the homepage a cohesive and custom look.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15618:9298",
+        "node_offset": {
+          "x": 362,
+          "y": 339
+        },
+        "stable_path": [
+          "15618:9298"
+        ]
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "1468163781",
+      "uuid": "e843f5a8-76b2-408b-8346-fe69ef4ee376",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-14T20:28:39.864Z",
+      "resolved_at": null,
+      "message": "Rewrite: Adjust the wallpaper contrast to make text easier to read.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17547:23129",
+        "node_offset": {
+          "x": 351,
+          "y": 748
+        },
+        "stable_path": [
+          "17547:23129"
+        ]
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "1468162508",
+      "uuid": "e5af9c03-1e38-427c-b68f-01c62d7d33e6",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-14T20:27:41.445Z",
+      "resolved_at": null,
+      "message": "Relabel to \"Wallpaper contrast\" (if that is what is being adjusted)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17547:23129",
+        "node_offset": {
+          "x": 209,
+          "y": 667
+        },
+        "stable_path": [
+          "17547:23129"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "1468161249",
+      "uuid": "16aa998b-c61e-4e02-8169-6466ffc23ebf",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-14T20:26:46.327Z",
+      "resolved_at": null,
+      "message": "Maybe include edit & delete options? Edit allows for recropping & updating of contrast. Def need a delete option.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16847:9294",
+        "node_offset": {
+          "x": 211,
+          "y": 608
+        },
+        "stable_path": [
+          "16847:9294"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "1338493771",
+      "uuid": "47d0c783-7a63-4d6f-aedf-3a9ce69583ca",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-07-14T14:19:35.360Z",
+      "resolved_at": null,
+      "message": "@Rick Russie you may have intended this but I think we should consider having the card be the item that makes the transition/animation into the tabs icon in the toolbar (rather than the (+) button)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14213:11001",
+        "node_offset": {
+          "x": 267,
+          "y": 620
+        },
+        "stable_path": [
+          "14213:11001"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1330861680",
+      "uuid": "c03fcb49-49e0-4a48-b4f2-3015b3c9493b",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Jamie Sigadel",
+        "img_url": "https://www.gravatar.com/avatar/53c8c0a1d0c0f42134e8d49ced9aecb6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1403078798096954142"
+      },
+      "created_at": "2025-07-08T15:36:33.615Z",
+      "resolved_at": null,
+      "message": "Going off what Emily mentioned, I wonder if framing this in a way other than \"Top Stories\" may indicate more of an immersive/carousel type of experience.. Not sure how opinionated we want to get as far as tying this to Firefox\n\nBut for example, with Pocket there was more of an expectation of \"here's content we specifically curated\"",
+      "reactions": [
+        {
+          "emoji": ":eyes:",
+          "created_at": "2025-07-08T16:02:27.698Z",
+          "user": {
+            "id": "1038486177349410999",
+            "handle": "Alex Schumacher",
+            "img_url": "https://www.gravatar.com/avatar/f12e1e8656e9147fd51b60c3b417bc90?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "13933:14664",
+        "node_offset": {
+          "x": 378,
+          "y": 669
+        },
+        "stable_path": [
+          "13933:14664"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1325658791",
+      "uuid": "29598ce3-4156-409d-89dd-132756337cb3",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-03T17:48:17.167Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan Thank you for drafting the options here, Chris! \n\nAvoiding truncation is an important part of the WCAG 2.2 compliance at the (baseline) Level A covered by the Success Criterion 1.4.4 Resize Text. It allows users with low vision to be able to access the same amount of information that other users would get, even when they are explicitly setting their own iOS settings to show larger fonts. \n\nBeyond providing an equal access to information, this is also something that is required for any accessibility compliance, either Section 508 in the US, EAA in EU, or the corresponding legal requirements enforced in India, Japan, Australia, etc. They all use WCAG 2.0 or 2.1, aiming to 2.2 for both Levels A and AA - and this criterion has been included even in the earlier versions of WCAG.\n\nIf we want to avoid stretching the titles for tiles on larger fonts, we could reflow the tiles section from 4 in a row to 3 and 2, or even 1 a row. This would still satisfy both the Resize Text and WCAG 2.2 Level AA SC 1.4.10 Reflow. While this appearance may not provide as compact view as it is on a \"regular\" font size, users who are proactively searching for larger font sizes are not expecting (and, per user feedback/research, do not like) those compact appearance because for them it means they would miss out on important information for something that is readily available for users with a better eyesight. These users are okay and expect and prefer to scroll the page. Oftentimes, users who find the content being cut or lost would choose an alternative application that does not limit their ability to access Internet independently.\n\nTo observe a user of screen magnification who is also relying on a large font size, I recommend to review the demo recorded by a Fable tester Carrie (on Android, but the same result and feedback would be on iOS device too) - the course and this video are available for any Mozillian with SSO, just use your SSO email to log in. \n\nThere is a self-guided task in-progress with Fable for a user with iOS Magnification to do standard browsing actions with Firefox on iOS, it should be available by Tuesday, July 8th in the Fable platform. Also, an example of a feedback on the small UI size provided by a user relying on a large font size and, when needed, magnification that was recently shared in a Compatibility Test for Firefox iOS as well:\n\"The close button used to exit the carousel after reviewing all the  onboarding slides in Firefox was very small. The X to close the welcome slides, which highlight Firefox features after downloading the app, was difficult to locate. After reading all the slides, I had to magnify the screen just to find the close button, and even then, I had to keep the screen zoomed in to tap it accurately, as the touch target area was quite small. I recommend increasing the size of the close button to make it more perceivable and easier to interact with.\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10144:17064",
+        "node_offset": {
+          "x": 1678,
+          "y": 81
+        },
+        "stable_path": [
+          "10144:17064"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1321782737",
+      "uuid": "e1acb5d1-0106-499c-89af-063581052c7d",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T17:00:35.690Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Could you please remind me which option for the sheet grabber did you decide to use for the iOS? I cannot recall which review that we had this conversation recently, I am sorry - I'll write it down for the future reference this time, I promise :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12176:23938",
+        "node_offset": {
+          "x": 120,
+          "y": 110
+        },
+        "stable_path": [
+          "12176:23938"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1321772120",
+      "uuid": "6b73b4ac-b069-40e7-892f-96c0634eaacb",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T16:52:45.620Z",
+      "resolved_at": null,
+      "message": "eng note: this item should receive VoiceOver focus as one element\n\n(the inner items are marked as \"arrow key navigation\" only to indicate they should not be separately focusable with VO within our Figma annotation component limitations)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12176:23811",
+        "node_offset": {
+          "x": 225,
+          "y": 442
+        },
+        "stable_path": [
+          "12176:23811"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1321766003",
+      "uuid": "e49fd471-52c6-4e3e-9b29-092b7ad69c90",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T16:48:23.249Z",
+      "resolved_at": null,
+      "message": "eng note: these are likely to be already labeled by the iOS, and do not need to be customized",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12165:23753",
+        "node_offset": {
+          "x": 237,
+          "y": 1097
+        },
+        "stable_path": [
+          "12165:23753"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1321764045",
+      "uuid": "69949460-0ecc-4d01-a9ef-ed4a89dabfb1",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T16:47:01.644Z",
+      "resolved_at": null,
+      "message": "Not focusable / Presentational",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12165:23753",
+        "node_offset": {
+          "x": 194,
+          "y": 538
+        },
+        "stable_path": [
+          "12165:23753"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1321763675",
+      "uuid": "d66ad4a7-1daf-4677-84a1-f068dee6e5e7",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T16:46:47.174Z",
+      "resolved_at": null,
+      "message": "Focusable",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12165:23753",
+        "node_offset": {
+          "x": 209,
+          "y": 867
+        },
+        "stable_path": [
+          "12165:23753"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1321763562",
+      "uuid": "870362c4-1348-4172-8603-f05f50e513b6",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T16:46:41.609Z",
+      "resolved_at": null,
+      "message": "Role: search / text field \nName: [use on-screen placeholder text as a label]\nFocusable",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12165:23753",
+        "node_offset": {
+          "x": 191,
+          "y": 769
+        },
+        "stable_path": [
+          "12165:23753"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1321762117",
+      "uuid": "ac8875cf-128c-4902-a566-527c9d3099b2",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T16:45:39.431Z",
+      "resolved_at": null,
+      "message": "Role: header",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12165:23753",
+        "node_offset": {
+          "x": 162,
+          "y": 355
+        },
+        "stable_path": [
+          "12165:23753"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1321761201",
+      "uuid": "53651a3e-3506-4572-b79c-c43f7335de88",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T16:44:59.306Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan probably too late for this iteration, but for the future designs, would that be possible to add any visual identification for these controls, so sighted VoiceOver users (i.e. those with cognitive disabilities) and other sighted users with and without any assistive technology could also benefit from knowing about this control? I.e. make it look like \"X\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12240:13368",
+        "node_offset": {
+          "x": 290,
+          "y": 438
+        },
+        "stable_path": [
+          "12240:13368"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1321758100",
+      "uuid": "055eeb7e-c1fb-4f58-ae1d-debb0c533aa6",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T16:42:40.931Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan and @Cyndi Chin I added this bright note for the long-tap actions and their access via VoiceOver Rotor Actions menu. And included a link to Jira where we discussed it with @Matt Lichtenstein. In iOS 18.5 and, I assume, further, the `actions available` system hint is announced by default, so we do not have to override the system hints anymore, yay! LMK if you have questions and feel free to move the note to whatever place/format would be more convenient to you ;)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13732:19013",
+        "node_offset": {
+          "x": 502,
+          "y": 17
+        },
+        "stable_path": [
+          "13732:19013"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1319910535",
+      "uuid": "0d4a8daa-95c3-4b6e-9cbe-2661dc02848a",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Cyndi Chin",
+        "img_url": "https://s3-alpha.figma.com/profile/c9778bcf-098d-499c-98ac-8c399f0d014b",
+        "id": "1098972298677980056"
+      },
+      "created_at": "2025-06-30T17:04:22.017Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi Should this be a button type? This UI acts more like a button than search itself. Since it does not allow the user to type into it as described here: https://www.magentaa11y.com/#/native-criteria/controls/search?tab=3\nI see that #7 is a button. So if voice reader, reads out \"Search or enter address, button\" does that meet the a11y reqs?\ncc: @Christopher Logan",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 131,
+          "y": 949
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1168180149",
+      "uuid": "324bbd7c-4ce2-48eb-89c8-439fcdc5adb1",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-11T16:30:36.860Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan I think we could have the item 1 as:\n* Name: [use on-screen string, i.e. Google Sponsored]\n* Role: Button\n* Note: use a hint to communicate the additional actions, i.e. \"Double tap to remove, tap and hold to drag\" (the iOS own home edit mode includes only the \"tap and hold to drag\", so the removal is not clear and not expected, so we could do better without making the navigation tedious)\n\nAnd the 1a and 1b could be marked as \"Presentational\" so they are not expected to be focused separately. Basically, while we would ideally use `-` button as a separate control, because there may be multiple shortcuts on-screen available, users would have to navigate tediously twice to pass by each shortcut, and this would be more difficult. Since the removal is (expected to be) included in a tap action without a screen reader, double-tap with a screen reader would do it too. LMK if you have any questions",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10139:15887",
+        "node_offset": {
+          "x": 356,
+          "y": 196
+        },
+        "stable_path": [
+          "10139:15887"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1168169498",
+      "uuid": "d22fa0bf-6be1-4808-bee8-1f833502c6f0",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-11T16:25:27.572Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan would we have here something like iOS Home page > Edit mode has: buttons \"Edit\" and \"Done\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12240:16197",
+        "node_offset": {
+          "x": 366,
+          "y": 62
+        },
+        "stable_path": [
+          "12240:16197"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1160450688",
+      "uuid": "060b5944-3dbe-4a56-aaae-44408a12d1eb",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-05T21:39:37.271Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan could you tell me more about what it would be doing? ATM there is no visual indication for any action, so I am not sure how discoverable any action would be for sighted users (i.e. for a Switch Control user) + how a screen reader user would get to do it too.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 182,
+          "y": 1712
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1160448124",
+      "uuid": "b7c3dad8-2ed3-4832-a0d2-b226dbc95da7",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-05T21:37:36.813Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan how many items do we expect to have in the carousel here? I'd say if it would be limited to like 3 stories, maybe we could just use a list/table view for it and have each story to be separately focusable with VoiceOver. But if we expect there would be more stories, then a carousel with its built-in gestures would be needed, so a user would not have to swipe ten times to just bypass this section",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 263,
+          "y": 1458
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1160442986",
+      "uuid": "5b48caca-04fe-4ae4-9503-5229a4ef8486",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-05T21:33:20.372Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan maybe we could find it more descriptive label, i.e. \"Scan with Google Lens\" or similar, to better describe the functionality of this button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 205,
+          "y": 1235
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1160426133",
+      "uuid": "c915e2ac-888d-451f-99ca-2d499a993f6b",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-05T21:19:38.610Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan I moved the item 4 a bit:\n1. Basically, we want the 4 item as it is now to be focusable with VoiceOver, then. the 4C is separate control (I would use \"5\" for it - see below).\n2. Thank you for marking the 4a image as \"presentation\" - we need to make sure it's not focusable with VO by itself! If you could add a \"Note\" section in this annotation block and add a MagentA11y Decorative images example link - this would be great engineering/QA note too\n3. 4b we could mark as \"placeholder\" but TBH we could just remove it altogether from the annotations, since we have \"4\" there and it would be just an internal part of it (should not be separately focusable)\n4. Item \"4\" that is a search field should have \"Name: [use on-screen placeholder string]\" and \"Role: Search Field\" - if you could add a \"Note\" in the annotation and provide a MagentA11y Search Field example link for engineers and QA folks to reference - this would be great. We'd expect VO to focus the field (excluding the google lens icon) and announce: \"Search or enter address, Search field\"\n5. Item \"4c\" should be \"5\" because it would be a separate focusable element: it is a button, but @Christopher Logan we have to give it a human-redable, informative name, i.e. \"Name: Use Google Lens to search\" or similar - we need to provide an action that user would do if this button is activated",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 197,
+          "y": 452
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1160407441",
+      "uuid": "80b32919-fc0e-4598-ac5c-272a637369dd",
+      "file_key": "nWEkUkgkBKnL122zEiacK9",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-05T21:04:41.655Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan here we could use the \"Role: list/group\" and \"Name: Shortcuts\", so when a VoiceOver user focuses the first item in the list, they hear something like: \"Shortcuts, [Google, sponsored], button\" - similarly to the iOS Messages app when there are pinned items. The second and following buttons would not announce the label of the list anymore.\n\nAlso, we'd need items like \"3a\" for Google, \"3b\" for Amazon etc., i.e.\n* 3a\n* Name: \"[use on-screen string], Sponsored\"\n* Role: button\nthen:\n* 3b\n* Name: \"[use on-screen string], Sponsored\"\n* Role: button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 268,
+          "y": 325
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "1"
+    }
+  ]
+}

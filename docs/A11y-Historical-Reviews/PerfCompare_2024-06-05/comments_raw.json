@@ -1,0 +1,1843 @@
+{
+  "unresolved": [
+    {
+      "id": "827601457",
+      "uuid": "139e57d4-0044-4ec4-be90-c2bf992881d0",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-06-04T15:33:09.262Z",
+      "resolved_at": null,
+      "message": "Update title to search results",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2862:114989",
+        "node_offset": {
+          "x": 18499,
+          "y": 630
+        },
+        "stable_path": [
+          "2862:114989"
+        ]
+      },
+      "order_id": "101"
+    },
+    {
+      "id": "824467026",
+      "uuid": "8bfbd59d-5583-4a3f-915a-74b51c34754c",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-05-31T23:18:43.427Z",
+      "resolved_at": null,
+      "message": "@Kala Severe I am gonna have to think more about this view next monday. I am just thinking about how we currently populate results here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "212:12970",
+        "node_offset": {
+          "x": 745,
+          "y": 990
+        },
+        "stable_path": [
+          "212:12970"
+        ]
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "819711876",
+      "uuid": "43aaad35-02e5-43b6-a6be-779843730b35",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Kala Severe",
+        "img_url": "https://s3-alpha.figma.com/profile/8c6f5d51-8d2d-478a-87c3-aefd3ef88852",
+        "id": "1004497247362000574"
+      },
+      "created_at": "2024-05-28T21:06:47.781Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko can we remove this 'Apply' button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "212:13155",
+        "node_offset": {
+          "x": 658,
+          "y": 824
+        },
+        "stable_path": [
+          "212:13155"
+        ]
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "819710674",
+      "uuid": "6cafeb33-38f7-4a4e-a0da-e1a604d4b3c9",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Kala Severe",
+        "img_url": "https://s3-alpha.figma.com/profile/8c6f5d51-8d2d-478a-87c3-aefd3ef88852",
+        "id": "1004497247362000574"
+      },
+      "created_at": "2024-05-28T21:05:27.033Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko can we add a base select repository here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "212:12845",
+        "node_offset": {
+          "x": 306,
+          "y": 818
+        },
+        "stable_path": [
+          "212:12845"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "798170687",
+      "uuid": "4ee9b702-087e-4a95-9840-86226a9967a1",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2024-05-09T15:25:11.858Z",
+      "resolved_at": null,
+      "message": "We also need the feature where we search by title.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2984:38873",
+        "node_offset": {
+          "x": 189,
+          "y": 224
+        },
+        "stable_path": [
+          "2984:38873"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "798169083",
+      "uuid": "ee074f0b-610f-4498-86ec-f0f47f16a7ee",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2024-05-09T15:24:02.827Z",
+      "resolved_at": null,
+      "message": "This dropdown doesn't make sense in this view so we should remove it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2984:38873",
+        "node_offset": {
+          "x": 931,
+          "y": 300
+        },
+        "stable_path": [
+          "2984:38873"
+        ]
+      },
+      "order_id": "94"
+    },
+    {
+      "id": "798166488",
+      "uuid": "873af202-11f9-466d-ac76-4013d6bd6a72",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Kala Severe",
+        "img_url": "https://s3-alpha.figma.com/profile/8c6f5d51-8d2d-478a-87c3-aefd3ef88852",
+        "id": "1004497247362000574"
+      },
+      "created_at": "2024-05-09T15:22:13.346Z",
+      "resolved_at": null,
+      "message": "Since users can change the framekwork on the results table, it might be confusing to have it edit view as well",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2833:112266",
+        "node_offset": {
+          "x": 184,
+          "y": 230.5
+        },
+        "stable_path": [
+          "2833:112266"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "788209280",
+      "uuid": "79ae8db3-6a22-4d6b-be19-14ebb3ebc37a",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-30T15:23:27.126Z",
+      "resolved_at": null,
+      "message": "@Andra Esanu @Kala Severe @Julien Wajsberg \n\nwhat title would you like this new tittle to say?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2862:114989",
+        "node_offset": {
+          "x": 2992,
+          "y": 163
+        },
+        "stable_path": [
+          "2862:114989"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "788183956",
+      "uuid": "551aec0b-e874-4324-a4d7-93eb80b0c1f1",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-30T15:07:14.155Z",
+      "resolved_at": null,
+      "message": "With new tab don't include. When we are able to implement this such that it opens in the same tab and rederects back to the exact place where user ended scrolling, we can include the crumbs.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2826:109721",
+        "node_offset": {
+          "x": 102,
+          "y": 24
+        },
+        "stable_path": [
+          "2826:109721"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "783547901",
+      "uuid": "1874866a-be37-4568-853f-da500827c286",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-25T15:17:59.629Z",
+      "resolved_at": null,
+      "message": "we expect to see thumb up/down/ neutral.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2862:114989",
+        "node_offset": {
+          "x": 3515,
+          "y": 934
+        },
+        "stable_path": [
+          "2862:114989"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "783547440",
+      "uuid": "74cef92d-2f19-478d-a98e-83be34d85ef2",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-25T15:17:43.793Z",
+      "resolved_at": null,
+      "message": "We could colour code these for skimmability.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2862:114989",
+        "node_offset": {
+          "x": 3307,
+          "y": 1041
+        },
+        "stable_path": [
+          "2862:114989"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "783541799",
+      "uuid": "d9590bf0-11c9-4f0c-b834-793bad219832",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-25T15:14:16.128Z",
+      "resolved_at": null,
+      "message": "What icon should we put?\n* test harness \n* They run different types of tests.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2896:39817",
+        "node_offset": {
+          "x": 600,
+          "y": 225
+        },
+        "stable_path": [
+          "2896:39817"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "783017634",
+      "uuid": "f0927c5d-9e72-4df1-9892-6e725be69227",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2024-04-25T09:54:01.486Z",
+      "resolved_at": null,
+      "message": "I think we also need the garaph icon for each result.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2862:114989",
+        "node_offset": {
+          "x": 6726,
+          "y": 406
+        },
+        "stable_path": [
+          "2862:114989"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "783010518",
+      "uuid": "8dd669db-6ca2-4097-9a0c-87a1441ffe53",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2024-04-25T09:50:01.382Z",
+      "resolved_at": null,
+      "message": "I believe we are missing the retrigger button per subtest.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2862:114989",
+        "node_offset": {
+          "x": 6278,
+          "y": 280
+        },
+        "stable_path": [
+          "2862:114989"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "782211183",
+      "uuid": "b728ed96-d372-466d-915d-2faf1360a212",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Kala Severe",
+        "img_url": "https://s3-alpha.figma.com/profile/8c6f5d51-8d2d-478a-87c3-aefd3ef88852",
+        "id": "1004497247362000574"
+      },
+      "created_at": "2024-04-24T18:54:32.325Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko the \"Confidence\" and \"Status\" texts should be color coded per @Gregory Mierzwinski recommendation.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2862:114989",
+        "node_offset": {
+          "x": 3533,
+          "y": 933
+        },
+        "stable_path": [
+          "2862:114989"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "782101890",
+      "uuid": "6a27a51c-0c5e-4bfa-b348-8505435bfc84",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Gregory Mierzwinski",
+        "img_url": "https://www.gravatar.com/avatar/61b926c3dcbb431052ec980f30a2a458?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "1197896585722000763"
+      },
+      "created_at": "2024-04-24T17:26:23.411Z",
+      "resolved_at": null,
+      "message": "There are potentially quite a few tables to jump/query through to be able to tell if the tests are still running. Also, it's possible that a test takes a very long time and hits a task timeout.\n\nI think it would be better to show just a loading icon to the left/right of the `B: XX N: XX` to show that there is something running in the push at the moment. This one query could then be shown on all tests within that push.\n\nThat said, I'm not entirely sure how/where it may be best to display the loading icon though. Another option is to add an icon/something next to the revision to show that tests are still running.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2862:114989",
+        "node_offset": {
+          "x": 13592,
+          "y": 1005
+        },
+        "stable_path": [
+          "2862:114989"
+        ],
+        "region_width": 132,
+        "region_height": 64,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "782096566",
+      "uuid": "866b02a0-752f-4f18-94ba-858f2ac6051d",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Gregory Mierzwinski",
+        "img_url": "https://www.gravatar.com/avatar/61b926c3dcbb431052ec980f30a2a458?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "1197896585722000763"
+      },
+      "created_at": "2024-04-24T17:22:22.440Z",
+      "resolved_at": null,
+      "message": "We should only allow 1 retrigger at a time. The reason we currently have it as 1 retrigger on the compare view side is that devs tend to go overboard with the number of retriggers which causes issues for CI capacity.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2862:114989",
+        "node_offset": {
+          "x": 12493,
+          "y": 531
+        },
+        "stable_path": [
+          "2862:114989"
+        ],
+        "region_width": 987,
+        "region_height": 241,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "782035825",
+      "uuid": "fa33d6d5-9363-4c22-b511-fc4496258cf0",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Kala Severe",
+        "img_url": "https://s3-alpha.figma.com/profile/8c6f5d51-8d2d-478a-87c3-aefd3ef88852",
+        "id": "1004497247362000574"
+      },
+      "created_at": "2024-04-24T16:34:25.327Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko we could also move this sign in flow to the top, right?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2826:109727",
+        "node_offset": {
+          "x": 446,
+          "y": 384
+        },
+        "stable_path": [
+          "2826:109727"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "780498350",
+      "uuid": "ae5beb2a-f81a-4f0f-a432-77a51a85edba",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-23T18:45:37.911Z",
+      "resolved_at": null,
+      "message": "Are there any more changes that we have to add to this table?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2862:114989",
+        "node_offset": {
+          "x": 6066,
+          "y": 397
+        },
+        "stable_path": [
+          "2862:114989"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "780227348",
+      "uuid": "13609e7d-4f6f-4c59-a92c-ae3347938beb",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-23T15:24:19.071Z",
+      "resolved_at": null,
+      "message": "Add include these",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2826:109724",
+        "node_offset": {
+          "x": 456,
+          "y": 61
+        },
+        "stable_path": [
+          "2826:109724"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "780225054",
+      "uuid": "e4385e71-888d-44db-bd65-032cc92f6743",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-23T15:23:03.604Z",
+      "resolved_at": null,
+      "message": "sounds like we might need to expand graphs",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2826:109724",
+        "node_offset": {
+          "x": 325,
+          "y": 168
+        },
+        "stable_path": [
+          "2826:109724"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "780217776",
+      "uuid": "609b93b1-26fe-4b85-9c29-9120ccbccced",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-23T15:19:05.891Z",
+      "resolved_at": null,
+      "message": "Add frame work here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2826:109709",
+        "node_offset": {
+          "x": 104,
+          "y": 438
+        },
+        "stable_path": [
+          "2826:109709"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "778969960",
+      "uuid": "d3436149-76a6-4fb0-8d62-40118bfea19c",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-22T21:12:32.518Z",
+      "resolved_at": null,
+      "message": "This should apply to all icon buttons.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-04-22T21:40:34.053Z",
+          "user": {
+            "id": "1004497247362000574",
+            "handle": "Kala Severe",
+            "img_url": "https://s3-alpha.figma.com/profile/8c6f5d51-8d2d-478a-87c3-aefd3ef88852"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2835:114632",
+        "node_offset": {
+          "x": 34,
+          "y": 49
+        },
+        "stable_path": [
+          "2835:114632"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "775453695",
+      "uuid": "59d94748-4b5e-4c38-9f16-09f104639d56",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-18T18:36:40.191Z",
+      "resolved_at": null,
+      "message": "It looks like this actually won't automatically update the results here. \n\nSeems like for you to see the results they'd need to open a new site.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2796:33258",
+        "node_offset": {
+          "x": 873,
+          "y": 369
+        },
+        "stable_path": [
+          "2796:33258"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "775440614",
+      "uuid": "7be9f5b5-b901-4082-8cb7-17469d3f9e50",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-18T18:25:45.398Z",
+      "resolved_at": null,
+      "message": "Add an info card explaining why something is disabled.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2783:24220",
+        "node_offset": {
+          "x": 547,
+          "y": 321
+        },
+        "stable_path": [
+          "2783:24220"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "775439135",
+      "uuid": "d1e3bc9b-5ffa-4114-9522-87c20e702600",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-18T18:24:36.298Z",
+      "resolved_at": null,
+      "message": "Makes sure we include a disabled state as well.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2783:24220",
+        "node_offset": {
+          "x": 553,
+          "y": 382
+        },
+        "stable_path": [
+          "2783:24220"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "775434348",
+      "uuid": "fb898b63-6484-48e2-9ccb-58bbe673ad5d",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-18T18:20:45.816Z",
+      "resolved_at": null,
+      "message": "Re-direct vs open in new tab. \n* Open new tab for MVP\n*",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2780:19016",
+        "node_offset": {
+          "x": 1905,
+          "y": 231
+        },
+        "stable_path": [
+          "2780:19016"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "775432583",
+      "uuid": "a1b2683e-bd97-48d7-8f46-1b3a8c035a86",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-18T18:19:20.025Z",
+      "resolved_at": null,
+      "message": "* We have 2 log in instances. \n* User not logged into taskcluster. and another is they are logged in but we need to start a new instance.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2780:15779",
+        "node_offset": {
+          "x": 648,
+          "y": 551
+        },
+        "stable_path": [
+          "2780:15779"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "775422267",
+      "uuid": "103e771b-3ce2-4fb7-8633-7e747676299d",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-18T18:11:09.009Z",
+      "resolved_at": null,
+      "message": "We won't be able to show % progress.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2796:32300",
+        "node_offset": {
+          "x": 866,
+          "y": 369
+        },
+        "stable_path": [
+          "2796:32300"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "764158907",
+      "uuid": "d40cd78e-1c28-46ae-bb09-e58d9c031bbb",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-09T17:21:01.888Z",
+      "resolved_at": null,
+      "message": "I've also added all the states of the button here. \n\n@Kala Severe",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2702:13110",
+        "node_offset": {
+          "x": 173,
+          "y": 23
+        },
+        "stable_path": [
+          "2702:13110"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "764158609",
+      "uuid": "f49aef91-bfb0-4197-9ab9-c19e56245be9",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-09T17:20:47.929Z",
+      "resolved_at": null,
+      "message": "I've enlarged the X and added all the colour states for you. \n\n@Kala Severe",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2703:14393",
+        "node_offset": {
+          "x": 129,
+          "y": 28
+        },
+        "stable_path": [
+          "2703:14393"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "764157661",
+      "uuid": "23704a40-6e3e-4d1d-9370-0fc1bb4f576d",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-04-09T17:20:02.810Z",
+      "resolved_at": null,
+      "message": "@Kala Severe \n* I was thinking again about the action of saying \"save and compare\" makes sense when you are editing and saving and then comparing, but it doesn't when you just land on this page.\nMy recco here is to still go with \"Compare\" or \"Compare with base\"\n\nWhat do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2702:12592",
+        "node_offset": {
+          "x": 986,
+          "y": 752
+        },
+        "stable_path": [
+          "2702:12592"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "385791256",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2023-03-06T20:41:03.394Z",
+      "resolved_at": null,
+      "message": "@Sereduck",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "279:38051",
+        "node_offset": {
+          "x": 1053,
+          "y": 156
+        }
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "385791141",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2023-03-06T20:40:52.947Z",
+      "resolved_at": null,
+      "message": "@Sereduck",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "279:38059",
+        "node_offset": {
+          "x": 976,
+          "y": 104
+        }
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "360774966",
+      "uuid": "b2b5c7e1-4649-4bcf-87d6-8889a0b82061",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-02-03T08:51:40.059Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko Based on what Jones suggested:\nRevisions (typically including your changes) to compare over a specified time range.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "212:12845",
+        "node_offset": {
+          "x": 363,
+          "y": 892
+        }
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "360129870",
+      "uuid": "d62b40e4-1b35-42ea-9b71-56457be9f20d",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Brian Jones",
+        "img_url": "https://www.gravatar.com/avatar/b10f293cf21366e5d44b55f0314b3d27?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1021782824403362369"
+      },
+      "created_at": "2023-02-02T15:39:42.822Z",
+      "resolved_at": null,
+      "message": "If this is the suggested error messaging, looks fine.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-02-03T08:47:38.199Z",
+          "user": {
+            "id": "1030098439394685440",
+            "handle": "Beatrice Acasandrei",
+            "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "195:11151",
+        "node_offset": {
+          "x": 407,
+          "y": 1019
+        },
+        "stable_path": [
+          "195:11151"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "360126443",
+      "uuid": "8475f7dc-7164-4c9e-81be-e2b42964db5c",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-02-02T15:36:51.890Z",
+      "resolved_at": null,
+      "message": "Do we need feedback after applying the filter?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "212:13155",
+        "node_offset": {
+          "x": 706,
+          "y": 826
+        }
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "360123768",
+      "uuid": "ad586c41-bb3c-4bd3-ad72-e1d6d30ebba1",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Brian Jones",
+        "img_url": "https://www.gravatar.com/avatar/b10f293cf21366e5d44b55f0314b3d27?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1021782824403362369"
+      },
+      "created_at": "2023-02-02T15:34:39.114Z",
+      "resolved_at": null,
+      "message": "Tooltip content:\nThe framework or test harness containing the test you want to examine.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-02-03T08:48:12.491Z",
+          "user": {
+            "id": "1030098439394685440",
+            "handle": "Beatrice Acasandrei",
+            "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png"
+          }
+        },
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-02-08T15:38:42.151Z",
+          "user": {
+            "id": "1086631132159980712",
+            "handle": "Andra Esanu",
+            "img_url": "https://www.gravatar.com/avatar/903ec9a1ceec4d16f3706f055297c481?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "193:11018",
+        "node_offset": {
+          "x": 511,
+          "y": 874
+        }
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "360114954",
+      "uuid": "daff8d34-4338-422b-b44c-b67278d234df",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Brian Jones",
+        "img_url": "https://www.gravatar.com/avatar/b10f293cf21366e5d44b55f0314b3d27?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1021782824403362369"
+      },
+      "created_at": "2023-02-02T15:27:26.780Z",
+      "resolved_at": null,
+      "message": "Tool tip content:\nRevisions (typically including your changes) to compare against the selected base revision.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-02-03T08:48:20.945Z",
+          "user": {
+            "id": "1030098439394685440",
+            "handle": "Beatrice Acasandrei",
+            "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png"
+          }
+        },
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-02-08T15:38:22.984Z",
+          "user": {
+            "id": "1086631132159980712",
+            "handle": "Andra Esanu",
+            "img_url": "https://www.gravatar.com/avatar/903ec9a1ceec4d16f3706f055297c481?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "193:11018",
+        "node_offset": {
+          "x": 490,
+          "y": 799
+        }
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "360111653",
+      "uuid": "aa6f59ae-d9f8-430f-a788-5819f79a5484",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Brian Jones",
+        "img_url": "https://www.gravatar.com/avatar/b10f293cf21366e5d44b55f0314b3d27?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1021782824403362369"
+      },
+      "created_at": "2023-02-02T15:24:36.869Z",
+      "resolved_at": null,
+      "message": "Tooltip content:\nThe baseline revision (no changes) your revision will be compared against.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-02-03T08:48:30.737Z",
+          "user": {
+            "id": "1030098439394685440",
+            "handle": "Beatrice Acasandrei",
+            "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png"
+          }
+        },
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-02-08T15:37:51.602Z",
+          "user": {
+            "id": "1086631132159980712",
+            "handle": "Andra Esanu",
+            "img_url": "https://www.gravatar.com/avatar/903ec9a1ceec4d16f3706f055297c481?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "193:11018",
+        "node_offset": {
+          "x": 474,
+          "y": 720
+        }
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "360103686",
+      "uuid": "43943596-86db-4156-abed-5e70411a6e69",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-02-02T15:18:08.624Z",
+      "resolved_at": null,
+      "message": "Small typo: Compare over time",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "212:13155",
+        "node_offset": {
+          "x": 393,
+          "y": 275
+        }
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "360076749",
+      "uuid": "52fc4f23-7028-42cc-9b3c-4e3ad9c86dd4",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-02-02T14:56:21.523Z",
+      "resolved_at": null,
+      "message": "After selecting a base how is the user restrained to choose a second one? since we have a limit of one base.\n\nFor the revisions we have a limit of three.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "195:11151",
+        "node_offset": {
+          "x": 1012,
+          "y": 751
+        }
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "358013256",
+      "uuid": "ac2d775d-45cb-46fe-8e3d-ae90b3d5b328",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2023-01-31T17:43:52.985Z",
+      "resolved_at": null,
+      "message": "What should this tool tip say? \n@Sereduck @Gregory Mierzwinski @Beatrice Acasandrei",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "212:14087",
+        "node_offset": {
+          "x": 809,
+          "y": 1123
+        }
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "358012108",
+      "uuid": "24e95eab-ebfe-49c5-963b-88a9361f1c98",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2023-01-31T17:42:39.989Z",
+      "resolved_at": null,
+      "message": "What should this tool tip say? \n@Sereduck @Gregory Mierzwinski @Beatrice Acasandrei",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "193:11018",
+        "node_offset": {
+          "x": 367,
+          "y": 887
+        }
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "358012067",
+      "uuid": "2768245f-834a-4baa-a8f1-00dab8f80b86",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2023-01-31T17:42:37.595Z",
+      "resolved_at": null,
+      "message": "What should this tool tip say? @Sereduck @Gregory Mierzwinski @Beatrice Acasandrei",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "193:11018",
+        "node_offset": {
+          "x": 369,
+          "y": 810
+        }
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "358012021",
+      "uuid": "543cd288-7d64-42a9-b753-7be976d56b57",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2023-01-31T17:42:33.789Z",
+      "resolved_at": null,
+      "message": "What should this tool tip say? \n@Sereduck @Gregory Mierzwinski @Beatrice Acasandrei",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "193:11018",
+        "node_offset": {
+          "x": 349,
+          "y": 665
+        }
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "356528009",
+      "uuid": "9d239a33-06b8-4c37-b7bf-c0dfa74f548d",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Sereduck",
+        "img_url": "https://www.gravatar.com/avatar/24366f7e28adf4338f5596abb1ea705a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1081305485718476016"
+      },
+      "created_at": "2023-01-30T11:52:20.600Z",
+      "resolved_at": null,
+      "message": "Bug 1809851 added the test but the tested 'overflow:overlay;' CSS rule...",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-01-30T14:46:20.163Z",
+          "user": {
+            "id": "1030098439394685440",
+            "handle": "Beatrice Acasandrei",
+            "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "212:16691",
+        "node_offset": {
+          "x": 765,
+          "y": 805
+        }
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "356512665",
+      "uuid": "561fd83f-7426-489b-b072-67983330c992",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Sereduck",
+        "img_url": "https://www.gravatar.com/avatar/24366f7e28adf4338f5596abb1ea705a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1081305485718476016"
+      },
+      "created_at": "2023-01-30T11:35:25.853Z",
+      "resolved_at": null,
+      "message": "\"compare results of performance tests with other revisions on the same repository over a specified time range\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "194:11152",
+        "node_offset": {
+          "x": 648,
+          "y": 741
+        }
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "356511297",
+      "uuid": "31534637-1412-40c9-b0f7-e492ee9d615a",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Sereduck",
+        "img_url": "https://www.gravatar.com/avatar/24366f7e28adf4338f5596abb1ea705a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1081305485718476016"
+      },
+      "created_at": "2023-01-30T11:33:59.193Z",
+      "resolved_at": null,
+      "message": "\"compare results of performance tests against a specific base revision\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "194:11152",
+        "node_offset": {
+          "x": 361,
+          "y": 644
+        }
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "355836569",
+      "uuid": "04fca52a-1860-41ff-8c46-a1eca25202e0",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Sereduck",
+        "img_url": "https://www.gravatar.com/avatar/24366f7e28adf4338f5596abb1ea705a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1081305485718476016"
+      },
+      "created_at": "2023-01-28T03:38:39.767Z",
+      "resolved_at": null,
+      "message": "Performance comparison tool used to analyze results of performance tests, and determine if a regression was caused.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "194:11152",
+        "node_offset": {
+          "x": 269,
+          "y": 296
+        }
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "353809442",
+      "uuid": "95b24232-5a2c-4dba-8c0a-4d73e3b2d1b1",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Gregory Mierzwinski",
+        "img_url": "https://www.gravatar.com/avatar/61b926c3dcbb431052ec980f30a2a458?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "1197896585722000763"
+      },
+      "created_at": "2023-01-25T19:45:02.010Z",
+      "resolved_at": null,
+      "message": "I just realized that one thing I didn't notice in the designs was the browser being tested (firefox, chrome, chromium, fenix, geckoview, etc..). No changes are needed because I think we could add a button/label around here to show which browser is tested.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "195:12057",
+        "node_offset": {
+          "x": 1148,
+          "y": 1072
+        },
+        "region_width": 995,
+        "region_height": 27,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "350413591",
+      "uuid": "4c7a6d81-9712-4396-a7a0-550bf0ed1552",
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Gregory Mierzwinski",
+        "img_url": "https://www.gravatar.com/avatar/61b926c3dcbb431052ec980f30a2a458?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "1197896585722000763"
+      },
+      "created_at": "2023-01-20T15:01:45.964Z",
+      "resolved_at": null,
+      "message": "Just a warning here that there's a couple fields that people will want to search through which are the subtest names, and the test names. Although I don't think that impacts this.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "249:27674",
+        "node_offset": {
+          "x": 381,
+          "y": 127
+        }
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "346959766",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Andra Esanu",
+        "img_url": "https://www.gravatar.com/avatar/903ec9a1ceec4d16f3706f055297c481?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1086631132159980712"
+      },
+      "created_at": "2023-01-17T08:50:59.400Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko do you think it would be useful to have a legend card somewhere that includes these static texts? This text would repeat itself based on confidence value (low, medium, high).\n@Sereduck what do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "141:16993",
+        "node_offset": {
+          "x": 1041,
+          "y": 1506
+        }
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "346943020",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Andra Esanu",
+        "img_url": "https://www.gravatar.com/avatar/903ec9a1ceec4d16f3706f055297c481?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1086631132159980712"
+      },
+      "created_at": "2023-01-17T08:33:26.130Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko the word 'test' is misleading for the devs, better just keep it Framework (a framework has a set of tests).\n@Sereduck what do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "104:9896",
+        "node_offset": {
+          "x": 252,
+          "y": 622
+        }
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "346160562",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-01-16T09:52:36.236Z",
+      "resolved_at": null,
+      "message": "4. @Dasha Andriyenko\nWe meant filter by test name, which is header of the 'mini-table', in our case 'Base Content Explicit'. \nNot sure which approach is better, to have a dropdown with options or a search input.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "141:16993",
+        "node_offset": {
+          "x": 960,
+          "y": 1235
+        }
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "346153085",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-01-16T09:45:18.975Z",
+      "resolved_at": null,
+      "message": "2. It is a download zip file per row in each table. I believe there are two zip files to be downloaded per row.\n\nSome frameworks might not have profiles and we won't show the download icon/s on those rows.\n\n@Sereduck ^",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "104:11247",
+        "node_offset": {
+          "x": 478,
+          "y": 25
+        }
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "346150470",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-01-16T09:42:53.531Z",
+      "resolved_at": null,
+      "message": "1. Yes - Just to keep in mind to mention the framework in the tables when 'All frameworks' is selected.\n\n@Sereduck ^",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "104:11247",
+        "node_offset": {
+          "x": 287,
+          "y": 1
+        }
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "346139546",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-01-16T09:32:11.424Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko \n3. We were thinking that the collapsible row should contain:\na. full platform name\nb.\n- one run -> display message \"Only one run (consider more for greater confidence)\"\n - more runs -> displays this graph\nc. the details from the delta and confidence tooltip found in Compare View",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "104:11247",
+        "node_offset": {
+          "x": 485,
+          "y": 53
+        }
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "346121681",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-01-16T09:14:36.240Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko I know that this is still in progress. We do like the design a lot! Very different from what we have, which we are excited about! \n\nFor the case where we have 'All revisions' selected -> each table should mention the new revision we compare against to be able to identify it. \nSame issue if we have 'All frameworks' selected.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-01-16T09:14:42.246Z",
+          "user": {
+            "id": "1086631132159980712",
+            "handle": "Andra Esanu",
+            "img_url": "https://www.gravatar.com/avatar/903ec9a1ceec4d16f3706f055297c481?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "94:10030",
+        "node_offset": {
+          "x": 1173,
+          "y": 823
+        }
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "345346472",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-01-13T15:53:20.358Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko I still think we need filtering by title.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "67:9906",
+        "node_offset": {
+          "x": 263,
+          "y": 1002
+        }
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "345346161",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-01-13T15:52:58.835Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko The framework and tags are the same for each mini-table (eg Base Content Explicit table). Do you have an idea of how to reduce the redundancy?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "67:9906",
+        "node_offset": {
+          "x": 661,
+          "y": 1034
+        }
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "345342076",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-01-13T15:48:13.227Z",
+      "resolved_at": null,
+      "message": "@Sereduck What do you think about this grouping? Is is accurate?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "74:8817",
+        "node_offset": {
+          "x": 270.0498046875,
+          "y": 139.3203125
+        }
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "345341207",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-01-13T15:47:15.413Z",
+      "resolved_at": null,
+      "message": "I've left here how me and @Andra Esanu would group them. \n1  is for Important identifier and so on.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "74:8817",
+        "node_offset": {
+          "x": 367.0498046875,
+          "y": 14.3203125
+        }
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "345338764",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-01-13T15:44:28.195Z",
+      "resolved_at": null,
+      "message": "4.\n- Graph View link to Perfherder\n- The other graph with distribution of values (from the tooltip) - not a link\n- Full platform name\n- Profile link",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "74:8741",
+        "node_offset": {
+          "x": 6010,
+          "y": 2876
+        }
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "345336499",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-01-13T15:41:56.984Z",
+      "resolved_at": null,
+      "message": "5.\n- Retrigger button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "74:8741",
+        "node_offset": {
+          "x": 6570,
+          "y": 2854
+        }
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "345334812",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-01-13T15:40:04.751Z",
+      "resolved_at": null,
+      "message": "3.\n- confidence\n- total runs",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "74:8741",
+        "node_offset": {
+          "x": 5553,
+          "y": 2790
+        }
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "345333978",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-01-13T15:39:06.654Z",
+      "resolved_at": null,
+      "message": "2. \n- base value\n- new value\n- status\n- delta",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "74:8741",
+        "node_offset": {
+          "x": 5060,
+          "y": 2844
+        }
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "345330393",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-01-13T15:35:08.731Z",
+      "resolved_at": null,
+      "message": "1.\n- title\n- framework\n- platform\n- tags? (in Perfherder's Compare View the tags are next to the test name)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "74:8741",
+        "node_offset": {
+          "x": 4554,
+          "y": 2717
+        }
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "345329391",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Beatrice Acasandrei",
+        "img_url": "https://www.gravatar.com/avatar/1810999d61cb12acb557755f1e91ce28?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1030098439394685440"
+      },
+      "created_at": "2023-01-13T15:33:59.183Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko I think our main concern is that the information that we want to display per row is piling up and a good option of hiding that is through this collapsible feature. \n\nWe left you a link in the slack channel. If you hover on the rows there's a lot of details that are not on this design. Some time ago we received the feedback that having to hover every single value is not something the engineers are keen to do - and we're trying to come up with another alternative. We still want to display the information from the tooltips found in Perfherder's Compare View.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "74:8741",
+        "node_offset": {
+          "x": 1539,
+          "y": 2472
+        }
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "345253080",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Andra Esanu",
+        "img_url": "https://www.gravatar.com/avatar/903ec9a1ceec4d16f3706f055297c481?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1086631132159980712"
+      },
+      "created_at": "2023-01-13T14:12:04.144Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko this downloads a zip file",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "74:8682",
+        "node_offset": {
+          "x": 1262,
+          "y": 797
+        }
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "345250866",
+      "uuid": null,
+      "file_key": "LRV76asSVOULlsWbRNZYp0",
+      "parent_id": "",
+      "user": {
+        "handle": "Andra Esanu",
+        "img_url": "https://www.gravatar.com/avatar/903ec9a1ceec4d16f3706f055297c481?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1086631132159980712"
+      },
+      "created_at": "2023-01-13T14:09:27.807Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko \n- The graph link redirect to Perherder's Graphs View that contains the results from the other test runs as well https://treeherder.mozilla.org/perfherder/graphs?highlightedRevisions=31122740c39d&highlightedRevisions=e5ed23660819&series=mozilla-central%2C97658f31bc20c9f12e8893592e0e829e93caf750%2C1%2C12&timerange=86400\n- the second one is a graph that illustrates the run results for this specific test.\n\nYou can see that the vertical axis from the first graph corresponds to the horizontal axis for the second graph. The values are the same.\n\nDoes this make sense?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "75:9024",
+        "node_offset": {
+          "x": 567.63623046875,
+          "y": 506.244140625
+        }
+      },
+      "order_id": "6"
+    }
+  ],
+  "a11y": []
+}

@@ -1,0 +1,3862 @@
+{
+  "unresolved": [
+    {
+      "id": "1253831972",
+      "uuid": "1502bfe8-f487-4311-9269-7d103bf02fa8",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-05-13T10:53:38.897Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak what is the latest on this? I saw a version where state was part of the text. Should we use those badges or make it part of the texT?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15524:189939",
+        "node_offset": {
+          "x": 313,
+          "y": 114
+        },
+        "stable_path": [
+          "15524:189939"
+        ]
+      },
+      "order_id": "242"
+    },
+    {
+      "id": "1102422625",
+      "uuid": "2c49a4b7-133d-4ab4-afc5-5230872620da",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-22T20:53:41.992Z",
+      "resolved_at": null,
+      "message": "Replace with side-by-side before and after @Emily Wachowiak",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12350:39203",
+        "node_offset": {
+          "x": 1178.5,
+          "y": 180
+        },
+        "stable_path": [
+          "12350:39203"
+        ]
+      },
+      "order_id": "241"
+    },
+    {
+      "id": "1038036161",
+      "uuid": "6ea07d73-3265-4a87-8073-d72fa34fdf10",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2024-11-23T01:59:16.689Z",
+      "resolved_at": null,
+      "message": "Hi all, I'm just joining but I'd love to input some insights into this work before it goes to Dev. @Andres Furlan can you pls help me find the right people to sync with on this? Thanks",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:65922",
+        "node_offset": {
+          "x": 251,
+          "y": 212
+        },
+        "stable_path": [
+          "10858:65922"
+        ]
+      },
+      "order_id": "240"
+    },
+    {
+      "id": "1007446324",
+      "uuid": "f8487bc7-70b0-4e73-bc13-344962c673e9",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-10-30T20:39:58.616Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya This active state wasn't implemented on iOS? do you think this was a bug or is there a reason?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19728:177436",
+        "node_offset": {
+          "x": 245,
+          "y": 226
+        },
+        "stable_path": [
+          "19728:177436"
+        ]
+      },
+      "order_id": "238"
+    },
+    {
+      "id": "1005368724",
+      "uuid": "323e7d5c-bb81-4d9b-90b4-fe833f2c2c5a",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-10-29T17:30:41.060Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak is the max lines for the body text 2? or it should wrap for the whole body text and let the CFR expand?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "20736:306418",
+        "node_offset": {
+          "x": 147,
+          "y": 272
+        },
+        "stable_path": [
+          "20736:306418"
+        ]
+      },
+      "order_id": "237"
+    },
+    {
+      "id": "1003219007",
+      "uuid": "d532355d-df0c-4aeb-a028-441e9e347abb",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-10-28T14:28:52.025Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Here is the link to the requirement. Please update as necessary.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "20662:234751",
+        "node_offset": {
+          "x": 164,
+          "y": 29
+        },
+        "stable_path": [
+          "20662:234751"
+        ]
+      },
+      "order_id": "236"
+    },
+    {
+      "id": "1003205304",
+      "uuid": "e0e90a9e-d60d-481c-bcd4-304602e8fc5e",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-10-28T14:22:10.556Z",
+      "resolved_at": null,
+      "message": "I just updated the preview text here to match the new Tools menu layout for most use cases. I omitted the conditional private tab item, but this will need to be represented when those conditions are met",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9736:50545",
+        "node_offset": {
+          "x": 218,
+          "y": 142
+        },
+        "stable_path": [
+          "9736:50545"
+        ]
+      },
+      "order_id": "235"
+    },
+    {
+      "id": "1001478035",
+      "uuid": "61c0445d-505b-40ed-83d2-6c156748019a",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-10-25T16:58:47.718Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Update copy here when confirmed.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9745:52564",
+        "node_offset": {
+          "x": 85,
+          "y": 133
+        },
+        "stable_path": [
+          "9745:52564"
+        ]
+      },
+      "order_id": "234"
+    },
+    {
+      "id": "979152046",
+      "uuid": "4b4b2764-19f8-4bba-8870-439913520b3b",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-10-09T07:29:27.863Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya @Emily Wachowiak what are your thoughts on using a warning message here? like here https://www.figma.com/design/AW8J0zfwapN2nX7DUkbtBX/Softblock-Extensions?node-id=7766-19291&t=ybNhT2RWmH7qGYVU-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11734:362272",
+        "node_offset": {
+          "x": 199,
+          "y": 160
+        },
+        "stable_path": [
+          "11734:362272"
+        ]
+      },
+      "order_id": "233"
+    },
+    {
+      "id": "953857651",
+      "uuid": "22ebe508-1c09-4e5c-8c1f-b7c6156aef6e",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-09-18T13:17:16.825Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg I had a chat with @Gabriel Iorga and he said  that the menu drag handler has been named 'Collapse' for all the bottom sheets in the app, including the ones built in the past. Is that okay? \n* If this is okay, I will update the specs.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:128593",
+        "node_offset": {
+          "x": 533,
+          "y": 28
+        },
+        "stable_path": [
+          "10858:128593"
+        ]
+      },
+      "order_id": "232"
+    },
+    {
+      "id": "911598803",
+      "uuid": "0129da8c-d8ec-46d6-a03a-85a9367eafa2",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabriel Iorga",
+        "img_url": "https://www.gravatar.com/avatar/97f54ef8626093cb5e017281ae27e350?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "1067782885198971655"
+      },
+      "created_at": "2024-08-14T12:08:18.919Z",
+      "resolved_at": null,
+      "message": "If the user has already saved this website to shortcuts the Menu item becomes \"Remove from shortcuts\" and the talkback say \"Remove from shortcuts duble tap to activate\". @Aarjav Pandya",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:128965",
+        "node_offset": {
+          "x": 64,
+          "y": 166
+        },
+        "stable_path": [
+          "10858:128965"
+        ]
+      },
+      "order_id": "230"
+    },
+    {
+      "id": "911468150",
+      "uuid": "454d9a50-64f0-48a4-8585-2e49f61c506d",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabriel Iorga",
+        "img_url": "https://www.gravatar.com/avatar/97f54ef8626093cb5e017281ae27e350?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "1067782885198971655"
+      },
+      "created_at": "2024-08-14T10:40:13.973Z",
+      "resolved_at": null,
+      "message": "The numbers here are a little messed up . We don't have 6 in \"Tools sub-menu\" .\n7 is \"Print\" . In android we don't have role \"Menu\". These are the roles from android \nhttps://developer.android.com/reference/kotlin/androidx/compose/ui/semantics/Role?hl=en @Aarjav Pandya",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:128818",
+        "node_offset": {
+          "x": 748,
+          "y": 260
+        },
+        "stable_path": [
+          "10858:128818"
+        ]
+      },
+      "order_id": "229"
+    },
+    {
+      "id": "903859403",
+      "uuid": "36330ddc-b5e3-4893-94f1-bd78f749b874",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Sanchaai Mathiyarasan",
+        "img_url": "https://www.gravatar.com/avatar/87f9c9ba782c6bd5632bb6ef1379e0e3?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1367863169324291690"
+      },
+      "created_at": "2024-08-07T19:25:30.753Z",
+      "resolved_at": null,
+      "message": "Hey @Morgan Rae Reschenberg (going to start up some threads to ask a couple of questions that were brought up in a patch I had pushed recently), our menu redesign currently reads \"collapse\" when the menu drag handle is focused by TalkBack, however there were some concerns about the naming being ambiguous as to what actions can be taken with the handle.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:128593",
+        "node_offset": {
+          "x": 643,
+          "y": 87
+        },
+        "stable_path": [
+          "10858:128593"
+        ]
+      },
+      "order_id": "228"
+    },
+    {
+      "id": "898528215",
+      "uuid": "2057eaad-5c42-4f9a-9afc-be36eb0d7e50",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-08-02T18:50:19.540Z",
+      "resolved_at": null,
+      "message": "@Gabriel Luong @Sanchaai Mathiyarasan Loading circle added here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17639:417360",
+        "node_offset": {
+          "x": 128,
+          "y": 213
+        },
+        "stable_path": [
+          "17639:417360"
+        ]
+      },
+      "order_id": "227"
+    },
+    {
+      "id": "898353586",
+      "uuid": "75932d7e-a8e0-406b-aede-fdbca57c25be",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-08-02T15:53:56.499Z",
+      "resolved_at": null,
+      "message": "This feels a bit ambiguous, I am not sure what 'enable future growth' means.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17599:271835",
+        "node_offset": {
+          "x": 1949,
+          "y": 112
+        },
+        "stable_path": [
+          "17599:271835"
+        ]
+      },
+      "order_id": "226"
+    },
+    {
+      "id": "892368872",
+      "uuid": "2031df4f-eb70-42c3-933f-9f5c6921434b",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Sanchaai Mathiyarasan",
+        "img_url": "https://www.gravatar.com/avatar/87f9c9ba782c6bd5632bb6ef1379e0e3?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1367863169324291690"
+      },
+      "created_at": "2024-07-30T04:25:46.043Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg Hello :wave:, I had a question about this particular item: Why do we choose to read this text (through TalkBack) when this particular column is focused, rather than using something a hidden semantic header instead?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:128593",
+        "node_offset": {
+          "x": 572,
+          "y": 333
+        },
+        "stable_path": [
+          "10858:128593"
+        ]
+      },
+      "order_id": "225"
+    },
+    {
+      "id": "842600729",
+      "uuid": "1ef2cd53-e95d-4907-abf8-36ce21120ccd",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-17T19:11:00.053Z",
+      "resolved_at": null,
+      "message": "This annotation doesn't match our UI -- I believe it should switch to \"Desktop Site, On\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11024:155537",
+        "node_offset": {
+          "x": 892,
+          "y": 328
+        },
+        "stable_path": [
+          "11024:155537"
+        ]
+      },
+      "order_id": "218"
+    },
+    {
+      "id": "842599714",
+      "uuid": "15749aa9-7731-457e-bf76-18d004fb7df7",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-17T19:09:56.790Z",
+      "resolved_at": null,
+      "message": "Please use the on screen string in combination with the badge, ex. \"Desktop Site, Off\". If this can be enabled by clicking on this menu item, please use a toggle role instead of a menu item.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11024:155537",
+        "node_offset": {
+          "x": 905,
+          "y": 205
+        },
+        "stable_path": [
+          "11024:155537"
+        ]
+      },
+      "order_id": "217"
+    },
+    {
+      "id": "842595979",
+      "uuid": "ddb4ffae-9462-4850-9428-ada6dbcf3d64",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-17T19:06:01.375Z",
+      "resolved_at": null,
+      "message": "Are these menu items or sub menus?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11024:158806",
+        "node_offset": {
+          "x": 151,
+          "y": 235
+        },
+        "stable_path": [
+          "11024:158806"
+        ]
+      },
+      "order_id": "215"
+    },
+    {
+      "id": "842595290",
+      "uuid": "3b00befe-7177-492d-be22-4551d5a72e2c",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-17T19:05:18.191Z",
+      "resolved_at": null,
+      "message": "Is this disabled in the mockup? If so, please add an annotation for that here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11024:158806",
+        "node_offset": {
+          "x": 856,
+          "y": 159
+        },
+        "stable_path": [
+          "11024:158806"
+        ]
+      },
+      "order_id": "214"
+    },
+    {
+      "id": "842594562",
+      "uuid": "84f67206-47b7-4aec-8aa9-6325dcfebe80",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-17T19:04:31.218Z",
+      "resolved_at": null,
+      "message": "Name should be \"Main menu\"",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-06-18T16:53:17.822Z",
+          "user": {
+            "id": "1130907002513196392",
+            "handle": "Aarjav Pandya",
+            "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "11024:158806",
+        "node_offset": {
+          "x": 522,
+          "y": 125
+        },
+        "stable_path": [
+          "11024:158806"
+        ]
+      },
+      "order_id": "213"
+    },
+    {
+      "id": "842592921",
+      "uuid": "af720eac-b292-4565-ae1c-8fa6aed2c6db",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-17T19:02:48.028Z",
+      "resolved_at": null,
+      "message": "Is this menu item clickable? Does clicking it enable reader view?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11024:155028",
+        "node_offset": {
+          "x": 130,
+          "y": 347
+        },
+        "stable_path": [
+          "11024:155028"
+        ]
+      },
+      "order_id": "206"
+    },
+    {
+      "id": "840978841",
+      "uuid": "3c6293b6-5737-40c5-9d09-9e5bebc25ef2",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-14T21:43:42.693Z",
+      "resolved_at": null,
+      "message": "For users with magnifiers, this will be difficult to use -- can we align the badge closer to the label so it passes the straw test? https://scottvinkle.me/blogs/work/proximity-and-zoom",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10982:107916",
+        "node_offset": {
+          "x": 307,
+          "y": 223
+        },
+        "stable_path": [
+          "10982:107916"
+        ]
+      },
+      "order_id": "203"
+    },
+    {
+      "id": "840977055",
+      "uuid": "808b1573-747c-46fb-bbfd-2302b1079114",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-14T21:39:36.558Z",
+      "resolved_at": null,
+      "message": "Is it not possible to support the badges at higher text sizes? We should not be modifying our UI and strings in response to a text-size increase. This violates WCAG consistency standards.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11046:151069",
+        "node_offset": {
+          "x": 170,
+          "y": 613
+        },
+        "stable_path": [
+          "11046:151069"
+        ]
+      },
+      "order_id": "202"
+    },
+    {
+      "id": "840968537",
+      "uuid": "e86da0f3-73e4-42a5-bfc9-38861becb27e",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-14T21:22:15.328Z",
+      "resolved_at": null,
+      "message": "I am concerned that the options below are confusing for users with cognitive disabilities because they attempt to both (a) imply a current state and (b) express a possible action. \n\"Remove from Reading List\", for example, implies the current state (in the reading list) but doesn't make it explicit. Binary states, like being \"in\" or \"out\" of a set are best expressed through binary controls like a checkbox or toggle. Can we modify this UI to something like \"[checkbox or toggle] Save to Reading List\" where the associated label does not change when the checkbox is manipulated? This way, the state is expressed explicitly by the associated control, and the label is consistent.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10909:353418",
+        "node_offset": {
+          "x": 4679,
+          "y": 1090
+        },
+        "stable_path": [
+          "10909:353418"
+        ]
+      },
+      "order_id": "201"
+    },
+    {
+      "id": "840963538",
+      "uuid": "b9c88a55-5dcd-45bd-8e3e-e6aa7646b0eb",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-14T21:13:15.566Z",
+      "resolved_at": null,
+      "message": "Can a user click this to disable/enable reader mode?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10982:109275",
+        "node_offset": {
+          "x": 292,
+          "y": 151
+        },
+        "stable_path": [
+          "10982:109275"
+        ]
+      },
+      "order_id": "200"
+    },
+    {
+      "id": "840963469",
+      "uuid": "07ecfe96-fc45-4ae7-b41d-d223d4f06619",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-14T21:13:08.456Z",
+      "resolved_at": null,
+      "message": "Can a user click this item to modify the zoom level, or is it purely informational?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10982:108916",
+        "node_offset": {
+          "x": 273,
+          "y": 90
+        },
+        "stable_path": [
+          "10982:108916"
+        ]
+      },
+      "order_id": "199"
+    },
+    {
+      "id": "839504820",
+      "uuid": "a7f37337-a05b-4c48-9a66-d8491b525705",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-13T20:24:15.160Z",
+      "resolved_at": null,
+      "message": "For items that have an \"on\" / \"off\" badge, we should use a toggle. Using a badge on top of a control like a menu item (as we've done here) may leave users wondering if the state is editable or influenced by their selections in another part of the UI. Using a toggle would communicate a clearer interaction state/capability.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10909:353418",
+        "node_offset": {
+          "x": 155,
+          "y": 40
+        },
+        "stable_path": [
+          "10909:353418"
+        ]
+      },
+      "order_id": "197"
+    },
+    {
+      "id": "833705812",
+      "uuid": "17f0f99d-a014-4ef0-8b82-ae25b736aac4",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Andreea Barladeanu",
+        "img_url": "https://www.gravatar.com/avatar/f3aea066fbf394ccd741aed066cd1776?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1273905447875649937"
+      },
+      "created_at": "2024-06-10T10:22:59.692Z",
+      "resolved_at": null,
+      "message": "Hi @Aarjav Pandya! What's the specific behavior for tablets? Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10909:373641",
+        "node_offset": {
+          "x": 561,
+          "y": 398
+        },
+        "stable_path": [
+          "10909:373641"
+        ]
+      },
+      "order_id": "196"
+    },
+    {
+      "id": "833643078",
+      "uuid": "b517e8d5-d04b-4110-a808-1acbaa9e1afd",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Andreea Barladeanu",
+        "img_url": "https://www.gravatar.com/avatar/f3aea066fbf394ccd741aed066cd1776?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1273905447875649937"
+      },
+      "created_at": "2024-06-10T09:43:09.661Z",
+      "resolved_at": null,
+      "message": "Hi @Aarjav Pandya ! iOS QA here. What happens if you tap on the x button? The whole menu closes or only the sub-menu (and the user returns to the main menu). Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10909:175824",
+        "node_offset": {
+          "x": 1292,
+          "y": 148
+        },
+        "stable_path": [
+          "10909:175824"
+        ]
+      },
+      "order_id": "195"
+    },
+    {
+      "id": "830872528",
+      "uuid": "2e862fc9-32b7-45e6-935a-967e4d9251dd",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-06-06T14:54:20.865Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya I wanted to test how the translation labels would work with longer languages. I think it is holding up ok but want you to be aware of how wide these labels could get",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15704:121736",
+        "node_offset": {
+          "x": 146,
+          "y": 208
+        },
+        "stable_path": [
+          "15704:121736"
+        ]
+      },
+      "order_id": "194"
+    },
+    {
+      "id": "828923620",
+      "uuid": "24b54ed0-c63a-4fe8-a8fc-3d9bb9378216",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Andreea Barladeanu",
+        "img_url": "https://www.gravatar.com/avatar/f3aea066fbf394ccd741aed066cd1776?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1273905447875649937"
+      },
+      "created_at": "2024-06-05T12:00:16.747Z",
+      "resolved_at": null,
+      "message": "Hi @Aarjav Pandya! iOS QA here. Is this the design for iOS? Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10322:82120",
+        "node_offset": {
+          "x": 1225,
+          "y": 772
+        },
+        "stable_path": [
+          "10322:82120"
+        ]
+      },
+      "order_id": "193"
+    },
+    {
+      "id": "828866281",
+      "uuid": "2b16196f-0ea4-492a-8d24-aa3a9c1a2081",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Andreea Barladeanu",
+        "img_url": "https://www.gravatar.com/avatar/f3aea066fbf394ccd741aed066cd1776?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1273905447875649937"
+      },
+      "created_at": "2024-06-05T11:22:35.692Z",
+      "resolved_at": null,
+      "message": "Hello, @Aarjav Pandya!  iOS QA here. Will \"what's new\", \"reading list\",  \"turn on night mode\" and \"customize homepage\", \"send link to device\"  and \"copy link\" sections be moved somewhere else in the menu/settings? I couldn't find them in the iOS proposed final  design.Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9509:44779",
+        "node_offset": {
+          "x": 180,
+          "y": 793
+        },
+        "stable_path": [
+          "9509:44779"
+        ]
+      },
+      "order_id": "192"
+    },
+    {
+      "id": "822982786",
+      "uuid": "c00c58ed-7d00-4595-8d37-7c900df4df90",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-05-30T20:03:21.316Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak @Andres Furlan Is this possible? That a certain website cannot be saved to reading list?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15547:389610",
+        "node_offset": {
+          "x": 178,
+          "y": 67
+        },
+        "stable_path": [
+          "15547:389610"
+        ]
+      },
+      "order_id": "191"
+    },
+    {
+      "id": "819399540",
+      "uuid": "14b0e80e-44b0-4fd9-9e9c-fc537cadada8",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-05-28T16:35:57.868Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya if I want to work on the empty state content, where is the best place in the file to edit?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14472:356733",
+        "node_offset": {
+          "x": 245,
+          "y": 21
+        },
+        "stable_path": [
+          "14472:356733"
+        ]
+      },
+      "order_id": "190"
+    },
+    {
+      "id": "790492973",
+      "uuid": "e29e0cef-bb47-48c7-a49d-ab34b5794d29",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-05-02T14:10:13.186Z",
+      "resolved_at": null,
+      "message": "Active state needed for Night Mode",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-05-02T14:10:51.625Z",
+          "user": {
+            "id": "1130907002513196392",
+            "handle": "Aarjav Pandya",
+            "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "14894:215049",
+        "node_offset": {
+          "x": 71,
+          "y": 124
+        },
+        "stable_path": [
+          "14894:215049"
+        ]
+      },
+      "order_id": "189"
+    },
+    {
+      "id": "789494580",
+      "uuid": "ba286103-89cf-4961-9f98-12b9585a45ec",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-05-01T20:15:13.896Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya Find if there is an iOS equivalent.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14805:227756",
+        "node_offset": {
+          "x": 312,
+          "y": 256
+        },
+        "stable_path": [
+          "14805:227756"
+        ]
+      },
+      "order_id": "188"
+    },
+    {
+      "id": "789481166",
+      "uuid": "92d60e0f-663d-49c0-8cef-551a2dbbb4d9",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-05-01T19:59:02.766Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Updating icon, please review copy.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15373:124536",
+        "node_offset": {
+          "x": 298,
+          "y": 236
+        },
+        "stable_path": [
+          "15373:124536"
+        ]
+      },
+      "order_id": "187"
+    },
+    {
+      "id": "789466124",
+      "uuid": "e58de71e-5501-460d-8970-1550af66b68c",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-05-01T19:41:29.032Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Why? Let's think about this.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14894:215048",
+        "node_offset": {
+          "x": 435,
+          "y": 12
+        },
+        "stable_path": [
+          "14894:215048"
+        ]
+      },
+      "order_id": "185"
+    },
+    {
+      "id": "789464215",
+      "uuid": "5145d10a-682d-4d89-9f72-3f96efcc1b33",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-05-01T19:39:22.105Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Please check when you have some time.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14806:261876",
+        "node_offset": {
+          "x": 168,
+          "y": 115
+        },
+        "stable_path": [
+          "14806:261876"
+        ]
+      },
+      "order_id": "184"
+    },
+    {
+      "id": "782242288",
+      "uuid": "732fd405-e8e4-415d-b2de-1495d6784b9c",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Andres Furlan",
+        "img_url": "https://www.gravatar.com/avatar/9099d2b2209543f33542d5ed1ea1405b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1298294506515844534"
+      },
+      "created_at": "2024-04-24T19:21:31.713Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya is the grey out intended? Are we not letting people to open a new tab from the home page? If that is the case, should we hide the option directly?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10909:175824",
+        "node_offset": {
+          "x": 1519,
+          "y": 209
+        },
+        "stable_path": [
+          "10909:175824"
+        ]
+      },
+      "order_id": "183"
+    },
+    {
+      "id": "780658601",
+      "uuid": "137e9e2e-0ffb-4bb1-87d5-798b414f2e69",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Andres Furlan",
+        "img_url": "https://www.gravatar.com/avatar/9099d2b2209543f33542d5ed1ea1405b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1298294506515844534"
+      },
+      "created_at": "2024-04-23T21:14:08.083Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya the share button looks like Android button. I imagine this is just a copy/paste error but I wanted to double check. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10909:373659",
+        "node_offset": {
+          "x": 274,
+          "y": 56
+        },
+        "stable_path": [
+          "10909:373659"
+        ]
+      },
+      "order_id": "180"
+    },
+    {
+      "id": "780320070",
+      "uuid": "4af039e9-3a25-495f-a50d-a9b78006c071",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-04-23T16:23:05.478Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Is the copy okay?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:66353",
+        "node_offset": {
+          "x": 125,
+          "y": 117
+        },
+        "stable_path": [
+          "10858:66353"
+        ]
+      },
+      "order_id": "179"
+    },
+    {
+      "id": "778497532",
+      "uuid": "dd78b3fe-217a-4986-be33-3f8c2b0107fb",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-04-22T14:41:46.560Z",
+      "resolved_at": null,
+      "message": "* working with CFR code.\n* dynamic layout\n* Positioning, pop-up is similar to CFR so that will be difficult. \n*",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9568:47763",
+        "node_offset": {
+          "x": 900,
+          "y": 303
+        },
+        "stable_path": [
+          "9568:47763"
+        ]
+      },
+      "order_id": "178"
+    },
+    {
+      "id": "776800258",
+      "uuid": "8538d851-304a-4781-aa90-640feb4c1b5e",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-04-19T16:46:53.266Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya check padding.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:66353",
+        "node_offset": {
+          "x": 334,
+          "y": 115
+        },
+        "stable_path": [
+          "10858:66353"
+        ]
+      },
+      "order_id": "176"
+    },
+    {
+      "id": "776794272",
+      "uuid": "15958319-6cf2-4dd2-b68a-16bc6f6f9405",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-04-19T16:41:17.111Z",
+      "resolved_at": null,
+      "message": "@Gabriel Luong There is a divider line here as well, I have just added it here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:66353",
+        "node_offset": {
+          "x": 270,
+          "y": 119
+        },
+        "stable_path": [
+          "10858:66353"
+        ]
+      },
+      "order_id": "175"
+    },
+    {
+      "id": "776787147",
+      "uuid": "efc6bff5-a77d-4267-9a23-65c5cfa1be55",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-04-19T16:34:27.104Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11899:132287",
+        "node_offset": {
+          "x": 317.63916015625,
+          "y": 33
+        },
+        "stable_path": [
+          "11899:132287"
+        ]
+      },
+      "order_id": "174"
+    },
+    {
+      "id": "773524421",
+      "uuid": "654a9ab8-1a85-4136-a0c8-2686638dc90e",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-04-17T15:33:00.990Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya Do you think we need the image here? Not sure it makes as much sense as it does on the empty state",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14113:1682826",
+        "node_offset": {
+          "x": 294,
+          "y": 156
+        },
+        "stable_path": [
+          "14113:1682826"
+        ]
+      },
+      "order_id": "173"
+    },
+    {
+      "id": "773409421",
+      "uuid": "44f9daa4-436e-4131-97a8-e4336bc0104c",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-04-17T14:32:37.836Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak can you please review this and update copy as needed?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14113:1461765",
+        "node_offset": {
+          "x": 145,
+          "y": 28
+        },
+        "stable_path": [
+          "14113:1461765"
+        ]
+      },
+      "order_id": "172"
+    },
+    {
+      "id": "770217342",
+      "uuid": "ce047aee-7e55-442a-8998-1884784ad56f",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-04-15T16:35:13.111Z",
+      "resolved_at": null,
+      "message": "@Gabriel Luong I have updated the padding between the icon and the text here in the sub-menu header.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9940:23811",
+        "node_offset": {
+          "x": 69,
+          "y": 372
+        },
+        "stable_path": [
+          "9940:23811"
+        ]
+      },
+      "order_id": "171"
+    },
+    {
+      "id": "766941713",
+      "uuid": "caabb109-24d3-4fdc-af41-173c8f8f0fe6",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-04-11T15:14:12.340Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya Can you please add an option that says \"Turn on Night Mode\" under \"Turn on Reader View\" and above \"Review Checker\"? Like Reader View, this one will have an on/off state. I will add this change to the rationale doc (we are keeping in the menu due to a11y aspects of this feature)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19728:173475",
+        "node_offset": {
+          "x": 1373,
+          "y": 300
+        },
+        "stable_path": [
+          "19728:173475"
+        ]
+      },
+      "order_id": "166"
+    },
+    {
+      "id": "752252422",
+      "uuid": "2efff6de-8b71-4575-9fbb-fd25ebebf867",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-03-28T17:36:45.052Z",
+      "resolved_at": null,
+      "message": "Add more context about information architecture as a concept in this project and how I approached it (feedback from Meridel)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11664:267866",
+        "node_offset": {
+          "x": 1630,
+          "y": 384
+        },
+        "stable_path": [
+          "11664:267866"
+        ]
+      },
+      "order_id": "157"
+    },
+    {
+      "id": "749202931",
+      "uuid": "5e8db082-cf9b-42f2-8baf-36a79f0985e6",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-26T19:41:56.062Z",
+      "resolved_at": null,
+      "message": "Is \"Button\" part of the UI?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9751:50068",
+        "node_offset": {
+          "x": 342,
+          "y": 285
+        },
+        "stable_path": [
+          "9751:50068"
+        ]
+      },
+      "order_id": "156"
+    },
+    {
+      "id": "749202387",
+      "uuid": "99384f1c-6fb4-464f-80a8-413555bf5063",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-26T19:41:25.310Z",
+      "resolved_at": null,
+      "message": "Insufficient contrast",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9751:50068",
+        "node_offset": {
+          "x": 360,
+          "y": 346
+        },
+        "stable_path": [
+          "9751:50068"
+        ]
+      },
+      "order_id": "155"
+    },
+    {
+      "id": "749202175",
+      "uuid": "49689514-97ba-439d-8c52-e5fe80529fb3",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-26T19:41:14.693Z",
+      "resolved_at": null,
+      "message": "Insufficient contrast",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9751:50068",
+        "node_offset": {
+          "x": 45,
+          "y": 445
+        },
+        "stable_path": [
+          "9751:50068"
+        ]
+      },
+      "order_id": "154"
+    },
+    {
+      "id": "749201536",
+      "uuid": "f901bc60-cfa0-4934-a817-2d47babcd6c8",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-26T19:40:36.960Z",
+      "resolved_at": null,
+      "message": "Insufficient contrast, see iOS component comments",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9751:50069",
+        "node_offset": {
+          "x": 202,
+          "y": 296
+        },
+        "stable_path": [
+          "9751:50069"
+        ]
+      },
+      "order_id": "153"
+    },
+    {
+      "id": "747568368",
+      "uuid": "03a99ed2-0c55-4cf6-ad59-0806befce4a6",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-03-25T20:04:46.053Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong Hi! I have updated/added colors for addressing accessibility requirements. Please review all the states of the list item for android and iOS.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9751:50068",
+        "node_offset": {
+          "x": 192,
+          "y": 84
+        },
+        "stable_path": [
+          "9751:50068"
+        ]
+      },
+      "order_id": "148"
+    },
+    {
+      "id": "747519282",
+      "uuid": "88c31502-95d3-4d2e-ad04-0f0a016913c7",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-03-25T19:17:34.333Z",
+      "resolved_at": null,
+      "message": "@Roux Buciu I have added the design for the delete button in the edit form.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10909:353488",
+        "node_offset": {
+          "x": 98,
+          "y": 148
+        },
+        "stable_path": [
+          "10909:353488"
+        ]
+      },
+      "order_id": "147"
+    },
+    {
+      "id": "747200691",
+      "uuid": "49a9b327-e00f-457c-afdb-8a27313842a4",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-03-25T15:20:09.291Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Please review this when you get a chance. Thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10909:353488",
+        "node_offset": {
+          "x": 101,
+          "y": 101
+        },
+        "stable_path": [
+          "10909:353488"
+        ]
+      },
+      "order_id": "146"
+    },
+    {
+      "id": "744943628",
+      "uuid": "2c4bf2ee-e372-475e-96e1-0e96112c5c23",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-03-22T09:34:33.147Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya @Crystal Wong would it make sense to update our list elements based on this?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10909:175824",
+        "node_offset": {
+          "x": 192,
+          "y": 322
+        },
+        "stable_path": [
+          "10909:175824"
+        ]
+      },
+      "order_id": "145"
+    },
+    {
+      "id": "742756833",
+      "uuid": "648a83dd-480b-4a38-8fd4-162118ef318b",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-20T20:48:50.281Z",
+      "resolved_at": null,
+      "message": "what do these icons here and below (27) represent?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11740:774458",
+        "node_offset": {
+          "x": 324,
+          "y": 120
+        },
+        "stable_path": [
+          "11740:774458"
+        ]
+      },
+      "order_id": "141"
+    },
+    {
+      "id": "742756202",
+      "uuid": "f164521c-31cc-4e5d-9aea-3d14d9bb063c",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-20T20:48:16.375Z",
+      "resolved_at": null,
+      "message": "how do users get to this screen?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11740:774457",
+        "node_offset": {
+          "x": 122,
+          "y": 22
+        },
+        "stable_path": [
+          "11740:774457"
+        ]
+      },
+      "order_id": "140"
+    },
+    {
+      "id": "742744674",
+      "uuid": "cf8053a0-604c-47b1-90df-3ea8f3ee3ef6",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-20T20:37:37.037Z",
+      "resolved_at": null,
+      "message": "Expanded/collapsed state should be communicated here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:128593",
+        "node_offset": {
+          "x": 517,
+          "y": 94
+        },
+        "stable_path": [
+          "10858:128593"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "742738787",
+      "uuid": "38ee26ba-2cd5-412e-9f61-040d33752ea6",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-03-20T20:32:03.432Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Just confirming if you review this as well.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:128592",
+        "node_offset": {
+          "x": 6000,
+          "y": 97
+        },
+        "stable_path": [
+          "10858:128592"
+        ]
+      },
+      "order_id": "126"
+    },
+    {
+      "id": "742723229",
+      "uuid": "37c12efe-9071-474a-aabc-01c27a2b8233",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-03-20T20:18:18.695Z",
+      "resolved_at": null,
+      "message": "Looks like the word \"Extensions\" is not accounted for on this submenu or the next one. Should it also be annotated?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11740:774906",
+        "node_offset": {
+          "x": 97,
+          "y": 44
+        },
+        "stable_path": [
+          "11740:774906"
+        ]
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "740983060",
+      "uuid": "12aae0f0-4019-403f-886c-59d41439d35d",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-03-19T18:56:15.590Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak\n* Behavior for Discover extensions for here\n* 2 ways of disabled state, how do users know? \n* Preview text behavior - test?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11619:96262",
+        "node_offset": {
+          "x": 278,
+          "y": 603
+        },
+        "stable_path": [
+          "11619:96262"
+        ]
+      },
+      "order_id": "120"
+    },
+    {
+      "id": "739027587",
+      "uuid": "85bf9a32-b8dd-436b-a086-56b47116fe35",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-03-18T15:27:21.497Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya I added an eng note about this error state leading directly to the Extensions Manager in settings because this is where users can re-enable extensions (Per Julian's designs https://www.figma.com/file/YITOI9Axy18eNpspbmA6ze/MV3-Mobile?type=design&node-id=1361-3093&mode=design&t=wWFf6BIxCaaPzPgN-4)\nJulian says this approach makes sense but lmk what you think",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11552:196680",
+        "node_offset": {
+          "x": 191,
+          "y": 575
+        },
+        "stable_path": [
+          "11552:196680"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "736037362",
+      "uuid": "d4194ac2-8c39-4ecb-8cc9-d4045d39ef25",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-03-14T19:21:19.336Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Please use these 4 components in this row to make any copy updates. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:124381",
+        "node_offset": {
+          "x": 56,
+          "y": 1247
+        },
+        "stable_path": [
+          "10858:124381"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "734417259",
+      "uuid": "3b4895fa-0c52-4e80-bacd-bb16139aa9fc",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-03-13T19:46:16.698Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I have added this here, please review this when you get the chance.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11203:152750",
+        "node_offset": {
+          "x": 208,
+          "y": 108
+        },
+        "stable_path": [
+          "11203:152750"
+        ]
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "732828168",
+      "uuid": "3d94dc3c-264a-4e75-ba39-8df899d819c1",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-03-12T21:06:36.833Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya it looks like this copy is stretching to 2 lines again. did something change in the designs?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9940:23811",
+        "node_offset": {
+          "x": 144,
+          "y": 64
+        },
+        "stable_path": [
+          "9940:23811"
+        ]
+      },
+      "order_id": "105"
+    },
+    {
+      "id": "730749004",
+      "uuid": "f5c4cc4f-91b9-4711-9294-91a8137dac66",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-03-11T15:32:09.440Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Something just occurred to me, If the page is bookmarked, should it be communicated in the preview string in main menu? My initial thought is that it should, but not sure the repercussions for keeping track of it for Eng.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10982:110174",
+        "node_offset": {
+          "x": 125,
+          "y": 71
+        },
+        "stable_path": [
+          "10982:110174"
+        ]
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "727668443",
+      "uuid": "132ace2d-bb59-4691-942b-29149e28b657",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-03-07T15:42:48.585Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya What. happens when user accesses library, what is the transition like?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10961:171427",
+        "node_offset": {
+          "x": 158,
+          "y": 621
+        },
+        "stable_path": [
+          "10961:171427"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "726422748",
+      "uuid": "5852eabd-4768-4697-a93c-324a034f858a",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-03-06T20:33:33.007Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Just confirming, there is no customized homepage in private mode right?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10982:111102",
+        "node_offset": {
+          "x": 252,
+          "y": 426
+        },
+        "stable_path": [
+          "10982:111102"
+        ]
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "726419128",
+      "uuid": "a859ff62-621f-4e2f-ab91-ad9747767520",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-03-06T20:30:10.422Z",
+      "resolved_at": null,
+      "message": "Does the edit belong on this one? I can't remember",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10982:110174",
+        "node_offset": {
+          "x": 220,
+          "y": 107
+        },
+        "stable_path": [
+          "10982:110174"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "726410006",
+      "uuid": "f6adb8f8-ac7b-4812-a263-e3efc8cce956",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-03-06T20:21:41.986Z",
+      "resolved_at": null,
+      "message": "Eng also needs to evaluate PDF item for feasibility.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10982:109868",
+        "node_offset": {
+          "x": 265,
+          "y": 275
+        },
+        "stable_path": [
+          "10982:109868"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "726406793",
+      "uuid": "5d155dca-68da-423a-9962-0a700a6618ba",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-03-06T20:18:39.604Z",
+      "resolved_at": null,
+      "message": "Print still needs to be investigated by eng to see if they can build into menu",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10982:108347",
+        "node_offset": {
+          "x": 112,
+          "y": 267
+        },
+        "stable_path": [
+          "10982:108347"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "726406361",
+      "uuid": "f8015907-feba-4832-917a-586a4a876a26",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-03-06T20:18:16.574Z",
+      "resolved_at": null,
+      "message": "Zoom in its natural state would say (100%) at the end. Not sure where the copy component lives so I don't want to edit here for fear of overriding the component text",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10982:108347",
+        "node_offset": {
+          "x": 303,
+          "y": 113
+        },
+        "stable_path": [
+          "10982:108347"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "726404434",
+      "uuid": "aa4f3ecc-e3c5-4015-87e4-ce86a5a845ff",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-03-06T20:16:31.178Z",
+      "resolved_at": null,
+      "message": "Add \"Customize Homepage\" and \"New in Firefox\" to homepage menu (both light and dark frame need this)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10982:111101",
+        "node_offset": {
+          "x": 142,
+          "y": 672
+        },
+        "stable_path": [
+          "10982:111101"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "726403978",
+      "uuid": "deaf06cf-43de-4d84-854b-755b0577e7fe",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-03-06T20:16:04.365Z",
+      "resolved_at": null,
+      "message": "Remove this section for iOS homepage menu",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10982:111102",
+        "node_offset": {
+          "x": 39,
+          "y": 222
+        },
+        "stable_path": [
+          "10982:111102"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "726403924",
+      "uuid": "ee62f832-58d9-4a0d-82f6-d328e5cc0277",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-03-06T20:16:01.333Z",
+      "resolved_at": null,
+      "message": "Remove this section for iOS homepage menu",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10982:111101",
+        "node_offset": {
+          "x": 279,
+          "y": 219
+        },
+        "stable_path": [
+          "10982:111101"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "722906304",
+      "uuid": "0104ce30-1b51-4bd8-b3b9-2b97b4def1f9",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-03-04T17:20:36.832Z",
+      "resolved_at": null,
+      "message": "@Sarah Khan I hope this helps!",
+      "reactions": [
+        {
+          "emoji": ":fire:",
+          "created_at": "2024-03-04T17:59:38.491Z",
+          "user": {
+            "id": "1044448833722871989",
+            "handle": "Sarah Khan",
+            "img_url": "https://www.gravatar.com/avatar/fb46d31e3f3903e6e87046ea5c4fe226?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10882:53191",
+        "node_offset": {
+          "x": 117,
+          "y": 12
+        },
+        "stable_path": [
+          "10882:53191"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "722791992",
+      "uuid": "3598e976-9356-4045-8166-2eebff40cc7e",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-03-04T15:58:29.605Z",
+      "resolved_at": null,
+      "message": "What happens if the secondary text is visible?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:124379",
+        "node_offset": {
+          "x": 3064,
+          "y": 759
+        },
+        "stable_path": [
+          "10858:124379"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "701893027",
+      "uuid": "ceb53c1e-0445-4bdf-99fd-08461f57b1a2",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-02-14T13:38:34.837Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya @Emily Wachowiak this could be potentially longer in german, did you review with l10n?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9940:32583",
+        "node_offset": {
+          "x": 200,
+          "y": 185
+        },
+        "stable_path": [
+          "9940:32583"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "701890623",
+      "uuid": "461d85ca-c328-4a13-99e3-aa6962e31e95",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-02-14T13:36:52.825Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya have you tested this with users? I wonder if people understand the logic or what their expectations are",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8438:128522",
+        "node_offset": {
+          "x": 1500,
+          "y": 9399
+        },
+        "stable_path": [
+          "8438:128522"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "701888653",
+      "uuid": "d0924c7d-9465-4d37-b148-e1dab7b1fd60",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-02-14T13:35:31.052Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya wondering if the dividers have the correct color",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9940:34230",
+        "node_offset": {
+          "x": 170,
+          "y": 284
+        },
+        "stable_path": [
+          "9940:34230"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "701888012",
+      "uuid": "212f69e2-ac63-4b43-981c-86ff14312c49",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-02-14T13:35:03.629Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya @Emily Wachowiak how would I remove a bookmark? do I have to go into 'edit' or could we follow a similar pattern as we have for shortcuts?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9940:33455",
+        "node_offset": {
+          "x": 159,
+          "y": 116
+        },
+        "stable_path": [
+          "9940:33455"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "701883663",
+      "uuid": "95f8fdbd-a1bd-4df8-acff-8d0e09a4d123",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-02-14T13:32:01.509Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya how does this wrap? I could imagine that german will break the layout 'Wechseln Sie zur mobilen Website'",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9940:31533",
+        "node_offset": {
+          "x": 250,
+          "y": 239
+        },
+        "stable_path": [
+          "9940:31533"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "701102150",
+      "uuid": "64953591-1a4c-4990-b22a-a05c40b8c996",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-02-13T22:44:47.529Z",
+      "resolved_at": null,
+      "message": "i may have forgotten this detail, when you say 'later' do you mean after we ship this initial experience? can you clarify what the experience would be like on tablets? would it be landscape (above) but wider? thanks",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:128447",
+        "node_offset": {
+          "x": 3548,
+          "y": 180
+        },
+        "stable_path": [
+          "10858:128447"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "700791060",
+      "uuid": "eeb588e4-a201-429a-87d1-db55aacf7a19",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-02-13T17:26:49.136Z",
+      "resolved_at": null,
+      "message": "Similarly, the contrast between the white background of the enabled menu item and the off-white of the pressed menu item contrast at 1:1.05, we need them to contrast at 1:3",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-02-13T17:32:46.794Z",
+          "user": {
+            "id": "939685140842746524",
+            "handle": "Morgan Rae Reschenberg",
+            "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9751:50068",
+        "node_offset": {
+          "x": 321,
+          "y": 42
+        },
+        "stable_path": [
+          "9751:50068"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "700665925",
+      "uuid": "34bdbbd8-9052-43bb-bcc3-abf485a8cd01",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-02-13T15:58:41.719Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg Would there be accessibility issues with the active states of the menu items? All possible states for menu items are added here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9751:50068",
+        "node_offset": {
+          "x": 153,
+          "y": 283
+        },
+        "stable_path": [
+          "9751:50068"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "699568767",
+      "uuid": "bfd8a7e8-b940-4a87-abc1-104af749341f",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-12T21:25:27.894Z",
+      "resolved_at": null,
+      "message": "The contrast between these buttons and their background is 1.13 -- can we increase it?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9896:1098908",
+        "node_offset": {
+          "x": 1622,
+          "y": 321
+        },
+        "stable_path": [
+          "9896:1098908"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "699555283",
+      "uuid": "ae86cb3b-fb17-461d-b82a-ed32b543d604",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-02-12T21:10:30.546Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I just remembered of the custom tab menu as well. Here is a link to current ones. Apparently the actions that can be added to the menu are dynamic and people from 3rd party apps can choose to add. I will have to do a deeper dive into this.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9896:1098908",
+        "node_offset": {
+          "x": 290,
+          "y": 1137
+        },
+        "stable_path": [
+          "9896:1098908"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "699342969",
+      "uuid": "997f9867-82a0-47db-ba9f-7095a69a23f0",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-02-12T17:29:10.064Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Can we change to 'Remove from Shortcuts' and I will remove the 'remove' button? I am trying to bring consistency to when the button would show up.\nCurrently, I am thinking to provide button only if there multiple actions possible. \nFor example, right not this button makes sense only for bookmarks and translations. For translations, its up to the team for now, but for bookmarks, user can delete, change location, change name etc. \nWhat do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9940:33885",
+        "node_offset": {
+          "x": 187,
+          "y": 163
+        },
+        "stable_path": [
+          "9940:33885"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "699125193",
+      "uuid": "08562a13-df5c-4005-a0ae-09dc9c902a2d",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-02-12T14:53:20.920Z",
+      "resolved_at": null,
+      "message": "The items in this menu may change depending on availability. Is it ok if the VO text doesn't change?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:128593",
+        "node_offset": {
+          "x": 511,
+          "y": 537
+        },
+        "stable_path": [
+          "10858:128593"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "696431412",
+      "uuid": "a5762eac-9714-4f40-afc7-e50904894cb4",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-02-08T16:26:17.130Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak  - Final \"components\" for menu (labels)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9940:30526",
+        "node_offset": {
+          "x": 218,
+          "y": 11
+        },
+        "stable_path": [
+          "9940:30526"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "696402905",
+      "uuid": "97e6dbfe-c072-47dc-906d-a0485a095d90",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-02-08T16:08:09.057Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Components!!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9940:26172",
+        "node_offset": {
+          "x": 304,
+          "y": 297
+        },
+        "stable_path": [
+          "9940:26172"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "693644215",
+      "uuid": "62e9d510-3f37-4bf9-ab5e-fccdb284e8ee",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-02-06T19:45:00.948Z",
+      "resolved_at": null,
+      "message": "What happens when you are signed in and click on the avatar or your email? Does it take you to your account settings page? (Thinking long term about profiles on mobile)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9466:30484",
+        "node_offset": {
+          "x": 214,
+          "y": 134
+        },
+        "stable_path": [
+          "9466:30484"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "690029710",
+      "uuid": "89afa633-55ed-4fcb-8a66-c36a469ed3c2",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-02-02T15:26:09.177Z",
+      "resolved_at": null,
+      "message": "Consistency with fakespot to dismiss using the close button.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9509:44541",
+        "node_offset": {
+          "x": 323,
+          "y": 103
+        },
+        "stable_path": [
+          "9509:44541"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "690019710",
+      "uuid": "d16a472e-d01c-45ab-9dcd-1cd6b6220106",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-02-02T15:18:46.059Z",
+      "resolved_at": null,
+      "message": "Add the native sheet as design for larger breakpointds",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9509:38530",
+        "node_offset": {
+          "x": 381,
+          "y": 206
+        },
+        "stable_path": [
+          "9509:38530"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "690011028",
+      "uuid": "ea8dcf4a-0848-4724-a1e9-3d8158e435d9",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-02-02T15:12:16.561Z",
+      "resolved_at": null,
+      "message": "Define behavior for changes in text size due to accessibillity",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9509:38146",
+        "node_offset": {
+          "x": 191,
+          "y": 137
+        },
+        "stable_path": [
+          "9509:38146"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "690006340",
+      "uuid": "6b4d810d-d0c0-42e7-817f-521942ae1029",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-02-02T15:08:44.475Z",
+      "resolved_at": null,
+      "message": "Don't not resizing for less content",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9509:38513",
+        "node_offset": {
+          "x": 107,
+          "y": 263
+        },
+        "stable_path": [
+          "9509:38513"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "690003853",
+      "uuid": "5290333b-7ce9-4dd2-93dc-479c3d15c583",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-02-02T15:06:52.656Z",
+      "resolved_at": null,
+      "message": "Check the need of a handler",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9509:38146",
+        "node_offset": {
+          "x": 175,
+          "y": 89
+        },
+        "stable_path": [
+          "9509:38146"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "690001314",
+      "uuid": "fad2e357-12e0-491a-bc1c-f90c01fb4d19",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-02-02T15:04:53.902Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya Check how fakespot works and utilize that behavior and other hig guidelines",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9509:38437",
+        "node_offset": {
+          "x": 115,
+          "y": 141
+        },
+        "stable_path": [
+          "9509:38437"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "684133872",
+      "uuid": "52013590-fd65-4ea3-9a33-efcc3f993e10",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-01-29T16:49:22.790Z",
+      "resolved_at": null,
+      "message": "Proposed adding a sync status here. Not sure how and what content should be displayed.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9466:30484",
+        "node_offset": {
+          "x": 85,
+          "y": 133
+        },
+        "stable_path": [
+          "9466:30484"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "679734662",
+      "uuid": "e4a23fbb-a9b4-4254-83c4-9b8c07bee53c",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabriel Luong",
+        "img_url": "https://www.gravatar.com/avatar/61971c71e0b16793b6c2b7378091711f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "890605728240782952"
+      },
+      "created_at": "2024-01-24T18:22:44.368Z",
+      "resolved_at": null,
+      "message": "The \"Switch to Desktop site\" menu item is currently a switch toggle in the old menu design. Since we are moving away from the switch toggle, I am wondering if this menu item will be sufficient in conveying that the user has requested the desktop site. To go a bit further, will it be super clear if the desktop request was requested beyond just reading the text label here. Do we need a conditional color or icon visual to highlight this feature?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9239:46820",
+        "node_offset": {
+          "x": 63,
+          "y": 334
+        },
+        "stable_path": [
+          "9239:46820"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "679663003",
+      "uuid": "b981bb2e-1d69-42ec-992b-d6c0348fc796",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-01-24T17:22:20.468Z",
+      "resolved_at": null,
+      "message": "@Gabriel Luong @Harrison Oglesby Please review this.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9469:37249",
+        "node_offset": {
+          "x": 165,
+          "y": 37
+        },
+        "stable_path": [
+          "9469:37249"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "678274013",
+      "uuid": "664c3969-bd75-4181-aa71-d075a6bf486e",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-01-23T19:42:36.364Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya Maybe add a sync status for sync.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9469:37249",
+        "node_offset": {
+          "x": 276,
+          "y": 590
+        },
+        "stable_path": [
+          "9469:37249"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "678268943",
+      "uuid": "e08fab31-f7e0-4e59-88c1-f5943214ff21",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-01-23T19:37:52.791Z",
+      "resolved_at": null,
+      "message": "Looks like a tapped state / selected state.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9239:46820",
+        "node_offset": {
+          "x": 49,
+          "y": 425
+        },
+        "stable_path": [
+          "9239:46820"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "667899971",
+      "uuid": "55ec6638-93d2-4f83-bc2b-542c74dad0e2",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Daniela Arcese",
+        "img_url": "https://s3-alpha.figma.com/profile/a210a68c-7b93-4e79-af7d-ca23cca8bdc0",
+        "id": "892486685252040800"
+      },
+      "created_at": "2024-01-12T21:25:35.351Z",
+      "resolved_at": null,
+      "message": "Do we have scroll behaviour outlined anywhere? Does this start off as a smaller menu and then scroll to become larger?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8875:135721",
+        "node_offset": {
+          "x": 284,
+          "y": 24
+        },
+        "stable_path": [
+          "8875:135721"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "667717337",
+      "uuid": "fdbb2dde-7ae2-4302-b509-5a10c117d4a0",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-01-12T17:29:15.464Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya In the final specs, we should show truncation states for long emails or account names. I don't mind if those are truncated in the middle since we can't control that content.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8875:135727",
+        "node_offset": {
+          "x": 226,
+          "y": 500
+        },
+        "stable_path": [
+          "8875:135727"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "667617691",
+      "uuid": "9287abdb-9ce1-433e-b22c-bb9d43bd0b5b",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-01-12T15:53:48.546Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Please use this frame to test sign in strings",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6050:268255",
+        "node_offset": {
+          "x": 21244,
+          "y": 10374
+        },
+        "stable_path": [
+          "6050:268255"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "666089229",
+      "uuid": "1f193e70-4683-4b08-b59c-52cb56d3ef69",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-01-11T12:54:35.135Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Although, we have already discussed this, but with a fresh set of eyes as I returning from PTO, I feel it is not clear why the bottom 4 features separate than the top 4. I feel the 'more tools' section in the bottom will benefit by having its own copy for easier identification.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8875:135727",
+        "node_offset": {
+          "x": 645,
+          "y": 731
+        },
+        "stable_path": [
+          "8875:135727"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "665141242",
+      "uuid": "136d1626-259f-4790-a25b-28368a211460",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabriel Luong",
+        "img_url": "https://www.gravatar.com/avatar/61971c71e0b16793b6c2b7378091711f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "890605728240782952"
+      },
+      "created_at": "2024-01-10T18:17:45.143Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya I was wondering if these components could be linked back to our list item component in https://www.figma.com/file/ujdiReypSypu2GhRgzArea/Android-Components?node-id=3062%3A27594&mode=dev.\n\nI think they are both the same components if I am not mistaken. However, I am seeing the inner frames of the element are a bit different between the 2, but I think dimension-wise they look to be same. \n\nThis is more about making sure we align with our design system and the design components that we have already implemented. Seeing different dimensions might cause some confusion otherwise.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8499:174244",
+        "node_offset": {
+          "x": 221,
+          "y": 61
+        },
+        "stable_path": [
+          "8499:174244"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "661018169",
+      "uuid": "a0b88efc-7e5c-4aa4-892b-0d53e1be025c",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-01-05T16:59:44.752Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya The accounts team raised concerns about having both email & account name visible. In the past there were security concerns w/ having email visible when user has chosen an account name. Recommendation is to only show one here 1) Account name only if we have it 2) Email only if no account name [majority of accounts will be email only]",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8875:135719",
+        "node_offset": {
+          "x": 115,
+          "y": 62
+        },
+        "stable_path": [
+          "8875:135719"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "651809284",
+      "uuid": "c6b0318d-7daf-4b75-9544-41101e9a9f36",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-12-20T15:18:06.445Z",
+      "resolved_at": null,
+      "message": "@Michael Verdi Can you check out my first stab at IA for homepage menus? Ignore the icons please. \n\nCurrently we don't have \"New tab\" available on the homepage menus, but I'm wondering if maybe we do here to allow for a one-click entry to private browsing? I know homepage works differently between Android/iOS so maybe this wouldn't work.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8947:40306",
+        "node_offset": {
+          "x": 224,
+          "y": 441
+        },
+        "stable_path": [
+          "8947:40306"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "646847766",
+      "uuid": "209b4af5-2b74-49e3-90d8-3e5e08bee127",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-12-14T21:30:06.778Z",
+      "resolved_at": null,
+      "message": "@Tiffanie Shakespeare please review IA (see slack note)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8875:135727",
+        "node_offset": {
+          "x": 164,
+          "y": 479
+        },
+        "stable_path": [
+          "8875:135727"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "645403490",
+      "uuid": "c2628664-6792-4ff1-a205-7b78d8e0c263",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-12-13T20:04:36.007Z",
+      "resolved_at": null,
+      "message": "@Tiffanie Shakespeare",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7156:253798",
+        "node_offset": {
+          "x": -19104,
+          "y": 1353
+        },
+        "stable_path": [
+          "7156:253798"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "953857651",
+      "uuid": "22ebe508-1c09-4e5c-8c1f-b7c6156aef6e",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-09-18T13:17:16.825Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg I had a chat with @Gabriel Iorga and he said  that the menu drag handler has been named 'Collapse' for all the bottom sheets in the app, including the ones built in the past. Is that okay? \n* If this is okay, I will update the specs.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:128593",
+        "node_offset": {
+          "x": 533,
+          "y": 28
+        },
+        "stable_path": [
+          "10858:128593"
+        ]
+      },
+      "order_id": "232"
+    },
+    {
+      "id": "911598803",
+      "uuid": "0129da8c-d8ec-46d6-a03a-85a9367eafa2",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabriel Iorga",
+        "img_url": "https://www.gravatar.com/avatar/97f54ef8626093cb5e017281ae27e350?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "1067782885198971655"
+      },
+      "created_at": "2024-08-14T12:08:18.919Z",
+      "resolved_at": null,
+      "message": "If the user has already saved this website to shortcuts the Menu item becomes \"Remove from shortcuts\" and the talkback say \"Remove from shortcuts duble tap to activate\". @Aarjav Pandya",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:128965",
+        "node_offset": {
+          "x": 64,
+          "y": 166
+        },
+        "stable_path": [
+          "10858:128965"
+        ]
+      },
+      "order_id": "230"
+    },
+    {
+      "id": "903859403",
+      "uuid": "36330ddc-b5e3-4893-94f1-bd78f749b874",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Sanchaai Mathiyarasan",
+        "img_url": "https://www.gravatar.com/avatar/87f9c9ba782c6bd5632bb6ef1379e0e3?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1367863169324291690"
+      },
+      "created_at": "2024-08-07T19:25:30.753Z",
+      "resolved_at": null,
+      "message": "Hey @Morgan Rae Reschenberg (going to start up some threads to ask a couple of questions that were brought up in a patch I had pushed recently), our menu redesign currently reads \"collapse\" when the menu drag handle is focused by TalkBack, however there were some concerns about the naming being ambiguous as to what actions can be taken with the handle.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:128593",
+        "node_offset": {
+          "x": 643,
+          "y": 87
+        },
+        "stable_path": [
+          "10858:128593"
+        ]
+      },
+      "order_id": "228"
+    },
+    {
+      "id": "892368872",
+      "uuid": "2031df4f-eb70-42c3-933f-9f5c6921434b",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Sanchaai Mathiyarasan",
+        "img_url": "https://www.gravatar.com/avatar/87f9c9ba782c6bd5632bb6ef1379e0e3?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1367863169324291690"
+      },
+      "created_at": "2024-07-30T04:25:46.043Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg Hello :wave:, I had a question about this particular item: Why do we choose to read this text (through TalkBack) when this particular column is focused, rather than using something a hidden semantic header instead?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:128593",
+        "node_offset": {
+          "x": 572,
+          "y": 333
+        },
+        "stable_path": [
+          "10858:128593"
+        ]
+      },
+      "order_id": "225"
+    },
+    {
+      "id": "842600729",
+      "uuid": "1ef2cd53-e95d-4907-abf8-36ce21120ccd",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-17T19:11:00.053Z",
+      "resolved_at": null,
+      "message": "This annotation doesn't match our UI -- I believe it should switch to \"Desktop Site, On\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11024:155537",
+        "node_offset": {
+          "x": 892,
+          "y": 328
+        },
+        "stable_path": [
+          "11024:155537"
+        ]
+      },
+      "order_id": "218"
+    },
+    {
+      "id": "842599714",
+      "uuid": "15749aa9-7731-457e-bf76-18d004fb7df7",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-17T19:09:56.790Z",
+      "resolved_at": null,
+      "message": "Please use the on screen string in combination with the badge, ex. \"Desktop Site, Off\". If this can be enabled by clicking on this menu item, please use a toggle role instead of a menu item.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11024:155537",
+        "node_offset": {
+          "x": 905,
+          "y": 205
+        },
+        "stable_path": [
+          "11024:155537"
+        ]
+      },
+      "order_id": "217"
+    },
+    {
+      "id": "842595979",
+      "uuid": "ddb4ffae-9462-4850-9428-ada6dbcf3d64",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-17T19:06:01.375Z",
+      "resolved_at": null,
+      "message": "Are these menu items or sub menus?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11024:158806",
+        "node_offset": {
+          "x": 151,
+          "y": 235
+        },
+        "stable_path": [
+          "11024:158806"
+        ]
+      },
+      "order_id": "215"
+    },
+    {
+      "id": "842595290",
+      "uuid": "3b00befe-7177-492d-be22-4551d5a72e2c",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-17T19:05:18.191Z",
+      "resolved_at": null,
+      "message": "Is this disabled in the mockup? If so, please add an annotation for that here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11024:158806",
+        "node_offset": {
+          "x": 856,
+          "y": 159
+        },
+        "stable_path": [
+          "11024:158806"
+        ]
+      },
+      "order_id": "214"
+    },
+    {
+      "id": "842594562",
+      "uuid": "84f67206-47b7-4aec-8aa9-6325dcfebe80",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-17T19:04:31.218Z",
+      "resolved_at": null,
+      "message": "Name should be \"Main menu\"",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-06-18T16:53:17.822Z",
+          "user": {
+            "id": "1130907002513196392",
+            "handle": "Aarjav Pandya",
+            "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "11024:158806",
+        "node_offset": {
+          "x": 522,
+          "y": 125
+        },
+        "stable_path": [
+          "11024:158806"
+        ]
+      },
+      "order_id": "213"
+    },
+    {
+      "id": "842592921",
+      "uuid": "af720eac-b292-4565-ae1c-8fa6aed2c6db",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-17T19:02:48.028Z",
+      "resolved_at": null,
+      "message": "Is this menu item clickable? Does clicking it enable reader view?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11024:155028",
+        "node_offset": {
+          "x": 130,
+          "y": 347
+        },
+        "stable_path": [
+          "11024:155028"
+        ]
+      },
+      "order_id": "206"
+    },
+    {
+      "id": "840978841",
+      "uuid": "3c6293b6-5737-40c5-9d09-9e5bebc25ef2",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-14T21:43:42.693Z",
+      "resolved_at": null,
+      "message": "For users with magnifiers, this will be difficult to use -- can we align the badge closer to the label so it passes the straw test? https://scottvinkle.me/blogs/work/proximity-and-zoom",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10982:107916",
+        "node_offset": {
+          "x": 307,
+          "y": 223
+        },
+        "stable_path": [
+          "10982:107916"
+        ]
+      },
+      "order_id": "203"
+    },
+    {
+      "id": "840977055",
+      "uuid": "808b1573-747c-46fb-bbfd-2302b1079114",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-14T21:39:36.558Z",
+      "resolved_at": null,
+      "message": "Is it not possible to support the badges at higher text sizes? We should not be modifying our UI and strings in response to a text-size increase. This violates WCAG consistency standards.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11046:151069",
+        "node_offset": {
+          "x": 170,
+          "y": 613
+        },
+        "stable_path": [
+          "11046:151069"
+        ]
+      },
+      "order_id": "202"
+    },
+    {
+      "id": "840968537",
+      "uuid": "e86da0f3-73e4-42a5-bfc9-38861becb27e",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-14T21:22:15.328Z",
+      "resolved_at": null,
+      "message": "I am concerned that the options below are confusing for users with cognitive disabilities because they attempt to both (a) imply a current state and (b) express a possible action. \n\"Remove from Reading List\", for example, implies the current state (in the reading list) but doesn't make it explicit. Binary states, like being \"in\" or \"out\" of a set are best expressed through binary controls like a checkbox or toggle. Can we modify this UI to something like \"[checkbox or toggle] Save to Reading List\" where the associated label does not change when the checkbox is manipulated? This way, the state is expressed explicitly by the associated control, and the label is consistent.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10909:353418",
+        "node_offset": {
+          "x": 4679,
+          "y": 1090
+        },
+        "stable_path": [
+          "10909:353418"
+        ]
+      },
+      "order_id": "201"
+    },
+    {
+      "id": "840963538",
+      "uuid": "b9c88a55-5dcd-45bd-8e3e-e6aa7646b0eb",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-14T21:13:15.566Z",
+      "resolved_at": null,
+      "message": "Can a user click this to disable/enable reader mode?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10982:109275",
+        "node_offset": {
+          "x": 292,
+          "y": 151
+        },
+        "stable_path": [
+          "10982:109275"
+        ]
+      },
+      "order_id": "200"
+    },
+    {
+      "id": "840963469",
+      "uuid": "07ecfe96-fc45-4ae7-b41d-d223d4f06619",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-14T21:13:08.456Z",
+      "resolved_at": null,
+      "message": "Can a user click this item to modify the zoom level, or is it purely informational?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10982:108916",
+        "node_offset": {
+          "x": 273,
+          "y": 90
+        },
+        "stable_path": [
+          "10982:108916"
+        ]
+      },
+      "order_id": "199"
+    },
+    {
+      "id": "839504820",
+      "uuid": "a7f37337-a05b-4c48-9a66-d8491b525705",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-06-13T20:24:15.160Z",
+      "resolved_at": null,
+      "message": "For items that have an \"on\" / \"off\" badge, we should use a toggle. Using a badge on top of a control like a menu item (as we've done here) may leave users wondering if the state is editable or influenced by their selections in another part of the UI. Using a toggle would communicate a clearer interaction state/capability.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10909:353418",
+        "node_offset": {
+          "x": 155,
+          "y": 40
+        },
+        "stable_path": [
+          "10909:353418"
+        ]
+      },
+      "order_id": "197"
+    },
+    {
+      "id": "766941713",
+      "uuid": "caabb109-24d3-4fdc-af41-173c8f8f0fe6",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-04-11T15:14:12.340Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya Can you please add an option that says \"Turn on Night Mode\" under \"Turn on Reader View\" and above \"Review Checker\"? Like Reader View, this one will have an on/off state. I will add this change to the rationale doc (we are keeping in the menu due to a11y aspects of this feature)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19728:173475",
+        "node_offset": {
+          "x": 1373,
+          "y": 300
+        },
+        "stable_path": [
+          "19728:173475"
+        ]
+      },
+      "order_id": "166"
+    },
+    {
+      "id": "749202931",
+      "uuid": "5e8db082-cf9b-42f2-8baf-36a79f0985e6",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-26T19:41:56.062Z",
+      "resolved_at": null,
+      "message": "Is \"Button\" part of the UI?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9751:50068",
+        "node_offset": {
+          "x": 342,
+          "y": 285
+        },
+        "stable_path": [
+          "9751:50068"
+        ]
+      },
+      "order_id": "156"
+    },
+    {
+      "id": "749202387",
+      "uuid": "99384f1c-6fb4-464f-80a8-413555bf5063",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-26T19:41:25.310Z",
+      "resolved_at": null,
+      "message": "Insufficient contrast",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9751:50068",
+        "node_offset": {
+          "x": 360,
+          "y": 346
+        },
+        "stable_path": [
+          "9751:50068"
+        ]
+      },
+      "order_id": "155"
+    },
+    {
+      "id": "749202175",
+      "uuid": "49689514-97ba-439d-8c52-e5fe80529fb3",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-26T19:41:14.693Z",
+      "resolved_at": null,
+      "message": "Insufficient contrast",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9751:50068",
+        "node_offset": {
+          "x": 45,
+          "y": 445
+        },
+        "stable_path": [
+          "9751:50068"
+        ]
+      },
+      "order_id": "154"
+    },
+    {
+      "id": "749201536",
+      "uuid": "f901bc60-cfa0-4934-a817-2d47babcd6c8",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-26T19:40:36.960Z",
+      "resolved_at": null,
+      "message": "Insufficient contrast, see iOS component comments",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9751:50069",
+        "node_offset": {
+          "x": 202,
+          "y": 296
+        },
+        "stable_path": [
+          "9751:50069"
+        ]
+      },
+      "order_id": "153"
+    },
+    {
+      "id": "747568368",
+      "uuid": "03a99ed2-0c55-4cf6-ad59-0806befce4a6",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-03-25T20:04:46.053Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong Hi! I have updated/added colors for addressing accessibility requirements. Please review all the states of the list item for android and iOS.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9751:50068",
+        "node_offset": {
+          "x": 192,
+          "y": 84
+        },
+        "stable_path": [
+          "9751:50068"
+        ]
+      },
+      "order_id": "148"
+    },
+    {
+      "id": "742756833",
+      "uuid": "648a83dd-480b-4a38-8fd4-162118ef318b",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-20T20:48:50.281Z",
+      "resolved_at": null,
+      "message": "what do these icons here and below (27) represent?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11740:774458",
+        "node_offset": {
+          "x": 324,
+          "y": 120
+        },
+        "stable_path": [
+          "11740:774458"
+        ]
+      },
+      "order_id": "141"
+    },
+    {
+      "id": "742756202",
+      "uuid": "f164521c-31cc-4e5d-9aea-3d14d9bb063c",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-20T20:48:16.375Z",
+      "resolved_at": null,
+      "message": "how do users get to this screen?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11740:774457",
+        "node_offset": {
+          "x": 122,
+          "y": 22
+        },
+        "stable_path": [
+          "11740:774457"
+        ]
+      },
+      "order_id": "140"
+    },
+    {
+      "id": "742744674",
+      "uuid": "cf8053a0-604c-47b1-90df-3ea8f3ee3ef6",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-20T20:37:37.037Z",
+      "resolved_at": null,
+      "message": "Expanded/collapsed state should be communicated here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10858:128593",
+        "node_offset": {
+          "x": 517,
+          "y": 94
+        },
+        "stable_path": [
+          "10858:128593"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "726406361",
+      "uuid": "f8015907-feba-4832-917a-586a4a876a26",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-03-06T20:18:16.574Z",
+      "resolved_at": null,
+      "message": "Zoom in its natural state would say (100%) at the end. Not sure where the copy component lives so I don't want to edit here for fear of overriding the component text",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10982:108347",
+        "node_offset": {
+          "x": 303,
+          "y": 113
+        },
+        "stable_path": [
+          "10982:108347"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "700791060",
+      "uuid": "eeb588e4-a201-429a-87d1-db55aacf7a19",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-02-13T17:26:49.136Z",
+      "resolved_at": null,
+      "message": "Similarly, the contrast between the white background of the enabled menu item and the off-white of the pressed menu item contrast at 1:1.05, we need them to contrast at 1:3",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-02-13T17:32:46.794Z",
+          "user": {
+            "id": "939685140842746524",
+            "handle": "Morgan Rae Reschenberg",
+            "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9751:50068",
+        "node_offset": {
+          "x": 321,
+          "y": 42
+        },
+        "stable_path": [
+          "9751:50068"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "700665925",
+      "uuid": "34bdbbd8-9052-43bb-bcc3-abf485a8cd01",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-02-13T15:58:41.719Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg Would there be accessibility issues with the active states of the menu items? All possible states for menu items are added here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9751:50068",
+        "node_offset": {
+          "x": 153,
+          "y": 283
+        },
+        "stable_path": [
+          "9751:50068"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "699568767",
+      "uuid": "bfd8a7e8-b940-4a87-abc1-104af749341f",
+      "file_key": "RFz9fYtotQCQuinwcZujZt",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-12T21:25:27.894Z",
+      "resolved_at": null,
+      "message": "The contrast between these buttons and their background is 1.13 -- can we increase it?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9896:1098908",
+        "node_offset": {
+          "x": 1622,
+          "y": 321
+        },
+        "stable_path": [
+          "9896:1098908"
+        ]
+      },
+      "order_id": "60"
+    }
+  ]
+}

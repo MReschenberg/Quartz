@@ -1,0 +1,1037 @@
+{
+  "unresolved": [
+    {
+      "id": "1448702569",
+      "uuid": "079e883c-9975-41fe-9565-dfd4e8d96f46",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-09-30T16:39:48.574Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak - I don't think I've seen a modal of this style before, without a header. Do you think it needs one or nah?\n\nAlso, the the 'not' is conceivably a big part of the message. For that reason, wonder if it should be a separate sentence? Not sure if that gives it more weight or not versus an em dash.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9685:46616",
+        "node_offset": {
+          "x": 569,
+          "y": 114
+        },
+        "stable_path": [
+          "9685:46616"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1447015642",
+      "uuid": "4989b3fc-9325-40bf-9189-30019cda8c2a",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-09-29T20:33:46.098Z",
+      "resolved_at": null,
+      "message": "Question for @Jared Hirsch and @Misha Bruk would we still assign a random theme to a copied profile if they had installed a custom theme in the copied profile? i think it makes sense to give a new theme anyway but wanted to double check",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9685:46130",
+        "node_offset": {
+          "x": 440,
+          "y": 406
+        },
+        "stable_path": [
+          "9685:46130"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1438458794",
+      "uuid": "65c4ea8e-0f81-4f48-87e3-9701fe2d353c",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2025-09-23T16:09:29.553Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9629:17746",
+        "node_offset": {
+          "x": 642,
+          "y": 694
+        },
+        "stable_path": [
+          "9629:17746"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1436230239",
+      "uuid": "e2f66adc-f953-4ba9-9b24-4508b20ab2ef",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Jared Wein",
+        "img_url": "https://s3-alpha.figma.com/profile/6f426105-0675-430b-9e74-156bda394020",
+        "id": "897575435417812155"
+      },
+      "created_at": "2025-09-22T13:51:36.585Z",
+      "resolved_at": null,
+      "message": "Anytime we have a \"Got it\" button can we also include a \"Show me how\" or a \"Create profile\" button?\n\nI worry that the user won't read the body text and only read the action button text. \"Got it\" dismisses the popup but the user won't have a way to get it back. \"Show me how\" walks the user through how to do it and \"Create profile\" helps them move faster to create another (skipping the menu steps).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9481:8915",
+        "node_offset": {
+          "x": 299,
+          "y": 384
+        },
+        "stable_path": [
+          "9481:8915"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1434380527",
+      "uuid": "2c6eeb98-32a8-4721-87c6-e2ea059c390a",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2025-09-19T18:01:46.690Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak feel free to copy from here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9542:20255",
+        "node_offset": {
+          "x": 205,
+          "y": 328
+        },
+        "stable_path": [
+          "9542:20255"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1432652990",
+      "uuid": "374eadb4-e6db-4e99-97c0-a157506910b3",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-09-18T18:37:12.892Z",
+      "resolved_at": null,
+      "message": "Show me how: opens the menu with the option highlighted",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9481:8836",
+        "node_offset": {
+          "x": 354,
+          "y": 396
+        },
+        "stable_path": [
+          "9481:8836"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1432643749",
+      "uuid": "5ba1b97f-e2c2-4fe4-8ef0-c3fad5551a42",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-09-18T18:30:26.175Z",
+      "resolved_at": null,
+      "message": "Image Q: \nCan this be an animated gif? \n\nCould be helpful in showing where it is or how to create a new one.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9504:3009",
+        "node_offset": {
+          "x": 83,
+          "y": 72
+        },
+        "stable_path": [
+          "9504:3009"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1432642423",
+      "uuid": "e5688682-712c-4683-a2e4-57b434366dac",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-09-18T18:29:31.723Z",
+      "resolved_at": null,
+      "message": "riffin on the 2 playful options: \nI liked the wording of the first one (\"finall things profiles...\") but like the directions of the second one (\"edit this one, hop...\") \n\nOPO!!!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9504:3009",
+        "node_offset": {
+          "x": 349,
+          "y": 323
+        },
+        "stable_path": [
+          "9504:3009"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1432642050",
+      "uuid": "bda88e85-1d24-4b49-a321-79cd939b6f70",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-09-18T18:29:17.227Z",
+      "resolved_at": null,
+      "message": "I think we did a message in the past that actually could trigger opening the app menu and highlighting the place we are talking about... I will try to dig up. Worth asking ENG about!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9502:2973",
+        "node_offset": {
+          "x": 302,
+          "y": 396
+        },
+        "stable_path": [
+          "9502:2973"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1432641296",
+      "uuid": "97b2a949-8038-44a0-b773-c40663f23ca6",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-09-18T18:28:47.451Z",
+      "resolved_at": null,
+      "message": "What if \"Got it\" was primary and \"Manage profiles\" or \"Add profiles was secondary",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-09-18T18:32:27.500Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9481:8836",
+        "node_offset": {
+          "x": 393,
+          "y": 404
+        },
+        "stable_path": [
+          "9481:8836"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1432640881",
+      "uuid": "4876cef6-7ee2-4874-935e-4b728d307ace",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-09-18T18:28:30.197Z",
+      "resolved_at": null,
+      "message": "I like this body copy. Small riff - \n\nOpen the menu and select your profile to make changes, add another, and switch with ease.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9482:3190",
+        "node_offset": {
+          "x": 387,
+          "y": 349
+        },
+        "stable_path": [
+          "9482:3190"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1432639787",
+      "uuid": "2cedb4ab-1c74-4c30-92b1-71c0fd092136",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-09-18T18:27:46.335Z",
+      "resolved_at": null,
+      "message": "Riff: Your profile is good to go",
+      "reactions": [
+        {
+          "emoji": ":fire:",
+          "created_at": "2025-09-18T18:29:13.540Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        },
+        {
+          "emoji": ":fire:",
+          "created_at": "2025-09-18T18:32:11.613Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9481:8877",
+        "node_offset": {
+          "x": 216,
+          "y": 294
+        },
+        "stable_path": [
+          "9481:8877"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1432638127",
+      "uuid": "2feeba32-5a8c-4952-a306-a23a66327878",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-09-18T18:26:39.715Z",
+      "resolved_at": null,
+      "message": "fwiw I like this body copy. It's playful, short, and clear",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-09-18T18:27:14.235Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9481:8915",
+        "node_offset": {
+          "x": 183,
+          "y": 334
+        },
+        "stable_path": [
+          "9481:8915"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1432637354",
+      "uuid": "ed76f6b3-a17f-4970-9530-e8632d3d3d27",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-09-18T18:26:07.164Z",
+      "resolved_at": null,
+      "message": "OPO: I feel like this a nice use of an emoji :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9481:8836",
+        "node_offset": {
+          "x": 256,
+          "y": 281
+        },
+        "stable_path": [
+          "9481:8836"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1432637230",
+      "uuid": "9600360b-b023-4469-bfae-0719c47daac7",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-09-18T18:26:02.504Z",
+      "resolved_at": null,
+      "message": "I don't know that the term alter ego is tracking for me. Makes it feel more like an private browsing mode than a thing I use to keep things separate",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9481:8836",
+        "node_offset": {
+          "x": 56,
+          "y": 366
+        },
+        "stable_path": [
+          "9481:8836"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1432637229",
+      "uuid": "199a189e-2b97-40e1-afa8-da3bdf53a072",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-09-18T18:26:02.440Z",
+      "resolved_at": null,
+      "message": "If profile is 'alter ego' does main - er - main ego - also have a profile? Or is it profile-less?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9481:2135",
+        "node_offset": {
+          "x": 2088,
+          "y": 739
+        },
+        "stable_path": [
+          "9481:2135"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1432636031",
+      "uuid": "293abef7-711f-4d28-8701-06cfdfd53e19",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-09-18T18:25:15.196Z",
+      "resolved_at": null,
+      "message": "fwiw I think the clever one and this \"Welcome\" playful one are working best for me for headlines",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9481:2135",
+        "node_offset": {
+          "x": 1815,
+          "y": 238
+        },
+        "stable_path": [
+          "9481:2135"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1432635987",
+      "uuid": "67851ea7-09f1-4318-be06-9e4b5405df4b",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-09-18T18:25:13.575Z",
+      "resolved_at": null,
+      "message": "OPO: I don't mind the alter ego line :)\n\nI prefer it here vs in the headline",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9481:8836",
+        "node_offset": {
+          "x": 143,
+          "y": 367
+        },
+        "stable_path": [
+          "9481:8836"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1432635097",
+      "uuid": "467e7d21-db1c-4c96-b52f-382613f9cd70",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-09-18T18:24:37.334Z",
+      "resolved_at": null,
+      "message": "This one resonates bc it's clearly calling out to either spin up another, edit, hop bt them. \"Spin up another\" is a nice touch! \n\nMy only nit is if \"alter ego\" has a good translation to other locales or not.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-09-18T18:26:06.213Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9481:8915",
+        "node_offset": {
+          "x": 349,
+          "y": 319
+        },
+        "stable_path": [
+          "9481:8915"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1432634918",
+      "uuid": "11aeef15-41b8-41f3-9144-7a66d60d1818",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-09-18T18:24:29.255Z",
+      "resolved_at": null,
+      "message": "I am wondering if the headline can do some more lift in communicating the 'where you manage profiles' aspect? \n\nRiff\nManage profiles in this menu",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9481:8877",
+        "node_offset": {
+          "x": 249,
+          "y": 300
+        },
+        "stable_path": [
+          "9481:8877"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1432634415",
+      "uuid": "ecfa63d8-a643-457a-827a-86cbb2547daf",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-09-18T18:24:08.870Z",
+      "resolved_at": null,
+      "message": "I feel like ages ago I'd seen a text version of the Hamburger menu in product, sort of how it shows up in SUMO articles.\n\nMaybe that'd be helpful to over-communicate even though it's pointing to it?",
+      "reactions": [
+        {
+          "emoji": ":eyes:",
+          "created_at": "2025-09-18T18:28:28.494Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9512:3302",
+        "node_offset": {
+          "x": 399,
+          "y": 363
+        },
+        "stable_path": [
+          "9512:3302"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1432633659",
+      "uuid": "56a35730-f181-40ec-8362-1e17a7880909",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-09-18T18:23:38.340Z",
+      "resolved_at": null,
+      "message": "Just a thought - I feel like these all encourage me to \"do something\" by managing my profile, which makes me feel like the other stuff (logging in, bookmarks, etc.) the things I use the profile for are either in there or not automatic",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9481:2135",
+        "node_offset": {
+          "x": 1827,
+          "y": 428
+        },
+        "stable_path": [
+          "9481:2135"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1432632845",
+      "uuid": "fe56acb7-7921-4263-a4a9-0694ed2bbe71",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-09-18T18:23:05.451Z",
+      "resolved_at": null,
+      "message": "possibly bad idea for a secondary action:\nCreate another profile\n\ntend to agree got it should be primary",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9481:8877",
+        "node_offset": {
+          "x": 266,
+          "y": 388
+        },
+        "stable_path": [
+          "9481:8877"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1432632492",
+      "uuid": "5cce1da9-118b-4425-bb33-f45391f21d10",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-09-18T18:22:51.162Z",
+      "resolved_at": null,
+      "message": "Are we an emoji brand? thoughts?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9481:8836",
+        "node_offset": {
+          "x": 339,
+          "y": 296
+        },
+        "stable_path": [
+          "9481:8836"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1432631615",
+      "uuid": "4667f4dd-1e69-4bac-9ca1-b45c261aa70d",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-09-18T18:22:16.716Z",
+      "resolved_at": null,
+      "message": "Could the image communicate where we want them to go? Like a visual of the hamburger menu and its carrat? I think it is a good idea to have one.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-09-18T18:29:01.352Z",
+          "user": {
+            "id": "1083509274597697392",
+            "handle": "Jeff Pfaller",
+            "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9512:3302",
+        "node_offset": {
+          "x": 54,
+          "y": 34
+        },
+        "stable_path": [
+          "9512:3302"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1430596369",
+      "uuid": "0bc0bc40-d3ca-4736-84b0-cc2ac3306100",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-09-17T18:16:17.948Z",
+      "resolved_at": null,
+      "message": "Can you please not include the word \"Default\" as the label here? Worry eng might find it confusing",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9455:19865",
+        "node_offset": {
+          "x": 435,
+          "y": 281
+        },
+        "stable_path": [
+          "9455:19865"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1430594676",
+      "uuid": "907aa29a-aa9e-4539-8fda-7d8a185b513e",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-09-17T18:15:11.512Z",
+      "resolved_at": null,
+      "message": "I prefer this modal view to having everything exposed. Keeps the page cleaner.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9459:20629",
+        "node_offset": {
+          "x": 280,
+          "y": 116
+        },
+        "stable_path": [
+          "9459:20629"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1430594232",
+      "uuid": "3bd1eb14-956b-44c6-b8f6-6254d86abbdb",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-09-17T18:14:54.414Z",
+      "resolved_at": null,
+      "message": "Why isn't this a dropdown menu too? Would clean up the space.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9459:19338",
+        "node_offset": {
+          "x": 416,
+          "y": 286
+        },
+        "stable_path": [
+          "9459:19338"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1336722946",
+      "uuid": "3c812a6a-3ed0-4786-8cbf-cf91d0cac30f",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-07-11T18:28:08.924Z",
+      "resolved_at": null,
+      "message": "Added some copy to this flow but will prob want to revisit later. do we plan on user testing? @Misha Bruk",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8665:12894",
+        "node_offset": {
+          "x": 542,
+          "y": 1261
+        },
+        "stable_path": [
+          "8665:12894"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1336722649",
+      "uuid": "7928fdc2-80a8-4dc9-8468-2713a7f8c269",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-07-11T18:27:50.903Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk Might want a learn more link about profile copies...let's discuss",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8665:12894",
+        "node_offset": {
+          "x": 685,
+          "y": 1318
+        },
+        "stable_path": [
+          "8665:12894"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1323697712",
+      "uuid": "23c5564f-36c8-484f-8a38-ab81b6283053",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2025-07-02T16:47:25.825Z",
+      "resolved_at": null,
+      "message": "explore an option that lets you have granularity for what to copy over like history, addons, passwords etc",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8605:12403",
+        "node_offset": {
+          "x": 592,
+          "y": 1638
+        },
+        "stable_path": [
+          "8605:12403"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1262663520",
+      "uuid": "13f21d08-50bf-479c-998e-6350fd138ada",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-05-19T16:26:11.614Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk I explored 4 options here for a message that would show when another profile updates the ToS settings. Lmk what you think about these approaches. I think the 4th might be the simplest.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8159:21156",
+        "node_offset": {
+          "x": 828,
+          "y": 460
+        },
+        "stable_path": [
+          "8159:21156"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1225389048",
+      "uuid": "cce99bc8-9fc2-467f-8b35-9e5f949918c5",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-21T20:39:26.219Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk I had the idea that these could all be \"Use default profile\" to start and it would match whatever the setting above is. And then they can change these if they want.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7990:12264",
+        "node_offset": {
+          "x": 990,
+          "y": 870
+        },
+        "stable_path": [
+          "7990:12264"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1222415672",
+      "uuid": "70ba4424-4524-4baf-92ae-93f978f2074e",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-17T19:25:18.775Z",
+      "resolved_at": null,
+      "message": "What will this do?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7949:14443",
+        "node_offset": {
+          "x": 760,
+          "y": 689
+        },
+        "stable_path": [
+          "7949:14443"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1222405601",
+      "uuid": "7e808977-1ef4-484e-9d84-c5b1fc64bcf8",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-17T19:16:50.518Z",
+      "resolved_at": null,
+      "message": "We should ask Jared what it would mean to have a \"global\" setting like this that's accessible from each profile but applies to all profiles. Are there any implications? Any reason to handle this in the manager window instead?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7949:14443",
+        "node_offset": {
+          "x": 1162,
+          "y": 269
+        },
+        "stable_path": [
+          "7949:14443"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1222404199",
+      "uuid": "1d9a4db3-399c-4ed1-a57c-4c212f4d2907",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-17T19:15:34.897Z",
+      "resolved_at": null,
+      "message": "A few things based on the way Edge handles this:\n1. They let you set default profiles for external links or even certain websites. \n2. Interestingly, the last used profile always opens at startup and there is no setting for this. \n3. They have \"Last used (default)\" as an option to pick from\n\nHow this applies to us:\n1. The user story is just about app startup, but do we also want it to apply to external links as well?\n2. Do we think we'll ever want to get more granular and add custom sites/apps as well? If so I can think more scalably about the name.\n3. I think we should have a last used option and potentially make that the default option.\n4. I think we should provide a path to get to these settings from the Profile Manager, and potentially a way to note the default profile on the manager (we might not want to do this if we get more granular in the future though)\n@Misha Bruk",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7949:12110",
+        "node_offset": {
+          "x": 4270,
+          "y": 434
+        },
+        "stable_path": [
+          "7949:12110"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1222405601",
+      "uuid": "7e808977-1ef4-484e-9d84-c5b1fc64bcf8",
+      "file_key": "cCmVBQQfWKd3I9rgaUqOLo",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-17T19:16:50.518Z",
+      "resolved_at": null,
+      "message": "We should ask Jared what it would mean to have a \"global\" setting like this that's accessible from each profile but applies to all profiles. Are there any implications? Any reason to handle this in the manager window instead?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7949:14443",
+        "node_offset": {
+          "x": 1162,
+          "y": 269
+        },
+        "stable_path": [
+          "7949:14443"
+        ]
+      },
+      "order_id": "2"
+    }
+  ]
+}

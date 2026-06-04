@@ -1,0 +1,1907 @@
+{
+  "unresolved": [
+    {
+      "id": "1647154592",
+      "uuid": "1a8d2ac5-56eb-4661-bad5-dd65d07f4638",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2026-02-24T21:14:12.032Z",
+      "resolved_at": null,
+      "message": "Hey @Jeff Pfaller, eng suggested that instead of simply pluralizing the confirmation copy in this particular dialog, we include a dynamic counter to show the exact number of files selected (e.g., \u201cDelete 2 files?\u201d).\n\nI think it\u2019s a great thought, but since we already display the selected count in the header on the previous screen, and again in the snackbar confirmation in the next screen, I wasn't sure if adding it here as well might start feeling too redundant. WDYT?\n\nSeparately, I\u2019m noticing we use \u201citem\u201d in some places and \u201cfile\u201d in others. Should we standardize on one term for consistency?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12912:24241",
+        "node_offset": {
+          "x": 260,
+          "y": 372
+        },
+        "stable_path": [
+          "12912:24241"
+        ]
+      },
+      "order_id": "208"
+    },
+    {
+      "id": "1635366887",
+      "uuid": "54eb5778-d729-4775-80bb-796ad6d62668",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Cathy Lu",
+        "img_url": "https://s3-alpha.figma.com/profile/f29c0db1-7692-41b8-ad0f-4e39e596be50",
+        "id": "1117093170175595025"
+      },
+      "created_at": "2026-02-16T18:59:21.435Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel Not pressing, but a follow up question: \nWhen you rename name.ext to NAME.ext or name.EXT, it currently will serve an error saying that already exists. This is due to an implementation issue. I tried replicating the same issue on Files app and on Chrome, it also won't allow renaming. I'm wondering if there is a better error we can serve. As a user it does seem weird that the error says \"A file named \"name.EXT already exists\" when technically the existing file is called name.ext.\n\nLet me know what you think. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12609:5093",
+        "node_offset": {
+          "x": 224,
+          "y": 328
+        },
+        "stable_path": [
+          "12609:5093"
+        ]
+      },
+      "order_id": "207"
+    },
+    {
+      "id": "1616664330",
+      "uuid": "ec91da1c-071b-42b3-83d8-df2808b10e99",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Akhil Pindiprolu",
+        "img_url": "https://www.gravatar.com/avatar/39a1f7e1eb42defa633a5ea7489cb341?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1503782183365659014"
+      },
+      "created_at": "2026-02-03T17:59:29.048Z",
+      "resolved_at": null,
+      "message": "Hey @Maggie Atkinson!\nJust a quick question, on the ticket related to updating the downloads settings screen, it said that the design was not fully finalized, is this still the design that we want for the download settings update?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12019:11322",
+        "node_offset": {
+          "x": 328,
+          "y": 748
+        },
+        "stable_path": [
+          "12019:11322"
+        ]
+      },
+      "order_id": "206"
+    },
+    {
+      "id": "1612333813",
+      "uuid": "c2af5e19-5f3b-422d-921d-0be6db2eb22b",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2026-01-30T19:26:03.962Z",
+      "resolved_at": null,
+      "message": "This feels like it might work better as an inline error, since it's pretty light weight? Is this common behavior to do a dialog and then close or OK it to go back? I would also maybe expect to be able to overwrite the file",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-01-30T20:17:14.063Z",
+          "user": {
+            "id": "1117093170175595025",
+            "handle": "Cathy Lu",
+            "img_url": "https://s3-alpha.figma.com/profile/f29c0db1-7692-41b8-ad0f-4e39e596be50"
+          }
+        },
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-01-30T19:38:19.617Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "12609:5093",
+        "node_offset": {
+          "x": 257,
+          "y": 406
+        },
+        "stable_path": [
+          "12609:5093"
+        ]
+      },
+      "order_id": "205"
+    },
+    {
+      "id": "1612092434",
+      "uuid": "8b038db2-dd09-4200-8e48-71c9db3e60ed",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Cathy Lu",
+        "img_url": "https://s3-alpha.figma.com/profile/f29c0db1-7692-41b8-ad0f-4e39e596be50",
+        "id": "1117093170175595025"
+      },
+      "created_at": "2026-01-30T16:21:59.694Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel I'm curious if you think showing this error dialog can break the flow of the user's renaming file process or if there is a reason why we don't show the error when they click save as a \"file validation\" error format, like what we have for invalid special characters below. Does that make sense? What do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12609:5093",
+        "node_offset": {
+          "x": 153,
+          "y": 491
+        },
+        "stable_path": [
+          "12609:5093"
+        ]
+      },
+      "order_id": "204"
+    },
+    {
+      "id": "1604392741",
+      "uuid": "f34da922-8732-4c2d-8f58-a09b3dbc4f46",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Cathy Lu",
+        "img_url": "https://s3-alpha.figma.com/profile/f29c0db1-7692-41b8-ad0f-4e39e596be50",
+        "id": "1117093170175595025"
+      },
+      "created_at": "2026-01-26T23:23:31.112Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel should users be allowed to rename to a file name with no extension, for example \"document\"? in that case, is it okay for the dialog to say \"{}\" or should it say something else? Should this dialog ever appear at all if they're removing the extension?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12125:19895",
+        "node_offset": {
+          "x": 195,
+          "y": 342
+        },
+        "stable_path": [
+          "12125:19895"
+        ]
+      },
+      "order_id": "202"
+    },
+    {
+      "id": "1604186129",
+      "uuid": "979deeb8-39e9-49f9-a8b4-28a918931f49",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Cathy Lu",
+        "img_url": "https://s3-alpha.figma.com/profile/f29c0db1-7692-41b8-ad0f-4e39e596be50",
+        "id": "1117093170175595025"
+      },
+      "created_at": "2026-01-26T20:16:09.887Z",
+      "resolved_at": null,
+      "message": "hey @Megan Daniel, I'm working on this right now and there's a couple possible errors we could return to the user if their rename fails after they press Save: \n1. name already exists\n2. invalid name (if we don't catch this in the form validation)\n3. general permissions error or store restrictions, etc\n\nWondering which ones we want to show the user and what that dialog would look like.",
+      "reactions": [
+        {
+          "emoji": ":eyes:",
+          "created_at": "2026-01-28T14:07:22.416Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "12125:20317",
+        "node_offset": {
+          "x": 253,
+          "y": 418
+        },
+        "stable_path": [
+          "12125:20317"
+        ]
+      },
+      "order_id": "201"
+    },
+    {
+      "id": "1552239726",
+      "uuid": "4379b658-8549-4b9f-b069-7630e6f8c624",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-12-10T21:10:25.265Z",
+      "resolved_at": null,
+      "message": "Do we need to have a subhead? My pref would be to remove @Megan Daniel",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11972:25887",
+        "node_offset": {
+          "x": 236,
+          "y": 519
+        },
+        "stable_path": [
+          "11972:25887"
+        ]
+      },
+      "order_id": "196"
+    },
+    {
+      "id": "1551767967",
+      "uuid": "ad82010c-4e2b-495c-b1b1-83bc28d15e95",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-12-10T15:57:28.100Z",
+      "resolved_at": null,
+      "message": "Headline: Works as is Body: You don't have permission to use this folder. Try choosing a different one.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-12-10T18:44:19.988Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "12037:1814",
+        "node_offset": {
+          "x": 410,
+          "y": 76
+        },
+        "stable_path": [
+          "12037:1814"
+        ]
+      },
+      "order_id": "195"
+    },
+    {
+      "id": "1498642167",
+      "uuid": "5b3b945d-18ed-4093-9137-e89bb1796030",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2025-11-04T17:49:30.505Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller I copied Chrome's strings here, do you want to change anything?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12125:19895",
+        "node_offset": {
+          "x": 345,
+          "y": 239
+        },
+        "stable_path": [
+          "12125:19895"
+        ]
+      },
+      "order_id": "188"
+    },
+    {
+      "id": "1496595296",
+      "uuid": "285f3616-d2ea-4da3-8169-e3d5ef02bc75",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Cathy Lu",
+        "img_url": "https://s3-alpha.figma.com/profile/f29c0db1-7692-41b8-ad0f-4e39e596be50",
+        "id": "1117093170175595025"
+      },
+      "created_at": "2025-11-03T16:58:24.094Z",
+      "resolved_at": null,
+      "message": "In terms of getting something out for Q4, @Titouan Thibaud and I discussed that maybe this default download location in settings would alleviate one of the largest concerns for our users right now.\n\nOr just the dialog for renaming after initial download. \n\nWhat do you think would bring the most value, @Andres Furlan?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12019:11322",
+        "node_offset": {
+          "x": 315,
+          "y": 200
+        },
+        "stable_path": [
+          "12019:11322"
+        ]
+      },
+      "order_id": "187"
+    },
+    {
+      "id": "1496576799",
+      "uuid": "5ef9fe66-013c-4c25-908e-362108be169d",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Cathy Lu",
+        "img_url": "https://s3-alpha.figma.com/profile/f29c0db1-7692-41b8-ad0f-4e39e596be50",
+        "id": "1117093170175595025"
+      },
+      "created_at": "2025-11-03T16:47:15.879Z",
+      "resolved_at": null,
+      "message": "We might need an error state if the file path the user has chosen is too long, ie: /Downloads/downloads/super/long/file/path/download .. etc",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-11-19T03:17:08.978Z",
+          "user": {
+            "id": "966012506228212394",
+            "handle": "Eduardo Feo",
+            "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "12037:1811",
+        "node_offset": {
+          "x": 368,
+          "y": 690
+        },
+        "stable_path": [
+          "12037:1811"
+        ]
+      },
+      "order_id": "185"
+    },
+    {
+      "id": "1480295111",
+      "uuid": "43e685c0-3b7e-4282-a4c5-b20c29891042",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Cathy Lu",
+        "img_url": "https://s3-alpha.figma.com/profile/f29c0db1-7692-41b8-ad0f-4e39e596be50",
+        "id": "1117093170175595025"
+      },
+      "created_at": "2025-10-22T19:41:12.380Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel On Opera, you can click this and select a new downloads location. Might be helpful example for designing file location option.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-10-22T19:41:53.106Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "11976:28287",
+        "node_offset": {
+          "x": 1573.5,
+          "y": 354.5
+        },
+        "stable_path": [
+          "11976:28287"
+        ]
+      },
+      "order_id": "173"
+    },
+    {
+      "id": "1377966083",
+      "uuid": "815fd4ca-1f8f-4759-bda4-bedae3532d3a",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2025-08-11T19:30:55.944Z",
+      "resolved_at": null,
+      "message": "@Cathy Lu here are the M3 versions btw",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11598:17277",
+        "node_offset": {
+          "x": 267,
+          "y": 769
+        },
+        "stable_path": [
+          "11598:17277"
+        ]
+      },
+      "order_id": "172"
+    },
+    {
+      "id": "1377560542",
+      "uuid": "0aa729ea-f778-4075-aaba-f415f72d0f2e",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Cathy Lu",
+        "img_url": "https://s3-alpha.figma.com/profile/f29c0db1-7692-41b8-ad0f-4e39e596be50",
+        "id": "1117093170175595025"
+      },
+      "created_at": "2025-08-11T14:50:16.544Z",
+      "resolved_at": null,
+      "message": "Hey @Megan Daniel, I am updating all the Snackbars to the M3 style. In the component library, the action label is not in all caps. Do we still want to keep that or update to the same M3 specs here in Downloads?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8401:51808",
+        "node_offset": {
+          "x": 312,
+          "y": 598
+        },
+        "stable_path": [
+          "8401:51808"
+        ]
+      },
+      "order_id": "171"
+    },
+    {
+      "id": "1375803362",
+      "uuid": "cbed0b16-370a-4138-a7f1-6ccce721dfa7",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Cathy Lu",
+        "img_url": "https://s3-alpha.figma.com/profile/f29c0db1-7692-41b8-ad0f-4e39e596be50",
+        "id": "1117093170175595025"
+      },
+      "created_at": "2025-08-08T18:11:12.799Z",
+      "resolved_at": null,
+      "message": "Hey @Megan Daniel, there is some user feedback on this bug (https://bugzilla.mozilla.org/show_bug.cgi?id=1979571) about the previous version of downloads including the download size and that it would be nice to have. Let me know your thoughts, thanks",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8401:51835",
+        "node_offset": {
+          "x": 205,
+          "y": 603
+        },
+        "stable_path": [
+          "8401:51835"
+        ]
+      },
+      "order_id": "170"
+    },
+    {
+      "id": "1332736480",
+      "uuid": "f188e267-94af-468d-9678-4536e421d895",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabriel Iorga",
+        "img_url": "https://www.gravatar.com/avatar/97f54ef8626093cb5e017281ae27e350?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "1067782885198971655"
+      },
+      "created_at": "2025-07-09T14:39:30.693Z",
+      "resolved_at": null,
+      "message": "Truncate long names in the middle for the submessage. Will it be only for downloads or for all snackbars? @Emily Wachowiak",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9163:147223",
+        "node_offset": {
+          "x": 306,
+          "y": 429.99822008128285
+        },
+        "stable_path": [
+          "9163:147223"
+        ]
+      },
+      "order_id": "169"
+    },
+    {
+      "id": "1297256379",
+      "uuid": "0d9d844a-f0e8-4e04-ba6b-d3e5c08f53bf",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2025-06-12T19:11:38.547Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel @Jane Wolf Minor updates to ears made, also added a dark mode for both.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-06-16T19:28:23.555Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "11356:1054",
+        "node_offset": {
+          "x": 163,
+          "y": 79
+        },
+        "stable_path": [
+          "11356:1054"
+        ]
+      },
+      "order_id": "160"
+    },
+    {
+      "id": "1296934909",
+      "uuid": "fb28fc49-377a-408b-a5f4-ba00c60d2a01",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-06-12T15:26:41.349Z",
+      "resolved_at": null,
+      "message": "What happens when I toggle this? @Megan Daniel",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11291:17146",
+        "node_offset": {
+          "x": 258,
+          "y": 84
+        },
+        "stable_path": [
+          "11291:17146"
+        ]
+      },
+      "order_id": "159"
+    },
+    {
+      "id": "1295630674",
+      "uuid": "36842bc4-c63e-4a0b-9798-26b4b2976c16",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2025-06-11T22:36:57.702Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz  the ears look better here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11226:1262",
+        "node_offset": {
+          "x": 198,
+          "y": 222
+        },
+        "stable_path": [
+          "11226:1262"
+        ]
+      },
+      "order_id": "156"
+    },
+    {
+      "id": "1295630550",
+      "uuid": "2592425d-9654-4ad5-b044-f07b26559945",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2025-06-11T22:36:45.934Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz  small piece of feedback here on the terminal point of the ear poof, wonder if we can make them feel more seamless/touching the fox ? Currently they kind of round and I think it caught me off guard a bit.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-06-12T19:10:26.979Z",
+          "user": {
+            "id": "1501241353019876562",
+            "handle": "Michelle Diaz",
+            "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "11226:1202",
+        "node_offset": {
+          "x": 212,
+          "y": 206
+        },
+        "stable_path": [
+          "11226:1202"
+        ]
+      },
+      "order_id": "155"
+    },
+    {
+      "id": "1291528619",
+      "uuid": "892ea1b9-2c42-4151-9ed7-41c4f42af56f",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2025-06-09T19:45:58.710Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel @Jane Wolf Hi! Here are the 2 chosen options from R1, now colored. Lmk what you think.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11226:968",
+        "node_offset": {
+          "x": 265,
+          "y": 40
+        },
+        "stable_path": [
+          "11226:968"
+        ]
+      },
+      "order_id": "148"
+    },
+    {
+      "id": "1288069805",
+      "uuid": "f039c23c-a9ca-4562-ab56-66f0dddca4fe",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicholas Poon",
+        "img_url": "https://www.gravatar.com/avatar/de8191595cff0507f38ca784b6613551?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1377983520891857923"
+      },
+      "created_at": "2025-06-05T19:34:50.499Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel If we delete an in progress download, if we delete an in progress item, I don't think we should show the undo action on the snackbar. Wdyt? Also, if the user deletes a failed item, should we still show the snackbar that says \"deleted <filename>\"? Should it say something else in this case?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9120:128656",
+        "node_offset": {
+          "x": 5199,
+          "y": 739
+        },
+        "stable_path": [
+          "9120:128656"
+        ]
+      },
+      "order_id": "145"
+    },
+    {
+      "id": "1265101016",
+      "uuid": "f453bce3-b3b5-44a5-858a-972918d4ca00",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2025-05-20T21:33:09.852Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel @Jane Wolf Hi! Dropped in some R1 sketches for this illustration here. Tried to keep it simple by representing downloads with an empty box that Foxy is sitting in or playing with. Let me know your thoughts. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10903:11766",
+        "node_offset": {
+          "x": 51,
+          "y": 61
+        },
+        "stable_path": [
+          "10903:11766"
+        ]
+      },
+      "order_id": "142"
+    },
+    {
+      "id": "1258938597",
+      "uuid": "af324a69-7c24-4d4e-a974-06be90435f12",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicholas Poon",
+        "img_url": "https://www.gravatar.com/avatar/de8191595cff0507f38ca784b6613551?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1377983520891857923"
+      },
+      "created_at": "2025-05-15T20:20:49.244Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel - I just thought of this minor thing. Since the download hasn't actually started yet here, I don't think users should be allowed to pause the download. This seems to be in line with the system notification too. I'm not sure about whether we should have the context menu and allow users to cancel the download either since this isn't allowed by the system notification either when we are still in the \"preparing download\" stage",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9120:128656",
+        "node_offset": {
+          "x": 782,
+          "y": 373
+        },
+        "stable_path": [
+          "9120:128656"
+        ]
+      },
+      "order_id": "141"
+    },
+    {
+      "id": "1228040645",
+      "uuid": "ad4cadab-388c-44d6-b50e-d6d9d4053123",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Rahul Sainani",
+        "img_url": "https://www.gravatar.com/avatar/800cf2cd803357b283f7cf3d66c387d2?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1180449351525562907"
+      },
+      "created_at": "2025-04-23T08:34:58.715Z",
+      "resolved_at": null,
+      "message": "Hey @Megan Daniel @Jeff Pfaller How do filters and search change the \"Select all\" behaviour. I think the user expecation might be to only have only the visible (filtered by category and/or search) items selected. Currenly, \"Select all\" would select even the items that are not shown, as a result one might see 100 items selected even when they have 5 being shown based on their filtering criteria at the moment the \"Select all\" is clicked. \n\nI think we should update this, I wanted to get your insight into how you see this working.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9120:128965",
+        "node_offset": {
+          "x": 237,
+          "y": 54
+        },
+        "stable_path": [
+          "9120:128965"
+        ]
+      },
+      "order_id": "132"
+    },
+    {
+      "id": "1214206577",
+      "uuid": "241f20c5-30e3-4790-ae7a-3a59c5ebf754",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2025-04-11T18:38:01.094Z",
+      "resolved_at": null,
+      "message": "@Nicholas Poon would this format work or still considered a plural form? :thinking_face:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8147:620",
+        "node_offset": {
+          "x": 298,
+          "y": 99
+        },
+        "stable_path": [
+          "8147:620"
+        ]
+      },
+      "order_id": "119"
+    },
+    {
+      "id": "1202271886",
+      "uuid": "11a0c1ed-1794-474a-8c2d-410cdcaebe73",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2025-04-03T16:44:32.303Z",
+      "resolved_at": null,
+      "message": "@Nicholas Poon I was looking at how Chrome handles groupings, and it seems like they don't group multiple downloads \u2013 they just keep them separate. I think this feels much better since it makes taking action easier with fewer clicks.\n\nWas wondering if you had thoughts on going that direction? If that complicates things happy to keep things as is for now!",
+      "reactions": [
+        {
+          "emoji": ":eyes:",
+          "created_at": "2025-04-03T19:06:45.246Z",
+          "user": {
+            "id": "1377983520891857923",
+            "handle": "Nicholas Poon",
+            "img_url": "https://www.gravatar.com/avatar/de8191595cff0507f38ca784b6613551?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10081:11332",
+        "node_offset": {
+          "x": 135,
+          "y": 446
+        },
+        "stable_path": [
+          "10081:11332"
+        ]
+      },
+      "order_id": "117"
+    },
+    {
+      "id": "1170200306",
+      "uuid": "aab1cdab-ef36-4509-9064-2f672f8d7000",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2025-03-12T15:56:02.153Z",
+      "resolved_at": null,
+      "message": "@Rahul Sainani RE your comment on singular vs plural -- i see a lot of competitors doing this (where it's singular until there's multiple files under a particular chip, then it changes to plural)\n\nwould we be able to do that? if that would require any bigger lifts no worries we can just use plural everywhere!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8284:19668",
+        "node_offset": {
+          "x": 153,
+          "y": 146
+        },
+        "stable_path": [
+          "8284:19668"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "1143991201",
+      "uuid": "f7717558-77b3-4ff6-ae7f-bb06c7a24e86",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2025-02-21T18:52:10.443Z",
+      "resolved_at": null,
+      "message": "placeholder",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9120:133672",
+        "node_offset": {
+          "x": 213,
+          "y": 277
+        },
+        "stable_path": [
+          "9120:133672"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "1134197443",
+      "uuid": "e55ef03a-fa4d-4413-8e98-2abbdadac17c",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2025-02-14T20:32:40.036Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller hey! added this additional error message for when a user's phone runs out of storage if you don't mind taking a look whenever you get a sec pls :pray:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8992:8410",
+        "node_offset": {
+          "x": 210,
+          "y": 479
+        },
+        "stable_path": [
+          "8992:8410"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "1117049524",
+      "uuid": "9b3f8a6d-e288-464d-86d6-0ccc20bd2bc9",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-02-04T00:29:57.134Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel will we support dark mode and Tablet?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8404:22907",
+        "node_offset": {
+          "x": 238,
+          "y": 956
+        },
+        "stable_path": [
+          "8404:22907"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "1117045778",
+      "uuid": "dbcb33cf-4478-468d-974d-95f44cbf85ac",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-02-04T00:23:42.594Z",
+      "resolved_at": null,
+      "message": "Is it possible to show a thumbnail of the image or video? (Maybe a v2 of this however)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8401:51933",
+        "node_offset": {
+          "x": 33,
+          "y": 143.99951171875
+        },
+        "stable_path": [
+          "8401:51933"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "1117044929",
+      "uuid": "aa9c3e82-bd73-4738-968f-61918e4ddb9a",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-02-04T00:22:13.814Z",
+      "resolved_at": null,
+      "message": "@Brooke Katalinich just noting this fox. We may have a fox in other parts of the UI also. We should use the same fox everywhere",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8717:50813",
+        "node_offset": {
+          "x": 184,
+          "y": 292
+        },
+        "stable_path": [
+          "8717:50813"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "1069913308",
+      "uuid": "4504ce54-e090-4afa-9833-339e087021a2",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-18T21:20:00.065Z",
+      "resolved_at": null,
+      "message": "Hey @Megan Daniel - for the chips, we should include a small icon (a check or something similar) to indicate when a chip has been selected. This will make sure things are sufficient and visually convey that this is selected for those that may struggle to see color or have colorblindness. :sparkles:",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-12-18T22:25:04.001Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        },
+        {
+          "emoji": ":raised_hands:",
+          "created_at": "2024-12-18T22:24:56.418Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8666:52599",
+        "node_offset": {
+          "x": 54,
+          "y": 92
+        },
+        "stable_path": [
+          "8666:52599"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "1069869260",
+      "uuid": "140345d5-76e7-4d71-9d6f-4df35c54116c",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-18T20:36:21.834Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel - for #1, I would place a note here that the time that the snackbar sits on screen should be no less than 5 seconds (ideal scenario would be to have it stay on screen for 20 seconds) :smile_cat:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8628:80481",
+        "node_offset": {
+          "x": 182,
+          "y": 60
+        },
+        "stable_path": [
+          "8628:80481"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1069855361",
+      "uuid": "3adbc979-7af1-49bf-96a2-720a1ef7a393",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-18T20:22:52.104Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel - could we add a border or drop shadow to the sheet? In this example, the sheet bleeds in quite a bit with the page and it's difficult to differentiate visually. Let me know what you think! Thank you :smile:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8666:52593",
+        "node_offset": {
+          "x": 333,
+          "y": 456
+        },
+        "stable_path": [
+          "8666:52593"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1066029683",
+      "uuid": "c613de7d-c58b-48bb-bad2-be2b328b0647",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2024-12-16T16:17:31.672Z",
+      "resolved_at": null,
+      "message": "44px",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8339:15725",
+        "node_offset": {
+          "x": 147,
+          "y": 145
+        },
+        "stable_path": [
+          "8339:15725"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1066025426",
+      "uuid": "20b885c9-e118-43cd-b044-249f0d5493ae",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2024-12-16T16:14:53.206Z",
+      "resolved_at": null,
+      "message": "dark mode and private mode",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8339:15725",
+        "node_offset": {
+          "x": 117,
+          "y": 667
+        },
+        "stable_path": [
+          "8339:15725"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1055348148",
+      "uuid": "43b423ab-29c7-483b-863a-92b505922a67",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-12-06T21:11:02.342Z",
+      "resolved_at": null,
+      "message": "my first thought is -is this confirmation step really a requirement? in your competitive analysis it seems like most don't confirm this step. are we adding unnecessary friction and making things feel slower by having this here? do users perceive a benefit or feel more protected? i'm not sure the answer but it may warrant some testing or checking in with the team to see if we have flexibility on this. (e.g it's a legal requirement)\n\nif this is an absolute requirement or achieves a goal like feeling safe - i'm curious if we can solve the issue in a different way. i know we have this pattern in permission dialgoues but how else might we do this?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-12-06T21:34:09.453Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8230:73867",
+        "node_offset": {
+          "x": 38,
+          "y": 22
+        },
+        "stable_path": [
+          "8230:73867"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1055341236",
+      "uuid": "7293ae05-a3f0-4cd8-abb0-26d20007cd05",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-12-06T21:01:47.143Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel i can't recall if we discussed this in our 1:1 this week - can you sync up with jeff g / aarjav on the bottom sheet component? i think there's an opportunity to align.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8387:74114",
+        "node_offset": {
+          "x": 307,
+          "y": 537
+        },
+        "stable_path": [
+          "8387:74114"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1052324050",
+      "uuid": "6ce31b3d-e95d-4b45-af7d-760120d0a81b",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2024-12-05T02:07:28.912Z",
+      "resolved_at": null,
+      "message": "What are the downstream impacts to changing this component? e.g. What other surfaces have this chip component? Please create a quick audit of these surfaces and adjust the component styling to match based on these suggestions.\n\n@Megan Daniel @Tiffanie Shakespeare",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8276:16972",
+        "node_offset": {
+          "x": 217,
+          "y": 17
+        },
+        "stable_path": [
+          "8276:16972"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1052322838",
+      "uuid": "a32deb42-65c8-4561-9318-b01cfe1f8dff",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2024-12-05T02:05:39.565Z",
+      "resolved_at": null,
+      "message": "I personally like these versions based on the competitve anaylysis and feedback above.\n\nI personally like these versions based on the competitive analysis and feedback above..",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-12-05T14:57:13.807Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8276:16972",
+        "node_offset": {
+          "x": 97,
+          "y": 93
+        },
+        "stable_path": [
+          "8276:16972"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1052321964",
+      "uuid": "b275fbf6-713e-42b0-9bf9-0858322ea988",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2024-12-05T02:04:20.235Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel I ran a quick competitive analysis on Android \"Chips components\" and a recurring pattern I am seeing is the stroke outline vs the color fills. Personally, I do like these better and this mental models is confirmed through this analysis. \n\nRe: Chips vs Tabs what is your POV on the distinction between the two, a quick assessment online indicates we should likely use chips based on the criteria below. wdyt?\n\n1. Tabs are for switching between large, distinct views of content, while chips are for selecting individual items or performing actions within a view\n2. Selecting a tab navigates to a new content area, while \nselecting a chip typically triggers a specific action like filtering or \nadding an item\n3. Use tabs to switch between major sections of a screen, like different tabs on a web browser\n4. Use chips to select individual items from a list, filter content based on specific criteria, or add items to a collection\n\ncc @Tiffanie Shakespeare",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-12-05T15:01:07.584Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8321:12653",
+        "node_offset": {
+          "x": 128,
+          "y": 371
+        },
+        "stable_path": [
+          "8321:12653"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1051572788",
+      "uuid": "09a60ec8-9c7e-417f-acbd-c045b65dd24d",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2024-12-04T15:01:16.276Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel Have we tried a version with this chip component? These square components are not working for me. I think it begs a bigger question that perhaps we look at the overall design for these chips? if we go this route, please take a pass at few chip visual treatments:\n\n1. that are leveraging our existing styles but in a new way. \n2. a proposed new visual treatment that will fit within the existing Android constructs\n\nFrom there, we can loop in the Systems team for feedback.\n\ncc @Tiffanie Shakespeare",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8271:3359",
+        "node_offset": {
+          "x": 32,
+          "y": 12
+        },
+        "stable_path": [
+          "8271:3359"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1050199158",
+      "uuid": "ed665cef-ceee-401b-b1b1-c54c54110204",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-12-03T20:09:34.275Z",
+      "resolved_at": null,
+      "message": "we might need to request a bigger icon here, this feels a little too small compared to the close icon; in case you decide to request one: https://airtable.com/appbeOkjR5WJntDoj/pagg41cMezmo9Yt90/form",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8231:77282",
+        "node_offset": {
+          "x": 299,
+          "y": 199
+        },
+        "stable_path": [
+          "8231:77282"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1050194920",
+      "uuid": "976e1bda-58ce-48c6-bd0f-c94f58e074ad",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-12-03T20:05:44.464Z",
+      "resolved_at": null,
+      "message": "Is there a threshold for when we show the filter options? like a min amount? and how does it intersect with the time segments?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8230:75886",
+        "node_offset": {
+          "x": 186,
+          "y": 95
+        },
+        "stable_path": [
+          "8230:75886"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1050191330",
+      "uuid": "01a97f23-0cbb-4b30-95e5-b2d99d2d86b5",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-12-03T20:02:22.185Z",
+      "resolved_at": null,
+      "message": "it might be worthwhile to do a quick audit of where we use this pattern and update it everywhere or create a re-usable (if that's not already the case); I know that @Aarjav Pandya and @Jeffrey Guerrero looked into the bottom sheet a while ago, did that also cover the download sheet? what's your take?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-12-03T20:39:24.786Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8230:73869",
+        "node_offset": {
+          "x": 163,
+          "y": 581
+        },
+        "stable_path": [
+          "8230:73869"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1050189229",
+      "uuid": "ec327052-82d5-4feb-a18d-b583f076665e",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-12-03T20:00:25.429Z",
+      "resolved_at": null,
+      "message": "Thanks for sharing the work today! Very nice. I'll just leave a few comments in the file...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8230:73840",
+        "node_offset": {
+          "x": 230,
+          "y": 594
+        },
+        "stable_path": [
+          "8230:73840"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1048502949",
+      "uuid": "7ec9a906-7686-4ba6-9a04-2197e29803d3",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-12-02T21:34:37.019Z",
+      "resolved_at": null,
+      "message": "what does \"view\" do? i think it's interesting that only 2 ask for permission before starting. one thing that could be helpful to add would be a matrix that highlights who is doing what. let me grab an example.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-12-02T22:10:38.872Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8126:667",
+        "node_offset": {
+          "x": 201,
+          "y": 477
+        },
+        "stable_path": [
+          "8126:667"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1048501438",
+      "uuid": "17a04ef2-3461-468a-95bb-844e1c837226",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-12-02T21:33:04.938Z",
+      "resolved_at": null,
+      "message": "one thing i think is missing is how the download page is accessed. i don't think we need a screen shot but maybe just some text?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8126:627",
+        "node_offset": {
+          "x": 78,
+          "y": 52
+        },
+        "stable_path": [
+          "8126:627"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1039766290",
+      "uuid": "bdc7c7bb-e02e-48f0-96e8-d4064d5c2a64",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-11-25T16:38:37.332Z",
+      "resolved_at": null,
+      "message": "i also think (if i recall) there's an issue if the user dimisses the notification it might impact the download. there was an update to the android notification system that now prevent apps from having \"permanent' notifications",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4976:208",
+        "node_offset": {
+          "x": 1676,
+          "y": 406
+        },
+        "stable_path": [
+          "4976:208"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1039763786",
+      "uuid": "1eb8b5f2-a6f8-431a-b9f8-af12e69717ae",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-11-25T16:37:05.519Z",
+      "resolved_at": null,
+      "message": "were these from product or an initial pass from you? :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4976:169",
+        "node_offset": {
+          "x": 892,
+          "y": 174
+        },
+        "stable_path": [
+          "4976:169"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1039761230",
+      "uuid": "5527d2f7-100d-4cd5-b280-8c200c828dba",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-11-25T16:35:31.039Z",
+      "resolved_at": null,
+      "message": "do we also need to worry about the OS push notifications?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4976:162",
+        "node_offset": {
+          "x": 121,
+          "y": 178
+        },
+        "stable_path": [
+          "4976:162"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1039757221",
+      "uuid": "e0c97aac-5ca2-408b-8a78-46680f637ae6",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-11-25T16:33:03.255Z",
+      "resolved_at": null,
+      "message": "i'm not sure the best spot - but i'd also like you to do a QA review. the point of this process is to get their feedback particularly on edge cases and scenarios that we may have missed.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-11-25T17:03:06.755Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8113:21370",
+        "node_offset": {
+          "x": 1842,
+          "y": 514
+        },
+        "stable_path": [
+          "8113:21370"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1039749452",
+      "uuid": "b26240c2-52ab-4197-a8d1-70a35aec07c5",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-11-25T16:28:17.840Z",
+      "resolved_at": null,
+      "message": "i can't remember if we talked about your experience with a11y. we have a new platform - fable - and i would love to see if we could use that for a11y testing on this feature. at a minimum the project needs to go through a11y review.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-11-25T17:02:58.739Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8113:21370",
+        "node_offset": {
+          "x": 1648,
+          "y": 732
+        },
+        "stable_path": [
+          "8113:21370"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1039746880",
+      "uuid": "4095aa90-7f5f-4c04-b3ba-67a2bf29b8f8",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-11-25T16:26:45.290Z",
+      "resolved_at": null,
+      "message": "would you mind reaching out to andy (andres) on ios and see if there's desire to improve the download manager on ios as well or if the scope is just limited to android. thanks! he might be on pto this week - jeremy the ios eng mgr is in canada and may be able to answer.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4976:86",
+        "node_offset": {
+          "x": 224,
+          "y": 370
+        },
+        "stable_path": [
+          "4976:86"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1039743826",
+      "uuid": "b8e0aecc-4b86-48bd-b6a4-89b1ff8a398a",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-11-25T16:24:57.436Z",
+      "resolved_at": null,
+      "message": "let's make sure to keep eng in the loop in feasibility. \n\nwe'll also want to bring to one of the tuesday meetings to show the group for feedback.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-11-25T17:02:52.860Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8113:21370",
+        "node_offset": {
+          "x": 928,
+          "y": 886
+        },
+        "stable_path": [
+          "8113:21370"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1039731626",
+      "uuid": "72ddf676-c33a-4504-bf6d-afcbb12a8f3f",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-11-25T16:17:39.133Z",
+      "resolved_at": null,
+      "message": "these may not exist yet but fxios or fxdroid will be eng. content and UR tasks will be held within the fxmux ticket",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-11-25T17:03:26.077Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "4976:61",
+        "node_offset": {
+          "x": 1310,
+          "y": 360
+        },
+        "stable_path": [
+          "4976:61"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1039729791",
+      "uuid": "52570ebb-eced-42cb-9374-bdc701cb0658",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-11-25T16:16:33.546Z",
+      "resolved_at": null,
+      "message": "moved this to product - fxmo is the product ticket :)",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-11-25T17:03:16.831Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "4976:61",
+        "node_offset": {
+          "x": 304,
+          "y": 452
+        },
+        "stable_path": [
+          "4976:61"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1069913308",
+      "uuid": "4504ce54-e090-4afa-9833-339e087021a2",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-18T21:20:00.065Z",
+      "resolved_at": null,
+      "message": "Hey @Megan Daniel - for the chips, we should include a small icon (a check or something similar) to indicate when a chip has been selected. This will make sure things are sufficient and visually convey that this is selected for those that may struggle to see color or have colorblindness. :sparkles:",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-12-18T22:25:04.001Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        },
+        {
+          "emoji": ":raised_hands:",
+          "created_at": "2024-12-18T22:24:56.418Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8666:52599",
+        "node_offset": {
+          "x": 54,
+          "y": 92
+        },
+        "stable_path": [
+          "8666:52599"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "1069869260",
+      "uuid": "140345d5-76e7-4d71-9d6f-4df35c54116c",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-18T20:36:21.834Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel - for #1, I would place a note here that the time that the snackbar sits on screen should be no less than 5 seconds (ideal scenario would be to have it stay on screen for 20 seconds) :smile_cat:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8628:80481",
+        "node_offset": {
+          "x": 182,
+          "y": 60
+        },
+        "stable_path": [
+          "8628:80481"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1069855361",
+      "uuid": "3adbc979-7af1-49bf-96a2-720a1ef7a393",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-18T20:22:52.104Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel - could we add a border or drop shadow to the sheet? In this example, the sheet bleeds in quite a bit with the page and it's difficult to differentiate visually. Let me know what you think! Thank you :smile:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8666:52593",
+        "node_offset": {
+          "x": 333,
+          "y": 456
+        },
+        "stable_path": [
+          "8666:52593"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1039749452",
+      "uuid": "b26240c2-52ab-4197-a8d1-70a35aec07c5",
+      "file_key": "d4VPwxnMK4nmaFvdlvfoIz",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-11-25T16:28:17.840Z",
+      "resolved_at": null,
+      "message": "i can't remember if we talked about your experience with a11y. we have a new platform - fable - and i would love to see if we could use that for a11y testing on this feature. at a minimum the project needs to go through a11y review.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-11-25T17:02:58.739Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8113:21370",
+        "node_offset": {
+          "x": 1648,
+          "y": 732
+        },
+        "stable_path": [
+          "8113:21370"
+        ]
+      },
+      "order_id": "5"
+    }
+  ]
+}

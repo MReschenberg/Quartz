@@ -1,0 +1,603 @@
+{
+  "unresolved": [
+    {
+      "id": "1645347474",
+      "uuid": "2ee2ab20-288c-4935-a616-12bd419da5e1",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2026-02-24T04:02:36.120Z",
+      "resolved_at": null,
+      "message": "@Justin Billman - the easiest lift and solution in my opinion is just changing the initial prompt to a dialog, not the whole flow. This will keep disruptiveness to a minimum while still catering to the heavy content in the bottom sheet",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9133:15779",
+        "node_offset": {
+          "x": 192,
+          "y": 503
+        },
+        "stable_path": [
+          "9133:15779"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1262162174",
+      "uuid": "41c6dd0f-3b86-4a5f-8105-ba38d1262bef",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Marcin Kozinski",
+        "img_url": "https://www.gravatar.com/avatar/db35ce5112197baaa386bd37c89ef851?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1220013843467076119"
+      },
+      "created_at": "2025-05-19T12:10:21.416Z",
+      "resolved_at": null,
+      "message": "@Jeffrey Guerrero This button looks close to an existing PrimaryButton component I see used throughout the app. Can you update the design to match it? See screenshot for reference.\n\nI think you might be using the newer M3 button style? As the app is being upgraded to M3, many components will be updated, but it\u2019ll be a consistent change.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8900:9005",
+        "node_offset": {
+          "x": 357,
+          "y": 820
+        },
+        "stable_path": [
+          "8900:9005"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1210251095",
+      "uuid": "ab8e571f-1239-4613-938f-b31ad123898a",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-04-09T16:40:36.981Z",
+      "resolved_at": null,
+      "message": "Can we say that doing this makes a difference for us?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8457:8468",
+        "node_offset": {
+          "x": 356,
+          "y": 740
+        },
+        "stable_path": [
+          "8457:8468"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1200559116",
+      "uuid": "32285ae5-b186-4a86-9065-ae28f99461cb",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Zac McKenney",
+        "img_url": "https://www.gravatar.com/avatar/f673fce5ce64d2a2e0a4cc639ca46344?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_z_v2.png",
+        "id": "1174491559421975070"
+      },
+      "created_at": "2025-04-02T19:21:00.119Z",
+      "resolved_at": null,
+      "message": "I don't think we currently measure/flag ANR's in the app. It may be possible but this part of the logic needs investigation.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8432:6179",
+        "node_offset": {
+          "x": 318,
+          "y": 651
+        },
+        "stable_path": [
+          "8432:6179"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1193095726",
+      "uuid": "1001d3b6-c52b-422e-9465-21aa01b79be0",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-03-27T20:45:12.131Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller - I added a 'Thank you!' here as just a note that I think we need some sort of confirmation that we recorded their previous selection and this is just optional.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8312:3279",
+        "node_offset": {
+          "x": 84,
+          "y": 583
+        },
+        "stable_path": [
+          "8312:3279"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1193085648",
+      "uuid": "fb077e85-48f8-4559-a291-512507597f3f",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-03-27T20:36:37.216Z",
+      "resolved_at": null,
+      "message": "@Channing Bell @Anthony Keane - I was reading the Dev guide again for in App prompts and it specifically calls out to not have a CTA to prompt this rating API --- I suggest we should follow the pattern of all the other apps and make the CTA go to the play store to rate. Thoughts?\n\ncc: @Jeff Pfaller",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8312:2973",
+        "node_offset": {
+          "x": 283,
+          "y": 721
+        },
+        "stable_path": [
+          "8312:2973"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1193037458",
+      "uuid": "9e948771-1224-443d-86fc-955f4387f712",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-03-27T19:57:42.376Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller - I added another bottom sheet here for Crash report content. \n\nCC: @Channing Bell",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8373:5426",
+        "node_offset": {
+          "x": 194,
+          "y": 739
+        },
+        "stable_path": [
+          "8373:5426"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1193035924",
+      "uuid": "0a3804f5-8a71-4039-9035-1aadd2ed3541",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-03-27T19:56:28.914Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller @Channing Bell -",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8373:5426",
+        "node_offset": {
+          "x": 338,
+          "y": 783
+        },
+        "stable_path": [
+          "8373:5426"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1192625922",
+      "uuid": "1fc6c37b-ab73-4fd4-a216-065074ac0564",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-03-27T15:41:26.831Z",
+      "resolved_at": null,
+      "message": "Could we modify these to be: Pages load slowly\nThings don't work right or app crashes\nMissing features\nConfusing to use\nWorried about privacy\nNot enough customization\nNone of these",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8312:3221",
+        "node_offset": {
+          "x": 267,
+          "y": 458
+        },
+        "stable_path": [
+          "8312:3221"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1189089983",
+      "uuid": "8babace5-a90f-4ae6-836e-d3b45b1eeab5",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-03-25T21:45:42.832Z",
+      "resolved_at": null,
+      "message": "@Jeffrey Guerrero wondering if we should put the \"I love it\" on the right as it is closer to the thumb (for most people)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8312:2954",
+        "node_offset": {
+          "x": 213,
+          "y": 708
+        },
+        "stable_path": [
+          "8312:2954"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1189089029",
+      "uuid": "72699713-ad49-4b72-9c4f-e18f42be47cd",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-03-25T21:44:44.259Z",
+      "resolved_at": null,
+      "message": "I'm not sure if we can display this screen - worth checking @Channing Bell",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8312:3147",
+        "node_offset": {
+          "x": 388,
+          "y": 657
+        },
+        "stable_path": [
+          "8312:3147"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1189087300",
+      "uuid": "a3b8f73c-d964-46d9-8b70-e7fd563a64a9",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-03-25T21:42:56.179Z",
+      "resolved_at": null,
+      "message": "@Channing Bell If a user presses this, we may want to ask them if they would like to enable automatic crash reporting.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8161:3145",
+        "node_offset": {
+          "x": 347,
+          "y": 787
+        },
+        "stable_path": [
+          "8161:3145"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1186926225",
+      "uuid": "2150cbfa-abf9-4fa8-987e-3eb45ece07ed",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Channing Bell",
+        "img_url": "https://www.gravatar.com/avatar/316105b10feb492c88800d6878e73ec0?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "942137081198568051"
+      },
+      "created_at": "2025-03-24T20:31:06.154Z",
+      "resolved_at": null,
+      "message": "Should this be Continue instead of send feedback since technically you haven't given feedback yet? @Jeff Pfaller",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8155:1102",
+        "node_offset": {
+          "x": 256,
+          "y": 795
+        },
+        "stable_path": [
+          "8155:1102"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1186817546",
+      "uuid": "bdab5632-f13d-4e7d-8c4a-5af7d1ef31ed",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-24T19:06:20.686Z",
+      "resolved_at": null,
+      "message": "Alt: \"What can we do better?\" (On second thought maybe this won't work w/ the way the answers are phrased, but just a thought)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8155:1289",
+        "node_offset": {
+          "x": 96,
+          "y": 574
+        },
+        "stable_path": [
+          "8155:1289"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1186817038",
+      "uuid": "0d34bafa-0884-4a72-a28f-1b06c2421c2f",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-24T19:05:55.691Z",
+      "resolved_at": null,
+      "message": "\"Send feedback\" may be a bit friendlier",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8155:1516",
+        "node_offset": {
+          "x": 170,
+          "y": 795
+        },
+        "stable_path": [
+          "8155:1516"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1181003301",
+      "uuid": "0a74b1bc-c0f8-4e4f-8883-59db0d45d447",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-03-19T22:00:24.819Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller @Channing Bell - thoughts on using some of the stickers from Marketing instead of the thumbs up/thumbs down?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8149:662",
+        "node_offset": {
+          "x": 223,
+          "y": 1625
+        },
+        "stable_path": [
+          "8149:662"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1173943600",
+      "uuid": "6b5b52ab-79c8-4fd2-98a0-a3e1d737dfa7",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-03-14T15:09:47.782Z",
+      "resolved_at": null,
+      "message": "Can we edit this?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8161:2811",
+        "node_offset": {
+          "x": 226,
+          "y": 552
+        },
+        "stable_path": [
+          "8161:2811"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1173942513",
+      "uuid": "b5190607-62d6-49b4-9cd0-252feee798e4",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-03-14T15:09:11.760Z",
+      "resolved_at": null,
+      "message": "What's the purpose of this? Should it just be cancel? @Jeffrey Guerrero",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8155:1516",
+        "node_offset": {
+          "x": 190,
+          "y": 846
+        },
+        "stable_path": [
+          "8155:1516"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1172692656",
+      "uuid": "97b66b08-a1ac-43d6-ac62-314f9db586a2",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Channing Bell",
+        "img_url": "https://www.gravatar.com/avatar/316105b10feb492c88800d6878e73ec0?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "942137081198568051"
+      },
+      "created_at": "2025-03-13T20:30:18.418Z",
+      "resolved_at": null,
+      "message": "If they click \"continue without sharing\" I'm assuming it just takes you back to the web page you were on?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8155:1102",
+        "node_offset": {
+          "x": 297,
+          "y": 849
+        },
+        "stable_path": [
+          "8155:1102"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1172689677",
+      "uuid": "4f252081-ebf6-4096-8e6f-8047aedc461d",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Channing Bell",
+        "img_url": "https://www.gravatar.com/avatar/316105b10feb492c88800d6878e73ec0?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "942137081198568051"
+      },
+      "created_at": "2025-03-13T20:28:05.940Z",
+      "resolved_at": null,
+      "message": "Instead of the thumbs up and thumbs down, is it possible to make a happy and sad fox? Just thinking of ways to make it more personal to Firefox.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8150:1475",
+        "node_offset": {
+          "x": 58,
+          "y": 796
+        },
+        "stable_path": [
+          "8150:1475"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1170313244",
+      "uuid": "aa6e7cf7-1891-41d8-9468-5c6cce62113b",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-03-12T16:52:56.461Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller - maybe we can utilize some of this recent analysis from Noel for the issues list?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8162:3347",
+        "node_offset": {
+          "x": 227,
+          "y": 170
+        },
+        "stable_path": [
+          "8162:3347"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1170289221",
+      "uuid": "2ac40428-5c8b-4b38-be3e-077497addee5",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-03-12T16:40:19.126Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller not pixel perfect, but skeleton here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8149:662",
+        "node_offset": {
+          "x": 213,
+          "y": 116
+        },
+        "stable_path": [
+          "8149:662"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1168504771",
+      "uuid": "831b8c09-e14d-4196-b153-92b231609902",
+      "file_key": "rUQrOfTqL2CG1XdS45mJk2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-03-11T19:50:23.942Z",
+      "resolved_at": null,
+      "message": "Add pills of common problems/issues",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8136:565",
+        "node_offset": {
+          "x": 2837,
+          "y": 2170
+        },
+        "stable_path": [
+          "8136:565"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": []
+}

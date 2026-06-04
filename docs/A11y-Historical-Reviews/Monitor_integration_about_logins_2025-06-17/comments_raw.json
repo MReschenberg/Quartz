@@ -1,0 +1,2605 @@
+{
+  "unresolved": [
+    {
+      "id": "1356224716",
+      "uuid": "316758ed-dade-4017-9c59-dc015ab77a33",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Juliana Gaibler",
+        "img_url": "https://s3-alpha.figma.com/profile/075fd6b5-f849-42b4-ac59-89b2ad0d028a",
+        "id": "895341744741177324"
+      },
+      "created_at": "2025-07-25T17:03:55.876Z",
+      "resolved_at": null,
+      "message": "nit: It's the same color, but you can use \"background/color/critical\" here, that way it should be responsive for the dark and HCM version too ^^\n\n(and if your engineer looks at it, hopefully they'll also use that token!)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "928:38145",
+        "node_offset": {
+          "x": 560,
+          "y": 35
+        },
+        "stable_path": [
+          "928:38145"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "1356220730",
+      "uuid": "1461d54c-a185-4138-b132-ae6ebc4d0df9",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Juliana Gaibler",
+        "img_url": "https://s3-alpha.figma.com/profile/075fd6b5-f849-42b4-ac59-89b2ad0d028a",
+        "id": "895341744741177324"
+      },
+      "created_at": "2025-07-25T17:00:22.657Z",
+      "resolved_at": null,
+      "message": "Hi! I updated the buttons to now support icons at the end too :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "928:38145",
+        "node_offset": {
+          "x": 681,
+          "y": 249
+        },
+        "stable_path": [
+          "928:38145"
+        ],
+        "region_width": 195,
+        "region_height": 42,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "1344417466",
+      "uuid": "effe421e-e457-405c-9d1e-a10c8689836c",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-07-17T14:13:54.788Z",
+      "resolved_at": null,
+      "message": "Would this message only show if if they followed this flow in about:logins? Or if they ended up changing their pw in the course of browsing, would this message also show?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "989:29008",
+        "node_offset": {
+          "x": 1711,
+          "y": 130
+        },
+        "stable_path": [
+          "989:29008"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "1336835909",
+      "uuid": "4140fd2d-05b8-446d-ab85-6d5efd65820c",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-11T20:28:23.454Z",
+      "resolved_at": null,
+      "message": "only changed the border color on the expanded version to be \"border/color/interactive\".",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "928:38361",
+        "node_offset": {
+          "x": 643,
+          "y": 151
+        },
+        "stable_path": [
+          "928:38361"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "1336833647",
+      "uuid": "9d766ebc-0718-4c64-8698-3392ac1a8231",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-11T20:25:41.173Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey similar question re: meaning of the icon in there and possibly the need to add \" (opens new tab)\" to the end of the button's name (i.e. via 'aria-label' or 'title' - the latter one would show a tooltip on hover which is preferable for sighted users too)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "939:11636",
+        "node_offset": {
+          "x": 333,
+          "y": 904
+        },
+        "stable_path": [
+          "939:11636"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "1336830683",
+      "uuid": "d13269dd-04af-49fb-a236-71fe163424ce",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-11T20:22:08.386Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey I know it took a while for us to start the review, but this 1B seems to be missing in the current version. If this is expected, let's remove it.\n\nAlso the 3# items - the first of them would be \"Tab\"able (purple) and the rest would be arrow navigation (teal), as you marked them up.\n\nMaybe they could be 1B, 1C, ...., 1F and then the current \"1C\" would become the 1G (to make sure \"See what to do...\" is focusable after the list and before the \"Mark as fixed)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "922:26689",
+        "node_offset": {
+          "x": 352,
+          "y": 1795
+        },
+        "stable_path": [
+          "922:26689"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "1336827618",
+      "uuid": "88f294ad-ece7-479c-b7fa-bd56cccd8cf5",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-11T20:18:29.619Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey would that button open a new tab? the icon in it indicates so, but if this would technically only navigate to another sub-page within about:logins, it may not be needed?\n\nif it does navigate to other page, even within about pages, i.e. to about:preferences, we'd need to include the alt text for this button in the button's accessible name, i.e. \"Name: 'Change password (opens new tab)'\" or similar.\n\nEng note:  It could be done via 'aria-label' on the button or 'title' - the latter one would show a tooltip on hover which is preferable for sighted users too.\n\nGeneral Note: the Acorns team was working on the links with this addition \" (opens new tab)\", so maybe that component is available for buttons too (and it has the text alternative already)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "922:26689",
+        "node_offset": {
+          "x": 193,
+          "y": 1194
+        },
+        "stable_path": [
+          "922:26689"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "1310386349",
+      "uuid": "593ecca9-0f97-4bbd-9971-fe123cb51cb2",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-06-23T18:38:18.023Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey I also increased this spacing to 24 so the text beneath had a little more breathing room",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "973:18759",
+        "node_offset": {
+          "x": 388,
+          "y": 291
+        },
+        "stable_path": [
+          "973:18759"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "1310385281",
+      "uuid": "ebd0863c-a610-4f1f-9ce6-b053f46fced2",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-06-23T18:37:25.416Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey i sketched out a few options to address the the clash of red header background with the card drop shadow\n\n\u2022 Option 1: red border on the header section\n\u2022Option 2: a transparent border on the card\nOption 3: inset the header section\n\nwdyt?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "26:5580",
+        "node_offset": {
+          "x": -344,
+          "y": 112
+        },
+        "stable_path": [
+          "26:5580"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "1303056081",
+      "uuid": "e0888d20-7280-4d06-affa-2dc5bad271b3",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-06-17T19:38:08.491Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez here's a component of the post-password update notification with some placeholder content. If you can update this one, the rest will propagate elsewhere in this file. thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "926:37143",
+        "node_offset": {
+          "x": 745,
+          "y": 832
+        },
+        "stable_path": [
+          "926:37143"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "1274757302",
+      "uuid": "eb4a5de3-c663-4de0-97df-e8e976dbec30",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-05-27T20:41:37.101Z",
+      "resolved_at": null,
+      "message": "Dismiss is primary, see additional steps as secondary",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "746:23291",
+        "node_offset": {
+          "x": 1082,
+          "y": 439
+        },
+        "stable_path": [
+          "746:23291"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1274755433",
+      "uuid": "aa88086a-b9ee-4390-916a-f1f66d6492af",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-05-27T20:40:05.938Z",
+      "resolved_at": null,
+      "message": "Missing opportunity to celebrate user making positive security change.\nCant win here, as its another notification.\nyou've updated your password, and you can still do more to protect yourself.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "746:23291",
+        "node_offset": {
+          "x": 1108,
+          "y": 262
+        },
+        "stable_path": [
+          "746:23291"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1269252293",
+      "uuid": "668fdcc7-3b1c-4507-a488-22f1ab7924b4",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-05-22T23:13:29.182Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey one thing to note in the current designs, breached sites are brought to the top in their own section and then there is a section for no alerts. I think it would be good to keep this pattern right?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "683:38860",
+        "node_offset": {
+          "x": 138,
+          "y": 175
+        },
+        "stable_path": [
+          "683:38860"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1269251182",
+      "uuid": "0ebe2733-a902-467b-a809-121dd354bca7",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-05-22T23:11:13.846Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey I know there was the risk of the cognitive load with there being 3 buttons but I'm wondering if this now just being a text link lowers its importance too much. I think we're aligned primary action is change password. With this being a secondary action, the button did seem okay because the accordion was closed. I'm a bit nervous in this treatment it will feel like a user is just being taken to a blog post or some sort of static page. @Laura Lopez I'm also wondering if we want the content to be more actionable because we want users to take steps.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "683:38860",
+        "node_offset": {
+          "x": 574,
+          "y": 576
+        },
+        "stable_path": [
+          "683:38860"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1269103874",
+      "uuid": "e97213fd-c12d-43e8-a2e1-c7f7ce714bd9",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrew Crago",
+        "img_url": "https://s3-alpha.figma.com/profile/ba211a9e-af73-4555-9524-33f939c11805",
+        "id": "1075270157069956042"
+      },
+      "created_at": "2025-05-22T20:16:19.698Z",
+      "resolved_at": null,
+      "message": "icon spacing a little funky",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "683:9604",
+        "node_offset": {
+          "x": 986,
+          "y": 176
+        },
+        "stable_path": [
+          "683:9604"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1269024634",
+      "uuid": "9e1bebef-f4e6-4478-866b-4da39713d514",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrew Crago",
+        "img_url": "https://s3-alpha.figma.com/profile/ba211a9e-af73-4555-9524-33f939c11805",
+        "id": "1075270157069956042"
+      },
+      "created_at": "2025-05-22T19:12:29.160Z",
+      "resolved_at": null,
+      "message": "Is \"Mark as Fixed\" accurate, or would be \"Dismiss\" be more accurate?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "575:19042",
+        "node_offset": {
+          "x": 790,
+          "y": 428
+        },
+        "stable_path": [
+          "575:19042"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "1268915968",
+      "uuid": "9562df0e-001e-48b7-9bf4-0b8b9306b5c6",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2025-05-22T17:52:00.554Z",
+      "resolved_at": null,
+      "message": "@Brooke Katalinich  I think this i what you were referring to when we chatted about this. I feel like this experience is very disjointed and would also be really bad for accessibility - especially users using magnification, or users with cognative impairments.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-05-22T19:00:47.053Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "661:6112",
+        "node_offset": {
+          "x": 647,
+          "y": 83
+        },
+        "stable_path": [
+          "661:6112"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1268882055",
+      "uuid": "8fc50810-331c-4174-947d-f07ae2c023ee",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-05-22T17:28:05.241Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey I'm still struggling some with the layouts. Is it worth a combination of these elements:\n\n1. Colored alert at top of above content, to the right?\n2. Contextual state higlighted\n3. No stroked on the card, and a light bg with white cards or lines only at the top.\n\ncc @Diana Horn @Jane Wolf @Andrew Crago",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "575:18905",
+        "node_offset": {
+          "x": 6196,
+          "y": -2204
+        },
+        "stable_path": [
+          "575:18905"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1267360248",
+      "uuid": "0e25496c-cf6f-4601-a401-8d180bf81d72",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-05-22T02:32:58.551Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez Does this link to the specific data breach page, if so consider \"about this data breach\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "575:19573",
+        "node_offset": {
+          "x": 557,
+          "y": 599
+        },
+        "stable_path": [
+          "575:19573"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "1267357227",
+      "uuid": "c472a3f9-e275-4555-b2ed-e6c00941fb8d",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-05-22T02:29:07.178Z",
+      "resolved_at": null,
+      "message": "Putting the alert in line with the password makes the alert even more contextual. Fits well. Think the full color background still had the loud effect (that was of concern from the review.) Consider making only part of this with the background color, perhaps the just the Password change recommended and subtext.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "590:7328",
+        "node_offset": {
+          "x": 54.5,
+          "y": 1187
+        },
+        "stable_path": [
+          "590:7328"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1267352970",
+      "uuid": "dd260628-4983-425c-8676-520cdd090a72",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-05-22T02:23:45.051Z",
+      "resolved_at": null,
+      "message": "Without the background, it seems the alert icon should be placed in the header text.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-05-22T11:24:39.424Z",
+          "user": {
+            "id": "929456823076472832",
+            "handle": "Ryan Casey",
+            "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "590:7327",
+        "node_offset": {
+          "x": 7.5,
+          "y": 1363
+        },
+        "stable_path": [
+          "590:7327"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1267348855",
+      "uuid": "8ea77c79-1120-4f34-b4f6-b31fce300ccc",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-05-22T02:18:41.537Z",
+      "resolved_at": null,
+      "message": "This option has a good balance of visual attention and emphasis on the value that Firefox is providing.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "575:19706",
+        "node_offset": {
+          "x": 1065,
+          "y": 231
+        },
+        "stable_path": [
+          "575:19706"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1267197669",
+      "uuid": "8f9f2607-f26c-4383-af13-c83ace723ef0",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-21T22:14:30.234Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey @Wolasi Konu Ran this by Meridel and she's good with this copy!\n\nOne small edit that we didn't discuss today: tweaking the structure of the 1st sentence. All else is good to go! \n\nI can put these into the spec whenever that's ready. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "606:7991",
+        "node_offset": {
+          "x": 31,
+          "y": 22
+        },
+        "stable_path": [
+          "606:7991"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1267018688",
+      "uuid": "b038c2e3-1fed-4052-aa32-557705dacfd4",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-21T19:30:43.934Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey these could be replaced with the annotations from the May 5 page (and the marks on the component too) ;)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "532:24278",
+        "node_offset": {
+          "x": 492,
+          "y": 131
+        },
+        "stable_path": [
+          "532:24278"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1267011122",
+      "uuid": "11570bd3-f333-453e-96b1-4f48635ce67b",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-21T19:25:00.946Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey I updated the colors here and in the expanded state below for the button ;)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "532:23990",
+        "node_offset": {
+          "x": 642,
+          "y": 121
+        },
+        "stable_path": [
+          "532:23990"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1266512338",
+      "uuid": "5e415e6f-6ce1-4202-a951-1b4585fc33a0",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrew Crago",
+        "img_url": "https://s3-alpha.figma.com/profile/ba211a9e-af73-4555-9524-33f939c11805",
+        "id": "1075270157069956042"
+      },
+      "created_at": "2025-05-21T14:29:09.550Z",
+      "resolved_at": null,
+      "message": "for any of these what does tapping the Change Password button do?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "575:19042",
+        "node_offset": {
+          "x": 1026,
+          "y": 413
+        },
+        "stable_path": [
+          "575:19042"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "1263163271",
+      "uuid": "c4ef3a0d-f937-416c-a77c-dde91a27a1f4",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2025-05-20T01:21:27.255Z",
+      "resolved_at": null,
+      "message": "Looks awesome!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "532:25201",
+        "node_offset": {
+          "x": 955,
+          "y": 397
+        },
+        "stable_path": [
+          "532:25201"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1262911756",
+      "uuid": "294dce0e-c6af-4c49-ba2d-fcf59778b983",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T19:44:03.267Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey we could remove this note altogether or have it as \"paragraph\" since it is not a part of a complex widget. \n\nWe could use this item as \"aria-describedby\" for the item A (section)\n\nEditing to add: and this \"aria-describedby\" would work similarly how, I assume, the alert's description was expected to work - it would be announced after the item B (heading) and role of section, once a screen reader enters this section",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "226:3494",
+        "node_offset": {
+          "x": 304,
+          "y": 811
+        },
+        "stable_path": [
+          "226:3494"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1262909518",
+      "uuid": "bd32c8c3-36db-4fee-8ea8-2139a600d731",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T19:42:07.334Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey I think this image could be made informative: visually it communicates attention/warning, so it could announce \"Warning:\" or \"Important:\" for screen reader users too.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "226:3494",
+        "node_offset": {
+          "x": 304,
+          "y": 572
+        },
+        "stable_path": [
+          "226:3494"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1262666159",
+      "uuid": "5491a348-8629-48ba-9941-ecb70db5e404",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T16:27:59.377Z",
+      "resolved_at": null,
+      "message": "Thank you for adding an in-context reference too <3 @Ryan Casey",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "227:3457",
+        "node_offset": {
+          "x": 1221,
+          "y": 124
+        },
+        "stable_path": [
+          "227:3457"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1262663952",
+      "uuid": "0d556346-65b5-41a3-aeff-9783f1e7254e",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T16:26:30.069Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey and in this case, only the disclosure control (the first row item) would have the HCM colors since it is the only clickable area to expand/collapse the section, plus that the collapsible panel has its own button - we want to avoid having interactive areas overlap, on HCM especially. Thus, the bottom/collapsible area would stay the same here (keeping the Canvas/CanvasText aka black/white colors)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:29149",
+        "node_offset": {
+          "x": 635,
+          "y": 124
+        },
+        "stable_path": [
+          "224:29149"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1262660721",
+      "uuid": "c2fb674e-32a7-4115-b2f3-8466f312c4e1",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T16:24:20.602Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey this would be a disclosure button (or details/summary element, depending on the code behind it), thus we'd need ButtonText/ButtonBackground colors for HCM - the same as the \"Change password\" (secondary button) looks like",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:29096",
+        "node_offset": {
+          "x": 599,
+          "y": 109
+        },
+        "stable_path": [
+          "224:29096"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1262657757",
+      "uuid": "c8c42605-e1f3-49a4-a230-7ec0e04b18ee",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T16:22:22.830Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey here the actual font color seems off-white and gets the color contrast against the button's background to 4.3:1 which is right below the threshold of 4.5:1 (seems easier to read than the thinner text for \"7 types of data exposed\" and the link above - both are technically WCAG 2.2 Level AA compliant, but technically need a bit of a toggle)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:28209",
+        "node_offset": {
+          "x": 176,
+          "y": 329
+        },
+        "stable_path": [
+          "224:28209"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1262651244",
+      "uuid": "1da7537f-f1e3-423b-9905-d5841211e127",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T16:18:05.360Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey TL;DR: the link has low color contrast against the background here...\n\nI'm not sure why.... is the link color correct? the eyedropper tool shows its #3178E1 and the color contrast with the lighter red is 3.7:1 (min 4.5:1 is needed)? Maybe there is a transparency in play for the text or something similar?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:19106",
+        "node_offset": {
+          "x": 419,
+          "y": 381
+        },
+        "stable_path": [
+          "224:19106"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1256918421",
+      "uuid": "566adb5f-63b1-4e43-9afa-548fbb9b5fdc",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2025-05-14T20:08:22.763Z",
+      "resolved_at": null,
+      "message": "You think it's getting too red with this red on red look? Almost too loud? Curious if you thought about only relying on the icon having red or maybe only the exposure details.\n\nWe don't support coloring the box today so I'll float that to engineering too.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "261:27965",
+        "node_offset": {
+          "x": 808,
+          "y": 233
+        },
+        "stable_path": [
+          "261:27965"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1256917445",
+      "uuid": "78019c5c-a910-4105-9e41-c8c050533c8e",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2025-05-14T20:07:37.888Z",
+      "resolved_at": null,
+      "message": "Sorry left a comment about chevron pos and noticed it's right here! :-) !",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "261:28151",
+        "node_offset": {
+          "x": 26,
+          "y": 8.5
+        },
+        "stable_path": [
+          "261:28151"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1256915948",
+      "uuid": "83589858-5824-4d56-8e05-aad0a0cbbf40",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2025-05-14T20:06:27.769Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey hey Ryan! Our official accordion variant of the box has the chevron to the left of the label for accessibility reasons.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "62:8383",
+        "node_offset": {
+          "x": 941,
+          "y": 391.093017578125
+        },
+        "stable_path": [
+          "62:8383"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1250307479",
+      "uuid": "60a7bfdb-c05f-468d-86f1-a7c6af912bad",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-09T16:39:38.613Z",
+      "resolved_at": null,
+      "message": "@Diana Horn Thoughts on the versions with/without a date?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "376:13548",
+        "node_offset": {
+          "x": 517,
+          "y": 303
+        },
+        "stable_path": [
+          "376:13548"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1249057010",
+      "uuid": "42ee0ec7-f145-449b-a6f7-f2402c7782fe",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-05-08T21:05:41.350Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez @Wolasi Konu thought: Could this link go to the breach detail page and anchor at the \"to-do\" section? My thinking is if the start at the top that the information may be redundant, especially if this is the string for the CTA...thoughts?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:31808",
+        "node_offset": {
+          "x": 580,
+          "y": 578
+        },
+        "stable_path": [
+          "224:31808"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1249055611",
+      "uuid": "51e5e447-8415-4e0d-b159-140cda92ea5b",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-05-08T21:04:17.537Z",
+      "resolved_at": null,
+      "message": "Could this section be hidden if a user comes from an about:logins breach link? It seems redundant @Tony Cinotto @Wolasi Konu @Laura Lopez",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:32163",
+        "node_offset": {
+          "x": 893,
+          "y": 626
+        },
+        "stable_path": [
+          "224:32163"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1249054174",
+      "uuid": "f6abe1cd-ef25-49ad-9c28-0071e4183a38",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-05-08T21:02:53.268Z",
+      "resolved_at": null,
+      "message": "@Tony Cinotto @Wolasi Konu @Laura Lopez does this information change depending on the data types exposed? Or is this list of \"to-dos\" static for all breach pages?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:32163",
+        "node_offset": {
+          "x": 745,
+          "y": 747
+        },
+        "stable_path": [
+          "224:32163"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1248949133",
+      "uuid": "b3d8a5ed-e82a-4b21-b816-dfac038c9310",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-05-08T19:31:46.731Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu @Tony Cinotto @Laura Lopez just so Im clear - this info is a general list of types of data exposed in the breach\u2014not specifically the users data correct?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:31808",
+        "node_offset": {
+          "x": 559,
+          "y": 489
+        },
+        "stable_path": [
+          "224:31808"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1248814682",
+      "uuid": "9eae6952-7d34-4ff8-ad71-be75bc6cbc84",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-05-08T17:48:05.768Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez wondering if the date might be helpful give relevance?",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-05-08T19:10:40.666Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "224:32167",
+        "node_offset": {
+          "x": 110,
+          "y": 964.5
+        },
+        "stable_path": [
+          "224:32167"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1248808200",
+      "uuid": "b5818254-d2f3-47b4-9ff0-4e84dcb67de3",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-05-08T17:43:22.181Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey It might be helpful to have a X or dismiss option",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:32167",
+        "node_offset": {
+          "x": 416,
+          "y": 1024.5
+        },
+        "stable_path": [
+          "224:32167"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1248621283",
+      "uuid": "c9db8501-4e26-422c-a8b7-11c31f6c1513",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-08T15:31:38.313Z",
+      "resolved_at": null,
+      "message": "Remediate impact of data types from being breached again",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "283:28209",
+        "node_offset": {
+          "x": 669,
+          "y": 186
+        },
+        "stable_path": [
+          "283:28209"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1245149765",
+      "uuid": "e83b8d8e-7a41-4b1c-b3b6-4c88d5916a6d",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-05-06T18:36:03.048Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey small nit, could we have the text in the list below align with this text?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-05-06T21:02:59.526Z",
+          "user": {
+            "id": "929456823076472832",
+            "handle": "Ryan Casey",
+            "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "224:31808",
+        "node_offset": {
+          "x": 422,
+          "y": 360
+        },
+        "stable_path": [
+          "224:31808"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1245088153",
+      "uuid": "eb17efdf-caf7-4645-babd-a3b1f0dad750",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-06T17:52:39.295Z",
+      "resolved_at": null,
+      "message": "@Tony Cinotto Thoughts on this for the add'l FAQ? Let me know if this is accurate!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "283:28209",
+        "node_offset": {
+          "x": 662,
+          "y": 152
+        },
+        "stable_path": [
+          "283:28209"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1244716261",
+      "uuid": "c3c2d5a1-5777-4c50-94f4-a742e904ec4f",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-05-06T14:25:47.949Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey @Laura Lopez are we making this specific to the person? Meaning is this the actual list of their data that was exposed or just the potential exposure. cc: @Wolasi Konu",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:32167",
+        "node_offset": {
+          "x": 47,
+          "y": 1000.5
+        },
+        "stable_path": [
+          "224:32167"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1244703722",
+      "uuid": "79b7c2c4-3c9a-4372-9566-a19d0dab8d06",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-05-06T14:20:40.721Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey This IP icon is not clear, also the \"+\" icon indicated interactivity. Consider no using icon as we have moved away from them in Monitor.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-05-08T15:15:41.635Z",
+          "user": {
+            "id": "929456823076472832",
+            "handle": "Ryan Casey",
+            "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "224:32167",
+        "node_offset": {
+          "x": 14,
+          "y": 1096.5
+        },
+        "stable_path": [
+          "224:32167"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1244629330",
+      "uuid": "ec3c84ed-3277-4617-ad8c-ec6b8e3cdd28",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-05-06T13:48:48.492Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez The tone is slightly passive, which might downplay the level of risk. Could you use something more personal... like \"your password\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:31984",
+        "node_offset": {
+          "x": 731,
+          "y": 270
+        },
+        "stable_path": [
+          "224:31984"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1243406317",
+      "uuid": "fb58de40-22de-429a-9a76-ea2bec892bb3",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-05T19:42:21.258Z",
+      "resolved_at": null,
+      "message": "Tony: can help us get the prio order of these",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:32167",
+        "node_offset": {
+          "x": 80,
+          "y": 1053.5
+        },
+        "stable_path": [
+          "224:32167"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1240161003",
+      "uuid": "726e4974-546a-483a-8177-1820cbccb714",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-05-01T19:04:34.094Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez Not urgent, but could you take a look and edit my pass at the rationale for the content design decisions here? I just want to note rationale for log how we got here. thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "193:17387",
+        "node_offset": {
+          "x": 2134,
+          "y": 843
+        },
+        "stable_path": [
+          "193:17387"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1239896869",
+      "uuid": "2af9f0d0-0d1c-4b41-950c-6abb0711bfcd",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-05-01T15:10:45.509Z",
+      "resolved_at": null,
+      "message": "From @Andrew Crago :\nShould the hyperlink be the \"earn more\" part of this phrase? @Laura Lopez",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "194:18258",
+        "node_offset": {
+          "x": 682,
+          "y": 644
+        },
+        "stable_path": [
+          "194:18258"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1236951637",
+      "uuid": "2cbfcf56-d2fe-440f-bf42-f5c8e65bf367",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-04-29T16:38:20.380Z",
+      "resolved_at": null,
+      "message": "in this version because we have the call to action in the accordion i would be okay dropping the link to monitor outside the accordion so there is less going on for a user to choose from.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-04-29T17:38:44.458Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "146:22841",
+        "node_offset": {
+          "x": 598,
+          "y": 349
+        },
+        "stable_path": [
+          "146:22841"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1236767375",
+      "uuid": "5ed000ba-0579-4963-bc7b-b0880735037a",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-04-29T14:59:57.604Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler I followed what you have cooking for settings. I think it aligns nicely, thoughts?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "160:18005",
+        "node_offset": {
+          "x": 1173,
+          "y": 445
+        },
+        "stable_path": [
+          "160:18005"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1236767137",
+      "uuid": "21bde447-5ae0-445a-8dc4-fc2e5d6f98ac",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-29T14:59:52.172Z",
+      "resolved_at": null,
+      "message": "Even if we removed the CTA, this 2nd link to Monitor goes to the breach page which has recommended steps on how to fix this. \n\nSo my reco is this version!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "173:17425",
+        "node_offset": {
+          "x": 652,
+          "y": 341
+        },
+        "stable_path": [
+          "173:17425"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1236632592",
+      "uuid": "5a809b4e-b17f-4e8a-8216-9c5ddcb049e9",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-29T14:01:58.176Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey Did we ever build out a way to close these out? Or if someone changes their PW, this warning goes away on its own?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "115:8800",
+        "node_offset": {
+          "x": 709,
+          "y": 578.5
+        },
+        "stable_path": [
+          "115:8800"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1236329933",
+      "uuid": "ac42ac75-bbcc-4c94-8f56-ba1a283060dd",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-04-29T11:36:48.881Z",
+      "resolved_at": null,
+      "message": "Thanks for putting this together @Laura Lopez ! I like this...and I think framing the button inside the accordion as \"recommendations\" is a good approach too.\nJust so I'm clear, where would each of the links point to? I assume the first to SUMO and the second to Monitor?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "115:8669",
+        "node_offset": {
+          "x": 11930,
+          "y": 1719
+        },
+        "stable_path": [
+          "115:8669"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1236294564",
+      "uuid": "b0771ec7-09fb-4e6d-9c06-1ab38da90119",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-04-29T11:16:44.958Z",
+      "resolved_at": null,
+      "message": "Maybe this is white, or some other way to differentiate content - its getting lost here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "115:8670",
+        "node_offset": {
+          "x": 695,
+          "y": 342.093017578125
+        },
+        "stable_path": [
+          "115:8670"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1236293827",
+      "uuid": "5ecda346-54b3-4d1f-bba4-b6c0dee2e4ea",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-04-29T11:16:21.143Z",
+      "resolved_at": null,
+      "message": "Bring back icon in front of headline for more visual recognition, esp if moving to white background",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "115:8800",
+        "node_offset": {
+          "x": 103,
+          "y": 276.5
+        },
+        "stable_path": [
+          "115:8800"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1236292833",
+      "uuid": "fd1494eb-5462-4893-a9e2-db118abab1f1",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-04-29T11:15:48.254Z",
+      "resolved_at": null,
+      "message": "Try moving away from nested box button, but could be ok if needded",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "115:8670",
+        "node_offset": {
+          "x": 1063,
+          "y": 349.093017578125
+        },
+        "stable_path": [
+          "115:8670"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1236292030",
+      "uuid": "1da4b6b5-5650-41d9-8fee-127cbcb85be3",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-04-29T11:15:20.773Z",
+      "resolved_at": null,
+      "message": "Try and incorporate these components instead of using message bar with red background",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "62:8382",
+        "node_offset": {
+          "x": -15084,
+          "y": 4703
+        },
+        "stable_path": [
+          "62:8382"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1235140933",
+      "uuid": "039bdf2e-f895-4402-a350-5249bf1bae10",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-28T18:02:30.162Z",
+      "resolved_at": null,
+      "message": "Notes from legal:\nWhat data was compromised\nHow do we know this\nHere's how to address\nWe're not watching you\n\nMonitor mentions can come later",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "115:8926",
+        "node_offset": {
+          "x": 384,
+          "y": 247
+        },
+        "stable_path": [
+          "115:8926"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1235135388",
+      "uuid": "1f330a10-ec9a-48b0-a813-478b8795bb82",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-28T17:58:17.195Z",
+      "resolved_at": null,
+      "message": "Note from legal: can we look at user's password and tell them that it WAS their password that was breached?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "130:21990",
+        "node_offset": {
+          "x": 132,
+          "y": 202
+        },
+        "stable_path": [
+          "130:21990"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1235131383",
+      "uuid": "8a20618b-2fbe-4a74-b063-1b62104d9868",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-28T17:55:19.508Z",
+      "resolved_at": null,
+      "message": "Note from legal review: can someone opt out of being monitored?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "115:8800",
+        "node_offset": {
+          "x": 35,
+          "y": 575.5
+        },
+        "stable_path": [
+          "115:8800"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1232954377",
+      "uuid": "2229fbce-1b93-45e2-9595-8be5d85603e1",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-25T19:27:42.883Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez maybe \"data exposure\" instead of \"breach\" for consistency with the info above?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "62:8383",
+        "node_offset": {
+          "x": 570,
+          "y": 409.093017578125
+        },
+        "stable_path": [
+          "62:8383"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1232953109",
+      "uuid": "e610453c-0da5-49c6-9cfa-80553a704a12",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-25T19:26:24.224Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez could we simplify this to \"Passwords for this website were exposed.\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "81:22623",
+        "node_offset": {
+          "x": 374,
+          "y": 617.5
+        },
+        "stable_path": [
+          "81:22623"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1232326489",
+      "uuid": "c107a4e1-4c10-436a-8f7a-7c7076ae13e3",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-04-25T12:12:37.448Z",
+      "resolved_at": null,
+      "message": "@Tony Cinotto I know you mentioned moving this into the accordion, but I think it makes it pretty large/heavy-handed in collapsed mode; I think it works here because there's only one section of data (accordion) were referring to.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "115:8669",
+        "node_offset": {
+          "x": 1486,
+          "y": 2241
+        },
+        "stable_path": [
+          "115:8669"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1232323903",
+      "uuid": "348b4fe9-ed9b-436c-8193-42499a1e9dcb",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-04-25T12:10:54.088Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez thoughts on omitting the line \"Change your password to protect your account.\"?\nMy rationale is it's inherent in the headline and CTA language...and could make this section a little lighter visually.",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-04-25T12:57:32.724Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "81:22623",
+        "node_offset": {
+          "x": 495,
+          "y": 601.5
+        },
+        "stable_path": [
+          "81:22623"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1232319237",
+      "uuid": "50418265-76b5-45cc-a4e2-fc686f3eedb0",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-04-25T12:07:55.053Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez @Wolasi Konu @Tony Cinotto - just being anticipatory:\nI wonder if this is the section that Legal may be wanting to ensure is accessible from about:logins? \nIf so, is it worth considering having a section on either Monitor pages (logged in/out) about Firefox like this\u2014which could negate the need for two links?",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-04-25T13:04:59.485Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "81:22589",
+        "node_offset": {
+          "x": 801.94921875,
+          "y": 687.1343383789062
+        },
+        "stable_path": [
+          "81:22589"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1229029231",
+      "uuid": "d51cc463-8085-4ed2-a4d9-b3fb83eeea7c",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-23T16:34:12.196Z",
+      "resolved_at": null,
+      "message": "Could we just link to \"Mozilla Monitor\" instead so it doesn't sound like an upsell?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:5355",
+        "node_offset": {
+          "x": 566.72607421875,
+          "y": 597
+        },
+        "stable_path": [
+          "1:5355"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1225600136",
+      "uuid": "20e2a4aa-d098-41f1-893b-0df212d7c7c4",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-22T02:07:02.312Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey @Tony Cinotto @Laura Lopez here's me riff on the accordion option. The accordion has a caption to give a hint at the details that will be displayed when expanded. And the Monitor credit is always exposed.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:7",
+        "node_offset": {
+          "x": 2090,
+          "y": 4838
+        },
+        "stable_path": [
+          "1:7"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1216346590",
+      "uuid": "4bef4141-c83f-44af-a890-3e376175ecae",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-14T17:27:15.242Z",
+      "resolved_at": null,
+      "message": "I think this placement makes this info easy to miss",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:5574",
+        "node_offset": {
+          "x": 200,
+          "y": 992
+        },
+        "stable_path": [
+          "1:5574"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1216344314",
+      "uuid": "6f17abae-71ae-429f-b5c3-a16fe3c4d763",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-14T17:25:38.172Z",
+      "resolved_at": null,
+      "message": "I think the credit link should always be visible",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:5355",
+        "node_offset": {
+          "x": 767.72607421875,
+          "y": 600
+        },
+        "stable_path": [
+          "1:5355"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1216342630",
+      "uuid": "76f6a398-ba8f-40c8-809b-32e7b9ddae0d",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-14T17:24:23.834Z",
+      "resolved_at": null,
+      "message": "This copy reads like a monitor upsell, copy should be framed as get more information about this breach imo\n\ncc @Laura Lopez",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:5012",
+        "node_offset": {
+          "x": 1031,
+          "y": 383
+        },
+        "stable_path": [
+          "1:5012"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1216073400",
+      "uuid": "9b7bd2cc-9b8f-4003-a948-2a5990f9ec38",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-14T14:45:05.905Z",
+      "resolved_at": null,
+      "message": "Moving the SUMO article here could help users focus more on the message around changing their PW. Nice.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:5693",
+        "node_offset": {
+          "x": 223,
+          "y": 455
+        },
+        "stable_path": [
+          "1:5693"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1216069136",
+      "uuid": "1d6b8444-de0c-4dbd-ae58-c61ec820b83f",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-14T14:43:12.566Z",
+      "resolved_at": null,
+      "message": "Wonder if users recognize the Monitor logo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:5693",
+        "node_offset": {
+          "x": 44,
+          "y": 236
+        },
+        "stable_path": [
+          "1:5693"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1216039693",
+      "uuid": "68b5a9ae-87f0-4270-bb5a-1b2afa6bb6be",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-14T14:29:36.232Z",
+      "resolved_at": null,
+      "message": "The accordion is a nice touch here, esp considering there's potentially a lottt of info that could be shown here. \n\nWondering if there are ways to decrease the vertical spacing so the credential isn't pushed down the page?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:5243",
+        "node_offset": {
+          "x": 492,
+          "y": 299
+        },
+        "stable_path": [
+          "1:5243"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1356224716",
+      "uuid": "316758ed-dade-4017-9c59-dc015ab77a33",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Juliana Gaibler",
+        "img_url": "https://s3-alpha.figma.com/profile/075fd6b5-f849-42b4-ac59-89b2ad0d028a",
+        "id": "895341744741177324"
+      },
+      "created_at": "2025-07-25T17:03:55.876Z",
+      "resolved_at": null,
+      "message": "nit: It's the same color, but you can use \"background/color/critical\" here, that way it should be responsive for the dark and HCM version too ^^\n\n(and if your engineer looks at it, hopefully they'll also use that token!)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "928:38145",
+        "node_offset": {
+          "x": 560,
+          "y": 35
+        },
+        "stable_path": [
+          "928:38145"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "1336835909",
+      "uuid": "4140fd2d-05b8-446d-ab85-6d5efd65820c",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-11T20:28:23.454Z",
+      "resolved_at": null,
+      "message": "only changed the border color on the expanded version to be \"border/color/interactive\".",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "928:38361",
+        "node_offset": {
+          "x": 643,
+          "y": 151
+        },
+        "stable_path": [
+          "928:38361"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "1336833647",
+      "uuid": "9d766ebc-0718-4c64-8698-3392ac1a8231",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-11T20:25:41.173Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey similar question re: meaning of the icon in there and possibly the need to add \" (opens new tab)\" to the end of the button's name (i.e. via 'aria-label' or 'title' - the latter one would show a tooltip on hover which is preferable for sighted users too)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "939:11636",
+        "node_offset": {
+          "x": 333,
+          "y": 904
+        },
+        "stable_path": [
+          "939:11636"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "1336830683",
+      "uuid": "d13269dd-04af-49fb-a236-71fe163424ce",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-11T20:22:08.386Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey I know it took a while for us to start the review, but this 1B seems to be missing in the current version. If this is expected, let's remove it.\n\nAlso the 3# items - the first of them would be \"Tab\"able (purple) and the rest would be arrow navigation (teal), as you marked them up.\n\nMaybe they could be 1B, 1C, ...., 1F and then the current \"1C\" would become the 1G (to make sure \"See what to do...\" is focusable after the list and before the \"Mark as fixed)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "922:26689",
+        "node_offset": {
+          "x": 352,
+          "y": 1795
+        },
+        "stable_path": [
+          "922:26689"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "1336827618",
+      "uuid": "88f294ad-ece7-479c-b7fa-bd56cccd8cf5",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-11T20:18:29.619Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey would that button open a new tab? the icon in it indicates so, but if this would technically only navigate to another sub-page within about:logins, it may not be needed?\n\nif it does navigate to other page, even within about pages, i.e. to about:preferences, we'd need to include the alt text for this button in the button's accessible name, i.e. \"Name: 'Change password (opens new tab)'\" or similar.\n\nEng note:  It could be done via 'aria-label' on the button or 'title' - the latter one would show a tooltip on hover which is preferable for sighted users too.\n\nGeneral Note: the Acorns team was working on the links with this addition \" (opens new tab)\", so maybe that component is available for buttons too (and it has the text alternative already)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "922:26689",
+        "node_offset": {
+          "x": 193,
+          "y": 1194
+        },
+        "stable_path": [
+          "922:26689"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "1269251182",
+      "uuid": "0ebe2733-a902-467b-a809-121dd354bca7",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-05-22T23:11:13.846Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey I know there was the risk of the cognitive load with there being 3 buttons but I'm wondering if this now just being a text link lowers its importance too much. I think we're aligned primary action is change password. With this being a secondary action, the button did seem okay because the accordion was closed. I'm a bit nervous in this treatment it will feel like a user is just being taken to a blog post or some sort of static page. @Laura Lopez I'm also wondering if we want the content to be more actionable because we want users to take steps.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "683:38860",
+        "node_offset": {
+          "x": 574,
+          "y": 576
+        },
+        "stable_path": [
+          "683:38860"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1268915968",
+      "uuid": "9562df0e-001e-48b7-9bf4-0b8b9306b5c6",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2025-05-22T17:52:00.554Z",
+      "resolved_at": null,
+      "message": "@Brooke Katalinich  I think this i what you were referring to when we chatted about this. I feel like this experience is very disjointed and would also be really bad for accessibility - especially users using magnification, or users with cognative impairments.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-05-22T19:00:47.053Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "661:6112",
+        "node_offset": {
+          "x": 647,
+          "y": 83
+        },
+        "stable_path": [
+          "661:6112"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1267018688",
+      "uuid": "b038c2e3-1fed-4052-aa32-557705dacfd4",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-21T19:30:43.934Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey these could be replaced with the annotations from the May 5 page (and the marks on the component too) ;)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "532:24278",
+        "node_offset": {
+          "x": 492,
+          "y": 131
+        },
+        "stable_path": [
+          "532:24278"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1267011122",
+      "uuid": "11570bd3-f333-453e-96b1-4f48635ce67b",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-21T19:25:00.946Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey I updated the colors here and in the expanded state below for the button ;)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "532:23990",
+        "node_offset": {
+          "x": 642,
+          "y": 121
+        },
+        "stable_path": [
+          "532:23990"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1262911756",
+      "uuid": "294dce0e-c6af-4c49-ba2d-fcf59778b983",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T19:44:03.267Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey we could remove this note altogether or have it as \"paragraph\" since it is not a part of a complex widget. \n\nWe could use this item as \"aria-describedby\" for the item A (section)\n\nEditing to add: and this \"aria-describedby\" would work similarly how, I assume, the alert's description was expected to work - it would be announced after the item B (heading) and role of section, once a screen reader enters this section",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "226:3494",
+        "node_offset": {
+          "x": 304,
+          "y": 811
+        },
+        "stable_path": [
+          "226:3494"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1262909518",
+      "uuid": "bd32c8c3-36db-4fee-8ea8-2139a600d731",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T19:42:07.334Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey I think this image could be made informative: visually it communicates attention/warning, so it could announce \"Warning:\" or \"Important:\" for screen reader users too.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "226:3494",
+        "node_offset": {
+          "x": 304,
+          "y": 572
+        },
+        "stable_path": [
+          "226:3494"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1262666159",
+      "uuid": "5491a348-8629-48ba-9941-ecb70db5e404",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T16:27:59.377Z",
+      "resolved_at": null,
+      "message": "Thank you for adding an in-context reference too <3 @Ryan Casey",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "227:3457",
+        "node_offset": {
+          "x": 1221,
+          "y": 124
+        },
+        "stable_path": [
+          "227:3457"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1262663952",
+      "uuid": "0d556346-65b5-41a3-aeff-9783f1e7254e",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T16:26:30.069Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey and in this case, only the disclosure control (the first row item) would have the HCM colors since it is the only clickable area to expand/collapse the section, plus that the collapsible panel has its own button - we want to avoid having interactive areas overlap, on HCM especially. Thus, the bottom/collapsible area would stay the same here (keeping the Canvas/CanvasText aka black/white colors)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:29149",
+        "node_offset": {
+          "x": 635,
+          "y": 124
+        },
+        "stable_path": [
+          "224:29149"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1262660721",
+      "uuid": "c2fb674e-32a7-4115-b2f3-8466f312c4e1",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T16:24:20.602Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey this would be a disclosure button (or details/summary element, depending on the code behind it), thus we'd need ButtonText/ButtonBackground colors for HCM - the same as the \"Change password\" (secondary button) looks like",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:29096",
+        "node_offset": {
+          "x": 599,
+          "y": 109
+        },
+        "stable_path": [
+          "224:29096"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1262657757",
+      "uuid": "c8c42605-e1f3-49a4-a230-7ec0e04b18ee",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T16:22:22.830Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey here the actual font color seems off-white and gets the color contrast against the button's background to 4.3:1 which is right below the threshold of 4.5:1 (seems easier to read than the thinner text for \"7 types of data exposed\" and the link above - both are technically WCAG 2.2 Level AA compliant, but technically need a bit of a toggle)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:28209",
+        "node_offset": {
+          "x": 176,
+          "y": 329
+        },
+        "stable_path": [
+          "224:28209"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1262651244",
+      "uuid": "1da7537f-f1e3-423b-9905-d5841211e127",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T16:18:05.360Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey TL;DR: the link has low color contrast against the background here...\n\nI'm not sure why.... is the link color correct? the eyedropper tool shows its #3178E1 and the color contrast with the lighter red is 3.7:1 (min 4.5:1 is needed)? Maybe there is a transparency in play for the text or something similar?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:19106",
+        "node_offset": {
+          "x": 419,
+          "y": 381
+        },
+        "stable_path": [
+          "224:19106"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1256915948",
+      "uuid": "83589858-5824-4d56-8e05-aad0a0cbbf40",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2025-05-14T20:06:27.769Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey hey Ryan! Our official accordion variant of the box has the chevron to the left of the label for accessibility reasons.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "62:8383",
+        "node_offset": {
+          "x": 941,
+          "y": 391.093017578125
+        },
+        "stable_path": [
+          "62:8383"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1232319237",
+      "uuid": "50418265-76b5-45cc-a4e2-fc686f3eedb0",
+      "file_key": "8inoD2EeGbCUVh9VUSlzKg",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-04-25T12:07:55.053Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez @Wolasi Konu @Tony Cinotto - just being anticipatory:\nI wonder if this is the section that Legal may be wanting to ensure is accessible from about:logins? \nIf so, is it worth considering having a section on either Monitor pages (logged in/out) about Firefox like this\u2014which could negate the need for two links?",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-04-25T13:04:59.485Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "81:22589",
+        "node_offset": {
+          "x": 801.94921875,
+          "y": 687.1343383789062
+        },
+        "stable_path": [
+          "81:22589"
+        ]
+      },
+      "order_id": "9"
+    }
+  ]
+}

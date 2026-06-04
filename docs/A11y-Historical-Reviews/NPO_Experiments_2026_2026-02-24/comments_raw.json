@@ -1,0 +1,1030 @@
+{
+  "unresolved": [
+    {
+      "id": "1688400648",
+      "uuid": "7bda6495-a67d-4205-843c-626d031fbc26",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Candice Kirby",
+        "img_url": "https://www.gravatar.com/avatar/18b1084781c53d6c17ece991bfa2b92b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1106988951729381698"
+      },
+      "created_at": "2026-03-24T17:58:51.932Z",
+      "resolved_at": null,
+      "message": "@Ina Voigt @Zoe Lilou Reemer you all can translate on this one and export!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1073:3243",
+        "node_offset": {
+          "x": 378,
+          "y": 152
+        },
+        "stable_path": [
+          "1073:3243"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1659565904",
+      "uuid": "a009c546-9459-44c4-8db4-2d033b8c72d7",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Umit Ceylan",
+        "img_url": "https://www.gravatar.com/avatar/01228040028c615106982fec7aa45f08?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_u_v2.png",
+        "id": "1133409606902902746"
+      },
+      "created_at": "2026-03-04T20:12:54.881Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier If a user has the dark mode enabled and was assigned to the control, should they still see this version?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "537:57713",
+        "node_offset": {
+          "x": 638,
+          "y": 99
+        },
+        "stable_path": [
+          "537:57713"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1651194518",
+      "uuid": "d6593956-e5b0-435c-bda7-ea3cf646e5d3",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Alex Davis",
+        "img_url": "https://www.gravatar.com/avatar/68149170177a9fa00989b5492cd40c1e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "852991211915660228"
+      },
+      "created_at": "2026-02-26T18:15:18.667Z",
+      "resolved_at": null,
+      "message": "This feels a bit detached. Could we do:\n* Import from another browser\n* Import from Firefox\na) account\nb) restore a backup",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "504:8117",
+        "node_offset": {
+          "x": 1264,
+          "y": 538
+        },
+        "stable_path": [
+          "504:8117"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1651187833",
+      "uuid": "a9cec87a-7fcd-48aa-8093-339f2bd1fabc",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Alex Davis",
+        "img_url": "https://www.gravatar.com/avatar/68149170177a9fa00989b5492cd40c1e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "852991211915660228"
+      },
+      "created_at": "2026-02-26T18:11:00.370Z",
+      "resolved_at": null,
+      "message": "I like this. We can re-ask after too.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "505:25779",
+        "node_offset": {
+          "x": 2182,
+          "y": 1353
+        },
+        "stable_path": [
+          "505:25779"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "1646950822",
+      "uuid": "6187aa7f-0630-472e-ad4a-6ec3ad1f8b34",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-24T18:53:56.118Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier thank you for the question!\n\nYes, this would still apply, even when no preference for reduced motion is set (many users after Covid or with Long Covid, for instance, report becoming more sensitive to motion, while not knowing about this OS-level preference). \n\nWe could, for instance, add a small Play/pause button on the corner of the animated container. Or, maybe, the first screen of the onboarding flow could include a smaller button at the end of the main content area (i.e. after/next to \"Skip this step\" button) for \"Stop animation\". I think, we could only show it on the first screen too, if the spacing is a concern. But these options would satisfy the WCAG Criterion and would also show to all onboarded users that Firefox is, in fact, about the choice, even in areas these users may not be thinking about.\n\nAlternatively, the same WCAG Criterion states that if an animation settles within 5 seconds, this SC does not apply. With the animation being more subtle, this is likely passing SC 2.3.1 and 2.3.2 for flashing, so this is a great, safe approach for users with epilepsy.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "467:21102",
+        "node_offset": {
+          "x": 420,
+          "y": 349
+        },
+        "stable_path": [
+          "467:21102"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1631641902",
+      "uuid": "267a9c34-4bce-49fd-bd47-14766cf9dee7",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-12T19:26:27.138Z",
+      "resolved_at": null,
+      "message": "We might not have as clean of an experience where you get these.. users might have a bunch of stuff open..\n\nso only having this notificiation without a \"look out for a notif\" might not do as well.. they might not look for it.. or pay attention to this.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "284:13148",
+        "node_offset": {
+          "x": 5433,
+          "y": 172
+        },
+        "stable_path": [
+          "284:13148"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "1631626536",
+      "uuid": "90b50112-1c60-4f0d-b870-71111d6ec549",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-12T19:16:28.461Z",
+      "resolved_at": null,
+      "message": "Might be good to have a fillable SVG:\n\n* Right to left\n* HCM\n* Dark mode",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "266:15306",
+        "node_offset": {
+          "x": 8019,
+          "y": 408
+        },
+        "stable_path": [
+          "266:15306"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1631535460",
+      "uuid": "4cdd7325-b05c-4d05-a50e-6190887880a3",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-12T18:14:21.698Z",
+      "resolved_at": null,
+      "message": "Again maybe it's just me looking at things for so long.. \n\nI am wondering if the title about privacy doesn't connect as well with the image.. The sub copy does really well! But if I were to not read sub-copy and only focus on title button and image.. I wonder if I'd get a disconnect from this priming image here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "284:13148",
+        "node_offset": {
+          "x": 5578,
+          "y": 387
+        },
+        "stable_path": [
+          "284:13148"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1631528366",
+      "uuid": "9b4f8371-1fa1-4c16-ba08-7cef2afb1746",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-12T18:09:39.602Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller I love the sub-copy here.. I\u2019m wondering about the title direction for this variant though. Since the next step opens Windows settings and asks users to take specific actions (pin, set default), do you think leading with privacy might feel slightly disconnected from the image and what\u2019s about to happen? I\u2019m curious whether there\u2019s an opportunity to prime them a bit more for that transition... what do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "83:59188",
+        "node_offset": {
+          "x": 5562,
+          "y": 371
+        },
+        "stable_path": [
+          "83:59188"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1631484814",
+      "uuid": "bccc54a8-0e03-44bf-ad1a-f00e8bdc4577",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2026-02-12T17:40:57.360Z",
+      "resolved_at": null,
+      "message": "I wonder if we need this button or if we're covered by \"Skip this step\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "116:27233",
+        "node_offset": {
+          "x": 8573,
+          "y": 517
+        },
+        "stable_path": [
+          "116:27233"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1631483829",
+      "uuid": "ef58d1f3-503e-481e-bbca-d59b678afea1",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2026-02-12T17:40:20.497Z",
+      "resolved_at": null,
+      "message": "Does this directly open the default apps screen? @Dasha Andriyenko",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "116:27233",
+        "node_offset": {
+          "x": 8419,
+          "y": 482
+        },
+        "stable_path": [
+          "116:27233"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1631472296",
+      "uuid": "2ec1aff7-c388-4d24-b860-3bcb2da47aaa",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-12T17:33:14.760Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller fyi.. we might do this version potentially as well.. or replace with this version one of the other options... However we don't know from the eng side if it's possible yet.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "284:13148",
+        "node_offset": {
+          "x": 5679,
+          "y": 464
+        },
+        "stable_path": [
+          "284:13148"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1630053476",
+      "uuid": "99516b0e-d830-44fd-ba32-c1c64bfda922",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Daniel Watson",
+        "img_url": "https://s3-alpha.figma.com/profile/1557416793713179198/1016a9c6-ffa7-4dd6-a95b-f8131685cd5f",
+        "id": "1557416793713179198"
+      },
+      "created_at": "2026-02-12T04:37:50.952Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko I had one more thought on how we could reduce the number of screens for this version. Sending you a slack now with it mocked up.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-02-12T17:11:20.576Z",
+          "user": {
+            "id": "1174480039733711256",
+            "handle": "Dasha Andriyenko",
+            "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "266:15306",
+        "node_offset": {
+          "x": 5716,
+          "y": 298
+        },
+        "stable_path": [
+          "266:15306"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1629882611",
+      "uuid": "3067357f-e6a5-4f9a-b282-7de18792c329",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Daniel Watson",
+        "img_url": "https://s3-alpha.figma.com/profile/1557416793713179198/1016a9c6-ffa7-4dd6-a95b-f8131685cd5f",
+        "id": "1557416793713179198"
+      },
+      "created_at": "2026-02-12T01:00:54.940Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko If we had to pull out one variant to get a result faster, I think this is the one I would pull out. Curious which you think is weakest?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "116:27233",
+        "node_offset": {
+          "x": 654,
+          "y": 486
+        },
+        "stable_path": [
+          "116:27233"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1629879331",
+      "uuid": "c519bb6f-5c64-476c-80a9-f42bb59619c0",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Daniel Watson",
+        "img_url": "https://s3-alpha.figma.com/profile/1557416793713179198/1016a9c6-ffa7-4dd6-a95b-f8131685cd5f",
+        "id": "1557416793713179198"
+      },
+      "created_at": "2026-02-12T00:56:40.432Z",
+      "resolved_at": null,
+      "message": "We should spend some time on this wording.\n\n\"Look out for a pop up confirmation\"\n\"Finish adding Firefox to your taskbar\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "266:15306",
+        "node_offset": {
+          "x": 6990,
+          "y": 345
+        },
+        "stable_path": [
+          "266:15306"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1629850928",
+      "uuid": "03c59008-d125-4ad6-9b74-08fe98e1fa4c",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-12T00:17:44.525Z",
+      "resolved_at": null,
+      "message": "@Daniel Watson I really recco we just completely remove all notifications here is possible: \n\n1. If by chance the Pin notification shows up here, then it will be a double notification situation. \n2. We ask specifically to get user to look out for a pin notification.. if we keep this here.. it feels like we're distracting user with an additional notification that they should look out for. \n3. I am curious to  see how this tests with only a primer image with 0 guidance/ or notification appearing in this space... I lowkey feel like it might be less distracting.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "268:19660",
+        "node_offset": {
+          "x": 185,
+          "y": 125
+        },
+        "stable_path": [
+          "268:19660"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1629534066",
+      "uuid": "ae5d019f-25e1-4a32-8bee-6d01af437e19",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-11T19:34:20.225Z",
+      "resolved_at": null,
+      "message": "Be on look out for notification vibe",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "83:50567",
+        "node_offset": {
+          "x": 6753,
+          "y": 395
+        },
+        "stable_path": [
+          "83:50567"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1629450459",
+      "uuid": "05097fcc-f764-4351-a361-109d0e6b50e6",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-11T18:40:25.115Z",
+      "resolved_at": null,
+      "message": "* Ask again if we can kitify ahead of time. \n* Be prepared for one of these to win and launch.. so if that's the case we need to design a Novified version of this that is ready to go.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "83:50567",
+        "node_offset": {
+          "x": 6538,
+          "y": 387
+        },
+        "stable_path": [
+          "83:50567"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1629442048",
+      "uuid": "827d6161-45c0-4bba-9352-b38ea5f0efd7",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-11T18:34:59.782Z",
+      "resolved_at": null,
+      "message": "can we have kit to this? \n\nthinking maybe we can even have a variation.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "83:50567",
+        "node_offset": {
+          "x": 6590,
+          "y": 384
+        },
+        "stable_path": [
+          "83:50567"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1629436159",
+      "uuid": "94a0668a-976f-4dd3-b81f-c060e9319312",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-11T18:31:07.536Z",
+      "resolved_at": null,
+      "message": "@Daniel Watson do we have metric on how many people hit this button rn?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "116:27233",
+        "node_offset": {
+          "x": 7092,
+          "y": 251
+        },
+        "stable_path": [
+          "116:27233"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1629263291",
+      "uuid": "7bc58dc8-2a3a-4b0b-af1d-ce5049b6fedd",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-11T16:50:21.642Z",
+      "resolved_at": null,
+      "message": "Alex: treatment idea:\n* Allow for Pin notification to come up before moving onto the next step of settings opening.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "83:59187",
+        "node_offset": {
+          "x": 6309,
+          "y": 1467
+        },
+        "stable_path": [
+          "83:59187"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1629249816",
+      "uuid": "a26bb8ec-581f-4806-8a67-dcb913641cd3",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-11T16:43:36.676Z",
+      "resolved_at": null,
+      "message": "if we can't check if they've missed it or not.. maybe we can just have a double check guidance?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "116:27233",
+        "node_offset": {
+          "x": 7788,
+          "y": 290
+        },
+        "stable_path": [
+          "116:27233"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1627877714",
+      "uuid": "0256c4ff-7d34-4edb-8285-8284278fd058",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Daniel Watson",
+        "img_url": "https://s3-alpha.figma.com/profile/1557416793713179198/1016a9c6-ffa7-4dd6-a95b-f8131685cd5f",
+        "id": "1557416793713179198"
+      },
+      "created_at": "2026-02-11T02:56:26.421Z",
+      "resolved_at": null,
+      "message": "There are two hypotheses that may be getting grouped into one. Let's discuss with Alex in the AM.\n\n1. One Click Default failure rates are so high for Windows 11 and the UX is confusing enough that download as default is having a negative impact on default and pinning rates. Simply removing the feature will improve default and pinning rates.\n2. Because One Click Default failure rates are so high for Windows 11, there is an opportunity to drive increased activation by improving the UX of the failure state.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "71:44260",
+        "node_offset": {
+          "x": 460,
+          "y": 227
+        },
+        "stable_path": [
+          "71:44260"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1627432985",
+      "uuid": "ba57e506-5ab0-4cae-b72b-e5d8f4475d8b",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-10T19:15:37.523Z",
+      "resolved_at": null,
+      "message": "@Daniel Watson could again probably remove these instructions as we give them up front in the previous screen.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "83:50567",
+        "node_offset": {
+          "x": 8672,
+          "y": 755
+        },
+        "stable_path": [
+          "83:50567"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1627431706",
+      "uuid": "814a6b08-3523-418f-9512-2b9f240d1398",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-10T19:14:48.518Z",
+      "resolved_at": null,
+      "message": "@Daniel Watson I will say that for this area.. we might be able to remove this specific type of call out. Since we give visual instructions up front.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "83:59188",
+        "node_offset": {
+          "x": 7232,
+          "y": 713
+        },
+        "stable_path": [
+          "83:59188"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1627208758",
+      "uuid": "1d4e6066-daab-4c4a-957c-5c40437bf913",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Daniel Watson",
+        "img_url": "https://s3-alpha.figma.com/profile/1557416793713179198/1016a9c6-ffa7-4dd6-a95b-f8131685cd5f",
+        "id": "1557416793713179198"
+      },
+      "created_at": "2026-02-10T16:57:07.460Z",
+      "resolved_at": null,
+      "message": "Moiz wanted to make sure these were in the right order.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "83:48818",
+        "node_offset": {
+          "x": 5665,
+          "y": 468
+        },
+        "stable_path": [
+          "83:48818"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1625890187",
+      "uuid": "54441a6f-ecb7-4128-b6f6-01064183d7c8",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Daniel Watson",
+        "img_url": "https://s3-alpha.figma.com/profile/1557416793713179198/1016a9c6-ffa7-4dd6-a95b-f8131685cd5f",
+        "id": "1557416793713179198"
+      },
+      "created_at": "2026-02-10T06:01:14.332Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko I wonder if we should include the \"We love keeping you safe\" screen here.\n\nIf we did that, we could use the next screen to highlight the toast notification for pinning.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "83:50567",
+        "node_offset": {
+          "x": 4513,
+          "y": 352
+        },
+        "stable_path": [
+          "83:50567"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1625704611",
+      "uuid": "0e746004-5ad1-41aa-8a2e-6a738c5d7953",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-10T02:29:36.031Z",
+      "resolved_at": null,
+      "message": "can this button behaviour change depending on what combo of checkmarks user has checked off?\n\n* If they check off both checkmarks, ideally it's only one button that let's user open settings as the next action. \n* If they uncheck the set to default, ideally but changes to \"Save and continue\" to allow user to pass bay without opening settings. \n\nCC @Jared Hirsch is this possible on train?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "83:59188",
+        "node_offset": {
+          "x": 5488,
+          "y": 544
+        },
+        "stable_path": [
+          "83:59188"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1625463818",
+      "uuid": "c0e8f07f-e053-469f-a6fd-3b3ba56c14ec",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-09T21:42:05.327Z",
+      "resolved_at": null,
+      "message": "Can we tell if someone successfully set this up as default or not.. we don't know if we can do this check! CC @Jared Hirsch",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "116:27333",
+        "node_offset": {
+          "x": 229,
+          "y": 80
+        },
+        "stable_path": [
+          "116:27333"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1625458487",
+      "uuid": "f99cee89-74e7-46ac-93ff-0136bbf39bc9",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-09T21:37:29.771Z",
+      "resolved_at": null,
+      "message": "Developers permanently removed the import option from these",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "83:48818",
+        "node_offset": {
+          "x": 5422,
+          "y": 502
+        },
+        "stable_path": [
+          "83:48818"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1625436158",
+      "uuid": "f20e63da-8d1b-46cc-9145-581ead2a21a6",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-09T21:18:51.968Z",
+      "resolved_at": null,
+      "message": "This MVP version needs to be on train:\n* Only images can really change\n* Copy\n* Order of onboarding can change.. we think. \n* And number of screens potentially. (usually instead of adding a screen, we just basically change the \"gratitude screen)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "71:43798",
+        "node_offset": {
+          "x": 125,
+          "y": 262
+        },
+        "stable_path": [
+          "71:43798"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1625363184",
+      "uuid": "a07c066c-dad7-4c5c-81d3-226d03c910e3",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2026-02-09T20:20:51.618Z",
+      "resolved_at": null,
+      "message": "On train - OS notification isnt on train yet I believe.\n\nnote: double messages. I think the one above isnt in the messahing system so they would collisions.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "121:30623",
+        "node_offset": {
+          "x": 13388,
+          "y": 662
+        },
+        "stable_path": [
+          "121:30623"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1625359986",
+      "uuid": "b126443e-ba98-4819-8c34-2a84f6877781",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2026-02-09T20:18:26.279Z",
+      "resolved_at": null,
+      "message": "This might have to be 'on train\" coz i dont think our current template allows for additional smaller/text",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "83:59188",
+        "node_offset": {
+          "x": 5630,
+          "y": 506
+        },
+        "stable_path": [
+          "83:59188"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1625212247",
+      "uuid": "84015aa0-5374-4edf-9ac6-7382e96215a0",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2026-02-09T18:30:29.654Z",
+      "resolved_at": null,
+      "message": "recommend psoting in #omc-core if disabling 1-click can happen off-train",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "83:48817",
+        "node_offset": {
+          "x": 1386,
+          "y": 14
+        },
+        "stable_path": [
+          "83:48817"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1625188372",
+      "uuid": "85d371c4-0d6f-4fdf-8f37-303f69e2b3e7",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Daniel Watson",
+        "img_url": "https://s3-alpha.figma.com/profile/1557416793713179198/1016a9c6-ffa7-4dd6-a95b-f8131685cd5f",
+        "id": "1557416793713179198"
+      },
+      "created_at": "2026-02-09T18:14:36.688Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko For this experiment, I'm thinking we leave the checkbox on the marketing site to keep it simple. Working with marketing adds quite a bit of coordination.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "83:48818",
+        "node_offset": {
+          "x": 160,
+          "y": 479
+        },
+        "stable_path": [
+          "83:48818"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1623042519",
+      "uuid": "61cc470b-b30c-4ea1-9c2b-bc76bc493523",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-06T21:57:37.120Z",
+      "resolved_at": null,
+      "message": "Are we able to get rid of this double toast situation? Does user have to have the OS check if they want to make this step a thing?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "83:48818",
+        "node_offset": {
+          "x": 7280,
+          "y": 553
+        },
+        "stable_path": [
+          "83:48818"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1623042002",
+      "uuid": "be93f242-8570-41f4-a5f4-353f84c8eedb",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-06T21:56:59.890Z",
+      "resolved_at": null,
+      "message": "will this pop up here? Gabrielle mentioned that this should still pop up.. but idk if this is true.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "83:48772",
+        "node_offset": {
+          "x": 8755,
+          "y": 792
+        },
+        "stable_path": [
+          "83:48772"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1646950822",
+      "uuid": "6187aa7f-0630-472e-ad4a-6ec3ad1f8b34",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-24T18:53:56.118Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier thank you for the question!\n\nYes, this would still apply, even when no preference for reduced motion is set (many users after Covid or with Long Covid, for instance, report becoming more sensitive to motion, while not knowing about this OS-level preference). \n\nWe could, for instance, add a small Play/pause button on the corner of the animated container. Or, maybe, the first screen of the onboarding flow could include a smaller button at the end of the main content area (i.e. after/next to \"Skip this step\" button) for \"Stop animation\". I think, we could only show it on the first screen too, if the spacing is a concern. But these options would satisfy the WCAG Criterion and would also show to all onboarded users that Firefox is, in fact, about the choice, even in areas these users may not be thinking about.\n\nAlternatively, the same WCAG Criterion states that if an animation settles within 5 seconds, this SC does not apply. With the animation being more subtle, this is likely passing SC 2.3.1 and 2.3.2 for flashing, so this is a great, safe approach for users with epilepsy.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "467:21102",
+        "node_offset": {
+          "x": 420,
+          "y": 349
+        },
+        "stable_path": [
+          "467:21102"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1631626536",
+      "uuid": "90b50112-1c60-4f0d-b870-71111d6ec549",
+      "file_key": "MPYRmdy1F5sLL0cyhkmAAs",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-12T19:16:28.461Z",
+      "resolved_at": null,
+      "message": "Might be good to have a fillable SVG:\n\n* Right to left\n* HCM\n* Dark mode",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "266:15306",
+        "node_offset": {
+          "x": 8019,
+          "y": 408
+        },
+        "stable_path": [
+          "266:15306"
+        ]
+      },
+      "order_id": "44"
+    }
+  ]
+}

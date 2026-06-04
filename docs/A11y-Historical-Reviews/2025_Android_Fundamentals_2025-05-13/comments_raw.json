@@ -1,0 +1,2422 @@
+{
+  "unresolved": [
+    {
+      "id": "1721863822",
+      "uuid": "0fa55d19-4220-44cf-859e-b650fc0bb08b",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2026-04-16T16:49:00.991Z",
+      "resolved_at": null,
+      "message": "Is this \"Do not track\", we should put a description here as it often doesn't work as fas as I understand",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2492:28273",
+        "node_offset": {
+          "x": 135,
+          "y": 763
+        },
+        "stable_path": [
+          "2492:28273"
+        ]
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "1721860134",
+      "uuid": "16339c87-faa8-4f19-901b-3a003b90aefe",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2026-04-16T16:46:38.278Z",
+      "resolved_at": null,
+      "message": "(default) isn't required here IMO @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2492:28273",
+        "node_offset": {
+          "x": 185,
+          "y": 368
+        },
+        "stable_path": [
+          "2492:28273"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "1596023636",
+      "uuid": "708b99bf-b09a-4f75-99f9-c2b4bbeb90a7",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2026-01-20T20:35:04.873Z",
+      "resolved_at": null,
+      "message": "Could/Should we put the number if items blocked in here? \n\nand are we moving to Kit vs this older icon? Thanks\n\ncc @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4432:485",
+        "node_offset": {
+          "x": 346,
+          "y": 108
+        },
+        "stable_path": [
+          "4432:485"
+        ]
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "1540959836",
+      "uuid": "722f6f0a-e3a6-4f90-8927-1bc1f947fcae",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-12-03T10:29:56.170Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel I assume we keep the re-arragement of tabs once a tab is removed the same as it is today in release, correct?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3546:14934",
+        "node_offset": {
+          "x": 148,
+          "y": 207
+        },
+        "stable_path": [
+          "3546:14934"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "1525919502",
+      "uuid": "c963b850-3855-4c37-8cb9-88b4e51d5e7e",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-11-21T17:19:20.067Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel also wondering if the information here is super valuable, all it tells me is that the only diff between standard and the rest is 'Suspected Fingerprinters'",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2492:28412",
+        "node_offset": {
+          "x": 296,
+          "y": 112
+        },
+        "stable_path": [
+          "2492:28412"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "1525918199",
+      "uuid": "930dd4fa-5932-4ea5-9687-52b82939f2db",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-11-21T17:18:26.002Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel what's the rational for having this here and not having it as part of the SUMO page about protection sections?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3188:68859",
+        "node_offset": {
+          "x": 470,
+          "y": 185
+        },
+        "stable_path": [
+          "3188:68859"
+        ]
+      },
+      "order_id": "94"
+    },
+    {
+      "id": "1525915502",
+      "uuid": "9764aa0e-83ee-4c32-ad6c-bea9961b9361",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-11-21T17:16:22.664Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel do you know when we updated this content? I find it a bit confusing compared to what's in release",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2928:38777",
+        "node_offset": {
+          "x": 180,
+          "y": 582
+        },
+        "stable_path": [
+          "2928:38777"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "1525910908",
+      "uuid": "50c600c7-03c6-42d3-8e92-e1196220ef39",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-11-21T17:13:02.450Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel has the copy been reviewed by a content designer? Just comparing it to what we have in Nightly and for example with strict it says '...but some sites may not work properly' and wondering if this is more meaningful than '...some functionality may not...'",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2492:28273",
+        "node_offset": {
+          "x": 317,
+          "y": 491
+        },
+        "stable_path": [
+          "2492:28273"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "1496151003",
+      "uuid": "69c8f849-c5d2-47b8-b453-a73415212a03",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-11-03T12:50:14.689Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel this looks like Edge, no?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3615:20889",
+        "node_offset": {
+          "x": 209,
+          "y": 2684
+        },
+        "stable_path": [
+          "3615:20889"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "1494524344",
+      "uuid": "130a1bf0-2ca4-4708-a398-425865050e15",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-10-31T17:44:53.736Z",
+      "resolved_at": null,
+      "message": "This is also interesting!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3616:22801",
+        "node_offset": {
+          "x": 55,
+          "y": 848
+        },
+        "stable_path": [
+          "3616:22801"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "1494523908",
+      "uuid": "99ef8aa0-7f45-457f-84b5-46bd66aa62c9",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-10-31T17:44:33.132Z",
+      "resolved_at": null,
+      "message": "I think this is good too!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3616:21165",
+        "node_offset": {
+          "x": 28,
+          "y": 855
+        },
+        "stable_path": [
+          "3616:21165"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "1494523550",
+      "uuid": "d19ea9c4-ba36-4a00-8c4d-3d89154d3a48",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-10-31T17:44:17.196Z",
+      "resolved_at": null,
+      "message": "I like this!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3616:22277",
+        "node_offset": {
+          "x": 60,
+          "y": 867
+        },
+        "stable_path": [
+          "3616:22277"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "1487607960",
+      "uuid": "4a610b52-02d6-4303-b417-e850414bec35",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Petru Lingurar",
+        "img_url": "https://www.gravatar.com/avatar/8f83425cec0f55ea34d5fd519e505742?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "897718176023977647"
+      },
+      "created_at": "2025-10-28T10:49:15.815Z",
+      "resolved_at": null,
+      "message": "Other similar search features allow seeing both \n* \"Recent searches\" - as in past search terms\n* \"Recent search results\" - as in past results shown.\nHere it seems like here we show past results so the title should be ~\"Recent search results\".",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-10-28T15:17:58.245Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3459:2932",
+        "node_offset": {
+          "x": 94,
+          "y": 103
+        },
+        "stable_path": [
+          "3459:2932"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "1480425577",
+      "uuid": "36fb6f69-8d7f-45a5-990b-e9a3c1a4d9f2",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Harrison Oglesby",
+        "img_url": "https://www.gravatar.com/avatar/769cefffbe6f8a9b35cda8faa9622878?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_h_v2.png",
+        "id": "1164310951003700889"
+      },
+      "created_at": "2025-10-22T21:22:00.641Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel What is the highlight color?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3438:27498",
+        "node_offset": {
+          "x": 89,
+          "y": 200
+        },
+        "stable_path": [
+          "3438:27498"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "1480227614",
+      "uuid": "08f5fbf1-9bf8-4c79-9395-3041d2862e7f",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Harrison Oglesby",
+        "img_url": "https://www.gravatar.com/avatar/769cefffbe6f8a9b35cda8faa9622878?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_h_v2.png",
+        "id": "1164310951003700889"
+      },
+      "created_at": "2025-10-22T18:53:11.041Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel I think for v1, adding the ability to change settings inside the search screen is out of scope.  it might be possible in future versions, especially once we move to all Jetpack Compose in the settings but at the moment it's a large challenge.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3438:27498",
+        "node_offset": {
+          "x": 344,
+          "y": 251
+        },
+        "stable_path": [
+          "3438:27498"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "1477831794",
+      "uuid": "3bcd4886-2fcc-40fe-90c6-7d09a9effc24",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-10-21T15:48:21.773Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel I wonder if we should experiment with color to make the letters even more prominent, the bolding feels very subtle",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-10-21T15:59:34.114Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3438:27498",
+        "node_offset": {
+          "x": 72,
+          "y": 259
+        },
+        "stable_path": [
+          "3438:27498"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "1477827587",
+      "uuid": "cd1637f7-f55b-4711-9444-248bb47bb40c",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-10-21T15:46:16.481Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel could we make this a little more fun, add an easter egg? or some copy that doesn't necessarily feel like a dead end?",
+      "reactions": [
+        {
+          "emoji": ":raised_hands:",
+          "created_at": "2025-10-21T15:58:37.171Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3245:31271",
+        "node_offset": {
+          "x": 300,
+          "y": 353
+        },
+        "stable_path": [
+          "3245:31271"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "1477825893",
+      "uuid": "c0725360-f01e-4d8d-abfc-6bd476cf03c4",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-10-21T15:45:24.196Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel maybe not for v1 but it might be interesting to think about a search zero state, e.g. what would we suggest? should we show recent searches?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-10-21T15:58:09.251Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3430:3717",
+        "node_offset": {
+          "x": 186,
+          "y": 165
+        },
+        "stable_path": [
+          "3430:3717"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "1465894225",
+      "uuid": "19dae7e2-c2e2-40e5-bd19-32efa8535ec8",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Cathy Lu",
+        "img_url": "https://s3-alpha.figma.com/profile/f29c0db1-7692-41b8-ad0f-4e39e596be50",
+        "id": "1117093170175595025"
+      },
+      "created_at": "2025-10-13T17:02:41.889Z",
+      "resolved_at": null,
+      "message": "Should light mode snackbar still have a black background or should it also be updated to a dark gray, due to the update on dark mode?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3152:22390",
+        "node_offset": {
+          "x": 316,
+          "y": 779
+        },
+        "stable_path": [
+          "3152:22390"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1453818907",
+      "uuid": "50e9ef3b-84a4-4f3c-8a9c-ab6e684f7fe2",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2025-10-03T14:35:07.022Z",
+      "resolved_at": null,
+      "message": "Refine time frame options",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2507:32556",
+        "node_offset": {
+          "x": 275,
+          "y": 377
+        },
+        "stable_path": [
+          "2507:32556"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1452251557",
+      "uuid": "adf19c63-f98b-4f67-97dd-47772e186c7f",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2025-10-02T15:13:21.549Z",
+      "resolved_at": null,
+      "message": "placeholder",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2492:28273",
+        "node_offset": {
+          "x": 311,
+          "y": 171
+        },
+        "stable_path": [
+          "2492:28273"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1440686177",
+      "uuid": "3d26a8f9-c298-433c-bf87-b843c25bb7e7",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-09-24T18:00:21.082Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak IIRC, headlines don't get terminal punctuation, do they?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2145:31097",
+        "node_offset": {
+          "x": 388,
+          "y": 691
+        },
+        "stable_path": [
+          "2145:31097"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1440685059",
+      "uuid": "3f0ca5cc-43c1-4125-8655-2fd03edfd3f0",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-09-24T17:59:32.560Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak This option felt much easier to skim. \n\n* I like that the headline really calls out the 3 areas that are in the new section (it reads real snappy!) \n* I don't mind the \"when available\" in the parentheses and in fact, OPO, makes it even easier to read!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2145:31097",
+        "node_offset": {
+          "x": 360,
+          "y": 677
+        },
+        "stable_path": [
+          "2145:31097"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1440549726",
+      "uuid": "8db12c0c-24b9-4b64-a355-ae3b04d78e7c",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-09-24T16:29:53.579Z",
+      "resolved_at": null,
+      "message": "What happens when the user taps the icon when translation is on? Does it open the panel or turn translation off?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2169:37066",
+        "node_offset": {
+          "x": 198,
+          "y": 738
+        },
+        "stable_path": [
+          "2169:37066"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "1440278419",
+      "uuid": "947b7353-7dd5-4611-bad5-b69e0a4e4777",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-09-24T14:17:45.491Z",
+      "resolved_at": null,
+      "message": "Can we clarify for eng that this CFR only shows the first time this menu appears?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-09-24T17:55:49.644Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2145:31119",
+        "node_offset": {
+          "x": 296,
+          "y": 770
+        },
+        "stable_path": [
+          "2145:31119"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "1440275268",
+      "uuid": "601cc456-49d0-4db4-bda6-cd7bdf4b9873",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-09-24T14:16:27.634Z",
+      "resolved_at": null,
+      "message": "Can we style this to more closely match the state where have now? Where there is no more \"From\" option? So your only two options are to show original or select a new \"to\" language.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2145:31399",
+        "node_offset": {
+          "x": 173,
+          "y": 69
+        },
+        "stable_path": [
+          "2145:31399"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "1440269683",
+      "uuid": "68a11654-8865-426d-a694-5d4d57c0bc8d",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-09-24T14:14:13.215Z",
+      "resolved_at": null,
+      "message": "Does this menu stay open after the icon is tapped? When does it close?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2169:36974",
+        "node_offset": {
+          "x": 188,
+          "y": 731
+        },
+        "stable_path": [
+          "2169:36974"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1440069561",
+      "uuid": "5b318f47-af13-47fb-a88e-9526968e19b7",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-09-24T12:45:26.990Z",
+      "resolved_at": null,
+      "message": "@Eduardo Feo @Megan Daniel I wonder how much we should invest in 'Collections' given that the usage number is kinda low and I keep hearing that we wanna sunset it, also it is disappearing from new tab afaik and with that won't be accessible anymore",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-09-24T13:48:30.795Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2811:17882",
+        "node_offset": {
+          "x": 253,
+          "y": 262
+        },
+        "stable_path": [
+          "2811:17882"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1440066188",
+      "uuid": "ff280c96-9782-4a00-87e5-ee20b6a794e9",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-09-24T12:43:50.440Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel the buttons are too far away from the content, can we move them closer? This will help screen magnification users and also users who look at it in standard size",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2586:26084",
+        "node_offset": {
+          "x": 307,
+          "y": 796
+        },
+        "stable_path": [
+          "2586:26084"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "1430673925",
+      "uuid": "18abd2a2-727f-4520-986c-1a9b159384e1",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2025-09-17T19:09:47.697Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez here's an example of the title style the banner component allows",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2635:9287",
+        "node_offset": {
+          "x": 3895,
+          "y": 24
+        },
+        "stable_path": [
+          "2635:9287"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1422082814",
+      "uuid": "ca3a6a7e-3c43-4da6-8168-b6101dfd97c2",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-09-11T14:18:25.100Z",
+      "resolved_at": null,
+      "message": "I like the idea you are exploring here with the ON/OFF using the foxy. We can request an specific new foxy covering this cases.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2441:23967",
+        "node_offset": {
+          "x": 96,
+          "y": 274
+        },
+        "stable_path": [
+          "2441:23967"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1422075887",
+      "uuid": "f3e3a51a-499a-46ec-bd04-fa3e43cc2424",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-09-11T14:15:24.592Z",
+      "resolved_at": null,
+      "message": "I think the bottom sheet is more modern and efficient choice, but Thank you for exploring multiple options... Good job!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2357:45828",
+        "node_offset": {
+          "x": 680,
+          "y": 77
+        },
+        "stable_path": [
+          "2357:45828"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1422068048",
+      "uuid": "086eeeaa-7a2a-4146-b989-092b5047dba0",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-09-11T14:12:06.142Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel Are we going to show 1 at a time?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2375:49885",
+        "node_offset": {
+          "x": 761.5,
+          "y": 79.5
+        },
+        "stable_path": [
+          "2375:49885"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1422062427",
+      "uuid": "6eac2c9c-0f30-4316-8e52-39ba95777587",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-09-11T14:09:39.577Z",
+      "resolved_at": null,
+      "message": "Is this a current visual or a new idea?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2486:6951",
+        "node_offset": {
+          "x": 325,
+          "y": 155
+        },
+        "stable_path": [
+          "2486:6951"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1422057860",
+      "uuid": "b85ead06-f903-476e-a0ad-c9219cbf4158",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-09-11T14:07:41.255Z",
+      "resolved_at": null,
+      "message": "Let's update with the new foxy!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2357:44048",
+        "node_offset": {
+          "x": 376,
+          "y": 160
+        },
+        "stable_path": [
+          "2357:44048"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1422049308",
+      "uuid": "7075e785-f36b-4fb7-82f1-a18dc31406b9",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-09-11T14:03:50.978Z",
+      "resolved_at": null,
+      "message": "Good approach!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2243:35815",
+        "node_offset": {
+          "x": 389,
+          "y": 435
+        },
+        "stable_path": [
+          "2243:35815"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "1422047321",
+      "uuid": "d44aaeb6-94aa-461d-a963-b63edd08ac4b",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-09-11T14:02:54.936Z",
+      "resolved_at": null,
+      "message": "Is there any opportunity to merge the ... with the additional items into 1 unique block keeping the interaction you presented for discoverability? that way we can remove 1 item from the toolbar... WDYT",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2172:7714",
+        "node_offset": {
+          "x": 380,
+          "y": 842
+        },
+        "stable_path": [
+          "2172:7714"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "1422044501",
+      "uuid": "6eb1b4ec-6fc6-4bbd-b418-1f0e7dc557d8",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-09-11T14:01:35.694Z",
+      "resolved_at": null,
+      "message": "WDYT moving the \"Share\" option inside the contextual functionalities: Translate, Summarize, Read mode and Share ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2243:35730",
+        "node_offset": {
+          "x": 389,
+          "y": 70
+        },
+        "stable_path": [
+          "2243:35730"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1422041301",
+      "uuid": "fdf4be01-cb09-4cbd-ba29-172e6f76b7f0",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-09-11T14:00:10.484Z",
+      "resolved_at": null,
+      "message": "I love this element, I think it's very smooth, but we need to see the user perception about the floating entry point. That is my real concern.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2243:37216",
+        "node_offset": {
+          "x": 318,
+          "y": 790
+        },
+        "stable_path": [
+          "2243:37216"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1418405630",
+      "uuid": "86cfb389-0d6b-499d-9964-f13fc106d850",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-09-09T18:11:38.611Z",
+      "resolved_at": null,
+      "message": "This seems cleaner tbh",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-09-09T19:13:31.723Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2243:39449",
+        "node_offset": {
+          "x": 211,
+          "y": 724
+        },
+        "stable_path": [
+          "2243:39449"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "1418404993",
+      "uuid": "aefa0343-38db-4029-a082-aed8363dbeea",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-09-09T18:11:11.619Z",
+      "resolved_at": null,
+      "message": "I think we should have onboarding for this new icon, like a CFR",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-09-09T19:00:40.238Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2145:31264",
+        "node_offset": {
+          "x": 395,
+          "y": 751
+        },
+        "stable_path": [
+          "2145:31264"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1418404568",
+      "uuid": "eaee90d1-1353-48f9-9e1a-02c110575344",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-09-09T18:10:53.624Z",
+      "resolved_at": null,
+      "message": "I think we should add an option to turn off this side icon in settings (maybe similar to turning off translation altogether in iOS)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2148:36894",
+        "node_offset": {
+          "x": 127,
+          "y": 203
+        },
+        "stable_path": [
+          "2148:36894"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1418388995",
+      "uuid": "422a1236-672d-4c1a-9b16-4acea86eb589",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-09-09T17:59:22.049Z",
+      "resolved_at": null,
+      "message": "Why is there a dropdown on the left language (from) but not the right one (to)? If there's only one, shouldn't it be on the \"to\" langauge?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2243:36943",
+        "node_offset": {
+          "x": 89,
+          "y": 766
+        },
+        "stable_path": [
+          "2243:36943"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1404659226",
+      "uuid": "3a134fb5-2e49-4337-b4b9-37c7b97351c1",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-08-29T17:48:42.502Z",
+      "resolved_at": null,
+      "message": "Does deleting from this dialog also clear things from other devices? I would expect a warning if so @Megan Daniel",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2216:16515",
+        "node_offset": {
+          "x": 335,
+          "y": 408
+        },
+        "stable_path": [
+          "2216:16515"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1404598883",
+      "uuid": "33e5c795-26d8-4606-9e96-6639011e4020",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-08-29T16:51:34.036Z",
+      "resolved_at": null,
+      "message": "We should ask eng if there is a way to have a setting for this that doesn't force people to sign out. We should ask how it works today for signed in users... @Megan Daniel",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-08-29T18:53:17.303Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2213:6818",
+        "node_offset": {
+          "x": 382,
+          "y": 998
+        },
+        "stable_path": [
+          "2213:6818"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1404595866",
+      "uuid": "ba38e61e-7567-4d4f-9eca-e67a042beb9c",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-08-29T16:48:48.051Z",
+      "resolved_at": null,
+      "message": "This makes it sound like we're deleting downloaded files off the device. Is this actually true, or are we just clearing the download list? @Megan Daniel",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2216:9813",
+        "node_offset": {
+          "x": 270,
+          "y": 950
+        },
+        "stable_path": [
+          "2216:9813"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1404589004",
+      "uuid": "67786c39-2de5-4831-8baa-e98acf3ac31c",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-08-29T16:42:48.858Z",
+      "resolved_at": null,
+      "message": "Some of these we don't offer today. I think it would be nice to add them but we should check with eng @Megan Daniel",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-08-29T18:53:29.867Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2216:13634",
+        "node_offset": {
+          "x": 304,
+          "y": 644
+        },
+        "stable_path": [
+          "2216:13634"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1404583860",
+      "uuid": "71674cb6-f8bb-43a4-a9b4-eebbb5b908b3",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-08-29T16:38:13.713Z",
+      "resolved_at": null,
+      "message": "I like Option 1 the best, but have a few questions:\n1. Are you proposing combining the \"on quit\" settings into \"delete data\" page in settings? I think this is a good idea.\n2. However, we currently let users configure WHICH data gets deleted on quit, and this design doesn't seem to allow for that. Perhaps there is a configure/set up link that takes you one page deeper to do this? \n@Megan Daniel",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2216:15013",
+        "node_offset": {
+          "x": 769,
+          "y": 250
+        },
+        "stable_path": [
+          "2216:15013"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1354528814",
+      "uuid": "69bbda61-a8b5-4ced-a873-5bb848484519",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-24T17:02:21.744Z",
+      "resolved_at": null,
+      "message": "It's great that you are thinking about error states here! There are going to be a few types that you can refer to here, incase it applies: https://www.figma.com/design/GT6oZLFw32LiCwKl5GOMWD/Full-Page-Translation?node-id=7231-206764&t=dkule4xsPtk3xsd1-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1232:1020",
+        "node_offset": {
+          "x": 213,
+          "y": 749
+        },
+        "stable_path": [
+          "1232:1020"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1354520262",
+      "uuid": "5283b942-65ff-46c2-b055-085be60f87bd",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-24T16:56:10.655Z",
+      "resolved_at": null,
+      "message": "Is there going to be a translation in progress state, if translation is taking a longer loading time?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1229:3792",
+        "node_offset": {
+          "x": 35,
+          "y": 781
+        },
+        "stable_path": [
+          "1229:3792"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1354518442",
+      "uuid": "bad8921f-bf14-44c6-8bc1-7f6eddf4ce2e",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-24T16:54:52.872Z",
+      "resolved_at": null,
+      "message": "Make sure that users that use screen readers are able to hear that the page got translated as well. And there's going to be a clear announcement of translation in progress, and also translation complete.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1229:3792",
+        "node_offset": {
+          "x": 25,
+          "y": 746
+        },
+        "stable_path": [
+          "1229:3792"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1354517102",
+      "uuid": "53870b69-76fe-459c-80f1-78b3031a5331",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-24T16:53:55.416Z",
+      "resolved_at": null,
+      "message": "Love that this is something that  the user can dismiss themselves instead of a time-out! This is more accessible and also provides more control!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1229:3792",
+        "node_offset": {
+          "x": 360,
+          "y": 756
+        },
+        "stable_path": [
+          "1229:3792"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1354515041",
+      "uuid": "d3a45427-7fd4-4e83-adfd-b74ae7458199",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-24T16:52:27.387Z",
+      "resolved_at": null,
+      "message": "In our user testing we've seen people want to at times quickly switch between translated and show original. \n\nMight be nice to to have an action here to allow to translate again.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1230:1118",
+        "node_offset": {
+          "x": 318,
+          "y": 762
+        },
+        "stable_path": [
+          "1230:1118"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1354512220",
+      "uuid": "66cfec70-0d85-4200-a1ef-4de7595e7b44",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-24T16:50:23.816Z",
+      "resolved_at": null,
+      "message": "I think being able to say from which language it was translated from might be nice. Especially if it's automatic translation.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1229:3792",
+        "node_offset": {
+          "x": 179,
+          "y": 765
+        },
+        "stable_path": [
+          "1229:3792"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1298868615",
+      "uuid": "3f88bf95-27b4-41a6-b2d4-f546feff7f0c",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-06-13T19:55:20.685Z",
+      "resolved_at": null,
+      "message": "what if we combo the body text to: \"Make sure you trust this site before you upload from \"folder\".\"\n1. it's short\n2. Avoids introducing the word \"continue,\" which is not a CTA",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "720:1171",
+        "node_offset": {
+          "x": 307,
+          "y": 435
+        },
+        "stable_path": [
+          "720:1171"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1298867052",
+      "uuid": "e4f4c7cd-9f1d-442d-a13d-cbaab4ed3078",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-06-13T19:53:39.490Z",
+      "resolved_at": null,
+      "message": "I prefer the versions that don't have the word confirm in the title. I think the question is effective here bc there is a safety concern as I understand it (otherwise why would we interrupt them in this flow, right?), so the question does make sense to me.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-06-13T20:18:32.271Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "720:1171",
+        "node_offset": {
+          "x": 281,
+          "y": 395
+        },
+        "stable_path": [
+          "720:1171"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1298865865",
+      "uuid": "27e2c318-23d5-4e64-a379-6bda07f9fc52",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-06-13T19:52:24.923Z",
+      "resolved_at": null,
+      "message": "Agree--too robotic for my taste",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "720:1089",
+        "node_offset": {
+          "x": 168,
+          "y": 1
+        },
+        "stable_path": [
+          "720:1089"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1262982957",
+      "uuid": "df214723-df87-4c81-bf46-ab4c59695cc3",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T20:47:53.316Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel looking at all 3 options for CFR, but especially for the light theme against light website (probably, a common case) or for any other theme when the website background color is similar to the theme/Firefox UI color - the chevron connecting the CFR message and the browser UI is not clear and, with the similar colors of the website, it may seem that the message came from the website (like those never-ending popups and ads on some websites). \n\nWould that be possible to make the border of the CFR thicker and brighter? I think, if it would be the same color as the text color on the CFR, the current thickness would be sufficient - this would highlight that the shield icon from Firefox is saying something, not the website below it. WDYT?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-06-09T15:50:14.040Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        },
+        {
+          "emoji": ":white_check_mark:",
+          "created_at": "2025-06-09T19:34:43.956Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "108:10453",
+        "node_offset": {
+          "x": 278,
+          "y": 105
+        },
+        "stable_path": [
+          "108:10453"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1262971886",
+      "uuid": "8c974adf-a4a9-4b89-b9b7-cf92bb5eda97",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T20:37:25.499Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel recommending to put the Close button as item 2 in the screen reader order (refer to the comment above for details)",
+      "reactions": [
+        {
+          "emoji": ":white_check_mark:",
+          "created_at": "2025-05-20T19:38:47.292Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "111:9087",
+        "node_offset": {
+          "x": 2011,
+          "y": 1136
+        },
+        "stable_path": [
+          "111:9087"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1262971130",
+      "uuid": "c9ec106d-ea47-417e-b8c6-5b8016d98d8f",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T20:36:41.868Z",
+      "resolved_at": null,
+      "message": "From my comment above:\n\n@Megan Daniel if it would be functioning as a banner and would still allow a user to interact with the rest of the page, we could follow the tidbit pattern (a group with CTAs), especially if we expect there won't be more than 2 action buttons.\n\nThe Banner could follow the tidbit pattern: https://www.magentaa11y.com/checklist-native/tidbit/ - a group with an accessible label but not restricting the user's interaction with the rest of the page.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "111:9088",
+        "node_offset": {
+          "x": 301,
+          "y": 33
+        },
+        "stable_path": [
+          "111:9088"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1262966958",
+      "uuid": "309a39ce-ac75-480e-a921-8a41f58f3dfc",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T20:32:49.137Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel I assume those messages would be functioning as modals aka they would block interaction with the rest of the view until dismissed? Then we could use the \"modal\" role and pattern (linking MagentA11y because they have engineering notes far better than I could provide for mobile :sweat_smile: ).\n\nIf it would be functioning as a banner in the examples and would still allow a user to interact with the rest of the page, we could follow the tidbit pattern (a group with CTAs), especially if we expect there won't be more than 2 action buttons.\n\nLMK if you have questions - happy to discuss other options/ideas too!\n\n[Editing to add: now reviewing the rest of the page, it seems that there probably is a separation. If so, CFR could be \"modal\" and follow the linked pattern or implementing the custom component with the accessible name for the group - refer to the Magenta page for engineering details and QA references. And the Banner could follow the tidbit pattern: also a group with an accessible label but not restricting the user's interaction with the rest of the page.]",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-05-20T19:37:16.668Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "111:9089",
+        "node_offset": {
+          "x": 285,
+          "y": 70
+        },
+        "stable_path": [
+          "111:9089"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1262957734",
+      "uuid": "76ab1b27-c082-44cc-a879-6367158d4ec3",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T20:24:33.734Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel if we follow the visual reading order (in LTR languages, as in the example), the close button would be the item 2, and the actions are items 3 and 4. It may be justifiable to consider the \"X\" close button a second column in the reading order, but it would be a stretch. \n\nI'd recommended following the visual reading order to avoid confusion for sighted users of screen readers (i.e. those with low vision or cognitive disabilities).",
+      "reactions": [
+        {
+          "emoji": ":white_check_mark:",
+          "created_at": "2025-05-20T19:38:40.616Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "110:8473",
+        "node_offset": {
+          "x": 33,
+          "y": 6
+        },
+        "stable_path": [
+          "110:8473"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1252390082",
+      "uuid": "5f737cd7-767a-473b-8624-8227bae44b5e",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2025-05-12T15:22:10.404Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber also wanted to confirm this is the final PBM version (and that we're removing the flame icon/functionality)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "90:14788",
+        "node_offset": {
+          "x": 13,
+          "y": 66
+        },
+        "stable_path": [
+          "90:14788"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1252385111",
+      "uuid": "3a25a4b4-d7d3-407d-84dc-873afe7aada5",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2025-05-12T15:19:41.653Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber Hi! I didn't see this in the refresh mocks, just wanted to double check that this functionality will still exist?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "64:40825",
+        "node_offset": {
+          "x": 402,
+          "y": 26
+        },
+        "stable_path": [
+          "64:40825"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1250398526",
+      "uuid": "51c7eee5-72b9-4506-b4bc-91ae196f6dd5",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-05-09T17:58:39.187Z",
+      "resolved_at": null,
+      "message": "Globally, I made a comment on having the opportunity to have an illustration or icon attached to these. Do we have the ability to remind me later with some of these actions?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "62:3609",
+        "node_offset": {
+          "x": 336,
+          "y": -4123
+        },
+        "stable_path": [
+          "62:3609"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1250396564",
+      "uuid": "082a7de0-dd16-4801-9a18-dfafd3104108",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-05-09T17:56:47.953Z",
+      "resolved_at": null,
+      "message": "Since this is perhaps been in the product for awhile, we could remove this in favor of other things that are new, like sharing or opening tabs from the toolbar",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-05-12T16:10:14.355Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "64:40981",
+        "node_offset": {
+          "x": 703,
+          "y": 33
+        },
+        "stable_path": [
+          "64:40981"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1250395215",
+      "uuid": "dcb50f8a-d797-4309-94b4-115fd5613662",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-05-09T17:55:35.362Z",
+      "resolved_at": null,
+      "message": "I'd want to check if this functionality still exists",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "64:34175",
+        "node_offset": {
+          "x": 503,
+          "y": 26
+        },
+        "stable_path": [
+          "64:34175"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1250394744",
+      "uuid": "6a94cf6c-37a0-4c8a-9a8a-34934f839815",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-05-09T17:55:11.933Z",
+      "resolved_at": null,
+      "message": "Do you have designs for the toolbar in PBM?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "62:3609",
+        "node_offset": {
+          "x": 905,
+          "y": 9348
+        },
+        "stable_path": [
+          "62:3609"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1250392354",
+      "uuid": "ab133f0b-5636-4ad1-ac24-d5c0eda980a2",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-05-09T17:53:06.210Z",
+      "resolved_at": null,
+      "message": "Agree",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-05-12T16:09:49.337Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "64:34170",
+        "node_offset": {
+          "x": 507.5,
+          "y": 4969.5
+        },
+        "stable_path": [
+          "64:34170"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1250391320",
+      "uuid": "10440e71-1693-49cb-987f-d22a5bf58ac3",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-05-09T17:52:12.846Z",
+      "resolved_at": null,
+      "message": "Maybe a good question for Andy or Channing on adoption rates / how this drives retention.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-05-12T16:09:41.415Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "64:34170",
+        "node_offset": {
+          "x": 466.5,
+          "y": 3983.5
+        },
+        "stable_path": [
+          "64:34170"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1250389888",
+      "uuid": "46845bf9-dfe9-4012-9219-96530dce368d",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-05-09T17:50:59.138Z",
+      "resolved_at": null,
+      "message": "Is it being removed? I'm not sure...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "64:34170",
+        "node_offset": {
+          "x": 583.5,
+          "y": 2845.5
+        },
+        "stable_path": [
+          "64:34170"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1250386533",
+      "uuid": "3cd82e8d-d635-4168-9937-6f58f650772a",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-05-09T17:48:08.446Z",
+      "resolved_at": null,
+      "message": "We have a new CFR launching to talk about the new update, so I think this is OK to remove.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-05-12T16:07:52.352Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "64:34170",
+        "node_offset": {
+          "x": 513.5,
+          "y": 1693.5
+        },
+        "stable_path": [
+          "64:34170"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1250385475",
+      "uuid": "33b6d2c8-f330-4b6e-8f7d-71f7a981114f",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-05-09T17:47:15.567Z",
+      "resolved_at": null,
+      "message": "What do you mean by if it's worth it to add \"remind me later\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "64:34170",
+        "node_offset": {
+          "x": 434.5,
+          "y": 577.5
+        },
+        "stable_path": [
+          "64:34170"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1250382944",
+      "uuid": "0b2f65e0-cd90-45de-ad43-2e3cf4458e9b",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-05-09T17:45:06.727Z",
+      "resolved_at": null,
+      "message": "General note for all of these, it might be great to have an option to include an illustration or icon. We are trying to dial up branding / differentiation, and the fox is one of our better tools to do that.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "62:3609",
+        "node_offset": {
+          "x": 282,
+          "y": -1900
+        },
+        "stable_path": [
+          "62:3609"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1250381951",
+      "uuid": "4dc64fd2-9992-4fa0-84c9-a27f1f1cf655",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-05-09T17:44:16.773Z",
+      "resolved_at": null,
+      "message": "I wonder if there's another way to call this out - users that get exposed to privacy features tend to retain better.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "64:40117",
+        "node_offset": {
+          "x": 659,
+          "y": 27
+        },
+        "stable_path": [
+          "64:40117"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1440069561",
+      "uuid": "5b318f47-af13-47fb-a88e-9526968e19b7",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-09-24T12:45:26.990Z",
+      "resolved_at": null,
+      "message": "@Eduardo Feo @Megan Daniel I wonder how much we should invest in 'Collections' given that the usage number is kinda low and I keep hearing that we wanna sunset it, also it is disappearing from new tab afaik and with that won't be accessible anymore",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-09-24T13:48:30.795Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2811:17882",
+        "node_offset": {
+          "x": 253,
+          "y": 262
+        },
+        "stable_path": [
+          "2811:17882"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1440066188",
+      "uuid": "ff280c96-9782-4a00-87e5-ee20b6a794e9",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-09-24T12:43:50.440Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel the buttons are too far away from the content, can we move them closer? This will help screen magnification users and also users who look at it in standard size",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2586:26084",
+        "node_offset": {
+          "x": 307,
+          "y": 796
+        },
+        "stable_path": [
+          "2586:26084"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "1354517102",
+      "uuid": "53870b69-76fe-459c-80f1-78b3031a5331",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-24T16:53:55.416Z",
+      "resolved_at": null,
+      "message": "Love that this is something that  the user can dismiss themselves instead of a time-out! This is more accessible and also provides more control!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1229:3792",
+        "node_offset": {
+          "x": 360,
+          "y": 756
+        },
+        "stable_path": [
+          "1229:3792"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1262982957",
+      "uuid": "df214723-df87-4c81-bf46-ab4c59695cc3",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T20:47:53.316Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel looking at all 3 options for CFR, but especially for the light theme against light website (probably, a common case) or for any other theme when the website background color is similar to the theme/Firefox UI color - the chevron connecting the CFR message and the browser UI is not clear and, with the similar colors of the website, it may seem that the message came from the website (like those never-ending popups and ads on some websites). \n\nWould that be possible to make the border of the CFR thicker and brighter? I think, if it would be the same color as the text color on the CFR, the current thickness would be sufficient - this would highlight that the shield icon from Firefox is saying something, not the website below it. WDYT?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-06-09T15:50:14.040Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        },
+        {
+          "emoji": ":white_check_mark:",
+          "created_at": "2025-06-09T19:34:43.956Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "108:10453",
+        "node_offset": {
+          "x": 278,
+          "y": 105
+        },
+        "stable_path": [
+          "108:10453"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1262971886",
+      "uuid": "8c974adf-a4a9-4b89-b9b7-cf92bb5eda97",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T20:37:25.499Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel recommending to put the Close button as item 2 in the screen reader order (refer to the comment above for details)",
+      "reactions": [
+        {
+          "emoji": ":white_check_mark:",
+          "created_at": "2025-05-20T19:38:47.292Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "111:9087",
+        "node_offset": {
+          "x": 2011,
+          "y": 1136
+        },
+        "stable_path": [
+          "111:9087"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1262971130",
+      "uuid": "c9ec106d-ea47-417e-b8c6-5b8016d98d8f",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T20:36:41.868Z",
+      "resolved_at": null,
+      "message": "From my comment above:\n\n@Megan Daniel if it would be functioning as a banner and would still allow a user to interact with the rest of the page, we could follow the tidbit pattern (a group with CTAs), especially if we expect there won't be more than 2 action buttons.\n\nThe Banner could follow the tidbit pattern: https://www.magentaa11y.com/checklist-native/tidbit/ - a group with an accessible label but not restricting the user's interaction with the rest of the page.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "111:9088",
+        "node_offset": {
+          "x": 301,
+          "y": 33
+        },
+        "stable_path": [
+          "111:9088"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1262966958",
+      "uuid": "309a39ce-ac75-480e-a921-8a41f58f3dfc",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T20:32:49.137Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel I assume those messages would be functioning as modals aka they would block interaction with the rest of the view until dismissed? Then we could use the \"modal\" role and pattern (linking MagentA11y because they have engineering notes far better than I could provide for mobile :sweat_smile: ).\n\nIf it would be functioning as a banner in the examples and would still allow a user to interact with the rest of the page, we could follow the tidbit pattern (a group with CTAs), especially if we expect there won't be more than 2 action buttons.\n\nLMK if you have questions - happy to discuss other options/ideas too!\n\n[Editing to add: now reviewing the rest of the page, it seems that there probably is a separation. If so, CFR could be \"modal\" and follow the linked pattern or implementing the custom component with the accessible name for the group - refer to the Magenta page for engineering details and QA references. And the Banner could follow the tidbit pattern: also a group with an accessible label but not restricting the user's interaction with the rest of the page.]",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-05-20T19:37:16.668Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "111:9089",
+        "node_offset": {
+          "x": 285,
+          "y": 70
+        },
+        "stable_path": [
+          "111:9089"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1262957734",
+      "uuid": "76ab1b27-c082-44cc-a879-6367158d4ec3",
+      "file_key": "ctk1Pw1TBxUwVgTTOvjHb4",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-19T20:24:33.734Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel if we follow the visual reading order (in LTR languages, as in the example), the close button would be the item 2, and the actions are items 3 and 4. It may be justifiable to consider the \"X\" close button a second column in the reading order, but it would be a stretch. \n\nI'd recommended following the visual reading order to avoid confusion for sighted users of screen readers (i.e. those with low vision or cognitive disabilities).",
+      "reactions": [
+        {
+          "emoji": ":white_check_mark:",
+          "created_at": "2025-05-20T19:38:40.616Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "110:8473",
+        "node_offset": {
+          "x": 33,
+          "y": 6
+        },
+        "stable_path": [
+          "110:8473"
+        ]
+      },
+      "order_id": "15"
+    }
+  ]
+}

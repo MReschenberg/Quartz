@@ -1,0 +1,788 @@
+{
+  "unresolved": [
+    {
+      "id": "1130687008",
+      "uuid": "d0a4f3f5-a522-4e42-89e8-bf6281fad330",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-02-12T22:29:04.745Z",
+      "resolved_at": null,
+      "message": "Let's add the bottom first to match onboarding logic. Please check with @Jeffrey Guerrero to confirm",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-02-12T22:35:36.490Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "635:22929",
+        "node_offset": {
+          "x": 90,
+          "y": 220
+        },
+        "stable_path": [
+          "635:22929"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1130686284",
+      "uuid": "760d03e1-0116-434c-bc01-f3826f343e4b",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-02-12T22:28:20.594Z",
+      "resolved_at": null,
+      "message": "We have discussed removing the word Browser. This is likely out of scope for this but something to keep in mind.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-02-12T22:32:27.035Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "563:81035",
+        "node_offset": {
+          "x": 45,
+          "y": 141
+        },
+        "stable_path": [
+          "563:81035"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1122734785",
+      "uuid": "63550b56-d2b5-4934-ad89-6ed7a5cc5584",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-02-06T22:29:05.344Z",
+      "resolved_at": null,
+      "message": "Again could we use images here and have System Default as a defaulted on",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "506:38159",
+        "node_offset": {
+          "x": 811,
+          "y": 1477
+        },
+        "stable_path": [
+          "506:38159"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1122734102",
+      "uuid": "83e45e99-8dae-484a-a71a-0af2192404c5",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-02-06T22:28:20.868Z",
+      "resolved_at": null,
+      "message": "I suggest we use icons like iOS does. It\u2019ll take up a bit more space, but it will make it easier for users to understand, some may not know what \u201cToolbar\u201d means. Show vs. Tell.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "506:38159",
+        "node_offset": {
+          "x": 787,
+          "y": 1290
+        },
+        "stable_path": [
+          "506:38159"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1118814450",
+      "uuid": "5b2cf78d-f2b3-4196-acd9-30663ba73b6d",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-02-04T21:34:23.224Z",
+      "resolved_at": null,
+      "message": "Hey @Megan Daniel - I like the section headings here! 'App theme' and 'Website theme' is clear cut. I prefer these as well over the section headings for Solution 2. I would note for this scenario, maybe omitting '.. on Websites' for the toggle. Right now it feels a little repetitive with 'Website Theme' 'Use Dark Theme on Websites' 'Automatically applies a dark theme on all websites. ...' Thank you! :star:",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-02-04T21:41:25.736Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "315:25937",
+        "node_offset": {
+          "x": 336,
+          "y": 279
+        },
+        "stable_path": [
+          "315:25937"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1118811783",
+      "uuid": "5c814e36-30d4-445f-8617-e3bda6a1162e",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-02-04T21:31:57.249Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel - I'd prefer Solution 1 here using the vertical list of buttons that's just text instead of the 'images' here, only because the 'Light' phone icon with the light mode in the background poses a contrast issue. Same to the right with the 'Dark' phone icon with the dark mode background. Plus in solution 1, with the bottom sheet of shortcuts, they contains a nice set of black icons over a white background that don't have contrast issues. Thank you :grin:",
+      "reactions": [
+        {
+          "emoji": ":white_check_mark:",
+          "created_at": "2025-02-04T21:46:15.769Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "315:26069",
+        "node_offset": {
+          "x": 118,
+          "y": 226
+        },
+        "stable_path": [
+          "315:26069"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1114475883",
+      "uuid": "47658f4b-0126-4ea2-b2d6-1af23fd85ebd",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-31T16:36:00.105Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel I thought this example of how Vivaldi grouped two settings together was a helpful example of how we could relate the global Theme setting to a separate website dark theme setting. (see my rough draft copy on the right)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "261:39000",
+        "node_offset": {
+          "x": 354,
+          "y": 54
+        },
+        "stable_path": [
+          "261:39000"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1114423740",
+      "uuid": "f34d2135-fa15-414f-bbdb-0d141b78602e",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2025-01-31T15:59:18.420Z",
+      "resolved_at": null,
+      "message": "Note: if we focus theme terminology on browser ui in settings, then we might want to consider updating this description to be less \"web\" focused as that will relate more to \"Night Mode\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "286:21558",
+        "node_offset": {
+          "x": 297,
+          "y": 387
+        },
+        "stable_path": [
+          "286:21558"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1114421820",
+      "uuid": "6a1ad23f-4a8c-47a8-83e8-433e594f7843",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2025-01-31T15:58:00.589Z",
+      "resolved_at": null,
+      "message": "Note: use consistent term here + in settings (to consider: System Default seems to be more universal)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "286:21558",
+        "node_offset": {
+          "x": 127,
+          "y": 518
+        },
+        "stable_path": [
+          "286:21558"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1113148890",
+      "uuid": "5f2f8646-f986-4cbf-9154-451aa4955232",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-01-30T19:44:41.717Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak - Wdyt about not using the word theme at all related to this? So just sticking to 'mode'.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "245:11592",
+        "node_offset": {
+          "x": 2216,
+          "y": 576
+        },
+        "stable_path": [
+          "245:11592"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1113148501",
+      "uuid": "9b8f6dfb-6863-4cab-b426-5ee5a495d018",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-01-30T19:44:24.714Z",
+      "resolved_at": null,
+      "message": "+1 to \"Website dark mode\" (short, direct) and I think 'dark mode' was language used by users",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "245:11904",
+        "node_offset": {
+          "x": 174,
+          "y": 358
+        },
+        "stable_path": [
+          "245:11904"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1113146556",
+      "uuid": "814bd59c-d136-43a3-9e76-3e6b7c9cfc3f",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-01-30T19:42:57.950Z",
+      "resolved_at": null,
+      "message": "Not as big of a fan of this version bc it doesn't give the user a ton of information scent of which mode they're in currently. They'd have to click in to see if they have it turned on or off\n\nIf the previous screen said \"Turn off/on dark mode on websites\", at least the user can figure out which mode they're in currently. This version doesn't",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "245:11593",
+        "node_offset": {
+          "x": 136,
+          "y": 336
+        },
+        "stable_path": [
+          "245:11593"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1113145330",
+      "uuid": "c007dbb9-9a0b-4122-8f96-5bc18cd57c30",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-01-30T19:42:08.230Z",
+      "resolved_at": null,
+      "message": "I wonder about using a plainer/less elevated word than 'optimally.' 'perfectly'?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "245:11593",
+        "node_offset": {
+          "x": 169,
+          "y": 390
+        },
+        "stable_path": [
+          "245:11593"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1113144718",
+      "uuid": "23c2e0c6-87bd-455a-85f8-8bbe38dccdd6",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-01-30T19:41:41.623Z",
+      "resolved_at": null,
+      "message": "Cruddy riffs:\nMake Websites Dark\nMake Websites Light",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "245:11946",
+        "node_offset": {
+          "x": 32,
+          "y": 486
+        },
+        "stable_path": [
+          "245:11946"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1113144263",
+      "uuid": "f5864ff1-2e58-4aec-a7db-9410a6fdd663",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-01-30T19:41:21.990Z",
+      "resolved_at": null,
+      "message": "Since theme is a Title Case feature and means a specific thing, I would avoid using it to refer to the website feature (ie, dark mode). UNLESS, we wanted to double down on theme and do something like: \n\nBROWSER THEME\n\nWEBSITE THEME\n\nI saw this in one of the competitor examples (except they use \"app theme\") and I liked the simplicity and parallelism.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "245:11593",
+        "node_offset": {
+          "x": 72,
+          "y": 368
+        },
+        "stable_path": [
+          "245:11593"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1113140900",
+      "uuid": "14b62332-c2dd-44e5-ad66-c62be863bb84",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-01-30T19:38:46.758Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak - OPO - I don't feel like this constructions works. My brains a little fuzzy right now so I'm struggling to articulate why.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "245:11592",
+        "node_offset": {
+          "x": 1661,
+          "y": 651
+        },
+        "stable_path": [
+          "245:11592"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1113140451",
+      "uuid": "5ab35968-5d68-4fae-b010-58552a2887da",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-01-30T19:38:26.204Z",
+      "resolved_at": null,
+      "message": "Ohhh, turn on seems logical. Helps ppl recognize it's a binary (either it's turned on or off)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "245:11946",
+        "node_offset": {
+          "x": 98,
+          "y": 474
+        },
+        "stable_path": [
+          "245:11946"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1113140331",
+      "uuid": "4686d7dc-77b4-499e-825c-cf0887847de1",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-30T19:38:20.363Z",
+      "resolved_at": null,
+      "message": "Can we change the icon depending on on/off state?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "245:11946",
+        "node_offset": {
+          "x": 369,
+          "y": 488
+        },
+        "stable_path": [
+          "245:11946"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1113138466",
+      "uuid": "49b23633-c784-4289-896b-06dfc91fdc0e",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-01-30T19:36:54.259Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak\nWe talked about this yesterday, but since I agree with updating the other setting to \"Browser Theme\" to make that more clear, I think \"Dark Theme for Websites\" is a good way to make it crystal clear that this isn't the browser we're talking about",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "245:32688",
+        "node_offset": {
+          "x": 235,
+          "y": 351
+        },
+        "stable_path": [
+          "245:32688"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1113136960",
+      "uuid": "1139fa7b-76b3-40a6-bfd2-6ffad9a227be",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-30T19:35:48.515Z",
+      "resolved_at": null,
+      "message": "We might say \"Use dark theme for websites\" and then we wouldn't need to say turn off/turn on because the active state would make it clear when it was on",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-01-30T19:42:10.961Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "261:36739",
+        "node_offset": {
+          "x": 234,
+          "y": 271
+        },
+        "stable_path": [
+          "261:36739"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1113136056",
+      "uuid": "d2fe796c-7044-4e71-ad4b-8eab96f57e59",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-30T19:35:11.893Z",
+      "resolved_at": null,
+      "message": "This fits in English but it might go to two lines in other languages. Not sure if that happens with other menu items",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "245:11946",
+        "node_offset": {
+          "x": 375,
+          "y": 474
+        },
+        "stable_path": [
+          "245:11946"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1113135095",
+      "uuid": "5c1743d8-62b0-43a5-b366-95cfa0963294",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-30T19:34:27.616Z",
+      "resolved_at": null,
+      "message": "Could we say \"Make websites dark\"? Not sure what we would say to \"turn it off\"",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-01-30T19:38:41.378Z",
+          "user": {
+            "id": "551476150859297062",
+            "handle": "Meridel Walkington",
+            "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "245:11407",
+        "node_offset": {
+          "x": 231,
+          "y": 498
+        },
+        "stable_path": [
+          "245:11407"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1111465039",
+      "uuid": "68b445b5-a4bc-41e5-b9d9-608f47fa120e",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-29T20:41:52.141Z",
+      "resolved_at": null,
+      "message": "Crude mockups here to illustrate my IA suggestions.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "208:12486",
+        "node_offset": {
+          "x": 633,
+          "y": 107
+        },
+        "stable_path": [
+          "208:12486"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1111460301",
+      "uuid": "bcba13b9-d3af-470f-88aa-89f001f9a192",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-29T20:37:54.607Z",
+      "resolved_at": null,
+      "message": "I recommend we adopt the same IA changes to this interim version as well and clean up the confusingness of having 2 settings related to light/dark theme.\n\n1. Rename first category to \"Theme\" and then have 3 settings in a list: Light, Dark, System. Remove system toggle. Add subcopy to explain the sedtting\n2. Second category is \"Website appearance\" and the \"night mode\" (name TBD) setting lives there with microcopy to explain, like we have now.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "127:26582",
+        "node_offset": {
+          "x": 1,
+          "y": 108
+        },
+        "stable_path": [
+          "127:26582"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1111456895",
+      "uuid": "400fbce2-f66a-4912-84c0-a90283084b83",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-29T20:34:59.184Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel - still working in string recommendations, but i have a few initial recommendations for the IA of this settings page -- I suggest moving the \"night mode\" setting so it comes after Theme. And I suggest adding microcopy to \"Theme\" as well so we have a space to explain what Theme does vs. \"Night mode\" (name TBD).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "110:12926",
+        "node_offset": {
+          "x": 332,
+          "y": 287
+        },
+        "stable_path": [
+          "110:12926"
+        ]
+      },
+      "order_id": "3"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1118814450",
+      "uuid": "5b2cf78d-f2b3-4196-acd9-30663ba73b6d",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-02-04T21:34:23.224Z",
+      "resolved_at": null,
+      "message": "Hey @Megan Daniel - I like the section headings here! 'App theme' and 'Website theme' is clear cut. I prefer these as well over the section headings for Solution 2. I would note for this scenario, maybe omitting '.. on Websites' for the toggle. Right now it feels a little repetitive with 'Website Theme' 'Use Dark Theme on Websites' 'Automatically applies a dark theme on all websites. ...' Thank you! :star:",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-02-04T21:41:25.736Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "315:25937",
+        "node_offset": {
+          "x": 336,
+          "y": 279
+        },
+        "stable_path": [
+          "315:25937"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1118811783",
+      "uuid": "5c814e36-30d4-445f-8617-e3bda6a1162e",
+      "file_key": "GRvcwFqcA1KEW9m0daQh8i",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-02-04T21:31:57.249Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel - I'd prefer Solution 1 here using the vertical list of buttons that's just text instead of the 'images' here, only because the 'Light' phone icon with the light mode in the background poses a contrast issue. Same to the right with the 'Dark' phone icon with the dark mode background. Plus in solution 1, with the bottom sheet of shortcuts, they contains a nice set of black icons over a white background that don't have contrast issues. Thank you :grin:",
+      "reactions": [
+        {
+          "emoji": ":white_check_mark:",
+          "created_at": "2025-02-04T21:46:15.769Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "315:26069",
+        "node_offset": {
+          "x": 118,
+          "y": 226
+        },
+        "stable_path": [
+          "315:26069"
+        ]
+      },
+      "order_id": "31"
+    }
+  ]
+}

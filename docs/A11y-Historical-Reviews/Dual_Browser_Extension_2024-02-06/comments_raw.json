@@ -1,0 +1,370 @@
+{
+  "unresolved": [
+    {
+      "id": "780320982",
+      "uuid": "1195df68-fb87-46cb-bb6d-1b70520cd6da",
+      "file_key": "7lgTI6V7gu3aLqjVhD2qVH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2024-04-23T16:23:45.065Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler  small nitpick, the roundness on each browser outline is different. Should they be aligned? \n\nAlso the close dots are in different positions on both apps. Should we align them? (I realize they're probably in different spots natively by each browser.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3932:3649",
+        "node_offset": {
+          "x": 1163,
+          "y": 486
+        },
+        "stable_path": [
+          "3932:3649"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "765449845",
+      "uuid": "e0a22c0e-a4bb-4d4a-a96c-906cb22abf74",
+      "file_key": "7lgTI6V7gu3aLqjVhD2qVH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-04-10T15:14:30.428Z",
+      "resolved_at": null,
+      "message": "This content changed.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3151:21810",
+        "node_offset": {
+          "x": 589,
+          "y": 750
+        },
+        "stable_path": [
+          "3151:21810"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "765448676",
+      "uuid": "c11010f4-a2c0-4f3e-94e7-8274a7c6ee7a",
+      "file_key": "7lgTI6V7gu3aLqjVhD2qVH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-04-10T15:13:43.541Z",
+      "resolved_at": null,
+      "message": "This content changed.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3151:21378",
+        "node_offset": {
+          "x": 222,
+          "y": 916
+        },
+        "stable_path": [
+          "3151:21378"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "760683199",
+      "uuid": "6c8a1a3c-fe8c-47d2-adf5-7368f9882f98",
+      "file_key": "7lgTI6V7gu3aLqjVhD2qVH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-04-05T15:48:06.285Z",
+      "resolved_at": null,
+      "message": "For whatever download page we are building, will this content work, or do we need additional elements? Do we know what it will look like? @David Rubino @Juliana Gaibler",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3151:21404",
+        "node_offset": {
+          "x": 423,
+          "y": 464
+        },
+        "stable_path": [
+          "3151:21404"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "722758155",
+      "uuid": "ea94d897-c6b4-4c42-acc3-ca37e32a7c16",
+      "file_key": "7lgTI6V7gu3aLqjVhD2qVH",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-03-04T15:37:41.068Z",
+      "resolved_at": null,
+      "message": "What if you just have one chromium browser installed, we might not need the dropdown",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3151:21433",
+        "node_offset": {
+          "x": 1243,
+          "y": 605
+        },
+        "stable_path": [
+          "3151:21433"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "695127585",
+      "uuid": "6238c5cc-4899-4f86-8164-7563f3f0cbbb",
+      "file_key": "7lgTI6V7gu3aLqjVhD2qVH",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:36:53.168Z",
+      "resolved_at": null,
+      "message": "This looks good to me ! Can you annotate it with keyboard focus order, screen reader roles, and also provide HCM mockups?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3151:21376",
+        "node_offset": {
+          "x": 3771,
+          "y": 4536
+        },
+        "stable_path": [
+          "3151:21376"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "694495679",
+      "uuid": "75b9212c-c4e8-486b-b5b4-42e853d79020",
+      "file_key": "7lgTI6V7gu3aLqjVhD2qVH",
+      "parent_id": "",
+      "user": {
+        "handle": "David Rubino",
+        "img_url": "https://www.gravatar.com/avatar/523c56c2e68a1a3207ced9963a5534e7?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1245785946040273695"
+      },
+      "created_at": "2024-02-07T11:34:24.279Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller @Nicole Weber @Greg Sherman Because we cannot detect whether Firefox is on the system, we need to remove this and replace it with a message that tells users they need Firefox and links to downloading it. It would be shown to all users.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3151:21810",
+        "node_offset": {
+          "x": 591,
+          "y": 101
+        },
+        "stable_path": [
+          "3151:21810"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "663765085",
+      "uuid": "4b4232d4-60d1-4f0f-900b-348365b3fdd5",
+      "file_key": "7lgTI6V7gu3aLqjVhD2qVH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-01-09T18:13:32.123Z",
+      "resolved_at": null,
+      "message": "Link to about:addons",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3073:30446",
+        "node_offset": {
+          "x": 1189,
+          "y": 591
+        },
+        "stable_path": [
+          "3073:30446"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "661211943",
+      "uuid": "e266923d-eb23-4d7c-9368-ad54e0b8bf73",
+      "file_key": "7lgTI6V7gu3aLqjVhD2qVH",
+      "parent_id": "",
+      "user": {
+        "handle": "Bryan Olsson",
+        "img_url": "https://www.gravatar.com/avatar/34df29d70aca0d9b18a6a8fbb65acd5b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1128440584731101832"
+      },
+      "created_at": "2024-01-05T21:42:01.356Z",
+      "resolved_at": null,
+      "message": "Which is the correct text here:\n\"Open This Site in a Private Window\" or \"Open This Site in Firefox\"?\n\nShould there be another option for launching in a regular Firefox window?\n* Open This Site in Firefox\n* Open This Site in a Private Window\n* Always Open in a Private Window",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3151:22019",
+        "node_offset": {
+          "x": 281,
+          "y": 62
+        },
+        "stable_path": [
+          "3151:22019"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "660293760",
+      "uuid": "afb6af08-fa58-4feb-8aad-7249fb23349b",
+      "file_key": "7lgTI6V7gu3aLqjVhD2qVH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-01-04T22:30:02.165Z",
+      "resolved_at": null,
+      "message": "When do we remove beta",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3151:21378",
+        "node_offset": {
+          "x": 438,
+          "y": 97
+        },
+        "stable_path": [
+          "3151:21378"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "660291571",
+      "uuid": "c13111b3-4b44-4008-a3e3-f89b489a6aaa",
+      "file_key": "7lgTI6V7gu3aLqjVhD2qVH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-01-04T22:25:50.995Z",
+      "resolved_at": null,
+      "message": "What happens if they install the extension, but then uninstall Firefox and don't have it any more? @David Rubino @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3151:21810",
+        "node_offset": {
+          "x": 1029,
+          "y": 46
+        },
+        "stable_path": [
+          "3151:21810"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "647523767",
+      "uuid": "652774cc-fc69-4d9a-8b01-d96bb651e572",
+      "file_key": "7lgTI6V7gu3aLqjVhD2qVH",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-12-15T13:06:20.668Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller what you think about keeping the 'hop' wording in here, it fitted quite well with the illustration -- I also stole it from oboarding which might not be the most genious move ever :shrug::skin-tone-1: -- anyhow, you think we should update the illustration to better fit the 'bounce' wording? (I kinda visualise a bouncer :grimacing:, one day, I squeeze a thing called 'bouncer' into Firefox, haha)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2947:13577",
+        "node_offset": {
+          "x": 6144,
+          "y": 1099
+        },
+        "stable_path": [
+          "2947:13577"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "646694820",
+      "uuid": "07a44069-ce8c-4661-9541-d58c18952d89",
+      "file_key": "7lgTI6V7gu3aLqjVhD2qVH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-12-14T18:39:07.555Z",
+      "resolved_at": null,
+      "message": "@Bethel Kidane",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2947:13577",
+        "node_offset": {
+          "x": 2075,
+          "y": 3729
+        },
+        "stable_path": [
+          "2947:13577"
+        ]
+      },
+      "order_id": "13"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "695127585",
+      "uuid": "6238c5cc-4899-4f86-8164-7563f3f0cbbb",
+      "file_key": "7lgTI6V7gu3aLqjVhD2qVH",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:36:53.168Z",
+      "resolved_at": null,
+      "message": "This looks good to me ! Can you annotate it with keyboard focus order, screen reader roles, and also provide HCM mockups?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3151:21376",
+        "node_offset": {
+          "x": 3771,
+          "y": 4536
+        },
+        "stable_path": [
+          "3151:21376"
+        ]
+      },
+      "order_id": "61"
+    }
+  ]
+}

@@ -1,0 +1,2668 @@
+{
+  "unresolved": [
+    {
+      "id": "1674167501",
+      "uuid": "94c439ed-932b-4dc9-b539-e6dba225e03b",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Rylee Frazier",
+        "img_url": "https://s3-alpha.figma.com/profile/70cf7552-51ec-49a5-bc70-de5e88bb24ab",
+        "id": "1572052135219211855"
+      },
+      "created_at": "2026-03-13T22:25:20.664Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber wanted to clarify if I should use left aligned for error states? We don't have a full page error component in the library, but we do for empty state which is center aligned. Thanks for clarification / POV. :raised_hands:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9045:12748",
+        "node_offset": {
+          "x": 244,
+          "y": 515.5
+        },
+        "stable_path": [
+          "9045:12748"
+        ]
+      },
+      "order_id": "187"
+    },
+    {
+      "id": "1657723149",
+      "uuid": "e6286efd-6d6a-4062-b927-a6794219931d",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2026-03-03T23:44:25.862Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber @Jeff Pfaller Final assets are here as well as SVGs in Drive. Let me know if these need to be resized at all.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9018:14445",
+        "node_offset": {
+          "x": 270,
+          "y": 16
+        },
+        "stable_path": [
+          "9018:14445"
+        ]
+      },
+      "order_id": "186"
+    },
+    {
+      "id": "1656787788",
+      "uuid": "770f6e80-362f-4ecc-a6dc-2c5319895c6b",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Cyndi Chin",
+        "img_url": "https://s3-alpha.figma.com/profile/c9778bcf-098d-499c-98ac-8c399f0d014b",
+        "id": "1098972298677980056"
+      },
+      "created_at": "2026-03-03T13:52:27.721Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber There may be some urls that are long, how do we want to handle this? This is how it looks like now.\n\ncc: @Issam Mani",
+      "reactions": [
+        {
+          "emoji": ":eyes:",
+          "created_at": "2026-03-04T11:52:16.525Z",
+          "user": {
+            "id": "1162391225316592918",
+            "handle": "Issam Mani",
+            "img_url": "https://s3-alpha.figma.com/profile/dc621999-9ddb-4cf8-94b4-f7a3b4dfd144"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "4248:18725",
+        "node_offset": {
+          "x": 212,
+          "y": 911
+        },
+        "stable_path": [
+          "4248:18725"
+        ]
+      },
+      "order_id": "185"
+    },
+    {
+      "id": "1649402554",
+      "uuid": "63d57a05-609d-4cfb-9eb6-7bef9249648c",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2026-02-25T22:15:51.791Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber @Jeff Pfaller Apologies in the delay of getting these back to you. Made some revisions to Kit looking inquisitive for SSL errors, and added 2 options for Bad Request. Lmk what you think.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8988:12918",
+        "node_offset": {
+          "x": 183.5,
+          "y": 265
+        },
+        "stable_path": [
+          "8988:12918"
+        ]
+      },
+      "order_id": "184"
+    },
+    {
+      "id": "1646346426",
+      "uuid": "8eddd681-3311-462f-966d-c04f9758c1af",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Cyndi Chin",
+        "img_url": "https://s3-alpha.figma.com/profile/c9778bcf-098d-499c-98ac-8c399f0d014b",
+        "id": "1098972298677980056"
+      },
+      "created_at": "2026-02-24T13:51:56.930Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller @Nicole Weber Can you confirm if we should be adding `This site doesn\u2019t allow connections that aren\u2019t secure.` above this as well? I see that we have it for some errors on the Final Content page. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4248:18725",
+        "node_offset": {
+          "x": 305,
+          "y": 664
+        },
+        "stable_path": [
+          "4248:18725"
+        ]
+      },
+      "order_id": "183"
+    },
+    {
+      "id": "1619301268",
+      "uuid": "cf2ba945-795f-4eac-8d07-7bf1903418b5",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2026-02-05T01:19:03.711Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber @Jeff Pfaller I'm still kind of a fan of this one, but this feels specifically like a 404 error page illustration.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8926:2089",
+        "node_offset": {
+          "x": 361.78076171875,
+          "y": 192.5810546875
+        },
+        "stable_path": [
+          "8926:2089"
+        ]
+      },
+      "order_id": "182"
+    },
+    {
+      "id": "1619300474",
+      "uuid": "c2d78f23-e53b-416f-be59-269d20d49321",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2026-02-05T01:18:02.924Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber @Jeff Pfaller Hey all, I put this together to review with brand (currently happening on Slack), but take a look and lmk what you think of the new illustrations for these pages. \n\nI know we discussed this @Nicole Weber but Jane was wondering if we need a new illustration for the \"Bad Request\" page as it was in the previous pages. I think the Kit with cables still works though.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8926:1489",
+        "node_offset": {
+          "x": 5106,
+          "y": 98
+        },
+        "stable_path": [
+          "8926:1489"
+        ]
+      },
+      "order_id": "181"
+    },
+    {
+      "id": "1614317774",
+      "uuid": "4a0bf827-2b00-4f0a-b581-a80c956d90b5",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Issam Mani",
+        "img_url": "https://s3-alpha.figma.com/profile/dc621999-9ddb-4cf8-94b4-f7a3b4dfd144",
+        "id": "1162391225316592918"
+      },
+      "created_at": "2026-02-02T15:38:40.649Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber a question came up about this during my last sync with ananya. What does this link redirect to ? On Desktop it redirects to specific pages for specific errors. We might need new sumo articles since some articles won't apply for webkit. Is it ok for now to redirect all to this generic page: https://support.mozilla.org/en-US/kb/what-does-your-connection-is-not-secure-mean that explains all the errors ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4248:18725",
+        "node_offset": {
+          "x": 138,
+          "y": 864
+        },
+        "stable_path": [
+          "4248:18725"
+        ]
+      },
+      "order_id": "180"
+    },
+    {
+      "id": "1610507655",
+      "uuid": "db95a02f-987e-4d17-8c97-eade85c057f8",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2026-01-29T19:25:28.305Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz this one is kinda cool, it might also be alright if we just have 2, one for 'No internet' with the cables not connect and then a 'general error' one, like this one here, thoughts?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8861:431",
+        "node_offset": {
+          "x": 352.5,
+          "y": 305
+        },
+        "stable_path": [
+          "8861:431"
+        ]
+      },
+      "order_id": "179"
+    },
+    {
+      "id": "1610076513",
+      "uuid": "f68e0d67-6735-497c-b4f1-20682c0f9eca",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2026-01-29T15:19:32.061Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber Dropped in some options here, the sketches would be new illustrations",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8861:285",
+        "node_offset": {
+          "x": 250.5,
+          "y": 160
+        },
+        "stable_path": [
+          "8861:285"
+        ]
+      },
+      "order_id": "178"
+    },
+    {
+      "id": "1454240947",
+      "uuid": "ea9e7101-500d-4b17-be3a-167b697e0e4b",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Dana Keeler",
+        "img_url": "https://www.gravatar.com/avatar/72636a193847f1a9c45521d07eb0dc6e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1298668639953384687"
+      },
+      "created_at": "2025-10-03T20:12:29.253Z",
+      "resolved_at": null,
+      "message": "This isn't an actual error that Firefox emits. Is there a specific error this is supposed to be, or is this a catch-all representing multiple errors?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5521:14393",
+        "node_offset": {
+          "x": 181,
+          "y": 7
+        },
+        "stable_path": [
+          "5521:14393"
+        ]
+      },
+      "order_id": "177"
+    },
+    {
+      "id": "1330820899",
+      "uuid": "0ad1a6a5-65b1-4dbf-b284-43592312fa91",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-08T15:16:02.807Z",
+      "resolved_at": null,
+      "message": "I updated this and the two below and the error codes are getting cut off, is it possible to fix them? @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4703:5662",
+        "node_offset": {
+          "x": 241,
+          "y": 956
+        },
+        "stable_path": [
+          "4703:5662"
+        ]
+      },
+      "order_id": "175"
+    },
+    {
+      "id": "1096523481",
+      "uuid": "8e4b2a2f-8de8-4032-853f-829bfc90f9ad",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-01-17T16:40:02.839Z",
+      "resolved_at": null,
+      "message": "SUMO Link to: https://support.mozilla.org/kb/https-upgrades",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6894:10607",
+        "node_offset": {
+          "x": 80,
+          "y": 709
+        },
+        "stable_path": [
+          "6894:10607"
+        ]
+      },
+      "order_id": "167"
+    },
+    {
+      "id": "1040826841",
+      "uuid": "6c545289-1288-44f8-a9c1-98b596dd3e51",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Simon Friedberger",
+        "img_url": "https://www.gravatar.com/avatar/f3125c8c778fca0d11b5114b61d96d71?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1161270739637092722"
+      },
+      "created_at": "2024-11-26T09:35:49.903Z",
+      "resolved_at": null,
+      "message": "Since this is the advanced section, wouldn't it be good to tailor the information to expert users a little more? Would be nice to display something like \"HSTS is on\" and \"HTTPS RR is on\" and not just \"it's set up to only accept secure connections\".",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4178:18730",
+        "node_offset": {
+          "x": 1394,
+          "y": 775
+        },
+        "stable_path": [
+          "4178:18730"
+        ]
+      },
+      "order_id": "166"
+    },
+    {
+      "id": "1040823631",
+      "uuid": "0e32e0d4-07fa-4f60-99a6-030d91c6d09e",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Simon Friedberger",
+        "img_url": "https://www.gravatar.com/avatar/f3125c8c778fca0d11b5114b61d96d71?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1161270739637092722"
+      },
+      "created_at": "2024-11-26T09:34:13.043Z",
+      "resolved_at": null,
+      "message": "It would be nice to provide the allowed domains as a list.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4178:18730",
+        "node_offset": {
+          "x": 1675,
+          "y": 855
+        },
+        "stable_path": [
+          "4178:18730"
+        ]
+      },
+      "order_id": "165"
+    },
+    {
+      "id": "988205323",
+      "uuid": "9317aac3-d6eb-432b-ab47-83b40baccf4b",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Polly McEldowney",
+        "img_url": "https://www.gravatar.com/avatar/82edad9711470720e9cde7cdf64301b2?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1346414006559289826"
+      },
+      "created_at": "2024-10-16T10:05:21.034Z",
+      "resolved_at": null,
+      "message": "is this \"Error Code\" text a link? If so, where does this link to?\ndo we even need a link, given that the user is offline and will be unable to access the content? :sweat_smile:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5908:9894",
+        "node_offset": {
+          "x": 168,
+          "y": 644
+        },
+        "stable_path": [
+          "5908:9894"
+        ]
+      },
+      "order_id": "164"
+    },
+    {
+      "id": "979756102",
+      "uuid": "669e5a9e-f3a7-4e8e-9144-570f01a98235",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2024-10-09T13:08:38.226Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber this a good example most like our use case",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6235:2032",
+        "node_offset": {
+          "x": 260,
+          "y": 296
+        },
+        "stable_path": [
+          "6235:2032"
+        ]
+      },
+      "order_id": "162"
+    },
+    {
+      "id": "979558324",
+      "uuid": "cea41da4-3ae6-4933-b7ff-e41b0c389f5b",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-10-09T11:13:30.175Z",
+      "resolved_at": null,
+      "message": "@Brooke Katalinich error messages!  I wrestled a little more with the design but I have a feeling that putting either parts or the whole thing in a card with elevation is not ideal since. If everything is in the card, the unfolding of the advanced section within the card is a little unexpected and jarring; and if only the illustration / copy is in it, it either adds too much focus on one or the other part and also creates a separation of content / meaning.  I looked a little bit around on Mobbin and most of the stuff is really uninspiring and to my surprise, center-aligned, which makes it tough to read the long text... so I went back to adjusting bits and pieces here and there, you'll find the rational next to the updated designs. I am happy to keep wrestling with it if you want to see a few more options, but I am also not too disappointed in the improvements you'll see here. Thoughts?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6236:9713",
+        "node_offset": {
+          "x": 745,
+          "y": 570
+        },
+        "stable_path": [
+          "6236:9713"
+        ]
+      },
+      "order_id": "161"
+    },
+    {
+      "id": "978404121",
+      "uuid": "d1c688c5-6e02-46e7-bed0-bb11cea1f669",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2024-10-08T16:29:44.597Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber tried breaking the card up and it isnt working...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6227:24099",
+        "node_offset": {
+          "x": 136,
+          "y": 44
+        },
+        "stable_path": [
+          "6227:24099"
+        ]
+      },
+      "order_id": "160"
+    },
+    {
+      "id": "978402410",
+      "uuid": "a39f9b78-d7b1-44cb-98ab-60b2f8d33ed5",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2024-10-08T16:28:32.781Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber Thanks for taking a pass, I was thinking more like card container just for the fox and have added some sample screens from Doordash and Airbnb for reference. if we do pursue this further, please cross-reference my styles.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6227:24001",
+        "node_offset": {
+          "x": 83,
+          "y": 129
+        },
+        "stable_path": [
+          "6227:24001"
+        ]
+      },
+      "order_id": "159"
+    },
+    {
+      "id": "964379561",
+      "uuid": "19bc3207-3aef-4f86-af3c-c484bd6ee1df",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Polly McEldowney",
+        "img_url": "https://www.gravatar.com/avatar/82edad9711470720e9cde7cdf64301b2?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1346414006559289826"
+      },
+      "created_at": "2024-09-26T12:35:23.048Z",
+      "resolved_at": null,
+      "message": "hello! just noticed that SEC_ERROR_EXPIRED_CERTIFICATE is in this list twice... is this one about the certificate being invalid rather than expired?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5584:7886",
+        "node_offset": {
+          "x": 262,
+          "y": 21
+        },
+        "stable_path": [
+          "5584:7886"
+        ]
+      },
+      "order_id": "158"
+    },
+    {
+      "id": "952877076",
+      "uuid": "54912fd0-c947-4278-8212-781544da75c6",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-09-17T21:58:02.136Z",
+      "resolved_at": null,
+      "message": "Can you add the Learn about ECH configuration and View this site's certificate option to these HTST designs? @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5875:12518",
+        "node_offset": {
+          "x": 252,
+          "y": 719
+        },
+        "stable_path": [
+          "5875:12518"
+        ]
+      },
+      "order_id": "157"
+    },
+    {
+      "id": "936966524",
+      "uuid": "63ba37b4-73b8-4a00-9003-81932323af54",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-09-04T17:34:20.276Z",
+      "resolved_at": null,
+      "message": "Do the errors SEC_ERROR_REVOKED_CERTIFICATE and SEC_ERROR_UNTRUSTED_ISSUER have the option to continue or go back? Existing ones do not, just wanted to confirm. @Dana Keeler @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5712:9930",
+        "node_offset": {
+          "x": 154,
+          "y": 863
+        },
+        "stable_path": [
+          "5712:9930"
+        ]
+      },
+      "order_id": "152"
+    },
+    {
+      "id": "924680164",
+      "uuid": "ec3507f9-aef6-478e-a266-643124ef0cb4",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-08-26T10:12:40.502Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller do we need / have an error code for the generic one?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5521:14395",
+        "node_offset": {
+          "x": 187,
+          "y": 558
+        },
+        "stable_path": [
+          "5521:14395"
+        ]
+      },
+      "order_id": "149"
+    },
+    {
+      "id": "895157450",
+      "uuid": "c7d61596-66eb-4c71-a636-1d3f15d7b098",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-07-31T15:26:16.284Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller just looking at this again, is this a hard stop, so we won't give users the option to proceed?  If you open https://dh480.badssl.com/ it looks like that's the no_cypher error and you can't continue there",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4703:5651",
+        "node_offset": {
+          "x": 847,
+          "y": 327
+        },
+        "stable_path": [
+          "4703:5651"
+        ]
+      },
+      "order_id": "147"
+    },
+    {
+      "id": "871231478",
+      "uuid": "055f6e04-7244-461a-be50-ea28886efb5f",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-07-11T14:28:53.850Z",
+      "resolved_at": null,
+      "message": "make sure it aligns with existing component --> Fakespot",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4248:18643",
+        "node_offset": {
+          "x": 317,
+          "y": 471
+        },
+        "stable_path": [
+          "4248:18643"
+        ]
+      },
+      "order_id": "145"
+    },
+    {
+      "id": "827644218",
+      "uuid": "22bd0adb-14ac-47f5-a580-e7d784059162",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-06-04T15:59:06.748Z",
+      "resolved_at": null,
+      "message": "This is the mobile version of BADCERT DOMAIN HTST @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3654:9961",
+        "node_offset": {
+          "x": 125,
+          "y": 12
+        },
+        "stable_path": [
+          "3654:9961"
+        ]
+      },
+      "order_id": "144"
+    },
+    {
+      "id": "788715606",
+      "uuid": "9387c804-aa59-4b53-a489-76cbaeb8a6e1",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-05-01T00:41:27.859Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber here the chevron is also expected to be on the left from the label for better discoverability for users with low vision (initial thread)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4289:30868",
+        "node_offset": {
+          "x": 730,
+          "y": 178
+        },
+        "stable_path": [
+          "4289:30868"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "788713510",
+      "uuid": "3721bdf9-034f-4475-b56d-afb4d6a8ee97",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-05-01T00:35:01.853Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber Is it possible to move the chevron to the left from the label (as it was discussed before, it ensures users of magnifiers can locate this indication of the operability)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4289:14865",
+        "node_offset": {
+          "x": 347,
+          "y": 23
+        },
+        "stable_path": [
+          "4289:14865"
+        ]
+      },
+      "order_id": "133"
+    },
+    {
+      "id": "787084738",
+      "uuid": "253fb20a-1ae5-4223-8e67-928e7e84ad54",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Zac McKenney",
+        "img_url": "https://www.gravatar.com/avatar/f673fce5ce64d2a2e0a4cc639ca46344?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_z_v2.png",
+        "id": "1174491559421975070"
+      },
+      "created_at": "2024-04-29T20:23:25.081Z",
+      "resolved_at": null,
+      "message": "Just testing here briefly, when a user proceeds they view the site. Any additional attempts to load the site separately work as well for the rest of the browsing session. When a user closes the app fully or if the app is restarted fully they have to give permission again.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4289:30705",
+        "node_offset": {
+          "x": 146,
+          "y": 32
+        },
+        "stable_path": [
+          "4289:30705"
+        ]
+      },
+      "order_id": "130"
+    },
+    {
+      "id": "776835576",
+      "uuid": "926d15ab-85cb-4571-88f5-3d2cb5c3cf5a",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-04-19T17:22:14.666Z",
+      "resolved_at": null,
+      "message": "We've got unknown issuer in here twice? @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4232:28384",
+        "node_offset": {
+          "x": 428,
+          "y": 7401
+        },
+        "stable_path": [
+          "4232:28384"
+        ]
+      },
+      "order_id": "128"
+    },
+    {
+      "id": "776406993",
+      "uuid": "0b00435c-f51c-4faa-8496-1288e1b070df",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-04-19T12:01:22.609Z",
+      "resolved_at": null,
+      "message": "@Nishant Bhasin I vaguely remember that @Stefan Vladut mentioned during the protection panel handoff that we can't show the certificate or something like that, maybe I remember that wrong but do you think we show info for 'View the site's certificate' and 'Error code:...'? Or should I remove that?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4248:18725",
+        "node_offset": {
+          "x": 215,
+          "y": 773
+        },
+        "stable_path": [
+          "4248:18725"
+        ]
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "776405213",
+      "uuid": "278e1cc8-ad0a-4320-b091-5eb314d7e8bb",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-04-19T11:59:58.151Z",
+      "resolved_at": null,
+      "message": "@Nishant Bhasin what do we today when users proceed to a site that has a error? It looks like we add it to an exception list, is that correct? And is there a way for the user to reset the list?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4248:18954",
+        "node_offset": {
+          "x": 170,
+          "y": 11
+        },
+        "stable_path": [
+          "4248:18954"
+        ]
+      },
+      "order_id": "124"
+    },
+    {
+      "id": "738326836",
+      "uuid": "ff23c5e8-58b8-4e48-9b9d-542c91616043",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-03-18T08:01:40.611Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller I just noticed that the version to the right with timestamp is in some instances slightly different; which one is the most up-to-date? Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3273:6807",
+        "node_offset": {
+          "x": 227,
+          "y": 270
+        },
+        "stable_path": [
+          "3273:6807"
+        ]
+      },
+      "order_id": "121"
+    },
+    {
+      "id": "724869211",
+      "uuid": "4082bc7e-854f-41b2-b511-d72da1cd09aa",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-05T22:19:18.253Z",
+      "resolved_at": null,
+      "message": "Please mark all illustrations as presentational when you do accessibility annotations",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3692:8009",
+        "node_offset": {
+          "x": 137,
+          "y": 94
+        },
+        "stable_path": [
+          "3692:8009"
+        ]
+      },
+      "order_id": "119"
+    },
+    {
+      "id": "724868419",
+      "uuid": "815e08e8-ef79-4127-bf38-206eb9bad8d0",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-05T22:18:23.068Z",
+      "resolved_at": null,
+      "message": "Can we move the chevron to the left of the screen so users with magnifiers can find it easier?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3647:6286",
+        "node_offset": {
+          "x": 343,
+          "y": 448
+        },
+        "stable_path": [
+          "3647:6286"
+        ]
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "724868108",
+      "uuid": "ffab3d60-b456-404e-acbc-dd4b33cab923",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-05T22:18:00.638Z",
+      "resolved_at": null,
+      "message": "Can we underline the links as they're interspersed with text so they're easier to identify?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3647:6295",
+        "node_offset": {
+          "x": 324,
+          "y": 517
+        },
+        "stable_path": [
+          "3647:6295"
+        ]
+      },
+      "order_id": "117"
+    },
+    {
+      "id": "724867783",
+      "uuid": "500fd899-833b-4cc4-8c4c-baa1523a215d",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-05T22:17:39.089Z",
+      "resolved_at": null,
+      "message": "Is there another color we can use for this that isn't the hyperlink color below?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3647:6295",
+        "node_offset": {
+          "x": 89,
+          "y": 443
+        },
+        "stable_path": [
+          "3647:6295"
+        ]
+      },
+      "order_id": "116"
+    },
+    {
+      "id": "724803425",
+      "uuid": "664c2bbd-0b02-4d5d-8589-dd06a1b92665",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-05T21:10:29.659Z",
+      "resolved_at": null,
+      "message": "Please add a11y annotations showing role and focus order for all designs below",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3726:20847",
+        "node_offset": {
+          "x": 575,
+          "y": 334
+        },
+        "stable_path": [
+          "3726:20847"
+        ]
+      },
+      "order_id": "115"
+    },
+    {
+      "id": "724802838",
+      "uuid": "2db18180-2871-41d3-9178-df7daecf564c",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-05T21:09:53.935Z",
+      "resolved_at": null,
+      "message": "Is this for iOS, Android or both?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3726:20847",
+        "node_offset": {
+          "x": 3050,
+          "y": 324
+        },
+        "stable_path": [
+          "3726:20847"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "724802528",
+      "uuid": "4176c060-76f6-4ee2-9909-e9a05216f1cb",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-05T21:09:33.851Z",
+      "resolved_at": null,
+      "message": "Can you mock these in High Contrast Mode using our HCM components here? https://www.figma.com/file/VHRA9hZ54oJqKKJwPd6FWa/HCM-Components?type=design&node-id=51-1262&t=PAgLDWwO34mwDBE0-0",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3726:20847",
+        "node_offset": {
+          "x": 458,
+          "y": 345
+        },
+        "stable_path": [
+          "3726:20847"
+        ]
+      },
+      "order_id": "113"
+    },
+    {
+      "id": "724800688",
+      "uuid": "a54be908-9086-4662-9cc0-d288027363ec",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-05T21:07:40.191Z",
+      "resolved_at": null,
+      "message": "Is this no longer collapsable/expandable?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3654:9698",
+        "node_offset": {
+          "x": 412,
+          "y": 372
+        },
+        "stable_path": [
+          "3654:9698"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "724672591",
+      "uuid": "348843b4-18cc-47c9-b68a-63801d83e228",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-03-05T19:15:09.676Z",
+      "resolved_at": null,
+      "message": "why is there no proceed to URL buttons on these?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3654:9961",
+        "node_offset": {
+          "x": 259,
+          "y": 591
+        },
+        "stable_path": [
+          "3654:9961"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "724317326",
+      "uuid": "a2f9e166-9248-4f30-8f9f-578fa3ff513f",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-03-05T15:07:28.884Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller are these the right screens to match the above^?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3647:6162",
+        "node_offset": {
+          "x": 3678,
+          "y": 1495
+        },
+        "stable_path": [
+          "3647:6162"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "724287693",
+      "uuid": "79ed265e-ff8b-4784-b91b-493925afe51a",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-03-05T14:51:04.739Z",
+      "resolved_at": null,
+      "message": "@Nishant Bhasin in terms of content, these basically all say internet is offline (on the front-end). if you look below at the iOS redesigned section, do we need any other content?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3647:6162",
+        "node_offset": {
+          "x": 1733,
+          "y": 726
+        },
+        "stable_path": [
+          "3647:6162"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "701080917",
+      "uuid": "e3d675fc-e311-4429-93be-e552b571b0ce",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-02-13T22:17:02.095Z",
+      "resolved_at": null,
+      "message": "what would this look like in landscape? \n\nhow would this template handle large text sizes?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3479:6981",
+        "node_offset": {
+          "x": 2796,
+          "y": 1774
+        },
+        "stable_path": [
+          "3479:6981"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "700738961",
+      "uuid": "dbef7e90-a913-4034-83a8-489c7c83a9b2",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Dana Keeler",
+        "img_url": "https://www.gravatar.com/avatar/72636a193847f1a9c45521d07eb0dc6e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1298668639953384687"
+      },
+      "created_at": "2024-02-13T16:47:19.695Z",
+      "resolved_at": null,
+      "message": "So again, the \"set up to allow only secure connections\" verbiage only applies to sites that are HSTS or where we have key pinning information. In those cases, there will be no \"Proceed to url.com\" button.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3498:4493",
+        "node_offset": {
+          "x": 317,
+          "y": 433
+        },
+        "stable_path": [
+          "3498:4493"
+        ]
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "693418852",
+      "uuid": "23407314-685e-4950-ac27-3e0704dca705",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-02-06T16:42:29.138Z",
+      "resolved_at": null,
+      "message": "@Juhee Jain Took another stab at shortening - if you can put it into the template, I want to have someone from the security team review - advanced is probably going to scroll, but some of this info may or may not be required and I'd like to get their POV about what's negotiable and what's not",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3369:3582",
+        "node_offset": {
+          "x": 172,
+          "y": 98
+        },
+        "stable_path": [
+          "3369:3582"
+        ]
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "691906399",
+      "uuid": "50754e53-f0b8-4618-b913-6347ba6fa007",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-02-05T17:03:41.101Z",
+      "resolved_at": null,
+      "message": "Inside tab max content I think (we don't want them to scroll). @Jeff Pfaller",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3290:2250",
+        "node_offset": {
+          "x": 243,
+          "y": 381
+        },
+        "stable_path": [
+          "3290:2250"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "691903973",
+      "uuid": "25af5186-b3e7-41c9-bebf-6272dcd2d016",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-02-05T17:01:40.026Z",
+      "resolved_at": null,
+      "message": "I think we'd need to shorten further :(",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3357:47369",
+        "node_offset": {
+          "x": 339,
+          "y": 419
+        },
+        "stable_path": [
+          "3357:47369"
+        ]
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "691903396",
+      "uuid": "25b229c0-4726-464d-b742-c959971dc4de",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-02-05T17:01:13.409Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller I think this is about as much content as we should put NOT in a tab. Inside the \"Advanced\" tab, I'd say also shorten the copy",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3479:6981",
+        "node_offset": {
+          "x": 3404,
+          "y": 1732
+        },
+        "stable_path": [
+          "3479:6981"
+        ]
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "690223006",
+      "uuid": "c981880d-48a0-431d-9e3e-d2793b1c0083",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-02-02T18:21:55.138Z",
+      "resolved_at": null,
+      "message": "Can you confirm this is what shows on expansion? @Juhee Jain",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3369:3576",
+        "node_offset": {
+          "x": 150,
+          "y": 177
+        },
+        "stable_path": [
+          "3369:3576"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "688921838",
+      "uuid": "1226423d-320c-45f0-a597-3cba3967079c",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-02-01T19:03:12.280Z",
+      "resolved_at": null,
+      "message": "Before I do all of them, can we see how this much content might look @Juhee Jain",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3479:6981",
+        "node_offset": {
+          "x": 4223,
+          "y": 1586
+        },
+        "stable_path": [
+          "3479:6981"
+        ]
+      },
+      "order_id": "94"
+    },
+    {
+      "id": "679746297",
+      "uuid": "7d471fce-6729-49f7-9c65-51d4a43e5c4f",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2024-01-24T18:32:48.965Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber is this the latest for error pages?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 582,
+          "y": 245
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "644443505",
+      "uuid": "004f6268-43fa-4f47-8d9b-2d5ca04c20b2",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Romain Testard",
+        "img_url": "https://www.gravatar.com/avatar/35c1f4c621a0d22ad40c441c592c7b52?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "900058732700415037"
+      },
+      "created_at": "2023-12-13T08:07:52.635Z",
+      "resolved_at": null,
+      "message": "Will we have telemetry on button engagement on these pages? Is there an hypotyesis in terms of how we might impact this? I.E do we expect that users will bypass error messages less because they trust our advices?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2957:8088",
+        "node_offset": {
+          "x": 1659,
+          "y": 40
+        },
+        "stable_path": [
+          "2957:8088"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "641982995",
+      "uuid": "23e87437-926d-4159-a525-7d4d39acef1a",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Romain Testard",
+        "img_url": "https://www.gravatar.com/avatar/35c1f4c621a0d22ad40c441c592c7b52?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "900058732700415037"
+      },
+      "created_at": "2023-12-11T12:55:38.389Z",
+      "resolved_at": null,
+      "message": "Could we check if the local systeml time is different from a time server time reference?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 2548,
+          "y": 2264
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "641982110",
+      "uuid": "c1c8ea78-af8d-458e-a5e1-1dfe391e874d",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Romain Testard",
+        "img_url": "https://www.gravatar.com/avatar/35c1f4c621a0d22ad40c441c592c7b52?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "900058732700415037"
+      },
+      "created_at": "2023-12-11T12:54:57.756Z",
+      "resolved_at": null,
+      "message": "COuld we check that the client is set through enterprise policies since it will give us strong clues it is the case?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 2225,
+          "y": 3219
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "641980591",
+      "uuid": "14dcbbe6-eef2-45fd-941b-71b974934a0e",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Romain Testard",
+        "img_url": "https://www.gravatar.com/avatar/35c1f4c621a0d22ad40c441c592c7b52?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "900058732700415037"
+      },
+      "created_at": "2023-12-11T12:53:44.826Z",
+      "resolved_at": null,
+      "message": "We can check if Firefox is run through enterprise policies and only show in this condition?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 2584,
+          "y": 5846
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "641976418",
+      "uuid": "a0db973f-04ad-47de-b52c-cd1089f6861a",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Romain Testard",
+        "img_url": "https://www.gravatar.com/avatar/35c1f4c621a0d22ad40c441c592c7b52?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "900058732700415037"
+      },
+      "created_at": "2023-12-11T12:50:29.426Z",
+      "resolved_at": null,
+      "message": "Could this be an issue where the antivirus is MITMing the connection? Since it's a pretty typical use case can't we check if the enterprise roots pref is enabled by the AV and be clearer in our message, for instance \"Avast is intercepting your connection, try disabling Avast and reloading the page to fix the issue\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 2410,
+          "y": 5783
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "641973551",
+      "uuid": "bc8b650f-7608-45d5-8959-584756a6c3a9",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Romain Testard",
+        "img_url": "https://www.gravatar.com/avatar/35c1f4c621a0d22ad40c441c592c7b52?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "900058732700415037"
+      },
+      "created_at": "2023-12-11T12:48:13.974Z",
+      "resolved_at": null,
+      "message": "Can we not check if the local system time is different from a time reference given by a time server? This way we could be more certain that a user has a clock issue locally and be more helpful with this message.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 2406,
+          "y": 6652
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "641971367",
+      "uuid": "f71cd855-7eaa-43bd-873b-8f3898b97857",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Romain Testard",
+        "img_url": "https://www.gravatar.com/avatar/35c1f4c621a0d22ad40c441c592c7b52?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "900058732700415037"
+      },
+      "created_at": "2023-12-11T12:46:29.752Z",
+      "resolved_at": null,
+      "message": "Firefox can check if it's up to date itself and rather expose a 'Update now' button only if the client is outdated.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 1301,
+          "y": 4857
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "641969650",
+      "uuid": "3cec0142-c81e-4798-848b-94543cd7e808",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Romain Testard",
+        "img_url": "https://www.gravatar.com/avatar/35c1f4c621a0d22ad40c441c592c7b52?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "900058732700415037"
+      },
+      "created_at": "2023-12-11T12:45:05.488Z",
+      "resolved_at": null,
+      "message": "Have we considered exposing a button that points to OS network settings?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 926,
+          "y": 3995
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "641956531",
+      "uuid": "bb74ae8b-7bb3-4e7d-a243-0f18a4b4c15c",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Romain Testard",
+        "img_url": "https://www.gravatar.com/avatar/35c1f4c621a0d22ad40c441c592c7b52?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "900058732700415037"
+      },
+      "created_at": "2023-12-11T12:34:46.822Z",
+      "resolved_at": null,
+      "message": "I feel bugged about this icon where the exclamation mark does not feel bold enough, just me?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 1871,
+          "y": 24
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "638265981",
+      "uuid": "f3ba8371-43ba-47a3-a9db-86e18580ce88",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-06T19:15:23.647Z",
+      "resolved_at": null,
+      "message": "These icons do not pass AA guideleines for contrast (ratio: 1.97, needed: 3)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 672,
+          "y": 399
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "638262453",
+      "uuid": "79b52bff-ed54-4f40-bc73-84b773db06a6",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-06T19:12:01.595Z",
+      "resolved_at": null,
+      "message": "Is it worth having a webcompat reporting flow in the advanced section? Something to the effect of \"this site is only blocked / broken in firefox\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 2157,
+          "y": 10
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "637908350",
+      "uuid": "31d510da-d140-41e9-8c5e-e2d38bfe938c",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Juliana Gaibler",
+        "img_url": "https://s3-alpha.figma.com/profile/075fd6b5-f849-42b4-ac59-89b2ad0d028a",
+        "id": "895341744741177324"
+      },
+      "created_at": "2023-12-06T14:33:42.124Z",
+      "resolved_at": null,
+      "message": "Hey @Nicole Weber! Just wanted to let you know (for your next project) that this is our old deprecated browser frame!\nThe new one is simply called \"Browser\" and is in our components library :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2918:12290",
+        "node_offset": {
+          "x": 999,
+          "y": 23
+        },
+        "stable_path": [
+          "2918:12290"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "637814268",
+      "uuid": "34f3af36-9915-48ee-a7aa-392d4f0458ae",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2023-12-06T13:29:40.612Z",
+      "resolved_at": null,
+      "message": "How do we feel about using our red button variant here since this is a risky choice? Just throwing an idea out there... @Juliana Gaibler @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 2162,
+          "y": 752
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "635239059",
+      "uuid": "575bb4cd-33d5-46c9-99fb-4a29df1d89ef",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2023-12-04T16:41:39.510Z",
+      "resolved_at": null,
+      "message": "I'm afraid if we use our secondary color for links, that users will no longer recognize this as an active link.\n\nLinks tend to stay the same color in an application (albeit we do change their colors on the browser chrome ecosystem when you have a theme installed so it mixes well with the theme), so they can be recognized as a link.\n\nIf we use gray here I'm afraid people may either think it's disabled or won't see this a link. I'd recommend just keeping all links the actual link colors, for usability and accessibility purposes, and perhaps trying to play with hierarchy if you want those two to be less important than the Learn more.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 2466,
+          "y": 5956
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "635233912",
+      "uuid": "e5c1808a-a623-42ff-b520-0af7e98e5173",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2023-12-04T16:37:27.994Z",
+      "resolved_at": null,
+      "message": "By the way - our yellow warning color is currently not accessible against white. If we use the hollow version of our icons, that makes it even harder to see them against the background. I figure accessibility is going to point this out.\n\nWe're actively working on improving our color palette, so we could provide you a better yellow in the future, but for now I wanted to flag that this will most likely be flagged by accessibility.\n\nThe resolution I recommend here in the short term is to keep the yellow we have in the codebase today until the systems team finishes tidying up our color palette. Then we can file a bug to replace our yellow warning color in the codebase once our new palette is in.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 658,
+          "y": 3878
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "635231167",
+      "uuid": "62a1bee8-55ad-4376-a97f-863b0dda026b",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2023-12-04T16:35:16.317Z",
+      "resolved_at": null,
+      "message": "Hey @Nicole Weber dropping a few comments - I'm about to leave for PTO this week and won't come back til next year but figure I'd leave some notes here. Also discussing it with @Juliana Gaibler so feel free to hit us both up this week.\n\nA note that this icon is reserved for 'information' warnings. I'd recommend continuing to use our warning sign for warnings, or our critical one for any sort of security or critical full page errors. Using these specific icons for feedback patterns is a pattern we're trying to set in stone since they occur quite a bit throughout the app. \n\nHere's what warning looks like\nhttps://searchfox.org/mozilla-central/source/toolkit/themes/shared/icons/warning.svg\n\nHere's what critical issue/error looks like\nhttps://searchfox.org/mozilla-central/source/toolkit/themes/shared/icons/error.svg",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 690,
+          "y": 3890
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "624293483",
+      "uuid": "35115bda-9723-4afd-927f-24cf551b1984",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-11-22T16:39:33.866Z",
+      "resolved_at": null,
+      "message": "Is it a requirement to have these codes?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2918:14734",
+        "node_offset": {
+          "x": 6094,
+          "y": 664
+        },
+        "stable_path": [
+          "2918:14734"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "620792881",
+      "uuid": "58863605-20ed-49a6-aa00-7ad83450aa36",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-11-20T09:05:15.883Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller what you think about this version (e)? You think it would be possible and meaningful to incorperate the content that is in 'advanced' into the 'what makes this site look dangerous' section for other errors as well?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2750:7818",
+        "node_offset": {
+          "x": 2080,
+          "y": 8632
+        },
+        "stable_path": [
+          "2750:7818"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "619873400",
+      "uuid": "150f7e0a-7ab4-400f-b903-a08c91caf331",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-11-17T18:38:37.274Z",
+      "resolved_at": null,
+      "message": "I kind of like how the version below this has the technical info in the box, the page feels more scannable. But it that weird to have the text from \"What makes this site look dangerous\" down to the Learn more link be outside \"Advanced\",  which is what I clicked to get this state? @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2750:7818",
+        "node_offset": {
+          "x": 2028,
+          "y": 2786
+        },
+        "stable_path": [
+          "2750:7818"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "619871732",
+      "uuid": "c8251ed6-594d-4e8c-94e8-2d9f45488912",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-11-17T18:36:37.450Z",
+      "resolved_at": null,
+      "message": "Once it's open, there's no way to collapse? @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2750:7818",
+        "node_offset": {
+          "x": 2032,
+          "y": 2434
+        },
+        "stable_path": [
+          "2750:7818"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "604544294",
+      "uuid": "2f40d4d1-a416-4112-8207-af2ea2b7eacf",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Bryan Olsson",
+        "img_url": "https://www.gravatar.com/avatar/34df29d70aca0d9b18a6a8fbb65acd5b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1128440584731101832"
+      },
+      "created_at": "2023-11-02T23:18:54.450Z",
+      "resolved_at": null,
+      "message": "I'm struggling to understand exactly what \"confirm the site's security data\" means. This feels a bit ambiguous and could result in unclear or inconsistent translations across languages.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2749:5804",
+        "node_offset": {
+          "x": 682,
+          "y": 1580
+        },
+        "stable_path": [
+          "2749:5804"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "604211948",
+      "uuid": "769280b0-ae4d-4137-8c90-844519b6a935",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2023-11-02T16:44:17.098Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller same comments as on previous messages",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2750:7429",
+        "node_offset": {
+          "x": 2368,
+          "y": 1646
+        },
+        "stable_path": [
+          "2750:7429"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "604209893",
+      "uuid": "797278b4-f6e8-4f36-aae7-72d979495a43",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2023-11-02T16:42:50.193Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller Same comments here as on previous messages that use this copy and IA",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2749:6592",
+        "node_offset": {
+          "x": 2390,
+          "y": 1565
+        },
+        "stable_path": [
+          "2749:6592"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "604204579",
+      "uuid": "f3d5bc02-6902-498c-ac71-d6223574f42e",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2023-11-02T16:38:48.843Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller What are your thoughts about 'securely' vs. plainly in terms of plain language? I wonder about using: \"We can't connect safely to that site.\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2749:5804",
+        "node_offset": {
+          "x": 865,
+          "y": 1550
+        },
+        "stable_path": [
+          "2749:5804"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "604201135",
+      "uuid": "2b48942d-9773-4bcb-83c8-73ab3dbd9c82",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2023-11-02T16:36:14.711Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller After reviewing all, I am wondering if there should be no \"Show more expansion\" at all and all the text should be in Advanced... because it isn't clear what would go in Show more vs. Advanced, so you end up duplicating copy OR you risk someone would miss Show More info that is not in Advanced.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2750:7818",
+        "node_offset": {
+          "x": 352,
+          "y": 1484
+        },
+        "stable_path": [
+          "2750:7818"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "604198657",
+      "uuid": "dc5cb5de-564a-4bf5-b72c-289eb737b9b3",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2023-11-02T16:34:12.020Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller Same comments as on the Show More. This also repeats Show More content. Delete?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2669:16539",
+        "node_offset": {
+          "x": 3748,
+          "y": 1612
+        },
+        "stable_path": [
+          "2669:16539"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "604194129",
+      "uuid": "892db839-4123-4c4f-bf3c-fa9094cb24cb",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2023-11-02T16:30:32.600Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller Someone could skip the \"Show more\" and just open \"Advanced.\" In that case, they may miss the note about what makes it dangerous. Need to include here or do you think top-line copy covers it?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2669:15900",
+        "node_offset": {
+          "x": 3667,
+          "y": 1640
+        },
+        "stable_path": [
+          "2669:15900"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "597465294",
+      "uuid": "976f85bf-0c40-412c-a8ce-1c24435af071",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-10-26T19:35:27.597Z",
+      "resolved_at": null,
+      "message": "might be a bit of work, maybe first gather telemetry and then make a decision based on usage",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2669:15900",
+        "node_offset": {
+          "x": 3628,
+          "y": 1774
+        },
+        "stable_path": [
+          "2669:15900"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "597461345",
+      "uuid": "50b64c88-8538-4fef-9f10-c509e2ebd08c",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-10-26T19:30:58.546Z",
+      "resolved_at": null,
+      "message": "browser and server have to agree what encryption to use, there is a lot out there and a lot is bad... Firefox has a certain language and if the server does not support that, we don't talk",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2749:5804",
+        "node_offset": {
+          "x": 1146,
+          "y": 1549
+        },
+        "stable_path": [
+          "2749:5804"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "597458524",
+      "uuid": "8fa22aed-fee8-46b3-bee1-676ba9c50d49",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-10-26T19:27:56.690Z",
+      "resolved_at": null,
+      "message": "we can show expiration date of certificate and system time as proof",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2669:16265",
+        "node_offset": {
+          "x": 1000,
+          "y": 1428
+        },
+        "stable_path": [
+          "2669:16265"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "597445597",
+      "uuid": "d9f6da8d-a9c3-4797-b928-6257d5dc0fc5",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-10-26T19:14:23.881Z",
+      "resolved_at": null,
+      "message": "'Firefox couldn't proof that the site is secure', 'connection to the site is not secure ---  could sound like Firefox makes a judgement about site content (porn, pirate site,...)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2669:16539",
+        "node_offset": {
+          "x": 943,
+          "y": 1481
+        },
+        "stable_path": [
+          "2669:16539"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "595793441",
+      "uuid": "24c95ad7-b42c-4ee8-ae1a-f774b1c7beb6",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Dana Keeler",
+        "img_url": "https://www.gravatar.com/avatar/72636a193847f1a9c45521d07eb0dc6e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1298668639953384687"
+      },
+      "created_at": "2023-10-25T16:07:05.564Z",
+      "resolved_at": null,
+      "message": "Another common error is MOZILLA_PKIX_ERROR_MITM_DETECTED, which happens when we initially get the error SEC_ERROR_UNKNOWN_ISSUER and also note that the update ping has failed with an unknown issuer error.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "210:1226",
+        "node_offset": {
+          "x": 12948,
+          "y": -1429
+        },
+        "stable_path": [
+          "210:1226"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "595789603",
+      "uuid": "4f82c498-eeb7-4856-8b9e-e76fd92ce4ba",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Dana Keeler",
+        "img_url": "https://www.gravatar.com/avatar/72636a193847f1a9c45521d07eb0dc6e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1298668639953384687"
+      },
+      "created_at": "2023-10-25T16:04:06.387Z",
+      "resolved_at": null,
+      "message": "FYI, SEC_ERROR_EXPIRED_CERTIFICATE is much more common than SEC_ERROR_EXPIRED_ISSUER_CERTIFICATE. https://expired.badssl.com/ is an example of that (also, it has a less misleading domain name).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2669:16265",
+        "node_offset": {
+          "x": 956,
+          "y": 1540
+        },
+        "stable_path": [
+          "2669:16265"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "588793005",
+      "uuid": "76e96dab-8114-4cea-aead-e2790acfade8",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-10-18T17:52:59.737Z",
+      "resolved_at": null,
+      "message": "Do we need the \"Show less\" link here? @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "715:1782",
+        "node_offset": {
+          "x": 5512,
+          "y": 2553
+        },
+        "stable_path": [
+          "715:1782"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "788715606",
+      "uuid": "9387c804-aa59-4b53-a489-76cbaeb8a6e1",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-05-01T00:41:27.859Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber here the chevron is also expected to be on the left from the label for better discoverability for users with low vision (initial thread)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4289:30868",
+        "node_offset": {
+          "x": 730,
+          "y": 178
+        },
+        "stable_path": [
+          "4289:30868"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "788713510",
+      "uuid": "3721bdf9-034f-4475-b56d-afb4d6a8ee97",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-05-01T00:35:01.853Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber Is it possible to move the chevron to the left from the label (as it was discussed before, it ensures users of magnifiers can locate this indication of the operability)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4289:14865",
+        "node_offset": {
+          "x": 347,
+          "y": 23
+        },
+        "stable_path": [
+          "4289:14865"
+        ]
+      },
+      "order_id": "133"
+    },
+    {
+      "id": "724869211",
+      "uuid": "4082bc7e-854f-41b2-b511-d72da1cd09aa",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-05T22:19:18.253Z",
+      "resolved_at": null,
+      "message": "Please mark all illustrations as presentational when you do accessibility annotations",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3692:8009",
+        "node_offset": {
+          "x": 137,
+          "y": 94
+        },
+        "stable_path": [
+          "3692:8009"
+        ]
+      },
+      "order_id": "119"
+    },
+    {
+      "id": "724868419",
+      "uuid": "815e08e8-ef79-4127-bf38-206eb9bad8d0",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-05T22:18:23.068Z",
+      "resolved_at": null,
+      "message": "Can we move the chevron to the left of the screen so users with magnifiers can find it easier?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3647:6286",
+        "node_offset": {
+          "x": 343,
+          "y": 448
+        },
+        "stable_path": [
+          "3647:6286"
+        ]
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "724868108",
+      "uuid": "ffab3d60-b456-404e-acbc-dd4b33cab923",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-05T22:18:00.638Z",
+      "resolved_at": null,
+      "message": "Can we underline the links as they're interspersed with text so they're easier to identify?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3647:6295",
+        "node_offset": {
+          "x": 324,
+          "y": 517
+        },
+        "stable_path": [
+          "3647:6295"
+        ]
+      },
+      "order_id": "117"
+    },
+    {
+      "id": "724867783",
+      "uuid": "500fd899-833b-4cc4-8c4c-baa1523a215d",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-05T22:17:39.089Z",
+      "resolved_at": null,
+      "message": "Is there another color we can use for this that isn't the hyperlink color below?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3647:6295",
+        "node_offset": {
+          "x": 89,
+          "y": 443
+        },
+        "stable_path": [
+          "3647:6295"
+        ]
+      },
+      "order_id": "116"
+    },
+    {
+      "id": "724803425",
+      "uuid": "664c2bbd-0b02-4d5d-8589-dd06a1b92665",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-05T21:10:29.659Z",
+      "resolved_at": null,
+      "message": "Please add a11y annotations showing role and focus order for all designs below",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3726:20847",
+        "node_offset": {
+          "x": 575,
+          "y": 334
+        },
+        "stable_path": [
+          "3726:20847"
+        ]
+      },
+      "order_id": "115"
+    },
+    {
+      "id": "724802838",
+      "uuid": "2db18180-2871-41d3-9178-df7daecf564c",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-05T21:09:53.935Z",
+      "resolved_at": null,
+      "message": "Is this for iOS, Android or both?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3726:20847",
+        "node_offset": {
+          "x": 3050,
+          "y": 324
+        },
+        "stable_path": [
+          "3726:20847"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "724802528",
+      "uuid": "4176c060-76f6-4ee2-9909-e9a05216f1cb",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-05T21:09:33.851Z",
+      "resolved_at": null,
+      "message": "Can you mock these in High Contrast Mode using our HCM components here? https://www.figma.com/file/VHRA9hZ54oJqKKJwPd6FWa/HCM-Components?type=design&node-id=51-1262&t=PAgLDWwO34mwDBE0-0",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3726:20847",
+        "node_offset": {
+          "x": 458,
+          "y": 345
+        },
+        "stable_path": [
+          "3726:20847"
+        ]
+      },
+      "order_id": "113"
+    },
+    {
+      "id": "724800688",
+      "uuid": "a54be908-9086-4662-9cc0-d288027363ec",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-03-05T21:07:40.191Z",
+      "resolved_at": null,
+      "message": "Is this no longer collapsable/expandable?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3654:9698",
+        "node_offset": {
+          "x": 412,
+          "y": 372
+        },
+        "stable_path": [
+          "3654:9698"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "638265981",
+      "uuid": "f3ba8371-43ba-47a3-a9db-86e18580ce88",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-06T19:15:23.647Z",
+      "resolved_at": null,
+      "message": "These icons do not pass AA guideleines for contrast (ratio: 1.97, needed: 3)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 672,
+          "y": 399
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "638262453",
+      "uuid": "79b52bff-ed54-4f40-bc73-84b773db06a6",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-06T19:12:01.595Z",
+      "resolved_at": null,
+      "message": "Is it worth having a webcompat reporting flow in the advanced section? Something to the effect of \"this site is only blocked / broken in firefox\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 2157,
+          "y": 10
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "635239059",
+      "uuid": "575bb4cd-33d5-46c9-99fb-4a29df1d89ef",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2023-12-04T16:41:39.510Z",
+      "resolved_at": null,
+      "message": "I'm afraid if we use our secondary color for links, that users will no longer recognize this as an active link.\n\nLinks tend to stay the same color in an application (albeit we do change their colors on the browser chrome ecosystem when you have a theme installed so it mixes well with the theme), so they can be recognized as a link.\n\nIf we use gray here I'm afraid people may either think it's disabled or won't see this a link. I'd recommend just keeping all links the actual link colors, for usability and accessibility purposes, and perhaps trying to play with hierarchy if you want those two to be less important than the Learn more.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 2466,
+          "y": 5956
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "635233912",
+      "uuid": "e5c1808a-a623-42ff-b520-0af7e98e5173",
+      "file_key": "yawrXicozZQ2zvLYsjdQBb",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2023-12-04T16:37:27.994Z",
+      "resolved_at": null,
+      "message": "By the way - our yellow warning color is currently not accessible against white. If we use the hollow version of our icons, that makes it even harder to see them against the background. I figure accessibility is going to point this out.\n\nWe're actively working on improving our color palette, so we could provide you a better yellow in the future, but for now I wanted to flag that this will most likely be flagged by accessibility.\n\nThe resolution I recommend here in the short term is to keep the yellow we have in the codebase today until the systems team finishes tidying up our color palette. Then we can file a bug to replace our yellow warning color in the codebase once our new palette is in.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2936:3640",
+        "node_offset": {
+          "x": 658,
+          "y": 3878
+        },
+        "stable_path": [
+          "2936:3640"
+        ]
+      },
+      "order_id": "63"
+    }
+  ]
+}

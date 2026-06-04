@@ -1,0 +1,1642 @@
+{
+  "unresolved": [
+    {
+      "id": "1678531841",
+      "uuid": "ab7f107e-6c08-433a-b18a-472f3216fa0d",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-03-17T19:21:22.023Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey I created you a third option that's more of a hybrid and uses the word \"split\". I still think it's a difficult concept to convey in words, and the second body copy feels more conversational, but this version is also acceptable. Feel free to mix and match and use what you need.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2859:2479",
+        "node_offset": {
+          "x": 93,
+          "y": 4
+        },
+        "stable_path": [
+          "2859:2479"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "1676273485",
+      "uuid": "3565593b-b80c-496e-893c-6ccc9078ad0a",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-03-16T17:59:50.127Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey Two choices for onboarding here. Either should work!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2821:46135",
+        "node_offset": {
+          "x": 157,
+          "y": 52
+        },
+        "stable_path": [
+          "2821:46135"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "1652999255",
+      "uuid": "76dd09d9-52b0-4fa7-8694-bf3e80914696",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2026-02-27T17:40:47.230Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet take a look at this placement for the badge. It's a little tight hence why Im asking about the minimum default width of the panel.\nMy thinking is it could wrap per Dasha's specs, if needed. Thoughts?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "429:17206",
+        "node_offset": {
+          "x": 614,
+          "y": 657
+        },
+        "stable_path": [
+          "429:17206"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "1618849845",
+      "uuid": "2d8a99c8-89c0-4ada-9e1c-0b400c014ddb",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2026-02-04T18:29:49.268Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko So what do you prefer ? The Paste button or the Plus one ? I'm a bit confused.\nIf you want my opinion here, I think I prefer the Plus button which clearly indicates where the page will be pasted. With the Paste button, the user will have to remember where the page finally goes (before or after).\nIf we use the Plus button and hide the checkbox it should minimize the \"movement\" due to the reflow.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2076:7349",
+        "node_offset": {
+          "x": 3103,
+          "y": 1360.5380859375
+        },
+        "stable_path": [
+          "2076:7349"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "1618837660",
+      "uuid": "14f2f5a9-9d85-431a-88eb-0bdba3b98950",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2026-02-04T18:22:11.546Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko What about pasting before the first page ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2076:7349",
+        "node_offset": {
+          "x": 700,
+          "y": 538.5380859375
+        },
+        "stable_path": [
+          "2076:7349"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1610449587",
+      "uuid": "6148ffda-e458-4446-8ad2-ebfaa860f184",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2026-01-29T18:46:02.582Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi how can we access to the button with the keyboard ? Using TAB ? Arrows ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "478:44033",
+        "node_offset": {
+          "x": 438,
+          "y": 4156
+        },
+        "stable_path": [
+          "478:44033"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1610350704",
+      "uuid": "06c37ae5-d258-4534-ae18-dcbd98468a22",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2026-01-29T17:41:22.397Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko how to position the paste button when the view is a multi-column one ? If we just add it like this it could completely change the layout, for example we could have 3 thumbnails per row and then after adding the paste button it could become 2 thumbnails per row (and maybe 1), it could be disturbing I guess.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "429:17206",
+        "node_offset": {
+          "x": 1409.97265625,
+          "y": 2124.4619140625
+        },
+        "stable_path": [
+          "429:17206"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1606552710",
+      "uuid": "584df015-a731-4533-8e52-b395967c84a0",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-01-27T23:48:52.710Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet a reminder for the accessibility annotations here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1969:40773",
+        "node_offset": {
+          "x": 9076,
+          "y": 1707
+        },
+        "stable_path": [
+          "1969:40773"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1606549994",
+      "uuid": "e676e9e3-22f9-421e-83e8-a7d13c2d9a5d",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-01-27T23:45:20.819Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet just added the note on this here as well",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1969:40773",
+        "node_offset": {
+          "x": 8826,
+          "y": 315
+        },
+        "stable_path": [
+          "1969:40773"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1606470090",
+      "uuid": "545ff96c-2098-4a6f-a7cd-3574cdc3333e",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-01-27T22:14:32.483Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet a new addition to this list",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1969:40773",
+        "node_offset": {
+          "x": 35961,
+          "y": 297
+        },
+        "stable_path": [
+          "1969:40773"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1606469896",
+      "uuid": "d3662a5b-7ba5-4225-b1e6-a26640a9faf6",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-01-27T22:14:21.796Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet a new addition to this list",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1969:40773",
+        "node_offset": {
+          "x": 37343,
+          "y": 431
+        },
+        "stable_path": [
+          "1969:40773"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "1606304550",
+      "uuid": "8d41a75a-b098-445b-8f1d-a35d077a0907",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-01-27T20:07:18.271Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I am wondering if you might be able to chime in here? \n\nAnd help guide the final decision on this. \n\nthis was flagged while we're building things.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1969:40773",
+        "node_offset": {
+          "x": 34438,
+          "y": 582
+        },
+        "stable_path": [
+          "1969:40773"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "1606008051",
+      "uuid": "8777d0dc-7d42-4cb6-84a2-f1b73b18908e",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-01-27T16:57:15.245Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko message emiliy to see if we can re-name this as \"table of contents\". \n\nAs right now the translation of this is getting really lost.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1984:38038",
+        "node_offset": {
+          "x": 50,
+          "y": 16
+        },
+        "stable_path": [
+          "1984:38038"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1605962704",
+      "uuid": "5e17673b-86df-4f8a-8c7d-e409c0e04dec",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-01-27T16:33:58.999Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko tripple check with anna today to see if the original implementation good enough.. give example of the commenting.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1969:40773",
+        "node_offset": {
+          "x": 10807,
+          "y": 878
+        },
+        "stable_path": [
+          "1969:40773"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1553681132",
+      "uuid": "b07bd41f-ca3e-41c5-8e19-d29f0b19cfd0",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-12-11T15:06:34.106Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko Should we use the default cursor, i.e. the grabbing one (see https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor#:~:text=grabbing) or should we use this image ? If we must use this image, it'd be nice to provide either a png or a svg (it's better with a svg) with the right dimensions (i.e. 21x20) . I rescaled myself the image you provided but then the cursor is a bit blurry.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "453:21113",
+        "node_offset": {
+          "x": 2768,
+          "y": 444
+        },
+        "stable_path": [
+          "453:21113"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "1551656691",
+      "uuid": "826a10ac-fc62-48cc-bbc1-cd07f2cc49ee",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-12-10T15:05:29.248Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak what's the tooltip for this button ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "442:19995",
+        "node_offset": {
+          "x": 481,
+          "y": 416
+        },
+        "stable_path": [
+          "442:19995"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1545852469",
+      "uuid": "d212174a-2642-43f9-93a6-f4240d1bcd39",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-12-05T21:19:22.990Z",
+      "resolved_at": null,
+      "message": "Andrew: \n* This might not need the same removal, since we're already hiding some of the complexity behind a drop down. \n* What are the effects of this when you decided to merge a file with a bunch of things, might be good to have these options so that it just becomes enabled instead of appearing and disappearing all of a sudden. \n* Also where this is a bit out of scope of change we're going for now\n\nDasha: \n* Although this might takeaway the unneeded options, from a UI pov, it's a bit messier to not have a consistently placed drop down.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1201:36312",
+        "node_offset": {
+          "x": 173,
+          "y": 155
+        },
+        "stable_path": [
+          "1201:36312"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1544262040",
+      "uuid": "09441626-0253-4e2f-91cb-9ce6f5aeb761",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-12-04T23:20:01.060Z",
+      "resolved_at": null,
+      "message": "ask acron to create a better icon here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1201:34373",
+        "node_offset": {
+          "x": 288,
+          "y": 155
+        },
+        "stable_path": [
+          "1201:34373"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1537605589",
+      "uuid": "b5ca0ce6-0765-47e6-a593-54987c19add6",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-12-01T16:53:51.599Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko I think the color of the border for default/hover doesn't contrast enough with the sidebar background. It isn't if the page bg is white but for sure it is if the page bg is kind of black. Wdyt ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "453:26540",
+        "node_offset": {
+          "x": 2422,
+          "y": 483
+        },
+        "stable_path": [
+          "453:26540"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1530639563",
+      "uuid": "e6e31156-ce1c-458a-b6e5-16037e6e4cdc",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-25T20:56:33.489Z",
+      "resolved_at": null,
+      "message": "Julian: This might make users think that this is a prompt to do something specific to only selection.. where the reality is that u can do more then just do things with selection.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "429:17206",
+        "node_offset": {
+          "x": 2391,
+          "y": 538
+        },
+        "stable_path": [
+          "429:17206"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "1529983113",
+      "uuid": "6a55c8c5-06d1-4b86-8b90-551d35df50f3",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-11-25T14:35:26.493Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak should we have a tooltip for the checkbox ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "442:19995",
+        "node_offset": {
+          "x": 510,
+          "y": 669
+        },
+        "stable_path": [
+          "442:19995"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "1528488851",
+      "uuid": "00c9c65b-a7f0-4e0b-ae45-626fca1fe3a9",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-11-24T20:41:43.576Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko should we have a close button here in order to be able to dismiss this toast bar ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "442:19995",
+        "node_offset": {
+          "x": 1572,
+          "y": 499
+        },
+        "stable_path": [
+          "442:19995"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1526104176",
+      "uuid": "18993e20-7a52-40b9-9ee7-5dfe767ff1ca",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-21T19:54:18.792Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak @Anna Yeddi @Jules Simplicio \n\nHeads up:\nHey folks, today we've ran into a bit of a development challenge, when trying to implemented some of the specs above, that prevents us from being able to do live updates to things in the side bar.. without users entering a bit of an \"edit\" mode. \n\nI've tried to find a way to make smaller alterations to our specs to accommodate that (trying to stick to patterns that we have as much as possible). But these changes will still make an impact on copy, look and feel, ux behavior, and a11y annotation behavior. \n\nI will try my best to make adjustments and disperse these changes throughout the specs next week (as it's my last week I can work on this). I am hoping that y'all as my content, a11y and acorn partners could possibly help me out in reviewing these one last time. \n\n@Emily Wachowiak from content pov there's a few new strings that I will tag you in. \n\n@Anna Yeddi I will try my best to update the annotation order of things, and tag you when I am done. But we basically have to indicate that user has entered an \"edit\" mode.. \n\n@Jules Simplicio as you will see here, most things will stay the same as in the rest of the specs.. but for example I was thinking to add a darker background to indicate a different mode.",
+      "reactions": [
+        {
+          "emoji": ":mending_heart:",
+          "created_at": "2025-11-21T23:03:41.778Z",
+          "user": {
+            "id": "1065698646736968458",
+            "handle": "Anna Yeddi",
+            "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "902:40179",
+        "node_offset": {
+          "x": 81,
+          "y": 44
+        },
+        "stable_path": [
+          "902:40179"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1515507183",
+      "uuid": "887eefb2-b02e-499d-bf4f-d298e0c422b1",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-14T21:40:02.061Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi ps these are also ready.. forgot to tag u here last night",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "528:35301",
+        "node_offset": {
+          "x": 374,
+          "y": 30
+        },
+        "stable_path": [
+          "528:35301"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1515504604",
+      "uuid": "cbf730f3-78bb-4f87-9df2-5d7c663dbc6c",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-14T21:37:11.084Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko FYI I changed this Name to \"Sidebar\" since it still could be \"Attachments\" or \"Layers\" view too. Sidebar would be the general description that would always fit. And the on-screen title would be \"Pages\" still",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "478:44033",
+        "node_offset": {
+          "x": 196,
+          "y": 67
+        },
+        "stable_path": [
+          "478:44033"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1515501268",
+      "uuid": "8e169d3e-91d2-4937-b6e0-db9b1eec79fd",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-14T21:33:32.366Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko WDYT about changing the {x} button's name from \"Done\" to \"Close\" or \"Dismiss\"? This is how these buttons are called more often, IIRC (The \"close\")",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "478:44033",
+        "node_offset": {
+          "x": 267,
+          "y": 3776
+        },
+        "stable_path": [
+          "478:44033"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1515496072",
+      "uuid": "7a95a920-62f7-4410-a093-aa1351a8c47b",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-14T21:27:48.806Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko FYI I changed them to Arrow key nav but added notes to both the  checkboxes and their page buttons for clarity. \n@Calixte Denizet Please do not hesitate to ping me if you have ANY questions about this navigation pattern. There are no good examples of this behavior I can point you to, the closest would be New Tab page Stories tiles, but there are no checkboxes there... We're making the world a bit better by (you) crafting it from scratch <3",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-11-14T21:35:08.058Z",
+          "user": {
+            "id": "1174480039733711256",
+            "handle": "Dasha Andriyenko",
+            "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "478:44033",
+        "node_offset": {
+          "x": 431,
+          "y": 2710
+        },
+        "stable_path": [
+          "478:44033"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1515437692",
+      "uuid": "6690f37c-0da0-4c91-91ce-d3bb1dda7bc2",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-14T20:27:37.402Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I am realizing now.. this should probably say Pages instead of thumbnails. Since if the \"document outline\" option is available it should change to that in the title as well",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "429:17206",
+        "node_offset": {
+          "x": 10225,
+          "y": 546
+        },
+        "stable_path": [
+          "429:17206"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1515429510",
+      "uuid": "34b5c4d6-aac9-460b-b381-b1c2c28d1fbc",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-14T20:19:51.961Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I forgot.. but we need a similar message to the \"getting file ready\" one but this time for when it take a bit longer to get the files to merge into the pdf (after user presses \"add file\" and then selects a file that might be larger.. it will take a bit of time to get it in.. so we need to show an in-progress state",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "442:19995",
+        "node_offset": {
+          "x": 2533,
+          "y": 693
+        },
+        "stable_path": [
+          "442:19995"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1515426698",
+      "uuid": "f42938ae-ff1d-4f50-8315-1dc311d9e75c",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-14T20:17:17.172Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I forgot to ask what these should be named/ renamed. \n\nWant to make sure I get it right before submitting for l10n review.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "442:19995",
+        "node_offset": {
+          "x": 2056,
+          "y": 368
+        },
+        "stable_path": [
+          "442:19995"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1513763517",
+      "uuid": "0f5bf786-e84c-477c-8cbd-ffba560644d8",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-11-13T23:03:10.722Z",
+      "resolved_at": null,
+      "message": "Did you consider dropping \"page\" here? Not sure if this already implied.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "429:17206",
+        "node_offset": {
+          "x": 11967,
+          "y": 2109
+        },
+        "stable_path": [
+          "429:17206"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1513757877",
+      "uuid": "7843eb40-648c-4824-9c53-cc82a5a7ef34",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-11-13T22:56:07.496Z",
+      "resolved_at": null,
+      "message": "The current toast pattern on PDF has Undo and and X, not a done.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "429:17206",
+        "node_offset": {
+          "x": 3892,
+          "y": 1754
+        },
+        "stable_path": [
+          "429:17206"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1513753575",
+      "uuid": "e9f95e4b-f393-4c85-bb4e-f990b23f9b04",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-11-13T22:51:02.203Z",
+      "resolved_at": null,
+      "message": "We don't think we need this message bar - not standard to notify people when they copy something. Today, we only offer \"Undo\" when you delete something because that is a destructive action so we'd apply same approach here. So, we don't need messages about Copy OR Paste.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "429:17206",
+        "node_offset": {
+          "x": 8616,
+          "y": 565
+        },
+        "stable_path": [
+          "429:17206"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1513732436",
+      "uuid": "a2ea2fd8-50ef-43b8-9302-16226cb8dc11",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-13T22:27:31.973Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi can focused without being current be the same as hover?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "428:10179",
+        "node_offset": {
+          "x": 77,
+          "y": 265
+        },
+        "stable_path": [
+          "428:10179"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1513633796",
+      "uuid": "5d903667-d5cb-4fc1-8f96-a9b148054ee9",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-13T21:01:18.463Z",
+      "resolved_at": null,
+      "message": "DASHA... you need to make a focused state for \"focused and current\" and focused and not current\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "428:11087",
+        "node_offset": {
+          "x": 736,
+          "y": 790
+        },
+        "stable_path": [
+          "428:11087"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1513523616",
+      "uuid": "10eea8ef-e591-4b37-8f7f-a361e4135bf7",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-13T19:40:56.239Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet can you describe what kind of error is occurs here (and let us know if someone can do something to fix it).. so that @Meridel Walkington could give a better take on the copy here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "429:17206",
+        "node_offset": {
+          "x": 11314,
+          "y": 553
+        },
+        "stable_path": [
+          "429:17206"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1513408917",
+      "uuid": "6b74c647-3a15-4175-a85d-bb078a39828f",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Marco Castelluccio",
+        "img_url": "https://www.gravatar.com/avatar/16d4d4a441724e006b342ac12507caef?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1002248441057143037"
+      },
+      "created_at": "2025-11-13T18:23:28.273Z",
+      "resolved_at": null,
+      "message": "Do we need an indicator to tell something has changed and needs to be saved?\n\nIn case the user tries to close the tab after having made changes and before saving, should we show the usual \"unsaved changes\" dialog like we currently do when e.g. you add a highlight and forget saving?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "429:17206",
+        "node_offset": {
+          "x": 643,
+          "y": 579
+        },
+        "stable_path": [
+          "429:17206"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1513406823",
+      "uuid": "36570061-73e7-43b5-b934-bebb2faa06ae",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Marco Castelluccio",
+        "img_url": "https://www.gravatar.com/avatar/16d4d4a441724e006b342ac12507caef?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1002248441057143037"
+      },
+      "created_at": "2025-11-13T18:22:07.940Z",
+      "resolved_at": null,
+      "message": "Do we want to only allow \"Save as...\"? What if users are making multiple changes and want to save iteratively in the same file?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "429:17206",
+        "node_offset": {
+          "x": 8205,
+          "y": 1858
+        },
+        "stable_path": [
+          "429:17206"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1513201155",
+      "uuid": "d2941582-e367-48fc-81bf-e004d14812d4",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-13T16:19:54.317Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko map out what the designs look like via phases for the QA people. \n\nLink them to the specific wires... when done pink @Kim Bryant",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:137",
+        "node_offset": {
+          "x": -12133,
+          "y": -5151
+        },
+        "stable_path": [
+          "1:137"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1503193423",
+      "uuid": "49846a4e-47e4-4fc0-99f6-0a7458250fc9",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2025-11-06T21:50:56.513Z",
+      "resolved_at": null,
+      "message": "Wonder if this empty space should collapse in this state, like how tab reordering works",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-11-06T21:55:16.303Z",
+          "user": {
+            "id": "1174480039733711256",
+            "handle": "Dasha Andriyenko",
+            "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "329:3111",
+        "node_offset": {
+          "x": 199,
+          "y": 183
+        },
+        "stable_path": [
+          "329:3111"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1503185063",
+      "uuid": "f575a6d8-6eb8-4723-b931-956e0bd37d2a",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2025-11-06T21:44:03.139Z",
+      "resolved_at": null,
+      "message": "Wonder if the checked state and blue background should always be linked?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "334:16165",
+        "node_offset": {
+          "x": 90,
+          "y": 800
+        },
+        "stable_path": [
+          "334:16165"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1502731580",
+      "uuid": "e3878fe8-847d-434e-81d0-ad5dd1080344",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-06T16:35:06.049Z",
+      "resolved_at": null,
+      "message": "Kim: a bit concerned about check boxes.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "334:6670",
+        "node_offset": {
+          "x": 90,
+          "y": 271
+        },
+        "stable_path": [
+          "334:6670"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1501246445",
+      "uuid": "9f327304-47b4-47c3-be65-da73a6d6c1b2",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-06T01:08:41.461Z",
+      "resolved_at": null,
+      "message": "can a paste appear on hover? or on tab?\n\n* I think this might be very inaccessible..\n* if we do have a bunch of pastes in between.. is it ok if it's the same label.. shoudl we do paste and add a number or something?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "336:4073",
+        "node_offset": {
+          "x": 169,
+          "y": 698
+        },
+        "stable_path": [
+          "336:4073"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1501086469",
+      "uuid": "79e42adb-7253-41d8-bd1e-ab94f1e4dd32",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrew Crago",
+        "img_url": "https://s3-alpha.figma.com/profile/ba211a9e-af73-4555-9524-33f939c11805",
+        "id": "1075270157069956042"
+      },
+      "created_at": "2025-11-05T21:53:16.074Z",
+      "resolved_at": null,
+      "message": "toast cover up actions vs appear line below?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "358:6601",
+        "node_offset": {
+          "x": 284,
+          "y": 81
+        },
+        "stable_path": [
+          "358:6601"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1501085592",
+      "uuid": "b86755ee-2dd7-4ae8-afbf-04e474cfdd5d",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrew Crago",
+        "img_url": "https://s3-alpha.figma.com/profile/ba211a9e-af73-4555-9524-33f939c11805",
+        "id": "1075270157069956042"
+      },
+      "created_at": "2025-11-05T21:52:28.076Z",
+      "resolved_at": null,
+      "message": "a11y issue to have multiple buttons same label?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "358:6601",
+        "node_offset": {
+          "x": 154,
+          "y": 500
+        },
+        "stable_path": [
+          "358:6601"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1501011128",
+      "uuid": "01d4ff41-5b10-40eb-8da5-e89f6b211333",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrew Crago",
+        "img_url": "https://s3-alpha.figma.com/profile/ba211a9e-af73-4555-9524-33f939c11805",
+        "id": "1075270157069956042"
+      },
+      "created_at": "2025-11-05T20:52:51.461Z",
+      "resolved_at": null,
+      "message": "Copy and cut seems to conflate two common actions maybe\n\"cut to clipboard\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "310:6179",
+        "node_offset": {
+          "x": 208,
+          "y": 87
+        },
+        "stable_path": [
+          "310:6179"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1501009131",
+      "uuid": "f2f96def-83ad-4c4e-82ce-a9ba8fac25ca",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-05T20:51:23.266Z",
+      "resolved_at": null,
+      "message": "Andrew: can we simplify the buttons.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "310:6179",
+        "node_offset": {
+          "x": 269,
+          "y": 85
+        },
+        "stable_path": [
+          "310:6179"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1501006372",
+      "uuid": "efadcad7-2416-4cca-af1a-af46f164ad26",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-05T20:49:21.944Z",
+      "resolved_at": null,
+      "message": "Andrew: does user need to click on this to be able to enter this mode... maybe it's not needed",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "294:1944",
+        "node_offset": {
+          "x": 103,
+          "y": 24
+        },
+        "stable_path": [
+          "294:1944"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1468179914",
+      "uuid": "5855dfbb-0dbd-47bd-a57a-9e897fdb43dd",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-10-14T20:40:58.071Z",
+      "resolved_at": null,
+      "message": "appears once something is in the clipboard, or during a drag action",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:138",
+        "node_offset": {
+          "x": 2333,
+          "y": 1872
+        },
+        "stable_path": [
+          "1:138"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1618849845",
+      "uuid": "2d8a99c8-89c0-4ada-9e1c-0b400c014ddb",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2026-02-04T18:29:49.268Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko So what do you prefer ? The Paste button or the Plus one ? I'm a bit confused.\nIf you want my opinion here, I think I prefer the Plus button which clearly indicates where the page will be pasted. With the Paste button, the user will have to remember where the page finally goes (before or after).\nIf we use the Plus button and hide the checkbox it should minimize the \"movement\" due to the reflow.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2076:7349",
+        "node_offset": {
+          "x": 3103,
+          "y": 1360.5380859375
+        },
+        "stable_path": [
+          "2076:7349"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "1610449587",
+      "uuid": "6148ffda-e458-4446-8ad2-ebfaa860f184",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2026-01-29T18:46:02.582Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi how can we access to the button with the keyboard ? Using TAB ? Arrows ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "478:44033",
+        "node_offset": {
+          "x": 438,
+          "y": 4156
+        },
+        "stable_path": [
+          "478:44033"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1606552710",
+      "uuid": "584df015-a731-4533-8e52-b395967c84a0",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-01-27T23:48:52.710Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet a reminder for the accessibility annotations here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1969:40773",
+        "node_offset": {
+          "x": 9076,
+          "y": 1707
+        },
+        "stable_path": [
+          "1969:40773"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1537605589",
+      "uuid": "b5ca0ce6-0765-47e6-a593-54987c19add6",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-12-01T16:53:51.599Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko I think the color of the border for default/hover doesn't contrast enough with the sidebar background. It isn't if the page bg is white but for sure it is if the page bg is kind of black. Wdyt ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "453:26540",
+        "node_offset": {
+          "x": 2422,
+          "y": 483
+        },
+        "stable_path": [
+          "453:26540"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1526104176",
+      "uuid": "18993e20-7a52-40b9-9ee7-5dfe767ff1ca",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-21T19:54:18.792Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak @Anna Yeddi @Jules Simplicio \n\nHeads up:\nHey folks, today we've ran into a bit of a development challenge, when trying to implemented some of the specs above, that prevents us from being able to do live updates to things in the side bar.. without users entering a bit of an \"edit\" mode. \n\nI've tried to find a way to make smaller alterations to our specs to accommodate that (trying to stick to patterns that we have as much as possible). But these changes will still make an impact on copy, look and feel, ux behavior, and a11y annotation behavior. \n\nI will try my best to make adjustments and disperse these changes throughout the specs next week (as it's my last week I can work on this). I am hoping that y'all as my content, a11y and acorn partners could possibly help me out in reviewing these one last time. \n\n@Emily Wachowiak from content pov there's a few new strings that I will tag you in. \n\n@Anna Yeddi I will try my best to update the annotation order of things, and tag you when I am done. But we basically have to indicate that user has entered an \"edit\" mode.. \n\n@Jules Simplicio as you will see here, most things will stay the same as in the rest of the specs.. but for example I was thinking to add a darker background to indicate a different mode.",
+      "reactions": [
+        {
+          "emoji": ":mending_heart:",
+          "created_at": "2025-11-21T23:03:41.778Z",
+          "user": {
+            "id": "1065698646736968458",
+            "handle": "Anna Yeddi",
+            "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "902:40179",
+        "node_offset": {
+          "x": 81,
+          "y": 44
+        },
+        "stable_path": [
+          "902:40179"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1515507183",
+      "uuid": "887eefb2-b02e-499d-bf4f-d298e0c422b1",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-14T21:40:02.061Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi ps these are also ready.. forgot to tag u here last night",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "528:35301",
+        "node_offset": {
+          "x": 374,
+          "y": 30
+        },
+        "stable_path": [
+          "528:35301"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1515504604",
+      "uuid": "cbf730f3-78bb-4f87-9df2-5d7c663dbc6c",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-14T21:37:11.084Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko FYI I changed this Name to \"Sidebar\" since it still could be \"Attachments\" or \"Layers\" view too. Sidebar would be the general description that would always fit. And the on-screen title would be \"Pages\" still",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "478:44033",
+        "node_offset": {
+          "x": 196,
+          "y": 67
+        },
+        "stable_path": [
+          "478:44033"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1515501268",
+      "uuid": "8e169d3e-91d2-4937-b6e0-db9b1eec79fd",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-14T21:33:32.366Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko WDYT about changing the {x} button's name from \"Done\" to \"Close\" or \"Dismiss\"? This is how these buttons are called more often, IIRC (The \"close\")",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "478:44033",
+        "node_offset": {
+          "x": 267,
+          "y": 3776
+        },
+        "stable_path": [
+          "478:44033"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1515496072",
+      "uuid": "7a95a920-62f7-4410-a093-aa1351a8c47b",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-14T21:27:48.806Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko FYI I changed them to Arrow key nav but added notes to both the  checkboxes and their page buttons for clarity. \n@Calixte Denizet Please do not hesitate to ping me if you have ANY questions about this navigation pattern. There are no good examples of this behavior I can point you to, the closest would be New Tab page Stories tiles, but there are no checkboxes there... We're making the world a bit better by (you) crafting it from scratch <3",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-11-14T21:35:08.058Z",
+          "user": {
+            "id": "1174480039733711256",
+            "handle": "Dasha Andriyenko",
+            "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "478:44033",
+        "node_offset": {
+          "x": 431,
+          "y": 2710
+        },
+        "stable_path": [
+          "478:44033"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1513732436",
+      "uuid": "a2ea2fd8-50ef-43b8-9302-16226cb8dc11",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-13T22:27:31.973Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi can focused without being current be the same as hover?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "428:10179",
+        "node_offset": {
+          "x": 77,
+          "y": 265
+        },
+        "stable_path": [
+          "428:10179"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1513201155",
+      "uuid": "d2941582-e367-48fc-81bf-e004d14812d4",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-13T16:19:54.317Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko map out what the designs look like via phases for the QA people. \n\nLink them to the specific wires... when done pink @Kim Bryant",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:137",
+        "node_offset": {
+          "x": -12133,
+          "y": -5151
+        },
+        "stable_path": [
+          "1:137"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1501085592",
+      "uuid": "b86755ee-2dd7-4ae8-afbf-04e474cfdd5d",
+      "file_key": "dqYCtoaLiq1P98cE7ojrKl",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrew Crago",
+        "img_url": "https://s3-alpha.figma.com/profile/ba211a9e-af73-4555-9524-33f939c11805",
+        "id": "1075270157069956042"
+      },
+      "created_at": "2025-11-05T21:52:28.076Z",
+      "resolved_at": null,
+      "message": "a11y issue to have multiple buttons same label?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "358:6601",
+        "node_offset": {
+          "x": 154,
+          "y": 500
+        },
+        "stable_path": [
+          "358:6601"
+        ]
+      },
+      "order_id": "7"
+    }
+  ]
+}

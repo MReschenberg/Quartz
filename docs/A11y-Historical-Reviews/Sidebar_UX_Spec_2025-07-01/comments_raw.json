@@ -1,0 +1,214 @@
+{
+  "unresolved": [
+    {
+      "id": "762903525",
+      "uuid": "7b16fc4f-48ee-4c43-a6f8-290800e946d1",
+      "file_key": "ZFavpnAJee39j2mFf8U3D0",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-04-08T22:43:40.361Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi @Yulia Popova Quick question - would it be problematic if tools overflow modal is displayed on hover and on click? It feels somewhat awkward to display a hover state on the button instead of revealing its contents.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7797:359267",
+        "node_offset": {
+          "x": 2831,
+          "y": 82
+        },
+        "stable_path": [
+          "7797:359267"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "762769365",
+      "uuid": "0da906e4-e152-418a-a06c-dbe04d4f6f73",
+      "file_key": "ZFavpnAJee39j2mFf8U3D0",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-08T19:50:36.627Z",
+      "resolved_at": null,
+      "message": "Eng note: \n* The opened panel state should be provided either programmatically (i.e. via `aria-pressed=\"true\"`) or in label (i.e. label changes from \"Open sidebar\" to \"Close sidebar\" when the button is pressed).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7754:300699",
+        "node_offset": {
+          "x": 148,
+          "y": 58
+        },
+        "stable_path": [
+          "7754:300699"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "762567097",
+      "uuid": "5e9ab9e0-caf3-49b8-b191-35d99e06d5cd",
+      "file_key": "ZFavpnAJee39j2mFf8U3D0",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-08T16:28:27.313Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova We currently do not have any group labels in the chrome UI, so we could maybe leave this blank to reduce verbosity. Or we could choose something short and. sweet, like \"Options\" or \"More\" or \"Customizable panel\" even",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7749:195370",
+        "node_offset": {
+          "x": 99,
+          "y": 382
+        },
+        "stable_path": [
+          "7749:195370"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "731340723",
+      "uuid": "c2bd7bd5-bf6a-4d53-8f54-3e67bf476f62",
+      "file_key": "ZFavpnAJee39j2mFf8U3D0",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-03-12T02:09:56.240Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova @Eric Pang I think we need a state for \"no search results found\" here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7131:8109",
+        "node_offset": {
+          "x": 731,
+          "y": 17
+        },
+        "stable_path": [
+          "7131:8109"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "725871583",
+      "uuid": "4f68eb35-74dc-4586-ac07-d5cf4b026fc0",
+      "file_key": "ZFavpnAJee39j2mFf8U3D0",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-03-06T14:09:40.286Z",
+      "resolved_at": null,
+      "message": "@Eric Pang added this page. Are we missing something else?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7102:86708",
+        "node_offset": {
+          "x": 772,
+          "y": 298
+        },
+        "stable_path": [
+          "7102:86708"
+        ]
+      },
+      "order_id": "4"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "762903525",
+      "uuid": "7b16fc4f-48ee-4c43-a6f8-290800e946d1",
+      "file_key": "ZFavpnAJee39j2mFf8U3D0",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-04-08T22:43:40.361Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi @Yulia Popova Quick question - would it be problematic if tools overflow modal is displayed on hover and on click? It feels somewhat awkward to display a hover state on the button instead of revealing its contents.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7797:359267",
+        "node_offset": {
+          "x": 2831,
+          "y": 82
+        },
+        "stable_path": [
+          "7797:359267"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "762769365",
+      "uuid": "0da906e4-e152-418a-a06c-dbe04d4f6f73",
+      "file_key": "ZFavpnAJee39j2mFf8U3D0",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-08T19:50:36.627Z",
+      "resolved_at": null,
+      "message": "Eng note: \n* The opened panel state should be provided either programmatically (i.e. via `aria-pressed=\"true\"`) or in label (i.e. label changes from \"Open sidebar\" to \"Close sidebar\" when the button is pressed).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7754:300699",
+        "node_offset": {
+          "x": 148,
+          "y": 58
+        },
+        "stable_path": [
+          "7754:300699"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "762567097",
+      "uuid": "5e9ab9e0-caf3-49b8-b191-35d99e06d5cd",
+      "file_key": "ZFavpnAJee39j2mFf8U3D0",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-04-08T16:28:27.313Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova We currently do not have any group labels in the chrome UI, so we could maybe leave this blank to reduce verbosity. Or we could choose something short and. sweet, like \"Options\" or \"More\" or \"Customizable panel\" even",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7749:195370",
+        "node_offset": {
+          "x": 99,
+          "y": 382
+        },
+        "stable_path": [
+          "7749:195370"
+        ]
+      },
+      "order_id": "29"
+    }
+  ]
+}

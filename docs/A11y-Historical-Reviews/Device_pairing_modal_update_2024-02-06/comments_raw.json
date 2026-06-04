@@ -1,0 +1,136 @@
+{
+  "unresolved": [
+    {
+      "id": "633654135",
+      "uuid": "b6f32d4e-8241-41ff-8403-56c40d158e13",
+      "file_key": "tSFjT8Sxid5GDXPL3BqK8l",
+      "parent_id": "",
+      "user": {
+        "handle": "Peter Benvenuto",
+        "img_url": "https://www.gravatar.com/avatar/da32cc5a290e3b7d1a69f10f488f7516?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "973970800642847098"
+      },
+      "created_at": "2023-12-01T17:22:37.506Z",
+      "resolved_at": null,
+      "message": "refer to VPN onboarding",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "66:1097",
+        "node_offset": {
+          "x": 466,
+          "y": 200
+        },
+        "stable_path": [
+          "66:1097"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "633648824",
+      "uuid": "ef5582fb-0f77-45e8-8d30-e87a680d9f5b",
+      "file_key": "tSFjT8Sxid5GDXPL3BqK8l",
+      "parent_id": "",
+      "user": {
+        "handle": "Peter Benvenuto",
+        "img_url": "https://www.gravatar.com/avatar/da32cc5a290e3b7d1a69f10f488f7516?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "973970800642847098"
+      },
+      "created_at": "2023-12-01T17:16:59.903Z",
+      "resolved_at": null,
+      "message": "Use of the word sync in the toggle - can play around with the word \"connect\" here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "66:1097",
+        "node_offset": {
+          "x": 177,
+          "y": 165
+        },
+        "stable_path": [
+          "66:1097"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "633647659",
+      "uuid": "d5ac3fd2-c2bb-4682-999d-b58c71aae971",
+      "file_key": "tSFjT8Sxid5GDXPL3BqK8l",
+      "parent_id": "",
+      "user": {
+        "handle": "Peter Benvenuto",
+        "img_url": "https://www.gravatar.com/avatar/da32cc5a290e3b7d1a69f10f488f7516?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "973970800642847098"
+      },
+      "created_at": "2023-12-01T17:15:44.660Z",
+      "resolved_at": null,
+      "message": "Tweaking the language here to give the users mor einformation about the 2 choices that are branching",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "66:1097",
+        "node_offset": {
+          "x": 365,
+          "y": 57
+        },
+        "stable_path": [
+          "66:1097"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "633647487",
+      "uuid": "df3768cc-b958-440a-80b5-8b8ca449ac20",
+      "file_key": "tSFjT8Sxid5GDXPL3BqK8l",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-12-01T17:15:33.765Z",
+      "resolved_at": null,
+      "message": "A word \"sync\" is the same as the \"connect\"? The previous modal I think was about connecting another device. The actual sync is already done while users sign up most likely. This a part I personally got confused when I was working on the account stuff.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "66:591",
+        "node_offset": {
+          "x": 1148,
+          "y": 659
+        },
+        "stable_path": [
+          "66:591"
+        ]
+      },
+      "order_id": "7"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "633647487",
+      "uuid": "df3768cc-b958-440a-80b5-8b8ca449ac20",
+      "file_key": "tSFjT8Sxid5GDXPL3BqK8l",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-12-01T17:15:33.765Z",
+      "resolved_at": null,
+      "message": "A word \"sync\" is the same as the \"connect\"? The previous modal I think was about connecting another device. The actual sync is already done while users sign up most likely. This a part I personally got confused when I was working on the account stuff.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "66:591",
+        "node_offset": {
+          "x": 1148,
+          "y": 659
+        },
+        "stable_path": [
+          "66:591"
+        ]
+      },
+      "order_id": "7"
+    }
+  ]
+}

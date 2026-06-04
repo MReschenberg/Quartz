@@ -1,0 +1,2004 @@
+{
+  "unresolved": [
+    {
+      "id": "1171980524",
+      "uuid": "b7253139-3013-4f79-b0b6-cc570b0edd9a",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-13T13:56:43.588Z",
+      "resolved_at": null,
+      "message": "I don't think we should mention security. The signatures themselves are not password protected or even synched through your account. They are also not legally valid e-signatures, so I think we should not imply anything about security here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2242:10277",
+        "node_offset": {
+          "x": 2367,
+          "y": 181
+        },
+        "stable_path": [
+          "2242:10277"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "1162135532",
+      "uuid": "70a59798-f5c1-45a5-8ebf-7af4dc6ac3d4",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2025-03-06T17:27:44.709Z",
+      "resolved_at": null,
+      "message": "cc @Courtney Gordon",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2159:17785",
+        "node_offset": {
+          "x": 1036,
+          "y": 237
+        },
+        "stable_path": [
+          "2159:17785"
+        ]
+      },
+      "order_id": "134"
+    },
+    {
+      "id": "1162133114",
+      "uuid": "ba4eba2d-5198-41c4-ba4a-1dd585e45582",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2025-03-06T17:26:17.623Z",
+      "resolved_at": null,
+      "message": "@Victoria Wang I'm not sure what the modal looks like in-situ but I wanted to add a section where someone could preview the animation :) I just exported it as a GIF",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2159:17785",
+        "node_offset": {
+          "x": 1041,
+          "y": 181
+        },
+        "stable_path": [
+          "2159:17785"
+        ]
+      },
+      "order_id": "133"
+    },
+    {
+      "id": "1126578929",
+      "uuid": "e32576f0-28f6-43dd-a2c1-5c5973b94f17",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Ray Fambro",
+        "img_url": "https://www.gravatar.com/avatar/ddc43009219a6deea041714481c6a2bc?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "965970472202564955"
+      },
+      "created_at": "2025-02-10T20:14:12.444Z",
+      "resolved_at": null,
+      "message": "@Marco Castelluccio -- Are we OK if the callouts open back to back but in separate PDF sessions? cc @Shane Hughes",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1314:44825",
+        "node_offset": {
+          "x": 348,
+          "y": 94
+        },
+        "stable_path": [
+          "1314:44825"
+        ]
+      },
+      "order_id": "132"
+    },
+    {
+      "id": "1126430594",
+      "uuid": "6a5fa021-18f2-4434-afc4-9120ec97dda1",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Shane Hughes",
+        "img_url": "https://s3-alpha.figma.com/profile/40bad14f-951e-4956-b459-d9cfd8ef0ae5",
+        "id": "1142184855248907548"
+      },
+      "created_at": "2025-02-10T18:19:59.103Z",
+      "resolved_at": null,
+      "message": "This is the highlight icon, not the signature icon. @Ray Fambro",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1294:35299",
+        "node_offset": {
+          "x": 71,
+          "y": 197
+        },
+        "stable_path": [
+          "1294:35299"
+        ]
+      },
+      "order_id": "131"
+    },
+    {
+      "id": "1122548156",
+      "uuid": "bf66c102-1493-4c32-b367-0ac65a4c4c50",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-02-06T19:45:24.671Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet new signature icons updated throughout this page.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1237:40851",
+        "node_offset": {
+          "x": 1063,
+          "y": 92
+        },
+        "stable_path": [
+          "1237:40851"
+        ]
+      },
+      "order_id": "130"
+    },
+    {
+      "id": "1110915394",
+      "uuid": "723893c3-33fc-49b6-b1fb-31c3bc4c7964",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-01-29T14:54:30.199Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I changed the role for \"tabpanel\" because I think it's more accurate (see https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/tabpanel_role). But if you think it's better with a \"section\", tell me.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-01-29T15:01:58.218Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1237:22841",
+        "node_offset": {
+          "x": 83,
+          "y": 837
+        },
+        "stable_path": [
+          "1237:22841"
+        ]
+      },
+      "order_id": "129"
+    },
+    {
+      "id": "1109394770",
+      "uuid": "8cb30a3f-bb93-4b15-8ef6-b27c511dd6a7",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-28T16:50:17.216Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet I added guidance about what happens to the alt text if the user switches tabs. Please ping me if this is unclear.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1237:22675",
+        "node_offset": {
+          "x": 39,
+          "y": 923
+        },
+        "stable_path": [
+          "1237:22675"
+        ]
+      },
+      "order_id": "128"
+    },
+    {
+      "id": "1070021673",
+      "uuid": "febfbc04-9ab9-4fb6-a6a4-78622d9e4403",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-18T23:42:15.519Z",
+      "resolved_at": null,
+      "message": "hey @Ryan Casey ! Jamie from the accessibility team brought up something that I had missed- 'some forms provide form field that a screen reader can click to insert a signature, maybe we could do a first click after the signature mode is activated [that] would be the location for the signature. Similar to the insert image - no way to know the location where you\u2019re inserting it.\n* User Story: As a screen reader user I\u2019d like to sign a PDF that has a defined position for the signature'\n\nJamie is going to send a message in the PDF channel on Slack with additional info but my apologies for missing this. Do you have any thoughts/input on this?\n\ncc @Anna Yeddi",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1237:23055",
+        "node_offset": {
+          "x": 635,
+          "y": 52
+        },
+        "stable_path": [
+          "1237:23055"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "1057377649",
+      "uuid": "ea46a4a3-d6f7-4c96-abef-99fcca818fe2",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-09T19:48:22.149Z",
+      "resolved_at": null,
+      "message": "Hey @Ryan Casey !! Quick question- is there anywhere within the UI that will communicate to the user where signatures are saved at?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1237:22830",
+        "node_offset": {
+          "x": 153,
+          "y": 393
+        },
+        "stable_path": [
+          "1237:22830"
+        ]
+      },
+      "order_id": "126"
+    },
+    {
+      "id": "1057376968",
+      "uuid": "c964c1c9-2b14-49ec-8d60-acf92a183e86",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-09T19:47:48.808Z",
+      "resolved_at": null,
+      "message": "Hey @Ryan Casey ! Thank you for adding this in :sunglasses: I have one small concern with the positioning of the input next to the Clear Signature button. Is there anywhere this could be placed aside from in line with the input? Reason being is the screen reader user will hear 'Clear input, button' 'Clear signature, button' in that order which could cause confusion. If you have any questions, just let me know!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1237:22841",
+        "node_offset": {
+          "x": 299,
+          "y": 1138
+        },
+        "stable_path": [
+          "1237:22841"
+        ]
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "1056955906",
+      "uuid": "dd474e8f-73a5-48ba-8fda-c68ab8d788fe",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-12-09T14:56:23.123Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet Please note that I have added localization notes for the headline strings on the callouts.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1246:72198",
+        "node_offset": {
+          "x": 202,
+          "y": 608
+        },
+        "stable_path": [
+          "1246:72198"
+        ]
+      },
+      "order_id": "124"
+    },
+    {
+      "id": "1041928691",
+      "uuid": "68bba438-5fe7-443f-ad99-4291b4e18cf0",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Marie-Lilas Onanga Ozavino",
+        "img_url": "https://www.gravatar.com/avatar/c03e481e8650d63cae6e94fbdc15f9a4?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1288862196906221387"
+      },
+      "created_at": "2024-11-26T20:23:22.357Z",
+      "resolved_at": null,
+      "message": "TRACKING: \n* Add new signature\n* Type signature \n* Draw (first stroke / click) \n* Upload image \n* Save signature \n* Add saved signature \n* Edit signature description \n* Save signature description \n* Delete signature",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1237:22660",
+        "node_offset": {
+          "x": -500,
+          "y": 7284
+        },
+        "stable_path": [
+          "1237:22660"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "1040007520",
+      "uuid": "e906d5b2-4af7-4c29-951c-a580dc4ab752",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-25T19:43:44.235Z",
+      "resolved_at": null,
+      "message": "With all of the edits I think the default alt text string got lost in all the variations...how do you suggest we update so that:\n* Unpopulated modal has no alt text\n* Type matches type copy\n* Draw says \"Signature\"\n* Image says file name",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1094:21019",
+        "node_offset": {
+          "x": 47,
+          "y": 351
+        },
+        "stable_path": [
+          "1094:21019"
+        ]
+      },
+      "order_id": "111"
+    },
+    {
+      "id": "1037930617",
+      "uuid": "e06eeadf-b824-4aac-8553-02da35504486",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-22T21:23:31.686Z",
+      "resolved_at": null,
+      "message": "Hey @Ryan Casey - for the 'aria-labelledby=id' note, where is the 'id' that this would point to?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1094:21224",
+        "node_offset": {
+          "x": 188,
+          "y": 105
+        },
+        "stable_path": [
+          "1094:21224"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "1033972995",
+      "uuid": "5a945147-755e-4bf7-998e-7f8a115da682",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2024-11-20T15:27:25.785Z",
+      "resolved_at": null,
+      "message": "@Natalie Stroud these themes are updated to your latest feedback. I'd appreciate if you could look these and the rest of this page over when you have a chance. thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1094:20991",
+        "node_offset": {
+          "x": -1223,
+          "y": 4177
+        },
+        "stable_path": [
+          "1094:20991"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "1032852195",
+      "uuid": "12ac6df5-a12a-4e2d-b032-e449bf433625",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-20T02:50:25.877Z",
+      "resolved_at": null,
+      "message": "Hi @Ryan Casey - I would ensure that the disabled Save signature checkbox is included in the annotations. Thank you! :white_check_mark:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1080:106204",
+        "node_offset": {
+          "x": 276,
+          "y": 402
+        },
+        "stable_path": [
+          "1080:106204"
+        ]
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "1032740895",
+      "uuid": "6cb6ba45-6372-4fa1-bb58-c1544c9f35f3",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Bryan Olsson",
+        "img_url": "https://www.gravatar.com/avatar/34df29d70aca0d9b18a6a8fbb65acd5b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1128440584731101832"
+      },
+      "created_at": "2024-11-20T00:05:31.795Z",
+      "resolved_at": null,
+      "message": "This may need OS specific strings. I believe instances of \"browse\" in Windows are often \"Choose\" in other OS like MacOS.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1094:55244",
+        "node_offset": {
+          "x": 580,
+          "y": 429
+        },
+        "stable_path": [
+          "1094:55244"
+        ]
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "1032448873",
+      "uuid": "fe2753bc-aeaa-4e03-96db-6197e1e60b15",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-19T19:18:51.907Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey Seems like we would just need one error. @Calixte Denizet how does this look?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1094:21083",
+        "node_offset": {
+          "x": 227,
+          "y": 430
+        },
+        "stable_path": [
+          "1094:21083"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "1028247427",
+      "uuid": "ec29d81d-660a-4685-ae54-74cbf8999b94",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-15T16:57:21.297Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet What happens if a user tries to drag an unsupported file time into this modal? Should we surface an error?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1011:25255",
+        "node_offset": {
+          "x": 576,
+          "y": 308
+        },
+        "stable_path": [
+          "1011:25255"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "1028215679",
+      "uuid": "ae29c3e3-2274-4ff8-8f25-bf4560371d79",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-15T16:32:50.709Z",
+      "resolved_at": null,
+      "message": "Can you please add the file finder view to this flow?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1021:77849",
+        "node_offset": {
+          "x": 1071,
+          "y": 73
+        },
+        "stable_path": [
+          "1021:77849"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "1024452754",
+      "uuid": "c737b939-1f0e-4002-a29f-f27d0f45cd66",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-13T14:22:13.867Z",
+      "resolved_at": null,
+      "message": "Hi @Ryan Casey - an announcement won't need to be made once controls go from disabled to enabled. We'll just want to ensure that when controls are disabled and screen reader focus is on one of these controls, you can hear the disabled attribute. On that same note, when controls are enabled, screen readers will not read the attribute and these users can interact with the control like normal. Thank you :grin: cc @Anna Yeddi",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "987:31895",
+        "node_offset": {
+          "x": 357,
+          "y": 902
+        },
+        "stable_path": [
+          "987:31895"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1019114758",
+      "uuid": "1e0265b0-0f54-4882-a583-2f9749edc489",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2024-11-08T17:43:04.624Z",
+      "resolved_at": null,
+      "message": "Hi @Natalie Stroud , I'm hoping you could advise here. I am putting together A11y specs for this PDF signature modal (I plan on formally requesting an A11y review asap). But I have some questions about how to indicate elements that are disabled. Would you look this section over and provide feedback? Please reach out if there are questions. thanks!\ncc @Emily Wachowiak @Calixte Denizet",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "987:31864",
+        "node_offset": {
+          "x": 647,
+          "y": 126
+        },
+        "stable_path": [
+          "987:31864"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "1019037584",
+      "uuid": "752ed49a-0e8e-4611-832b-72cd3611b0a5",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2024-11-08T16:39:41.018Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet Do you have thoughts on what error states we might need? I've outlined some I think could happen below. Could you please add/edit this list for me to mock up? thanks!\ncc @Emily Wachowiak",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1011:25256",
+        "node_offset": {
+          "x": 334,
+          "y": 267
+        },
+        "stable_path": [
+          "1011:25256"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1013611317",
+      "uuid": "b15dd1fa-24be-4e86-891d-be4c7d743b07",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-05T15:39:43.502Z",
+      "resolved_at": null,
+      "message": "Note: please find a place to illustrate the title tags that will be visible on hover for the following components:\n* Saved sig name\n* Edit button\n* Delete button\n* Alt text of a signature instance",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "859:51854",
+        "node_offset": {
+          "x": 156,
+          "y": 69
+        },
+        "stable_path": [
+          "859:51854"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1012342959",
+      "uuid": "ea5e619b-8a7c-46fa-a85d-9dc7899010f0",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-04T22:50:39.468Z",
+      "resolved_at": null,
+      "message": "Is this strictly necessary? Could the canvas remain active as long as this screen was up? And clicking \"Add\" is what finalizes the drawing?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "859:50551",
+        "node_offset": {
+          "x": 70,
+          "y": 139
+        },
+        "stable_path": [
+          "859:50551"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1012339499",
+      "uuid": "3fda9a7c-5970-41d6-8e8c-a6e4d1ff95ba",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-04T22:45:58.656Z",
+      "resolved_at": null,
+      "message": "I find the disabled state confusing here. If we aren't going to allow them to mess with this for a saved signature, can we just remove it? Then it might make sense to bring the trash can in here (unless we had a reason not to. honestly can't remember)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "876:24049",
+        "node_offset": {
+          "x": 438,
+          "y": 361
+        },
+        "stable_path": [
+          "876:24049"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1012334062",
+      "uuid": "8ae99c9d-cdc0-4497-b9c4-e5a0ce104457",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-04T22:38:46.606Z",
+      "resolved_at": null,
+      "message": "If the signature is already saved and they uncheck this, does that remove it from the list when they click update?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "883:18615",
+        "node_offset": {
+          "x": 173.5,
+          "y": 505
+        },
+        "stable_path": [
+          "883:18615"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1012332683",
+      "uuid": "e25e72c7-4a42-42cf-b1b7-554bf71c531c",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-04T22:36:53.042Z",
+      "resolved_at": null,
+      "message": "Should this have a truncation point? Didn't think about long names",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "874:26220",
+        "node_offset": {
+          "x": 1008,
+          "y": 138
+        },
+        "stable_path": [
+          "874:26220"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1012327060",
+      "uuid": "3f0a1475-fdef-4540-9f7d-c3db1f83f7cd",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-04T22:29:47.389Z",
+      "resolved_at": null,
+      "message": "Can you remind me why we decided not to have a delete button in this view? I think we had a reason but just forgetting.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "859:51853",
+        "node_offset": {
+          "x": 454,
+          "y": 34
+        },
+        "stable_path": [
+          "859:51853"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "999768376",
+      "uuid": "9cfe4b3d-19f8-4b1d-9bf6-585f876a1929",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-10-24T15:37:33.239Z",
+      "resolved_at": null,
+      "message": "Before sharing with leadership, can we change the order (Type, Draw, Image) and remove camera option?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "821:103196",
+        "node_offset": {
+          "x": 444.83984375,
+          "y": 231
+        },
+        "stable_path": [
+          "821:103196"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "999761251",
+      "uuid": "0acdfbf5-b534-4159-a8c4-de3412b83a1c",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-10-24T15:33:33.718Z",
+      "resolved_at": null,
+      "message": "These screenshots are low res and hard to read. Should we just insert the actual Figma components? Or rely more on the prototype demo to show the feature?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "821:71924",
+        "node_offset": {
+          "x": 260,
+          "y": 40
+        },
+        "stable_path": [
+          "821:71924"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "999758063",
+      "uuid": "c82f2966-b85d-4890-bb8e-7ab2ed8efb1c",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-10-24T15:31:45.326Z",
+      "resolved_at": null,
+      "message": "I updated the copy slightly on these slides; can you please repost?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "821:56422",
+        "node_offset": {
+          "x": 5221.65966796875,
+          "y": 447
+        },
+        "stable_path": [
+          "821:56422"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "999756712",
+      "uuid": "6b96c105-51d7-4ddb-aada-a4bae09bee93",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-10-24T15:31:02.463Z",
+      "resolved_at": null,
+      "message": "Can you add like star icons here to draw attention?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "821:56457",
+        "node_offset": {
+          "x": 406.65966796875,
+          "y": 347.6685791015625
+        },
+        "stable_path": [
+          "821:56457"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "999749036",
+      "uuid": "e73772b9-ab25-45f6-a896-28bdfe2b33d4",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-10-24T15:26:53.154Z",
+      "resolved_at": null,
+      "message": "Do you want me to add mobile screenshots for the other ones too just to show that they don't have mobile edit features? or should we just speak to it?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "816:39542",
+        "node_offset": {
+          "x": 3449,
+          "y": 1981
+        },
+        "stable_path": [
+          "816:39542"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "999746403",
+      "uuid": "e57ce6c3-1217-4940-bbe7-1aaf16737700",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-10-24T15:25:27.538Z",
+      "resolved_at": null,
+      "message": ":cry:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "816:39542",
+        "node_offset": {
+          "x": 9181,
+          "y": 389
+        },
+        "stable_path": [
+          "816:39542"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "999738136",
+      "uuid": "f0ad00a2-82eb-4820-9dba-a2661fce7d08",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-10-24T15:20:59.898Z",
+      "resolved_at": null,
+      "message": "Does Adobe offer free signatures in any browser?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "816:39544",
+        "node_offset": {
+          "x": 989,
+          "y": 650
+        },
+        "stable_path": [
+          "816:39544"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "992514898",
+      "uuid": "eb82d976-670f-4e9d-8ab1-fc1f59cd3c89",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-10-18T19:56:08.042Z",
+      "resolved_at": null,
+      "message": "Hi @Ryan Casey! For the Thickness slider, the gray border of the adjustment control + the gray thickness indicator both need a contrast ratio of at least 3:1 against the background. Can you please adjust the colors so they meet the ratio? Thank you! :D",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "421:126061",
+        "node_offset": {
+          "x": 464.81640625,
+          "y": 337.0205078125
+        },
+        "stable_path": [
+          "421:126061"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "992511418",
+      "uuid": "5e1a84e9-b760-445f-94ea-2b89e0664be1",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-10-18T19:52:06.873Z",
+      "resolved_at": null,
+      "message": "Hi @Ryan Casey! The clickable area for the trashcan icon button should be at least 24px by 24px, ideally up to 44px by 44px. Could you make the button a little bit larger? Thank you! :D",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "657:10073",
+        "node_offset": {
+          "x": 940.0283203125,
+          "y": 351.7734375
+        },
+        "stable_path": [
+          "657:10073"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "992509828",
+      "uuid": "76740dc7-40f8-4bac-b8b0-fd4481ecd5c4",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-10-18T19:50:17.581Z",
+      "resolved_at": null,
+      "message": "Hi @Ryan Casey! Will the 'x' button in the Name textbox and the trashcan icon button at the top right do the same thing?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "657:10073",
+        "node_offset": {
+          "x": 840.0283203125,
+          "y": 518.7734375
+        },
+        "stable_path": [
+          "657:10073"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "992203234",
+      "uuid": "db13f15e-4492-482b-b5ee-5c22a57ad317",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-10-18T15:07:03.967Z",
+      "resolved_at": null,
+      "message": "Removed Saved tab on this screen",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "735:107078",
+        "node_offset": {
+          "x": 437,
+          "y": 274
+        },
+        "stable_path": null
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "992202150",
+      "uuid": "75d8600a-56d6-4687-b25c-6f14f7842862",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-10-18T15:06:17.842Z",
+      "resolved_at": null,
+      "message": "Leave as is for now, but for future we should have distinct headlines for when you are editing a saved signature vs a signature instance. I will think more on this.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "735:109046",
+        "node_offset": {
+          "x": 423.0283203125,
+          "y": 231.48046875
+        },
+        "stable_path": null
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "978243563",
+      "uuid": "8e41d44f-4863-444f-932a-5397d4dc774d",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-10-08T14:55:10.611Z",
+      "resolved_at": null,
+      "message": "I noticed that when I clicked \"Edit\" after adding Dolly's Signature, it opened the initial add screen instead of the update screen with the new saved signature. Perhaps we want to disable clicks on Edit after adding Dolly's?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "411:73461",
+        "node_offset": {
+          "x": 888,
+          "y": 612
+        },
+        "stable_path": null
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "978239522",
+      "uuid": "d96fd02e-1eba-4dce-9067-00d1c302ee4d",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-10-08T14:53:11.815Z",
+      "resolved_at": null,
+      "message": "Can you change this to say Beyonce?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "405:71920",
+        "node_offset": {
+          "x": 942,
+          "y": 161
+        },
+        "stable_path": null
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "978238575",
+      "uuid": "eb7a3b0a-6863-481b-b4d3-ce0e9a20774b",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-10-08T14:52:45.996Z",
+      "resolved_at": null,
+      "message": "From here I can only cancel or delete...if the task is to update the description, should we have them complete that by pressing Update?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "405:71920",
+        "node_offset": {
+          "x": 894,
+          "y": 551
+        },
+        "stable_path": null
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "966468463",
+      "uuid": "201945a6-11fd-44a3-95aa-3547e8dbbfc5",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-27T18:18:37.344Z",
+      "resolved_at": null,
+      "message": "Maybe as part of the user testing, we should have users rename this  to \"Beyonce\" so we can get their reactions to what's happening here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "27:13306",
+        "node_offset": {
+          "x": 507.3037109375,
+          "y": 530
+        },
+        "stable_path": [
+          "27:13306"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "966467627",
+      "uuid": "1df6e3a4-97e9-41af-91e6-aca57e3c0e46",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-27T18:17:45.916Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey Can you remind me if we wanted to keep a generic \"Signature\" alt text for file uploads instead of the file name? I know we have the file name already listed in the design...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "27:13306",
+        "node_offset": {
+          "x": 421.3037109375,
+          "y": 526
+        },
+        "stable_path": [
+          "27:13306"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "925504984",
+      "uuid": "b7dba7ad-7d67-4828-b9cb-ff71de84d0a7",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Crystal Wong",
+        "img_url": "https://s3-alpha.figma.com/profile/b5db92da-625e-4cac-a442-1108428197be",
+        "id": "997882185557217931"
+      },
+      "created_at": "2024-08-26T20:34:01.086Z",
+      "resolved_at": null,
+      "message": "In terms of patterns, typically for Android the primary button is on the right and the secondary action is on the left :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "93:29865",
+        "node_offset": {
+          "x": 313,
+          "y": 702
+        },
+        "stable_path": null
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "925472621",
+      "uuid": "18ec3f48-9b7d-47c1-887c-e1b3dbf41995",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-08-26T20:03:38.020Z",
+      "resolved_at": null,
+      "message": "It feels a bit odd to have this warning so far from the save checkbox. Any possibilities for it to be closer? E.g. use descriptive text below the checkbox that says \"Will overwrite current saved signature\" when the box is checked. \nAnother alternative: a confirmation step dialog...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "27:13358",
+        "node_offset": {
+          "x": 505.931640625,
+          "y": 487
+        },
+        "stable_path": [
+          "27:13358"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "925471420",
+      "uuid": "f9953756-35af-4011-8a93-138c316b5fb1",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-08-26T20:02:25.386Z",
+      "resolved_at": null,
+      "message": "Can we have this unchecked by default once a Saved signature exists?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "27:13357",
+        "node_offset": {
+          "x": 449.56298828125,
+          "y": 612
+        },
+        "stable_path": [
+          "27:13357"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "925469955",
+      "uuid": "ccd3a7b5-018d-403f-a7b1-2b2f4b758312",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-08-26T20:00:56.944Z",
+      "resolved_at": null,
+      "message": "If the user clicks the \"edit\" button on an existing signature, the modal title should say \"Edit signature\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "27:13356",
+        "node_offset": {
+          "x": 377.62109375,
+          "y": 236
+        },
+        "stable_path": [
+          "27:13356"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "925468996",
+      "uuid": "f46a4936-29fd-4bf0-8610-8db301241364",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-08-26T20:00:00.398Z",
+      "resolved_at": null,
+      "message": "Do we need to show this checkbox on the Saved tab?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "27:13356",
+        "node_offset": {
+          "x": 419.62109375,
+          "y": 628
+        },
+        "stable_path": [
+          "27:13356"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "925460653",
+      "uuid": "bc118d0a-c9e0-449e-83ef-177fcb39eb60",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-08-26T19:52:26.269Z",
+      "resolved_at": null,
+      "message": "Need to think about file name limits/truncation for long names",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "35:31871",
+        "node_offset": {
+          "x": 883.462890625,
+          "y": 254
+        },
+        "stable_path": [
+          "35:31871"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "925459563",
+      "uuid": "6db5996c-9311-4e88-939a-db097a5cd3f6",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-08-26T19:51:24.215Z",
+      "resolved_at": null,
+      "message": "With the typing option, can we auto-populate this text box to match the typed text? User can manually edit this box separately afterward",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "27:13310",
+        "node_offset": {
+          "x": 480,
+          "y": 525.8115234375
+        },
+        "stable_path": [
+          "27:13310"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "925167402",
+      "uuid": "0f9119cd-d3e8-4a55-b621-b7e277bc15de",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-08-26T15:40:09.874Z",
+      "resolved_at": null,
+      "message": "Normally there would be a toast message to confirm a deletion...this screen is confusing to me coming from the last one.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "123:16647",
+        "node_offset": {
+          "x": 93,
+          "y": 97
+        },
+        "stable_path": null
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "925166320",
+      "uuid": "3c1cbfdd-7ab3-4dda-9481-17f23116332c",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-08-26T15:39:22.596Z",
+      "resolved_at": null,
+      "message": "The labeling here and in the text box feels odd...did the user choose to name this \"saved signature\" or did we? I think we need a clearer way of showing that this is the saved signature, separate from its name.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "143:7901",
+        "node_offset": {
+          "x": 108,
+          "y": 62
+        },
+        "stable_path": null
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "925163899",
+      "uuid": "c7b8f1a9-f8eb-49ab-91b4-d34d58c63999",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-08-26T15:37:38.195Z",
+      "resolved_at": null,
+      "message": "This is missing a label",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "93:30329",
+        "node_offset": {
+          "x": 86,
+          "y": 477
+        },
+        "stable_path": null
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "925163527",
+      "uuid": "d9cd51e1-e20e-4756-be51-5b0e95d9e43c",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-08-26T15:37:20.865Z",
+      "resolved_at": null,
+      "message": "Perhaps a toggle instead of a radio button with a clear option? Feels clunky.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "93:30481",
+        "node_offset": {
+          "x": 149,
+          "y": 521
+        },
+        "stable_path": null
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "925161167",
+      "uuid": "032f9a32-a2d7-4de7-be17-88eb385f3960",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-08-26T15:35:40.136Z",
+      "resolved_at": null,
+      "message": "This doesn't match the style of the Android PDF viewer today. Is this a planned update?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "93:29173",
+        "node_offset": {
+          "x": 120,
+          "y": 89
+        },
+        "stable_path": null
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "923321819",
+      "uuid": "fed6adc5-c48a-4636-8a8c-27b9a0f966bb",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Titouan Thibaud",
+        "img_url": "https://www.gravatar.com/avatar/968f8efd6bc3bd81eaf677cd2184bc5b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1195362199264236375"
+      },
+      "created_at": "2024-08-23T15:19:04.735Z",
+      "resolved_at": null,
+      "message": "I'd be curious to hear other people's opinion, but it seems a but strange to me to have to click on the \"Next\" button on Mobile. I think in general clicking on the option (\"Take a photo\" for example) is enough to navigate to the next screen",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "111:7890",
+        "node_offset": {
+          "x": 262,
+          "y": 709
+        },
+        "stable_path": null
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1162133114",
+      "uuid": "ba4eba2d-5198-41c4-ba4a-1dd585e45582",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2025-03-06T17:26:17.623Z",
+      "resolved_at": null,
+      "message": "@Victoria Wang I'm not sure what the modal looks like in-situ but I wanted to add a section where someone could preview the animation :) I just exported it as a GIF",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2159:17785",
+        "node_offset": {
+          "x": 1041,
+          "y": 181
+        },
+        "stable_path": [
+          "2159:17785"
+        ]
+      },
+      "order_id": "133"
+    },
+    {
+      "id": "1110915394",
+      "uuid": "723893c3-33fc-49b6-b1fb-31c3bc4c7964",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-01-29T14:54:30.199Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I changed the role for \"tabpanel\" because I think it's more accurate (see https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/tabpanel_role). But if you think it's better with a \"section\", tell me.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-01-29T15:01:58.218Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1237:22841",
+        "node_offset": {
+          "x": 83,
+          "y": 837
+        },
+        "stable_path": [
+          "1237:22841"
+        ]
+      },
+      "order_id": "129"
+    },
+    {
+      "id": "1109394770",
+      "uuid": "8cb30a3f-bb93-4b15-8ef6-b27c511dd6a7",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-01-28T16:50:17.216Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet I added guidance about what happens to the alt text if the user switches tabs. Please ping me if this is unclear.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1237:22675",
+        "node_offset": {
+          "x": 39,
+          "y": 923
+        },
+        "stable_path": [
+          "1237:22675"
+        ]
+      },
+      "order_id": "128"
+    },
+    {
+      "id": "1070021673",
+      "uuid": "febfbc04-9ab9-4fb6-a6a4-78622d9e4403",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-18T23:42:15.519Z",
+      "resolved_at": null,
+      "message": "hey @Ryan Casey ! Jamie from the accessibility team brought up something that I had missed- 'some forms provide form field that a screen reader can click to insert a signature, maybe we could do a first click after the signature mode is activated [that] would be the location for the signature. Similar to the insert image - no way to know the location where you\u2019re inserting it.\n* User Story: As a screen reader user I\u2019d like to sign a PDF that has a defined position for the signature'\n\nJamie is going to send a message in the PDF channel on Slack with additional info but my apologies for missing this. Do you have any thoughts/input on this?\n\ncc @Anna Yeddi",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1237:23055",
+        "node_offset": {
+          "x": 635,
+          "y": 52
+        },
+        "stable_path": [
+          "1237:23055"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "1057377649",
+      "uuid": "ea46a4a3-d6f7-4c96-abef-99fcca818fe2",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-09T19:48:22.149Z",
+      "resolved_at": null,
+      "message": "Hey @Ryan Casey !! Quick question- is there anywhere within the UI that will communicate to the user where signatures are saved at?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1237:22830",
+        "node_offset": {
+          "x": 153,
+          "y": 393
+        },
+        "stable_path": [
+          "1237:22830"
+        ]
+      },
+      "order_id": "126"
+    },
+    {
+      "id": "1057376968",
+      "uuid": "c964c1c9-2b14-49ec-8d60-acf92a183e86",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-09T19:47:48.808Z",
+      "resolved_at": null,
+      "message": "Hey @Ryan Casey ! Thank you for adding this in :sunglasses: I have one small concern with the positioning of the input next to the Clear Signature button. Is there anywhere this could be placed aside from in line with the input? Reason being is the screen reader user will hear 'Clear input, button' 'Clear signature, button' in that order which could cause confusion. If you have any questions, just let me know!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1237:22841",
+        "node_offset": {
+          "x": 299,
+          "y": 1138
+        },
+        "stable_path": [
+          "1237:22841"
+        ]
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "1040007520",
+      "uuid": "e906d5b2-4af7-4c29-951c-a580dc4ab752",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-25T19:43:44.235Z",
+      "resolved_at": null,
+      "message": "With all of the edits I think the default alt text string got lost in all the variations...how do you suggest we update so that:\n* Unpopulated modal has no alt text\n* Type matches type copy\n* Draw says \"Signature\"\n* Image says file name",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1094:21019",
+        "node_offset": {
+          "x": 47,
+          "y": 351
+        },
+        "stable_path": [
+          "1094:21019"
+        ]
+      },
+      "order_id": "111"
+    },
+    {
+      "id": "1037930617",
+      "uuid": "e06eeadf-b824-4aac-8553-02da35504486",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-22T21:23:31.686Z",
+      "resolved_at": null,
+      "message": "Hey @Ryan Casey - for the 'aria-labelledby=id' note, where is the 'id' that this would point to?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1094:21224",
+        "node_offset": {
+          "x": 188,
+          "y": 105
+        },
+        "stable_path": [
+          "1094:21224"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "1033972995",
+      "uuid": "5a945147-755e-4bf7-998e-7f8a115da682",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2024-11-20T15:27:25.785Z",
+      "resolved_at": null,
+      "message": "@Natalie Stroud these themes are updated to your latest feedback. I'd appreciate if you could look these and the rest of this page over when you have a chance. thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1094:20991",
+        "node_offset": {
+          "x": -1223,
+          "y": 4177
+        },
+        "stable_path": [
+          "1094:20991"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "1032852195",
+      "uuid": "12ac6df5-a12a-4e2d-b032-e449bf433625",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-20T02:50:25.877Z",
+      "resolved_at": null,
+      "message": "Hi @Ryan Casey - I would ensure that the disabled Save signature checkbox is included in the annotations. Thank you! :white_check_mark:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1080:106204",
+        "node_offset": {
+          "x": 276,
+          "y": 402
+        },
+        "stable_path": [
+          "1080:106204"
+        ]
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "1024452754",
+      "uuid": "c737b939-1f0e-4002-a29f-f27d0f45cd66",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-13T14:22:13.867Z",
+      "resolved_at": null,
+      "message": "Hi @Ryan Casey - an announcement won't need to be made once controls go from disabled to enabled. We'll just want to ensure that when controls are disabled and screen reader focus is on one of these controls, you can hear the disabled attribute. On that same note, when controls are enabled, screen readers will not read the attribute and these users can interact with the control like normal. Thank you :grin: cc @Anna Yeddi",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "987:31895",
+        "node_offset": {
+          "x": 357,
+          "y": 902
+        },
+        "stable_path": [
+          "987:31895"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1019114758",
+      "uuid": "1e0265b0-0f54-4882-a583-2f9749edc489",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2024-11-08T17:43:04.624Z",
+      "resolved_at": null,
+      "message": "Hi @Natalie Stroud , I'm hoping you could advise here. I am putting together A11y specs for this PDF signature modal (I plan on formally requesting an A11y review asap). But I have some questions about how to indicate elements that are disabled. Would you look this section over and provide feedback? Please reach out if there are questions. thanks!\ncc @Emily Wachowiak @Calixte Denizet",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "987:31864",
+        "node_offset": {
+          "x": 647,
+          "y": 126
+        },
+        "stable_path": [
+          "987:31864"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "1013611317",
+      "uuid": "b15dd1fa-24be-4e86-891d-be4c7d743b07",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-05T15:39:43.502Z",
+      "resolved_at": null,
+      "message": "Note: please find a place to illustrate the title tags that will be visible on hover for the following components:\n* Saved sig name\n* Edit button\n* Delete button\n* Alt text of a signature instance",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "859:51854",
+        "node_offset": {
+          "x": 156,
+          "y": 69
+        },
+        "stable_path": [
+          "859:51854"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "992514898",
+      "uuid": "eb82d976-670f-4e9d-8ab1-fc1f59cd3c89",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-10-18T19:56:08.042Z",
+      "resolved_at": null,
+      "message": "Hi @Ryan Casey! For the Thickness slider, the gray border of the adjustment control + the gray thickness indicator both need a contrast ratio of at least 3:1 against the background. Can you please adjust the colors so they meet the ratio? Thank you! :D",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "421:126061",
+        "node_offset": {
+          "x": 464.81640625,
+          "y": 337.0205078125
+        },
+        "stable_path": [
+          "421:126061"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "992511418",
+      "uuid": "5e1a84e9-b760-445f-94ea-2b89e0664be1",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-10-18T19:52:06.873Z",
+      "resolved_at": null,
+      "message": "Hi @Ryan Casey! The clickable area for the trashcan icon button should be at least 24px by 24px, ideally up to 44px by 44px. Could you make the button a little bit larger? Thank you! :D",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "657:10073",
+        "node_offset": {
+          "x": 940.0283203125,
+          "y": 351.7734375
+        },
+        "stable_path": [
+          "657:10073"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "992509828",
+      "uuid": "76740dc7-40f8-4bac-b8b0-fd4481ecd5c4",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-10-18T19:50:17.581Z",
+      "resolved_at": null,
+      "message": "Hi @Ryan Casey! Will the 'x' button in the Name textbox and the trashcan icon button at the top right do the same thing?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "657:10073",
+        "node_offset": {
+          "x": 840.0283203125,
+          "y": 518.7734375
+        },
+        "stable_path": [
+          "657:10073"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "966467627",
+      "uuid": "1df6e3a4-97e9-41af-91e6-aca57e3c0e46",
+      "file_key": "Ri2EZhwzFOxPqebpuS3bYc",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-27T18:17:45.916Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey Can you remind me if we wanted to keep a generic \"Signature\" alt text for file uploads instead of the file name? I know we have the file name already listed in the design...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "27:13306",
+        "node_offset": {
+          "x": 421.3037109375,
+          "y": 526
+        },
+        "stable_path": [
+          "27:13306"
+        ]
+      },
+      "order_id": "14"
+    }
+  ]
+}

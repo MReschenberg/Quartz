@@ -1,0 +1,240 @@
+{
+  "unresolved": [
+    {
+      "id": "808078995",
+      "uuid": "53c7d138-855c-490a-900f-bb65430a3903",
+      "file_key": "9o4p2A0kxbGZYjiPprCyk3",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-05-17T19:06:33.426Z",
+      "resolved_at": null,
+      "message": "cieara votes for basic slider",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1673:1176",
+        "node_offset": {
+          "x": 205,
+          "y": 36
+        },
+        "stable_path": [
+          "1673:1176"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "765431345",
+      "uuid": "d09c360d-41d0-4a3b-8904-fdedb1bb8259",
+      "file_key": "9o4p2A0kxbGZYjiPprCyk3",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2024-04-10T15:02:56.220Z",
+      "resolved_at": null,
+      "message": "@Irene Ni Let's go sentence case here. And since the entire menu is about Colors, and specifically here we are talking themes, let's update labels to this pattern: \"Auto theme,\" \"Dark theme,\" \"Sepia theme\".",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1237:1166",
+        "node_offset": {
+          "x": 54,
+          "y": 185
+        },
+        "stable_path": [
+          "1237:1166"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "764137853",
+      "uuid": "bbf37004-2a9c-49fb-ba94-ee04c165669d",
+      "file_key": "9o4p2A0kxbGZYjiPprCyk3",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-04-09T17:03:15.325Z",
+      "resolved_at": null,
+      "message": "@Meridel Walkington Forgot to mention this in office hours, but perhaps we should also update the hover labels for the menu icons? Currently, the Theme menu icon is labeled 'Colors', and the Text and layout menu is labeled 'Text controls'. I've proposed 2 new labels here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1518:1013",
+        "node_offset": {
+          "x": 159,
+          "y": 90
+        },
+        "stable_path": [
+          "1518:1013"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "754695054",
+      "uuid": "47cb69bd-afda-4f3b-9179-ebe1482f14bf",
+      "file_key": "9o4p2A0kxbGZYjiPprCyk3",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-04-01T18:43:38.638Z",
+      "resolved_at": null,
+      "message": "@Meridel Walkington apologies for the delay! I was finally able to connect with a11y when they reviewed my patch, and we decided to go with a hover tooltip that says \"Edit Color\" for all of the color pickers under the custom tab. We went with the same label for each one rather than \"Edit {option name} color\", that way the option name is not duplicated for screen readers since it already reads the onscreen label once.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1405:1013",
+        "node_offset": {
+          "x": 89,
+          "y": 55
+        },
+        "stable_path": [
+          "1405:1013"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "740628666",
+      "uuid": "694cfbb5-6778-449c-86a9-dcee825ee9cb",
+      "file_key": "9o4p2A0kxbGZYjiPprCyk3",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-03-19T15:06:36.162Z",
+      "resolved_at": null,
+      "message": "this version is not necessary, since we hide the colors menu entirely if hcm is on.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1138:970",
+        "node_offset": {
+          "x": 347,
+          "y": 39
+        },
+        "stable_path": [
+          "1138:970"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "723201756",
+      "uuid": "44cb43f3-32cd-4de1-a05e-3ba650161291",
+      "file_key": "9o4p2A0kxbGZYjiPprCyk3",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-03-04T21:59:02.094Z",
+      "resolved_at": null,
+      "message": "swirl has been removed because of potential overlap with longer strings for localization.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1022:6086",
+        "node_offset": {
+          "x": 86,
+          "y": 74
+        },
+        "stable_path": [
+          "1022:6086"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "722985409",
+      "uuid": "7a3a3efd-0ffc-4f1c-a355-800fa05677d0",
+      "file_key": "9o4p2A0kxbGZYjiPprCyk3",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-03-04T18:28:03.207Z",
+      "resolved_at": null,
+      "message": "update: moved the settings icon to align with the left edge of the button for easier localization, since it cannot be styled dynamically in relation to the label.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1022:6086",
+        "node_offset": {
+          "x": 236,
+          "y": 185
+        },
+        "stable_path": [
+          "1022:6086"
+        ]
+      },
+      "order_id": "2"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "754695054",
+      "uuid": "47cb69bd-afda-4f3b-9179-ebe1482f14bf",
+      "file_key": "9o4p2A0kxbGZYjiPprCyk3",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-04-01T18:43:38.638Z",
+      "resolved_at": null,
+      "message": "@Meridel Walkington apologies for the delay! I was finally able to connect with a11y when they reviewed my patch, and we decided to go with a hover tooltip that says \"Edit Color\" for all of the color pickers under the custom tab. We went with the same label for each one rather than \"Edit {option name} color\", that way the option name is not duplicated for screen readers since it already reads the onscreen label once.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1405:1013",
+        "node_offset": {
+          "x": 89,
+          "y": 55
+        },
+        "stable_path": [
+          "1405:1013"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "740628666",
+      "uuid": "694cfbb5-6778-449c-86a9-dcee825ee9cb",
+      "file_key": "9o4p2A0kxbGZYjiPprCyk3",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-03-19T15:06:36.162Z",
+      "resolved_at": null,
+      "message": "this version is not necessary, since we hide the colors menu entirely if hcm is on.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1138:970",
+        "node_offset": {
+          "x": 347,
+          "y": 39
+        },
+        "stable_path": [
+          "1138:970"
+        ]
+      },
+      "order_id": "7"
+    }
+  ]
+}

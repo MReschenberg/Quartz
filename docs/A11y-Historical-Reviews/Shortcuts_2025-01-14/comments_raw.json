@@ -1,0 +1,422 @@
+{
+  "unresolved": [
+    {
+      "id": "1400717618",
+      "uuid": "7da252d5-7c31-48f3-a777-4ef3ea1e5439",
+      "file_key": "2zldqhdPKtcHnTfcC2JXiT",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-08-27T15:06:13.593Z",
+      "resolved_at": null,
+      "message": "Related shortcuts",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1034:21224",
+        "node_offset": {
+          "x": 422,
+          "y": 192
+        },
+        "stable_path": [
+          "1034:21224"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1399920789",
+      "uuid": "2f743754-f4b4-4cad-ad23-c37e0ff15737",
+      "file_key": "2zldqhdPKtcHnTfcC2JXiT",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-08-27T08:26:37.237Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter Here is the updated dialog, It doesnt change a lot, just updating the UI but we are adding the upload icon/drag and drop image",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1197:16942",
+        "node_offset": {
+          "x": 1866,
+          "y": -1017
+        },
+        "stable_path": [
+          "1197:16942"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1253992668",
+      "uuid": "dbfe7252-d162-4cdf-9aae-0a0065ca387d",
+      "file_key": "2zldqhdPKtcHnTfcC2JXiT",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-05-13T12:19:45.680Z",
+      "resolved_at": null,
+      "message": "What if we add change rows of shortcuts to allow users to see more",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "39:6005",
+        "node_offset": {
+          "x": 257,
+          "y": 902
+        },
+        "stable_path": [
+          "39:6005"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1252226651",
+      "uuid": "27506ff2-77d6-49bc-943a-2eaed3ce82b2",
+      "file_key": "2zldqhdPKtcHnTfcC2JXiT",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-05-12T14:05:29.777Z",
+      "resolved_at": null,
+      "message": "Numbers of when user get pins and edits",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "899:25535",
+        "node_offset": {
+          "x": 101,
+          "y": 79
+        },
+        "stable_path": [
+          "899:25535"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1252225985",
+      "uuid": "d75fc341-a0f6-4a9a-8cb0-a801df5a2e3c",
+      "file_key": "2zldqhdPKtcHnTfcC2JXiT",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-05-12T14:05:11.050Z",
+      "resolved_at": null,
+      "message": "PAttern to similar to weather:\n1. change shortcut -> change weather\n2. Make the case that would make the data.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "899:25535",
+        "node_offset": {
+          "x": 93,
+          "y": 26
+        },
+        "stable_path": [
+          "899:25535"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1239941154",
+      "uuid": "8d5517ff-3b29-4c3a-bc4d-bc74c7ddb632",
+      "file_key": "2zldqhdPKtcHnTfcC2JXiT",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-05-01T15:46:43.125Z",
+      "resolved_at": null,
+      "message": "Should we instead keep this here and add a second row when the user clicks \"+\" here? (same through to 4 rows...)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "907:25870",
+        "node_offset": {
+          "x": 79,
+          "y": 44
+        },
+        "stable_path": [
+          "907:25870"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1239935232",
+      "uuid": "191cfaa1-0395-48fe-842f-2853d6ad64fb",
+      "file_key": "2zldqhdPKtcHnTfcC2JXiT",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-05-01T15:41:56.318Z",
+      "resolved_at": null,
+      "message": "We need to evaluate what this might do to metrics on shortcuts (to take a spot for a URL with the \"+\")",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "907:25559",
+        "node_offset": {
+          "x": 80,
+          "y": 16
+        },
+        "stable_path": [
+          "907:25559"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1238522807",
+      "uuid": "c9620831-79bf-4694-a7f4-3797eb175e41",
+      "file_key": "2zldqhdPKtcHnTfcC2JXiT",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-04-30T13:40:53.407Z",
+      "resolved_at": null,
+      "message": "Talk later how many default shortcut",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "891:21643",
+        "node_offset": {
+          "x": 397,
+          "y": 517
+        },
+        "stable_path": [
+          "891:21643"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1228616977",
+      "uuid": "139ce2ff-7c79-4a6c-9331-f7793a63d42f",
+      "file_key": "2zldqhdPKtcHnTfcC2JXiT",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-04-23T13:19:40.932Z",
+      "resolved_at": null,
+      "message": "You could have more rows",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "848:14413",
+        "node_offset": {
+          "x": 26529,
+          "y": 2167
+        },
+        "stable_path": [
+          "848:14413"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1089713191",
+      "uuid": "cdfe4e93-ac11-4d2d-a6d0-c3b9450e5efe",
+      "file_key": "2zldqhdPKtcHnTfcC2JXiT",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-01-13T18:19:48.467Z",
+      "resolved_at": null,
+      "message": "Cutting a very long name of a shortcut after 2 lines. What are the alternatives for accesibility to make sure users get the full name?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "134:1605",
+        "node_offset": {
+          "x": 1183,
+          "y": 764
+        },
+        "stable_path": [
+          "134:1605"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1089705549",
+      "uuid": "2bb58dae-29df-4f06-9124-921df29c37e3",
+      "file_key": "2zldqhdPKtcHnTfcC2JXiT",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-01-13T18:13:22.665Z",
+      "resolved_at": null,
+      "message": "How do we handle the logos/icons with HCM ?? These would be from the favicon websites have @Natalie Stroud",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "136:9228",
+        "node_offset": {
+          "x": 316,
+          "y": 177
+        },
+        "stable_path": [
+          "136:9228"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1089686182",
+      "uuid": "1211d45a-d8d0-43e2-b45b-0388e0e1eb13",
+      "file_key": "2zldqhdPKtcHnTfcC2JXiT",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-01-13T17:56:31.836Z",
+      "resolved_at": null,
+      "message": "Don't know if the whole shortcut section is marked as an arrow navigation group, and what is the role of the tile.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "237:11113",
+        "node_offset": {
+          "x": 184,
+          "y": 20
+        },
+        "stable_path": [
+          "237:11113"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1013757805",
+      "uuid": "55a539d7-bc9c-42ce-9163-78da0a1464ea",
+      "file_key": "2zldqhdPKtcHnTfcC2JXiT",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-11-05T17:02:43.784Z",
+      "resolved_at": null,
+      "message": "search and suggest \n\n* \"show top sites in address bar\"\n\nwhatever you have set for \"shortcuts\" or \"most visited\" will be what shows in the address bar",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "31:11897",
+        "node_offset": {
+          "x": 1254,
+          "y": 910
+        },
+        "stable_path": [
+          "31:11897"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1013753820",
+      "uuid": "b88c083c-b9c0-4e9d-ae41-de5ed52ec235",
+      "file_key": "2zldqhdPKtcHnTfcC2JXiT",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-11-05T17:00:10.606Z",
+      "resolved_at": null,
+      "message": "removed:\n\nOpen in a New Window\nOpen in a New Private Window\n\nduplicative. available on right-click",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "31:9712",
+        "node_offset": {
+          "x": 1178,
+          "y": 438
+        },
+        "stable_path": [
+          "31:9712"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1013751209",
+      "uuid": "8220f328-7faf-4250-bef1-0d2e2adab150",
+      "file_key": "2zldqhdPKtcHnTfcC2JXiT",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-11-05T16:58:34.007Z",
+      "resolved_at": null,
+      "message": "alt: Remove from history\n\nWould show the \"next\" site in the algorithm\n\nneed to confirm the diff between \"Delete from history\" and \"dismiss\" functionality",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "41:6921",
+        "node_offset": {
+          "x": 69,
+          "y": 26
+        },
+        "stable_path": [
+          "41:6921"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1089705549",
+      "uuid": "2bb58dae-29df-4f06-9124-921df29c37e3",
+      "file_key": "2zldqhdPKtcHnTfcC2JXiT",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-01-13T18:13:22.665Z",
+      "resolved_at": null,
+      "message": "How do we handle the logos/icons with HCM ?? These would be from the favicon websites have @Natalie Stroud",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "136:9228",
+        "node_offset": {
+          "x": 316,
+          "y": 177
+        },
+        "stable_path": [
+          "136:9228"
+        ]
+      },
+      "order_id": "6"
+    }
+  ]
+}

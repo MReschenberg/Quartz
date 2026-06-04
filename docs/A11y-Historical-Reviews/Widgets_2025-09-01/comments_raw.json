@@ -1,0 +1,4686 @@
+{
+  "unresolved": [
+    {
+      "id": "1648724601",
+      "uuid": "809ec2b3-4494-40fc-999d-dd6d4473e0bb",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-25T15:18:49.019Z",
+      "resolved_at": null,
+      "message": "@Amber Meryman see the final reco here.\n\nupdated \"our\" in the headline and removed the hyphens\n\ncc: @Maxx Crawford \n\n@Tatiana Mirson Will these have an \"x\" in the top right?\n\nIf no, we should add a \"Got it\" CTA",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8086:16473",
+        "node_offset": {
+          "x": 2194,
+          "y": 1244
+        },
+        "stable_path": [
+          "8086:16473"
+        ]
+      },
+      "order_id": "213"
+    },
+    {
+      "id": "1647140932",
+      "uuid": "4d05d48e-243a-4822-820f-130ad3ce17e5",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2026-02-24T21:03:50.032Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter I think this one is closest to the vibe we're going for. I wonder if we could remove the word \"productivity\" from the Title, just to be more concise?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8312:1670",
+        "node_offset": {
+          "x": 1187,
+          "y": 224
+        },
+        "stable_path": [
+          "8312:1670"
+        ]
+      },
+      "order_id": "212"
+    },
+    {
+      "id": "1647139054",
+      "uuid": "ce73d3d6-4b89-4043-b264-b73d039dae57",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2026-02-24T21:02:21.390Z",
+      "resolved_at": null,
+      "message": "The weather forecast is hourly - I like the weekend plans approach if it were daily (which we did think about, and may ask for)",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2026-02-24T21:24:46.174Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8319:27289",
+        "node_offset": {
+          "x": 186.5,
+          "y": 47
+        },
+        "stable_path": [
+          "8319:27289"
+        ]
+      },
+      "order_id": "211"
+    },
+    {
+      "id": "1647137991",
+      "uuid": "05cd423c-96fb-4c04-8641-0ff7cae7b4c0",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2026-02-24T21:01:28.411Z",
+      "resolved_at": null,
+      "message": "Small typo in \"at a glance\" (do we need the dashes?)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8312:1742",
+        "node_offset": {
+          "x": 282,
+          "y": 242
+        },
+        "stable_path": [
+          "8312:1742"
+        ]
+      },
+      "order_id": "210"
+    },
+    {
+      "id": "1600589731",
+      "uuid": "d76c708b-e442-4ecb-96a1-9269ba96603d",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Reem Hamoui",
+        "img_url": "https://www.gravatar.com/avatar/c30cc318c5f6fd74b9b283d2ba9b86fa?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1005135947042770759"
+      },
+      "created_at": "2026-01-23T04:52:37.429Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson is it intentional that we're switching the time/degrees in this smaller card?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7731:59357",
+        "node_offset": {
+          "x": 285,
+          "y": 50
+        },
+        "stable_path": [
+          "7731:59357"
+        ]
+      },
+      "order_id": "205"
+    },
+    {
+      "id": "1578355657",
+      "uuid": "58fbe48d-bca3-4431-abbe-2cd869dc5980",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2026-01-07T12:46:20.414Z",
+      "resolved_at": null,
+      "message": "Do we need a review of the stings here? Wondering about \"Switch to Simple\" which maybe should be \"Switch to simple view\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4730:49786",
+        "node_offset": {
+          "x": 116,
+          "y": 89
+        },
+        "stable_path": [
+          "4730:49786"
+        ]
+      },
+      "order_id": "204"
+    },
+    {
+      "id": "1578351472",
+      "uuid": "fd5a6f1d-f00f-4d85-8d7d-16fd228bed85",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2026-01-07T12:43:17.932Z",
+      "resolved_at": null,
+      "message": "Could this show 1-2 items, and then a way for the user to easily expand to the larger view to interact more? Something in the lower left?? I'm not sure - but I think we should have a way (for this and other widgets) to encourage/make easy the expand capability.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7021:66729",
+        "node_offset": {
+          "x": 2214,
+          "y": 290
+        },
+        "stable_path": [
+          "7021:66729"
+        ]
+      },
+      "order_id": "203"
+    },
+    {
+      "id": "1577650926",
+      "uuid": "3ac7dd35-2264-41b8-b11e-b60587dc93c8",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Reem Hamoui",
+        "img_url": "https://www.gravatar.com/avatar/c30cc318c5f6fd74b9b283d2ba9b86fa?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1005135947042770759"
+      },
+      "created_at": "2026-01-07T02:28:08.605Z",
+      "resolved_at": null,
+      "message": "Though i know this is showing \"Today\"'s forecast because of the data I see, these buttons aren't intuitive enough to say which one is selected, as the blue underline indicates a clickable element rather than the focused element. Could i suggest we look into a design similar to the focustimer's focus/break toggles? @Tatiana Mirson @Amber Meryman",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4655:25615",
+        "node_offset": {
+          "x": 972,
+          "y": 436
+        },
+        "stable_path": [
+          "4655:25615"
+        ]
+      },
+      "order_id": "202"
+    },
+    {
+      "id": "1576939176",
+      "uuid": "1766b356-50a9-479f-b243-0c3e0ae590f4",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2026-01-06T14:37:16.693Z",
+      "resolved_at": null,
+      "message": "Minimum collapse state, we will show probably 4 at least on GTM. \n\nWidget list and the different sizes",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7073:49511",
+        "node_offset": {
+          "x": 1212,
+          "y": 511
+        },
+        "stable_path": [
+          "7073:49511"
+        ]
+      },
+      "order_id": "201"
+    },
+    {
+      "id": "1576248515",
+      "uuid": "a5c8e179-9708-4a76-8a1f-f2ba111e0eb2",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Reem Hamoui",
+        "img_url": "https://www.gravatar.com/avatar/c30cc318c5f6fd74b9b283d2ba9b86fa?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1005135947042770759"
+      },
+      "created_at": "2026-01-06T05:08:31.970Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson i don't think this will work as a drop-down menu, because the city value is something we are rendering based on the API call and is an informational element on the widget, not something a user \"selects\" from a dropdown. I think what we should do is separate the city name here from the downwards arrow. The downwards arrow can be its own separate menu that opens a list of items a user can choose from (quite similar to the context menu). \nIn this case once we update this however, would you consider this downwards arrow redundant if the widget's main context meny also includes the \"change location\" and \"detect my location\" option?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4730:48664",
+        "node_offset": {
+          "x": 121,
+          "y": 22
+        },
+        "stable_path": [
+          "4730:48664"
+        ]
+      },
+      "order_id": "200"
+    },
+    {
+      "id": "1576197937",
+      "uuid": "84d36af4-340c-4177-8d5b-725d092bdc9f",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Reem Hamoui",
+        "img_url": "https://www.gravatar.com/avatar/c30cc318c5f6fd74b9b283d2ba9b86fa?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1005135947042770759"
+      },
+      "created_at": "2026-01-06T03:47:30.115Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson remind me again, what does the user see when they press the dropdown here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4730:47617",
+        "node_offset": {
+          "x": 52,
+          "y": 28
+        },
+        "stable_path": [
+          "4730:47617"
+        ]
+      },
+      "order_id": "199"
+    },
+    {
+      "id": "1560213181",
+      "uuid": "c8768188-bcbd-4890-a707-77bac0e6b214",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-12-16T20:27:45.016Z",
+      "resolved_at": null,
+      "message": "Change this so i matches the thing up",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4779:17914",
+        "node_offset": {
+          "x": 179,
+          "y": 140
+        },
+        "stable_path": [
+          "4779:17914"
+        ]
+      },
+      "order_id": "198"
+    },
+    {
+      "id": "1559587198",
+      "uuid": "76a8669a-11c8-4628-b03e-b82b41f3e94e",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-12-16T14:23:44.794Z",
+      "resolved_at": null,
+      "message": "It needs a confirmation - mockup that confirmation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7073:51902",
+        "node_offset": {
+          "x": 1304,
+          "y": 445
+        },
+        "stable_path": [
+          "7073:51902"
+        ]
+      },
+      "order_id": "197"
+    },
+    {
+      "id": "1559585437",
+      "uuid": "cedde038-085d-45e3-8db2-9ba76dc4e356",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-12-16T14:22:56.279Z",
+      "resolved_at": null,
+      "message": "Grouping - toggle - grey out",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7073:95492",
+        "node_offset": {
+          "x": 1225,
+          "y": 206
+        },
+        "stable_path": [
+          "7073:95492"
+        ]
+      },
+      "order_id": "196"
+    },
+    {
+      "id": "1559583552",
+      "uuid": "ae55d524-5111-4286-9b05-bcb665ac7a03",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-12-16T14:22:01.586Z",
+      "resolved_at": null,
+      "message": "Here the link",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7073:95492",
+        "node_offset": {
+          "x": 1094,
+          "y": 974
+        },
+        "stable_path": [
+          "7073:95492"
+        ]
+      },
+      "order_id": "195"
+    },
+    {
+      "id": "1559582856",
+      "uuid": "f27045c0-20b6-4657-acc0-1b3e7ebd6214",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-12-16T14:21:42.452Z",
+      "resolved_at": null,
+      "message": "Share feedback link",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7073:46222",
+        "node_offset": {
+          "x": 977,
+          "y": 617
+        },
+        "stable_path": [
+          "7073:46222"
+        ]
+      },
+      "order_id": "194"
+    },
+    {
+      "id": "1559582268",
+      "uuid": "5ed6f0d0-fe40-4ffa-924a-044cf1c3b2df",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-12-16T14:21:27.008Z",
+      "resolved_at": null,
+      "message": "New badge",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7073:46222",
+        "node_offset": {
+          "x": 158,
+          "y": 444
+        },
+        "stable_path": [
+          "7073:46222"
+        ]
+      },
+      "order_id": "193"
+    },
+    {
+      "id": "1559577574",
+      "uuid": "412f2b58-33cd-4c1d-9229-8b004178b543",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-12-16T14:19:22.289Z",
+      "resolved_at": null,
+      "message": "not indicate that this can be expanded",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7073:95492",
+        "node_offset": {
+          "x": 212,
+          "y": 581
+        },
+        "stable_path": [
+          "7073:95492"
+        ]
+      },
+      "order_id": "192"
+    },
+    {
+      "id": "1559576641",
+      "uuid": "8b1a3b01-dd30-4bd1-bfb0-96bf37d8b29e",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-12-16T14:18:57.179Z",
+      "resolved_at": null,
+      "message": "The icon is a dropdown",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7073:95492",
+        "node_offset": {
+          "x": 148,
+          "y": 435
+        },
+        "stable_path": [
+          "7073:95492"
+        ]
+      },
+      "order_id": "191"
+    },
+    {
+      "id": "1492483221",
+      "uuid": "c082bd7b-9da5-4d3c-9b6f-a97fd43db9b0",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-10-30T15:30:12.987Z",
+      "resolved_at": null,
+      "message": "How do you cancel a timer? From the menu?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6382:54299",
+        "node_offset": {
+          "x": 269,
+          "y": 82
+        },
+        "stable_path": [
+          "6382:54299"
+        ]
+      },
+      "order_id": "190"
+    },
+    {
+      "id": "1492473094",
+      "uuid": "adf6a713-d348-44c7-b699-231a782410bc",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-10-30T15:25:52.035Z",
+      "resolved_at": null,
+      "message": "Since the menu button is visible for this widget, should it also be visible by default for the time and checklist?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6609:3629",
+        "node_offset": {
+          "x": 1329,
+          "y": 73
+        },
+        "stable_path": [
+          "6609:3629"
+        ]
+      },
+      "order_id": "188"
+    },
+    {
+      "id": "1492470197",
+      "uuid": "cf6f3856-fcc7-4d14-9d6b-ebb5f111b020",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-10-30T15:24:34.986Z",
+      "resolved_at": null,
+      "message": "This wallpaper is lovely :heart_eyes:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6609:4459",
+        "node_offset": {
+          "x": 1209,
+          "y": 373
+        },
+        "stable_path": [
+          "6609:4459"
+        ]
+      },
+      "order_id": "187"
+    },
+    {
+      "id": "1492469183",
+      "uuid": "139a7623-155f-4c1d-81d7-27ee913eb8e1",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-10-30T15:24:08.530Z",
+      "resolved_at": null,
+      "message": "I'm assuming this is minutes, so does it mean the timer can be on for a max of 99 minutes and 99 seconds?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6378:137595",
+        "node_offset": {
+          "x": 137,
+          "y": 153
+        },
+        "stable_path": [
+          "6378:137595"
+        ]
+      },
+      "order_id": "186"
+    },
+    {
+      "id": "1492464377",
+      "uuid": "bd289773-edb4-49f3-89c8-d690e7353dc9",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-10-30T15:22:02.321Z",
+      "resolved_at": null,
+      "message": "The contrast here is a little low",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6382:81490",
+        "node_offset": {
+          "x": 875,
+          "y": 420
+        },
+        "stable_path": [
+          "6382:81490"
+        ]
+      },
+      "order_id": "185"
+    },
+    {
+      "id": "1492461269",
+      "uuid": "38301361-9059-419a-9170-ced3298d6ca4",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-10-30T15:20:41.915Z",
+      "resolved_at": null,
+      "message": "Maybe a feedback button could go here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6382:79719",
+        "node_offset": {
+          "x": 719,
+          "y": 320
+        },
+        "stable_path": [
+          "6382:79719"
+        ]
+      },
+      "order_id": "184"
+    },
+    {
+      "id": "1492460214",
+      "uuid": "a9838afd-e2e9-4838-8381-a35138673f08",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-10-30T15:20:14.767Z",
+      "resolved_at": null,
+      "message": "Maybe a simplified icon in this format? The illustration details getting a little muddy at this size :mag:",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-10-30T17:51:17.510Z",
+          "user": {
+            "id": "976544365619812549",
+            "handle": "Zachery Sutton",
+            "img_url": "https://s3-alpha.figma.com/profile/2a1dc37d-4206-407a-8e5d-c246def9ba40"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "6382:79719",
+        "node_offset": {
+          "x": 417,
+          "y": 458
+        },
+        "stable_path": [
+          "6382:79719"
+        ]
+      },
+      "order_id": "183"
+    },
+    {
+      "id": "1492458410",
+      "uuid": "3e2a04a1-042d-47a5-9238-493ac5420228",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-10-30T15:19:30.065Z",
+      "resolved_at": null,
+      "message": "What does the overflow state look like when you have a long list?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6376:55980",
+        "node_offset": {
+          "x": 272,
+          "y": 234
+        },
+        "stable_path": [
+          "6376:55980"
+        ]
+      },
+      "order_id": "182"
+    },
+    {
+      "id": "1492448510",
+      "uuid": "8fb17f9c-0c42-427e-8e4b-33c34e09bc0b",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-10-30T15:15:27.389Z",
+      "resolved_at": null,
+      "message": "Is there any distinction besides this label between the break and focus timers? And it could be nice to have the icon here as well for follow through.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6382:54299",
+        "node_offset": {
+          "x": 161,
+          "y": 105
+        },
+        "stable_path": [
+          "6382:54299"
+        ]
+      },
+      "order_id": "180"
+    },
+    {
+      "id": "1492445678",
+      "uuid": "2685b893-a805-4d78-b7cb-01c892ecf165",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-10-30T15:14:16.412Z",
+      "resolved_at": null,
+      "message": "This resets the timer right? If so maybe the arrow should be in the opposite direction of countdown animation?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6382:54299",
+        "node_offset": {
+          "x": 196,
+          "y": 251
+        },
+        "stable_path": [
+          "6382:54299"
+        ]
+      },
+      "order_id": "179"
+    },
+    {
+      "id": "1492443471",
+      "uuid": "7921b2a5-5a5e-49c8-b341-50ce599ca992",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-10-30T15:13:20.349Z",
+      "resolved_at": null,
+      "message": "Might be neat to explore having the remaining time meter change color from green to orange as it approaches 0 :sweat_smile:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6382:54299",
+        "node_offset": {
+          "x": 204,
+          "y": 71
+        },
+        "stable_path": [
+          "6382:54299"
+        ]
+      },
+      "order_id": "178"
+    },
+    {
+      "id": "1492440302",
+      "uuid": "ca1fa0fd-91d9-4806-a4c9-d67b1037db16",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-10-30T15:12:02.551Z",
+      "resolved_at": null,
+      "message": "Is there an concern that this reads as a button, and the intent of the button? I assume in this state it means an alarm will sound when the timer runs down? Also, what will that notification look like?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6378:137595",
+        "node_offset": {
+          "x": 191,
+          "y": 255
+        },
+        "stable_path": [
+          "6378:137595"
+        ]
+      },
+      "order_id": "177"
+    },
+    {
+      "id": "1492434508",
+      "uuid": "af3be425-6dbb-4d89-9827-2fd56bd8fb64",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-10-30T15:09:33.913Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson where can users share feedback? From the menus for each widget? Might be worth considering a more prominent location and CTA for feedback if we're looking for it",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6382:79719",
+        "node_offset": {
+          "x": 699,
+          "y": 779
+        },
+        "stable_path": [
+          "6382:79719"
+        ]
+      },
+      "order_id": "176"
+    },
+    {
+      "id": "1490432940",
+      "uuid": "cc07aed5-17c1-4134-a40c-69706f79a1f1",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-10-29T15:56:30.888Z",
+      "resolved_at": null,
+      "message": "is this targeted at josef, mina, or avery?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6621:4916",
+        "node_offset": {
+          "x": 124,
+          "y": 12.818359375
+        },
+        "stable_path": [
+          "6621:4916"
+        ]
+      },
+      "order_id": "175"
+    },
+    {
+      "id": "1490430207",
+      "uuid": "3a51246c-39d9-469f-aa0b-086f00511b39",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-10-29T15:55:18.151Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter content strat for v1",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6621:4913",
+        "node_offset": {
+          "x": 555,
+          "y": 78
+        },
+        "stable_path": [
+          "6621:4913"
+        ]
+      },
+      "order_id": "174"
+    },
+    {
+      "id": "1490336383",
+      "uuid": "20594b7a-e1eb-4d4e-9e7c-0346a98916b9",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-10-29T15:15:48.044Z",
+      "resolved_at": null,
+      "message": "update strings",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6376:64117",
+        "node_offset": {
+          "x": 120,
+          "y": 88
+        },
+        "stable_path": [
+          "6376:64117"
+        ]
+      },
+      "order_id": "173"
+    },
+    {
+      "id": "1490322915",
+      "uuid": "5702ecfd-a240-4f62-8f1a-9e8f055d17ce",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-10-29T15:10:21.056Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter update",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6382:79719",
+        "node_offset": {
+          "x": 769,
+          "y": 581
+        },
+        "stable_path": [
+          "6382:79719"
+        ]
+      },
+      "order_id": "172"
+    },
+    {
+      "id": "1490270251",
+      "uuid": "b04c59f6-8e38-461a-963e-b3b5b35303f6",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-10-29T14:48:53.437Z",
+      "resolved_at": null,
+      "message": "(+4 items)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6376:54922",
+        "node_offset": {
+          "x": 2456,
+          "y": 2284
+        },
+        "stable_path": [
+          "6376:54922"
+        ]
+      },
+      "order_id": "171"
+    },
+    {
+      "id": "1490269725",
+      "uuid": "f29041f2-f510-4902-aa29-37f900ddb721",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-10-29T14:48:41.412Z",
+      "resolved_at": null,
+      "message": "Try with the button + item",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6376:54922",
+        "node_offset": {
+          "x": 2503,
+          "y": 2079
+        },
+        "stable_path": [
+          "6376:54922"
+        ]
+      },
+      "order_id": "170"
+    },
+    {
+      "id": "1480321012",
+      "uuid": "11d18d9c-3adb-4870-a110-4ea5bc826b50",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-10-22T19:59:36.380Z",
+      "resolved_at": null,
+      "message": "Consider not showing the number of members. Or replace with maybe a sub-header line. Not sure the number of members is critical information.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6250:129428",
+        "node_offset": {
+          "x": 1352,
+          "y": 457
+        },
+        "stable_path": [
+          "6250:129428"
+        ]
+      },
+      "order_id": "164"
+    },
+    {
+      "id": "1477514450",
+      "uuid": "07a77b7a-9aec-427b-9c5a-c451a5969a38",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-10-21T13:31:02.272Z",
+      "resolved_at": null,
+      "message": "HAving the add other placement to show more items in the small checklist",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6188:119693",
+        "node_offset": {
+          "x": 9017,
+          "y": 189
+        },
+        "stable_path": [
+          "6188:119693"
+        ]
+      },
+      "order_id": "161"
+    },
+    {
+      "id": "1477399917",
+      "uuid": "2dc6d045-3018-49a5-bb6d-3322cf750f4c",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-10-21T12:38:42.707Z",
+      "resolved_at": null,
+      "message": "Push the image further, how can it be more visual",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6173:69231",
+        "node_offset": {
+          "x": 1084,
+          "y": 498
+        },
+        "stable_path": [
+          "6173:69231"
+        ]
+      },
+      "order_id": "160"
+    },
+    {
+      "id": "1475688118",
+      "uuid": "e113f48f-a2bb-4ff3-b44f-7d6ebc270d7b",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-10-20T13:34:10.001Z",
+      "resolved_at": null,
+      "message": "Does the Timer widget work in this smaller state, or does the \"Play\" button open the medium version, as it used to? What is the similar action that expands the smaller version of the Lists widget?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5765:85357",
+        "node_offset": {
+          "x": 633,
+          "y": 192
+        },
+        "stable_path": [
+          "5765:85357"
+        ]
+      },
+      "order_id": "159"
+    },
+    {
+      "id": "1475684179",
+      "uuid": "d8515e23-763f-4e71-9a49-11e4adb30cd3",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-10-20T13:32:12.533Z",
+      "resolved_at": null,
+      "message": "Would we have a different default state once there are items added to a list? In this small card state, could we show the first list item at least?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5765:47059",
+        "node_offset": {
+          "x": 249,
+          "y": 18
+        },
+        "stable_path": [
+          "5765:47059"
+        ]
+      },
+      "order_id": "158"
+    },
+    {
+      "id": "1473315858",
+      "uuid": "952d60c5-68ce-4e75-93af-27d4c4c092d7",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-10-17T11:20:28.778Z",
+      "resolved_at": null,
+      "message": "Can we talk to Moiz about putting a background around all the content, like the widgets one?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6020:34651",
+        "node_offset": {
+          "x": 63,
+          "y": 287
+        },
+        "stable_path": [
+          "6020:34651"
+        ]
+      },
+      "order_id": "157"
+    },
+    {
+      "id": "1473315139",
+      "uuid": "597e5433-f411-4428-b90d-3cd05955eeb8",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-10-17T11:20:02.224Z",
+      "resolved_at": null,
+      "message": "Would the word \"Remove\" work here, or is it too large? I like the parallel with \"Follow\" and it's clearer that it's not just closing temporarily.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6020:34651",
+        "node_offset": {
+          "x": 1327,
+          "y": 319
+        },
+        "stable_path": [
+          "6020:34651"
+        ]
+      },
+      "order_id": "156"
+    },
+    {
+      "id": "1470198151",
+      "uuid": "cc570bed-abe0-498d-ac56-911a860cd87e",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-10-15T19:36:34.373Z",
+      "resolved_at": null,
+      "message": "I like this a lot! it provides a lot of features and navigation in a small space.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6015:27019",
+        "node_offset": {
+          "x": 2577,
+          "y": 777
+        },
+        "stable_path": [
+          "6015:27019"
+        ]
+      },
+      "order_id": "155"
+    },
+    {
+      "id": "1468462126",
+      "uuid": "dc43e368-3875-4455-9fe2-44ddbbc1ba8d",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Reem Hamoui",
+        "img_url": "https://www.gravatar.com/avatar/c30cc318c5f6fd74b9b283d2ba9b86fa?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1005135947042770759"
+      },
+      "created_at": "2025-10-15T02:52:16.616Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson @Amber Meryman So if a user does not have the widgets layout enabled, clicking \"Switch to detailed\" from the weather's context menu will both enable the widgets layout + the weather widget?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4751:22917",
+        "node_offset": {
+          "x": 1363,
+          "y": 266
+        },
+        "stable_path": [
+          "4751:22917"
+        ]
+      },
+      "order_id": "154"
+    },
+    {
+      "id": "1447034629",
+      "uuid": "bbb1c1c9-962f-488f-94e3-6605790251f7",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-09-29T20:49:46.868Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson Can we talk about the implications of this and what we show to the user once this is set?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4753:41344",
+        "node_offset": {
+          "x": 23,
+          "y": 210
+        },
+        "stable_path": [
+          "4753:41344"
+        ]
+      },
+      "order_id": "153"
+    },
+    {
+      "id": "1426918321",
+      "uuid": "6e32712a-c884-4c30-9a5f-4dd77a67945a",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Reem Hamoui",
+        "img_url": "https://www.gravatar.com/avatar/c30cc318c5f6fd74b9b283d2ba9b86fa?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1005135947042770759"
+      },
+      "created_at": "2025-09-16T02:47:40.483Z",
+      "resolved_at": null,
+      "message": "@Amber Meryman @Tatiana Mirson curious why we're removing the 2 extra options from the context menu, especially the F/C switch?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4629:45160",
+        "node_offset": {
+          "x": 408,
+          "y": 199
+        },
+        "stable_path": [
+          "4629:45160"
+        ]
+      },
+      "order_id": "152"
+    },
+    {
+      "id": "1426915457",
+      "uuid": "b5d9126a-6285-4941-9a76-10edb7e7a85c",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Reem Hamoui",
+        "img_url": "https://www.gravatar.com/avatar/c30cc318c5f6fd74b9b283d2ba9b86fa?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1005135947042770759"
+      },
+      "created_at": "2025-09-16T02:44:07.316Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson @Amber Meryman currently on new tab, when we have a messaging callout, it can't be closed if we click outside of it. This'll be a new feature we'll need to implement. It could be done but it means we'll also need to implement it on our current OMC callouts too for consistency, just a heads up. Maybe this can be a stretch goal just in case it takes some extra time?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4629:45155",
+        "node_offset": {
+          "x": 344,
+          "y": 218
+        },
+        "stable_path": [
+          "4629:45155"
+        ]
+      },
+      "order_id": "151"
+    },
+    {
+      "id": "1420528174",
+      "uuid": "31cf60d8-1d21-42a6-8b76-823adb1c763e",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-09-10T18:51:39.314Z",
+      "resolved_at": null,
+      "message": "\"What do you want to get done today?\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4846:95737",
+        "node_offset": {
+          "x": 247,
+          "y": 249
+        },
+        "stable_path": [
+          "4846:95737"
+        ]
+      },
+      "order_id": "150"
+    },
+    {
+      "id": "1420526836",
+      "uuid": "36906601-be3e-4f0a-a8e8-0973565455bb",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-09-10T18:50:43.311Z",
+      "resolved_at": null,
+      "message": "Checklist",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4846:95737",
+        "node_offset": {
+          "x": 124,
+          "y": 30
+        },
+        "stable_path": [
+          "4846:95737"
+        ]
+      },
+      "order_id": "149"
+    },
+    {
+      "id": "1418595336",
+      "uuid": "ba8f7109-2659-42da-96cc-0e65d1e8a65a",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Maxx Crawford",
+        "img_url": "https://s3-alpha.figma.com/profile/c2ff00c0-9a76-4112-b613-891afcc3091e",
+        "id": "860588100877622114"
+      },
+      "created_at": "2025-09-09T20:28:35.188Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson What does this mean?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4846:95785",
+        "node_offset": {
+          "x": 327,
+          "y": 203
+        },
+        "stable_path": [
+          "4846:95785"
+        ]
+      },
+      "order_id": "148"
+    },
+    {
+      "id": "1414283401",
+      "uuid": "4b151ac0-5419-4873-b375-94c1517df0f1",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-09-05T21:58:02.747Z",
+      "resolved_at": null,
+      "message": "Per thread, I agree with \"Start\" as the label here.\n\n\"Play\" is acceptable short term if we can't make the update for the experiment.\n\nhttps://mozilla.slack.com/archives/C089QMF6L4Q/p1757100042414869?thread_ts=1757088770.659279&cid=C089QMF6L4Q",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4846:96853",
+        "node_offset": {
+          "x": 183,
+          "y": 222
+        },
+        "stable_path": [
+          "4846:96853"
+        ]
+      },
+      "order_id": "146"
+    },
+    {
+      "id": "1413458459",
+      "uuid": "ee207146-fbdd-4fde-95ea-17d5ac0fbcd0",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-09-05T11:24:28.474Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson Are we okay sharing these with Accuweather now? I can export into a file so they have access? They wanted to ensure we have all the icons for the weather options. :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4730:47530",
+        "node_offset": {
+          "x": 1562,
+          "y": 63
+        },
+        "stable_path": [
+          "4730:47530"
+        ]
+      },
+      "order_id": "145"
+    },
+    {
+      "id": "1412629827",
+      "uuid": "a9d4c044-72e3-4c94-b176-8e1b0c40572c",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-09-04T22:08:58.077Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson please review the name for the group of \"day\"/\"week\" :) I am not good with content creation TBH",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4779:18082",
+        "node_offset": {
+          "x": 305,
+          "y": 48
+        },
+        "stable_path": [
+          "4779:18082"
+        ]
+      },
+      "order_id": "144"
+    },
+    {
+      "id": "1412619984",
+      "uuid": "d000c1e9-2cec-4dde-b46a-abc76d2126ba",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-09-04T21:55:45.511Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson I added annotations for images there since they will be providing an essential information. Please check which names you'd like them to be using (for all B-G ones)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4966:18946",
+        "node_offset": {
+          "x": 257,
+          "y": 46
+        },
+        "stable_path": [
+          "4966:18946"
+        ]
+      },
+      "order_id": "143"
+    },
+    {
+      "id": "1412538276",
+      "uuid": "89be181c-2b81-4e9d-bd78-2b1108c79ade",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-09-04T20:35:26.683Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson do you have color values that would be used against the darker background for the rain/blue and gray/cloud icons? Cannot check if they'll be 3:1 or higher in the color contrast against this brick-colored background (they're great against the dark color below)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4779:18511",
+        "node_offset": {
+          "x": 55,
+          "y": 52
+        },
+        "stable_path": [
+          "4779:18511"
+        ]
+      },
+      "order_id": "141"
+    },
+    {
+      "id": "1412534547",
+      "uuid": "232e0332-053e-48ce-977e-73f89abcd092",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-09-04T20:32:20.582Z",
+      "resolved_at": null,
+      "message": "the orange color here needs adjustment because it is an essential graphic (no text equivalent provided), thus needs to have 3:1 color contrast against its (light yellow) background (currently 2.2:1).\n\nSame would probably apply to the rain icon (blue) which is currently 2.2:1 against the light yellow. And the cloud (light gray) which is currently 1:1 against the light yellow. All have to be 3:1 or higher.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4779:18482",
+        "node_offset": {
+          "x": 53,
+          "y": 56
+        },
+        "stable_path": [
+          "4779:18482"
+        ]
+      },
+      "order_id": "140"
+    },
+    {
+      "id": "1412530342",
+      "uuid": "ebf036f4-4587-41e7-bcdf-76ac1e9b0e79",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-09-04T20:29:01.291Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson could we change the colors for the icons to have at least 3:1 in color contrast against their (light gray) background? The orange is 2.7:1 (hard to see), the blue is 2.1:1 (harder to discern),  and the cloud gray is 1.1:1 (hardly discernible). These icons are essential because there is no other on-screen equivalent of this information provided, thus they're failing under the Non-Text Contrast WCAG criterion",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4779:18482",
+        "node_offset": {
+          "x": 172,
+          "y": 172
+        },
+        "stable_path": [
+          "4779:18482"
+        ]
+      },
+      "order_id": "139"
+    },
+    {
+      "id": "1412525914",
+      "uuid": "6a9ff434-9117-43eb-96a2-30ac81e37010",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-09-04T20:25:42.118Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson here is the styling for the interactive main weather information, city selection, and the day/week toggle and non-interactive day/week forecast elements. If those are interactive too, please change the whole card to use button colors (yellow and gray, in this theme).\n\nFor engineers: the HCM styling for different states of the \"Today/week\" toggle could be found: https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1846-6225",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4779:19640",
+        "node_offset": {
+          "x": 238,
+          "y": 22
+        },
+        "stable_path": [
+          "4779:19640"
+        ]
+      },
+      "order_id": "138"
+    },
+    {
+      "id": "1412242805",
+      "uuid": "b8054844-fc7c-4db0-b84a-c544d934ef45",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-09-04T16:58:22.974Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson this is the default version, correct?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4855:29895",
+        "node_offset": {
+          "x": 142,
+          "y": 228
+        },
+        "stable_path": [
+          "4855:29895"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "1412169589",
+      "uuid": "ba5ac560-6f9f-4393-ac2a-d11434a2d1ea",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-09-04T16:10:59.249Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson for this color combination, since this is indicating weather conditions (is informative, not just decorative), we would need to use Text/Background color combination (would be white and black on this theme). To bring more attention, maybe we could reverse the colors (so it would appear as white background and black text/icon on it) - I'll add an example below, use whichever you like :)\n\nI also corrected some colors for buttons (\"ghost\" buttons are not yet auto-changing the background to the one that appears a bit grayish in our theme)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4779:19612",
+        "node_offset": {
+          "x": 50,
+          "y": 12
+        },
+        "stable_path": [
+          "4779:19612"
+        ]
+      },
+      "order_id": "136"
+    },
+    {
+      "id": "1412151569",
+      "uuid": "2e7b5bc3-99c2-43ad-82e8-189b0be92725",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-09-04T15:59:52.703Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson does the \"Sponsored\" text or \"Accuweather\" (or both) do anything if clicked? If it is interactive, we could use LinkText color for HCM",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4779:19626",
+        "node_offset": {
+          "x": 125,
+          "y": 74
+        },
+        "stable_path": [
+          "4779:19626"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "1410445473",
+      "uuid": "e6b95687-981d-4b3a-a13c-ae7e6feae35b",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-09-03T19:33:10.682Z",
+      "resolved_at": null,
+      "message": "Since we don't have a defined section header, no double wides and there's a visual gap, it would be great to use an ad to fill the space until we have more widgets. It's also worth considering as we scale the placement of the widgets to use ads as the filler of spaces. This is a better alternative to leaving it blank.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4855:40948",
+        "node_offset": {
+          "x": 1142,
+          "y": 428
+        },
+        "stable_path": [
+          "4855:40948"
+        ]
+      },
+      "order_id": "131"
+    },
+    {
+      "id": "1410179689",
+      "uuid": "7860a975-a655-4e13-8d54-213ef54303e0",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-09-03T16:29:48.416Z",
+      "resolved_at": null,
+      "message": "The center alignment cause the cards to not be visually anchored. They feel like they\u2019re \u201cfloating.\u201d This reduces the sense of structure and hierarchy on the page, which could increase cognitive load and slow down comprehension.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4855:29895",
+        "node_offset": {
+          "x": 1056,
+          "y": 330
+        },
+        "stable_path": [
+          "4855:29895"
+        ]
+      },
+      "order_id": "129"
+    },
+    {
+      "id": "1409819826",
+      "uuid": "83f891d8-40c6-4601-9e5f-9c739b2808db",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-09-03T13:39:30.908Z",
+      "resolved_at": null,
+      "message": "Should we update \"Switch to detailed\" to say \"Switch to Forecast widget\" or something like that? cc: @Brent Trotter",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4730:47337",
+        "node_offset": {
+          "x": 122,
+          "y": 62
+        },
+        "stable_path": [
+          "4730:47337"
+        ]
+      },
+      "order_id": "128"
+    },
+    {
+      "id": "1409803348",
+      "uuid": "a9fbedef-1874-4ffc-846d-63247c28ed2a",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-09-03T13:32:34.170Z",
+      "resolved_at": null,
+      "message": "Go to the 1.5",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4824:40991",
+        "node_offset": {
+          "x": 1061,
+          "y": 362
+        },
+        "stable_path": [
+          "4824:40991"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "1409700629",
+      "uuid": "e37f4792-05d8-403a-bda8-91817c2161d3",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-09-03T12:45:36.815Z",
+      "resolved_at": null,
+      "message": "Collapsible possible?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4824:47581",
+        "node_offset": {
+          "x": 1297,
+          "y": 296
+        },
+        "stable_path": [
+          "4824:47581"
+        ]
+      },
+      "order_id": "126"
+    },
+    {
+      "id": "1409697128",
+      "uuid": "aae28eb5-1a33-480a-a611-fa8bd4f950f6",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-09-03T12:43:53.001Z",
+      "resolved_at": null,
+      "message": "Gap smaller",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4824:47581",
+        "node_offset": {
+          "x": 1162,
+          "y": 324
+        },
+        "stable_path": [
+          "4824:47581"
+        ]
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "1409679973",
+      "uuid": "23c76bd9-7b1f-4bdf-bb9d-3efaa620f458",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-09-03T12:35:26.290Z",
+      "resolved_at": null,
+      "message": "Full height, for 4 and 3 columns list to be double the size, and add a container / title that makes all widgets familiar",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4824:39880",
+        "node_offset": {
+          "x": 1029,
+          "y": 402
+        },
+        "stable_path": [
+          "4824:39880"
+        ]
+      },
+      "order_id": "124"
+    },
+    {
+      "id": "1409671304",
+      "uuid": "66e87626-0910-46db-8935-a55de0bea532",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-09-03T12:31:03.654Z",
+      "resolved_at": null,
+      "message": "Balance of the space if one is open",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4833:63733",
+        "node_offset": {
+          "x": 694,
+          "y": 469
+        },
+        "stable_path": [
+          "4833:63733"
+        ]
+      },
+      "order_id": "123"
+    },
+    {
+      "id": "1409660429",
+      "uuid": "07e2103a-aa77-4090-b3b0-672e49fe58ac",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-09-03T12:25:45.243Z",
+      "resolved_at": null,
+      "message": "Not having dynamic height, have a height fixed",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4824:40991",
+        "node_offset": {
+          "x": 629,
+          "y": 409
+        },
+        "stable_path": [
+          "4824:40991"
+        ]
+      },
+      "order_id": "122"
+    },
+    {
+      "id": "1409658318",
+      "uuid": "498db144-a117-4d7d-b6c8-8faeefe2b76a",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-09-03T12:24:41.566Z",
+      "resolved_at": null,
+      "message": "Go for a double wide for 3 column",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4825:23659",
+        "node_offset": {
+          "x": 501,
+          "y": 539
+        },
+        "stable_path": [
+          "4825:23659"
+        ]
+      },
+      "order_id": "121"
+    },
+    {
+      "id": "1409633209",
+      "uuid": "d76460fa-661c-4569-abff-d0deeab616d1",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-09-03T12:11:47.673Z",
+      "resolved_at": null,
+      "message": "Add a title of the widget",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4781:25216",
+        "node_offset": {
+          "x": 290,
+          "y": 11
+        },
+        "stable_path": [
+          "4781:25216"
+        ]
+      },
+      "order_id": "120"
+    },
+    {
+      "id": "1400567330",
+      "uuid": "e943a251-ae9f-4f67-8d04-0d21acd73a3c",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-08-27T13:57:23.080Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson I think we talked about using a single static image here, in gray, maybe for New York City (in English - not sure what else might be better??) so users know they'll see weather in general here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4629:43603",
+        "node_offset": {
+          "x": 1258,
+          "y": 63
+        },
+        "stable_path": [
+          "4629:43603"
+        ]
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "1398553110",
+      "uuid": "c982dde1-6470-4bce-ace2-6a96fef6cd92",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-08-26T13:42:58.191Z",
+      "resolved_at": null,
+      "message": "Missing cases:\n* Users within the grid\n* users with grid and above\n*",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4730:51996",
+        "node_offset": {
+          "x": 3527,
+          "y": 5323
+        },
+        "stable_path": [
+          "4730:51996"
+        ]
+      },
+      "order_id": "116"
+    },
+    {
+      "id": "1396750888",
+      "uuid": "401d7e41-48e2-4bc6-993c-bea9b349b615",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-08-25T14:53:36.469Z",
+      "resolved_at": null,
+      "message": "WEatjer conditions\nWEather forecast",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4557:62552",
+        "node_offset": {
+          "x": 1281,
+          "y": 93
+        },
+        "stable_path": [
+          "4557:62552"
+        ]
+      },
+      "order_id": "115"
+    },
+    {
+      "id": "1394558623",
+      "uuid": "afe7783c-2ff6-43a3-b06f-38208569d707",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-08-22T14:09:21.898Z",
+      "resolved_at": null,
+      "message": "This combines both the current conditions and the forecast. Do we have one that includes ONLY a forecast, without the current conditions (or a lot smaller)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4487:15926",
+        "node_offset": {
+          "x": 408,
+          "y": 406
+        },
+        "stable_path": [
+          "4487:15926"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "1393020272",
+      "uuid": "4647c7d7-7999-4adf-bff4-eb04526f4dc2",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-08-21T16:25:00.244Z",
+      "resolved_at": null,
+      "message": "We need to combine these so they work in Firefox Labs.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4040:9898",
+        "node_offset": {
+          "x": 418,
+          "y": 38
+        },
+        "stable_path": [
+          "4040:9898"
+        ]
+      },
+      "order_id": "113"
+    },
+    {
+      "id": "1391042198",
+      "uuid": "88c3ab2a-ea79-45fa-864c-aabdd2a66f94",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2025-08-20T16:36:43.521Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson Dropped in a simple illustration here - lmk what you think",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4093:4607",
+        "node_offset": {
+          "x": 756,
+          "y": 583
+        },
+        "stable_path": [
+          "4093:4607"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "1388824271",
+      "uuid": "7f616e7d-ea30-4721-8b85-f45422b5932a",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-08-19T14:51:37.625Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter confirm if this is the complete list of alerts and how they're written for users",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3974:4721",
+        "node_offset": {
+          "x": 3706,
+          "y": 259
+        },
+        "stable_path": [
+          "3974:4721"
+        ]
+      },
+      "order_id": "111"
+    },
+    {
+      "id": "1388802565",
+      "uuid": "d87eb866-cd8e-46fc-bd8d-02bd950dcb8f",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-08-19T14:42:09.295Z",
+      "resolved_at": null,
+      "message": "no permissions prompt necessary",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4243:4671",
+        "node_offset": {
+          "x": 1317,
+          "y": 170
+        },
+        "stable_path": [
+          "4243:4671"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "1381947468",
+      "uuid": "699a7216-d137-4f85-9b5f-db74a6b22c1f",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-08-13T20:13:54.518Z",
+      "resolved_at": null,
+      "message": "What about adding a \"right in your browser\" at the very end? Some feedback from Carolyn has been that we need to connect these tools to the browser-ness of Firefox itself.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4089:3813",
+        "node_offset": {
+          "x": 207,
+          "y": 91
+        },
+        "stable_path": [
+          "4089:3813"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "1381945695",
+      "uuid": "ad9ab362-17cf-488b-b1e4-e1c203b28452",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-08-13T20:12:34.857Z",
+      "resolved_at": null,
+      "message": "The title seems too long too me (or the box too small). Do we need the \"built-in\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4089:3813",
+        "node_offset": {
+          "x": 305,
+          "y": 81
+        },
+        "stable_path": [
+          "4089:3813"
+        ]
+      },
+      "order_id": "107"
+    },
+    {
+      "id": "1381422532",
+      "uuid": "f442e65a-9052-4f36-ade1-df2c815faf97",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-08-13T14:40:40.731Z",
+      "resolved_at": null,
+      "message": "Shorter \"Make the most of your day\" Headline.  I like this Body, but I'd update \"snack breaks\" to \"rest breaks\" or something? Oh, and \"on task\" should be singular, I think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4044:10942",
+        "node_offset": {
+          "x": 320,
+          "y": 45
+        },
+        "stable_path": [
+          "4044:10942"
+        ]
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "1381421816",
+      "uuid": "dc81a423-6bfb-4666-bde9-cab0426a0ceb",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-08-13T14:40:21.519Z",
+      "resolved_at": null,
+      "message": "I'm not sure we need the \"with lists and timer\" since it should be clear what they are?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4044:10778",
+        "node_offset": {
+          "x": 277,
+          "y": 27
+        },
+        "stable_path": [
+          "4044:10778"
+        ]
+      },
+      "order_id": "105"
+    },
+    {
+      "id": "1381416669",
+      "uuid": "85e53d8e-5212-4965-a77c-1035962b0a94",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-08-13T14:38:01.172Z",
+      "resolved_at": null,
+      "message": "I like the body of this, but with the slightly shorter headline above, fwiw",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4044:10924",
+        "node_offset": {
+          "x": 333,
+          "y": 59
+        },
+        "stable_path": [
+          "4044:10924"
+        ]
+      },
+      "order_id": "104"
+    },
+    {
+      "id": "1374174387",
+      "uuid": "2fbef718-85fe-4f9b-99a9-d39f07753b9f",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-08-07T18:43:52.195Z",
+      "resolved_at": null,
+      "message": "reminders\ntravel plans\nvacation bucket list\nwish lists",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3634:9243",
+        "node_offset": {
+          "x": 481,
+          "y": 408
+        },
+        "stable_path": [
+          "3634:9243"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "1374171819",
+      "uuid": "9a4006f4-ce79-441f-b7e1-6e0642c85095",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-08-07T18:42:05.249Z",
+      "resolved_at": null,
+      "message": "Wondering if you can lose \"Pomodoro\" style. I had to look it up. A riff could be \"Set a timer to keep you focused...\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3634:9261",
+        "node_offset": {
+          "x": 627,
+          "y": 51
+        },
+        "stable_path": [
+          "3634:9261"
+        ]
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "1374170215",
+      "uuid": "3941abcf-8bcc-4ec3-ac14-b2d79fb56022",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-08-07T18:40:57.742Z",
+      "resolved_at": null,
+      "message": "I prefer the first one with a single sentence! \n\nThe focus is implied so like the brevity of the first one.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3634:9261",
+        "node_offset": {
+          "x": 638,
+          "y": 31
+        },
+        "stable_path": [
+          "3634:9261"
+        ]
+      },
+      "order_id": "101"
+    },
+    {
+      "id": "1374169189",
+      "uuid": "b83b4db0-50c0-4469-91a7-a4aaafc11bc3",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-08-07T18:40:13.092Z",
+      "resolved_at": null,
+      "message": "Curious why you chose \"for\" vs. \"on\" here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3634:9260",
+        "node_offset": {
+          "x": 138,
+          "y": 106
+        },
+        "stable_path": [
+          "3634:9260"
+        ]
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "1374167528",
+      "uuid": "79dd94f2-8879-4d4b-a4ed-124158076861",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-08-07T18:38:59.803Z",
+      "resolved_at": null,
+      "message": "i prefer this one, it helps me imagine how I'm going to use it. I keep feeling like I want the body copy to reinforce where to find it, but I don't have a good solve for it",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3634:9243",
+        "node_offset": {
+          "x": 700,
+          "y": 294
+        },
+        "stable_path": [
+          "3634:9243"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "1374167391",
+      "uuid": "bfb2d309-9f74-45ee-aee9-f57774f85fde",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-08-07T18:38:54.282Z",
+      "resolved_at": null,
+      "message": "Since the focus is on the list vs. the action of turning a tab into a list, this first one explain that a bit more clearly to me.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3634:9244",
+        "node_offset": {
+          "x": 633,
+          "y": 32
+        },
+        "stable_path": [
+          "3634:9244"
+        ]
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "1373907147",
+      "uuid": "e7176fe0-caaf-4afe-9c2b-420090d9a4f4",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-08-07T15:41:43.368Z",
+      "resolved_at": null,
+      "message": "Hourly weather",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3805:84070",
+        "node_offset": {
+          "x": 270,
+          "y": 192
+        },
+        "stable_path": [
+          "3805:84070"
+        ]
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "1373885085",
+      "uuid": "ff079bd6-312e-4bd7-a103-c902437ef8c3",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-08-07T15:29:39.114Z",
+      "resolved_at": null,
+      "message": "Jim - Locale EN-US for many countries",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3024:7717",
+        "node_offset": {
+          "x": 4761,
+          "y": -122
+        },
+        "stable_path": [
+          "3024:7717"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "1372322649",
+      "uuid": "b6497b12-6c0a-4ebe-a467-89883417162d",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-08-06T20:12:44.899Z",
+      "resolved_at": null,
+      "message": "Alt: Can you explore a direction where the up-front benefit is about tracking/remembering tasks? E.g. \"Keep your tasks top-of-mind with lists on your new tab page. From to-do lists to shopping lists, make your plans in Firefox.\"\n\nI do like the snappiness of last sentence, but maybe you don't need it?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3634:9243",
+        "node_offset": {
+          "x": 73,
+          "y": 24
+        },
+        "stable_path": [
+          "3634:9243"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "1372320623",
+      "uuid": "19ae7926-5e94-4ad1-b6f5-93509f13cab3",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-08-06T20:11:10.148Z",
+      "resolved_at": null,
+      "message": "I prefer this version, as it's short and clear!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3634:9261",
+        "node_offset": {
+          "x": 260,
+          "y": 29
+        },
+        "stable_path": [
+          "3634:9261"
+        ]
+      },
+      "order_id": "94"
+    },
+    {
+      "id": "1366116809",
+      "uuid": "68e6bff0-cb58-4f95-a2c9-f3181aa17241",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Maxx Crawford",
+        "img_url": "https://s3-alpha.figma.com/profile/c2ff00c0-9a76-4112-b613-891afcc3091e",
+        "id": "860588100877622114"
+      },
+      "created_at": "2025-08-01T18:10:24.025Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson @Brent Trotter We need an error message for when a user has too exceeded the character limit",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2609:116834",
+        "node_offset": {
+          "x": 275,
+          "y": 88
+        },
+        "stable_path": [
+          "2609:116834"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "1364580264",
+      "uuid": "923eff0c-adea-403f-bb4f-583eb5f68a46",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-07-31T19:33:40.148Z",
+      "resolved_at": null,
+      "message": "\u201cThe first task is the deepest.\u201d",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 433,
+          "y": 581
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "1364580078",
+      "uuid": "1ab979d8-3197-4b08-a95a-adbc918a1e9e",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-07-31T19:33:30.630Z",
+      "resolved_at": null,
+      "message": "Blank list energy.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 49,
+          "y": 190
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "1364578880",
+      "uuid": "a0c48cbc-c2e2-46bd-a117-4369d0437409",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-07-31T19:32:26.612Z",
+      "resolved_at": null,
+      "message": "No tasks, bruh? (Jules-inspired)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 45,
+          "y": 146
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "1364578784",
+      "uuid": "81e8d842-ea7b-4d7b-b70b-7cb1cf2c8fec",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-07-31T19:32:21.862Z",
+      "resolved_at": null,
+      "message": "No tasks? You're one chill fox.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 575,
+          "y": 117
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "1364578424",
+      "uuid": "3e0d1dd3-ba03-466c-ada6-c2820f67983e",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-07-31T19:32:03.278Z",
+      "resolved_at": null,
+      "message": "Smart foxes know when to rest.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 539,
+          "y": 576
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "1364578276",
+      "uuid": "731be856-f9a5-406d-929c-c356cbe66d51",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-07-31T19:31:54.680Z",
+      "resolved_at": null,
+      "message": "\u201cQuiet as a fox in the moonlight.\u201d",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 106,
+          "y": 131
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "1364577606",
+      "uuid": "65bd0951-f8ce-44fb-aaa1-0784ae250d23",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-07-31T19:31:20.544Z",
+      "resolved_at": null,
+      "message": "\u201cBeing is enough. Doing is optional.\u201d",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 487,
+          "y": 580
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "1364541484",
+      "uuid": "7c71b745-92ca-4a1c-a32d-2190c9806e07",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-07-31T19:02:57.809Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter Wolasi had an idea of some kind of message when someone COMPLETES all their tasks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35848",
+        "node_offset": {
+          "x": 346,
+          "y": 158
+        },
+        "stable_path": [
+          "3374:35848"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "1364532552",
+      "uuid": "1d435ec9-59c6-411b-bcc8-47884e28efc3",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-07-31T18:55:56.434Z",
+      "resolved_at": null,
+      "message": "Possibility rests here. Fill it when you're ready.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 431,
+          "y": 626
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "1364531602",
+      "uuid": "c7b96b44-9a72-48fb-b539-0f1dc535e3fd",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T18:55:10.954Z",
+      "resolved_at": null,
+      "message": "Let's start with a small step.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 131,
+          "y": 584
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "1364530988",
+      "uuid": "734d12c6-6164-43e9-910d-93badd692272",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-07-31T18:54:40.691Z",
+      "resolved_at": null,
+      "message": "\"Clear list\"? maybe to be closer",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-08-01T10:39:19.384Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3374:35698",
+        "node_offset": {
+          "x": 182,
+          "y": 65
+        },
+        "stable_path": [
+          "3374:35698"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1364530785",
+      "uuid": "a6e7e96e-9a3f-44bd-8153-819e433abc42",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T18:54:29.901Z",
+      "resolved_at": null,
+      "message": "Turn \"One day\" into \"Day one.\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 495,
+          "y": 137
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1364530198",
+      "uuid": "c1b757c8-4743-4e3d-b8cb-21fa366759ff",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T18:54:03.643Z",
+      "resolved_at": null,
+      "message": "Just keep swimming.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 108,
+          "y": 183
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1364530023",
+      "uuid": "a753715b-b7e1-48f8-993b-25c053f034ba",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T18:53:56.699Z",
+      "resolved_at": null,
+      "message": "Big things start with small beginnings.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 427,
+          "y": 121
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1364529681",
+      "uuid": "c3381e34-7d1b-4382-aff2-09be384d01b5",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-07-31T18:53:39.977Z",
+      "resolved_at": null,
+      "message": "What do you want to get done today?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 57,
+          "y": 606
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1364529473",
+      "uuid": "bc5da299-6f55-48db-be02-4ae77c2d08d4",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T18:53:30.504Z",
+      "resolved_at": null,
+      "message": "To do? More like, to done, amirite?",
+      "reactions": [
+        {
+          "emoji": ":joy:",
+          "created_at": "2025-07-31T18:53:58.934Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 49,
+          "y": 256
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1364528736",
+      "uuid": "43d2405c-85b6-474c-983a-9b2852a2c30f",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-07-31T18:52:58.056Z",
+      "resolved_at": null,
+      "message": "Potentially bad riffs:\n\nYour day has potential. Add an idea?\nThe possibilities are endless. Add one here.",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-07-31T18:53:18.377Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3374:35676",
+        "node_offset": {
+          "x": 187,
+          "y": 22
+        },
+        "stable_path": [
+          "3374:35676"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "1364528551",
+      "uuid": "03778fb3-ae76-47a6-b010-97df04de34f2",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T18:52:48.742Z",
+      "resolved_at": null,
+      "message": "Take a breath. We're here when you're ready.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 482,
+          "y": 628
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "1364527957",
+      "uuid": "ed500e98-f09c-41b0-bbd3-5c1cbd0d61ff",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-07-31T18:52:21.532Z",
+      "resolved_at": null,
+      "message": "Add something to cross \"Make a list\" off your to-do list.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 54,
+          "y": 669
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "1364527674",
+      "uuid": "75c3f47f-7a4c-49a7-b13f-eb7590a37e2b",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-07-31T18:52:09.163Z",
+      "resolved_at": null,
+      "message": "General comment - I wonder how more foxes can be included :D",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35664",
+        "node_offset": {
+          "x": 18,
+          "y": 18
+        },
+        "stable_path": [
+          "3374:35664"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1364526476",
+      "uuid": "34016f7c-205a-4a82-816d-35bdd869891c",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-07-31T18:51:18.330Z",
+      "resolved_at": null,
+      "message": "I like",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-07-31T18:54:50.184Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3374:35720",
+        "node_offset": {
+          "x": 164,
+          "y": 99
+        },
+        "stable_path": [
+          "3374:35720"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1364526354",
+      "uuid": "61858ef1-3797-46e7-b277-86abeedd0f6c",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-07-31T18:51:11.885Z",
+      "resolved_at": null,
+      "message": "\"Got something to do\" option feels more boring/basic than everything else. I prefer the first action-oriented copy better. Feels more upbeat.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35742",
+        "node_offset": {
+          "x": 189,
+          "y": 25
+        },
+        "stable_path": [
+          "3374:35742"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "1364526122",
+      "uuid": "748cccc0-0a32-4d34-8616-188cea9a4012",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T18:51:01.659Z",
+      "resolved_at": null,
+      "message": "A clear list? Treat yo' self.",
+      "reactions": [
+        {
+          "emoji": ":laughing:",
+          "created_at": "2025-07-31T18:51:57.781Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 107,
+          "y": 257
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1364525872",
+      "uuid": "bb5afe09-84e6-4208-95da-1262b766af5e",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-07-31T18:50:51.463Z",
+      "resolved_at": null,
+      "message": "Also love this very much. Allison Robins in UXR did a nice readout that would support this.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35720",
+        "node_offset": {
+          "x": 235,
+          "y": 100
+        },
+        "stable_path": [
+          "3374:35720"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1364525346",
+      "uuid": "d99c50d4-9dff-44ad-9c47-d3937122b822",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-07-31T18:50:26.726Z",
+      "resolved_at": null,
+      "message": "Lil typo here - and I think if we are doing an easter egg, needs to be more interesting",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-07-31T18:50:41.901Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 194,
+          "y": 174
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1364525335",
+      "uuid": "ca1f80bd-9e12-46e8-a9bc-2ac741dda054",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-07-31T18:50:26.143Z",
+      "resolved_at": null,
+      "message": "I also like the reassuring/zen ones quite a bit!",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-07-31T18:51:20.758Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3374:35709",
+        "node_offset": {
+          "x": 287,
+          "y": 107
+        },
+        "stable_path": [
+          "3374:35709"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1364525010",
+      "uuid": "541e18e2-eb36-4a39-be6b-c1e41c74700f",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-07-31T18:50:11.576Z",
+      "resolved_at": null,
+      "message": "Today, choose your own adventure.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35898",
+        "node_offset": {
+          "x": 153,
+          "y": 672
+        },
+        "stable_path": [
+          "3374:35898"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1364524514",
+      "uuid": "49d82967-def3-4a51-9a77-671887d475db",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-07-31T18:49:47.905Z",
+      "resolved_at": null,
+      "message": "I like \"nothing here\" better than \"your day\" because not everyone will use the task list like a daily list/schedule.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35676",
+        "node_offset": {
+          "x": 255,
+          "y": 114
+        },
+        "stable_path": [
+          "3374:35676"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1364524307",
+      "uuid": "d8d074fb-9cbb-4472-9725-82de85d2183e",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-07-31T18:49:38.885Z",
+      "resolved_at": null,
+      "message": "I love this one so much.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35676",
+        "node_offset": {
+          "x": 257,
+          "y": 32
+        },
+        "stable_path": [
+          "3374:35676"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1364524100",
+      "uuid": "3d38b956-370d-4eff-b37e-bb302b6a1e2d",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-07-31T18:49:29.898Z",
+      "resolved_at": null,
+      "message": "Potentially terrible idea, but could the empty state copy appear within the empty item to keep things streamlined?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35665",
+        "node_offset": {
+          "x": 232,
+          "y": 65
+        },
+        "stable_path": [
+          "3374:35665"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "1364523780",
+      "uuid": "2383d695-f8c1-4009-a6d9-0aaad1b33420",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-07-31T18:49:14.709Z",
+      "resolved_at": null,
+      "message": "These are fun but prob not the best of localization/globalization. If we did these, we might need fallback strings for non-english/US.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3374:35664",
+        "node_offset": {
+          "x": 196,
+          "y": 47
+        },
+        "stable_path": [
+          "3374:35664"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "1363507680",
+      "uuid": "7430d003-f3ce-4c93-a8be-74646daedecc",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-07-31T09:23:03.986Z",
+      "resolved_at": null,
+      "message": "@Maxx Crawford \n\nDoes tapping the notification take you back to the tab?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3440:8443",
+        "node_offset": {
+          "x": 225,
+          "y": 156
+        },
+        "stable_path": [
+          "3440:8443"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1361970913",
+      "uuid": "0b9bfa82-cb7f-4c02-82f9-832e57ec9320",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Amber Meryman",
+        "img_url": "https://www.gravatar.com/avatar/e8b869f9ddc10298637d29757760e299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1116075326792746943"
+      },
+      "created_at": "2025-07-30T13:19:58.917Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson Do you know if there's a way to make this go away after a \"few days\" or how that might work? If not, let's talk to Eng about it soon. Thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2609:117192",
+        "node_offset": {
+          "x": 372,
+          "y": 55
+        },
+        "stable_path": [
+          "2609:117192"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "1360155678",
+      "uuid": "8b352807-132f-474e-be28-241094d2eaa5",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-29T14:53:10.853Z",
+      "resolved_at": null,
+      "message": "This may see like it is not available weather",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3029:21202",
+        "node_offset": {
+          "x": 115,
+          "y": 14
+        },
+        "stable_path": [
+          "3029:21202"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1360144275",
+      "uuid": "ee6abae3-7f1e-4ea2-a784-5c8b8548adcc",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-29T14:48:20.362Z",
+      "resolved_at": null,
+      "message": "Keep on this direction",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3029:21662",
+        "node_offset": {
+          "x": 222,
+          "y": 407
+        },
+        "stable_path": [
+          "3029:21662"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1360137097",
+      "uuid": "86343f17-57eb-42f7-b202-68241ab89666",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-29T14:45:21.442Z",
+      "resolved_at": null,
+      "message": "This one as a recommendation.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3024:7818",
+        "node_offset": {
+          "x": 698,
+          "y": 492
+        },
+        "stable_path": [
+          "3024:7818"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1358248942",
+      "uuid": "07865e07-2c8f-463e-b0ae-de4e572c0ac9",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-28T15:32:14.812Z",
+      "resolved_at": null,
+      "message": "What if its a local trend of weather instead of a big city",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3024:7818",
+        "node_offset": {
+          "x": 787,
+          "y": 530
+        },
+        "stable_path": [
+          "3024:7818"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1358246447",
+      "uuid": "8afede01-73ed-4add-a167-bd4da219e7ed",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-28T15:30:47.806Z",
+      "resolved_at": null,
+      "message": "This option seems more enticing and even more if the pick city is more \"automatically\" than multiple choices to add location manually",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3024:7818",
+        "node_offset": {
+          "x": 642,
+          "y": 840
+        },
+        "stable_path": [
+          "3024:7818"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1358234133",
+      "uuid": "d9a7fb83-138a-45b7-84bc-c3ddb78ee8a0",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-28T15:24:02.056Z",
+      "resolved_at": null,
+      "message": "How can we use the location - geo location for not only inferred weather but also other parts of new tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3024:7717",
+        "node_offset": {
+          "x": 1579,
+          "y": 478
+        },
+        "stable_path": [
+          "3024:7717"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1350355746",
+      "uuid": "91889b95-e43b-4e3c-87dc-cb36c72ecb44",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-07-22T15:15:29.409Z",
+      "resolved_at": null,
+      "message": "@Maxx Crawford wanting to understand how this works a bit more.\n\nIf i turn this on (or off) does it turn on/off ALL Firefox browser notifications or just this one?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2609:119896",
+        "node_offset": {
+          "x": 124,
+          "y": 19
+        },
+        "stable_path": [
+          "2609:119896"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1344220064",
+      "uuid": "c7bd16f6-c9a6-4d23-8c33-2afc3a83ac29",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-17T12:41:45.702Z",
+      "resolved_at": null,
+      "message": "Potential idea to allow users to turn on auto-break",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2630:125119",
+        "node_offset": {
+          "x": 247,
+          "y": 116
+        },
+        "stable_path": [
+          "2630:125119"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1341564581",
+      "uuid": "1d236c8e-4e81-42f4-a2d2-c476cef692ea",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-16T07:14:28.939Z",
+      "resolved_at": null,
+      "message": "Show examples of the different columns 3/2/1",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2609:116568",
+        "node_offset": {
+          "x": 8750,
+          "y": 400
+        },
+        "stable_path": [
+          "2609:116568"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1341551662",
+      "uuid": "2af41a7c-ef04-4ffe-95ad-95b783719b01",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-16T07:07:23.194Z",
+      "resolved_at": null,
+      "message": "Gradient tokens",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2609:117858",
+        "node_offset": {
+          "x": 239,
+          "y": 97
+        },
+        "stable_path": [
+          "2609:117858"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1341537245",
+      "uuid": "63d60392-ae75-41f0-815a-5d78f3216d58",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-16T06:58:47.356Z",
+      "resolved_at": null,
+      "message": "Distinguish the different timers focus/break",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2609:117858",
+        "node_offset": {
+          "x": 209,
+          "y": 166
+        },
+        "stable_path": [
+          "2609:117858"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1340503405",
+      "uuid": "6a345a3b-83b0-4897-a8a8-94d18abe9f21",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-15T14:53:22.393Z",
+      "resolved_at": null,
+      "message": "Option to add sound",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2520:42873",
+        "node_offset": {
+          "x": 1239,
+          "y": 216
+        },
+        "stable_path": [
+          "2520:42873"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1338731747",
+      "uuid": "6d793e6e-a743-40a7-a46d-736fb2329038",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-14T16:38:27.783Z",
+      "resolved_at": null,
+      "message": "If user dont have notifications on ask them to enable it",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2520:6353",
+        "node_offset": {
+          "x": 402,
+          "y": 601
+        },
+        "stable_path": [
+          "2520:6353"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1338728920",
+      "uuid": "19c063d8-ae82-40a3-903e-71305cf294e7",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-14T16:36:19.458Z",
+      "resolved_at": null,
+      "message": "This may be harder",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2520:42873",
+        "node_offset": {
+          "x": 712,
+          "y": 547
+        },
+        "stable_path": [
+          "2520:42873"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1338547154",
+      "uuid": "c59519b4-0308-4491-82b0-a7aa1e20cc3b",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-14T14:46:22.401Z",
+      "resolved_at": null,
+      "message": "Remember that the user can have search and shortcuts off too",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2518:5378",
+        "node_offset": {
+          "x": 1207,
+          "y": 415
+        },
+        "stable_path": [
+          "2518:5378"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1338522380",
+      "uuid": "8083a320-e05c-471a-9cd3-657c228f26c4",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-14T14:33:36.739Z",
+      "resolved_at": null,
+      "message": "Can we make the edit inline",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2518:3799",
+        "node_offset": {
+          "x": 1199,
+          "y": 1116
+        },
+        "stable_path": [
+          "2518:3799"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1332758442",
+      "uuid": "8cbeb169-989b-4542-bd6f-4c356287cc24",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-09T14:49:23.307Z",
+      "resolved_at": null,
+      "message": "HOw they wrap? max characters",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2207:37803",
+        "node_offset": {
+          "x": 246,
+          "y": 135
+        },
+        "stable_path": [
+          "2207:37803"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1332749175",
+      "uuid": "98b6a279-6993-42f1-bfe4-f7aea4a2f750",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-09T14:45:11.528Z",
+      "resolved_at": null,
+      "message": "If the user complete multiple this we get confetti",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2207:38225",
+        "node_offset": {
+          "x": 49.96192909921865,
+          "y": 15.9609375
+        },
+        "stable_path": [
+          "2207:38225"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1332746760",
+      "uuid": "59be7b96-c6c2-4818-a97c-ee3dc3556bf2",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-07-09T14:44:06.027Z",
+      "resolved_at": null,
+      "message": "This version with the V3",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2204:37126",
+        "node_offset": {
+          "x": 286,
+          "y": 77
+        },
+        "stable_path": [
+          "2204:37126"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1324052898",
+      "uuid": "b97153aa-02bd-425f-a319-cb93b5cb2f00",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Maxx Crawford",
+        "img_url": "https://s3-alpha.figma.com/profile/c2ff00c0-9a76-4112-b613-891afcc3091e",
+        "id": "860588100877622114"
+      },
+      "created_at": "2025-07-02T21:35:06.767Z",
+      "resolved_at": null,
+      "message": "What is the state when a user exceeds this  length?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2254:58631",
+        "node_offset": {
+          "x": 571,
+          "y": 727
+        },
+        "stable_path": [
+          "2254:58631"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1317532438",
+      "uuid": "a69f2e2d-18fa-4be3-8392-26bea89f0306",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-06-27T13:59:48.489Z",
+      "resolved_at": null,
+      "message": "Doesnt look like a button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2272:42220",
+        "node_offset": {
+          "x": 839,
+          "y": 624
+        },
+        "stable_path": null
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1317514327",
+      "uuid": "5060a546-476c-4452-ab1f-f164428af0a5",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-06-27T13:49:21.620Z",
+      "resolved_at": null,
+      "message": "Could they uncheck an item?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2264:59541",
+        "node_offset": {
+          "x": 1118,
+          "y": 446
+        },
+        "stable_path": null
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1317512681",
+      "uuid": "cd0965c6-16ba-4cf3-a417-af272735305c",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-06-27T13:48:28.607Z",
+      "resolved_at": null,
+      "message": "See completed that its collapse",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2264:59541",
+        "node_offset": {
+          "x": 1157,
+          "y": 435
+        },
+        "stable_path": null
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1317511855",
+      "uuid": "c8a06a15-e2b4-4111-90bf-2000b8f6bcbe",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-06-27T13:48:01.260Z",
+      "resolved_at": null,
+      "message": "Eye icon to show or hide completed",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2264:59541",
+        "node_offset": {
+          "x": 1177,
+          "y": 373
+        },
+        "stable_path": null
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1317510182",
+      "uuid": "ca6ad8df-0c22-405c-b8a2-355abea0faec",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-06-27T13:47:07.135Z",
+      "resolved_at": null,
+      "message": "Think of a complete list",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2264:59541",
+        "node_offset": {
+          "x": 1174,
+          "y": 341
+        },
+        "stable_path": null
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1317509414",
+      "uuid": "2053d438-190b-460f-8aa4-ee9b2a7faca5",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-06-27T13:46:42.213Z",
+      "resolved_at": null,
+      "message": "Add one with the cross or without and delete it",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2264:59541",
+        "node_offset": {
+          "x": 1131,
+          "y": 406
+        },
+        "stable_path": null
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1315947998",
+      "uuid": "6f1df22b-c40e-4997-bbe3-8751d53bfd1c",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-06-26T14:59:47.413Z",
+      "resolved_at": null,
+      "message": "Collapse the note and when you click or hover it opens",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2215:36928",
+        "node_offset": {
+          "x": 523,
+          "y": 181
+        },
+        "stable_path": [
+          "2215:36928"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1315947385",
+      "uuid": "ceefc939-fe3c-4649-9f59-dd534bb655b1",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-06-26T14:59:29.638Z",
+      "resolved_at": null,
+      "message": "Test the stackable",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2208:38227",
+        "node_offset": {
+          "x": 2268,
+          "y": 212
+        },
+        "stable_path": [
+          "2208:38227"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1315944325",
+      "uuid": "9cba0e7f-4220-4cc8-bb16-7a5ccafeea56",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-06-26T14:58:02.577Z",
+      "resolved_at": null,
+      "message": "Moiz preference on the \"x\" because its cleaner",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2204:36950",
+        "node_offset": {
+          "x": 2659,
+          "y": 188
+        },
+        "stable_path": [
+          "2204:36950"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1315939343",
+      "uuid": "f73c9fd2-19c8-4efc-8efa-9c167ca744ba",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-06-26T14:55:42.879Z",
+      "resolved_at": null,
+      "message": "This one is more firefoxy",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2207:37893",
+        "node_offset": {
+          "x": 173,
+          "y": 31
+        },
+        "stable_path": [
+          "2207:37893"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1315841095",
+      "uuid": "1dc36a3e-08c0-4d63-a932-90ed476969ca",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-06-26T14:10:49.666Z",
+      "resolved_at": null,
+      "message": "Illustration for the empty state for notes and to do list",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2219:38022",
+        "node_offset": {
+          "x": 864,
+          "y": 428
+        },
+        "stable_path": [
+          "2219:38022"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1315826087",
+      "uuid": "087c36c6-2dd5-4bba-b6da-57bd16eaf219",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-06-26T14:03:55.735Z",
+      "resolved_at": null,
+      "message": "Just list\nand items",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2219:38022",
+        "node_offset": {
+          "x": 478,
+          "y": 365
+        },
+        "stable_path": [
+          "2219:38022"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1315803938",
+      "uuid": "6860d315-be1a-4dd5-953b-98e318b305b6",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-06-26T13:53:48.798Z",
+      "resolved_at": null,
+      "message": "Words can be distraction could we get it like the notes",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2219:38022",
+        "node_offset": {
+          "x": 377,
+          "y": 426
+        },
+        "stable_path": [
+          "2219:38022"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1315800526",
+      "uuid": "3e9a67c7-2720-45aa-8f1c-346f5aa05771",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Tatiana Mirson",
+        "img_url": "https://s3-alpha.figma.com/profile/64774295-5de9-45ce-b3d9-23776b70f7ce",
+        "id": "1059816309308267668"
+      },
+      "created_at": "2025-06-26T13:52:19.248Z",
+      "resolved_at": null,
+      "message": "How can we make it that the \"+\" is not always the first item they see",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2219:38022",
+        "node_offset": {
+          "x": 393,
+          "y": 411
+        },
+        "stable_path": [
+          "2219:38022"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1492464377",
+      "uuid": "bd289773-edb4-49f3-89c8-d690e7353dc9",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-10-30T15:22:02.321Z",
+      "resolved_at": null,
+      "message": "The contrast here is a little low",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6382:81490",
+        "node_offset": {
+          "x": 875,
+          "y": 420
+        },
+        "stable_path": [
+          "6382:81490"
+        ]
+      },
+      "order_id": "185"
+    },
+    {
+      "id": "1492445678",
+      "uuid": "2685b893-a805-4d78-b7cb-01c892ecf165",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-10-30T15:14:16.412Z",
+      "resolved_at": null,
+      "message": "This resets the timer right? If so maybe the arrow should be in the opposite direction of countdown animation?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6382:54299",
+        "node_offset": {
+          "x": 196,
+          "y": 251
+        },
+        "stable_path": [
+          "6382:54299"
+        ]
+      },
+      "order_id": "179"
+    },
+    {
+      "id": "1412629827",
+      "uuid": "a9d4c044-72e3-4c94-b176-8e1b0c40572c",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-09-04T22:08:58.077Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson please review the name for the group of \"day\"/\"week\" :) I am not good with content creation TBH",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4779:18082",
+        "node_offset": {
+          "x": 305,
+          "y": 48
+        },
+        "stable_path": [
+          "4779:18082"
+        ]
+      },
+      "order_id": "144"
+    },
+    {
+      "id": "1412619984",
+      "uuid": "d000c1e9-2cec-4dde-b46a-abc76d2126ba",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-09-04T21:55:45.511Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson I added annotations for images there since they will be providing an essential information. Please check which names you'd like them to be using (for all B-G ones)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4966:18946",
+        "node_offset": {
+          "x": 257,
+          "y": 46
+        },
+        "stable_path": [
+          "4966:18946"
+        ]
+      },
+      "order_id": "143"
+    },
+    {
+      "id": "1412538276",
+      "uuid": "89be181c-2b81-4e9d-bd78-2b1108c79ade",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-09-04T20:35:26.683Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson do you have color values that would be used against the darker background for the rain/blue and gray/cloud icons? Cannot check if they'll be 3:1 or higher in the color contrast against this brick-colored background (they're great against the dark color below)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4779:18511",
+        "node_offset": {
+          "x": 55,
+          "y": 52
+        },
+        "stable_path": [
+          "4779:18511"
+        ]
+      },
+      "order_id": "141"
+    },
+    {
+      "id": "1412534547",
+      "uuid": "232e0332-053e-48ce-977e-73f89abcd092",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-09-04T20:32:20.582Z",
+      "resolved_at": null,
+      "message": "the orange color here needs adjustment because it is an essential graphic (no text equivalent provided), thus needs to have 3:1 color contrast against its (light yellow) background (currently 2.2:1).\n\nSame would probably apply to the rain icon (blue) which is currently 2.2:1 against the light yellow. And the cloud (light gray) which is currently 1:1 against the light yellow. All have to be 3:1 or higher.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4779:18482",
+        "node_offset": {
+          "x": 53,
+          "y": 56
+        },
+        "stable_path": [
+          "4779:18482"
+        ]
+      },
+      "order_id": "140"
+    },
+    {
+      "id": "1412530342",
+      "uuid": "ebf036f4-4587-41e7-bcdf-76ac1e9b0e79",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-09-04T20:29:01.291Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson could we change the colors for the icons to have at least 3:1 in color contrast against their (light gray) background? The orange is 2.7:1 (hard to see), the blue is 2.1:1 (harder to discern),  and the cloud gray is 1.1:1 (hardly discernible). These icons are essential because there is no other on-screen equivalent of this information provided, thus they're failing under the Non-Text Contrast WCAG criterion",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4779:18482",
+        "node_offset": {
+          "x": 172,
+          "y": 172
+        },
+        "stable_path": [
+          "4779:18482"
+        ]
+      },
+      "order_id": "139"
+    },
+    {
+      "id": "1412525914",
+      "uuid": "6a9ff434-9117-43eb-96a2-30ac81e37010",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-09-04T20:25:42.118Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson here is the styling for the interactive main weather information, city selection, and the day/week toggle and non-interactive day/week forecast elements. If those are interactive too, please change the whole card to use button colors (yellow and gray, in this theme).\n\nFor engineers: the HCM styling for different states of the \"Today/week\" toggle could be found: https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1846-6225",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4779:19640",
+        "node_offset": {
+          "x": 238,
+          "y": 22
+        },
+        "stable_path": [
+          "4779:19640"
+        ]
+      },
+      "order_id": "138"
+    },
+    {
+      "id": "1412169589",
+      "uuid": "ba5ac560-6f9f-4393-ac2a-d11434a2d1ea",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-09-04T16:10:59.249Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson for this color combination, since this is indicating weather conditions (is informative, not just decorative), we would need to use Text/Background color combination (would be white and black on this theme). To bring more attention, maybe we could reverse the colors (so it would appear as white background and black text/icon on it) - I'll add an example below, use whichever you like :)\n\nI also corrected some colors for buttons (\"ghost\" buttons are not yet auto-changing the background to the one that appears a bit grayish in our theme)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4779:19612",
+        "node_offset": {
+          "x": 50,
+          "y": 12
+        },
+        "stable_path": [
+          "4779:19612"
+        ]
+      },
+      "order_id": "136"
+    },
+    {
+      "id": "1412151569",
+      "uuid": "2e7b5bc3-99c2-43ad-82e8-189b0be92725",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-09-04T15:59:52.703Z",
+      "resolved_at": null,
+      "message": "@Tatiana Mirson does the \"Sponsored\" text or \"Accuweather\" (or both) do anything if clicked? If it is interactive, we could use LinkText color for HCM",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4779:19626",
+        "node_offset": {
+          "x": 125,
+          "y": 74
+        },
+        "stable_path": [
+          "4779:19626"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "1410179689",
+      "uuid": "7860a975-a655-4e13-8d54-213ef54303e0",
+      "file_key": "ICnFf35mL4goRxuWShbsf3",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-09-03T16:29:48.416Z",
+      "resolved_at": null,
+      "message": "The center alignment cause the cards to not be visually anchored. They feel like they\u2019re \u201cfloating.\u201d This reduces the sense of structure and hierarchy on the page, which could increase cognitive load and slow down comprehension.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4855:29895",
+        "node_offset": {
+          "x": 1056,
+          "y": 330
+        },
+        "stable_path": [
+          "4855:29895"
+        ]
+      },
+      "order_id": "129"
+    }
+  ]
+}

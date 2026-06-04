@@ -1,0 +1,58 @@
+{
+  "unresolved": [
+    {
+      "id": "1140419314",
+      "uuid": "6fe65032-01eb-45b2-be4d-8073d03fdcb7",
+      "file_key": "H3Rme4LHUYj8zlfyivMRX6",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-02-19T22:01:56.442Z",
+      "resolved_at": null,
+      "message": "toolbarbutton is a type of a component that is specific for chrome UI. It has role=\"button\" though (but I have had engineers reaching out to clarify if those are different, so maybe we could keep it in there just in case)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8104:482",
+        "node_offset": {
+          "x": 254,
+          "y": 1745
+        },
+        "stable_path": [
+          "8104:482"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1140419314",
+      "uuid": "6fe65032-01eb-45b2-be4d-8073d03fdcb7",
+      "file_key": "H3Rme4LHUYj8zlfyivMRX6",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-02-19T22:01:56.442Z",
+      "resolved_at": null,
+      "message": "toolbarbutton is a type of a component that is specific for chrome UI. It has role=\"button\" though (but I have had engineers reaching out to clarify if those are different, so maybe we could keep it in there just in case)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8104:482",
+        "node_offset": {
+          "x": 254,
+          "y": 1745
+        },
+        "stable_path": [
+          "8104:482"
+        ]
+      },
+      "order_id": "1"
+    }
+  ]
+}

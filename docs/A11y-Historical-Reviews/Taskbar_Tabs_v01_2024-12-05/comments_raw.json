@@ -1,0 +1,1460 @@
+{
+  "unresolved": [
+    {
+      "id": "1452508495",
+      "uuid": "84836cf0-7403-4cb5-9fb2-10d49200bc03",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Alejandro Savransky",
+        "img_url": "https://s3-alpha.figma.com/profile/1baf5d9e-72c1-43ce-aaf6-8734ef02beb1",
+        "id": "1549498647920188412"
+      },
+      "created_at": "2025-10-02T17:55:45.165Z",
+      "resolved_at": null,
+      "message": "Are these the copy options you put together, @Jeff Pfaller? If so, I like the 3rd one best because of the \"like an app\" reference.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10268:12860",
+        "node_offset": {
+          "x": 1248,
+          "y": 761
+        },
+        "stable_path": [
+          "10268:12860"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "1452283161",
+      "uuid": "22931916-6364-44e9-a160-6076fd3e933d",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-10-02T15:29:19.826Z",
+      "resolved_at": null,
+      "message": "Is \"Open\" the only action we can trigger from here? @Victoria Wang @Emily McMinn @Alejandro Savransky",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10268:12860",
+        "node_offset": {
+          "x": 165,
+          "y": 841
+        },
+        "stable_path": [
+          "10268:12860"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "1377837034",
+      "uuid": "e1f60120-2134-43b0-8ffd-a4da3d49a36a",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-08-11T17:50:48.689Z",
+      "resolved_at": null,
+      "message": "EU can be a challenge b/c of EU Privacy Directive. Not supposed to process user web activity except for as necessary to use the service. Not the worst violation, risk is low. May be a risk of snowball effect.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9650:6204",
+        "node_offset": {
+          "x": 6112,
+          "y": 824
+        },
+        "stable_path": [
+          "9650:6204"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1377637365",
+      "uuid": "40cefac2-4ca1-4783-8d84-50849e9d2f88",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-08-11T15:31:43.200Z",
+      "resolved_at": null,
+      "message": "IMDB feels slightly out of place among this group. @Venetia Tay",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9873:5659",
+        "node_offset": {
+          "x": 1373,
+          "y": 150
+        },
+        "stable_path": [
+          "9873:5659"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1374154598",
+      "uuid": "fcb35b25-387a-4853-a84e-e7ecdf1d60e9",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-08-07T18:29:19.461Z",
+      "resolved_at": null,
+      "message": "Small riff for the headline: \nYour go-to site. Firefox's built-in protection. \n^ A bit more specific on the why",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-08-07T18:29:40.125Z",
+          "user": {
+            "id": "1083509274597697392",
+            "handle": "Jeff Pfaller",
+            "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9658:6444",
+        "node_offset": {
+          "x": 1608,
+          "y": 477
+        },
+        "stable_path": [
+          "9658:6444"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1374149639",
+      "uuid": "b206eeb3-fc4a-4a11-b5f1-0d707c7bdd8e",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-08-07T18:25:49.644Z",
+      "resolved_at": null,
+      "message": "How do we differentiate the icon in the taskbar vs. the native app",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9658:6444",
+        "node_offset": {
+          "x": 864,
+          "y": 174
+        },
+        "stable_path": [
+          "9658:6444"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1372382429",
+      "uuid": "aeada83c-a431-410f-ac1b-df6eb57c04e0",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Alex Davis",
+        "img_url": "https://www.gravatar.com/avatar/68149170177a9fa00989b5492cd40c1e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "852991211915660228"
+      },
+      "created_at": "2025-08-06T21:01:18.093Z",
+      "resolved_at": null,
+      "message": "I'm a big fan of this value proposition, i.e. quick access to favorite site.\n\nIn order to change it to a call to action, I would recommend something along these lines:\n\nTitle: Add this site [directly] to your taskbar\nBody: Get back to this site in one click from your taskbar [and with less distractions].",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9658:6444",
+        "node_offset": {
+          "x": 393,
+          "y": 496
+        },
+        "stable_path": [
+          "9658:6444"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1371903567",
+      "uuid": "fbe2c970-0b8c-4b35-a91a-2d60dc2f4563",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Carolyn O'Hara",
+        "img_url": "https://www.gravatar.com/avatar/17537db85719a3b765a5813c7372bf8d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1224728332082222547"
+      },
+      "created_at": "2025-08-06T15:24:30.284Z",
+      "resolved_at": null,
+      "message": "Further to note above, curious if we are trying to pack too much in here - one click, no distractions, Fx protections. Let's try one or more with the value laser focused on this being easy access to my favorite sites (time, convenience etc)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9658:6444",
+        "node_offset": {
+          "x": 472,
+          "y": 483
+        },
+        "stable_path": [
+          "9658:6444"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1371899607",
+      "uuid": "df0062d9-609b-4adc-af33-0b89a56f9a50",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Carolyn O'Hara",
+        "img_url": "https://www.gravatar.com/avatar/17537db85719a3b765a5813c7372bf8d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1224728332082222547"
+      },
+      "created_at": "2025-08-06T15:22:30.399Z",
+      "resolved_at": null,
+      "message": "@Venetia Tay @Jeff Pfaller I'd hypothesize that the main user benefit of taskbar tabs is quick access to my favorite sites. Yes, we are making the implementation more secure/private, and that's going to be a + for some, but the benefit to me is probably quick access. So I would be interested in seeing a few more variations of the copy that lean into this user value - Pin your favorite site, One-click/easy access to your most visited destinations etc.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9687:1276",
+        "node_offset": {
+          "x": 434,
+          "y": 827.818115234375
+        },
+        "stable_path": [
+          "9687:1276"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1071235562",
+      "uuid": "e7b64797-b21d-4b20-863f-9bb45fea98b0",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-12-19T16:40:47.500Z",
+      "resolved_at": null,
+      "message": "Do we control this text? @Misha Bruk",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8718:16373",
+        "node_offset": {
+          "x": 1335,
+          "y": 997
+        },
+        "stable_path": [
+          "8718:16373"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1071233146",
+      "uuid": "287cb0dc-50f4-4079-9c18-e5fcfce8cae6",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-12-19T16:38:59.620Z",
+      "resolved_at": null,
+      "message": "For this A11Y alt text / aria \"Remove tab from taskbar\" @Misha Bruk",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8718:12163",
+        "node_offset": {
+          "x": 1484,
+          "y": 68
+        },
+        "stable_path": [
+          "8718:12163"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1068083943",
+      "uuid": "f8a5a2f0-7d8a-4155-a0ec-f5b12ddfcef9",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-17T19:54:38.630Z",
+      "resolved_at": null,
+      "message": "hey @Misha Bruk ! When the user clicks on ESPN from the taskbar, will it always open in a separate window? Is there ever an instance when it would open in the current browser window that's open (when applicable)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8718:12163",
+        "node_offset": {
+          "x": 1157,
+          "y": 1088
+        },
+        "stable_path": [
+          "8718:12163"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1066380157",
+      "uuid": "d3740d47-27e0-48c4-9d42-635ab129d5cd",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-16T21:02:32.671Z",
+      "resolved_at": null,
+      "message": "Hi @Misha Bruk ! Thought of something else - this dialog that asks if you'd like to pin ESPN to the taskbar, is that by us or the user's system? If we create the dialog, is there a way we could have it in the center or closer to the button that prompts this? It would be nicer to have it closer by for those that use screen magnification so that they don't have to drag things around to find the dialog :grin:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8718:12163",
+        "node_offset": {
+          "x": 1352,
+          "y": 975
+        },
+        "stable_path": [
+          "8718:12163"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1064328657",
+      "uuid": "c767c0a7-9fb2-42c4-b7ef-e9919dd368de",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-13T20:48:17.579Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk this is the button I referred to in my recent comment. Does this 'uninstall' from the task bar?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8718:12163",
+        "node_offset": {
+          "x": 1509,
+          "y": 79
+        },
+        "stable_path": [
+          "8718:12163"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1057029831",
+      "uuid": "25460270-9095-4ad5-b10f-4c0c0fa10f86",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-09T15:36:49.769Z",
+      "resolved_at": null,
+      "message": "Hi @Misha Bruk ! What is the difference between this icon and the one below in 'Open taskbar tab 02' (https://www.figma.com/design/04Ea8UQwlJr5eoKwdrgmqv/Taskbar-Tabs---v0.1?node-id=8730-9305&t=CFWHTszZvmQxflur-4) where the arrow is at the top right? Thank you :smile:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8718:11591",
+        "node_offset": {
+          "x": 260,
+          "y": 119
+        },
+        "stable_path": [
+          "8718:11591"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1055375701",
+      "uuid": "14e68865-ccd6-4d97-99b8-970edfcbd23d",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-06T21:49:49.802Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk will every webpage have the option to add to taskbar? I noticed the button is missing for the Wikipedia example",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8718:13253",
+        "node_offset": {
+          "x": 1993,
+          "y": 359
+        },
+        "stable_path": [
+          "8718:13253"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1055374995",
+      "uuid": "a26bef19-90e1-4c3f-aefa-93d1eff2df7c",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-06T21:48:43.963Z",
+      "resolved_at": null,
+      "message": "Hi @Misha Bruk - will the Callout Confirmation page have anything letting the user know that a page was added to the taskbar successfully? Thank you :grin:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8718:11460",
+        "node_offset": {
+          "x": 3029,
+          "y": 335
+        },
+        "stable_path": [
+          "8718:11460"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1055148070",
+      "uuid": "d36ccb9f-dc2d-47ed-ab91-124634d91fc1",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "David Rubino",
+        "img_url": "https://www.gravatar.com/avatar/523c56c2e68a1a3207ced9963a5534e7?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1245785946040273695"
+      },
+      "created_at": "2024-12-06T17:37:34.906Z",
+      "resolved_at": null,
+      "message": "Didn't catch this in the review. This also probably won't be straightforward, right @Eric Chen? Certainly the address bar doesn't have an existing mode for this. \n\nIt's a possible reason for the favicon to instead be an instance of the tab ocject so that it can do everything a tab can do.... including audio controls... without any special work.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8718:16867",
+        "node_offset": {
+          "x": 223,
+          "y": 0
+        },
+        "stable_path": [
+          "8718:16867"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1055065384",
+      "uuid": "7ffd42c6-a81f-47aa-8728-c75f0505a0e5",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2024-12-06T16:27:09.119Z",
+      "resolved_at": null,
+      "message": "have the rightclick context menu for the tab, don't combine",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4914:45043",
+        "node_offset": {
+          "x": 1931,
+          "y": 200
+        },
+        "stable_path": [
+          "4914:45043"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "1041790765",
+      "uuid": "21383260-f3f0-420a-88e2-85e92b7dad9e",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-11-26T18:29:56.341Z",
+      "resolved_at": null,
+      "message": "Do people comprehend that this is added outside FX?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8496:12807",
+        "node_offset": {
+          "x": 1567,
+          "y": 466
+        },
+        "stable_path": [
+          "8496:12807"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1041788316",
+      "uuid": "152c066e-eea9-45b3-8df5-aa3ce19cf1ff",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-11-26T18:28:00.320Z",
+      "resolved_at": null,
+      "message": "Lean toward 'pin' verb b/c its Windows term",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8496:12941",
+        "node_offset": {
+          "x": 1518,
+          "y": 883
+        },
+        "stable_path": [
+          "8496:12941"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1041781891",
+      "uuid": "ad1dc852-3be6-4a02-8152-6e5aa33d0bd2",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-11-26T18:23:07.223Z",
+      "resolved_at": null,
+      "message": "Do people understand what's meant by an app?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8497:17429",
+        "node_offset": {
+          "x": 951,
+          "y": 104
+        },
+        "stable_path": [
+          "8497:17429"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1041777410",
+      "uuid": "e18d7490-e051-4d34-bf70-05be72256bc6",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-11-26T18:19:44.617Z",
+      "resolved_at": null,
+      "message": "Does this mean anything to a user / do they understand the implications",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8496:12807",
+        "node_offset": {
+          "x": 1429,
+          "y": 388
+        },
+        "stable_path": [
+          "8496:12807"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1036487956",
+      "uuid": "779bc2d9-4ebb-4502-bc7e-22f04478acb2",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "David Rubino",
+        "img_url": "https://www.gravatar.com/avatar/523c56c2e68a1a3207ced9963a5534e7?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1245785946040273695"
+      },
+      "created_at": "2024-11-22T00:24:43.383Z",
+      "resolved_at": null,
+      "message": "We don't control this context menu (known as the \"jumplist\") in the same way as other context menus. It will by default show these options for all running windows:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8597:12753",
+        "node_offset": {
+          "x": 2004,
+          "y": 6919
+        },
+        "stable_path": [
+          "8597:12753"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1036486195",
+      "uuid": "3a66ee34-bc59-415b-a04f-901e5534ce64",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "David Rubino",
+        "img_url": "https://www.gravatar.com/avatar/523c56c2e68a1a3207ced9963a5534e7?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1245785946040273695"
+      },
+      "created_at": "2024-11-22T00:21:46.682Z",
+      "resolved_at": null,
+      "message": "I can't think of any other action for this button that \"Remove ESPN from taskbar\" so I'm not sure it needs a context menu. Just clicking the button does that.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8647:14583",
+        "node_offset": {
+          "x": 1283,
+          "y": 51
+        },
+        "stable_path": [
+          "8647:14583"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1036480021",
+      "uuid": "3dcf39ea-ccab-44ac-80cb-d5213880dd0c",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2024-11-22T00:10:37.883Z",
+      "resolved_at": null,
+      "message": "@Markus Jaritz a couple of q's: \n1. do we want to add another entry point for removing the taskbar tab besides the context menu in the taskbar and the context menu in the icon\n2. what else should be in the context menu?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8597:12753",
+        "node_offset": {
+          "x": 2106,
+          "y": 6923
+        },
+        "stable_path": [
+          "8597:12753"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1036423169",
+      "uuid": "3a2fd733-227e-4e71-a757-29e7f035d7e9",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "David Rubino",
+        "img_url": "https://www.gravatar.com/avatar/523c56c2e68a1a3207ced9963a5534e7?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1245785946040273695"
+      },
+      "created_at": "2024-11-21T22:42:32.111Z",
+      "resolved_at": null,
+      "message": "Would like to understand whether this callout appears 1) automatically, 2) on hover of the pin icon, 3) on click of the pin icon. \n\nI think it would be automatically... but in that case, I would want to strategize about how often. First visit to any site with a PWA mainfest? First visit to every site with a PWA manifest? I think it's actually something more like... we use some data and intuition to build a set of sites that WE think are the best showcases of this feature. For example, we would not choose ESPN even though it's a popular site with a PWA manifest, because it's not very \"app like\". We would choose GMail and Facebook though. \n\nUntil you run across such a site, perhaps you jump to the in-bar message on the next slide.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8634:6971",
+        "node_offset": {
+          "x": 1269.825927734375,
+          "y": 47.1103515625
+        },
+        "stable_path": [
+          "8634:6971"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1036422305",
+      "uuid": "21bc3c1c-46b9-4241-8820-e0c958359e74",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2024-11-21T22:41:25.683Z",
+      "resolved_at": null,
+      "message": "Started mocking up a confirmation toast, but I just noticed the Windows system confirmation, as well as the way the taskbar tab appears automatically after creation (I think? CC @Misha Bruk). If both of those happen it'll already feel like a lot of confirmation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8634:7765",
+        "node_offset": {
+          "x": 1067.825927734375,
+          "y": 1009
+        },
+        "stable_path": [
+          "8634:7765"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1036413345",
+      "uuid": "d1876b07-c72c-4233-bed2-c25f2b087521",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "David Rubino",
+        "img_url": "https://www.gravatar.com/avatar/523c56c2e68a1a3207ced9963a5534e7?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1245785946040273695"
+      },
+      "created_at": "2024-11-21T22:30:14.156Z",
+      "resolved_at": null,
+      "message": "LOL!",
+      "reactions": [
+        {
+          "emoji": ":sweat_smile:",
+          "created_at": "2024-11-22T13:19:15.989Z",
+          "user": {
+            "id": "936667295274236827",
+            "handle": "Markus Jaritz",
+            "img_url": "https://s3-alpha.figma.com/profile/af4cc728-e939-4f55-808a-e0fe1d47f0a1"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8634:6971",
+        "node_offset": {
+          "x": 722.825927734375,
+          "y": 1089.1103515625
+        },
+        "stable_path": [
+          "8634:6971"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1027129814",
+      "uuid": "e27ebba7-2f16-43ec-ae4d-6bb4157da047",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "David Rubino",
+        "img_url": "https://www.gravatar.com/avatar/523c56c2e68a1a3207ced9963a5534e7?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1245785946040273695"
+      },
+      "created_at": "2024-11-15T01:29:16.235Z",
+      "resolved_at": null,
+      "message": "I envision pressing this button moves the tab to the taskbar immediately, without an extra click. Is this callout a confirmation after clicking? Or is something that appears on hover? Or is it something that just pops up (a CFR message only triggered once or twice?)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8497:17429",
+        "node_offset": {
+          "x": 1274,
+          "y": 80
+        },
+        "stable_path": [
+          "8497:17429"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1027128171",
+      "uuid": "e526c7bc-5199-4133-a8ee-7bc201834df8",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "David Rubino",
+        "img_url": "https://www.gravatar.com/avatar/523c56c2e68a1a3207ced9963a5534e7?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1245785946040273695"
+      },
+      "created_at": "2024-11-15T01:26:18.142Z",
+      "resolved_at": null,
+      "message": "We should consider the word \"move\" or something similar. Doing this will move the tab to a new window and otherwise not be disruptive. Possibly we should underscore that.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8497:17429",
+        "node_offset": {
+          "x": 1260,
+          "y": 220
+        },
+        "stable_path": [
+          "8497:17429"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1026736054",
+      "uuid": "8fcfd0b2-5226-4816-b8ef-3cc7698a3316",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "David Rubino",
+        "img_url": "https://www.gravatar.com/avatar/523c56c2e68a1a3207ced9963a5534e7?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1245785946040273695"
+      },
+      "created_at": "2024-11-14T18:23:18.710Z",
+      "resolved_at": null,
+      "message": "\"Open in existing separate window\" is not exactly right. Since taskbar tab windows don't have tabs in the MEP, clicking this would always open the site in a new window. The only distinction about what is \"existing\" or not is whether the site is already installed.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8521:3201",
+        "node_offset": {
+          "x": 192,
+          "y": 126
+        },
+        "stable_path": [
+          "8521:3201"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1026683351",
+      "uuid": "9d7b44bb-e34f-4fba-9a70-8aba5861df9a",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Markus Jaritz",
+        "img_url": "https://s3-alpha.figma.com/profile/af4cc728-e939-4f55-808a-e0fe1d47f0a1",
+        "id": "936667295274236827"
+      },
+      "created_at": "2024-11-14T17:44:10.690Z",
+      "resolved_at": null,
+      "message": "would use this placement for the title if we do bigger panel",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-11-18T20:17:15.804Z",
+          "user": {
+            "id": "1113946896976654346",
+            "handle": "Misha Bruk",
+            "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8497:17661",
+        "node_offset": {
+          "x": 1100,
+          "y": 120
+        },
+        "stable_path": [
+          "8497:17661"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1026456232",
+      "uuid": "0099c885-4cc7-4288-84c9-cbec4e21ba8b",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Markus Jaritz",
+        "img_url": "https://s3-alpha.figma.com/profile/af4cc728-e939-4f55-808a-e0fe1d47f0a1",
+        "id": "936667295274236827"
+      },
+      "created_at": "2024-11-14T15:28:52.643Z",
+      "resolved_at": null,
+      "message": "I do think the spec said we need those - but worth checking again, I am not fully confident on that.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8521:3133",
+        "node_offset": {
+          "x": 326,
+          "y": 162
+        },
+        "stable_path": [
+          "8521:3133"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1026355183",
+      "uuid": "38e85637-09a4-43d2-8d5c-85ca2b055ea4",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Markus Jaritz",
+        "img_url": "https://s3-alpha.figma.com/profile/af4cc728-e939-4f55-808a-e0fe1d47f0a1",
+        "id": "936667295274236827"
+      },
+      "created_at": "2024-11-14T14:38:12.053Z",
+      "resolved_at": null,
+      "message": "@Victoria Wang - would could use your help on onboarding for the first Taskbar Tab experiment.\nWe are defining the feature, but also starting to talk about how to direct peoples attention to it at the right time, and who to communicate it when people see it for the first time.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8497:17661",
+        "node_offset": {
+          "x": 1167,
+          "y": 191
+        },
+        "stable_path": [
+          "8497:17661"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1026325814",
+      "uuid": "ea35c6aa-a6bf-4305-b93a-73287bba02d2",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Markus Jaritz",
+        "img_url": "https://s3-alpha.figma.com/profile/af4cc728-e939-4f55-808a-e0fe1d47f0a1",
+        "id": "936667295274236827"
+      },
+      "created_at": "2024-11-14T14:23:35.636Z",
+      "resolved_at": null,
+      "message": "I realized we need to clarify what icons we use. Created this to document what we had chatted about @Misha Bruk \n\nif you think any other icons make more sense for the experiment. please put those in the first column",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8521:3133",
+        "node_offset": {
+          "x": 222,
+          "y": 35
+        },
+        "stable_path": [
+          "8521:3133"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1024965970",
+      "uuid": "14516273-a608-4c09-b950-5be6b59f47bd",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-11-13T19:29:10.405Z",
+      "resolved_at": null,
+      "message": "Shorter riff: Launch favorite sites in one click. Stay focused with a streamlined window.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-11-13T19:58:01.698Z",
+          "user": {
+            "id": "1298754465457927621",
+            "handle": "Tina Vaamonde",
+            "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8497:17429",
+        "node_offset": {
+          "x": 989,
+          "y": 302
+        },
+        "stable_path": [
+          "8497:17429"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1013731130",
+      "uuid": "37ff62bd-a2f7-431d-8eca-d0ff17ad1f65",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-11-05T16:46:25.755Z",
+      "resolved_at": null,
+      "message": "Recommend using the Title / Name in the manifest, when available. If that's not available use the top level domain in the manifest. If that's not available, use the url (gmail.com)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8496:12941",
+        "node_offset": {
+          "x": 650,
+          "y": 94
+        },
+        "stable_path": [
+          "8496:12941"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1012347015",
+      "uuid": "812bad03-6e9b-459f-92e5-740eda9d7e6c",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-11-04T22:56:18.188Z",
+      "resolved_at": null,
+      "message": "I don't think we need a learn more link here. Did you all consider an illustration? @Misha Bruk @Markus Jaritz",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8195:13051",
+        "node_offset": {
+          "x": 398,
+          "y": 168
+        },
+        "stable_path": [
+          "8195:13051"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1012338850",
+      "uuid": "2ecf235d-5ca9-43fb-ac6b-e3b40fb6e0fb",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2024-11-04T22:45:04.432Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller i think we were originally looking at some kinda in context thing for onboarding like this",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8496:12832",
+        "node_offset": {
+          "x": 1293,
+          "y": 76
+        },
+        "stable_path": [
+          "8496:12832"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "992115861",
+      "uuid": "2b5c4967-5bfc-4f25-9981-081e3bcab603",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Markus Jaritz",
+        "img_url": "https://s3-alpha.figma.com/profile/af4cc728-e939-4f55-808a-e0fe1d47f0a1",
+        "id": "936667295274236827"
+      },
+      "created_at": "2024-10-18T14:12:38.467Z",
+      "resolved_at": null,
+      "message": "need to remember to update this icon once I page is pinned",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8195:14762",
+        "node_offset": {
+          "x": 13156,
+          "y": 152
+        },
+        "stable_path": [
+          "8195:14762"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "992040778",
+      "uuid": "c528307e-cd77-4c59-854e-ddf9ea91d295",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Markus Jaritz",
+        "img_url": "https://s3-alpha.figma.com/profile/af4cc728-e939-4f55-808a-e0fe1d47f0a1",
+        "id": "936667295274236827"
+      },
+      "created_at": "2024-10-18T13:27:24.870Z",
+      "resolved_at": null,
+      "message": "just realized PiP icon is really close in style to these... might have worked really well for pinned tabs",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8210:5404",
+        "node_offset": {
+          "x": 68,
+          "y": 40
+        },
+        "stable_path": [
+          "8210:5404"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "991053109",
+      "uuid": "4eae0f66-6caa-48a7-bddc-f78843e005f9",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2024-10-17T21:28:42.783Z",
+      "resolved_at": null,
+      "message": "@Markus Jaritz i think the pin and the arrow are good directions here. i'm exploring some concepts below. i think the section 2 icon looks too much like our container icon so i would vote against that direction for this reason",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8189:1502",
+        "node_offset": {
+          "x": 15,
+          "y": 2
+        },
+        "stable_path": [
+          "8189:1502"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "989975283",
+      "uuid": "f24f77eb-b6db-4591-8581-ffb12e48e278",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Markus Jaritz",
+        "img_url": "https://s3-alpha.figma.com/profile/af4cc728-e939-4f55-808a-e0fe1d47f0a1",
+        "id": "936667295274236827"
+      },
+      "created_at": "2024-10-17T09:44:59.599Z",
+      "resolved_at": null,
+      "message": "curious about your ideas for icons\nonce we have some drafts, we can put in a request to have those created",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8153:3548",
+        "node_offset": {
+          "x": 1687,
+          "y": 429
+        },
+        "stable_path": [
+          "8153:3548"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "989913253",
+      "uuid": "639f725a-c29a-4877-a746-e36aba86b9bc",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Markus Jaritz",
+        "img_url": "https://s3-alpha.figma.com/profile/af4cc728-e939-4f55-808a-e0fe1d47f0a1",
+        "id": "936667295274236827"
+      },
+      "created_at": "2024-10-17T09:14:29.686Z",
+      "resolved_at": null,
+      "message": "one the one side this might strengthen brand association, on the other hand, it might reduce the readability of the icon.\nI would recommend going without the badge unless we can identify a need to differentiate (e.g. multi-profile, or we detect another PWA for the same domain)",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-10-17T21:05:38.823Z",
+          "user": {
+            "id": "1113946896976654346",
+            "handle": "Misha Bruk",
+            "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8153:4157",
+        "node_offset": {
+          "x": 261,
+          "y": 5
+        },
+        "stable_path": [
+          "8153:4157"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "989824069",
+      "uuid": "c89c38c2-ad2d-4c21-9e41-b476e90dcedc",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Markus Jaritz",
+        "img_url": "https://s3-alpha.figma.com/profile/af4cc728-e939-4f55-808a-e0fe1d47f0a1",
+        "id": "936667295274236827"
+      },
+      "created_at": "2024-10-17T08:30:18.978Z",
+      "resolved_at": null,
+      "message": "adding this reference for the variety of win 11 title bars\nnot all apps use them, some windows apps  started to integrate them some more into the ui over keeping them fully seperate. like the chrome and edge PWAs we had looked at.\n\nWhat they have in common is that the logo and title are left aligned and that the window controls aren't separated within the bar, but the bar is separated by color or line from the ui below",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4903:29469",
+        "node_offset": {
+          "x": 9160,
+          "y": -543
+        },
+        "stable_path": [
+          "4903:29469"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "978505357",
+      "uuid": "2d958c5d-67c3-47c1-aca8-bfc366ed67f2",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Markus Jaritz",
+        "img_url": "https://s3-alpha.figma.com/profile/af4cc728-e939-4f55-808a-e0fe1d47f0a1",
+        "id": "936667295274236827"
+      },
+      "created_at": "2024-10-08T18:03:50.246Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk all the screenshots I took while we talked - happy to make more detailed ones if helpful, or fullscreen ones\nfeel free to move them wherever you see fit",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "0:1",
+        "node_offset": {
+          "x": 14303,
+          "y": -3334
+        },
+        "stable_path": [
+          "0:1"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1071233146",
+      "uuid": "287cb0dc-50f4-4079-9c18-e5fcfce8cae6",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-12-19T16:38:59.620Z",
+      "resolved_at": null,
+      "message": "For this A11Y alt text / aria \"Remove tab from taskbar\" @Misha Bruk",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8718:12163",
+        "node_offset": {
+          "x": 1484,
+          "y": 68
+        },
+        "stable_path": [
+          "8718:12163"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1068083943",
+      "uuid": "f8a5a2f0-7d8a-4155-a0ec-f5b12ddfcef9",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-17T19:54:38.630Z",
+      "resolved_at": null,
+      "message": "hey @Misha Bruk ! When the user clicks on ESPN from the taskbar, will it always open in a separate window? Is there ever an instance when it would open in the current browser window that's open (when applicable)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8718:12163",
+        "node_offset": {
+          "x": 1157,
+          "y": 1088
+        },
+        "stable_path": [
+          "8718:12163"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1066380157",
+      "uuid": "d3740d47-27e0-48c4-9d42-635ab129d5cd",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-16T21:02:32.671Z",
+      "resolved_at": null,
+      "message": "Hi @Misha Bruk ! Thought of something else - this dialog that asks if you'd like to pin ESPN to the taskbar, is that by us or the user's system? If we create the dialog, is there a way we could have it in the center or closer to the button that prompts this? It would be nicer to have it closer by for those that use screen magnification so that they don't have to drag things around to find the dialog :grin:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8718:12163",
+        "node_offset": {
+          "x": 1352,
+          "y": 975
+        },
+        "stable_path": [
+          "8718:12163"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1064328657",
+      "uuid": "c767c0a7-9fb2-42c4-b7ef-e9919dd368de",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-13T20:48:17.579Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk this is the button I referred to in my recent comment. Does this 'uninstall' from the task bar?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8718:12163",
+        "node_offset": {
+          "x": 1509,
+          "y": 79
+        },
+        "stable_path": [
+          "8718:12163"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1057029831",
+      "uuid": "25460270-9095-4ad5-b10f-4c0c0fa10f86",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-09T15:36:49.769Z",
+      "resolved_at": null,
+      "message": "Hi @Misha Bruk ! What is the difference between this icon and the one below in 'Open taskbar tab 02' (https://www.figma.com/design/04Ea8UQwlJr5eoKwdrgmqv/Taskbar-Tabs---v0.1?node-id=8730-9305&t=CFWHTszZvmQxflur-4) where the arrow is at the top right? Thank you :smile:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8718:11591",
+        "node_offset": {
+          "x": 260,
+          "y": 119
+        },
+        "stable_path": [
+          "8718:11591"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1055375701",
+      "uuid": "14e68865-ccd6-4d97-99b8-970edfcbd23d",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-06T21:49:49.802Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk will every webpage have the option to add to taskbar? I noticed the button is missing for the Wikipedia example",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8718:13253",
+        "node_offset": {
+          "x": 1993,
+          "y": 359
+        },
+        "stable_path": [
+          "8718:13253"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1055374995",
+      "uuid": "a26bef19-90e1-4c3f-aefa-93d1eff2df7c",
+      "file_key": "04Ea8UQwlJr5eoKwdrgmqv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-06T21:48:43.963Z",
+      "resolved_at": null,
+      "message": "Hi @Misha Bruk - will the Callout Confirmation page have anything letting the user know that a page was added to the taskbar successfully? Thank you :grin:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8718:11460",
+        "node_offset": {
+          "x": 3029,
+          "y": 335
+        },
+        "stable_path": [
+          "8718:11460"
+        ]
+      },
+      "order_id": "49"
+    }
+  ]
+}

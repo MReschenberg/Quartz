@@ -1,0 +1,4360 @@
+{
+  "unresolved": [
+    {
+      "id": "1537531780",
+      "uuid": "fe8698a7-bfbc-413b-ba67-032778a1a574",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-12-01T16:11:14.019Z",
+      "resolved_at": null,
+      "message": "@Vasant Kumar",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17409:19933",
+        "node_offset": {
+          "x": 558,
+          "y": 829
+        },
+        "stable_path": [
+          "17409:19933"
+        ]
+      },
+      "order_id": "245"
+    },
+    {
+      "id": "1232779320",
+      "uuid": "4fdf5bc1-c1e9-4e8d-aaab-6d1d7b6f8cd6",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Delphine Lebedel",
+        "img_url": "https://www.gravatar.com/avatar/4daa5d2f98be4c688d011d918551cf96?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "951582568550763403"
+      },
+      "created_at": "2025-04-25T16:52:59.059Z",
+      "resolved_at": null,
+      "message": "Nit: \"in\" the middle",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16238:6604",
+        "node_offset": {
+          "x": 247,
+          "y": 119
+        },
+        "stable_path": [
+          "16238:6604"
+        ]
+      },
+      "order_id": "240"
+    },
+    {
+      "id": "1220740395",
+      "uuid": "bf730913-3e91-4ed1-8ecc-74e128c5d541",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-04-16T22:46:08.608Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier This black and white icon is technically in the \"Other\" category since it's partially an icon variation as well as a color change. Should we change out this icon to another color so it matches the text? Or we may not want to test this copy at all since we are offering icons that are more than just a color change.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16096:38274",
+        "node_offset": {
+          "x": 341,
+          "y": 180
+        },
+        "stable_path": [
+          "16096:38274"
+        ]
+      },
+      "order_id": "237"
+    },
+    {
+      "id": "1220301097",
+      "uuid": "391324aa-7bb4-4806-bc1e-5c2bcf4ebbbb",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2025-04-16T16:44:14.176Z",
+      "resolved_at": null,
+      "message": "cc: @Jane Wolf",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16145:33975",
+        "node_offset": {
+          "x": 192,
+          "y": 54
+        },
+        "stable_path": [
+          "16145:33975"
+        ]
+      },
+      "order_id": "236"
+    },
+    {
+      "id": "1220300956",
+      "uuid": "558fe797-cbf1-4067-8a61-ecd789fa0a3f",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2025-04-16T16:44:09.483Z",
+      "resolved_at": null,
+      "message": "cc: @Jane Wolf",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16145:33824",
+        "node_offset": {
+          "x": 96,
+          "y": 135
+        },
+        "stable_path": [
+          "16145:33824"
+        ]
+      },
+      "order_id": "235"
+    },
+    {
+      "id": "1220300797",
+      "uuid": "f4c8c911-d102-4e06-bac9-43e8977042c4",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2025-04-16T16:44:03.489Z",
+      "resolved_at": null,
+      "message": "cc: @Jane Wolf",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16145:33820",
+        "node_offset": {
+          "x": 57,
+          "y": 93
+        },
+        "stable_path": [
+          "16145:33820"
+        ]
+      },
+      "order_id": "234"
+    },
+    {
+      "id": "1220300615",
+      "uuid": "a4fd2f0b-d0b7-4d54-a85f-038f46cb8156",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2025-04-16T16:43:56.651Z",
+      "resolved_at": null,
+      "message": "cc: @Jane Wolf",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16023:7405",
+        "node_offset": {
+          "x": 2069,
+          "y": 2753
+        },
+        "stable_path": [
+          "16023:7405"
+        ]
+      },
+      "order_id": "233"
+    },
+    {
+      "id": "1208483123",
+      "uuid": "7e8afd24-1d09-48cf-beab-58b8313d01ee",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-08T20:02:21.574Z",
+      "resolved_at": null,
+      "message": "Some thoughts: \n* It looks like the icon isn't just color so I'd choose options that are broader than that descriptor\n* OPO: \"Customize\" strikes me as something bigger/more dynamic. \n* Since this is a notification, the \"new\" aspect feels appropriate to use here (answers the question, why are you messaging me now?)\n\nRiffs: \nNew Firefox app icons\nPick a fave fox for your home screen\n\nMake Firefox your own \nNew app icons for your home screen",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15993:19516",
+        "node_offset": {
+          "x": 951,
+          "y": 373
+        },
+        "stable_path": [
+          "15993:19516"
+        ]
+      },
+      "order_id": "232"
+    },
+    {
+      "id": "1200383342",
+      "uuid": "4ff39df4-8f51-45f0-9d69-266ab4d6b991",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tom White",
+        "img_url": "https://www.gravatar.com/avatar/22a9310c1f58a884132acc7cea6f3c6b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1166366970359969104"
+      },
+      "created_at": "2025-04-02T17:14:43.511Z",
+      "resolved_at": null,
+      "message": "should 'three' be '3'? @Tina Vaamonde",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14570:54953",
+        "node_offset": {
+          "x": 173,
+          "y": 54
+        },
+        "stable_path": [
+          "14570:54953"
+        ]
+      },
+      "order_id": "231"
+    },
+    {
+      "id": "1200381813",
+      "uuid": "bcf4dde9-d01e-4290-870a-213bfca2861a",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tom White",
+        "img_url": "https://www.gravatar.com/avatar/22a9310c1f58a884132acc7cea6f3c6b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1166366970359969104"
+      },
+      "created_at": "2025-04-02T17:13:43.258Z",
+      "resolved_at": null,
+      "message": "Should 'two' be '2'? @Gabrielle Lussier, @Tina Vaamonde",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15274:82579",
+        "node_offset": {
+          "x": 121,
+          "y": 59
+        },
+        "stable_path": [
+          "15274:82579"
+        ]
+      },
+      "order_id": "230"
+    },
+    {
+      "id": "1200381301",
+      "uuid": "a905e0fa-59f1-4f95-97b8-c3269ac8e933",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tom White",
+        "img_url": "https://www.gravatar.com/avatar/22a9310c1f58a884132acc7cea6f3c6b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1166366970359969104"
+      },
+      "created_at": "2025-04-02T17:13:21.216Z",
+      "resolved_at": null,
+      "message": "This title is different ot the others, is that intentional? @Gabrielle Lussier, @Tina Vaamonde",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14570:56818",
+        "node_offset": {
+          "x": 138,
+          "y": 28
+        },
+        "stable_path": [
+          "14570:56818"
+        ]
+      },
+      "order_id": "229"
+    },
+    {
+      "id": "1174426614",
+      "uuid": "f670e73e-79ee-4f95-91a7-c1e118d548e8",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-03-14T21:52:30.099Z",
+      "resolved_at": null,
+      "message": "@Delphine Lebedel This is the only  screen in the main onboarding experience that needs L10n review.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14412:55808",
+        "node_offset": {
+          "x": 1426,
+          "y": 1419
+        },
+        "stable_path": [
+          "14412:55808"
+        ]
+      },
+      "order_id": "228"
+    },
+    {
+      "id": "1174392951",
+      "uuid": "465603bd-666b-451d-bee8-4bdef6f99242",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-03-14T21:03:44.778Z",
+      "resolved_at": null,
+      "message": "@Delphine Lebedel L10n question: I think \"teal blue\" might be better understood than \"cyan\" in English, but it might be translated to a form of the word \"cyan\" in other languages. Do you have a perspective on this?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15257:71028",
+        "node_offset": {
+          "x": 2637,
+          "y": 1928
+        },
+        "stable_path": [
+          "15257:71028"
+        ]
+      },
+      "order_id": "227"
+    },
+    {
+      "id": "1173066494",
+      "uuid": "f4981234-eb9a-4299-a03b-14b86412d025",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2025-03-14T05:04:43.645Z",
+      "resolved_at": null,
+      "message": "@Mike Avduevskiy I tried answering all of your questions here! please let me know if I missed anything",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15274:82747",
+        "node_offset": {
+          "x": 654,
+          "y": 623
+        },
+        "stable_path": [
+          "15274:82747"
+        ]
+      },
+      "order_id": "226"
+    },
+    {
+      "id": "1173065759",
+      "uuid": "42933dfc-48dc-424a-aa8d-f10e9e74195c",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2025-03-14T05:03:23.718Z",
+      "resolved_at": null,
+      "message": "@Vasant Kumar can you answer Mike's question here about when the checklist should be removed? I don't have a preference",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15274:82166",
+        "node_offset": {
+          "x": 421,
+          "y": 739
+        },
+        "stable_path": [
+          "15274:82166"
+        ]
+      },
+      "order_id": "225"
+    },
+    {
+      "id": "1172858298",
+      "uuid": "851c1b27-fc80-4fc8-b689-4ad67ed647be",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2025-03-13T23:38:53.153Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde this is where I've put the final designs for ios settings :)",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-03-14T01:27:38.124Z",
+          "user": {
+            "id": "1298754465457927621",
+            "handle": "Tina Vaamonde",
+            "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "15257:71030",
+        "node_offset": {
+          "x": 900,
+          "y": 202
+        },
+        "stable_path": [
+          "15257:71030"
+        ]
+      },
+      "order_id": "224"
+    },
+    {
+      "id": "1172544732",
+      "uuid": "02d2d4a4-18c2-4602-9f01-2a52f63d45b8",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-03-13T18:41:43.365Z",
+      "resolved_at": null,
+      "message": "Sleepytime fox",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15015:6269",
+        "node_offset": {
+          "x": 328,
+          "y": 559
+        },
+        "stable_path": [
+          "15015:6269"
+        ]
+      },
+      "order_id": "223"
+    },
+    {
+      "id": "1172544317",
+      "uuid": "00d84f59-9a6e-4a84-83f8-e70ac0ed1183",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-03-13T18:41:26.363Z",
+      "resolved_at": null,
+      "message": "Baby fox\nLil' fox",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-03-13T18:43:18.893Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "15015:6269",
+        "node_offset": {
+          "x": 205,
+          "y": 485
+        },
+        "stable_path": [
+          "15015:6269"
+        ]
+      },
+      "order_id": "222"
+    },
+    {
+      "id": "1172543773",
+      "uuid": "8b59fae6-0171-483d-b09e-ec6342170edc",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-13T18:41:04.088Z",
+      "resolved_at": null,
+      "message": "Pride fox! (since I didn't see that listed below)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15085:5975",
+        "node_offset": {
+          "x": 205,
+          "y": 549
+        },
+        "stable_path": [
+          "15085:5975"
+        ]
+      },
+      "order_id": "221"
+    },
+    {
+      "id": "1172542790",
+      "uuid": "611df84c-22ca-4119-be41-1009053a5129",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-03-13T18:40:25.573Z",
+      "resolved_at": null,
+      "message": "Could using words that are close to yellow/orange work here? \n\nSunburst (? this is a bad riff)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15015:6269",
+        "node_offset": {
+          "x": 273,
+          "y": 362
+        },
+        "stable_path": [
+          "15015:6269"
+        ]
+      },
+      "order_id": "220"
+    },
+    {
+      "id": "1172542485",
+      "uuid": "127a06e7-d090-46f9-8f68-49d43785216f",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-13T18:40:14.263Z",
+      "resolved_at": null,
+      "message": "I like leading with \"Customize\" -- I don't think you need to say \"Firefox\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15085:5975",
+        "node_offset": {
+          "x": 271,
+          "y": 89
+        },
+        "stable_path": [
+          "15085:5975"
+        ]
+      },
+      "order_id": "219"
+    },
+    {
+      "id": "1172541905",
+      "uuid": "09589f4c-60bf-4ac7-b50f-322df3a4a859",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-03-13T18:39:48.986Z",
+      "resolved_at": null,
+      "message": "I think you could get away without any subcopy here if you wanted to",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15085:5975",
+        "node_offset": {
+          "x": 179,
+          "y": 174
+        },
+        "stable_path": [
+          "15085:5975"
+        ]
+      },
+      "order_id": "218"
+    },
+    {
+      "id": "1172541701",
+      "uuid": "28b2ee8c-2149-42c2-af23-d0987fe6e7bd",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-03-13T18:39:40.987Z",
+      "resolved_at": null,
+      "message": "Fox sketch?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15015:6269",
+        "node_offset": {
+          "x": 93,
+          "y": 477
+        },
+        "stable_path": [
+          "15015:6269"
+        ]
+      },
+      "order_id": "217"
+    },
+    {
+      "id": "1172541375",
+      "uuid": "44161856-3689-4ba3-8987-7a4a6f502f6b",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-13T18:39:27.143Z",
+      "resolved_at": null,
+      "message": "alt to logo: \"style\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15085:5975",
+        "node_offset": {
+          "x": 267,
+          "y": 151
+        },
+        "stable_path": [
+          "15085:5975"
+        ]
+      },
+      "order_id": "216"
+    },
+    {
+      "id": "1172540428",
+      "uuid": "a601ec86-fa4e-4362-9a81-5e031d269b8e",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-13T18:38:47.218Z",
+      "resolved_at": null,
+      "message": "Doodle fox",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15015:6269",
+        "node_offset": {
+          "x": 131,
+          "y": 474
+        },
+        "stable_path": [
+          "15015:6269"
+        ]
+      },
+      "order_id": "215"
+    },
+    {
+      "id": "1172539410",
+      "uuid": "79dae098-dd86-4c43-b488-c55c12d025d6",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-03-13T18:38:05.036Z",
+      "resolved_at": null,
+      "message": "I don't think you \"need\" it, but I think this is my fave choice for clearly communicating what this is affecting",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15230:6902",
+        "node_offset": {
+          "x": 190,
+          "y": 124
+        },
+        "stable_path": [
+          "15230:6902"
+        ]
+      },
+      "order_id": "214"
+    },
+    {
+      "id": "1172538377",
+      "uuid": "6f8302aa-50bb-4303-9d74-ced4d05b773a",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-03-13T18:37:20.985Z",
+      "resolved_at": null,
+      "message": "If it is part of overall mobile onboarding I think you could get away not using \"Firefox\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15230:6933",
+        "node_offset": {
+          "x": 187,
+          "y": 149
+        },
+        "stable_path": [
+          "15230:6933"
+        ]
+      },
+      "order_id": "213"
+    },
+    {
+      "id": "1172537546",
+      "uuid": "1b1f608d-b77d-4c9e-a484-9003cac7ae2e",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-03-13T18:36:45.173Z",
+      "resolved_at": null,
+      "message": "OPO: Gradient feels a little too techy. If you DO use it, would drop one of the color names. OR, you might do a fun / evocative color name for these combos, like:\n\nCitrus blast\nGolden hour\n\n[Insert other much better options here]",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15015:5951",
+        "node_offset": {
+          "x": 311,
+          "y": 433
+        },
+        "stable_path": [
+          "15015:5951"
+        ]
+      },
+      "order_id": "212"
+    },
+    {
+      "id": "1172536959",
+      "uuid": "af82a370-e7d5-4e0d-b04d-b77f3080ae64",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-03-13T18:36:20.933Z",
+      "resolved_at": null,
+      "message": "Derpy Fox? :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15015:6269",
+        "node_offset": {
+          "x": 147,
+          "y": 535
+        },
+        "stable_path": [
+          "15015:6269"
+        ]
+      },
+      "order_id": "211"
+    },
+    {
+      "id": "1172536876",
+      "uuid": "ef2abead-00b6-44c0-885f-d3a831dc3099",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-03-13T18:36:16.646Z",
+      "resolved_at": null,
+      "message": "Home screen is capitalized for iOS Android (Just the H in home)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15088:6873",
+        "node_offset": {
+          "x": 255,
+          "y": 130
+        },
+        "stable_path": [
+          "15088:6873"
+        ]
+      },
+      "order_id": "210"
+    },
+    {
+      "id": "1172536563",
+      "uuid": "5f54ee19-4ad8-4a64-be1e-e0f3acf04bf2",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-03-13T18:36:04.327Z",
+      "resolved_at": null,
+      "message": "I like adding Fox to the bottom two - it helps describe them and maybe is better for A11Y?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15230:6938",
+        "node_offset": {
+          "x": 163,
+          "y": 106
+        },
+        "stable_path": [
+          "15230:6938"
+        ]
+      },
+      "order_id": "209"
+    },
+    {
+      "id": "1172535061",
+      "uuid": "548ab633-67b5-4bb2-b82b-9649975dc587",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-03-13T18:35:02.551Z",
+      "resolved_at": null,
+      "message": "Riff: Blend",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-03-13T18:38:54.492Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-03-13T18:38:17.548Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "16233:40061",
+        "node_offset": {
+          "x": 2598,
+          "y": 3795
+        },
+        "stable_path": [
+          "16233:40061"
+        ]
+      },
+      "order_id": "208"
+    },
+    {
+      "id": "1166386691",
+      "uuid": "5d1cb02d-0cae-45c3-986e-e14ddbb06606",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-03-10T19:22:29.851Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier I have all the copy updated for the 3-step experience. I think there are some design updates to make since I grabbed older designs to work in. I think the only content missing here is the \"Remove checklist\" button at the end. I will go ahead and send through to L10n and note that.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14408:54600",
+        "node_offset": {
+          "x": 1199,
+          "y": 5725
+        },
+        "stable_path": [
+          "14408:54600"
+        ]
+      },
+      "order_id": "207"
+    },
+    {
+      "id": "1162614820",
+      "uuid": "d84423e2-21ea-4c43-9bde-32f4d44e4811",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-03-07T00:28:03.352Z",
+      "resolved_at": null,
+      "message": "@Vasant Kumar Can we test this same copy with different headlines for the first and last step?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14570:55402",
+        "node_offset": {
+          "x": 80,
+          "y": 260
+        },
+        "stable_path": [
+          "14570:55402"
+        ]
+      },
+      "order_id": "206"
+    },
+    {
+      "id": "1162604189",
+      "uuid": "082f38b0-0d00-41bd-b7f3-0909c83f9fe9",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-03-07T00:11:29.506Z",
+      "resolved_at": null,
+      "message": "I can't edit this bottom row, but this category should say \"Helpful tools\" across the board.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14570:55403",
+        "node_offset": {
+          "x": 21,
+          "y": 566
+        },
+        "stable_path": [
+          "14570:55403"
+        ]
+      },
+      "order_id": "205"
+    },
+    {
+      "id": "1162600913",
+      "uuid": "ad7579fd-9738-4450-93ef-2656dc08c736",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-03-07T00:06:19.581Z",
+      "resolved_at": null,
+      "message": "Note: This bottom category should be \"Helpful tools.\" I just can't edit this row.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14408:54600",
+        "node_offset": {
+          "x": 605,
+          "y": 3814
+        },
+        "stable_path": [
+          "14408:54600"
+        ]
+      },
+      "order_id": "204"
+    },
+    {
+      "id": "1158230702",
+      "uuid": "393f89d6-5da6-4dfe-a377-feace3699cdb",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-03-04T18:56:05.695Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier I can't get into this layer to edit \"Helpful extras\" text. Can you help out my shoddy Figma skills with some tips (or set it up for me so I can edit it)? :) \n\nAlso, I think the text size for \"Helpful extras\" is smaller than the text above it and they should be uniform. Might need to bump it up a notch.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14570:55402",
+        "node_offset": {
+          "x": 9,
+          "y": 738
+        },
+        "stable_path": [
+          "14570:55402"
+        ]
+      },
+      "order_id": "203"
+    },
+    {
+      "id": "1156094599",
+      "uuid": "6198f14b-9fbb-447f-85ae-1c4b294cb91c",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-03-03T16:30:51.444Z",
+      "resolved_at": null,
+      "message": "@Eduardo Feo please connect with @Markus Jaritz and @Gabrielle Lussier about the experimentation results from the hand-drawn styles. For context, we recommend not moving forward with anything but the background treatments with the regular firefox logo, e.g. the left column.\n\ncc @Anthony Keane",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-03-03T16:49:21.729Z",
+          "user": {
+            "id": "966012506228212394",
+            "handle": "Eduardo Feo",
+            "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "14736:109354",
+        "node_offset": {
+          "x": 717,
+          "y": 443
+        },
+        "stable_path": [
+          "14736:109354"
+        ]
+      },
+      "order_id": "202"
+    },
+    {
+      "id": "1155389222",
+      "uuid": "3b5250fb-371e-4d88-bd8b-266745ba92be",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tom White",
+        "img_url": "https://www.gravatar.com/avatar/22a9310c1f58a884132acc7cea6f3c6b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1166366970359969104"
+      },
+      "created_at": "2025-03-03T09:40:16.627Z",
+      "resolved_at": null,
+      "message": "Is there an expected sign-off date for final designs?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11554:7547",
+        "node_offset": {
+          "x": -14253,
+          "y": -3549
+        },
+        "stable_path": [
+          "11554:7547"
+        ]
+      },
+      "order_id": "201"
+    },
+    {
+      "id": "1155388371",
+      "uuid": "97f1791e-84ff-419d-be00-f5c00cd867f2",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tom White",
+        "img_url": "https://www.gravatar.com/avatar/22a9310c1f58a884132acc7cea6f3c6b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1166366970359969104"
+      },
+      "created_at": "2025-03-03T09:39:50.210Z",
+      "resolved_at": null,
+      "message": "What happens when the card is \"closed\"? Is this view minimized or should it be removed completely - if so how does it get re-activated?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11822:18150",
+        "node_offset": {
+          "x": 412,
+          "y": 40
+        },
+        "stable_path": [
+          "11822:18150"
+        ]
+      },
+      "order_id": "200"
+    },
+    {
+      "id": "1150941935",
+      "uuid": "84b4db6d-2f1c-461e-882f-276b7cfb52e0",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2025-02-27T04:33:48.927Z",
+      "resolved_at": null,
+      "message": "@Mike Avduevskiy tagging you here to see updated settings screen",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14723:6729",
+        "node_offset": {
+          "x": 215,
+          "y": 99
+        },
+        "stable_path": [
+          "14723:6729"
+        ]
+      },
+      "order_id": "199"
+    },
+    {
+      "id": "1150914351",
+      "uuid": "2ac55da3-fff1-4860-89b1-cf0a60d6edb0",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2025-02-27T03:56:40.004Z",
+      "resolved_at": null,
+      "message": "@Andres Furlan i added the old designs here from when I thought this experiment was going to be for iOS. for the app icons, do we need to provide both a dark and light mode vesion?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14723:30489",
+        "node_offset": {
+          "x": 263,
+          "y": 191
+        },
+        "stable_path": [
+          "14723:30489"
+        ]
+      },
+      "order_id": "198"
+    },
+    {
+      "id": "1150735797",
+      "uuid": "1fe9bdd1-36eb-45ba-b841-cd5d6cd677f1",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-02-26T23:54:58.421Z",
+      "resolved_at": null,
+      "message": "Note from Andy: Rename the \"Dark Purple\" icon because it is not our default anymore. The default \nicon for us is white background (if you are in light mode) and dark \nbackground (if you are in dark mode).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14412:55808",
+        "node_offset": {
+          "x": 2347,
+          "y": 1329
+        },
+        "stable_path": [
+          "14412:55808"
+        ]
+      },
+      "order_id": "197"
+    },
+    {
+      "id": "1146236273",
+      "uuid": "f770284c-6bd4-4e9d-a26f-0d20407c68b9",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2025-02-24T18:31:55.694Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde can you also take a look at this experiment please :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14418:624",
+        "node_offset": {
+          "x": 279,
+          "y": 96
+        },
+        "stable_path": [
+          "14418:624"
+        ]
+      },
+      "order_id": "196"
+    },
+    {
+      "id": "1146235575",
+      "uuid": "38232d46-f2e1-4bf2-8120-0ef7602161a7",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2025-02-24T18:31:23.876Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde I think I copied and pasted all of your correct copy, but can you take a look and double check please :)",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-03-07T00:26:25.102Z",
+          "user": {
+            "id": "1298754465457927621",
+            "handle": "Tina Vaamonde",
+            "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "14570:55402",
+        "node_offset": {
+          "x": 383,
+          "y": 138
+        },
+        "stable_path": [
+          "14570:55402"
+        ]
+      },
+      "order_id": "195"
+    },
+    {
+      "id": "1132875060",
+      "uuid": "d8efc873-dd2e-4dfa-8695-84b4ef2e8b19",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2025-02-14T03:26:34.423Z",
+      "resolved_at": null,
+      "message": "@Vasant Kumar we are consulting with legal to see if we can use this icon. If not, which one would you like in its place?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14428:22302",
+        "node_offset": {
+          "x": 180,
+          "y": 572
+        },
+        "stable_path": [
+          "14428:22302"
+        ]
+      },
+      "order_id": "194"
+    },
+    {
+      "id": "1132420315",
+      "uuid": "543fd151-b2fb-4005-9dca-210c01ed8132",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2025-02-13T19:01:18.275Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde can you take a look at the content for this experiment?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14412:55808",
+        "node_offset": {
+          "x": 2855,
+          "y": 288
+        },
+        "stable_path": [
+          "14412:55808"
+        ]
+      },
+      "order_id": "193"
+    },
+    {
+      "id": "1007620160",
+      "uuid": "5e5e78e2-90d5-4608-bd0f-5dfe7dc44bc5",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-10-31T00:56:38.844Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier Is default state for the menu items to be all closed? or are you envisioning that they'll all be open?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11712:17491",
+        "node_offset": {
+          "x": 6035,
+          "y": 418
+        },
+        "stable_path": [
+          "11712:17491"
+        ]
+      },
+      "order_id": "192"
+    },
+    {
+      "id": "1007619410",
+      "uuid": "25998812-e97c-489e-9eaf-551f0194bdeb",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-10-31T00:55:11.727Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier Do you think I can have two lines here? Not sure I can intro the gamification thing well with the one tiny line.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11712:17491",
+        "node_offset": {
+          "x": 5828,
+          "y": 585
+        },
+        "stable_path": [
+          "11712:17491"
+        ]
+      },
+      "order_id": "191"
+    },
+    {
+      "id": "994449996",
+      "uuid": "ed6769f1-2daa-48a4-9268-8a87103b0192",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Vasant Kumar",
+        "img_url": "https://www.gravatar.com/avatar/03968a7c09b6df37d723e6500986afa0?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "1280957554827182849"
+      },
+      "created_at": "2024-10-21T17:44:18.165Z",
+      "resolved_at": null,
+      "message": "Can we move dark reader to position 1 so that we are testing just changing the add on and not the position.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12824:24989",
+        "node_offset": {
+          "x": 68,
+          "y": 464
+        },
+        "stable_path": [
+          "12824:24989"
+        ]
+      },
+      "order_id": "190"
+    },
+    {
+      "id": "956139378",
+      "uuid": "350bf26f-2d10-48cb-830d-319d9548b7df",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-09-19T18:34:49.958Z",
+      "resolved_at": null,
+      "message": "I've been trying to distinguish between customization and personalization where possible.\n\n\u2192 customization - having it feel personal or flexible to support the needs of what\u2019s useful to you (e.g. wallpapers, content, shortcuts)\n\u2192 personalization - content adapting to your use of it; intelligent personalization (e.g. algorithmic content recommendations)\n\nBased on those definitions, lean \"customize\" here, but I could see an argument for how extensions are a bit of both",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12592:3455",
+        "node_offset": {
+          "x": 88,
+          "y": 255
+        },
+        "stable_path": [
+          "12592:3455"
+        ]
+      },
+      "order_id": "189"
+    },
+    {
+      "id": "956136180",
+      "uuid": "a74890b4-68c1-4f69-b33b-808944e43956",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-09-19T18:32:10.280Z",
+      "resolved_at": null,
+      "message": "What was the rationale for using \"Not Now\" over \"Start Browsing\" in this variant?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12661:20990",
+        "node_offset": {
+          "x": 201,
+          "y": 399
+        },
+        "stable_path": [
+          "12661:20990"
+        ]
+      },
+      "order_id": "188"
+    },
+    {
+      "id": "956136036",
+      "uuid": "caf6b4ad-534a-430c-9a14-d2b5f6ae7508",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-19T18:32:03.677Z",
+      "resolved_at": null,
+      "message": "Something feels off about having this primary CTA lead you down a kinda overwhelming path to the full catalog. I prefer the text link for this reason.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-09-19T22:15:02.635Z",
+          "user": {
+            "id": "1298754465457927621",
+            "handle": "Tina Vaamonde",
+            "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "12592:3554",
+        "node_offset": {
+          "x": 290,
+          "y": 682
+        },
+        "stable_path": [
+          "12592:3554"
+        ]
+      },
+      "order_id": "187"
+    },
+    {
+      "id": "956134060",
+      "uuid": "d56572ce-f22b-435e-8add-d92acf9011f9",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-09-19T18:30:26.008Z",
+      "resolved_at": null,
+      "message": "Does the user leave the flow when tapping this or do they stay within onboarding? @Tina Vaamonde",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12660:20383",
+        "node_offset": {
+          "x": 337,
+          "y": 450
+        },
+        "stable_path": [
+          "12660:20383"
+        ]
+      },
+      "order_id": "186"
+    },
+    {
+      "id": "956133292",
+      "uuid": "1125e1e6-d148-4517-8548-d1a000c7e8c0",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-09-19T18:29:49.385Z",
+      "resolved_at": null,
+      "message": "uBlock and Search by Image feel less neutral and objective by using words like efficient and powerful",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12660:20383",
+        "node_offset": {
+          "x": 183,
+          "y": 418
+        },
+        "stable_path": [
+          "12660:20383"
+        ]
+      },
+      "order_id": "185"
+    },
+    {
+      "id": "956132824",
+      "uuid": "dde24b13-068c-462c-a6cc-07f92dfa7e65",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-19T18:29:26.028Z",
+      "resolved_at": null,
+      "message": "i think we have more than 5K extensions. Maybe this link could say \"Explore 5000+ more extensions\"? too overwhelming?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12592:3455",
+        "node_offset": {
+          "x": 174,
+          "y": 696
+        },
+        "stable_path": [
+          "12592:3455"
+        ]
+      },
+      "order_id": "184"
+    },
+    {
+      "id": "956132687",
+      "uuid": "24cd8641-6e4c-44b0-a92c-84171664788a",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-09-19T18:29:20.465Z",
+      "resolved_at": null,
+      "message": "I think I prefer this headline @Tina Vaamonde",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12660:20383",
+        "node_offset": {
+          "x": 347,
+          "y": 259
+        },
+        "stable_path": [
+          "12660:20383"
+        ]
+      },
+      "order_id": "183"
+    },
+    {
+      "id": "956132620",
+      "uuid": "d618cdc2-e7be-49dc-9401-61c5260acd9c",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-09-19T18:29:17.263Z",
+      "resolved_at": null,
+      "message": "HEre, I wonder if you could shorten by saying something like... \"Add extensions to enhance your security, productivity, and more.\"",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-09-19T18:29:54.390Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-09-19T22:07:31.345Z",
+          "user": {
+            "id": "1298754465457927621",
+            "handle": "Tina Vaamonde",
+            "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "12660:20383",
+        "node_offset": {
+          "x": 29,
+          "y": 362
+        },
+        "stable_path": [
+          "12660:20383"
+        ]
+      },
+      "order_id": "182"
+    },
+    {
+      "id": "956131103",
+      "uuid": "20fd5a1c-8c07-48de-ac36-2644aab79ca2",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-19T18:28:06.516Z",
+      "resolved_at": null,
+      "message": "This explanation feels pretty jargon-y",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12592:3455",
+        "node_offset": {
+          "x": 125,
+          "y": 445
+        },
+        "stable_path": [
+          "12592:3455"
+        ]
+      },
+      "order_id": "181"
+    },
+    {
+      "id": "956130551",
+      "uuid": "16f78baf-cece-4ee6-9f87-da91f0e1fa49",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-19T18:27:40.589Z",
+      "resolved_at": null,
+      "message": "Alts:\nBrowse your way with extensions\nBrowse the way you want to with extensions",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12652:20374",
+        "node_offset": {
+          "x": 386,
+          "y": 84
+        },
+        "stable_path": [
+          "12652:20374"
+        ]
+      },
+      "order_id": "180"
+    },
+    {
+      "id": "956130153",
+      "uuid": "d8300f89-88b3-4032-aa25-b78c71031988",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-09-19T18:27:21.107Z",
+      "resolved_at": null,
+      "message": "I prefer this body copy - the other ones feel kind of text heavy @Tina Vaamonde",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-09-19T18:29:20.330Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-09-19T18:31:16.426Z",
+          "user": {
+            "id": "1169379060174051036",
+            "handle": "Katie Lower",
+            "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "12592:3455",
+        "node_offset": {
+          "x": 74,
+          "y": 321
+        },
+        "stable_path": [
+          "12592:3455"
+        ]
+      },
+      "order_id": "179"
+    },
+    {
+      "id": "956129585",
+      "uuid": "7642fad4-2a8e-45bc-b173-de6011788e07",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-19T18:26:52.257Z",
+      "resolved_at": null,
+      "message": "Here's what we're using in the Android menu redesign. This is an empty state.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12697:2310",
+        "node_offset": {
+          "x": 197,
+          "y": 15
+        },
+        "stable_path": [
+          "12697:2310"
+        ]
+      },
+      "order_id": "178"
+    },
+    {
+      "id": "956127834",
+      "uuid": "9ff2ce96-63e7-4605-a7db-bc2ae51d85be",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-09-19T18:25:28.804Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde - Tiny grammar thing. Think we can skip the period at the end of these, as they're (I think?) direct phrases. But... maybe they are proper sentence...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12592:3455",
+        "node_offset": {
+          "x": 132,
+          "y": 471
+        },
+        "stable_path": [
+          "12592:3455"
+        ]
+      },
+      "order_id": "177"
+    },
+    {
+      "id": "956125008",
+      "uuid": "4ef32494-23a0-4d05-b10e-ebcc1ec31fb1",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-19T18:23:13.348Z",
+      "resolved_at": null,
+      "message": "Just for your reference, here is the latest designs for the extension menu: https://www.figma.com/design/RFz9fYtotQCQuinwcZujZt/%5B%5D-Menu-Redesign?node-id=11412-112169&t=4EzIl9TitYCI1iSM-4\nEng might be able to repurpose some of this work",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12092:42589",
+        "node_offset": {
+          "x": 2266,
+          "y": 676
+        },
+        "stable_path": [
+          "12092:42589"
+        ]
+      },
+      "order_id": "176"
+    },
+    {
+      "id": "956024607",
+      "uuid": "1e4bd7a1-9735-4902-9ae4-afe497d4b464",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-09-19T17:02:28.757Z",
+      "resolved_at": null,
+      "message": "Alternate description proposed:\nBest-in-class ad blocker",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12092:42589",
+        "node_offset": {
+          "x": 5842,
+          "y": 678
+        },
+        "stable_path": [
+          "12092:42589"
+        ]
+      },
+      "order_id": "175"
+    },
+    {
+      "id": "952937971",
+      "uuid": "e492ff68-b95d-495f-8b07-d03aa76e610f",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-09-17T23:50:14.729Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier Just noting from the experiment brief that the request is to put Dark Reader in position 1 (subbing it in for uBlock Origin in the other version) and to leave the other two extensions in place. I moved the extensions around so if design looks funky ... that's why. :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12092:42589",
+        "node_offset": {
+          "x": 3349,
+          "y": 2132
+        },
+        "stable_path": [
+          "12092:42589"
+        ]
+      },
+      "order_id": "174"
+    },
+    {
+      "id": "952936296",
+      "uuid": "886ad065-02ab-4e6c-ab26-a18adc99febc",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-09-17T23:46:29.078Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier Tried out both CTA approaches here and made notes. See what you think. I'm not sure we would test both.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12092:42589",
+        "node_offset": {
+          "x": 4401,
+          "y": 2080
+        },
+        "stable_path": [
+          "12092:42589"
+        ]
+      },
+      "order_id": "173"
+    },
+    {
+      "id": "952793166",
+      "uuid": "f42306e1-f106-4a18-adff-45f22dbf82f8",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-09-17T20:29:49.685Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier Now that I'm looking at the headline for this card next to the rest of the onboarding cards, I think I should include something about extensions in it to match the tone of the others. I know that messes with the space though so let me know if that throws off the plan to use the star ratings.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12092:42589",
+        "node_offset": {
+          "x": 2138,
+          "y": 710
+        },
+        "stable_path": [
+          "12092:42589"
+        ]
+      },
+      "order_id": "172"
+    },
+    {
+      "id": "951277243",
+      "uuid": "ffe0afb2-6273-47df-9163-6b5b3882eddb",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-09-16T23:40:45.690Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier One final question on this one. Is it possible to include the header in the image, above the instructions? If so, that might make the hierarchy seem a little more intuitive. cc: @Vasant Kumar",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12188:25686",
+        "node_offset": {
+          "x": 285,
+          "y": 17
+        },
+        "stable_path": [
+          "12188:25686"
+        ]
+      },
+      "order_id": "171"
+    },
+    {
+      "id": "942524788",
+      "uuid": "223f24d3-70ee-47e2-84fa-b7c517397288",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-09-09T21:16:30.693Z",
+      "resolved_at": null,
+      "message": "@Vasant Kumar cc: @Gabrielle Lussier \nI am understanding that our template only supports the image in this space at the top of the card. I would advocate not to test this variant and to prioritize any eng work to support the placement of the image as shown in the mock-up below this one. \n\nThe current hierarchy has the card header and intro, that explain what the instructions are for, below the instructions image. This reversed hierarchy is a confusing experience for users and may impact experiment results.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12188:25686",
+        "node_offset": {
+          "x": 342,
+          "y": 89
+        },
+        "stable_path": [
+          "12188:25686"
+        ]
+      },
+      "order_id": "170"
+    },
+    {
+      "id": "889996049",
+      "uuid": "2efadaf1-0a31-4375-97e1-f3a89933d5a2",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2024-07-26T17:43:39.971Z",
+      "resolved_at": null,
+      "message": "@Vasant Kumar here are some alternatives I tried out, do you think it's less busy if we remove the icons?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12188:25600",
+        "node_offset": {
+          "x": 124.58984375,
+          "y": 99.2958984375
+        },
+        "stable_path": [
+          "12188:25600"
+        ]
+      },
+      "order_id": "169"
+    },
+    {
+      "id": "889995389",
+      "uuid": "ad3d8db6-611d-4844-a041-78ea5b32a92e",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2024-07-26T17:43:01.773Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde i can't use your preferred content if the instructions have to live above the copy. :( any ideas for how to make it clearer?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12092:25624",
+        "node_offset": {
+          "x": 1691,
+          "y": 4966
+        },
+        "stable_path": [
+          "12092:25624"
+        ]
+      },
+      "order_id": "168"
+    },
+    {
+      "id": "889994780",
+      "uuid": "85be85da-16a3-44aa-9f63-033e48f3f80f",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2024-07-26T17:42:25.704Z",
+      "resolved_at": null,
+      "message": "@Punam Dahiya how feasible would it be to switch the placement of the text & image for this experiment? I would export the \"instructions\" as an SVG",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12092:25624",
+        "node_offset": {
+          "x": 2191,
+          "y": 4575
+        },
+        "stable_path": [
+          "12092:25624"
+        ]
+      },
+      "order_id": "167"
+    },
+    {
+      "id": "870188427",
+      "uuid": "7654d60d-2eee-4844-8a86-124465e87b62",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-07-11T00:55:51.329Z",
+      "resolved_at": null,
+      "message": "From our privacy notice: Firefox by default also shares de-identified marketing campaign data to \nour campaign marketing vendors to measure and improve our marketing \ncampaigns. This includes Adjust, which has its own privacy policy.\n\nWould it be helpful to say in the Adjust bullet that the data is de-identified?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12064:897",
+        "node_offset": {
+          "x": 526,
+          "y": 4829
+        },
+        "stable_path": [
+          "12064:897"
+        ]
+      },
+      "order_id": "166"
+    },
+    {
+      "id": "868263245",
+      "uuid": "d1b7cf6a-1cb6-433c-b538-0eb80c0d7cc7",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-07-09T19:42:47.789Z",
+      "resolved_at": null,
+      "message": "If data collection info gets its own card, does it make more sense to move the Privacy Policy info here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12067:898",
+        "node_offset": {
+          "x": 316,
+          "y": 326
+        },
+        "stable_path": [
+          "12067:898"
+        ]
+      },
+      "order_id": "165"
+    },
+    {
+      "id": "868252940",
+      "uuid": "d01a21e3-1304-4a0a-831a-d47a54d232e5",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-07-09T19:32:44.096Z",
+      "resolved_at": null,
+      "message": "Brave's data collection content says that info being sent is 'completely private and anonymous.' Can we legally say something similar? Having this collection info in the first card may make some users question how stringent our privacy and security standards are. I think adding something like this to our data collection messaging could soften the delivery.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12064:897",
+        "node_offset": {
+          "x": 573,
+          "y": 4544
+        },
+        "stable_path": [
+          "12064:897"
+        ]
+      },
+      "order_id": "164"
+    },
+    {
+      "id": "827601665",
+      "uuid": "19bc57b3-1a99-4242-b9de-979258802c26",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2024-06-04T15:33:16.086Z",
+      "resolved_at": null,
+      "message": "@Jeffrey Guerrero I realized that I'm using the progress bar as a divider, otherwise it just looks like settings :sweat_smile:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11764:15759",
+        "node_offset": {
+          "x": 360,
+          "y": 109
+        },
+        "stable_path": [
+          "11764:15759"
+        ]
+      },
+      "order_id": "163"
+    },
+    {
+      "id": "827471280",
+      "uuid": "f8e36db6-36aa-414a-9659-da720d806a10",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2024-06-04T14:23:44.443Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier could be worthwhile to explore a version where you take out the progress bar completely and it's just the checkmarks, but then the fox comes back maybe in illustration or icon form as a 'congrats! go explore more' message when the list is complete.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11753:15055",
+        "node_offset": {
+          "x": 494,
+          "y": 108
+        },
+        "stable_path": [
+          "11753:15055"
+        ]
+      },
+      "order_id": "162"
+    },
+    {
+      "id": "729363449",
+      "uuid": "978dbf81-38fe-4573-8b14-113e9472cab2",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-03-09T00:30:53.238Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier These are the final content variants ready for test.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10787:5454",
+        "node_offset": {
+          "x": 3551,
+          "y": 191
+        },
+        "stable_path": [
+          "10787:5454"
+        ]
+      },
+      "order_id": "161"
+    },
+    {
+      "id": "726584891",
+      "uuid": "e5349ca7-22f3-458f-8913-f93ad6ee5f33",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-03-06T23:42:35.523Z",
+      "resolved_at": null,
+      "message": "@Vasant Kumar Here are a couple of iterations that try out the entertainment theme. See what you think. We can discuss more in our weekly meeting time tomorrow if you'd like.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10645:5443",
+        "node_offset": {
+          "x": 406,
+          "y": 519
+        },
+        "stable_path": [
+          "10645:5443"
+        ]
+      },
+      "order_id": "160"
+    },
+    {
+      "id": "711953367",
+      "uuid": "573dd53f-8cbf-4ac6-96f2-d1d6281b0581",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-02-22T22:12:29.075Z",
+      "resolved_at": null,
+      "message": "Once we narrow, you could potentially keep the variants even more similar..\n\nFor ex. \n\nA: Start your search here. You're automatically protected...\n\nB: Search with peace of mind. You're automatically protected...",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-02-28T23:06:21.434Z",
+          "user": {
+            "id": "1298754465457927621",
+            "handle": "Tina Vaamonde",
+            "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10248:5562",
+        "node_offset": {
+          "x": 376,
+          "y": 1044
+        },
+        "stable_path": [
+          "10248:5562"
+        ]
+      },
+      "order_id": "159"
+    },
+    {
+      "id": "711951739",
+      "uuid": "d1c4463b-7a8d-423a-8062-44a4c0e7c47c",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-02-22T22:10:31.661Z",
+      "resolved_at": null,
+      "message": "I like the \"peace of mind\" angle here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10312:5498",
+        "node_offset": {
+          "x": 421,
+          "y": 409
+        },
+        "stable_path": [
+          "10312:5498"
+        ]
+      },
+      "order_id": "158"
+    },
+    {
+      "id": "711951341",
+      "uuid": "22369f8c-2e41-4097-bd06-0fbd02d13b91",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-02-22T22:10:04.617Z",
+      "resolved_at": null,
+      "message": "These two options could be framed as Variant B: \"Practical\" vs Variant C: \"Emotional\"",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-02-22T22:10:28.867Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10248:5562",
+        "node_offset": {
+          "x": 266,
+          "y": 1058
+        },
+        "stable_path": [
+          "10248:5562"
+        ]
+      },
+      "order_id": "157"
+    },
+    {
+      "id": "711950075",
+      "uuid": "1ae1060d-51ee-4f60-aae4-4e9a58936b04",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-02-22T22:08:32.211Z",
+      "resolved_at": null,
+      "message": "I like the idea of keeping this as generic as possible (e.g. try your first search here \" or \"search for anything here\".\n\nBeing too instructive makes it harder to consider other potential variables like whether they're redownloading the browser or signed in vs not signed in.\n\nIt (minimally) risks making the user feel \"amateurish\"?\n\nMaybe that's just me.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-02-29T18:16:28.070Z",
+          "user": {
+            "id": "1298754465457927621",
+            "handle": "Tina Vaamonde",
+            "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-02-22T22:13:15.584Z",
+          "user": {
+            "id": "551476150859297062",
+            "handle": "Meridel Walkington",
+            "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-02-22T22:09:30.034Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10970:8880",
+        "node_offset": {
+          "x": 4223,
+          "y": 804
+        },
+        "stable_path": [
+          "10970:8880"
+        ]
+      },
+      "order_id": "156"
+    },
+    {
+      "id": "711948753",
+      "uuid": "dc2cab0f-c497-47d6-a4db-bd4f76454007",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2024-02-22T22:06:53.787Z",
+      "resolved_at": null,
+      "message": "What's the distinguishing theme between Variants B and C? Could one, for example, be more generic and plain language while another gets more colorful and specific about protections?",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-02-22T22:14:35.526Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10248:5562",
+        "node_offset": {
+          "x": 290,
+          "y": 1082
+        },
+        "stable_path": [
+          "10248:5562"
+        ]
+      },
+      "order_id": "155"
+    },
+    {
+      "id": "711946858",
+      "uuid": "863802b6-b701-45a6-822a-ad503c67c723",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-02-22T22:04:31.404Z",
+      "resolved_at": null,
+      "message": "This one is short and sweet but I worry that it will make people confused with private browsing. Their search history will be remembered here in regular browsing so maybe this will create a false impression.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10248:5562",
+        "node_offset": {
+          "x": 819,
+          "y": 921
+        },
+        "stable_path": [
+          "10248:5562"
+        ]
+      },
+      "order_id": "154"
+    },
+    {
+      "id": "711943511",
+      "uuid": "2ff9466f-fdbf-45a7-be6f-94149bc66cbc",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-02-22T22:00:27.400Z",
+      "resolved_at": null,
+      "message": "In general I find the privacy messages much more compelling than these generic ones.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10970:8880",
+        "node_offset": {
+          "x": 3883,
+          "y": 818
+        },
+        "stable_path": [
+          "10970:8880"
+        ]
+      },
+      "order_id": "153"
+    },
+    {
+      "id": "711943117",
+      "uuid": "d4aa9a34-d712-44ad-8416-1dd7f7416d74",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-02-22T22:00:01.346Z",
+      "resolved_at": null,
+      "message": "Another simple option!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10312:5498",
+        "node_offset": {
+          "x": 786,
+          "y": 448
+        },
+        "stable_path": [
+          "10312:5498"
+        ]
+      },
+      "order_id": "152"
+    },
+    {
+      "id": "711942485",
+      "uuid": "d37d3362-207e-411a-872c-4fa5954dae3d",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-02-22T21:59:18.487Z",
+      "resolved_at": null,
+      "message": "I like these first 2 alts as shorter, crisper options",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10248:5562",
+        "node_offset": {
+          "x": 817,
+          "y": 637
+        },
+        "stable_path": [
+          "10248:5562"
+        ]
+      },
+      "order_id": "151"
+    },
+    {
+      "id": "711941129",
+      "uuid": "e93a9176-d852-4ce1-b732-ba172a56d587",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-02-22T21:57:47.182Z",
+      "resolved_at": null,
+      "message": "This one is super crisp and easy to understand!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10248:5562",
+        "node_offset": {
+          "x": 771,
+          "y": 293
+        },
+        "stable_path": [
+          "10248:5562"
+        ]
+      },
+      "order_id": "150"
+    },
+    {
+      "id": "711940399",
+      "uuid": "31d89e9d-d2c5-4394-be57-a70074575d21",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-02-22T21:56:58.692Z",
+      "resolved_at": null,
+      "message": "I would avoid mentioning \"websites\" because entering a website URL is not the same (to a user) as doing a \"search\". I'm not if our metrics count navigating to a website as a search from a technical perspective (@Brent Trotter do you know?)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10248:5561",
+        "node_offset": {
+          "x": 529,
+          "y": 34
+        },
+        "stable_path": [
+          "10248:5561"
+        ]
+      },
+      "order_id": "149"
+    },
+    {
+      "id": "710424055",
+      "uuid": "9d4722ca-7f7b-4535-ae8b-0bc29f1c8113",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2024-02-22T00:32:36.335Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde I assume these are the latest copy explorations? Of the options, I think keeping it more open in terms of entering either a keyword or a website is a good approach. \n\nDo people think of mobile as \"typing\"vs. \"entering\" I wonder? \n\nAlt suggestion that's a bit more casual:  \nEnter any keyword or fave website here to launch your first search.\n\nAlt that is very short and general: \nSearch for anything here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10970:8880",
+        "node_offset": {
+          "x": 3761,
+          "y": 747
+        },
+        "stable_path": [
+          "10970:8880"
+        ]
+      },
+      "order_id": "148"
+    },
+    {
+      "id": "673821435",
+      "uuid": "957915f9-dba4-4b13-a60f-b9ddf753ad72",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-01-18T21:59:16.777Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier maybe adding more space between headline and privacy notice will help on this larger size.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9186:2743",
+        "node_offset": {
+          "x": 11376,
+          "y": 23276
+        },
+        "stable_path": [
+          "9186:2743"
+        ]
+      },
+      "order_id": "139"
+    },
+    {
+      "id": "673632573",
+      "uuid": "4d5a1da9-b604-4c7f-9ccd-0ece41a79047",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-01-18T18:41:35.836Z",
+      "resolved_at": null,
+      "message": "Need to write alt text for the images",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9186:2997",
+        "node_offset": {
+          "x": 250,
+          "y": 1450
+        },
+        "stable_path": [
+          "9186:2997"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "673628878",
+      "uuid": "aa14cf0a-cec7-4ddf-b4ba-c3f60b5e82ff",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-01-18T18:38:16.500Z",
+      "resolved_at": null,
+      "message": "Let's go with this headline for both options",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9186:2997",
+        "node_offset": {
+          "x": 2897,
+          "y": 341
+        },
+        "stable_path": [
+          "9186:2997"
+        ]
+      },
+      "order_id": "136"
+    },
+    {
+      "id": "666745255",
+      "uuid": "48e655c8-ad2f-49be-a808-15a11e5afe53",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-01-11T22:35:04.780Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier is there any world where for this line instead of check & X we have \"600\" & \"0\"? Trying to make it clear that Chrome has absolutely none.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9186:3368",
+        "node_offset": {
+          "x": 1472,
+          "y": 1970
+        },
+        "stable_path": [
+          "9186:3368"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "647639092",
+      "uuid": "24f01da5-777c-432d-b6ec-f7fdb955c8db",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-12-15T14:49:59.090Z",
+      "resolved_at": null,
+      "message": "@Vasant Kumar Please note in this version that we need to remove the privacy link on this card since it is no longer the first card",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9564:1656",
+        "node_offset": {
+          "x": 187,
+          "y": 617
+        },
+        "stable_path": [
+          "9564:1656"
+        ]
+      },
+      "order_id": "129"
+    },
+    {
+      "id": "647638645",
+      "uuid": "7f443c26-c578-4b69-9c1f-a9c86479df50",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-12-15T14:49:35.656Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier I placed link here but not sure the spacing is quite right, can you please check? TY",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9564:1733",
+        "node_offset": {
+          "x": 216,
+          "y": 596
+        },
+        "stable_path": [
+          "9564:1733"
+        ]
+      },
+      "order_id": "128"
+    },
+    {
+      "id": "647462159",
+      "uuid": "5ac8f2c6-459e-42a3-8de5-0259258a13c4",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Vasant Kumar",
+        "img_url": "https://www.gravatar.com/avatar/03968a7c09b6df37d723e6500986afa0?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "1280957554827182849"
+      },
+      "created_at": "2023-12-15T12:03:59.154Z",
+      "resolved_at": null,
+      "message": "I think we should drop the \"Start Browsing\" screen as it implies it will skip all of the remaining cards",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9564:1733",
+        "node_offset": {
+          "x": 241,
+          "y": 734
+        },
+        "stable_path": [
+          "9564:1733"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "646732863",
+      "uuid": "9c167f75-54ce-4588-959c-fe11034dc569",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-12-14T19:18:24.470Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier I wasn't aware that we wanted to test the customization at the beginning. If we do this, we need to have the privacy disclosure on this screen as legally it must be on the first onboarding screen so that all users see it. And this will require changes for Eng in the way they build the template.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9564:1733",
+        "node_offset": {
+          "x": 53,
+          "y": 10
+        },
+        "stable_path": [
+          "9564:1733"
+        ]
+      },
+      "order_id": "126"
+    },
+    {
+      "id": "646665261",
+      "uuid": "f083dc5f-4b7d-41c0-b568-10b7913fcd11",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2023-12-14T18:08:50.674Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak same thing here, should the CTA be \"start browsing\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9564:1602",
+        "node_offset": {
+          "x": 255,
+          "y": 742
+        },
+        "stable_path": [
+          "9564:1602"
+        ]
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "644157478",
+      "uuid": "44909855-011b-4b40-9319-3abd9018a9e1",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2023-12-13T00:48:58.234Z",
+      "resolved_at": null,
+      "message": "@Vasant Kumar Hey Vasant, here are the variants for the customization experiment. All that's left is the imagery, but I've added the controls we'd like to implement. Let me know if you think this is good to pass to eng.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9541:4881",
+        "node_offset": {
+          "x": 317,
+          "y": 219
+        },
+        "stable_path": [
+          "9541:4881"
+        ]
+      },
+      "order_id": "123"
+    },
+    {
+      "id": "644157069",
+      "uuid": "3f096d66-929d-4c4c-a644-297ab7e7154e",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2023-12-13T00:48:02.450Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Since this would be the last step, should it still be \"skip\"?  Or should this also be \"start browsing?\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9541:4955",
+        "node_offset": {
+          "x": 232,
+          "y": 747
+        },
+        "stable_path": [
+          "9541:4955"
+        ]
+      },
+      "order_id": "122"
+    },
+    {
+      "id": "621442526",
+      "uuid": "e652752d-e0fd-486e-9117-edcac8b29b20",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2023-11-20T17:08:08.777Z",
+      "resolved_at": null,
+      "message": "Alt: Third party trackers, cryptominers, fingerprinters... Firefox blocks them all.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9186:5372",
+        "node_offset": {
+          "x": 430,
+          "y": 2264
+        },
+        "stable_path": [
+          "9186:5372"
+        ]
+      },
+      "order_id": "120"
+    },
+    {
+      "id": "621439528",
+      "uuid": "e682ff0a-3c57-4749-90ea-43a5636d59af",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2023-11-20T17:05:20.450Z",
+      "resolved_at": null,
+      "message": "\"helps stop\" sounds too qualified, though I assume this is a legal requirement? I'd explore a direction like \"Unlike Chrome, Firefox keeps companies from secretly following you around.\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9186:5372",
+        "node_offset": {
+          "x": 2559,
+          "y": 2193
+        },
+        "stable_path": [
+          "9186:5372"
+        ]
+      },
+      "order_id": "119"
+    },
+    {
+      "id": "617390464",
+      "uuid": "f1381ae5-23b1-40a5-a819-5e892c7e025c",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Ekaterina Galetski",
+        "img_url": "https://s3-alpha.figma.com/profile/90d9c8c0-de8f-4290-ab0b-cd4f88b60f31",
+        "id": "986671480981835276"
+      },
+      "created_at": "2023-11-15T23:17:05.251Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Ready",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9217:12900",
+        "node_offset": {
+          "x": -18291,
+          "y": -9384
+        },
+        "stable_path": [
+          "9217:12900"
+        ]
+      },
+      "order_id": "115"
+    },
+    {
+      "id": "597120820",
+      "uuid": "4443d30d-4415-4a28-81ee-8fd06d65d976",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-10-26T14:41:35.403Z",
+      "resolved_at": null,
+      "message": "Need to confirm 10 million number and what it refers to. is it DAU or default browser or what...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8967:3632",
+        "node_offset": {
+          "x": 11878,
+          "y": 20246
+        },
+        "stable_path": [
+          "8967:3632"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "590162329",
+      "uuid": "c9f2e540-851b-49f9-baa2-0b0cc0e9957e",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-10-19T16:54:53.918Z",
+      "resolved_at": null,
+      "message": "Copying my answers from Slack, @Gabrielle Lussier:\n1. I\u2019d say the weakest option is `Match iOS Settings checkmark` - because the checkmark is so far away from the option, it may be harder for people with low vision and people with cognitive difficulties to clearly understand which option is actually checked. Plus, the component won\u2019t enlarge with the font. The next weakest option is, IMO, `Checkbox with large visual indicator` because the checkbox does not enlarge and there are no other indication of the selected state. Other 3 looks similarly accessible, given they will be programmed to communicate all the info to an assistive technology well.\n2. No apparently inaccessible options are there. Thank you for making examples for larger text font and the reflow too!\n3. Removing the text from the screen always poses a possible difficulty for users with cognitive difficulties and users with low vision who do not use a screen reader - they will have to guess which option is which in the image and it may be not easy for them. Having an on-screen text `Top`/`Bottom` is the most delightful experience for most users\n4. Thickening of the border, especially when it is [2px change or more](https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html) is great indication of a state change that does not rely on a color alone - this is much better option for users with color deficiency, users with low vision, and users with glare on their screens too because they do not have to get the (sometimes subtle even with 3:1 color contrast or highler) subtle difference between colors.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8951:5152",
+        "node_offset": {
+          "x": 1879,
+          "y": 1503
+        },
+        "stable_path": [
+          "8951:5152"
+        ]
+      },
+      "order_id": "113"
+    },
+    {
+      "id": "589207492",
+      "uuid": "df13576e-3f78-453c-9401-95383c017a62",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2023-10-19T04:30:21.891Z",
+      "resolved_at": null,
+      "message": "@Victoria Wang like this?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8951:5152",
+        "node_offset": {
+          "x": 3623,
+          "y": 2138
+        },
+        "stable_path": [
+          "8951:5152"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "589062608",
+      "uuid": "13a420ca-2109-47a8-85ca-559cc2fec7d3",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2023-10-18T23:26:02.475Z",
+      "resolved_at": null,
+      "message": "The boundaries of these tiles might look a bit more clear without the shadows",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8951:5152",
+        "node_offset": {
+          "x": 3552,
+          "y": 1365
+        },
+        "stable_path": [
+          "8951:5152"
+        ]
+      },
+      "order_id": "111"
+    },
+    {
+      "id": "589061896",
+      "uuid": "5e5fd4b4-dc9b-4210-95e7-343bb4eebe52",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2023-10-18T23:24:12.485Z",
+      "resolved_at": null,
+      "message": "I think the iOS wallpaper tiles have the border inside the element",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8951:5152",
+        "node_offset": {
+          "x": 3419,
+          "y": 1275
+        },
+        "stable_path": [
+          "8951:5152"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "587446322",
+      "uuid": "78fd76f8-56a4-4a5b-8da8-5265507b6429",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2023-10-17T19:33:37.830Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I tossed in one of your variants here from your \"copy scratchpad,\" please change this to match your preferred variant!",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-10-17T20:22:58.043Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8927:13046",
+        "node_offset": {
+          "x": 301,
+          "y": 390
+        },
+        "stable_path": [
+          "8927:13046"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "582950384",
+      "uuid": "50891a80-60d1-4bfd-afd3-24a1e1068445",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-10-12T14:52:08.545Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier We should plan to have body and headline copy go to 2 lines in \"worst case\" translation scenario. Something to consider!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8855:3135",
+        "node_offset": {
+          "x": 8305,
+          "y": 2651
+        },
+        "stable_path": [
+          "8855:3135"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "581827244",
+      "uuid": "1bc00c6b-0752-414c-9078-5b9b62e2b063",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2023-10-11T18:26:33.472Z",
+      "resolved_at": null,
+      "message": "Aaaa I still love this image haha",
+      "reactions": [
+        {
+          "emoji": ":heart_eyes:",
+          "created_at": "2023-10-11T20:22:25.882Z",
+          "user": {
+            "id": "1081652139969940022",
+            "handle": "Gabrielle Lussier",
+            "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8826:5555",
+        "node_offset": {
+          "x": 208,
+          "y": 261
+        },
+        "stable_path": [
+          "8826:5555"
+        ]
+      },
+      "order_id": "107"
+    },
+    {
+      "id": "581826822",
+      "uuid": "a7026f27-d8b6-4496-a4da-37334f727844",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2023-10-11T18:26:11.170Z",
+      "resolved_at": null,
+      "message": "This feels a bit confusing as the button group doesn't feel like a set of selectable options with a separate button to continue",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2023-10-11T20:25:09.537Z",
+          "user": {
+            "id": "1081652139969940022",
+            "handle": "Gabrielle Lussier",
+            "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8741:879",
+        "node_offset": {
+          "x": 260,
+          "y": 599
+        },
+        "stable_path": [
+          "8741:879"
+        ]
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "581825390",
+      "uuid": "1f138d66-8c8c-49ba-814f-cbb12b15b3b5",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2023-10-11T18:24:49.840Z",
+      "resolved_at": null,
+      "message": "This seems like a totally reasonable MVP - very clear",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8693:64705",
+        "node_offset": {
+          "x": 14915,
+          "y": 28096
+        },
+        "stable_path": [
+          "8693:64705"
+        ]
+      },
+      "order_id": "105"
+    },
+    {
+      "id": "581824774",
+      "uuid": "882c1d6e-8de2-4f78-9311-1b852bb90e7b",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2023-10-11T18:24:14.516Z",
+      "resolved_at": null,
+      "message": "I feel like I usually see this component used above content that gets switched out depending on what is selected",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-10-11T20:24:55.269Z",
+          "user": {
+            "id": "1081652139969940022",
+            "handle": "Gabrielle Lussier",
+            "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8824:2711",
+        "node_offset": {
+          "x": 148,
+          "y": 606
+        },
+        "stable_path": [
+          "8824:2711"
+        ]
+      },
+      "order_id": "104"
+    },
+    {
+      "id": "581823589",
+      "uuid": "05b1803b-d626-427d-a128-cbabf4559960",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2023-10-11T18:23:09.922Z",
+      "resolved_at": null,
+      "message": "I've sometimes omitted the dots from the first and last screen if those don't feel like they're part of the tour. It might be more user-choicey to include them though.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8855:3135",
+        "node_offset": {
+          "x": 9340,
+          "y": 2126
+        },
+        "stable_path": [
+          "8855:3135"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "581821964",
+      "uuid": "de947834-8995-4414-9248-d489e7f0b994",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2023-10-11T18:21:37.970Z",
+      "resolved_at": null,
+      "message": "Would be rad to have this small visualization if it's not too much effort",
+      "reactions": [
+        {
+          "emoji": ":fire:",
+          "created_at": "2023-10-11T20:41:49.321Z",
+          "user": {
+            "id": "1081652139969940022",
+            "handle": "Gabrielle Lussier",
+            "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8824:2641",
+        "node_offset": {
+          "x": 184,
+          "y": 525
+        },
+        "stable_path": [
+          "8824:2641"
+        ]
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "581819562",
+      "uuid": "54d33cba-8068-4ef8-b72e-86b6a9bfd96f",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2023-10-11T18:19:31.117Z",
+      "resolved_at": null,
+      "message": "This presentation of themes seems more clear than the one to the right thanks to the sense of distinct color wells, and is similar to what we've done with Desktop onboarding in the past.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8855:3135",
+        "node_offset": {
+          "x": 6432,
+          "y": 1688
+        },
+        "stable_path": [
+          "8855:3135"
+        ]
+      },
+      "order_id": "101"
+    },
+    {
+      "id": "577605766",
+      "uuid": "c3518074-144d-42b8-9e4f-143c89768127",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-10-06T18:28:57.437Z",
+      "resolved_at": null,
+      "message": "Something to note about a card layout that presents all options as neutral -- we have previous tests on defaulting the toolbar to the top or the bottom that showed significant negative impacts from a default bottom placement. Here we are not showing ANY default, but will there still be a risk if people choose the bottom? Something to watch.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8741:1125",
+        "node_offset": {
+          "x": 192,
+          "y": 709
+        },
+        "stable_path": [
+          "8741:1125"
+        ]
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "576469955",
+      "uuid": "ab1565c5-2099-476c-a54e-5308e11abad7",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-10-05T19:02:26.648Z",
+      "resolved_at": null,
+      "message": "RE: the dots. I could see an argument for keeping 4 dots up until the 4th card. If the user chooses to continue with customization, that's like taking another path so in theory we could \"reset\" to two dots or not use dots at all... just an idea @Gabrielle Lussier",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8693:72569",
+        "node_offset": {
+          "x": 168,
+          "y": 805
+        },
+        "stable_path": [
+          "8693:72569"
+        ]
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "576467816",
+      "uuid": "a6fb9a49-208c-40a4-b7ee-97fc723a8b3e",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-10-05T19:00:07.638Z",
+      "resolved_at": null,
+      "message": "If the aim is to present the customization as a true \"option\", skip should get them into the browser. Might even phrase as \"Skip and start browsing\" if we can squeeze it. @Gabrielle Lussier \n\nOtherwise, I'd say we don't need this card at all and just tack two more options onto the end. But I think this step helps inform the user what is coming and let's them skip it ALL if they don't care.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8710:32819",
+        "node_offset": {
+          "x": 154,
+          "y": 107
+        },
+        "stable_path": [
+          "8710:32819"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "574738226",
+      "uuid": "11456252-4edd-4d18-86f3-e1106204f228",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-10-04T13:51:25.276Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier feel free to move or resize this...i always find the status tracker helpful!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8693:64705",
+        "node_offset": {
+          "x": 9672,
+          "y": 17176
+        },
+        "stable_path": [
+          "8693:64705"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "574724188",
+      "uuid": "ad99bf78-0de9-4c57-bf5d-5127d235cd96",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-10-04T13:42:54.410Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier iOS includes this card on the set to default screen. We wouldn't be changing it for the customization test, but it might help to add it to the file anyway to document.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8718:15612",
+        "node_offset": {
+          "x": 1117,
+          "y": 720
+        },
+        "stable_path": [
+          "8718:15612"
+        ]
+      },
+      "order_id": "94"
+    },
+    {
+      "id": "530154727",
+      "uuid": "dbacfc56-341d-4292-85c8-2be17ba14758",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2023-08-17T21:33:34.244Z",
+      "resolved_at": null,
+      "message": "@Daniela Arcese -  illustration for approval",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8285:9871",
+        "node_offset": {
+          "x": 230,
+          "y": 228
+        }
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "527126672",
+      "uuid": "6dc5b817-05c2-4168-b419-1eae9839cbdb",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Stefan Smagula",
+        "img_url": "https://s3-alpha.figma.com/profile/fd1bfa77-78d7-4c3b-ae5e-d00e36515484",
+        "id": "1083048020877993982"
+      },
+      "created_at": "2023-08-15T14:34:32.805Z",
+      "resolved_at": null,
+      "message": "With just one step, do we still need a step indicator?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8170:12299",
+        "node_offset": {
+          "x": 2328,
+          "y": 6910
+        }
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "509124780",
+      "uuid": "b08e0ff0-8ca2-41b4-b5c7-b09f13957e7f",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-07-26T14:42:51.477Z",
+      "resolved_at": null,
+      "message": "Start with a safer browser",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8091:15061",
+        "node_offset": {
+          "x": 514,
+          "y": 720
+        }
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "508203791",
+      "uuid": "1bd15ff3-f7e4-49a8-8461-100d5103e218",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-07-25T21:49:09.812Z",
+      "resolved_at": null,
+      "message": "Just curious why we have this as a tertiary action here? @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8091:15061",
+        "node_offset": {
+          "x": 70,
+          "y": 858
+        }
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "495151630",
+      "uuid": "5979ebba-17f4-4b36-aa36-f8da782927ac",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2023-07-11T20:55:06.098Z",
+      "resolved_at": null,
+      "message": "@Daniela Arcese - same as android, kept this one in same style as Gabrielle's and straight forward to avoid any confusions",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8008:78478",
+        "node_offset": {
+          "x": 227,
+          "y": 171
+        }
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "495041156",
+      "uuid": "3d3c34c3-f982-4885-a808-4ea3eeaf10fd",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Stefan Smagula",
+        "img_url": "https://s3-alpha.figma.com/profile/fd1bfa77-78d7-4c3b-ae5e-d00e36515484",
+        "id": "1083048020877993982"
+      },
+      "created_at": "2023-07-11T18:48:17.329Z",
+      "resolved_at": null,
+      "message": "This Synch Card is the one that the \"Pin to Dock\" (iOS) experimental card is replacing. Let's do the same for Android: replace this card with an experimental card\" \"Add Fx to Bottom Bar\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6165:58965",
+        "node_offset": {
+          "x": 333,
+          "y": 23
+        }
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "493864598",
+      "uuid": "08e1e88d-6c10-4f2c-b177-c35dd1a317ef",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2023-07-10T21:29:50.033Z",
+      "resolved_at": null,
+      "message": "@Daniela Arcese - do you think we should do a more 'creative' design like the sketch on the left, or more direct like the one on the right?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7968:77260",
+        "node_offset": {
+          "x": 1125,
+          "y": 641
+        }
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "409999580",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-04-03T19:58:44.939Z",
+      "resolved_at": null,
+      "message": "We should introduce a 'Skip' button here too as on the previous cards we have been allowing users to move forward with a skip button, so they would be familiar with the pattern of moving forward by this time. Although the 'close' icon button is available, it would make the user stumble before figuring out that they should now close the flow using the 'close' icon button.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6476:64646",
+        "node_offset": {
+          "x": 97,
+          "y": 27
+        }
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "404915131",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-03-28T15:57:38.203Z",
+      "resolved_at": null,
+      "message": "@Tiffanie Shakespeare Just FYI, I mostly worked on the prototype here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6170:58775",
+        "node_offset": {
+          "x": -19242,
+          "y": 1773
+        }
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "240980235",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Patel",
+        "img_url": "https://www.gravatar.com/avatar/6bc166b31817afea3ac723da5245614b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "977606083277680904"
+      },
+      "created_at": "2022-08-04T13:17:54.498Z",
+      "resolved_at": null,
+      "message": "Is it okay if we make this image size and placement consistent with the one in the next screen?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1950:63885",
+        "node_offset": {
+          "x": 430,
+          "y": 2701
+        }
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "238419047",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2022-08-01T13:21:57.354Z",
+      "resolved_at": null,
+      "message": "@Ekaterina Galetski out of curiosity, have you explored options that take up less space so that there is more of the background visible?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1950:63885",
+        "node_offset": {
+          "x": 3347,
+          "y": 1128
+        }
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "237782681",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Patel",
+        "img_url": "https://www.gravatar.com/avatar/6bc166b31817afea3ac723da5245614b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "977606083277680904"
+      },
+      "created_at": "2022-07-29T21:03:38.056Z",
+      "resolved_at": null,
+      "message": "Having a button embedded inside a string isn't currently supported, and something we advise against. Can we stick to having description text + button below?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1950:63885",
+        "node_offset": {
+          "x": 1138,
+          "y": 1340
+        }
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "232829308",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Ekaterina Galetski",
+        "img_url": "https://s3-alpha.figma.com/profile/90d9c8c0-de8f-4290-ab0b-cd4f88b60f31",
+        "id": "986671480981835276"
+      },
+      "created_at": "2022-07-21T23:00:22.056Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak and two on tablet",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2134:57440",
+        "node_offset": {
+          "x": 5766,
+          "y": 2329
+        }
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "232827153",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Ekaterina Galetski",
+        "img_url": "https://s3-alpha.figma.com/profile/90d9c8c0-de8f-4290-ab0b-cd4f88b60f31",
+        "id": "986671480981835276"
+      },
+      "created_at": "2022-07-21T22:52:21.599Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Yes, 3 lines indeed.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1950:64573",
+        "node_offset": {
+          "x": 804,
+          "y": 4572
+        }
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "232825624",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Ekaterina Galetski",
+        "img_url": "https://s3-alpha.figma.com/profile/90d9c8c0-de8f-4290-ab0b-cd4f88b60f31",
+        "id": "986671480981835276"
+      },
+      "created_at": "2022-07-21T22:46:47.860Z",
+      "resolved_at": null,
+      "message": "@Ashley Thomas + @Yoana Rios Diaz + @Roux Buciu",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2134:57440",
+        "node_offset": {
+          "x": 4902,
+          "y": 1809
+        }
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "231025984",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2022-07-19T19:35:36.697Z",
+      "resolved_at": null,
+      "message": "@Ekaterina Galetski L10n team wants to know if the content will stretch to more than 2 lines if the translation ends up running longer. Do you know if this is true?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1950:64573",
+        "node_offset": {
+          "x": 927,
+          "y": 3777
+        }
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "230050672",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2022-07-18T16:20:45.945Z",
+      "resolved_at": null,
+      "message": "I prefer this header",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1760:51327",
+        "node_offset": {
+          "x": 2033,
+          "y": 1897
+        }
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "230050430",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2022-07-18T16:20:24.962Z",
+      "resolved_at": null,
+      "message": "Wondering if you could be more opinionated in the header here, and distinguish it from the privacy card preceding it... \n\nYou control your data\nWe've designed Firefox to...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1760:51327",
+        "node_offset": {
+          "x": 1954,
+          "y": 1649
+        }
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "230046812",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2022-07-18T16:15:21.741Z",
+      "resolved_at": null,
+      "message": "I prefer this header. \n\nAlt body suggestion: Featuring Total Cookie Protection to stop trackers from using cookies to stalk you across sites.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1760:51327",
+        "node_offset": {
+          "x": 2061,
+          "y": 1410
+        }
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "230046443",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2022-07-18T16:14:53.151Z",
+      "resolved_at": null,
+      "message": "I prefer this headline. How about a combo of body copy? \"Sync tabs and bookmarks across devices for seamless screen-hopping.\" Probably a good idea to mention 'sync' somewhere but I like it being less prominent.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2022-07-18T16:19:39.195Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1760:51327",
+        "node_offset": {
+          "x": 1691,
+          "y": 1152
+        }
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "230045463",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2022-07-18T16:13:31.865Z",
+      "resolved_at": null,
+      "message": "Maybe you don't need \"put the toolbar within easy reach\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1760:51327",
+        "node_offset": {
+          "x": 2028,
+          "y": 946
+        }
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "230044890",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2022-07-18T16:12:42.181Z",
+      "resolved_at": null,
+      "message": "Alt: Pick toolbar placement (drop 'your'?)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1760:51327",
+        "node_offset": {
+          "x": 2071,
+          "y": 899
+        }
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "230043035",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2022-07-18T16:10:00.747Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I prefer this header over the 'Personalization. Privacy/Backed by...\" do you need the subhead at all? I feel like there is a lot happening already so maybe you can forgo and the cards themselevs tell the story?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1760:51327",
+        "node_offset": {
+          "x": 2110,
+          "y": 491
+        }
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "230042351",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2022-07-18T16:08:54.543Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak On the desktop side of the house, we've been told by PM that 'personalization' is different than the strategy of 'Personal browser' so we have stayed away from the term. Have you gotten any feedback like that on the mobile side?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1760:51327",
+        "node_offset": {
+          "x": 1455,
+          "y": 504
+        }
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "227525012",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2022-07-13T14:30:25.052Z",
+      "resolved_at": null,
+      "message": "@Ekaterina Galetski @Ashley Thomas Here are two copy options for the first run Android onboarding. Please have a look and let me know what you think. Thanks!",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2022-07-13T17:09:50.436Z",
+          "user": {
+            "id": "986671480981835276",
+            "handle": "Ekaterina Galetski",
+            "img_url": "https://s3-alpha.figma.com/profile/90d9c8c0-de8f-4290-ab0b-cd4f88b60f31"
+          }
+        },
+        {
+          "emoji": ":eyes:",
+          "created_at": "2022-07-13T17:09:55.853Z",
+          "user": {
+            "id": "986671480981835276",
+            "handle": "Ekaterina Galetski",
+            "img_url": "https://s3-alpha.figma.com/profile/90d9c8c0-de8f-4290-ab0b-cd4f88b60f31"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1760:51327",
+        "node_offset": {
+          "x": 1406,
+          "y": 390
+        }
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "225104305",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2022-07-08T16:09:28.137Z",
+      "resolved_at": null,
+      "message": "Instead of leading to settings, can we configure this to switch between top & bottom from here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1469:45220",
+        "node_offset": {
+          "x": 1820,
+          "y": 2816
+        }
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "224527153",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2022-07-07T20:23:29.785Z",
+      "resolved_at": null,
+      "message": "Instead of wallpapers, this is the dark/light color scheme",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1488:43632",
+        "node_offset": {
+          "x": 828,
+          "y": 546
+        }
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "223483603",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2022-07-06T14:43:12.795Z",
+      "resolved_at": null,
+      "message": "@Ekaterina Galetski - I started laying out copy for updating Android users here. Please ignore the fact that they are iOS designs--just using for copy purposes.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1488:43692",
+        "node_offset": {
+          "x": 160,
+          "y": 1244
+        }
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "219202479",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2022-06-28T20:51:19.885Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber When you select different wallpapers, does the background of this screen change to match?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "916:44775",
+        "node_offset": {
+          "x": 323,
+          "y": 242
+        }
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "218937552",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2022-06-28T14:20:33.945Z",
+      "resolved_at": null,
+      "message": "Maybe we can turn this area into more of a branded moment with this headline and an illustration?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1448:43065",
+        "node_offset": {
+          "x": 322,
+          "y": 1222
+        }
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "216624026",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2022-06-23T15:31:44.515Z",
+      "resolved_at": null,
+      "message": "For major release: Do we want to match desktop and emphasize sign in verses sign up?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "877:43885",
+        "node_offset": {
+          "x": 155,
+          "y": 510
+        }
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "196628916",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2022-05-18T10:03:14.571Z",
+      "resolved_at": null,
+      "message": "@Brian Jones I tried to mirror the copy from iOS, please double-check if it looks alright to you. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "916:44775",
+        "node_offset": {
+          "x": 330,
+          "y": 108
+        }
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "196628386",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2022-05-18T10:02:32.239Z",
+      "resolved_at": null,
+      "message": "@Brian Jones it's a boomerang; I had a look at the deck Betsy shared and on slide 8 she mentions to deprecate Sync as product name, could you have a look and see if we need to change anything https://docs.google.com/presentation/d/1sPjiiICLQeQhbaYCK0VXiurOq9YvqSWI8u4HMhlWKPM/edit?usp=sharing :hand_with_index_and_middle_fingers_crossed:  Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "877:43885",
+        "node_offset": {
+          "x": 81,
+          "y": 0
+        }
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "192246205",
+      "uuid": null,
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Brian Jones",
+        "img_url": "https://www.gravatar.com/avatar/b10f293cf21366e5d44b55f0314b3d27?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1021782824403362369"
+      },
+      "created_at": "2022-05-10T14:34:16.026Z",
+      "resolved_at": null,
+      "message": "@Ashley Thomas , here are a couple potential copy directions for addressing the wallpaper/sync interim IOS onboarding solution.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "817:42176",
+        "node_offset": {
+          "x": 179,
+          "y": 29
+        }
+      },
+      "order_id": "7"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1172536563",
+      "uuid": "5f54ee19-4ad8-4a64-be1e-e0f3acf04bf2",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-03-13T18:36:04.327Z",
+      "resolved_at": null,
+      "message": "I like adding Fox to the bottom two - it helps describe them and maybe is better for A11Y?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15230:6938",
+        "node_offset": {
+          "x": 163,
+          "y": 106
+        },
+        "stable_path": [
+          "15230:6938"
+        ]
+      },
+      "order_id": "209"
+    },
+    {
+      "id": "673632573",
+      "uuid": "4d5a1da9-b604-4c7f-9ccd-0ece41a79047",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-01-18T18:41:35.836Z",
+      "resolved_at": null,
+      "message": "Need to write alt text for the images",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9186:2997",
+        "node_offset": {
+          "x": 250,
+          "y": 1450
+        },
+        "stable_path": [
+          "9186:2997"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "590162329",
+      "uuid": "c9f2e540-851b-49f9-baa2-0b0cc0e9957e",
+      "file_key": "7J6gh5D8DbGTExxskKdn3T",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-10-19T16:54:53.918Z",
+      "resolved_at": null,
+      "message": "Copying my answers from Slack, @Gabrielle Lussier:\n1. I\u2019d say the weakest option is `Match iOS Settings checkmark` - because the checkmark is so far away from the option, it may be harder for people with low vision and people with cognitive difficulties to clearly understand which option is actually checked. Plus, the component won\u2019t enlarge with the font. The next weakest option is, IMO, `Checkbox with large visual indicator` because the checkbox does not enlarge and there are no other indication of the selected state. Other 3 looks similarly accessible, given they will be programmed to communicate all the info to an assistive technology well.\n2. No apparently inaccessible options are there. Thank you for making examples for larger text font and the reflow too!\n3. Removing the text from the screen always poses a possible difficulty for users with cognitive difficulties and users with low vision who do not use a screen reader - they will have to guess which option is which in the image and it may be not easy for them. Having an on-screen text `Top`/`Bottom` is the most delightful experience for most users\n4. Thickening of the border, especially when it is [2px change or more](https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html) is great indication of a state change that does not rely on a color alone - this is much better option for users with color deficiency, users with low vision, and users with glare on their screens too because they do not have to get the (sometimes subtle even with 3:1 color contrast or highler) subtle difference between colors.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8951:5152",
+        "node_offset": {
+          "x": 1879,
+          "y": 1503
+        },
+        "stable_path": [
+          "8951:5152"
+        ]
+      },
+      "order_id": "113"
+    }
+  ]
+}

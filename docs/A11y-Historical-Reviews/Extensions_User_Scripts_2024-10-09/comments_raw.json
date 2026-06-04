@@ -1,0 +1,682 @@
+{
+  "unresolved": [
+    {
+      "id": "1028432263",
+      "uuid": "6764af4d-23e6-45f6-a104-8a09fe2c2c08",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-15T20:02:52.349Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber ! The ellipses icon button should have the ButtonText outline similar to the Settings icon button above. Thank you :grinning:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7427:1106",
+        "node_offset": {
+          "x": 662,
+          "y": 90
+        },
+        "stable_path": [
+          "7427:1106"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1028429762",
+      "uuid": "2019ca7d-4188-426b-bafd-a81b5c5967f2",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-15T19:59:48.686Z",
+      "resolved_at": null,
+      "message": "hey @Nicole Weber - this should follow the styling for HCM tab strip. To note, I'll share the link but it appears the Desert theme is missing from the subcomponent so I wrote out what the values would be:\n\nDEFAULT\nButtonText - border, text\nButtonFace - background\n\nACTIVE\nButtonText - border\nSelectedItem - background\nSelectedItemText - text\n\nTab Strip HCM- https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-6267&node-type=instance&t=H5LGwoP9WVqkxJao-0\n\nHCM Theme References- https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=438-580&node-type=canvas&t=UBmUThVTH46jNTKh-0\n\nLet me know if you have any questions! Thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7427:1106",
+        "node_offset": {
+          "x": 142,
+          "y": 157
+        },
+        "stable_path": [
+          "7427:1106"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1028250877",
+      "uuid": "c03243ac-c30e-4ef7-8024-8256ce77c30b",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-15T17:00:06.034Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber ! This link should have the same styling as the 'Learn more about permissions' link above. Thank you! (For reference: https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=215-1008&node-type=canvas&t=VISOsZoIRpIv7lkP-0)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7430:1352",
+        "node_offset": {
+          "x": 79,
+          "y": 188
+        },
+        "stable_path": [
+          "7430:1352"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1028249316",
+      "uuid": "65d5ee3e-8860-42bd-8864-617a30628567",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-15T16:58:52.916Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber - this one will need to reflection the HCM default icon button styling similar to the settings icon button to the right :) For reference: https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=9-458&node-type=canvas&t=VISOsZoIRpIv7lkP-0\nThank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7427:1106",
+        "node_offset": {
+          "x": 24,
+          "y": 25
+        },
+        "stable_path": [
+          "7427:1106"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1027145984",
+      "uuid": "6e48839e-c111-4577-bd48-5a19b60224a7",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-15T01:55:46.031Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber ! This should reflect the style of the HCM default icon button shown here - https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=9-458&node-type=canvas&t=yJ5LnBlhweFx4bQm-0\nThank you!! :grin:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7427:1106",
+        "node_offset": {
+          "x": 650,
+          "y": 28
+        },
+        "stable_path": [
+          "7427:1106"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1021166401",
+      "uuid": "78601018-791f-4a6d-8101-4851cee07134",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-11T18:21:21.407Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber ! Same as the comment for the desktop side, this can be added to Screen Reader Annotations but note that the button is disabled (+ needs a disabled attribute). Thank you! :partying_face:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7430:15640",
+        "node_offset": {
+          "x": 332,
+          "y": 689
+        },
+        "stable_path": [
+          "7430:15640"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1017678772",
+      "uuid": "3e533c33-4bf8-4d37-bad1-2d3753f169aa",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-07T20:19:21.890Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber ! For the 'Allow' button, this could be added to the Screen Reader Annotations with a button role and a note that the 'disabled' attribute should be added (for reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button#attributes). Thank you! :grin:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7357:590",
+        "node_offset": {
+          "x": 1211,
+          "y": 291
+        },
+        "stable_path": [
+          "7357:590"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1017672935",
+      "uuid": "c57c1b24-4d5c-4b30-a881-a29264a7291b",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-07T20:14:20.334Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber ! When a user clicks on the 'Learn more' link, where does it take them?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7429:929",
+        "node_offset": {
+          "x": 103,
+          "y": 12
+        },
+        "stable_path": [
+          "7429:929"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "985503296",
+      "uuid": "cad95dbb-c344-456e-b33d-b06c9178f45e",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-10-14T18:35:36.916Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber ! Just wanted to clarify if both buttons will be following the secondary pattern or if there will be secondary + primary. Thank you :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7251:1532",
+        "node_offset": {
+          "x": 1159,
+          "y": 291
+        },
+        "stable_path": [
+          "7251:1532"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "968027585",
+      "uuid": "c2ae72ac-22e3-41f5-a329-7bc5b3951ff2",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-30T13:29:25.353Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber All of these strings are done with legal review but still need a l10n review",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7147:9341",
+        "node_offset": {
+          "x": 215,
+          "y": 30
+        },
+        "stable_path": [
+          "7147:9341"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "956303739",
+      "uuid": "9985c25a-fa3e-4615-a902-e26a99a19598",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-19T21:00:15.658Z",
+      "resolved_at": null,
+      "message": "Will the extension not work as intended if the user doesn't enable these permissions?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7120:7539",
+        "node_offset": {
+          "x": 922,
+          "y": 129
+        },
+        "stable_path": [
+          "7120:7539"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "956303311",
+      "uuid": "cd881045-928f-4aee-ba84-48102e23c4c2",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-19T20:59:46.582Z",
+      "resolved_at": null,
+      "message": "The gist here is that the extension is enabled but not fully working bc of a permissions issue, right?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7120:7340",
+        "node_offset": {
+          "x": 1048,
+          "y": 139
+        },
+        "stable_path": [
+          "7120:7340"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "956302827",
+      "uuid": "2c4ba1b2-5761-47cc-a7b9-56418700333b",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-19T20:59:16.141Z",
+      "resolved_at": null,
+      "message": "The user script will come from the app developer, yes? Do we have any examples? Any risks they will write gibberish here or something hard to understand? Or are there standard options?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7120:7346",
+        "node_offset": {
+          "x": 944,
+          "y": 263
+        },
+        "stable_path": [
+          "7120:7346"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "956190377",
+      "uuid": "10daeb1d-26c1-42b9-baec-211582be4297",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-09-19T19:17:42.052Z",
+      "resolved_at": null,
+      "message": "@Rob Wu from your Slack message: What I'd also like to see for comparison is a new document with a flow where the user has to manually interact with about:addons to toggle a checkbox (e.g. \"Allow extensions to manage user scripts\"). This flow is less obvious to the user and would require the extension to teach the user to do it. When this global toggle is used, the permission request could follow the regular flow as documented (SUMO docs, extension workshop docs). I expect extension developers to prefer the flow you've described before (\"checkbox in permission prompt\") over the one from this paragraph (\"global toggle\"). \n\n--> is this it or is there more to it?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7120:7574",
+        "node_offset": {
+          "x": 654,
+          "y": 211
+        },
+        "stable_path": [
+          "7120:7574"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "955768527",
+      "uuid": "31fdd20b-8724-4865-8b32-c4e08c82ebf1",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Rob Wu",
+        "img_url": "https://www.gravatar.com/avatar/cd0b13a6822ca45956e86bd365893791?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1009075524053089511"
+      },
+      "created_at": "2024-09-19T14:25:05.270Z",
+      "resolved_at": null,
+      "message": "This mock shows only one permission. This is the desired flow for requesting the necessary permissions.\n\nIn practice, extensions can request any number of permissions. In this case, the desired outcome is that users can click Allow to grant the other requested permissions, and that the userScripts permission is not granted if the user did not check it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7120:7539",
+        "node_offset": {
+          "x": 1020,
+          "y": 165
+        },
+        "stable_path": [
+          "7120:7539"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "955761585",
+      "uuid": "155f8a59-1185-4eff-b9c5-a324a52b049d",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Rob Wu",
+        "img_url": "https://www.gravatar.com/avatar/cd0b13a6822ca45956e86bd365893791?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1009075524053089511"
+      },
+      "created_at": "2024-09-19T14:21:43.913Z",
+      "resolved_at": null,
+      "message": "When the checkbox is unchecked, the outcome of clicking \"Allow\" would not be obvious to users who did not notice the checkbox.\n\nThe only case where ignoring is desirable is when the user does not understand the request and was just mindlessly clicking through.\n\nIn other cases, where the user intended to grant permissions, the effect of \"Allow\" not actually allowing could potentially be confusing. A way to improve for this situation is to e.g. disable the Allow button until the checkbox is checked.\n\nA potential \"downside\" to disabling the button is that users may mindlessly try to click the checkbox to get the button unlocked, an affordance that they are taught from the many existing forms on the internet. I don't know whether this downside outweighs the benefits of reduces confusion in the cases where the user wants to grant permissions.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7120:7539",
+        "node_offset": {
+          "x": 1190,
+          "y": 259
+        },
+        "stable_path": [
+          "7120:7539"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "955486290",
+      "uuid": "c9214ebf-048c-4151-b358-2b6488ee45a3",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Rob Wu",
+        "img_url": "https://www.gravatar.com/avatar/cd0b13a6822ca45956e86bd365893791?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1009075524053089511"
+      },
+      "created_at": "2024-09-19T11:52:19.936Z",
+      "resolved_at": null,
+      "message": "While this notice + CTA would make it easier for user script managers to convert users to the desired flow, I don't think that we need to implement this ourselves, at least not in the MVP. Extensions have the means to detect whether the userScripts permission was granted and then display their own custom UI to the user.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7120:7340",
+        "node_offset": {
+          "x": 1127,
+          "y": 133
+        },
+        "stable_path": [
+          "7120:7340"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1028432263",
+      "uuid": "6764af4d-23e6-45f6-a104-8a09fe2c2c08",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-15T20:02:52.349Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber ! The ellipses icon button should have the ButtonText outline similar to the Settings icon button above. Thank you :grinning:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7427:1106",
+        "node_offset": {
+          "x": 662,
+          "y": 90
+        },
+        "stable_path": [
+          "7427:1106"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1028429762",
+      "uuid": "2019ca7d-4188-426b-bafd-a81b5c5967f2",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-15T19:59:48.686Z",
+      "resolved_at": null,
+      "message": "hey @Nicole Weber - this should follow the styling for HCM tab strip. To note, I'll share the link but it appears the Desert theme is missing from the subcomponent so I wrote out what the values would be:\n\nDEFAULT\nButtonText - border, text\nButtonFace - background\n\nACTIVE\nButtonText - border\nSelectedItem - background\nSelectedItemText - text\n\nTab Strip HCM- https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-6267&node-type=instance&t=H5LGwoP9WVqkxJao-0\n\nHCM Theme References- https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=438-580&node-type=canvas&t=UBmUThVTH46jNTKh-0\n\nLet me know if you have any questions! Thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7427:1106",
+        "node_offset": {
+          "x": 142,
+          "y": 157
+        },
+        "stable_path": [
+          "7427:1106"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1028250877",
+      "uuid": "c03243ac-c30e-4ef7-8024-8256ce77c30b",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-15T17:00:06.034Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber ! This link should have the same styling as the 'Learn more about permissions' link above. Thank you! (For reference: https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=215-1008&node-type=canvas&t=VISOsZoIRpIv7lkP-0)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7430:1352",
+        "node_offset": {
+          "x": 79,
+          "y": 188
+        },
+        "stable_path": [
+          "7430:1352"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1028249316",
+      "uuid": "65d5ee3e-8860-42bd-8864-617a30628567",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-15T16:58:52.916Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber - this one will need to reflection the HCM default icon button styling similar to the settings icon button to the right :) For reference: https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=9-458&node-type=canvas&t=VISOsZoIRpIv7lkP-0\nThank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7427:1106",
+        "node_offset": {
+          "x": 24,
+          "y": 25
+        },
+        "stable_path": [
+          "7427:1106"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1027145984",
+      "uuid": "6e48839e-c111-4577-bd48-5a19b60224a7",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-15T01:55:46.031Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber ! This should reflect the style of the HCM default icon button shown here - https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=9-458&node-type=canvas&t=yJ5LnBlhweFx4bQm-0\nThank you!! :grin:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7427:1106",
+        "node_offset": {
+          "x": 650,
+          "y": 28
+        },
+        "stable_path": [
+          "7427:1106"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1021166401",
+      "uuid": "78601018-791f-4a6d-8101-4851cee07134",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-11T18:21:21.407Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber ! Same as the comment for the desktop side, this can be added to Screen Reader Annotations but note that the button is disabled (+ needs a disabled attribute). Thank you! :partying_face:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7430:15640",
+        "node_offset": {
+          "x": 332,
+          "y": 689
+        },
+        "stable_path": [
+          "7430:15640"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1017678772",
+      "uuid": "3e533c33-4bf8-4d37-bad1-2d3753f169aa",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-07T20:19:21.890Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber ! For the 'Allow' button, this could be added to the Screen Reader Annotations with a button role and a note that the 'disabled' attribute should be added (for reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button#attributes). Thank you! :grin:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7357:590",
+        "node_offset": {
+          "x": 1211,
+          "y": 291
+        },
+        "stable_path": [
+          "7357:590"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1017672935",
+      "uuid": "c57c1b24-4d5c-4b30-a881-a29264a7291b",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-07T20:14:20.334Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber ! When a user clicks on the 'Learn more' link, where does it take them?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7429:929",
+        "node_offset": {
+          "x": 103,
+          "y": 12
+        },
+        "stable_path": [
+          "7429:929"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "985503296",
+      "uuid": "cad95dbb-c344-456e-b33d-b06c9178f45e",
+      "file_key": "MXbHIPIMANW2iIMvHeCSCR",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-10-14T18:35:36.916Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber ! Just wanted to clarify if both buttons will be following the secondary pattern or if there will be secondary + primary. Thank you :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7251:1532",
+        "node_offset": {
+          "x": 1159,
+          "y": 291
+        },
+        "stable_path": [
+          "7251:1532"
+        ]
+      },
+      "order_id": "16"
+    }
+  ]
+}

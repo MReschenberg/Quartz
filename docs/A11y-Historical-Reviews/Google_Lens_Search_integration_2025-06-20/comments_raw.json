@@ -1,0 +1,1242 @@
+{
+  "unresolved": [
+    {
+      "id": "1447000331",
+      "uuid": "b60b687f-5ab8-4ddb-99e4-0dd065661ab0",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-09-29T20:21:40.201Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter - Of the two paths - Discover or Learn - preferring Learn. I can't articulate 'why', so this is likely just OPO.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1498:8442",
+        "node_offset": {
+          "x": 96,
+          "y": 111
+        },
+        "stable_path": [
+          "1498:8442"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1446998434",
+      "uuid": "aba44b1f-80cf-4f8c-82f3-159cbd9372ce",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-09-29T20:20:14.020Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter - Preferring this body copy. I'm a 'just' fan - as in Just right-click - but think you could drop it too, if ya wanted.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-09-29T20:21:08.773Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1498:8495",
+        "node_offset": {
+          "x": 119,
+          "y": 144
+        },
+        "stable_path": [
+          "1498:8495"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1446983285",
+      "uuid": "c7e6fa06-dc3c-4283-868b-9c48c26608d1",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-09-29T20:08:30.683Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter - In this context, \"unlock\" feels like an overstatement. Also a bit redundant of header.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1498:8275",
+        "node_offset": {
+          "x": 153,
+          "y": 147
+        },
+        "stable_path": [
+          "1498:8275"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "1446982562",
+      "uuid": "91b468a2-cf30-459a-911b-0a6d27a77ee9",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-09-29T20:07:55.114Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter - \"Learn more about any image\" in the body copy is redundant of the header here. Also, wondering if it should be 'an image' or 'any image' - or, maybe using both was intentional?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1498:8350",
+        "node_offset": {
+          "x": 147,
+          "y": 143
+        },
+        "stable_path": [
+          "1498:8350"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1446924555",
+      "uuid": "a34d7b99-b1d7-4f9e-9ddc-b4a51b95fac0",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-09-29T19:22:48.109Z",
+      "resolved_at": null,
+      "message": "Alts:\n\n* Do more with any image with Google Lens (don't live the \"with\" ... \"with\"\n* Uncover more about any image with Google Lens",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1495:7282",
+        "node_offset": {
+          "x": 748,
+          "y": 855
+        },
+        "stable_path": [
+          "1495:7282"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "1446913487",
+      "uuid": "db87287f-1e50-40f5-ab66-1c9e4e145219",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-09-29T19:14:45.617Z",
+      "resolved_at": null,
+      "message": "to update",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1495:7390",
+        "node_offset": {
+          "x": 355,
+          "y": 127
+        },
+        "stable_path": [
+          "1495:7390"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1446194968",
+      "uuid": "851c2d6d-2992-4660-b6be-99eb91569764",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Chris Bellini",
+        "img_url": "https://s3-alpha.figma.com/profile/376f0526-9b6d-4128-9a87-8b0c779cc234",
+        "id": "1054843850053268681"
+      },
+      "created_at": "2025-09-29T12:25:41.276Z",
+      "resolved_at": null,
+      "message": "tagging @Mandy Cheang for visibility on the design process",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-09-29T22:39:04.672Z",
+          "user": {
+            "id": "1060251988854995639",
+            "handle": "Mandy Cheang",
+            "img_url": "https://www.gravatar.com/avatar/2d76603326eaa7f8ed67343faa589b6d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1434:15841",
+        "node_offset": {
+          "x": 53,
+          "y": 6
+        },
+        "stable_path": [
+          "1434:15841"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1441856628",
+      "uuid": "b4ac7783-e93b-45c4-b30c-26151f4193b7",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-09-25T10:25:36.869Z",
+      "resolved_at": null,
+      "message": "@Paul Annett would you mind adding the drop-down element here?\n\nWe should confirm that don't show again will be an option based on the display conditions in the documentation\n\nhttps://docs.google.com/document/d/1PisPZlRR_q-fsPpaKlGJ7HrYsuSbGEj47aS8VSati7E/edit?tab=t.0#heading=h.srvl6gbtrnxq",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1434:13937",
+        "node_offset": {
+          "x": 1299,
+          "y": 266
+        },
+        "stable_path": [
+          "1434:13937"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1440854317",
+      "uuid": "e471e34f-7f90-43f9-b4c7-f45d95829296",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-09-24T20:01:39.649Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter - What is the benefit of this feature? Is there a top use case for it? It feels like that shoud be leading / driving the callout. Otherwise, the callout is only taking a very functional approach. \n\nI wonder if even a slight change of phrasing could help, where the focus in the headline isn't on \"Search\" but what the benefit of searching is - like learning more about the image, finding where it came from, finding similar images, etc. \n\nCrude headline riffs:\nLearn more about any image you see\nWhat's that I see?\n\nCrude body riffs: \nIdentify what's in an image, translate text, find similar items, and more. Right-click an image and Search with Google Lens.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1434:15841",
+        "node_offset": {
+          "x": 702,
+          "y": 209
+        },
+        "stable_path": [
+          "1434:15841"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1440842313",
+      "uuid": "0cca6084-f17a-4d2e-a459-63ddf0b611c6",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-09-24T19:52:28.085Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter - Wondering if the \"on any page\" is needed here. I assumed it would be that way, unless told otherwise.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1434:15841",
+        "node_offset": {
+          "x": 705,
+          "y": 178
+        },
+        "stable_path": [
+          "1434:15841"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1440830809",
+      "uuid": "e9dd5060-5eab-41f7-a70b-94c2dd6d8864",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-09-24T19:44:01.050Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter - In the design, it looks like you're using the split dismiss button. Do the \"do not show again\" rules apply when any of the Dismiss options are chosen (so, the button in view and any of the options from the dropdown?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1434:17370",
+        "node_offset": {
+          "x": 348,
+          "y": 288
+        },
+        "stable_path": [
+          "1434:17370"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1438561776",
+      "uuid": "4b8ef6b7-73eb-4eb1-a56a-2b058c4c9423",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-09-23T17:14:38.597Z",
+      "resolved_at": null,
+      "message": "updating to books image",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1311:8017",
+        "node_offset": {
+          "x": 124,
+          "y": 26
+        },
+        "stable_path": [
+          "1311:8017"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1429809200",
+      "uuid": "4c967df2-610c-415d-9f59-0f01f9fc92a6",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-09-17T11:31:12.885Z",
+      "resolved_at": null,
+      "message": "\"any image on any page\"\n\nvs \n\n\"any image on this page\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1306:7268",
+        "node_offset": {
+          "x": 136,
+          "y": 17
+        },
+        "stable_path": [
+          "1306:7268"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1429807330",
+      "uuid": "8f9cfa63-7a60-4f42-b1d9-07ba6d949a2f",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-09-17T11:30:11.600Z",
+      "resolved_at": null,
+      "message": "is \"anything\" accurate in our implementation without the selector tool?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1306:6749",
+        "node_offset": {
+          "x": 139,
+          "y": 20
+        },
+        "stable_path": [
+          "1306:6749"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1375675862",
+      "uuid": "eff9dabe-a7eb-4e1a-8fc1-db50838f2e69",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2025-08-08T16:18:28.526Z",
+      "resolved_at": null,
+      "message": "I would love to prioritize this",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "786:7684",
+        "node_offset": {
+          "x": 444.5576171875,
+          "y": 348
+        },
+        "stable_path": [
+          "786:7684"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1368025970",
+      "uuid": "f0c77873-88fb-46ca-ac70-76ebf49bf301",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2025-08-04T15:44:41.926Z",
+      "resolved_at": null,
+      "message": "@Paul Annett Hi Paul, I've dropped in a few sketch options for the illustration. Let me know what you think of any of these. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1089:6424",
+        "node_offset": {
+          "x": 45,
+          "y": 37
+        },
+        "stable_path": [
+          "1089:6424"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1352669893",
+      "uuid": "1aa37b62-0060-4e0a-b943-7612c8261624",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2025-07-23T18:16:25.113Z",
+      "resolved_at": null,
+      "message": "@Paul Annett Hi! Just a quick question here: Is this more or less what you were thinking of in terms of dimension/layout for the feature callout illustration?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "786:6807",
+        "node_offset": {
+          "x": 513.475341796875,
+          "y": 49
+        },
+        "stable_path": [
+          "786:6807"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1316306045",
+      "uuid": "a02614a3-b806-4335-9eb8-ad45a8dca861",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Drew Willcoxon",
+        "img_url": "https://www.gravatar.com/avatar/308b00b42f1a2f3c374bb3a7a851c115?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "950935078959088945"
+      },
+      "created_at": "2025-06-26T19:01:25.516Z",
+      "resolved_at": null,
+      "message": "Some users skip versions, or upgrade days/weeks after a new version is released. Instead of basing the starting point for this logic on the version that the feature was introduced in, should it be based on the first time the user sees the New label for that feature? So f.e. if a feature is introduced in 150 but the user skips to 152, they won't see the label at all if we base the calculation on 150. If instead we base it on the first time they saw the label, in 152, then we can continue to show the label for 2 versions, in 152 and 153.\n\nWhat if the user is new to Firefox? Should they see the New label, since everything is new to them?\n\nThe bullet point here says \"visible for 2 versions (8 weeks)\" -- should the calculation be based on number of versions or time elapsed? Or can engineering pick?\n\nOne bullet point here says 2 versions but the next point says 3 versions max -- so is it really 3 versions max? For clarity, could we remove the \"2 versions\" wording?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "481:5967",
+        "node_offset": {
+          "x": 408,
+          "y": 815
+        },
+        "stable_path": [
+          "481:5967"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1316269577",
+      "uuid": "983862a6-ff5c-4b45-9930-49ad673f1703",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-06-26T18:33:26.512Z",
+      "resolved_at": null,
+      "message": "@Drew Willcoxon @Chris Bellini: This is something the Google will control.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "486:10059",
+        "node_offset": {
+          "x": 561.5,
+          "y": 25
+        },
+        "stable_path": [
+          "486:10059"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1316053404",
+      "uuid": "3072544a-3a64-44e0-a203-77822b73b39d",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-06-26T15:55:44.876Z",
+      "resolved_at": null,
+      "message": "How many people do we need to see it",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "757:13266",
+        "node_offset": {
+          "x": 121.96875,
+          "y": 357.33642578125
+        },
+        "stable_path": [
+          "757:13266"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1316052273",
+      "uuid": "546ef225-b38e-45a8-ab8e-45df2cd8dd44",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-06-26T15:55:03.571Z",
+      "resolved_at": null,
+      "message": "How many people do see this context menu. It is a better entry point then what we might think",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "757:13266",
+        "node_offset": {
+          "x": 187.96875,
+          "y": 269.33642578125
+        },
+        "stable_path": [
+          "757:13266"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1310559589",
+      "uuid": "d6ad2a9f-167c-404c-94fb-504f0f0f334c",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-06-23T21:07:28.182Z",
+      "resolved_at": null,
+      "message": "@Gayatri Pendse to let us know what use cases around text we need to include.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "658:2024",
+        "node_offset": {
+          "x": 780,
+          "y": 830.5
+        },
+        "stable_path": [
+          "658:2024"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1308376342",
+      "uuid": "111f709b-ff4f-4a35-bbbd-d7f4e055eab6",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-06-20T22:59:03.322Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter I am thinking this would probably be just the typical SERP engine name.. since it's a picture. \n\nwhat do u think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "486:10059",
+        "node_offset": {
+          "x": 484.5,
+          "y": 22
+        },
+        "stable_path": [
+          "486:10059"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1308365878",
+      "uuid": "7bb6f563-f082-4386-951d-aee925c23441",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-06-20T22:27:29.063Z",
+      "resolved_at": null,
+      "message": "Ok so I am thinking about annotation here.. what is an equal listening experience to immediately seeing a new badge next to items.. and the more I think.. the more I'm like\n\nshould it not be when the user first opens a context menu and it says \n* \"context menu 1 of 12, two \"new\" items\", press [command] to check out new\"\n\nAlso happy to keep what I have in specs rh.. I just thought to myslef, the reason this badge is so bright and in your face is to capture the user's attention to let them know there's something new in this menu.. and I am like how can we create an equal experience without being annoying. \n\nCc @Anna Yeddi @Natalie Stroud",
+      "reactions": [
+        {
+          "emoji": ":eyes:",
+          "created_at": "2025-07-01T17:58:33.841Z",
+          "user": {
+            "id": "1065698646736968458",
+            "handle": "Anna Yeddi",
+            "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "658:1870",
+        "node_offset": {
+          "x": 217,
+          "y": 15
+        },
+        "stable_path": [
+          "658:1870"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1293468504",
+      "uuid": "941f4a7c-0e96-46cc-9564-4f192ad64962",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-06-10T19:33:40.845Z",
+      "resolved_at": null,
+      "message": "Bottom position for this item is good",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "481:5945",
+        "node_offset": {
+          "x": 268,
+          "y": 354
+        },
+        "stable_path": [
+          "481:5945"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1293468297",
+      "uuid": "4e923db1-cdd1-4e58-9cfc-cb5b9ceee8e0",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-06-10T19:33:30.400Z",
+      "resolved_at": null,
+      "message": "possibly swap \"Copy Text From Image\" with \"Email Image...\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "481:5945",
+        "node_offset": {
+          "x": 219,
+          "y": 322
+        },
+        "stable_path": [
+          "481:5945"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1239854056",
+      "uuid": "ae11f2aa-9f06-4e75-860e-3cb335db96e4",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-05-01T14:35:14.661Z",
+      "resolved_at": null,
+      "message": "@Chris Bellini @Drew Willcoxon in this workflow when Lens recognizes the image has text the user could copy, we don't send the user directly to SERP. Is this technically possible?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "219:2550",
+        "node_offset": {
+          "x": 472,
+          "y": 350
+        },
+        "stable_path": [
+          "219:2550"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1238806488",
+      "uuid": "c69361fe-5d51-4e84-8e85-3ba8b4bdf540",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-04-30T16:01:40.824Z",
+      "resolved_at": null,
+      "message": "Use Google icon in search button to clearly indicate this is a Google feature? @Juliana Gaibler",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "219:2738",
+        "node_offset": {
+          "x": 368,
+          "y": 18
+        },
+        "stable_path": [
+          "219:2738"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1238801645",
+      "uuid": "0629f2ab-7de1-403a-b65f-2b4a28ab8130",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-04-30T15:58:46.609Z",
+      "resolved_at": null,
+      "message": "@Jules Simplicio I kind of don't want to implement this because this workflow is integrated with Google and leverages their technology. Not sure I want to use our \"native\" component which may imply to users this is a Firefox workflow?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "219:5649",
+        "node_offset": {
+          "x": 234,
+          "y": 20
+        },
+        "stable_path": [
+          "219:5649"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1238724347",
+      "uuid": "ecce1197-6d46-4913-84a0-d70e69198807",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-04-30T15:16:43.230Z",
+      "resolved_at": null,
+      "message": "Crosshairs?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "122:26400",
+        "node_offset": {
+          "x": 191,
+          "y": 335
+        },
+        "stable_path": [
+          "122:26400"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1235190484",
+      "uuid": "c1eaa09c-c7fc-44fc-ae0a-ca80c714529f",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-04-28T18:39:09.721Z",
+      "resolved_at": null,
+      "message": "Is there a way to make the border around the image even more prominent?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "122:26400",
+        "node_offset": {
+          "x": 1095,
+          "y": 778
+        },
+        "stable_path": [
+          "122:26400"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1235187230",
+      "uuid": "7952bbd8-35f9-4ba9-acd8-803b3a1f2287",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-04-28T18:36:40.033Z",
+      "resolved_at": null,
+      "message": "Is it important as we get into the workflow that we somehow persist the fact that this is a Google tool",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "122:26452",
+        "node_offset": {
+          "x": 725,
+          "y": 840
+        },
+        "stable_path": [
+          "122:26452"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1235185629",
+      "uuid": "5efbaa0f-2d4a-43af-a306-d3aef43d45ce",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-04-28T18:35:29.759Z",
+      "resolved_at": null,
+      "message": "Check out Ryan's PDF project here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "122:26425",
+        "node_offset": {
+          "x": 308,
+          "y": 28
+        },
+        "stable_path": [
+          "122:26425"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1235184721",
+      "uuid": "31b8708d-3569-4b18-bb74-a08591a0ddf6",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-04-28T18:34:47.833Z",
+      "resolved_at": null,
+      "message": "Re-use selection shortcuts pattern (Dasha, Eric)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "122:26400",
+        "node_offset": {
+          "x": 225,
+          "y": 374
+        },
+        "stable_path": [
+          "122:26400"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1235182966",
+      "uuid": "e016a949-36e7-4329-8061-07c890f349aa",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-04-28T18:33:28.940Z",
+      "resolved_at": null,
+      "message": "Look at translations project for in context feedback",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "122:25248",
+        "node_offset": {
+          "x": 9765,
+          "y": 660
+        },
+        "stable_path": [
+          "122:25248"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1235182357",
+      "uuid": "0c80f621-d023-489f-9fa6-d7c8339f84ac",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-04-28T18:32:59.383Z",
+      "resolved_at": null,
+      "message": "We have a panel menu rn (not same as the menu). Updates to that panel is tied to settings project.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "122:28068",
+        "node_offset": {
+          "x": 403,
+          "y": 481
+        },
+        "stable_path": [
+          "122:28068"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1223461470",
+      "uuid": "be986de8-17a4-4a47-8b5d-638963da38c2",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-04-18T16:00:09.371Z",
+      "resolved_at": null,
+      "message": "Requesting a camera icon in place of magnifying glass icon for consistency of meaning",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "122:27339",
+        "node_offset": {
+          "x": 268,
+          "y": 32
+        },
+        "stable_path": [
+          "122:27339"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1223452823",
+      "uuid": "a03fab19-e157-48a2-addd-8fd84ae02710",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-04-18T15:50:47.673Z",
+      "resolved_at": null,
+      "message": "Requesting a camera icon in place of video camera icon",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "122:9707",
+        "node_offset": {
+          "x": 2044,
+          "y": 137
+        },
+        "stable_path": [
+          "122:9707"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1214185153",
+      "uuid": "cbc740b9-a8df-4c50-a401-52a9649b24ac",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-04-11T18:18:30.932Z",
+      "resolved_at": null,
+      "message": "How often do people resize the selection area during this intermediary step?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "48:1182",
+        "node_offset": {
+          "x": 926,
+          "y": 563
+        },
+        "stable_path": [
+          "48:1182"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1214184210",
+      "uuid": "9a24b4e1-d1b1-4df4-bd70-a478341a4fd6",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-04-11T18:17:43.290Z",
+      "resolved_at": null,
+      "message": "STRING: Search Image with Google",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "48:1325",
+        "node_offset": {
+          "x": 93,
+          "y": 355
+        },
+        "stable_path": [
+          "48:1325"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1214183124",
+      "uuid": "b2352255-f1bd-40ae-af69-eb8b16ca1f1f",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-04-11T18:16:47.010Z",
+      "resolved_at": null,
+      "message": "How do we accomodate a separate entry point for the selection tool when text functions would be helpful? A separate flow where a user right clicks, but not on an image might be useful",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "48:1325",
+        "node_offset": {
+          "x": 209,
+          "y": 339
+        },
+        "stable_path": [
+          "48:1325"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1214181351",
+      "uuid": "c337435d-a488-4948-8042-6c112d86ba04",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-04-11T18:15:18.160Z",
+      "resolved_at": null,
+      "message": "User does have the ability to adjust the selection area within the image by clicking on the thumbnail",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "51:1321",
+        "node_offset": {
+          "x": 269,
+          "y": 150
+        },
+        "stable_path": [
+          "51:1321"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1214180528",
+      "uuid": "40b95ee1-4f25-4769-a692-268a783e1d18",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-04-11T18:14:38.187Z",
+      "resolved_at": null,
+      "message": "When the user right clicks, intent is strong. Reduce friction as much as possible. We can forego snapshot tool and go straight to SERP",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "48:1182",
+        "node_offset": {
+          "x": 750,
+          "y": 505
+        },
+        "stable_path": [
+          "48:1182"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1160492206",
+      "uuid": "211a274e-6790-429b-9046-05c6d65ce762",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-03-05T22:16:11.887Z",
+      "resolved_at": null,
+      "message": "Replace this with a non-Google site \nEtsy\nPinterest\nShopping",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "46:4806",
+        "node_offset": {
+          "x": 776,
+          "y": 210
+        },
+        "stable_path": [
+          "46:4806"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1160492079",
+      "uuid": "f64a6d13-b4d3-4a40-9323-80059b0c6f98",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2025-03-05T22:16:05.479Z",
+      "resolved_at": null,
+      "message": "Workflow for combined text and image search",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "51:1321",
+        "node_offset": {
+          "x": 793,
+          "y": 132
+        },
+        "stable_path": [
+          "51:1321"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1308365878",
+      "uuid": "7bb6f563-f082-4386-951d-aee925c23441",
+      "file_key": "pRBvQjgzSoUzUXFGajgcBt",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-06-20T22:27:29.063Z",
+      "resolved_at": null,
+      "message": "Ok so I am thinking about annotation here.. what is an equal listening experience to immediately seeing a new badge next to items.. and the more I think.. the more I'm like\n\nshould it not be when the user first opens a context menu and it says \n* \"context menu 1 of 12, two \"new\" items\", press [command] to check out new\"\n\nAlso happy to keep what I have in specs rh.. I just thought to myslef, the reason this badge is so bright and in your face is to capture the user's attention to let them know there's something new in this menu.. and I am like how can we create an equal experience without being annoying. \n\nCc @Anna Yeddi @Natalie Stroud",
+      "reactions": [
+        {
+          "emoji": ":eyes:",
+          "created_at": "2025-07-01T17:58:33.841Z",
+          "user": {
+            "id": "1065698646736968458",
+            "handle": "Anna Yeddi",
+            "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "658:1870",
+        "node_offset": {
+          "x": 217,
+          "y": 15
+        },
+        "stable_path": [
+          "658:1870"
+        ]
+      },
+      "order_id": "23"
+    }
+  ]
+}

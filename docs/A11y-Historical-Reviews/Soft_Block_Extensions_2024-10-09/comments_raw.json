@@ -1,0 +1,1086 @@
+{
+  "unresolved": [
+    {
+      "id": "1167553093",
+      "uuid": "391116b5-c99a-423b-baac-034e1447a8b4",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-03-11T11:43:17.929Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak softblock: what you think about showing users a doorhanger to draw attention to a softblocked extension to mitigate the risk that users think it's a Firefox issue?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8521:22179",
+        "node_offset": {
+          "x": 814,
+          "y": 117
+        },
+        "stable_path": [
+          "8521:22179"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1051244922",
+      "uuid": "dfd8350b-3167-41e9-9606-9c6ce449ae22",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-12-04T12:02:20.287Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak FYI, I took screenhshots of the implemented flow and added some notes for where it's off, please double-check and you can also test it yourself following the instructions here https://mozilla-hub.atlassian.net/browse/FXMUX-926?atlOrigin=eyJpIjoiOWE4ZmYyZDdkNmQyNDUzY2ExMWEzODI5YTg4NmI3N2UiLCJwIjoiaiJ9",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8381:4062",
+        "node_offset": {
+          "x": 66,
+          "y": 18
+        },
+        "stable_path": [
+          "8381:4062"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "997847076",
+      "uuid": "1987abb2-811a-43e6-8717-46fb2649bbd9",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-10-23T14:45:53.923Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber - just caught this one as I was checking fixes. Can this be updated so it's using the HCM Night Sky 'Hyperlink' color from the Figma library (https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=438-580&node-type=canvas&t=g6MOcgdnWdzgrXfD-0)? Thank you :D",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7838:21147",
+        "node_offset": {
+          "x": 206,
+          "y": 145
+        },
+        "stable_path": [
+          "7838:21147"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "979193052",
+      "uuid": "d8babc12-c6fe-4a99-8f00-e0fcfbbfc82e",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-10-09T07:54:18.328Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak based on your comment in the handoff file about what to do with extensions that are softblocked but the user re-enabled them, I wonder if we should add a subline but it's not a lot of letters we can fit in there... I wonder if having an icon w/o additional context is useful here. Thoughts?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7833:18113",
+        "node_offset": {
+          "x": 243,
+          "y": 121
+        },
+        "stable_path": [
+          "7833:18113"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "976791874",
+      "uuid": "708228de-d7de-457d-a520-27d99293ce36",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-10-07T18:38:25.509Z",
+      "resolved_at": null,
+      "message": "Will we want to keep the \"alert\" icon for a hard block since user can't take action? Pro is letting them know something happened. \n\nDo you know what the dismiss behavior would be for this alert in the case of a hard block?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7788:4450",
+        "node_offset": {
+          "x": 58,
+          "y": 640
+        },
+        "stable_path": [
+          "7788:4450"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "976787677",
+      "uuid": "6452c7e6-db03-41af-85c6-6d5f5855c293",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-10-07T18:34:47.965Z",
+      "resolved_at": null,
+      "message": "Soft block string updated for Android @William Durand",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7414:37501",
+        "node_offset": {
+          "x": 93,
+          "y": 455
+        },
+        "stable_path": [
+          "7414:37501"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "976772824",
+      "uuid": "15e3dcc2-5563-4fd9-91fd-8cd7a5c6aa39",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-10-07T18:22:26.399Z",
+      "resolved_at": null,
+      "message": "@William Durand I have updated the about:addons soft block string per our slack discussion",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7397:16538",
+        "node_offset": {
+          "x": 750.5,
+          "y": 382.5
+        },
+        "stable_path": [
+          "7397:16538"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "976297520",
+      "uuid": "c0bb7df3-a4a1-4c1d-b7fe-91171a97ceff",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-10-07T13:15:25.728Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak related to our discussion on Slack, you think this should be warning (yellow) instead of critical?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7397:16538",
+        "node_offset": {
+          "x": 1031.5,
+          "y": 412.5
+        },
+        "stable_path": [
+          "7397:16538"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "971128331",
+      "uuid": "da1472f5-6d9a-4736-ac20-9320dec8113a",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-10-02T12:16:05.678Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak regarding your comment on the handoff file how to communicate that an extension got softblocked or what to do when a user enabled it again, here are options for the old and new menu -- I think the old one is so limited that we might want to avoid adding an additional warning to it. Curious to get your thoughts! TY!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7719:15505",
+        "node_offset": {
+          "x": 67,
+          "y": 116
+        },
+        "stable_path": [
+          "7719:15505"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "968481685",
+      "uuid": "def88f98-5755-4946-9a74-b6ae8bbb0c9f",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "William Durand",
+        "img_url": "https://www.gravatar.com/avatar/e2fa737f7938f690847d2f5eeea87025?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_w_v2.png",
+        "id": "953314576623771456"
+      },
+      "created_at": "2024-09-30T18:36:58.179Z",
+      "resolved_at": null,
+      "message": "As discussed on Slack, this would be a new pattern and the menu is being redesigned currently. Should we do that or not? Maybe we should focus on the new (upcoming) menu instead?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7414:36262",
+        "node_offset": {
+          "x": 140,
+          "y": 47
+        },
+        "stable_path": [
+          "7414:36262"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "965982858",
+      "uuid": "50f5c12e-72eb-4b67-b5cb-31c77d11c8e7",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "William Durand",
+        "img_url": "https://www.gravatar.com/avatar/e2fa737f7938f690847d2f5eeea87025?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_w_v2.png",
+        "id": "953314576623771456"
+      },
+      "created_at": "2024-09-27T12:11:51.861Z",
+      "resolved_at": null,
+      "message": "We don't need the app name here (like Desktop), right?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7543:3364",
+        "node_offset": {
+          "x": 251,
+          "y": 361
+        },
+        "stable_path": [
+          "7543:3364"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "962938793",
+      "uuid": "c0d79a8c-8148-431a-a8c0-ef50854d5afd",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-25T15:32:15.843Z",
+      "resolved_at": null,
+      "message": "Proposed AMO updates",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4914:45005",
+        "node_offset": {
+          "x": 6830,
+          "y": 332
+        },
+        "stable_path": [
+          "4914:45005"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "951200671",
+      "uuid": "6ad0c1ea-05a6-492a-bacc-09d3f43c3700",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Luca Greco",
+        "img_url": "https://www.gravatar.com/avatar/cb15f57474d95eb43c5d903ae3fa34ae?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "950785534099204803"
+      },
+      "created_at": "2024-09-16T21:26:28.723Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak while working on the draft patch https://phabricator.services.mozilla.com/D222101 (which is meant to make installing a softblocked addon to hit a failure) I've added a placeholder for a new string (and so it is not going to be the generic \"corrupted\" error) and while doing that I noticed that the current message used for the install error on hard-blocked addons is the following:\n\naddon-install-error-blocklisted = { $addonName } could not be installed because it has a high risk of causing stability or security problems.\n\nAnd so in the new placeholder string for the install error on soft-blocked addons I kept the same convetion:\n\naddon-install-error-blocklisted-softblock = { $addonName } could not be installed because it violates Mozilla\u2019s policies.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7340:3140",
+        "node_offset": {
+          "x": 691,
+          "y": 139
+        },
+        "stable_path": [
+          "7340:3140"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "951195984",
+      "uuid": "b3619e83-dd9e-43e1-88cf-456c01b0bdb2",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Luca Greco",
+        "img_url": "https://www.gravatar.com/avatar/cb15f57474d95eb43c5d903ae3fa34ae?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "950785534099204803"
+      },
+      "created_at": "2024-09-16T21:20:40.163Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak while working on https://phabricator.services.mozilla.com/D222366 I noticed that the existing hard-block message is including the add-on name (\"{ $name } has been disabled due to security or stability issues.\") and so it felt like we should keep it consistent in the short term (and then eventually consider changing the convention for all the strings used in the same message-bar).\n\nFor that reason the string I've currently included in the draft patch I've linked here (string that I currently consider a placeholder because I wanted to point that out to you before finalizing that patch) follows the same convention:\n\n\"{ $name } violates Mozilla\u2019s policies and has been disabled for your safety. You can re-enable it, but this may be risky.\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7340:2916",
+        "node_offset": {
+          "x": 526,
+          "y": 622
+        },
+        "stable_path": [
+          "7340:2916"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "950608162",
+      "uuid": "df488498-fd0c-4751-85f8-e3b8b41e5c04",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-16T13:46:07.837Z",
+      "resolved_at": null,
+      "message": "Could we have a warning dot on the affected extension if the user has enabled it to override the block?",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-2:",
+          "created_at": "2024-10-01T13:08:14.641Z",
+          "user": {
+            "id": "862656244535756550",
+            "handle": "Nicole Weber",
+            "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "7414:36262",
+        "node_offset": {
+          "x": 266,
+          "y": 127
+        },
+        "stable_path": [
+          "7414:36262"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "948862194",
+      "uuid": "14183780-b2ad-4656-8190-d6f97ef4604f",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-09-13T13:47:43.100Z",
+      "resolved_at": null,
+      "message": "Sync warning -- warning badge as breadcrumb",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7284:20285",
+        "node_offset": {
+          "x": 118,
+          "y": 52
+        },
+        "stable_path": [
+          "7284:20285"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "948859911",
+      "uuid": "1ead9aee-819f-4066-b141-543cd71fc2ff",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-09-13T13:46:17.588Z",
+      "resolved_at": null,
+      "message": "Can you sideload extensions on Android?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7348:11847",
+        "node_offset": {
+          "x": 161,
+          "y": 75
+        },
+        "stable_path": [
+          "7348:11847"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "948659343",
+      "uuid": "7d9ddf8d-480d-4ef5-9e34-802a65145488",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Luca Greco",
+        "img_url": "https://www.gravatar.com/avatar/cb15f57474d95eb43c5d903ae3fa34ae?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "950785534099204803"
+      },
+      "created_at": "2024-09-13T11:27:06.648Z",
+      "resolved_at": null,
+      "message": "Given that the soft block is applied on specific version of the extensions, and that especially for soft-blocks whick isn't going to be used for malicious extensions but for policy violations, we should state that \"This extension version violates Mozilla's policies\" instead of stating of implicitly stating that all versions would be violating our policies and be prevented from installing.\n\nwdyt?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7284:21398",
+        "node_offset": {
+          "x": 601,
+          "y": 137
+        },
+        "stable_path": [
+          "7284:21398"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "947692511",
+      "uuid": "cd60e34a-c9fb-412e-b00d-daa4f169a6a2",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-09-12T18:32:02.281Z",
+      "resolved_at": null,
+      "message": "Would be interesting to test to see if more info here would be helpful or not helpful - as in, using it may cause security issues or affect how Firefox works.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7359:3759",
+        "node_offset": {
+          "x": 904,
+          "y": 579
+        },
+        "stable_path": [
+          "7359:3759"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "947692026",
+      "uuid": "d3b580dd-723b-44f2-b3f9-f00f78b144e5",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-09-12T18:31:37.842Z",
+      "resolved_at": null,
+      "message": "alt: Enabling it may be risky\n\nNot as \"plain language-y\" but it connects well with the \"Enabled\" header",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-09-12T18:36:13.542Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "7359:3759",
+        "node_offset": {
+          "x": 693,
+          "y": 581
+        },
+        "stable_path": [
+          "7359:3759"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "947689823",
+      "uuid": "1f1c2d53-d5a0-4d13-85a3-66ca304b862d",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-09-12T18:29:50.914Z",
+      "resolved_at": null,
+      "message": "In this case, I wonder if a more explicit CTA might be better... something that hints at \"hey - we'll show you the details of what policies are violated\".\n\nRIff:\nWhy we disabled this",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7359:3668",
+        "node_offset": {
+          "x": 396,
+          "y": 677
+        },
+        "stable_path": [
+          "7359:3668"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "947689282",
+      "uuid": "a63f06be-1585-479f-a142-da103e11128b",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-09-12T18:29:26.885Z",
+      "resolved_at": null,
+      "message": "Is a more inclusive alternate here Active vs. Inactive?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7359:3668",
+        "node_offset": {
+          "x": 345,
+          "y": 474
+        },
+        "stable_path": [
+          "7359:3668"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "947688239",
+      "uuid": "b4d8cc76-22cc-4bb8-a345-0a443e876160",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-09-12T18:28:40.107Z",
+      "resolved_at": null,
+      "message": "As a user, I might be curious which types of policies the extension is violating. Is there a blanket term that works here as a qualifier? \n\"This extension violates Mozilla's privacy and security policies ...\"\n\nIt sounds like we might have to keep this more general though.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7359:3668",
+        "node_offset": {
+          "x": 882,
+          "y": 590
+        },
+        "stable_path": [
+          "7359:3668"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "947686940",
+      "uuid": "d9e897ee-b467-4e77-acbf-7b4e63faf0c3",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-09-12T18:27:41.311Z",
+      "resolved_at": null,
+      "message": "nit: but I think buttons should be in sentence case (even though all over settings that is currently not often the case) \n\nCould be fine if it isn't for consistency. we'll try to clean that up in the redesign",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-09-12T18:30:28.664Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "7359:3846",
+        "node_offset": {
+          "x": 402,
+          "y": 264
+        },
+        "stable_path": [
+          "7359:3846"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "947686854",
+      "uuid": "adbd6a46-df59-4891-b3f4-93e42b9df583",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-09-12T18:27:37.839Z",
+      "resolved_at": null,
+      "message": "The 'for your safety' bit reads a smidge patronizing to me in the soft-block situation. I do like the \"this may be risky\". \n\nI also wonder if some of the categories may not be tied back to safety (related to my audible comment).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7359:3668",
+        "node_offset": {
+          "x": 276,
+          "y": 748
+        },
+        "stable_path": [
+          "7359:3668"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "947403594",
+      "uuid": "5f744fcc-68ad-47ad-a970-0ff4620cd67e",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-12T15:08:33.667Z",
+      "resolved_at": null,
+      "message": "Do you know if this headline has to be the URL of the page you are on? That's what i'm interpreting from the live example... @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7340:3140",
+        "node_offset": {
+          "x": 563,
+          "y": 105
+        },
+        "stable_path": [
+          "7340:3140"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "947256276",
+      "uuid": "8d7a330e-2cdb-4206-9bd4-785e60047436",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-12T13:54:17.207Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber Can you give some more context for these? When is this shown?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7347:11843",
+        "node_offset": {
+          "x": 403,
+          "y": 36
+        },
+        "stable_path": [
+          "7347:11843"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "945763726",
+      "uuid": "08a5a90e-3688-4013-985b-89cfe690522c",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "William Durand",
+        "img_url": "https://www.gravatar.com/avatar/e2fa737f7938f690847d2f5eeea87025?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_w_v2.png",
+        "id": "953314576623771456"
+      },
+      "created_at": "2024-09-11T16:32:00.722Z",
+      "resolved_at": null,
+      "message": "Something I've noticed is that the card current shows a \"more information\" button instead of a \"learn more\" link. cc @Luca Greco",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7284:21030",
+        "node_offset": {
+          "x": 359,
+          "y": 666
+        },
+        "stable_path": [
+          "7284:21030"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "945761529",
+      "uuid": "169b0711-a6d7-40c3-9a4a-f2b52d2b628d",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "William Durand",
+        "img_url": "https://www.gravatar.com/avatar/e2fa737f7938f690847d2f5eeea87025?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_w_v2.png",
+        "id": "953314576623771456"
+      },
+      "created_at": "2024-09-11T16:30:28.660Z",
+      "resolved_at": null,
+      "message": "Are these the reviewed strings? Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7284:21518",
+        "node_offset": {
+          "x": 349,
+          "y": 343
+        },
+        "stable_path": [
+          "7284:21518"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "944824704",
+      "uuid": "1e604345-95e2-4ac2-9ba4-ad9210816df3",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "William Durand",
+        "img_url": "https://www.gravatar.com/avatar/e2fa737f7938f690847d2f5eeea87025?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_w_v2.png",
+        "id": "953314576623771456"
+      },
+      "created_at": "2024-09-11T07:56:08.190Z",
+      "resolved_at": null,
+      "message": "Just a thought but I am wondering if we could simplify the warning here by using a more generic message here? Like we do for quarantined domains: https://support.mozilla.org/en-US/kb/quarantined-domains",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7284:22402",
+        "node_offset": {
+          "x": 735,
+          "y": 229
+        },
+        "stable_path": [
+          "7284:22402"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "942121987",
+      "uuid": "1d346380-f0a9-4d50-ac08-e8090210defe",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-09T15:35:41.685Z",
+      "resolved_at": null,
+      "message": "I recommend flipping the IA and having this message on the bottom. But can we see what this would look like in a list with 1-2 other extensions that are not blocked?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7243:2224",
+        "node_offset": {
+          "x": 569,
+          "y": 125
+        },
+        "stable_path": [
+          "7243:2224"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "942094892",
+      "uuid": "7410c8ee-1a57-473f-9aed-fb74dd026e06",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-09T15:19:17.794Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber I took a first stab at copy on my own playground page. I will get feedback from content team this week, but I wanted you to take a look first to see if there's any red flags. \nI'm assuming that there are many diverse reasons for policy violations and that we can't get specific with this copy.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7243:1913",
+        "node_offset": {
+          "x": 448,
+          "y": 645
+        },
+        "stable_path": [
+          "7243:1913"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "942089485",
+      "uuid": "17f5a22d-c979-431c-bf15-6e215fbc828d",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-09T15:16:08.971Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber in this case, is the extension still enabled?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7243:2312",
+        "node_offset": {
+          "x": 303,
+          "y": 118
+        },
+        "stable_path": [
+          "7243:2312"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "935161184",
+      "uuid": "cd86e304-7564-42c0-a39b-d6fb67a73bc6",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-03T16:56:59.081Z",
+      "resolved_at": null,
+      "message": "Might we consider a warning icon on the toolbar icon as well? i think we do this when there is an issue with your account, for example.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7169:1794",
+        "node_offset": {
+          "x": 855,
+          "y": 65
+        },
+        "stable_path": [
+          "7169:1794"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "935160433",
+      "uuid": "071bdf83-80c3-4e20-9e69-8c5b9c775816",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-03T16:56:24.476Z",
+      "resolved_at": null,
+      "message": "In this example image, it appears that 2 of the extensions are not active on this site for various reasons, but it's hard to tell at a glance that anything is wrong. Would we consider a warning icon or font color change when there's an issue?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7169:1615",
+        "node_offset": {
+          "x": 501,
+          "y": 141
+        },
+        "stable_path": [
+          "7169:1615"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "928115474",
+      "uuid": "9a208f7d-00a8-43b1-bd53-fc1eee0aef87",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Alan Byrne",
+        "img_url": "https://www.gravatar.com/avatar/b9e7276b5478da20a44f75ea814fdab0?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1367127220942679740"
+      },
+      "created_at": "2024-08-28T10:16:39.939Z",
+      "resolved_at": null,
+      "message": "We will need a screen similar to this in case a user tries to install a blocked, unlisted add-on from a 3rd party website.  However we shouldn't allow them to install it, just message the fact that it's blocked from installation and why.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7144:2936",
+        "node_offset": {
+          "x": 574,
+          "y": 34
+        },
+        "stable_path": [
+          "7144:2936"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "928114328",
+      "uuid": "65ae8449-e84f-458b-be2c-ee07ad817d3c",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Alan Byrne",
+        "img_url": "https://www.gravatar.com/avatar/b9e7276b5478da20a44f75ea814fdab0?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1367127220942679740"
+      },
+      "created_at": "2024-08-28T10:16:00.047Z",
+      "resolved_at": null,
+      "message": "We won't need this experience, as blocked add-ons are not listed on AMO. (Nor is any other content that violates our policies)",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-2:",
+          "created_at": "2024-08-29T11:50:40.640Z",
+          "user": {
+            "id": "862656244535756550",
+            "handle": "Nicole Weber",
+            "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "7150:10750",
+        "node_offset": {
+          "x": 491,
+          "y": 261
+        },
+        "stable_path": [
+          "7150:10750"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "928046404",
+      "uuid": "db340f38-ddf6-4c55-b3a0-4e1ff8e46464",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-08-28T09:39:11.264Z",
+      "resolved_at": null,
+      "message": "message will go away when it's attached to extension button, is that ok?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7144:2936",
+        "node_offset": {
+          "x": 756,
+          "y": 47
+        },
+        "stable_path": [
+          "7144:2936"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "927819996",
+      "uuid": "b8e75276-7e51-48df-8159-0afc98085896",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-08-28T07:43:20.679Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler some intial designs for softblocking extensions, curious to get your feedback, thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7150:10093",
+        "node_offset": {
+          "x": 846,
+          "y": 1527
+        },
+        "stable_path": [
+          "7150:10093"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "997847076",
+      "uuid": "1987abb2-811a-43e6-8717-46fb2649bbd9",
+      "file_key": "AW8J0zfwapN2nX7DUkbtBX",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-10-23T14:45:53.923Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber - just caught this one as I was checking fixes. Can this be updated so it's using the HCM Night Sky 'Hyperlink' color from the Figma library (https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=438-580&node-type=canvas&t=g6MOcgdnWdzgrXfD-0)? Thank you :D",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7838:21147",
+        "node_offset": {
+          "x": 206,
+          "y": 145
+        },
+        "stable_path": [
+          "7838:21147"
+        ]
+      },
+      "order_id": "77"
+    }
+  ]
+}

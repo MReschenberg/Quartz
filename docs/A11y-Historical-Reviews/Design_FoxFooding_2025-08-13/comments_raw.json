@@ -1,0 +1,1470 @@
+{
+  "unresolved": [
+    {
+      "id": "1721026541",
+      "uuid": "7146f074-dcd2-4e69-9104-fab48a94e244",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2026-04-16T09:56:19.587Z",
+      "resolved_at": null,
+      "message": "Thanks for the design!\nI have another idea in mind, that I think might be more user friendly. Here how it would go:\n\nThe button \"Import CSV\" would open a dialog. There we'd be able to either open a file (with a button or drag and drop) or paste some string, like you designed in the 2 tabs Paste CSV/Import CSV (except this would be in the dialog)\n\nThe dialog could also be triggered automatically by:\n* drag and dropping a file on top of the view (we'd detect a drag is happening, and the view would change to a drop zone).\n* Pasting something that \"looks like\" a CSV (for example it contains at least 2 lines).\nBoth these options would also open the dialog, pre-filled.\n\nAfter CSV data has been processed, the same dialog would show how the parsed data looks like, still inside the dialog. At this point this would look like the enroll view, but with just the few first rows.\nThere the user could configure after the import how the CSV file looks like and the data would be reparsed to show the change.\nThings I'm thinking about (not all may be needed right now):\nReordering the columns\nDelimiter tab or character, and selection of character (french may use ; instead of , so it's important for us)\nKeep the first row or ignore it\nIf more than 3 columns, be able to pick specific columns (this could also allow to ignore columns more generally, and import just 2 values for each row even though they have 3 or more).\nSpecify OUs through their name or IDs\n\nAt this point I'm not so sure what to do. A CSV could have hundreds of rows, and I'm not sure we want to show them all in the view... So we might want to trigger the import right from the dialog... And that could mean that we could force-set a OU to all items for example. Or just to all the ones where the OU is incorrect? If the OU is incorrect for those users, instead of erroring we could add them without an OU at all, or show an error explaining the issue (maybe this could be configured too so that the admin is in control).\n\nWhat I like with this dialog + configuration is that the user will see what the configuration does. Also I believe this would work better when the CSV contains a ton of rows.\n\nSo here are my (a little more than) 2 cents. Tell me what you think!\n\nI'll start implementing something like this now so would love your feedback :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2722:40649",
+        "node_offset": {
+          "x": 841,
+          "y": 102
+        },
+        "stable_path": [
+          "2722:40649"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "1678438256",
+      "uuid": "33fa0bf2-4d85-4f45-bae2-1eece5b246cc",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2026-03-17T18:19:11.378Z",
+      "resolved_at": null,
+      "message": "yes I think so",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2644:86983",
+        "node_offset": {
+          "x": 273,
+          "y": 64
+        },
+        "stable_path": [
+          "2644:86983"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "1678420884",
+      "uuid": "593fc8fa-a480-4e2d-b247-744ed3e7d600",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2026-03-17T18:08:23.536Z",
+      "resolved_at": null,
+      "message": "I think we should bring back the row separators, if we can have many rows",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "525:16297",
+        "node_offset": {
+          "x": 891,
+          "y": 1520
+        },
+        "stable_path": [
+          "525:16297"
+        ]
+      },
+      "order_id": "111"
+    },
+    {
+      "id": "1661483763",
+      "uuid": "48b34012-8f1d-47b6-a5f6-4eb787f53f41",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2026-03-05T17:53:13.425Z",
+      "resolved_at": null,
+      "message": "Do you feel strongly about the first line? It makes my life a lot easier to have just one line, because this is what I have in the other tables :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2473:69158",
+        "node_offset": {
+          "x": 642,
+          "y": 141
+        },
+        "stable_path": [
+          "2473:69158"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "1656377009",
+      "uuid": "1c1882c7-1129-44e2-ad82-1f3e458187b3",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Matthew Croud",
+        "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83",
+        "id": "746308856678087765"
+      },
+      "created_at": "2026-03-03T10:14:11.231Z",
+      "resolved_at": null,
+      "message": "Yes.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2486:37758",
+        "node_offset": {
+          "x": 433,
+          "y": 406
+        },
+        "stable_path": [
+          "2486:37758"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "1656376194",
+      "uuid": "99f8f512-9475-4bfe-96d7-21a2f2435de1",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Matthew Croud",
+        "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83",
+        "id": "746308856678087765"
+      },
+      "created_at": "2026-03-03T10:13:49.431Z",
+      "resolved_at": null,
+      "message": "as soon as we \"pull in\" every client can update. but we want 2 approval stages, we pull them in and them we approve them for client. Pull In and THEN Approve. pull it in to then download and test. SYnc state is the pull in, out of sync would aslo be a pull in, a seperate APPROVE fro that new pulled release. Pull in just download to the admin serevrs and approve actually allows the clients to uprade to that version.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2486:37758",
+        "node_offset": {
+          "x": 173,
+          "y": 302
+        },
+        "stable_path": [
+          "2486:37758"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "1656370420",
+      "uuid": "e1bce0db-d21f-4c39-86b3-74352afb2707",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Matthew Croud",
+        "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83",
+        "id": "746308856678087765"
+      },
+      "created_at": "2026-03-03T10:11:11.742Z",
+      "resolved_at": null,
+      "message": "would just be shown as STALE then the ADMin can delete it and it will no longer be shown",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2486:37758",
+        "node_offset": {
+          "x": 454,
+          "y": 235
+        },
+        "stable_path": [
+          "2486:37758"
+        ]
+      },
+      "order_id": "107"
+    },
+    {
+      "id": "1656365574",
+      "uuid": "564fb402-748d-47e0-876e-a9704cfd8388",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Matthew Croud",
+        "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83",
+        "id": "746308856678087765"
+      },
+      "created_at": "2026-03-03T10:08:52.751Z",
+      "resolved_at": null,
+      "message": "might show STABLE or ESR release tags.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2380:53051",
+        "node_offset": {
+          "x": 499,
+          "y": 157
+        },
+        "stable_path": [
+          "2380:53051"
+        ]
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "1656364450",
+      "uuid": "5553e500-7578-4af0-8209-4e17ad871744",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Matthew Croud",
+        "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83",
+        "id": "746308856678087765"
+      },
+      "created_at": "2026-03-03T10:08:24.302Z",
+      "resolved_at": null,
+      "message": "for the Mozilla release catalogue, it searches the update server. 155 releases arounbd in total, but we push 20-30 but at the start it will be 3, Stable, ESR, nightly. for every major version we push a release.\nOld major and stable ones will show on the list as \"history\"  stable goes from 146 to 147 to 148, but major versions get updates byt they stop, 140.1, 140.2, 140.3. yes you can see old release but just MAJOR releases. 130.0 and 130.1 is the same release. a release tga and a relse version, a tag is always the major, 130 and the version is the major plus minor, so 130.3. \n\nstable is a releaes that continue through major versions, in UI its probably displayed similar.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2486:37758",
+        "node_offset": {
+          "x": 578,
+          "y": 139
+        },
+        "stable_path": [
+          "2486:37758"
+        ]
+      },
+      "order_id": "105"
+    },
+    {
+      "id": "1656350893",
+      "uuid": "81792b21-62a9-4228-96f2-1a8316a701ff",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Matthew Croud",
+        "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83",
+        "id": "746308856678087765"
+      },
+      "created_at": "2026-03-03T10:01:58.477Z",
+      "resolved_at": null,
+      "message": "stale means Mozilla delete it from their update server.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2486:37758",
+        "node_offset": {
+          "x": 793,
+          "y": 75
+        },
+        "stable_path": [
+          "2486:37758"
+        ]
+      },
+      "order_id": "104"
+    },
+    {
+      "id": "1656348883",
+      "uuid": "aeb2b180-a7ec-48b6-a1db-07499001730d",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Matthew Croud",
+        "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83",
+        "id": "746308856678087765"
+      },
+      "created_at": "2026-03-03T10:00:59.810Z",
+      "resolved_at": null,
+      "message": "For a single release",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2486:37758",
+        "node_offset": {
+          "x": 325,
+          "y": 84
+        },
+        "stable_path": [
+          "2486:37758"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "1654688104",
+      "uuid": "26fd2188-953c-40cd-9eac-f3e8a22015dc",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Matthew Croud",
+        "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83",
+        "id": "746308856678087765"
+      },
+      "created_at": "2026-03-02T12:59:12.424Z",
+      "resolved_at": null,
+      "message": "click on a relase should display a download button to let me download which version I want. it should download the latest version of my platform and locale. so you select the locale and platform. prefer list of downloads, not a drop down for selecting single version.\n\nthey need to test it on a device or use it with FLEET ti send it out.\n\nDownload first, then approve. download button to download to infra, 2 stage, allow admins to download locally and then approve it to roll it out to the people.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2380:53051",
+        "node_offset": {
+          "x": 1216,
+          "y": 255
+        },
+        "stable_path": [
+          "2380:53051"
+        ]
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "1654676822",
+      "uuid": "b492e017-2702-42a1-93be-d0de31af018b",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Matthew Croud",
+        "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83",
+        "id": "746308856678087765"
+      },
+      "created_at": "2026-03-02T12:52:44.157Z",
+      "resolved_at": null,
+      "message": "Releases vs updates terminology. research",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2380:53051",
+        "node_offset": {
+          "x": 705,
+          "y": 627
+        },
+        "stable_path": [
+          "2380:53051"
+        ]
+      },
+      "order_id": "101"
+    },
+    {
+      "id": "1654672406",
+      "uuid": "63789189-a154-422a-ba95-065d4f2966db",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Matthew Croud",
+        "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83",
+        "id": "746308856678087765"
+      },
+      "created_at": "2026-03-02T12:50:16.248Z",
+      "resolved_at": null,
+      "message": "if current version is 147 and new update is 148... 147 --> 148.\nVisually show arrow. visually depict update.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2380:53051",
+        "node_offset": {
+          "x": 1121,
+          "y": 258
+        },
+        "stable_path": [
+          "2380:53051"
+        ]
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "1654669404",
+      "uuid": "cd0fc243-527a-40d5-afda-b4781d6e052e",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Matthew Croud",
+        "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83",
+        "id": "746308856678087765"
+      },
+      "created_at": "2026-03-02T12:48:31.904Z",
+      "resolved_at": null,
+      "message": "3 states.\n\nAuto approve update (existing)\n\nAuto pull in new releases - more risk of something breaking but less risk of being vulnerable. \n\nManual (existing)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2380:53051",
+        "node_offset": {
+          "x": 936,
+          "y": 399
+        },
+        "stable_path": [
+          "2380:53051"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "1654663364",
+      "uuid": "528b52f8-77dd-433b-9f50-61b8709e8318",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Matthew Croud",
+        "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83",
+        "id": "746308856678087765"
+      },
+      "created_at": "2026-03-02T12:45:04.899Z",
+      "resolved_at": null,
+      "message": "4 states:\n\nNEW update hasn't been pulled into console yet. Pull into console. The clients can now update to it. admin sees it but has not yet made it available to the FF fleet.\n\nSYNC, its up to date wth what Mozill ahas on its list.\n\nOut of sync: needs an update, admin hasnt clicked pull update.\n\nStale: CLient has aversion which we no longer push anymore.\n\nEach list item has its own UPDATE.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2380:53051",
+        "node_offset": {
+          "x": 970,
+          "y": 85
+        },
+        "stable_path": [
+          "2380:53051"
+        ]
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "1654655046",
+      "uuid": "253eb294-6bd5-4e62-8911-a3c6c946a630",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Matthew Croud",
+        "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83",
+        "id": "746308856678087765"
+      },
+      "created_at": "2026-03-02T12:40:17.804Z",
+      "resolved_at": null,
+      "message": "NOTES: two releases on the page. Nightly and a stable channel at least.\nA search function to add additional releases.\n\nNeed to think about ESR, extended support release. console can list all updates listed by US, with a specific tag.\nWe should allow admin to search for a specific release and then add that release. \"Pin\" the release so its always displayed.\nWe dont support rolling back (?)\nAdmin can access release history.\n\nClicking check for updates will update and populate the list of possible FF versions. they can \"revoke\" an update.\n\nWant to roll out the update specific groups first. to assess it - diesirable.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2380:53051",
+        "node_offset": {
+          "x": 420,
+          "y": 565
+        },
+        "stable_path": [
+          "2380:53051"
+        ]
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "1652695311",
+      "uuid": "f824c6ca-eb8e-43f5-a583-626dbbd2b33d",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2026-02-27T14:29:22.178Z",
+      "resolved_at": null,
+      "message": "We don't have human readable identifier for devices, so I'm gonna remove this column for now",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-02-27T15:47:46.613Z",
+          "user": {
+            "id": "746308856678087765",
+            "handle": "Matthew Croud",
+            "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2295:46962",
+        "node_offset": {
+          "x": 74,
+          "y": 135
+        },
+        "stable_path": [
+          "2295:46962"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "1651315432",
+      "uuid": "edd433d2-4bb4-4568-a1ef-cc2794ab9a02",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2026-02-26T19:36:44.823Z",
+      "resolved_at": null,
+      "message": "I'd need colors for the forced contrast mode with a white background too",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2298:47467",
+        "node_offset": {
+          "x": 869,
+          "y": 69
+        },
+        "stable_path": [
+          "2298:47467"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "1645903494",
+      "uuid": "c2dc73ba-e554-4bae-9b21-462cdb5d0622",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Matthew Croud",
+        "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83",
+        "id": "746308856678087765"
+      },
+      "created_at": "2026-02-24T10:10:52.126Z",
+      "resolved_at": null,
+      "message": "Remove Date added and add email addresses under users names, same font size standard body copy colour.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1431:60254",
+        "node_offset": {
+          "x": 579,
+          "y": 807
+        },
+        "stable_path": [
+          "1431:60254"
+        ]
+      },
+      "order_id": "94"
+    },
+    {
+      "id": "1606115159",
+      "uuid": "f5c033ee-45e8-4f07-86d3-f58d3ca03593",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2026-01-27T18:00:14.239Z",
+      "resolved_at": null,
+      "message": "suggestion: repeat \"the unit\" instead of \"it\" at the end. The current string works when there are many modifications, but when there is only one, I find the sentence confusing:\n\"The policy modification defined in this organizational unit will be lost if it is deleted.\"\nTell me what you think!",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-01-28T09:42:37.727Z",
+          "user": {
+            "id": "746308856678087765",
+            "handle": "Matthew Croud",
+            "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2197:30389",
+        "node_offset": {
+          "x": 156,
+          "y": 51
+        },
+        "stable_path": [
+          "2197:30389"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "1601216220",
+      "uuid": "01757df8-ce20-449b-9a90-4d7916c7bc49",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2026-01-23T11:59:30.468Z",
+      "resolved_at": null,
+      "message": "as we discussed , we'll replace this dialog with something to only delete the OU. The message will be different if there are members or not.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1693:71013",
+        "node_offset": {
+          "x": 430,
+          "y": 94
+        },
+        "stable_path": [
+          "1693:71013"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "1599615342",
+      "uuid": "f7f331f4-25f1-4675-9db9-0a40bdfee4c7",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2026-01-22T14:53:29.031Z",
+      "resolved_at": null,
+      "message": "customized policies is also an important info to know",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1693:71013",
+        "node_offset": {
+          "x": 113,
+          "y": 64
+        },
+        "stable_path": [
+          "1693:71013"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "1597173157",
+      "uuid": "69992296-0a4c-49eb-964e-27ad94a6a2f3",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2026-01-21T11:58:02.518Z",
+      "resolved_at": null,
+      "message": "Would it be also possible to unassign the users from the OU? They would be without any OU afterwards.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1693:71013",
+        "node_offset": {
+          "x": 329,
+          "y": 173
+        },
+        "stable_path": [
+          "1693:71013"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "1597171139",
+      "uuid": "143f04f4-c05d-4c15-a9b6-d0430d43e731",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2026-01-21T11:56:53.387Z",
+      "resolved_at": null,
+      "message": "When there's no member in the OU, my understanding is that we still want a confirmation modal. In that cast we need a different string. Maybe as simple as \"Are you sure?\" but there could be more explanation too",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1693:71013",
+        "node_offset": {
+          "x": 341,
+          "y": 93
+        },
+        "stable_path": [
+          "1693:71013"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "1561528590",
+      "uuid": "29d61aca-5c73-4d08-851e-d5631f5ae9f9",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-12-17T13:48:07.652Z",
+      "resolved_at": null,
+      "message": "I'm gonna add a \"No OU\" entry if and only if I see users that are part of no OU",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-12-17T17:25:33.742Z",
+          "user": {
+            "id": "746308856678087765",
+            "handle": "Matthew Croud",
+            "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "525:19688",
+        "node_offset": {
+          "x": 175,
+          "y": 133
+        },
+        "stable_path": [
+          "525:19688"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "1561527051",
+      "uuid": "819ec84c-415c-489a-a111-036a845a1813",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-12-17T13:47:21.202Z",
+      "resolved_at": null,
+      "message": "wdyt of linking to the OU page from this mention?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1348:53880",
+        "node_offset": {
+          "x": 466,
+          "y": 133
+        },
+        "stable_path": [
+          "1348:53880"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "1532336639",
+      "uuid": "552bcaec-d48b-434c-9e41-3c514b2334ec",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-11-26T16:37:23.163Z",
+      "resolved_at": null,
+      "message": "will we want the same colors as the user details page?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-11-27T15:42:38.931Z",
+          "user": {
+            "id": "746308856678087765",
+            "handle": "Matthew Croud",
+            "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "347:9314",
+        "node_offset": {
+          "x": 6086,
+          "y": -741
+        },
+        "stable_path": [
+          "347:9314"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "1527536723",
+      "uuid": "0b186215-91d0-434c-87f5-fdb4eb1cfe0c",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-11-24T11:24:50.267Z",
+      "resolved_at": null,
+      "message": "discussed with Florian, the email can't be easily changed",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-11-24T13:22:39.379Z",
+          "user": {
+            "id": "746308856678087765",
+            "handle": "Matthew Croud",
+            "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "743:53363",
+        "node_offset": {
+          "x": 746,
+          "y": 248
+        },
+        "stable_path": [
+          "743:53363"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1522237645",
+      "uuid": "d4cf5ed6-f3dd-485d-b768-5dc674d5916c",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-11-19T20:27:09.121Z",
+      "resolved_at": null,
+      "message": "I think we need a \"reload\" button for the events",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-11-20T10:47:13.950Z",
+          "user": {
+            "id": "746308856678087765",
+            "handle": "Matthew Croud",
+            "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1419:70144",
+        "node_offset": {
+          "x": 1210,
+          "y": 101
+        },
+        "stable_path": [
+          "1419:70144"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1522225357",
+      "uuid": "3ee7d4a1-eb3d-48e2-88d9-42c6d19140f1",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-11-19T20:18:32.281Z",
+      "resolved_at": null,
+      "message": "I wonder about this \"users\" icon, should I use the \"activity\" icon instead?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1419:70144",
+        "node_offset": {
+          "x": 848,
+          "y": 132
+        },
+        "stable_path": [
+          "1419:70144"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1519275689",
+      "uuid": "c3cd5ae2-4123-42f3-8815-f8efdc2cbefd",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-11-18T13:31:36.444Z",
+      "resolved_at": null,
+      "message": "I wonder what's the value we want here? Is that the number of overridden policies at the company level?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "525:16231",
+        "node_offset": {
+          "x": 643,
+          "y": 210
+        },
+        "stable_path": [
+          "525:16231"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "1518900178",
+      "uuid": "7df014f3-384c-43c7-af72-a2ba4e6ef629",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-11-18T10:22:45.943Z",
+      "resolved_at": null,
+      "message": "should we also have the subtitle \"XXX currently logged in\" like in the dashboard?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1462:73063",
+        "node_offset": {
+          "x": 412,
+          "y": 205
+        },
+        "stable_path": [
+          "1462:73063"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "1518899455",
+      "uuid": "63616cf0-3442-4eff-a925-4056e1fc831f",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-11-18T10:22:27.560Z",
+      "resolved_at": null,
+      "message": "I don't remember if I should use \"signed in\" instead of \"logged in\" here (same in the users panel beside)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "525:16231",
+        "node_offset": {
+          "x": 429,
+          "y": 187
+        },
+        "stable_path": [
+          "525:16231"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "1517570360",
+      "uuid": "7df02a12-301d-42e5-ac7b-1f7a683fc842",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-11-17T16:45:19.384Z",
+      "resolved_at": null,
+      "message": "You know that I'm using a relative time now (such as \"2 days ago\"). Currently I show the UTC time when hovering using a \"title\" but that's really not great (doesn't work for assistive technologies or with a touch interaction such as mobile web). Do you have an idea about how to do it? I was thinking a small icon next to it for example, that could be clicked or hovered. Or (maybe better) a global switch at the top of the table to turn them all to UTC.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1431:60254",
+        "node_offset": {
+          "x": 1063,
+          "y": 651
+        },
+        "stable_path": [
+          "1431:60254"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1515042243",
+      "uuid": "bb221a61-93d4-4e2a-9353-9371211b3dd4",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-11-14T15:35:05.249Z",
+      "resolved_at": null,
+      "message": "should we be able to click on these like buttons, to move to their respective pages?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "525:16231",
+        "node_offset": {
+          "x": 555,
+          "y": 123
+        },
+        "stable_path": [
+          "525:16231"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1514614756",
+      "uuid": "b5722423-4b97-4d15-9adb-6375c984a87e",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-11-14T11:26:40.459Z",
+      "resolved_at": null,
+      "message": "I'm not so sure of this column, is that really useful? Isn't \"last seen\" like elsewhere more useful?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1431:60254",
+        "node_offset": {
+          "x": 1068,
+          "y": 397
+        },
+        "stable_path": [
+          "1431:60254"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "1511273908",
+      "uuid": "2395dd46-8943-47f4-8f88-91805442235d",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-11-12T18:33:54.529Z",
+      "resolved_at": null,
+      "message": "i wonder what bulk actions we can have here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1431:60254",
+        "node_offset": {
+          "x": 1188,
+          "y": 334
+        },
+        "stable_path": [
+          "1431:60254"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1511017426",
+      "uuid": "8aa53706-4b61-4c9f-87bd-9815a535cee2",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-11-12T16:10:17.431Z",
+      "resolved_at": null,
+      "message": "should we link to that OU page from here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "347:9314",
+        "node_offset": {
+          "x": 5933,
+          "y": 2498
+        },
+        "stable_path": [
+          "347:9314"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1507191205",
+      "uuid": "1a98e897-8a6f-4e45-a0ef-5356d56dbe56",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-11-10T19:08:02.590Z",
+      "resolved_at": null,
+      "message": "what actions do we have in this menu?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "347:9314",
+        "node_offset": {
+          "x": 6529,
+          "y": 2651
+        },
+        "stable_path": [
+          "347:9314"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1492646733",
+      "uuid": "3cbd2806-c013-4399-96f3-611cf7ac7517",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-10-30T16:48:47.231Z",
+      "resolved_at": null,
+      "message": "Also it's not clear to me if we should show all modified policies here (company level / Org unit level AND user level), or just the policies modified at ser level",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "525:16297",
+        "node_offset": {
+          "x": 1110,
+          "y": 1133
+        },
+        "stable_path": [
+          "525:16297"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1492643987",
+      "uuid": "855fb76c-bef5-4c49-855c-b05a5fd02321",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-10-30T16:47:21.096Z",
+      "resolved_at": null,
+      "message": "I feel like we should show how many policies are modified, including at the company or org unit level? But I'm not sure...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "347:9314",
+        "node_offset": {
+          "x": 6215,
+          "y": 2701
+        },
+        "stable_path": [
+          "347:9314"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1490416068",
+      "uuid": "498b40e9-6bc3-4694-9733-12fca418ad42",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-10-29T15:49:12.931Z",
+      "resolved_at": null,
+      "message": "I think we can improve that: \"modified\" should mean \"modified in general, including in higher levels\", but we need another terminology for \"modified at this level\". But I think we need a way to show \"all modified policies in general\" vs \"all modified policies at this level\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1342:56296",
+        "node_offset": {
+          "x": 1274,
+          "y": 429
+        },
+        "stable_path": [
+          "1342:56296"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1490347153",
+      "uuid": "7c001d79-3aab-4999-81e5-9fb819776022",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-10-29T15:20:13.632Z",
+      "resolved_at": null,
+      "message": "Is this the same color as a link because it's a link?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1419:70144",
+        "node_offset": {
+          "x": 451,
+          "y": 434
+        },
+        "stable_path": [
+          "1419:70144"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "1486247322",
+      "uuid": "8616707b-af21-4f02-a5cb-09c3e7bd22a7",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-10-27T16:31:46.627Z",
+      "resolved_at": null,
+      "message": "Note that the dialog title is different, should we align the copy?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1429:69076",
+        "node_offset": {
+          "x": 1364,
+          "y": 358
+        },
+        "stable_path": [
+          "1429:69076"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "1476063555",
+      "uuid": "fa2b1c10-4a12-437c-b6ca-d363af7ecbed",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-10-20T16:52:46.438Z",
+      "resolved_at": null,
+      "message": "as a comment, now we don't know the type of the value anymore - before it was possible to infer it from its default value. I don't know if that's important, but I feel like it is?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1340:45766",
+        "node_offset": {
+          "x": 1005,
+          "y": 691
+        },
+        "stable_path": [
+          "1340:45766"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1459796774",
+      "uuid": "67251134-0f60-411c-8aee-e4faf195af8b",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-10-08T15:02:20.436Z",
+      "resolved_at": null,
+      "message": "Do we need the same icon on all lines? Or is the plan that the user might be able to configure it ? Maybe we'd have a few icons that the user might be able to choose from?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "807:44326",
+        "node_offset": {
+          "x": 337,
+          "y": 540
+        },
+        "stable_path": [
+          "807:44326"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1459765033",
+      "uuid": "11ec87a3-0969-472c-9feb-eeb37f524f6e",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Matthew Croud",
+        "img_url": "https://s3-alpha.figma.com/profile/5678ab04-9c88-4f61-a2ab-c5d96452ed83",
+        "id": "746308856678087765"
+      },
+      "created_at": "2025-10-08T14:48:29.986Z",
+      "resolved_at": null,
+      "message": "@Julien Wajsberg I think what you had is pretty much perfect. Looking around, having a critical message above the fields seems like a highly common pattern, wording similar or thereabouts.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1273:46291",
+        "node_offset": {
+          "x": 391,
+          "y": 192
+        },
+        "stable_path": [
+          "1273:46291"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1458980486",
+      "uuid": "dc1ea7a5-1f63-46cb-9e56-5bf637fe7835",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-10-08T08:31:27.895Z",
+      "resolved_at": null,
+      "message": "what would a login error look like?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1146:38402",
+        "node_offset": {
+          "x": 893,
+          "y": 470
+        },
+        "stable_path": [
+          "1146:38402"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1452286211",
+      "uuid": "09569be1-8c7e-4fe9-a5fc-1e3c8660c40e",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-10-02T15:30:55.673Z",
+      "resolved_at": null,
+      "message": "FYI I'm using the color --border-color instead of --button-background-color-active, I think this is the same color but this makes logically more sense",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1141:38357",
+        "node_offset": {
+          "x": 896,
+          "y": 340
+        },
+        "stable_path": [
+          "1141:38357"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1417694208",
+      "uuid": "6e54c78b-1768-41df-8199-e3b9b1890dea",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-09-09T12:09:32.170Z",
+      "resolved_at": null,
+      "message": "how these values should change when the user does a search? Should that reflect the current search results? Or should the text be modified? What do we do with categories that are empty after a search, should they still be present with an empty content, or should we skip them? What about when a search yield 0 results (I guess something similar to the tables in the user management panel)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1340:45766",
+        "node_offset": {
+          "x": 1339,
+          "y": 388
+        },
+        "stable_path": [
+          "1340:45766"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1402855833",
+      "uuid": "9ccabbaa-2039-4e3c-9394-87bafca5e9c6",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-08-28T16:21:40.346Z",
+      "resolved_at": null,
+      "message": "I need the design (icon, colors) for the other values",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "525:16297",
+        "node_offset": {
+          "x": 997,
+          "y": 220
+        },
+        "stable_path": [
+          "525:16297"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1402855649",
+      "uuid": "93268850-7937-4f27-ade3-80047aec31de",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-08-28T16:21:33.276Z",
+      "resolved_at": null,
+      "message": "I need the design (icon, colors) for the other values",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "525:16297",
+        "node_offset": {
+          "x": 1321,
+          "y": 513
+        },
+        "stable_path": [
+          "525:16297"
+        ]
+      },
+      "order_id": "12"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1651315432",
+      "uuid": "edd433d2-4bb4-4568-a1ef-cc2794ab9a02",
+      "file_key": "h3Ku4YJ9vRBOn1u6pYi9PI",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2026-02-26T19:36:44.823Z",
+      "resolved_at": null,
+      "message": "I'd need colors for the forced contrast mode with a white background too",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2298:47467",
+        "node_offset": {
+          "x": 869,
+          "y": 69
+        },
+        "stable_path": [
+          "2298:47467"
+        ]
+      },
+      "order_id": "95"
+    }
+  ]
+}

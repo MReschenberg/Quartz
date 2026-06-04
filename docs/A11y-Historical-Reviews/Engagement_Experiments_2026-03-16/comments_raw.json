@@ -1,0 +1,312 @@
+{
+  "unresolved": [
+    {
+      "id": "1726353768",
+      "uuid": "e1690866-fca8-46ad-8288-32eef4a268f3",
+      "file_key": "w6CSYHizzAn3b7lQnKX16u",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2026-04-20T21:31:48.126Z",
+      "resolved_at": null,
+      "message": "L10N note: If there is not an acceptable translation for scamper (informal tone for running), the fallback should be \"Stay protected while you browse the web\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1606:8472",
+        "node_offset": {
+          "x": 423,
+          "y": 22
+        },
+        "stable_path": [
+          "1606:8472"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1686358484",
+      "uuid": "f355a64a-6e20-42c5-b065-dc877b690847",
+      "file_key": "w6CSYHizzAn3b7lQnKX16u",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-23T18:20:37.661Z",
+      "resolved_at": null,
+      "message": "Hi team! I will send this in Slack as well but I have a write up when it comes to providing equal experiences where we can with different assistive technology. Here is the link to the doc: https://docs.google.com/document/d/1WOukNb4ZTjYyxwk91_mgvWwOv_cCOmKI7FmelVwBo6A/edit?usp=sharing\n\nThank you!\ncc @Moiz Syed @Gabrielle Lussier @Antonio Borondo",
+      "reactions": [
+        {
+          "emoji": ":heart_hands:",
+          "created_at": "2026-03-24T22:29:21.166Z",
+          "user": {
+            "id": "1081652139969940022",
+            "handle": "Gabrielle Lussier",
+            "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "278:2",
+        "node_offset": {
+          "x": 1592,
+          "y": 723
+        },
+        "stable_path": [
+          "278:2"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1684314338",
+      "uuid": "cf06d81a-20b8-43b3-8244-4388073969c3",
+      "file_key": "w6CSYHizzAn3b7lQnKX16u",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-20T20:23:01.521Z",
+      "resolved_at": null,
+      "message": "late comment but wanted to add this could be a good option as well. my team has highlighted how the arrow could still be beneficial for focus. the arrow could also help with directing focus for screen magnification users. this option or the one without the arrow would be our preference. thank you! :grin:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "277:247",
+        "node_offset": {
+          "x": 708,
+          "y": 55.15869140625
+        },
+        "stable_path": [
+          "277:247"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1680576514",
+      "uuid": "e8508a8a-36a2-4cb5-9d7c-2aeb24148a95",
+      "file_key": "w6CSYHizzAn3b7lQnKX16u",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-18T18:36:05.502Z",
+      "resolved_at": null,
+      "message": "hey @Moiz Syed - from an a11y perspective I agree. I like this option best as I think the large purple cursor would create extra confusion. I also think the orange arrow that points to the 'Set default' button can be removed as Kit draws enough attention to the button. what do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "278:7",
+        "node_offset": {
+          "x": 316.17724609375,
+          "y": 126
+        },
+        "stable_path": [
+          "278:7"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1680568875",
+      "uuid": "169a58c6-481a-4fdb-a115-0cdd6044358d",
+      "file_key": "w6CSYHizzAn3b7lQnKX16u",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-18T18:30:56.176Z",
+      "resolved_at": null,
+      "message": "@Moiz Syed to clarify, the purple cursor would be on screen with the smaller, default cursor?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "278:10",
+        "node_offset": {
+          "x": 343.3544921875,
+          "y": 161
+        },
+        "stable_path": [
+          "278:10"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1680567676",
+      "uuid": "9d152f5b-4700-475c-be92-7210577929a8",
+      "file_key": "w6CSYHizzAn3b7lQnKX16u",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-18T18:30:08.735Z",
+      "resolved_at": null,
+      "message": "hi @Moiz Syed ! is there any animation or motion in these designs?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "277:247",
+        "node_offset": {
+          "x": 608,
+          "y": 308.15869140625
+        },
+        "stable_path": [
+          "277:247"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1686358484",
+      "uuid": "f355a64a-6e20-42c5-b065-dc877b690847",
+      "file_key": "w6CSYHizzAn3b7lQnKX16u",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-23T18:20:37.661Z",
+      "resolved_at": null,
+      "message": "Hi team! I will send this in Slack as well but I have a write up when it comes to providing equal experiences where we can with different assistive technology. Here is the link to the doc: https://docs.google.com/document/d/1WOukNb4ZTjYyxwk91_mgvWwOv_cCOmKI7FmelVwBo6A/edit?usp=sharing\n\nThank you!\ncc @Moiz Syed @Gabrielle Lussier @Antonio Borondo",
+      "reactions": [
+        {
+          "emoji": ":heart_hands:",
+          "created_at": "2026-03-24T22:29:21.166Z",
+          "user": {
+            "id": "1081652139969940022",
+            "handle": "Gabrielle Lussier",
+            "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "278:2",
+        "node_offset": {
+          "x": 1592,
+          "y": 723
+        },
+        "stable_path": [
+          "278:2"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1684314338",
+      "uuid": "cf06d81a-20b8-43b3-8244-4388073969c3",
+      "file_key": "w6CSYHizzAn3b7lQnKX16u",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-20T20:23:01.521Z",
+      "resolved_at": null,
+      "message": "late comment but wanted to add this could be a good option as well. my team has highlighted how the arrow could still be beneficial for focus. the arrow could also help with directing focus for screen magnification users. this option or the one without the arrow would be our preference. thank you! :grin:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "277:247",
+        "node_offset": {
+          "x": 708,
+          "y": 55.15869140625
+        },
+        "stable_path": [
+          "277:247"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1680576514",
+      "uuid": "e8508a8a-36a2-4cb5-9d7c-2aeb24148a95",
+      "file_key": "w6CSYHizzAn3b7lQnKX16u",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-18T18:36:05.502Z",
+      "resolved_at": null,
+      "message": "hey @Moiz Syed - from an a11y perspective I agree. I like this option best as I think the large purple cursor would create extra confusion. I also think the orange arrow that points to the 'Set default' button can be removed as Kit draws enough attention to the button. what do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "278:7",
+        "node_offset": {
+          "x": 316.17724609375,
+          "y": 126
+        },
+        "stable_path": [
+          "278:7"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1680568875",
+      "uuid": "169a58c6-481a-4fdb-a115-0cdd6044358d",
+      "file_key": "w6CSYHizzAn3b7lQnKX16u",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-18T18:30:56.176Z",
+      "resolved_at": null,
+      "message": "@Moiz Syed to clarify, the purple cursor would be on screen with the smaller, default cursor?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "278:10",
+        "node_offset": {
+          "x": 343.3544921875,
+          "y": 161
+        },
+        "stable_path": [
+          "278:10"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1680567676",
+      "uuid": "9d152f5b-4700-475c-be92-7210577929a8",
+      "file_key": "w6CSYHizzAn3b7lQnKX16u",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-18T18:30:08.735Z",
+      "resolved_at": null,
+      "message": "hi @Moiz Syed ! is there any animation or motion in these designs?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "277:247",
+        "node_offset": {
+          "x": 608,
+          "y": 308.15869140625
+        },
+        "stable_path": [
+          "277:247"
+        ]
+      },
+      "order_id": "1"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "unresolved": [
+    {
+      "id": "1274941349",
+      "uuid": "998f1b99-d505-45c7-85ac-aab9b35e05dc",
+      "file_key": "qiiSyigCsqDx9kNyxcGEev",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-05-28T01:00:05.009Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya I think you are going to have to show the auth screen every time a private or custom private tab is opened. Otherwise it will look like a bug.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1092:11529",
+        "node_offset": {
+          "x": 267,
+          "y": 222
+        },
+        "stable_path": [
+          "1092:11529"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1258436978",
+      "uuid": "37735c6e-e843-4fce-ba0d-c6295efc6433",
+      "file_key": "qiiSyigCsqDx9kNyxcGEev",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-15T14:52:00.118Z",
+      "resolved_at": null,
+      "message": "@Mandy Cacciapaglia Here are the specs for locking private tabs (aka bio auth/biometric authentication)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "25:11838",
+        "node_offset": {
+          "x": 264,
+          "y": 580
+        },
+        "stable_path": [
+          "25:11838"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1247026890",
+      "uuid": "91f2bb27-eb02-4a49-86ef-dece3a7fd6e9",
+      "file_key": "qiiSyigCsqDx9kNyxcGEev",
+      "parent_id": "",
+      "user": {
+        "handle": "Channing Bell",
+        "img_url": "https://www.gravatar.com/avatar/316105b10feb492c88800d6878e73ec0?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "942137081198568051"
+      },
+      "created_at": "2025-05-07T17:25:45.579Z",
+      "resolved_at": null,
+      "message": "I don't think we should have the Go to settings on this screen. @Aarjav Pandya",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "801:11593",
+        "node_offset": {
+          "x": 302,
+          "y": 151
+        },
+        "stable_path": [
+          "801:11593"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1247024020",
+      "uuid": "92a6f7c9-f362-43cf-a93a-a41ea09a923b",
+      "file_key": "qiiSyigCsqDx9kNyxcGEev",
+      "parent_id": "",
+      "user": {
+        "handle": "Channing Bell",
+        "img_url": "https://www.gravatar.com/avatar/316105b10feb492c88800d6878e73ec0?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "942137081198568051"
+      },
+      "created_at": "2025-05-07T17:23:48.528Z",
+      "resolved_at": null,
+      "message": "Is there not a Yes / No response here? @Aarjav Pandya",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "801:11593",
+        "node_offset": {
+          "x": 126,
+          "y": 158
+        },
+        "stable_path": [
+          "801:11593"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1194523102",
+      "uuid": "9e213b92-05c8-4627-a98a-d98ca176208a",
+      "file_key": "qiiSyigCsqDx9kNyxcGEev",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-28T17:10:05.715Z",
+      "resolved_at": null,
+      "message": "I like this approach, TBH, because we could ensure the Firefox is communicated to a user as a title of a book.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:5717",
+        "node_offset": {
+          "x": 240,
+          "y": 129
+        },
+        "stable_path": [
+          "1:5717"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1186110616",
+      "uuid": "4dbae6a7-1249-48eb-99fd-ba3b2dd6048e",
+      "file_key": "qiiSyigCsqDx9kNyxcGEev",
+      "parent_id": "",
+      "user": {
+        "handle": "Tom White",
+        "img_url": "https://www.gravatar.com/avatar/22a9310c1f58a884132acc7cea6f3c6b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1166366970359969104"
+      },
+      "created_at": "2025-03-24T12:41:27.056Z",
+      "resolved_at": null,
+      "message": "is it posssible to include how it'd look on a larger screen? For example where the expected spacing should ebe as the screen grows - my assumption here is that the space at the top and the space between \"unlock private tabs\" and the button would expand and shrink to fit?\nHope that makes sense",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "24:11792",
+        "node_offset": {
+          "x": 304,
+          "y": 173
+        },
+        "stable_path": [
+          "24:11792"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1185987516",
+      "uuid": "d64d8922-8281-4bf3-8734-427310f150a5",
+      "file_key": "qiiSyigCsqDx9kNyxcGEev",
+      "parent_id": "",
+      "user": {
+        "handle": "Tom White",
+        "img_url": "https://www.gravatar.com/avatar/22a9310c1f58a884132acc7cea6f3c6b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1166366970359969104"
+      },
+      "created_at": "2025-03-24T11:30:50.060Z",
+      "resolved_at": null,
+      "message": "As this could be a few different methods e.g. pin, face id, fingerprint, should this icon be more generic-such as a padlock?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "24:11792",
+        "node_offset": {
+          "x": 160,
+          "y": 519
+        },
+        "stable_path": [
+          "24:11792"
+        ]
+      },
+      "order_id": "2"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1194523102",
+      "uuid": "9e213b92-05c8-4627-a98a-d98ca176208a",
+      "file_key": "qiiSyigCsqDx9kNyxcGEev",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-28T17:10:05.715Z",
+      "resolved_at": null,
+      "message": "I like this approach, TBH, because we could ensure the Firefox is communicated to a user as a title of a book.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:5717",
+        "node_offset": {
+          "x": 240,
+          "y": 129
+        },
+        "stable_path": [
+          "1:5717"
+        ]
+      },
+      "order_id": "4"
+    }
+  ]
+}

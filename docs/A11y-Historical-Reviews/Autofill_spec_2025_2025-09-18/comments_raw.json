@@ -1,0 +1,1024 @@
+{
+  "unresolved": [
+    {
+      "id": "1616998238",
+      "uuid": "9b377b0d-6118-4f3b-bec2-ceab5dfa4fbe",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Micah Killoran",
+        "img_url": "https://www.gravatar.com/avatar/917b1186aad4798d910d24f25629d145?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "902792692575261085"
+      },
+      "created_at": "2026-02-03T21:57:40.685Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey does \"timestamp\" mean the last time this credential has been used?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "871:33196",
+        "node_offset": {
+          "x": 740,
+          "y": 536
+        },
+        "stable_path": [
+          "871:33196"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1600191377",
+      "uuid": "32c5d3b8-a682-4a15-a70a-2c648514c15a",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Micah Killoran",
+        "img_url": "https://www.gravatar.com/avatar/917b1186aad4798d910d24f25629d145?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "902792692575261085"
+      },
+      "created_at": "2026-01-22T20:40:44.880Z",
+      "resolved_at": null,
+      "message": "Hey @Ryan Casey just wanted to verify if this is the correct background hover token? \n\nWe do have a token that matches this spec called `--button-background-color-primary-hover` . But it doesn't seem to match the other hover colors used for other dropdown items in Firefox such as the App menu, context menu ,etc. \n\nThose ones seem to be using the `--button-background-color-hover` token instead.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "871:22812",
+        "node_offset": {
+          "x": 223,
+          "y": 14
+        },
+        "stable_path": [
+          "871:22812"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1483660775",
+      "uuid": "18ed627f-c466-4595-a3cd-0a38f9c6b105",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-10-24T13:59:47.017Z",
+      "resolved_at": null,
+      "message": "hi @Ryan Casey ! me again :sweat_smile: I was checking the background for this (button/background/color/ghost) and don't see it? is it missing on your end?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "861:9645",
+        "node_offset": {
+          "x": 242,
+          "y": 27.5390625
+        },
+        "stable_path": [
+          "861:9645"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "1476414927",
+      "uuid": "d26b66ba-5884-443e-8745-ae1d1cf2ca01",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-10-20T23:53:38.145Z",
+      "resolved_at": null,
+      "message": "hey @Ryan Casey ! I'm going to add comments for HCM updates that are needed. some quick things-\n\n* when you make the changes, things may look incorrect \n* with that said, I have reached out to design systems to fix tokens / color mappings and create missing tokens\n\nif you have any questions, please let me know!",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-10-21T17:15:32.121Z",
+          "user": {
+            "id": "929456823076472832",
+            "handle": "Ryan Casey",
+            "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "859:22360",
+        "node_offset": {
+          "x": 4795,
+          "y": 28
+        },
+        "stable_path": [
+          "859:22360"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1447206824",
+      "uuid": "ac276794-8d6c-4f90-8758-3fe096a64916",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-09-30T00:55:11.942Z",
+      "resolved_at": null,
+      "message": "hey @Ryan Casey ! thank you for the HCM designs here. For the 'Autofill surface' on the right, we should follow the Menu styling found here: https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=51-2329&t=tGlJsZTay1dqGTvh-4. \nFor the Suggestion types (menu buttons) inside, we should follow the HCM styles here: https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=51-1592&t=tGlJsZTay1dqGTvh-4.\n\nPlease let me know if you have any questions! Thank you! :star:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "861:9613",
+        "node_offset": {
+          "x": 882,
+          "y": 49
+        },
+        "stable_path": [
+          "861:9613"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1444515804",
+      "uuid": "b040a41d-4c5f-41fb-942c-71001bf746c7",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-09-26T18:30:02.716Z",
+      "resolved_at": null,
+      "message": "hi @Ryan Casey - will there be instances where the 'Manage' gear icon button is not available? is it not visible here since the first listitem is selected?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "871:20679",
+        "node_offset": {
+          "x": 21.5849609375,
+          "y": 41.5
+        },
+        "stable_path": [
+          "871:20679"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1432367689",
+      "uuid": "ba9e5e4e-152c-4507-9e06-fe30e46ce3a8",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-09-18T15:31:52.585Z",
+      "resolved_at": null,
+      "message": "@Dimi Lee question for you on current functionality:\nHow does one navigate to the setting icon button that shows on hover using keyboard navigation?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "871:20343",
+        "node_offset": {
+          "x": 452.5849609375,
+          "y": 174
+        },
+        "stable_path": [
+          "871:20343"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1390843117",
+      "uuid": "e24a7655-9a4b-424c-89f1-c50c5192099a",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-08-20T14:50:01.745Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey maybe \"Update\" instead of \"Manage\" given the expired scenario",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "688:12828",
+        "node_offset": {
+          "x": 465,
+          "y": 462
+        },
+        "stable_path": [
+          "688:12828"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1390837619",
+      "uuid": "7a8e5ba1-0838-4e63-b41d-ab2694e025de",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-08-20T14:47:36.028Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey what happens when a user decides to use a credential with an alert? Do we show a warning?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "705:33956",
+        "node_offset": {
+          "x": 452,
+          "y": 645
+        },
+        "stable_path": [
+          "705:33956"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1390835183",
+      "uuid": "dcdb9661-db68-4df5-96ca-7713d6b81e2d",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-08-20T14:46:30.681Z",
+      "resolved_at": null,
+      "message": "Could this be on its own line? It could get cramped in this position when translated to other languages",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "679:9309",
+        "node_offset": {
+          "x": 518,
+          "y": 646
+        },
+        "stable_path": [
+          "679:9309"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1390829449",
+      "uuid": "2caf0f44-976b-491f-a77d-f91896187d5d",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-08-20T14:44:01.633Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey what does this do?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "652:11296",
+        "node_offset": {
+          "x": 522,
+          "y": 696
+        },
+        "stable_path": [
+          "652:11296"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1390827711",
+      "uuid": "a84942f7-aee4-43b3-9375-ca8c4a662272",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-08-20T14:43:17.745Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey is this arrow a new addition to the panel component?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "652:11296",
+        "node_offset": {
+          "x": 325,
+          "y": 516
+        },
+        "stable_path": [
+          "652:11296"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1390826268",
+      "uuid": "e4b6a8ff-35c0-450b-a7b3-ca01caee268f",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-08-20T14:42:42.544Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey i wonder if it will be clear to users  that this is an icon button. Maybe you could keep the ellipsis here and superimpose the warning icon over the favicon on the left, and use the orange text color treatment. Similar to the red color treatment you use for expired cards",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "652:11296",
+        "node_offset": {
+          "x": 607,
+          "y": 602
+        },
+        "stable_path": [
+          "652:11296"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1351407985",
+      "uuid": "0c874f0c-2dbe-4a64-8f1b-182552138671",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Dimi Lee",
+        "img_url": "https://www.gravatar.com/avatar/bd10912fd8637cc64f00edd465ca8b0d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "966704739131305260"
+      },
+      "created_at": "2025-07-23T07:30:54.368Z",
+      "resolved_at": null,
+      "message": "There\u2019s a UX question raised in this comment about whether we should \u201cundo autofill\u201d or \u201cclear autofill.\u201d\nOur current behavior is \u201cclear.\u201d Does that mean we\u2019re now considering switching to \u201cundo,\u201d similar to what Chrome does?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "190:19551",
+        "node_offset": {
+          "x": 127,
+          "y": 105
+        },
+        "stable_path": [
+          "190:19551"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1351394941",
+      "uuid": "7030f72c-15c3-438c-b52b-6cf806cefc89",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Dimi Lee",
+        "img_url": "https://www.gravatar.com/avatar/bd10912fd8637cc64f00edd465ca8b0d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "966704739131305260"
+      },
+      "created_at": "2025-07-23T07:24:02.122Z",
+      "resolved_at": null,
+      "message": "Why do we prefer keeping the record instead of simply deleting it?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "183:7500",
+        "node_offset": {
+          "x": 44,
+          "y": 227
+        },
+        "stable_path": [
+          "183:7500"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1351385040",
+      "uuid": "8c7dac84-4da6-4784-ab30-0182010ae590",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Dimi Lee",
+        "img_url": "https://www.gravatar.com/avatar/bd10912fd8637cc64f00edd465ca8b0d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "966704739131305260"
+      },
+      "created_at": "2025-07-23T07:18:52.794Z",
+      "resolved_at": null,
+      "message": "I'm not opposed to this idea - just wanted to share a thought: some users might feel annoying if we show a warning in the autocomplete dropdown, especially if they\u2019re not interested in dealing with it.\nThe autocomplete dropdown is a surface users interact with more frequently than about:logins, so persistent warnings there might be intrusive for some users.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "183:7111",
+        "node_offset": {
+          "x": 137,
+          "y": 18.48828125
+        },
+        "stable_path": [
+          "183:7111"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1351356303",
+      "uuid": "a58ca7a0-9e97-44ef-9645-f9e5483b23c9",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Dimi Lee",
+        "img_url": "https://www.gravatar.com/avatar/bd10912fd8637cc64f00edd465ca8b0d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "966704739131305260"
+      },
+      "created_at": "2025-07-23T07:02:53.205Z",
+      "resolved_at": null,
+      "message": "Currently, we display the hostname of the saved login, which I believe is a critical piece of information for security.\nThe attached screenshot shows three types of logins:\n1. The login URL exactly matches the current site URL (from this web site).\n2. The login URL matches the base domain (idm.telekom.com).\n3. The login URL matches a hostname listed in the shared-credentials list (telekom-dienste.de).\nDo you think there's a way we could enhance the autocomplete dropdown to continue showing the URL information while also providing additional context that users might also want to see?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "183:7102",
+        "node_offset": {
+          "x": 139,
+          "y": 40
+        },
+        "stable_path": [
+          "183:7102"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1200700996",
+      "uuid": "e3b8901a-111a-4983-a6d3-296ae6dd7f1f",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-02T21:16:13.143Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey nice use of the mask! Will it have a backdrop when it's applied to favicons with background colors?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "183:4417",
+        "node_offset": {
+          "x": 71.7421875,
+          "y": 88.04327392578125
+        },
+        "stable_path": [
+          "183:4417"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1198793658",
+      "uuid": "3f8067ae-bf88-42c2-b877-1e25a8228deb",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-01T21:56:54.019Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey for Monitor status could we replace the timestamp with some copy about the status in addition to the icon?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "190:19562",
+        "node_offset": {
+          "x": 596,
+          "y": 221
+        },
+        "stable_path": [
+          "190:19562"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1198352575",
+      "uuid": "ee030fe8-038c-47f6-a90d-0edd15a770e3",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-01T16:21:12.790Z",
+      "resolved_at": null,
+      "message": "Love this! But again wonder if \"autofill\" is a term most users are familiar with :thinking_face:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "197:6972",
+        "node_offset": {
+          "x": 115.36572265625,
+          "y": 181
+        },
+        "stable_path": [
+          "197:6972"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1198346535",
+      "uuid": "e820875d-a02a-4bff-abdc-20f2048b2293",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-01T16:17:30.566Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey is this an example of a login credential a user created with an email mask? I wonder if we need to distinguish between login credentials with masks versus form history (e.g. newsletter sign up) where a mask is used :thinking_face:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "183:4417",
+        "node_offset": {
+          "x": 298.7421875,
+          "y": 67.04327392578125
+        },
+        "stable_path": [
+          "183:4417"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1198336284",
+      "uuid": "0a30e5ee-6576-4f46-bbf2-94aaff8decfc",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-01T16:11:11.722Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey what's the over state for manage passwords?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "165:2387",
+        "node_offset": {
+          "x": 299,
+          "y": 218
+        },
+        "stable_path": [
+          "165:2387"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1198335423",
+      "uuid": "92ef3223-c4db-480c-a9ba-b35f6ac13fb4",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-01T16:10:39.251Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey i see you're introducing a couple of new UI patterns, will these patterns be added to acorn for general usage?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "165:1619",
+        "node_offset": {
+          "x": 332,
+          "y": 69.04327392578125
+        },
+        "stable_path": [
+          "165:1619"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1198332111",
+      "uuid": "d1abd15a-521c-4944-afe8-5408ce267b69",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-01T16:08:39.020Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey it would nice to give existing relay users the following options\n\u2022 view all masks/manage masks\n\u2022 generate a new mask",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-04-02T10:50:37.955Z",
+          "user": {
+            "id": "929456823076472832",
+            "handle": "Ryan Casey",
+            "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "183:7014",
+        "node_offset": {
+          "x": 14642,
+          "y": 283
+        },
+        "stable_path": [
+          "183:7014"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1197859462",
+      "uuid": "0bd079ed-aee2-4497-b339-1498e6a60806",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Dimi Lee",
+        "img_url": "https://www.gravatar.com/avatar/bd10912fd8637cc64f00edd465ca8b0d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "966704739131305260"
+      },
+      "created_at": "2025-04-01T12:23:58.876Z",
+      "resolved_at": null,
+      "message": "I assume \"remove from autofill\" in form history popup does the same thing as Chrome's \"delete entry\" in form history popup. But what does \"Remove from autofill\" do for \"login\", \"address\", and \"credit card\" popup?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "165:1809",
+        "node_offset": {
+          "x": 386.87939453125,
+          "y": 126.04327392578125
+        },
+        "stable_path": [
+          "165:1809"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1193114645",
+      "uuid": "7ab981b8-dddf-4768-9c09-4527f71e34ba",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-03-27T21:01:13.548Z",
+      "resolved_at": null,
+      "message": "Can we have more affordance that this is a relay email mask here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "138:21",
+        "node_offset": {
+          "x": -585,
+          "y": 2115
+        },
+        "stable_path": [
+          "138:21"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1193019819",
+      "uuid": "c0b2e16b-21f0-4a45-9df1-db3b01dc366b",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-03-27T19:43:54.997Z",
+      "resolved_at": null,
+      "message": "Could additional data help disambiguate by having a heirarchy of additional sources beyond (for this website?)\ni.e\nlast used\nnote (possible with application services/work/2026)\nother?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "138:21",
+        "node_offset": {
+          "x": -611,
+          "y": 663
+        },
+        "stable_path": [
+          "138:21"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1193009487",
+      "uuid": "15619c15-9c16-45fb-9fbc-c5c2955be9df",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-03-27T19:35:47.167Z",
+      "resolved_at": null,
+      "message": "Do people need to see the generated password if they cant alter or change it here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "138:21",
+        "node_offset": {
+          "x": -1049,
+          "y": 1354
+        },
+        "stable_path": [
+          "138:21"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1193006957",
+      "uuid": "b80feb67-8f79-4ec7-b18d-9fad753b738e",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-03-27T19:33:46.881Z",
+      "resolved_at": null,
+      "message": "Treat as typical context menu interaction with submenu flyout?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "138:21",
+        "node_offset": {
+          "x": -281,
+          "y": 1056
+        },
+        "stable_path": [
+          "138:21"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1193003824",
+      "uuid": "462a1363-22af-4677-9bec-7f07842eea04",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-03-27T19:31:16.368Z",
+      "resolved_at": null,
+      "message": "Can bottom CTa be more contextual? save some space",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "138:21",
+        "node_offset": {
+          "x": -212,
+          "y": 917
+        },
+        "stable_path": [
+          "138:21"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1193002984",
+      "uuid": "2e2b289c-8478-4515-bffe-b73b2404254d",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-03-27T19:30:38.491Z",
+      "resolved_at": null,
+      "message": "Maybe we could have multiple actions within a selection. One unversal action to allow direct access to editing (current functionality), plus more visibility for breaches or issues.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "138:21",
+        "node_offset": {
+          "x": -284,
+          "y": 727
+        },
+        "stable_path": [
+          "138:21"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1166076632",
+      "uuid": "7236cd72-9cea-42d3-9e27-1dd7c9686281",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-03-10T16:03:19.431Z",
+      "resolved_at": null,
+      "message": "@Dimi Lee could you confirm this flow is correct for form history? thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11:268",
+        "node_offset": {
+          "x": 5260,
+          "y": 1785
+        },
+        "stable_path": [
+          "11:268"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1159623246",
+      "uuid": "68a055a9-e060-414a-bba7-3c5569a33d1f",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-03-05T13:24:58.116Z",
+      "resolved_at": null,
+      "message": "@Dimi Lee does Form history only display for emails/username fields?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11:268",
+        "node_offset": {
+          "x": 5225,
+          "y": 272
+        },
+        "stable_path": [
+          "11:268"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1483660775",
+      "uuid": "18ed627f-c466-4595-a3cd-0a38f9c6b105",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-10-24T13:59:47.017Z",
+      "resolved_at": null,
+      "message": "hi @Ryan Casey ! me again :sweat_smile: I was checking the background for this (button/background/color/ghost) and don't see it? is it missing on your end?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "861:9645",
+        "node_offset": {
+          "x": 242,
+          "y": 27.5390625
+        },
+        "stable_path": [
+          "861:9645"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "1476414927",
+      "uuid": "d26b66ba-5884-443e-8745-ae1d1cf2ca01",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-10-20T23:53:38.145Z",
+      "resolved_at": null,
+      "message": "hey @Ryan Casey ! I'm going to add comments for HCM updates that are needed. some quick things-\n\n* when you make the changes, things may look incorrect \n* with that said, I have reached out to design systems to fix tokens / color mappings and create missing tokens\n\nif you have any questions, please let me know!",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-10-21T17:15:32.121Z",
+          "user": {
+            "id": "929456823076472832",
+            "handle": "Ryan Casey",
+            "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "859:22360",
+        "node_offset": {
+          "x": 4795,
+          "y": 28
+        },
+        "stable_path": [
+          "859:22360"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1447206824",
+      "uuid": "ac276794-8d6c-4f90-8758-3fe096a64916",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-09-30T00:55:11.942Z",
+      "resolved_at": null,
+      "message": "hey @Ryan Casey ! thank you for the HCM designs here. For the 'Autofill surface' on the right, we should follow the Menu styling found here: https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=51-2329&t=tGlJsZTay1dqGTvh-4. \nFor the Suggestion types (menu buttons) inside, we should follow the HCM styles here: https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=51-1592&t=tGlJsZTay1dqGTvh-4.\n\nPlease let me know if you have any questions! Thank you! :star:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "861:9613",
+        "node_offset": {
+          "x": 882,
+          "y": 49
+        },
+        "stable_path": [
+          "861:9613"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1444515804",
+      "uuid": "b040a41d-4c5f-41fb-942c-71001bf746c7",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-09-26T18:30:02.716Z",
+      "resolved_at": null,
+      "message": "hi @Ryan Casey - will there be instances where the 'Manage' gear icon button is not available? is it not visible here since the first listitem is selected?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "871:20679",
+        "node_offset": {
+          "x": 21.5849609375,
+          "y": 41.5
+        },
+        "stable_path": [
+          "871:20679"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1432367689",
+      "uuid": "ba9e5e4e-152c-4507-9e06-fe30e46ce3a8",
+      "file_key": "VfDeNs4ZzMHi7asWah99y4",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-09-18T15:31:52.585Z",
+      "resolved_at": null,
+      "message": "@Dimi Lee question for you on current functionality:\nHow does one navigate to the setting icon button that shows on hover using keyboard navigation?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "871:20343",
+        "node_offset": {
+          "x": 452.5849609375,
+          "y": 174
+        },
+        "stable_path": [
+          "871:20343"
+        ]
+      },
+      "order_id": "30"
+    }
+  ]
+}

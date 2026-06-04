@@ -1,0 +1,702 @@
+{
+  "unresolved": [
+    {
+      "id": "726349926",
+      "uuid": "e57497c2-e1fc-481f-9c1f-625d56832d54",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Max Christian Pohle",
+        "img_url": "https://www.gravatar.com/avatar/22a9d29be79d978dd156fae057543c68?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1245386602322382596"
+      },
+      "created_at": "2024-03-06T19:27:55.148Z",
+      "resolved_at": null,
+      "message": "\"Now now\" - mmm... what means \"now\"? Like today perhaps? Or is it 24 hours? I am against the latter because with a usual nine to five job you would see this bar later and later each day and it would also appear first thing in the morning occasionally.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "876:3295",
+        "node_offset": {
+          "x": 632,
+          "y": 103
+        },
+        "stable_path": [
+          "876:3295"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "726345919",
+      "uuid": "f82918ff-2938-400e-bdf0-9acd07d7517a",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Max Christian Pohle",
+        "img_url": "https://www.gravatar.com/avatar/22a9d29be79d978dd156fae057543c68?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1245386602322382596"
+      },
+      "created_at": "2024-03-06T19:24:38.305Z",
+      "resolved_at": null,
+      "message": "Please allow me a further question before I go hunting in the huge code base: The confirmation I was told is dismissed after so many seconds automatically. Is that true and how many seconds and/or how is the preference for that called?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "876:3418",
+        "node_offset": {
+          "x": 880,
+          "y": 103
+        },
+        "stable_path": [
+          "876:3418"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "711442916",
+      "uuid": "9764b528-7f53-4cc6-a602-068394ee5666",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-02-22T15:14:38.066Z",
+      "resolved_at": null,
+      "message": "@Max Christian Pohle I added dark mode here for your reference",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1312:3458",
+        "node_offset": {
+          "x": 32,
+          "y": 15
+        },
+        "stable_path": [
+          "1312:3458"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "710374123",
+      "uuid": "7469f1f1-241a-482c-aa4b-3df69bca60b1",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Max Christian Pohle",
+        "img_url": "https://www.gravatar.com/avatar/22a9d29be79d978dd156fae057543c68?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1245386602322382596"
+      },
+      "created_at": "2024-02-21T23:05:31.839Z",
+      "resolved_at": null,
+      "message": "For that I found check-filled.svg in the codebase, but its not green. I believe that it is supposed to change colors dynamically, but for dark and light themes its blueish. Is that also okay or is it necessary for success states to have a green signal color?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "930:12637",
+        "node_offset": {
+          "x": 27,
+          "y": 101
+        },
+        "stable_path": [
+          "930:12637"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "682628842",
+      "uuid": "4a884a35-f6d0-4251-a7f6-e69831cd4a95",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-01-26T21:21:11.927Z",
+      "resolved_at": null,
+      "message": "Oops, please refer to the comment above for the detailed engineering recommendations for the modal markup: https://www.figma.com/file/MTox8iIdh1xxJ5SfnpsczZ?node-id=1004:30095&mode=design#682617736 :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1022:36642",
+        "node_offset": {
+          "x": 495,
+          "y": 94
+        },
+        "stable_path": [
+          "1022:36642"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "682619650",
+      "uuid": "85307a35-5d99-4195-8a9c-98d1c5368f9a",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-01-26T21:07:18.728Z",
+      "resolved_at": null,
+      "message": "Engineering notes (accessibility severity included, if this is missing): \n1. {S2} Ensure the combobox has accessible name. In this case, use the on-screen \"Choose your email service\" string (either as `<label>` or with `aria-labelledby` on the `<select>` element itself referring to its `id`\n2. {S2-s3} If not `<select>` element will be used, ensure to follow the WAI Combobox pattern\n3. {s2} the logo image would need to have appropriate text alternative. I'd lean to mark them as decorative, but this is up to @Josh Berman",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1004:30219",
+        "node_offset": {
+          "x": 713,
+          "y": 422
+        },
+        "stable_path": [
+          "1004:30219"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "682617736",
+      "uuid": "eead71bd-6655-4cab-9980-3b78cb916447",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-01-26T21:04:19.871Z",
+      "resolved_at": null,
+      "message": "Engineering notes (accessibility severity included, if this is missing): \n1. {s2-s3} Ensure to follow the WAI Dialog design pattern: (a) {s3} the container to be `role=\"dialog\"` and (b) {s3} have `aria-labelledby` set to the `id` of the heading element \"Send email...\", (c) {s4} it could also have `aria-describedby` set to the `id` of the inner container, so it'll still all be announced - the content is short enough for that; (d) {S2} move the focus to the dialog's first control or, ideally, add `tabindex=\"-1\"` to the dialog container and place the focus on it, when dialog opens;\n2. {s4} on-screen label is a heading, `<h1>` or `<h2>`",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1004:30095",
+        "node_offset": {
+          "x": 857,
+          "y": 200
+        },
+        "stable_path": [
+          "1004:30095"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "667743659",
+      "uuid": "2002f798-b1e0-4dda-9e98-f783e97c6260",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-01-12T17:58:11.869Z",
+      "resolved_at": null,
+      "message": "Remind me - we can populate this based on what's trying to be opened, right? Are there potentially programs that could be opening it we can't pull the name of, and we should have a generic \"default mail service\" to cover those scenarios? @David Rubino",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1004:30095",
+        "node_offset": {
+          "x": 762,
+          "y": 378
+        },
+        "stable_path": [
+          "1004:30095"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "646799278",
+      "uuid": "fe6cab35-4491-4dcf-b4d7-3d1aa363e9b3",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-12-14T20:30:10.626Z",
+      "resolved_at": null,
+      "message": "What is the desired behavior here? Let's say someone's Mail app is the default, the user picks \"Yes\" to Firefox but then clicks \"Nevermind\" here. What happens? @Josh Berman",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "836:18047",
+        "node_offset": {
+          "x": 712,
+          "y": 537
+        },
+        "stable_path": [
+          "836:18047"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "646795413",
+      "uuid": "8abeb293-7850-4d29-83ba-588ff131923f",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-12-14T20:25:54.349Z",
+      "resolved_at": null,
+      "message": "Will this change based on what the user currently has set as their default? @Josh Berman",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "828:14559",
+        "node_offset": {
+          "x": 600,
+          "y": 99
+        },
+        "stable_path": [
+          "828:14559"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "646606837",
+      "uuid": "885d8f75-a74a-4145-9a3f-586ca276fe6c",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2023-12-14T17:13:13.277Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller please take a look when you have a chance. This is an early draft",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "836:18047",
+        "node_offset": {
+          "x": 455,
+          "y": 54
+        },
+        "stable_path": [
+          "836:18047"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "646557995",
+      "uuid": "3932b057-dd62-45be-9866-791c93831893",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2023-12-14T16:32:09.056Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller we're going to test a single infobar like the team originally planned to develop to see if it would boost comprehension.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "828:6231",
+        "node_offset": {
+          "x": 439,
+          "y": 78
+        },
+        "stable_path": [
+          "828:6231"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "633689420",
+      "uuid": "be221578-ff8f-485c-98e7-98f848a1a79c",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-12-01T18:01:53.125Z",
+      "resolved_at": null,
+      "message": "Having different surfaces for each step here is throwing me and making the copy kind of thorny - as a user it feels weird to have unique surfaces for what's basically the same task - Set (X) as my default What would you think about either using two sequential infobars or two sequential panels? @Josh Berman",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "545:11497",
+        "node_offset": {
+          "x": 703,
+          "y": 642
+        },
+        "stable_path": [
+          "545:11497"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "619948454",
+      "uuid": "88217521-df7e-4950-9cfb-11336fe5dc76",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-11-17T20:12:17.394Z",
+      "resolved_at": null,
+      "message": "Engineering note: the bolden text should be `<strong>` to programmatically communicate the emphasis",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "34:15020",
+        "node_offset": {
+          "x": 1056,
+          "y": -748
+        },
+        "stable_path": [
+          "34:15020"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "619946417",
+      "uuid": "4ebe7aaa-e3a0-4c4c-9fdd-c0a01f04644b",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-11-17T20:09:34.735Z",
+      "resolved_at": null,
+      "message": "just in case: all states in HCM for a button can be found in this HCM playground file: https://www.figma.com/file/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?type=design&node-id=1-214&mode=design&t=d9HL15YQWXhekoVX-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "275:17511",
+        "node_offset": {
+          "x": 885,
+          "y": 655
+        },
+        "stable_path": [
+          "275:17511"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "619942465",
+      "uuid": "6a1f25e7-5a24-4df4-9710-0928a10cbd44",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-11-17T20:04:19.388Z",
+      "resolved_at": null,
+      "message": "a11y consideration: allow at least 20 sec per action (incl. reading, pressing tab + enter or press escape to dismiss the notification), so different user could have enough time to read and act, esp. users with cognitive, learning difficulties and users with low language knowledge who would need extra time to read and understand the information; users with low vision who may not see the message right away",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-11-20T15:10:51.764Z",
+          "user": {
+            "id": "1113937443180999805",
+            "handle": "Josh Berman",
+            "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "34:16321",
+        "node_offset": {
+          "x": 138,
+          "y": 104
+        },
+        "stable_path": [
+          "34:16321"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "611258938",
+      "uuid": "72278685-6f7c-477c-9b21-3379c690b3d8",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-11-09T15:47:39.949Z",
+      "resolved_at": null,
+      "message": "Functionally, what's the difference between Allow and Default? Why would the user pick between the two? @Josh Berman",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4:14135",
+        "node_offset": {
+          "x": 301,
+          "y": 98
+        },
+        "stable_path": [
+          "4:14135"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "611256932",
+      "uuid": "c66612d9-a8c7-471a-b59c-bdaa3ffb14e5",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-11-09T15:46:23.198Z",
+      "resolved_at": null,
+      "message": "Is this scenario about just letting the site do it at all, or setting is as default? @Josh Berman",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4:11992",
+        "node_offset": {
+          "x": 350,
+          "y": 113
+        },
+        "stable_path": [
+          "4:11992"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "611248189",
+      "uuid": "5f94a817-4652-41fe-ae76-5975eae9974a",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-11-09T15:40:43.612Z",
+      "resolved_at": null,
+      "message": "Why is this sentence broken up? @Josh Berman",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4:11587",
+        "node_offset": {
+          "x": 319,
+          "y": 129
+        },
+        "stable_path": [
+          "4:11587"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "610310774",
+      "uuid": "433d4ee8-8294-494d-9c1a-6356cb4dab94",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2023-11-09T00:55:39.180Z",
+      "resolved_at": null,
+      "message": "@Jules Simplicio do we have like toast confirmations or another established pattern for when a user makes a selection inside an infobar?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:5966",
+        "node_offset": {
+          "x": 112,
+          "y": 91
+        },
+        "stable_path": [
+          "1:5966"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "682628842",
+      "uuid": "4a884a35-f6d0-4251-a7f6-e69831cd4a95",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-01-26T21:21:11.927Z",
+      "resolved_at": null,
+      "message": "Oops, please refer to the comment above for the detailed engineering recommendations for the modal markup: https://www.figma.com/file/MTox8iIdh1xxJ5SfnpsczZ?node-id=1004:30095&mode=design#682617736 :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1022:36642",
+        "node_offset": {
+          "x": 495,
+          "y": 94
+        },
+        "stable_path": [
+          "1022:36642"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "682619650",
+      "uuid": "85307a35-5d99-4195-8a9c-98d1c5368f9a",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-01-26T21:07:18.728Z",
+      "resolved_at": null,
+      "message": "Engineering notes (accessibility severity included, if this is missing): \n1. {S2} Ensure the combobox has accessible name. In this case, use the on-screen \"Choose your email service\" string (either as `<label>` or with `aria-labelledby` on the `<select>` element itself referring to its `id`\n2. {S2-s3} If not `<select>` element will be used, ensure to follow the WAI Combobox pattern\n3. {s2} the logo image would need to have appropriate text alternative. I'd lean to mark them as decorative, but this is up to @Josh Berman",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1004:30219",
+        "node_offset": {
+          "x": 713,
+          "y": 422
+        },
+        "stable_path": [
+          "1004:30219"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "682617736",
+      "uuid": "eead71bd-6655-4cab-9980-3b78cb916447",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-01-26T21:04:19.871Z",
+      "resolved_at": null,
+      "message": "Engineering notes (accessibility severity included, if this is missing): \n1. {s2-s3} Ensure to follow the WAI Dialog design pattern: (a) {s3} the container to be `role=\"dialog\"` and (b) {s3} have `aria-labelledby` set to the `id` of the heading element \"Send email...\", (c) {s4} it could also have `aria-describedby` set to the `id` of the inner container, so it'll still all be announced - the content is short enough for that; (d) {S2} move the focus to the dialog's first control or, ideally, add `tabindex=\"-1\"` to the dialog container and place the focus on it, when dialog opens;\n2. {s4} on-screen label is a heading, `<h1>` or `<h2>`",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1004:30095",
+        "node_offset": {
+          "x": 857,
+          "y": 200
+        },
+        "stable_path": [
+          "1004:30095"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "619948454",
+      "uuid": "88217521-df7e-4950-9cfb-11336fe5dc76",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-11-17T20:12:17.394Z",
+      "resolved_at": null,
+      "message": "Engineering note: the bolden text should be `<strong>` to programmatically communicate the emphasis",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "34:15020",
+        "node_offset": {
+          "x": 1056,
+          "y": -748
+        },
+        "stable_path": [
+          "34:15020"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "619946417",
+      "uuid": "4ebe7aaa-e3a0-4c4c-9fdd-c0a01f04644b",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-11-17T20:09:34.735Z",
+      "resolved_at": null,
+      "message": "just in case: all states in HCM for a button can be found in this HCM playground file: https://www.figma.com/file/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?type=design&node-id=1-214&mode=design&t=d9HL15YQWXhekoVX-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "275:17511",
+        "node_offset": {
+          "x": 885,
+          "y": 655
+        },
+        "stable_path": [
+          "275:17511"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "619942465",
+      "uuid": "6a1f25e7-5a24-4df4-9710-0928a10cbd44",
+      "file_key": "MTox8iIdh1xxJ5SfnpsczZ",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-11-17T20:04:19.388Z",
+      "resolved_at": null,
+      "message": "a11y consideration: allow at least 20 sec per action (incl. reading, pressing tab + enter or press escape to dismiss the notification), so different user could have enough time to read and act, esp. users with cognitive, learning difficulties and users with low language knowledge who would need extra time to read and understand the information; users with low vision who may not see the message right away",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-11-20T15:10:51.764Z",
+          "user": {
+            "id": "1113937443180999805",
+            "handle": "Josh Berman",
+            "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "34:16321",
+        "node_offset": {
+          "x": 138,
+          "y": 104
+        },
+        "stable_path": [
+          "34:16321"
+        ]
+      },
+      "order_id": "8"
+    }
+  ]
+}

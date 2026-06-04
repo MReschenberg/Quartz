@@ -1,0 +1,770 @@
+{
+  "unresolved": [
+    {
+      "id": "1629935111",
+      "uuid": "3d35fecb-442c-4f6f-bddd-4ae190535661",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2026-02-12T02:08:53.472Z",
+      "resolved_at": null,
+      "message": "Can we merge the ToS screen into the Default Screen somehow I wonder\n\ncc @Eduardo Feo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12883:19863",
+        "node_offset": {
+          "x": 348,
+          "y": 487
+        },
+        "stable_path": [
+          "12883:19863"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1629934694",
+      "uuid": "788eca10-39ac-405c-b041-74fe46156eef",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2026-02-12T02:08:25.545Z",
+      "resolved_at": null,
+      "message": "Sometime in the future update Not Now to \"Remind Later\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12883:19919",
+        "node_offset": {
+          "x": 349,
+          "y": 715
+        },
+        "stable_path": [
+          "12883:19919"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "1625013211",
+      "uuid": "cfa47455-a854-4486-b8a5-6d249af4a4de",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2026-02-09T16:26:11.854Z",
+      "resolved_at": null,
+      "message": "@Andres Furlan - DS confirmed that we should retain original iOS colors until the new colors from Nova get finalized. Can you help get this updated in the next build?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12883:19832",
+        "node_offset": {
+          "x": 143,
+          "y": 70
+        },
+        "stable_path": [
+          "12883:19832"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "1555919153",
+      "uuid": "c80216e3-a584-4225-8b83-b20e026b2abb",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-12-12T21:01:52.017Z",
+      "resolved_at": null,
+      "message": "@Andres Furlan - iOS here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12414:1445",
+        "node_offset": {
+          "x": 94,
+          "y": 1634
+        },
+        "stable_path": [
+          "12414:1445"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1551388372",
+      "uuid": "a3677dc6-bf0f-46a2-8ccf-04d9d3ce5a17",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-12-10T12:57:38.559Z",
+      "resolved_at": null,
+      "message": "We will need some type of indicator about the amount of sections/videos. Think about TikTok and Instagram Stories approach",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12397:2257",
+        "node_offset": {
+          "x": 100,
+          "y": 63
+        },
+        "stable_path": [
+          "12397:2257"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1551386960",
+      "uuid": "e23e59c0-7650-417f-b5d2-382d24b2215c",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-12-10T12:56:50.946Z",
+      "resolved_at": null,
+      "message": "@Jeffrey Guerrero as we discussed, please consider placing the video in the background with the content layered above it. This will allow the cloud elements to appear more naturally over the video and eliminate the hard square edge between the video and the content. The result should feel more seamless, natural, and visually integrated.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12397:2257",
+        "node_offset": {
+          "x": 33,
+          "y": 500
+        },
+        "stable_path": [
+          "12397:2257"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1550044397",
+      "uuid": "ecb891f2-f01c-4873-adde-f178d756baa4",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-12-09T19:24:12.822Z",
+      "resolved_at": null,
+      "message": "Another angle here could be to actually show contributors who help with localisation etc; so something like we do on the blog for example https://blog.mozilla.org/en/firefox/momo-creator/ to show the people/community behind Firefox",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-12-10T12:54:46.551Z",
+          "user": {
+            "id": "966012506228212394",
+            "handle": "Eduardo Feo",
+            "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "12393:3408",
+        "node_offset": {
+          "x": 259,
+          "y": 210
+        },
+        "stable_path": [
+          "12393:3408"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1550041395",
+      "uuid": "c023f465-56a6-43b7-8b15-18299de048bb",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-12-09T19:22:09.181Z",
+      "resolved_at": null,
+      "message": "This could also be a fun interaction to swipe through the different wallpapers and having the preview right here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12397:2257",
+        "node_offset": {
+          "x": 281,
+          "y": 301
+        },
+        "stable_path": [
+          "12397:2257"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "1550040312",
+      "uuid": "a4ae877e-4120-4dcc-af8c-37e5c7f0bd73",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-12-09T19:21:24.442Z",
+      "resolved_at": null,
+      "message": "I wonder if we could do a tiny hole where kit disappears in the mobile hole and comes out of the desktop on :shrug:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12397:2228",
+        "node_offset": {
+          "x": 264,
+          "y": 305
+        },
+        "stable_path": [
+          "12397:2228"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1550039216",
+      "uuid": "f7f623f7-760e-46ee-8285-3da7e2bf871b",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-12-09T19:20:40.611Z",
+      "resolved_at": null,
+      "message": "Not sure if we wanna push ETP settings here since I could see folks switching to strict without exactly reading or knowing what it is and then sites starts to break for them",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12397:2203",
+        "node_offset": {
+          "x": 287,
+          "y": 504
+        },
+        "stable_path": [
+          "12397:2203"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1550037756",
+      "uuid": "c43ebe4c-1d49-40c8-bfe3-066f10e07b5b",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-12-09T19:19:39.721Z",
+      "resolved_at": null,
+      "message": "The combination of 'this is how you do it'-video with Kit doing whatever Kit is doing is nice, so a bit of fun, a bit of education",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12397:2176",
+        "node_offset": {
+          "x": 326,
+          "y": 267
+        },
+        "stable_path": [
+          "12397:2176"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1426530396",
+      "uuid": "336f4bdb-66b9-4200-8034-9d337b5ce0b2",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-09-15T18:57:26.267Z",
+      "resolved_at": null,
+      "message": "Remind me, can we change this? @Jeffrey Guerrero",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11740:21279",
+        "node_offset": {
+          "x": 77,
+          "y": 399
+        },
+        "stable_path": [
+          "11740:21279"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1358148787",
+      "uuid": "687fd0e4-cff1-4ed7-9392-55f887c6e064",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-07-28T14:41:08.526Z",
+      "resolved_at": null,
+      "message": "@Razvan Litianu - following our current settings with just updated colors",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2910:1389",
+        "node_offset": {
+          "x": 6116,
+          "y": 6602
+        },
+        "stable_path": [
+          "2910:1389"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1323509792",
+      "uuid": "7cab296e-0a53-4d56-a19d-8358ec0b3e30",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-07-02T14:59:30.903Z",
+      "resolved_at": null,
+      "message": "@Razvan Litianu",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11311:14289",
+        "node_offset": {
+          "x": 260,
+          "y": 223
+        },
+        "stable_path": [
+          "11311:14289"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1286011697",
+      "uuid": "f426de6a-575a-4e37-89eb-db1de0dbc649",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2025-06-04T17:57:47.841Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan  can you verify if this will be the dark mode look? Or drop the correct version in? I'm also wondering if in this case we can remove the left padding and have the fox touch the edge? What do you think? \n\n@Michelle Diaz",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11050:15975",
+        "node_offset": {
+          "x": 136,
+          "y": 438
+        },
+        "stable_path": [
+          "11050:15975"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1285971912",
+      "uuid": "49e1145e-529a-4b46-8b67-79075bef6694",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2025-06-04T17:30:32.752Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan @Eduardo Feo @Jane Wolf Updated some minor things here, as well as added a dark mode version. If all looks good to you, I can export. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11049:13930",
+        "node_offset": {
+          "x": 913,
+          "y": 71
+        },
+        "stable_path": [
+          "11049:13930"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1282151840",
+      "uuid": "de2b9676-9572-4db4-973d-86ab0462440b",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2025-06-02T18:42:48.857Z",
+      "resolved_at": null,
+      "message": "@Eduardo Feo @Christopher Logan @Jane Wolf R3 with color is here. The only difference between Options 1&2 are just zooming in a bit to make the fox larger. Lmk your thoughts",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11000:13661",
+        "node_offset": {
+          "x": 528,
+          "y": 162.5
+        },
+        "stable_path": [
+          "11000:13661"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1270836230",
+      "uuid": "b1fcc514-bb43-4b4e-a2d4-fed647155a54",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2025-05-23T21:07:45.645Z",
+      "resolved_at": null,
+      "message": "really love this option @Michelle Diaz  \n\n@Eduardo Feo @Christopher Logan",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10916:13186",
+        "node_offset": {
+          "x": 216,
+          "y": 430
+        },
+        "stable_path": [
+          "10916:13186"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1270606945",
+      "uuid": "6aa2a3da-d9f8-4d03-827b-f82247cb8eff",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-05-23T17:00:37.743Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz I like how good you captured the previous personality. IMO, I think this is good direction. \nCC. @Brooke Katalinich @Christopher Logan",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10885:16375",
+        "node_offset": {
+          "x": 56,
+          "y": 455
+        },
+        "stable_path": [
+          "10885:16375"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1270605605",
+      "uuid": "b32a86bf-925e-4b40-b124-12198c3384d6",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-05-23T16:59:24.881Z",
+      "resolved_at": null,
+      "message": "Because the space and size I suggest to move forward with any of the other options instead of this one.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10885:16837",
+        "node_offset": {
+          "x": 48,
+          "y": 452
+        },
+        "stable_path": [
+          "10885:16837"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1270598584",
+      "uuid": "796928a5-61dc-414f-8984-b07bb7657d40",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2025-05-23T16:53:20.961Z",
+      "resolved_at": null,
+      "message": "@Eduardo Feo @Christopher Logan @Jane Wolf I've created an illustration section on this page and dropped in 2 sketches for this fox. Both are pretty simple and have been updated to the latest fox style. Lmk if you have any feedback, thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10885:13386",
+        "node_offset": {
+          "x": 664,
+          "y": 86
+        },
+        "stable_path": [
+          "10885:13386"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1180489309",
+      "uuid": "106e6783-61d2-4d11-880c-cde2cc990200",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2025-03-19T16:13:29.973Z",
+      "resolved_at": null,
+      "message": "is this replacing a CFR?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10102:8341",
+        "node_offset": {
+          "x": 3196,
+          "y": 1511
+        },
+        "stable_path": [
+          "10102:8341"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1180371362",
+      "uuid": "63d9623b-5806-4d76-b4bc-fa22eeecfb4b",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-03-19T15:21:14.187Z",
+      "resolved_at": null,
+      "message": "After discussions with channing and amoya and looking at the issues, what do you think about \"best performing\"? That feels broad enough to cover webcompat, speed, and bug fixes @Anthony Keane",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10103:11359",
+        "node_offset": {
+          "x": 264,
+          "y": 231
+        },
+        "stable_path": [
+          "10103:11359"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1156541788",
+      "uuid": "2a69b3ce-7c67-4c39-be11-b90b3ba022d2",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-03-03T22:47:13.412Z",
+      "resolved_at": null,
+      "message": "Hi @Jeffrey Guerrero - I'll look at this to see what things look like in production. I'd say the important thing is users can still see the text and after that the bubble should expand so everything reflows nicely. @Anna Yeddi any thoughts here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10144:17064",
+        "node_offset": {
+          "x": 1074,
+          "y": 1586
+        },
+        "stable_path": [
+          "10144:17064"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1156266680",
+      "uuid": "42cac423-bc07-4d4c-bd6f-3092ac7b7e02",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-03-03T18:36:52.555Z",
+      "resolved_at": null,
+      "message": "Need to have some factual basis (benchmarking)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10102:8360",
+        "node_offset": {
+          "x": 354,
+          "y": 293
+        },
+        "stable_path": [
+          "10102:8360"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1154282258",
+      "uuid": "8808e8ae-9b72-49a6-bf78-1889690a0a77",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-02-28T20:43:16.085Z",
+      "resolved_at": null,
+      "message": "Did you pull this direct from the current ToS work @Jeffrey Guerrero",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10102:8381",
+        "node_offset": {
+          "x": 22,
+          "y": 26
+        },
+        "stable_path": [
+          "10102:8381"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1154281397",
+      "uuid": "9f39e534-4af5-48cb-91f2-33ecdee9044c",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-02-28T20:42:17.962Z",
+      "resolved_at": null,
+      "message": "This screen wasn't updating with the components @Jeffrey Guerrero Neither was the body copy on the Set as default screen",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10102:8360",
+        "node_offset": {
+          "x": 113,
+          "y": 227
+        },
+        "stable_path": [
+          "10102:8360"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1150113350",
+      "uuid": "0be21827-ded4-48e4-a2c7-7d8b7ddc2da8",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-02-26T16:11:15.009Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller - had to move everything to a new file - can you use this one going forward?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10102:8339",
+        "node_offset": {
+          "x": 1943,
+          "y": 561
+        },
+        "stable_path": [
+          "10102:8339"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1156541788",
+      "uuid": "2a69b3ce-7c67-4c39-be11-b90b3ba022d2",
+      "file_key": "WhY9yEYOaNHTF3alCo8odj",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-03-03T22:47:13.412Z",
+      "resolved_at": null,
+      "message": "Hi @Jeffrey Guerrero - I'll look at this to see what things look like in production. I'd say the important thing is users can still see the text and after that the bubble should expand so everything reflows nicely. @Anna Yeddi any thoughts here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10144:17064",
+        "node_offset": {
+          "x": 1074,
+          "y": 1586
+        },
+        "stable_path": [
+          "10144:17064"
+        ]
+      },
+      "order_id": "19"
+    }
+  ]
+}

@@ -1,0 +1,1150 @@
+{
+  "unresolved": [
+    {
+      "id": "680754293",
+      "uuid": "a20552c0-aea8-471e-a58d-aabbb3cb4f4d",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Malte J\u00fcrgens",
+        "img_url": "https://www.gravatar.com/avatar/782a35e90cba24772a5eae23dfeeec8b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1252528126766879891"
+      },
+      "created_at": "2024-01-25T12:40:36.441Z",
+      "resolved_at": null,
+      "message": "The first bullet point about Firefox trying to use HTTPS first in private browsing has gone missing here somehow.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6163:2921",
+        "node_offset": {
+          "x": 431,
+          "y": 565
+        },
+        "stable_path": [
+          "6163:2921"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "676714610",
+      "uuid": "242ab069-b7a8-46ce-aa8d-b24a65c5f317",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2024-01-22T19:21:15.048Z",
+      "resolved_at": null,
+      "message": "wondering if this is the typical amount of spacing we use for radios or if it should be 8?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6161:6880",
+        "node_offset": {
+          "x": 424,
+          "y": 214
+        },
+        "stable_path": [
+          "6161:6880"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "664039202",
+      "uuid": "e123f52e-657c-4cf9-a673-bb60cec0c33a",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-10T00:06:21.973Z",
+      "resolved_at": null,
+      "message": "I'm not sure we can support this bulleted list within a group of radio buttons for screen reader users. \nA radio group is required to identify these buttons (Default, Only use HTTPS, Try HTTPS first, Custom) as related. A radio group expects only radio button children, but if we want to expose the description of each option after the option itself, we have to violate the \"only radio button children\" rule. @Anna Yeddi do you have ideas for a workaroudn here? \nI also anticipate the \"View and customize\" button in the \"Custom\" radio button label will be a problem",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6159:6343",
+        "node_offset": {
+          "x": 577,
+          "y": 651
+        },
+        "stable_path": [
+          "6159:6343"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "664037335",
+      "uuid": "172810a2-be1c-4bc3-85a0-ac33d57209b9",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-10T00:02:09.841Z",
+      "resolved_at": null,
+      "message": "Please underline this link",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6164:3380",
+        "node_offset": {
+          "x": 407,
+          "y": 544
+        },
+        "stable_path": [
+          "6164:3380"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "664037121",
+      "uuid": "4b0bd183-8ca6-4f54-9616-673d755eed3b",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-10T00:01:46.003Z",
+      "resolved_at": null,
+      "message": "3,4,5 should be accessible with arrow keys and (separately) 6,7,8 should be accessible with arrow keys.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6161:7011",
+        "node_offset": {
+          "x": 53,
+          "y": 393
+        },
+        "stable_path": [
+          "6161:7011"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "664036916",
+      "uuid": "aea03329-7d5d-474c-b18a-7c3270c602fe",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-10T00:01:15.574Z",
+      "resolved_at": null,
+      "message": "Please add two additional screen-reader-only annotations. One for a radio group around the radio buttons in Normal Browsing and one for the radio buttons in Private Browsing.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6161:7011",
+        "node_offset": {
+          "x": 104,
+          "y": 378
+        },
+        "stable_path": [
+          "6161:7011"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "664036645",
+      "uuid": "7d5d40ae-e4fd-4387-ae89-dc1193cdda74",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-10T00:00:38.978Z",
+      "resolved_at": null,
+      "message": "There is no on screen string here -- this will need an explicit label \"Back\" or \"Back to Security Preferences\" makes sense",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6161:7011",
+        "node_offset": {
+          "x": 162,
+          "y": 136
+        },
+        "stable_path": [
+          "6161:7011"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "664036300",
+      "uuid": "3d035d47-d63c-48ae-950b-46bad129ddbf",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-09T23:59:50.531Z",
+      "resolved_at": null,
+      "message": "Please add an underline to this link",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6159:6343",
+        "node_offset": {
+          "x": 425,
+          "y": 555
+        },
+        "stable_path": [
+          "6159:6343"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "664036241",
+      "uuid": "de3ca897-6616-41d9-b074-9b3d8f2dd912",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-09T23:59:42.937Z",
+      "resolved_at": null,
+      "message": "These labels should be clickable -- clicking them should select the associated radio button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6159:6343",
+        "node_offset": {
+          "x": 435,
+          "y": 622
+        },
+        "stable_path": [
+          "6159:6343"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "664036009",
+      "uuid": "8cb1447a-c1cd-4a9b-8aaf-54336343da0d",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-09T23:59:12.086Z",
+      "resolved_at": null,
+      "message": "4,5,6,7 should be accessed with arrow keys, not tab navigation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6159:6485",
+        "node_offset": {
+          "x": 60,
+          "y": 538
+        },
+        "stable_path": [
+          "6159:6485"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "664035902",
+      "uuid": "beaa4113-e7da-489a-830c-4d1ad0ad717f",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-09T23:58:57.434Z",
+      "resolved_at": null,
+      "message": "please add an additional screen-reader-only annotation around the group of radio buttons with a role=radio group",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6159:6485",
+        "node_offset": {
+          "x": 167,
+          "y": 573
+        },
+        "stable_path": [
+          "6159:6485"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "664035067",
+      "uuid": "314f76a8-e88c-4531-bb39-e5f1a7ac6b32",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-09T23:57:04.802Z",
+      "resolved_at": null,
+      "message": "Same for these \"manage exceptions\" buttons",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6164:3380",
+        "node_offset": {
+          "x": 936,
+          "y": 482
+        },
+        "stable_path": [
+          "6164:3380"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "664034987",
+      "uuid": "a28bbc2f-460e-4123-8599-4b7b336e94cf",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-09T23:56:52.675Z",
+      "resolved_at": null,
+      "message": "Please use HCM button styles at left for this button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6164:3380",
+        "node_offset": {
+          "x": 553,
+          "y": 860
+        },
+        "stable_path": [
+          "6164:3380"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "664006599",
+      "uuid": "7a0de23d-9fb3-493a-8e23-cc8dfd205f9e",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2024-01-09T22:59:05.640Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg hey hi! these are ready for you to look at when you have time :) thanks again",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6159:759",
+        "node_offset": {
+          "x": 1122,
+          "y": 210
+        },
+        "stable_path": [
+          "6159:759"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "649616796",
+      "uuid": "2f5036cf-9288-45e9-a6bd-4f3ec84a82c4",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-19T00:05:43.970Z",
+      "resolved_at": null,
+      "message": "Please mock this chevron as a button using the styles in our HCM Components lib",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6128:610",
+        "node_offset": {
+          "x": 999,
+          "y": 1005
+        },
+        "stable_path": [
+          "6128:610"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "649616087",
+      "uuid": "887bbe05-5f91-41ee-97f1-c8afe83f8247",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-19T00:03:51.415Z",
+      "resolved_at": null,
+      "message": "Is this collapsable? If so, please specify in the annotations that this should have an aria-expanded attribute.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6128:395",
+        "node_offset": {
+          "x": 998,
+          "y": 1013
+        },
+        "stable_path": [
+          "6128:395"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "649615888",
+      "uuid": "40fd5069-cebb-48b4-898c-945df984fb91",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-19T00:03:20.523Z",
+      "resolved_at": null,
+      "message": "Do you have a mock of this in dark mode? I want to make sure the contrast ratios pass -- this looks great for light mode!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6128:395",
+        "node_offset": {
+          "x": 486,
+          "y": 1219
+        },
+        "stable_path": [
+          "6128:395"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "649615283",
+      "uuid": "c5e8eac7-ed42-4574-8083-64eb97a3cdcf",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-19T00:01:48.074Z",
+      "resolved_at": null,
+      "message": "Can you please add a callout that these should use the hover / active / focus states defined here - https://www.figma.com/file/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?type=design&node-id=51-1303&mode=design&t=XfU1qfaOrXWoyXW5-0 ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6128:610",
+        "node_offset": {
+          "x": 410,
+          "y": 1128
+        },
+        "stable_path": [
+          "6128:610"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "649614849",
+      "uuid": "a8872cea-b1c9-4375-bffb-8aee5beb88fd",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-19T00:00:45.301Z",
+      "resolved_at": null,
+      "message": "We have to stick with foreground/background pairs when using HCM colors -- we can't put Canvas or Button colors on top of a Selecteditem colored background :( \nWe could either:\n* Use SelectedItemText for all the labels here, and keep the radio buttons as they are, accepting they may not render perfectly or\n* Use Canvas for the background and SelectedItem for the border (instead of CanvasText). The selection will be less obvious, but we'll guarantee readability. \nI'm leaning towards the latter -- can you mock this up? Also, what's this kind of control called? (the radio item with more radio items in it)\n\n@Anna Yeddi interested in your thoughts here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6128:610",
+        "node_offset": {
+          "x": 502,
+          "y": 1015
+        },
+        "stable_path": [
+          "6128:610"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "649613261",
+      "uuid": "7e50e7b3-4247-475e-8c9e-182e674148a0",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-18T23:56:53.956Z",
+      "resolved_at": null,
+      "message": "Can you please add keyboard/screen reader annotations here? Specifically, can you make sure the radio buttons are enclosed in their own radio groups?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6128:610",
+        "node_offset": {
+          "x": 526,
+          "y": 1085
+        },
+        "stable_path": [
+          "6128:610"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "649612630",
+      "uuid": "6336056b-7655-42e3-82ec-b251e9d83088",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-18T23:55:29.527Z",
+      "resolved_at": null,
+      "message": "hey! I'll be doing this review :) please @ me if you have any q's !",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:2008",
+        "node_offset": {
+          "x": 714,
+          "y": 44
+        },
+        "stable_path": [
+          "1:2008"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "614930570",
+      "uuid": "08b50049-107d-4cb7-a789-feef8f092ca5",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Malte J\u00fcrgens",
+        "img_url": "https://www.gravatar.com/avatar/782a35e90cba24772a5eae23dfeeec8b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1252528126766879891"
+      },
+      "created_at": "2023-11-14T09:16:30.407Z",
+      "resolved_at": null,
+      "message": "Should we swap those two, so\n* Default\n* Try HTTPS first\n* Only use HTTPS\n* Custom\nI feel like that would be a more logical progression of \"strictness\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6002:14734",
+        "node_offset": {
+          "x": 637,
+          "y": 794
+        },
+        "stable_path": [
+          "6002:14734"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "608809872",
+      "uuid": "fb78c456-0f49-4c3e-a2dd-836d38897e70",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2023-11-08T00:28:43.517Z",
+      "resolved_at": null,
+      "message": "@Malte J\u00fcrgens would the manage exceptions button apply to deceptive content or the entire security section?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6002:14871",
+        "node_offset": {
+          "x": 51,
+          "y": 8
+        },
+        "stable_path": [
+          "6002:14871"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "607983272",
+      "uuid": "bb8c051b-5b59-44a5-84a0-f5929a4d8b1d",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Malte J\u00fcrgens",
+        "img_url": "https://www.gravatar.com/avatar/782a35e90cba24772a5eae23dfeeec8b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1252528126766879891"
+      },
+      "created_at": "2023-11-07T12:12:20.690Z",
+      "resolved_at": null,
+      "message": "Will this text be displayed when the option is collapsed?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6002:14734",
+        "node_offset": {
+          "x": 852,
+          "y": 597
+        },
+        "stable_path": [
+          "6002:14734"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "607981562",
+      "uuid": "c6e39dcf-6101-4507-9c8a-eb04c8e21352",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Malte J\u00fcrgens",
+        "img_url": "https://www.gravatar.com/avatar/782a35e90cba24772a5eae23dfeeec8b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1252528126766879891"
+      },
+      "created_at": "2023-11-07T12:10:58.995Z",
+      "resolved_at": null,
+      "message": "Should this exception button be moved to the top-right of the section, right next to the main description? That is what's currently done for the similar looking DoH and ETP settings.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6002:14734",
+        "node_offset": {
+          "x": 527,
+          "y": 1291
+        },
+        "stable_path": [
+          "6002:14734"
+        ]
+      },
+      "order_id": "3"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "664039202",
+      "uuid": "e123f52e-657c-4cf9-a673-bb60cec0c33a",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-10T00:06:21.973Z",
+      "resolved_at": null,
+      "message": "I'm not sure we can support this bulleted list within a group of radio buttons for screen reader users. \nA radio group is required to identify these buttons (Default, Only use HTTPS, Try HTTPS first, Custom) as related. A radio group expects only radio button children, but if we want to expose the description of each option after the option itself, we have to violate the \"only radio button children\" rule. @Anna Yeddi do you have ideas for a workaroudn here? \nI also anticipate the \"View and customize\" button in the \"Custom\" radio button label will be a problem",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6159:6343",
+        "node_offset": {
+          "x": 577,
+          "y": 651
+        },
+        "stable_path": [
+          "6159:6343"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "664037335",
+      "uuid": "172810a2-be1c-4bc3-85a0-ac33d57209b9",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-10T00:02:09.841Z",
+      "resolved_at": null,
+      "message": "Please underline this link",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6164:3380",
+        "node_offset": {
+          "x": 407,
+          "y": 544
+        },
+        "stable_path": [
+          "6164:3380"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "664037121",
+      "uuid": "4b0bd183-8ca6-4f54-9616-673d755eed3b",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-10T00:01:46.003Z",
+      "resolved_at": null,
+      "message": "3,4,5 should be accessible with arrow keys and (separately) 6,7,8 should be accessible with arrow keys.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6161:7011",
+        "node_offset": {
+          "x": 53,
+          "y": 393
+        },
+        "stable_path": [
+          "6161:7011"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "664036916",
+      "uuid": "aea03329-7d5d-474c-b18a-7c3270c602fe",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-10T00:01:15.574Z",
+      "resolved_at": null,
+      "message": "Please add two additional screen-reader-only annotations. One for a radio group around the radio buttons in Normal Browsing and one for the radio buttons in Private Browsing.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6161:7011",
+        "node_offset": {
+          "x": 104,
+          "y": 378
+        },
+        "stable_path": [
+          "6161:7011"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "664036645",
+      "uuid": "7d5d40ae-e4fd-4387-ae89-dc1193cdda74",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-10T00:00:38.978Z",
+      "resolved_at": null,
+      "message": "There is no on screen string here -- this will need an explicit label \"Back\" or \"Back to Security Preferences\" makes sense",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6161:7011",
+        "node_offset": {
+          "x": 162,
+          "y": 136
+        },
+        "stable_path": [
+          "6161:7011"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "664036300",
+      "uuid": "3d035d47-d63c-48ae-950b-46bad129ddbf",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-09T23:59:50.531Z",
+      "resolved_at": null,
+      "message": "Please add an underline to this link",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6159:6343",
+        "node_offset": {
+          "x": 425,
+          "y": 555
+        },
+        "stable_path": [
+          "6159:6343"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "664036241",
+      "uuid": "de3ca897-6616-41d9-b074-9b3d8f2dd912",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-09T23:59:42.937Z",
+      "resolved_at": null,
+      "message": "These labels should be clickable -- clicking them should select the associated radio button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6159:6343",
+        "node_offset": {
+          "x": 435,
+          "y": 622
+        },
+        "stable_path": [
+          "6159:6343"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "664036009",
+      "uuid": "8cb1447a-c1cd-4a9b-8aaf-54336343da0d",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-09T23:59:12.086Z",
+      "resolved_at": null,
+      "message": "4,5,6,7 should be accessed with arrow keys, not tab navigation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6159:6485",
+        "node_offset": {
+          "x": 60,
+          "y": 538
+        },
+        "stable_path": [
+          "6159:6485"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "664035902",
+      "uuid": "beaa4113-e7da-489a-830c-4d1ad0ad717f",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-09T23:58:57.434Z",
+      "resolved_at": null,
+      "message": "please add an additional screen-reader-only annotation around the group of radio buttons with a role=radio group",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6159:6485",
+        "node_offset": {
+          "x": 167,
+          "y": 573
+        },
+        "stable_path": [
+          "6159:6485"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "664035067",
+      "uuid": "314f76a8-e88c-4531-bb39-e5f1a7ac6b32",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-09T23:57:04.802Z",
+      "resolved_at": null,
+      "message": "Same for these \"manage exceptions\" buttons",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6164:3380",
+        "node_offset": {
+          "x": 936,
+          "y": 482
+        },
+        "stable_path": [
+          "6164:3380"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "664034987",
+      "uuid": "a28bbc2f-460e-4123-8599-4b7b336e94cf",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-09T23:56:52.675Z",
+      "resolved_at": null,
+      "message": "Please use HCM button styles at left for this button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6164:3380",
+        "node_offset": {
+          "x": 553,
+          "y": 860
+        },
+        "stable_path": [
+          "6164:3380"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "664006599",
+      "uuid": "7a0de23d-9fb3-493a-8e23-cc8dfd205f9e",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2024-01-09T22:59:05.640Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg hey hi! these are ready for you to look at when you have time :) thanks again",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6159:759",
+        "node_offset": {
+          "x": 1122,
+          "y": 210
+        },
+        "stable_path": [
+          "6159:759"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "649616796",
+      "uuid": "2f5036cf-9288-45e9-a6bd-4f3ec84a82c4",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-19T00:05:43.970Z",
+      "resolved_at": null,
+      "message": "Please mock this chevron as a button using the styles in our HCM Components lib",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6128:610",
+        "node_offset": {
+          "x": 999,
+          "y": 1005
+        },
+        "stable_path": [
+          "6128:610"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "649616087",
+      "uuid": "887bbe05-5f91-41ee-97f1-c8afe83f8247",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-19T00:03:51.415Z",
+      "resolved_at": null,
+      "message": "Is this collapsable? If so, please specify in the annotations that this should have an aria-expanded attribute.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6128:395",
+        "node_offset": {
+          "x": 998,
+          "y": 1013
+        },
+        "stable_path": [
+          "6128:395"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "649615888",
+      "uuid": "40fd5069-cebb-48b4-898c-945df984fb91",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-19T00:03:20.523Z",
+      "resolved_at": null,
+      "message": "Do you have a mock of this in dark mode? I want to make sure the contrast ratios pass -- this looks great for light mode!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6128:395",
+        "node_offset": {
+          "x": 486,
+          "y": 1219
+        },
+        "stable_path": [
+          "6128:395"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "649615283",
+      "uuid": "c5e8eac7-ed42-4574-8083-64eb97a3cdcf",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-19T00:01:48.074Z",
+      "resolved_at": null,
+      "message": "Can you please add a callout that these should use the hover / active / focus states defined here - https://www.figma.com/file/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?type=design&node-id=51-1303&mode=design&t=XfU1qfaOrXWoyXW5-0 ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6128:610",
+        "node_offset": {
+          "x": 410,
+          "y": 1128
+        },
+        "stable_path": [
+          "6128:610"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "649614849",
+      "uuid": "a8872cea-b1c9-4375-bffb-8aee5beb88fd",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-19T00:00:45.301Z",
+      "resolved_at": null,
+      "message": "We have to stick with foreground/background pairs when using HCM colors -- we can't put Canvas or Button colors on top of a Selecteditem colored background :( \nWe could either:\n* Use SelectedItemText for all the labels here, and keep the radio buttons as they are, accepting they may not render perfectly or\n* Use Canvas for the background and SelectedItem for the border (instead of CanvasText). The selection will be less obvious, but we'll guarantee readability. \nI'm leaning towards the latter -- can you mock this up? Also, what's this kind of control called? (the radio item with more radio items in it)\n\n@Anna Yeddi interested in your thoughts here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6128:610",
+        "node_offset": {
+          "x": 502,
+          "y": 1015
+        },
+        "stable_path": [
+          "6128:610"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "649613261",
+      "uuid": "7e50e7b3-4247-475e-8c9e-182e674148a0",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-18T23:56:53.956Z",
+      "resolved_at": null,
+      "message": "Can you please add keyboard/screen reader annotations here? Specifically, can you make sure the radio buttons are enclosed in their own radio groups?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6128:610",
+        "node_offset": {
+          "x": 526,
+          "y": 1085
+        },
+        "stable_path": [
+          "6128:610"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "649612630",
+      "uuid": "6336056b-7655-42e3-82ec-b251e9d83088",
+      "file_key": "VrM0DC286VJm5chH2maTrn",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-18T23:55:29.527Z",
+      "resolved_at": null,
+      "message": "hey! I'll be doing this review :) please @ me if you have any q's !",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:2008",
+        "node_offset": {
+          "x": 714,
+          "y": 44
+        },
+        "stable_path": [
+          "1:2008"
+        ]
+      },
+      "order_id": "8"
+    }
+  ]
+}

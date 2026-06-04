@@ -1,0 +1,266 @@
+{
+  "unresolved": [
+    {
+      "id": "832757259",
+      "uuid": "a73f09a1-002a-4d32-b88e-53f83e5998e7",
+      "file_key": "tKizeQk9wkGZPus4CRxERt",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2024-06-07T22:21:44.014Z",
+      "resolved_at": null,
+      "message": "The other scenario to consider is tabs with update indicators. We put a small green dot underneath them I believe.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "335:56970",
+        "node_offset": {
+          "x": 1232,
+          "y": 1074
+        },
+        "stable_path": [
+          "335:56970"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "832756274",
+      "uuid": "d81f8623-c8fd-4bd6-900f-7cf5b9d67257",
+      "file_key": "tKizeQk9wkGZPus4CRxERt",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2024-06-07T22:18:50.322Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova  would this in general make our tabs shorter? How would this work in the tab bar with other icons in terms of padding?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "335:54979",
+        "node_offset": {
+          "x": 810,
+          "y": 721
+        },
+        "stable_path": [
+          "335:54979"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "811083112",
+      "uuid": "a0d85a68-668a-45e6-ad80-2f6aeaf97989",
+      "file_key": "tKizeQk9wkGZPus4CRxERt",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2024-05-21T14:12:32.346Z",
+      "resolved_at": null,
+      "message": "I think this is my favourite\u2014it's clear but still some differentiation from the rest of the settings. but honestly, any of these would work! I'd prefer for this setting to stay visible regardless of if \"vertical tabs\" is selected or not.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "223:84847",
+        "node_offset": {
+          "x": 260,
+          "y": 317
+        },
+        "stable_path": [
+          "223:84847"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "808201824",
+      "uuid": "6070036b-a980-4ab5-9689-a9baf85a017e",
+      "file_key": "tKizeQk9wkGZPus4CRxERt",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-05-17T22:16:50.208Z",
+      "resolved_at": null,
+      "message": "@Katie Lower Perhaps \"Hide tab strip\" will help with comprehension?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "198:162241",
+        "node_offset": {
+          "x": 158,
+          "y": 660
+        },
+        "stable_path": [
+          "198:162241"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "808148947",
+      "uuid": "3351b5ba-273a-4b91-bceb-419d50a16d87",
+      "file_key": "tKizeQk9wkGZPus4CRxERt",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-05-17T20:35:28.796Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi - Hi Anna! Wanted to get your input on the accessibility of an interaction here. \n\nWhat we're exploring is showing the option for \"Hide horizontal tabs\" conditionally - so, only after the user selects the \"Horizontal tabs\" radio button.\n\nDoes conditionally showing items raise any flags or concerns from an a11y perspective? \n\nAlso, from an a11y perspective: Would there be any concern with indenting a conditional item? (See V3 and V4 for what I mean.) Visually, we feel this is a further indication that the two controls are connected.\n\nThank you! \n\ncc: @Yulia Popova",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "195:162240",
+        "node_offset": {
+          "x": 4,
+          "y": 40
+        },
+        "stable_path": [
+          "195:162240"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "808145544",
+      "uuid": "5d533e0c-2c2b-4ae5-bd66-9ecf6b23473a",
+      "file_key": "tKizeQk9wkGZPus4CRxERt",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-05-17T20:30:48.196Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova - If we go with an icon here, should be the same icon as Hide sidebar? I know icons to show the hiding of something are a little tricky...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "195:161875",
+        "node_offset": {
+          "x": 665,
+          "y": 727
+        },
+        "stable_path": [
+          "195:161875"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "799581672",
+      "uuid": "4cb561f7-2ac5-4dbe-a7f3-cc52aa7da104",
+      "file_key": "tKizeQk9wkGZPus4CRxERt",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-05-10T16:57:14.498Z",
+      "resolved_at": null,
+      "message": "Hi @Anna Yeddi! I\u2019m working on the sidebar UX specs with Yulia.\nWe will have a situation with the tools where sometimes they will be oriented vertically and sometimes they will be oriented horizontally.\nWe will provide a right-click menu for the tools where the user can \u201cRemove\u201d the tool from the sidebar as well as move the tool up in the list or down in the list. (Users can also drag and drop the icons to reorder / move them.)\n\nWe have heard from engineering that it will be difficult to have different terms for whether the tools are positioned vertically or horizontally - which, of course makes the language a little tricky.\n\nFrom an accessibility perspective, would you have any concerns with - when the tools are positioned horizontally, we use the term \u201cMove Up\u201d or \u201cMove Down\u201d? Move Up would move the tool to the left. Move down would move the tool to the right. \n\nThe other viable option here could be to say \u201cMove Toward Start\" and \"Move Toward End\". While it is more precise, I feel it may be a bit higher cognitive load.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:49169",
+        "node_offset": {
+          "x": 5014,
+          "y": 1287
+        },
+        "stable_path": [
+          "1:49169"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "787762267",
+      "uuid": "7feb0192-ec29-48f3-bd73-de2ba62fb27a",
+      "file_key": "tKizeQk9wkGZPus4CRxERt",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-04-30T10:15:01.979Z",
+      "resolved_at": null,
+      "message": "Moving a comment from Katie:\nIdea: Add right-click menu when clicking in 'blank space' of sidebar. One item: \nCustomize Sidebar",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:48990",
+        "node_offset": {
+          "x": 1008,
+          "y": 84
+        },
+        "stable_path": [
+          "1:48990"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "808148947",
+      "uuid": "3351b5ba-273a-4b91-bceb-419d50a16d87",
+      "file_key": "tKizeQk9wkGZPus4CRxERt",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-05-17T20:35:28.796Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi - Hi Anna! Wanted to get your input on the accessibility of an interaction here. \n\nWhat we're exploring is showing the option for \"Hide horizontal tabs\" conditionally - so, only after the user selects the \"Horizontal tabs\" radio button.\n\nDoes conditionally showing items raise any flags or concerns from an a11y perspective? \n\nAlso, from an a11y perspective: Would there be any concern with indenting a conditional item? (See V3 and V4 for what I mean.) Visually, we feel this is a further indication that the two controls are connected.\n\nThank you! \n\ncc: @Yulia Popova",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "195:162240",
+        "node_offset": {
+          "x": 4,
+          "y": 40
+        },
+        "stable_path": [
+          "195:162240"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "799581672",
+      "uuid": "4cb561f7-2ac5-4dbe-a7f3-cc52aa7da104",
+      "file_key": "tKizeQk9wkGZPus4CRxERt",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-05-10T16:57:14.498Z",
+      "resolved_at": null,
+      "message": "Hi @Anna Yeddi! I\u2019m working on the sidebar UX specs with Yulia.\nWe will have a situation with the tools where sometimes they will be oriented vertically and sometimes they will be oriented horizontally.\nWe will provide a right-click menu for the tools where the user can \u201cRemove\u201d the tool from the sidebar as well as move the tool up in the list or down in the list. (Users can also drag and drop the icons to reorder / move them.)\n\nWe have heard from engineering that it will be difficult to have different terms for whether the tools are positioned vertically or horizontally - which, of course makes the language a little tricky.\n\nFrom an accessibility perspective, would you have any concerns with - when the tools are positioned horizontally, we use the term \u201cMove Up\u201d or \u201cMove Down\u201d? Move Up would move the tool to the left. Move down would move the tool to the right. \n\nThe other viable option here could be to say \u201cMove Toward Start\" and \"Move Toward End\". While it is more precise, I feel it may be a bit higher cognitive load.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:49169",
+        "node_offset": {
+          "x": 5014,
+          "y": 1287
+        },
+        "stable_path": [
+          "1:49169"
+        ]
+      },
+      "order_id": "2"
+    }
+  ]
+}

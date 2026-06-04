@@ -1,0 +1,1293 @@
+{
+  "unresolved": [
+    {
+      "id": "1420236041",
+      "uuid": "a593d83a-c7c4-4f59-97da-41088cb03b95",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-09-10T15:43:44.768Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey when opening the dialog, should we focus the text area ? If yes should the caret be at the end or at the beginning of the text ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "557:20983",
+        "node_offset": {
+          "x": 801,
+          "y": 184
+        },
+        "stable_path": [
+          "557:20983"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1416328308",
+      "uuid": "df2ce821-9214-4509-8fd1-67996645fb61",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-09-08T18:05:55.025Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey What's the URL to use here ?\nIs there a bug requesting a SUMO article (similar to https://bugzilla.mozilla.org/show_bug.cgi?id=1909004) ?\ncc @Kim Bryant",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "527:32264",
+        "node_offset": {
+          "x": 94.5,
+          "y": 124
+        },
+        "stable_path": [
+          "527:32264"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1412382920",
+      "uuid": "3c3b5317-6084-4d9d-a9f3-5f5f8f197631",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-09-04T18:37:07.147Z",
+      "resolved_at": null,
+      "message": "This one feels juuuust playful enough for something like this. I like!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1174:23479",
+        "node_offset": {
+          "x": 331,
+          "y": 62
+        },
+        "stable_path": [
+          "1174:23479"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1412371874",
+      "uuid": "6b098d47-c74a-4074-b4b8-dd6e969347b9",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-09-04T18:29:26.365Z",
+      "resolved_at": null,
+      "message": "I like this empty state but def think it'll be hard for localization  :(",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1174:23447",
+        "node_offset": {
+          "x": 325,
+          "y": 59
+        },
+        "stable_path": [
+          "1174:23447"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1412370518",
+      "uuid": "2892baff-ea1d-47e4-9a34-1cd9d2716139",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-09-04T18:28:32.236Z",
+      "resolved_at": null,
+      "message": "Future-thinking:\nI like the body copy on this option! It feels super easy to add a comment \"highlight something\" and doesn't feel too idiomatic either \"comment away\"",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-09-04T18:30:13.806Z",
+          "user": {
+            "id": "1083509274597697392",
+            "handle": "Jeff Pfaller",
+            "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1174:23574",
+        "node_offset": {
+          "x": 227,
+          "y": 111
+        },
+        "stable_path": [
+          "1174:23574"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1412369640",
+      "uuid": "283d8edb-faf1-4cf0-bdcd-cc3773ebb79d",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-09-04T18:27:57.274Z",
+      "resolved_at": null,
+      "message": "Some riffs: Ready when you are",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1174:22693",
+        "node_offset": {
+          "x": 2672,
+          "y": -946
+        },
+        "stable_path": [
+          "1174:22693"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "1412369216",
+      "uuid": "b1a27800-a80b-457d-a7ba-2c541ea479c0",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-09-04T18:27:37.959Z",
+      "resolved_at": null,
+      "message": "The ones that say \"No comments/yet\" are the clearest to me. \n\nI also like just leading with the instructions. Not the jazziest but it's clear! :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1174:23561",
+        "node_offset": {
+          "x": 214,
+          "y": 27
+        },
+        "stable_path": [
+          "1174:23561"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "1412369038",
+      "uuid": "3aec0555-6d81-448b-92ed-3a093a6e83e3",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-09-04T18:27:31.035Z",
+      "resolved_at": null,
+      "message": "Similarly, I think I like the clear and straightforward approach here.\n\nBut I could see it as an opportunity to be more playful too",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-09-04T18:28:40.230Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1174:23520",
+        "node_offset": {
+          "x": 140,
+          "y": 63
+        },
+        "stable_path": [
+          "1174:23520"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1412366773",
+      "uuid": "11cffc35-0892-4a40-a61a-84ddf418baa3",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-09-04T18:25:57.184Z",
+      "resolved_at": null,
+      "message": "Q: do we need the ellipsis for the helper text?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1174:23319",
+        "node_offset": {
+          "x": 160,
+          "y": 62
+        },
+        "stable_path": [
+          "1174:23319"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1412366209",
+      "uuid": "058881c0-2666-4829-ae4b-84c27e2197e9",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-09-04T18:25:35.082Z",
+      "resolved_at": null,
+      "message": "For this, I like the more playful voice-ey ones. It's like an intro to the feature and it feels more natural to show personality",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1174:22693",
+        "node_offset": {
+          "x": 2204,
+          "y": -967
+        },
+        "stable_path": [
+          "1174:22693"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "1412365113",
+      "uuid": "6810d0cc-32a9-41da-a39d-3e3b0a59022a",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-09-04T18:24:50.533Z",
+      "resolved_at": null,
+      "message": "Even with the new voice, the playful ones feel like not an ideal fit for this, since it presupposes (or implies) certain use cases. I like the straightforward ones like this one or Jot down to be more informal",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-09-04T18:25:09.733Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-09-04T18:36:34.520Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1174:23319",
+        "node_offset": {
+          "x": 236,
+          "y": 63
+        },
+        "stable_path": [
+          "1174:23319"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1403746708",
+      "uuid": "d82aa58d-8033-42d6-a1b9-4ab73af9beaa",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-08-29T07:52:03.853Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey do you want different styles for hover, focus, ... for this element ? Since it's informative, I think it doesn't make sense to show different colors, ... Wdyt ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "527:32260",
+        "node_offset": {
+          "x": 939,
+          "y": 231.5
+        },
+        "stable_path": [
+          "527:32260"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1403167739",
+      "uuid": "fe1e8bcb-1d6b-4513-99cd-ab9d17adec65",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-08-28T20:11:06.291Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey - for 2A, these can be list items but we should also make these buttons since there is interaction when you click on them. We should also add in the note section that the selected state should be programmatically associated too. Let me know if you have any questions! Thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:17066",
+        "node_offset": {
+          "x": 426.5,
+          "y": 761.9990234375
+        },
+        "stable_path": [
+          "538:17066"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1400887929",
+      "uuid": "ee5ece69-843e-4fe1-90f3-2e9e25a7604a",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-08-27T16:41:38.472Z",
+      "resolved_at": null,
+      "message": "@Natalie Stroud thanks for all the feedback and help here! Is this good to mark as ready for eng?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "399:26256",
+        "node_offset": {
+          "x": 1338,
+          "y": 9780
+        },
+        "stable_path": [
+          "399:26256"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1400601396",
+      "uuid": "699bedfa-1e5b-400e-a377-7f8e62c503ff",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-08-27T14:12:50.768Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey \nInstead of the 20 chars limit I implemented a 2 lines limit. The main (big) advantage is that I implemented it with 2, 3 lines of CSS when the 20 chars limit can only be done in JS. Is it fine for you ? Or do you prefer the 20 chars limit ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "527:32249",
+        "node_offset": {
+          "x": 166.5,
+          "y": 39.5
+        },
+        "stable_path": [
+          "527:32249"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1400506149",
+      "uuid": "c59ab431-d2f3-4ffb-8c65-c73b833404a6",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-08-27T13:30:27.195Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey just fyi, the box shadow is useless in HCM",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "527:33502",
+        "node_offset": {
+          "x": 17,
+          "y": 26
+        },
+        "stable_path": [
+          "527:33502"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1400479064",
+      "uuid": "94e96e62-1ef2-455c-b994-6577d24bde4d",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-08-27T13:18:20.105Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet for some reason this icon is correct. Could you use this instance and just update the color fill as necessary? Sorry but I cant figure out why the other instances are off by a pixel.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "517:17491",
+        "node_offset": {
+          "x": 49,
+          "y": 16
+        },
+        "stable_path": [
+          "517:17491"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1394715415",
+      "uuid": "76452b5a-9e41-4c61-97e2-f8c70b762a09",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-08-22T15:45:01.552Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey the icon is supposed to be 16x16 and the svg for it says that's a 16x17 (it's an existing \"issue\" with some other icons): it leads to a useless scaling.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "527:32251",
+        "node_offset": {
+          "x": 141,
+          "y": 21
+        },
+        "stable_path": [
+          "527:32251"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1393411970",
+      "uuid": "d9ea43e4-3806-4bbe-829c-d4cbf7920c19",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-08-21T21:23:15.767Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey - let's move the 'aria-label' part to the note section. Thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "557:44032",
+        "node_offset": {
+          "x": 361.98779296875,
+          "y": 107.9990234375
+        },
+        "stable_path": [
+          "557:44032"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1393352133",
+      "uuid": "f6ddd706-1102-4c40-a746-79c65ccc66b4",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-08-21T20:28:24.572Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet the comment icon is updated with the chosen version, and should be propagated throughout this spec.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "527:11223",
+        "node_offset": {
+          "x": 177,
+          "y": 53
+        },
+        "stable_path": [
+          "527:11223"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1393334142",
+      "uuid": "6d0c777a-5e98-48d1-8f46-33dfbaa87458",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-08-21T20:13:47.870Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey when selecting a comment, we'll scroll the page containing the annotation into the viewport. Should the annotation be on the top, on the center or on the bottom of the screen ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "557:15911",
+        "node_offset": {
+          "x": 3555,
+          "y": 94
+        },
+        "stable_path": [
+          "557:15911"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1393285948",
+      "uuid": "5b66732e-3247-47b8-a97a-2dbc8a2c0c0d",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-08-21T19:34:55.161Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey it's probably something for the content team, but we should probably have a note for the translators about using or not the plural form when it's 0.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "527:32260",
+        "node_offset": {
+          "x": 943,
+          "y": 188.5
+        },
+        "stable_path": [
+          "527:32260"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1393072466",
+      "uuid": "e3f938c3-178e-45ec-8a45-34f1aebdd00a",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-08-21T17:00:15.827Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey What's the date format we want to use (and fyi we've the time too if we want) ? Based on what I can see here, it looks like: `Intl.DateTimeFormat(\"en-US\", { timeStyle: undefined, dateStyle: \"long\" })` (see https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat/DateTimeFormat) is it correct ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "527:32263",
+        "node_offset": {
+          "x": 143.5,
+          "y": 102
+        },
+        "stable_path": [
+          "527:32263"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1393022770",
+      "uuid": "0015258a-707e-4b8f-86b1-c1777bcefaf2",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-08-21T16:26:35.807Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey Is commenting mode a normal editing mode ? I mean is the user allowed to click on an annotation, resize it, change whatever of its properties... ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "557:19014",
+        "node_offset": {
+          "x": 1001,
+          "y": 134
+        },
+        "stable_path": [
+          "557:19014"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1391215432",
+      "uuid": "9c75d64a-6bc8-4ef2-b8f3-78e135fbc643",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-08-20T18:33:50.847Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey there isn't this small triangle indicating that's a door hanger ? Is it an oblivion or on purpose ? I mean it can just be a sidebar without being a door hanger.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "557:19843",
+        "node_offset": {
+          "x": 985,
+          "y": 105
+        },
+        "stable_path": [
+          "557:19843"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1391165968",
+      "uuid": "6dba51f3-912a-459d-8d46-85e07c1b632d",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-08-20T17:59:52.643Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey when will we have the string giving instructions ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "527:32260",
+        "node_offset": {
+          "x": 932,
+          "y": 136.5
+        },
+        "stable_path": [
+          "527:32260"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1391091129",
+      "uuid": "ab660a86-3488-4a2e-bfd1-bc5265908eb1",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-08-20T17:08:59.139Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey should the popup window be a modal one ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "543:58614",
+        "node_offset": {
+          "x": 936,
+          "y": 279
+        },
+        "stable_path": [
+          "543:58614"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1391073785",
+      "uuid": "71041e8f-bc64-4eba-9084-72fef9130973",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-08-20T16:56:50.386Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey should we switch to comment mode (e.g. having the sidebar and so on) ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "674:24438",
+        "node_offset": {
+          "x": 1227.90625,
+          "y": 48.259765625
+        },
+        "stable_path": [
+          "674:24438"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1387084858",
+      "uuid": "8d5fbb8c-41a2-4083-9f45-7e1e9af58931",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-08-18T17:18:43.400Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey the border color is #8F8F9D when the line color in the icon is #5B5B66.\nIs it fine to have different colors ? and usually the color line in icon for buttons are black, so is this #5B5B66 expected ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "527:35523",
+        "node_offset": {
+          "x": 298,
+          "y": 93.82177734375
+        },
+        "stable_path": [
+          "527:35523"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1385064934",
+      "uuid": "c3f8558d-ec3b-4de8-b43c-13007e76e863",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-08-15T18:58:40.762Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi I was trying to create a way for users to be able to navigate to the comment, then be able to tab through the annotation controls as well. Hoping you can provide some guidance here. thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "534:143734",
+        "node_offset": {
+          "x": 6604,
+          "y": 2364
+        },
+        "stable_path": [
+          "534:143734"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1385043751",
+      "uuid": "6ed6eb1d-8eb0-4faa-9a73-98b1723de5e6",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-08-15T18:37:47.422Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet I revised this area to mimic what it seems you have built. Let me know. thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "406:94940",
+        "node_offset": {
+          "x": 564,
+          "y": 1086
+        },
+        "stable_path": [
+          "406:94940"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1384958405",
+      "uuid": "8002baca-fe49-4c9f-a164-a6e29674686d",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-08-15T17:15:36.500Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet I played with some alternate Firefox system colors and was able to achieve AA contrast with all these surface. Thoughts? My concern is how they might look for highlighting dark text on a light background :man-shrugging:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "636:29916",
+        "node_offset": {
+          "x": 379,
+          "y": 55.1435546875
+        },
+        "stable_path": [
+          "636:29916"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1383598852",
+      "uuid": "51328ef0-887f-42dd-81c9-0c8d60149839",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-08-14T17:27:16.064Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey, when a comment is selected, maybe we could update to \"Comment 12/23\" for the 12th comment ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "527:32263",
+        "node_offset": {
+          "x": 143.5,
+          "y": 44
+        },
+        "stable_path": [
+          "527:32263"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1360666902",
+      "uuid": "5047e7a2-8cbe-4eea-a4cf-c24f544ddf76",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-07-29T20:18:39.289Z",
+      "resolved_at": null,
+      "message": "Maybe this is comment count? Navigation for comments?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "225:26516",
+        "node_offset": {
+          "x": 1252,
+          "y": 206
+        },
+        "stable_path": [
+          "225:26516"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1344503446",
+      "uuid": "4c0c917f-2384-40f7-a8a0-381478bc0112",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-07-17T14:52:54.365Z",
+      "resolved_at": null,
+      "message": "Numbers maybe not MVP but how can we make it more contextual?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15:901",
+        "node_offset": {
+          "x": 228,
+          "y": 596
+        },
+        "stable_path": [
+          "15:901"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1344497801",
+      "uuid": "660eed3d-336c-4404-b8a3-af76c544c943",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-07-17T14:50:20.681Z",
+      "resolved_at": null,
+      "message": "Add numbers? APA for wayfinding?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15:901",
+        "node_offset": {
+          "x": 163,
+          "y": 601
+        },
+        "stable_path": [
+          "15:901"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1344478307",
+      "uuid": "a4d4f7b6-42b0-43b7-8cfc-bbca6468083b",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-07-17T14:41:34.350Z",
+      "resolved_at": null,
+      "message": "Where do we allow user to enter name in workflow? Would it be the first time you comment? Or somewhere more global?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14:20182",
+        "node_offset": {
+          "x": 1037.859375,
+          "y": 441.953125
+        },
+        "stable_path": [
+          "14:20182"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1344444498",
+      "uuid": "53cc7a72-fdda-4858-8f78-3bd37175e18b",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-07-17T14:26:08.058Z",
+      "resolved_at": null,
+      "message": "Should I think about being able to add an image or whatever in the future ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14:19904",
+        "node_offset": {
+          "x": 68,
+          "y": 393
+        },
+        "stable_path": [
+          "14:19904"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1344441293",
+      "uuid": "fe108c07-ae81-41c6-875d-5523587d0b01",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-07-17T14:24:38.616Z",
+      "resolved_at": null,
+      "message": "Do we have a rule to defined the length of the excerpt ? String length ? Height of the box ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14:19907",
+        "node_offset": {
+          "x": 43,
+          "y": 343
+        },
+        "stable_path": [
+          "14:19907"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1344434622",
+      "uuid": "cec9ec5b-1a03-41c5-8543-4e252a5a9045",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-07-17T14:21:38.168Z",
+      "resolved_at": null,
+      "message": "We already talked that, but it's just to make sure: once the user filled the name field, we save it and pre-fill the field the next time they want to comment, right ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14:20182",
+        "node_offset": {
+          "x": 1083.859375,
+          "y": 569.953125
+        },
+        "stable_path": [
+          "14:20182"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1344430624",
+      "uuid": "a63e869d-61ff-4058-89be-9f7f5706e63a",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-07-17T14:19:48.726Z",
+      "resolved_at": null,
+      "message": "Should we add a red line or something else when the name is empty in order to give some focus on this requirement ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14:20182",
+        "node_offset": {
+          "x": 1069.859375,
+          "y": 523.953125
+        },
+        "stable_path": [
+          "14:20182"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1416328308",
+      "uuid": "df2ce821-9214-4509-8fd1-67996645fb61",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-09-08T18:05:55.025Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey What's the URL to use here ?\nIs there a bug requesting a SUMO article (similar to https://bugzilla.mozilla.org/show_bug.cgi?id=1909004) ?\ncc @Kim Bryant",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "527:32264",
+        "node_offset": {
+          "x": 94.5,
+          "y": 124
+        },
+        "stable_path": [
+          "527:32264"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1403167739",
+      "uuid": "fe1e8bcb-1d6b-4513-99cd-ab9d17adec65",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-08-28T20:11:06.291Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey - for 2A, these can be list items but we should also make these buttons since there is interaction when you click on them. We should also add in the note section that the selected state should be programmatically associated too. Let me know if you have any questions! Thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:17066",
+        "node_offset": {
+          "x": 426.5,
+          "y": 761.9990234375
+        },
+        "stable_path": [
+          "538:17066"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1400887929",
+      "uuid": "ee5ece69-843e-4fe1-90f3-2e9e25a7604a",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-08-27T16:41:38.472Z",
+      "resolved_at": null,
+      "message": "@Natalie Stroud thanks for all the feedback and help here! Is this good to mark as ready for eng?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "399:26256",
+        "node_offset": {
+          "x": 1338,
+          "y": 9780
+        },
+        "stable_path": [
+          "399:26256"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1400506149",
+      "uuid": "c59ab431-d2f3-4ffb-8c65-c73b833404a6",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Calixte Denizet",
+        "img_url": "https://www.gravatar.com/avatar/1c26d49ffb62a4106644da39c7e6fb4c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027236470046447471"
+      },
+      "created_at": "2025-08-27T13:30:27.195Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey just fyi, the box shadow is useless in HCM",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "527:33502",
+        "node_offset": {
+          "x": 17,
+          "y": 26
+        },
+        "stable_path": [
+          "527:33502"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1393411970",
+      "uuid": "d9ea43e4-3806-4bbe-829c-d4cbf7920c19",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-08-21T21:23:15.767Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey - let's move the 'aria-label' part to the note section. Thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "557:44032",
+        "node_offset": {
+          "x": 361.98779296875,
+          "y": 107.9990234375
+        },
+        "stable_path": [
+          "557:44032"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1385064934",
+      "uuid": "c3f8558d-ec3b-4de8-b43c-13007e76e863",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-08-15T18:58:40.762Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi I was trying to create a way for users to be able to navigate to the comment, then be able to tab through the annotation controls as well. Hoping you can provide some guidance here. thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "534:143734",
+        "node_offset": {
+          "x": 6604,
+          "y": 2364
+        },
+        "stable_path": [
+          "534:143734"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1384958405",
+      "uuid": "8002baca-fe49-4c9f-a164-a6e29674686d",
+      "file_key": "zIsOSgvNPjMN90tUJfzn5B",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2025-08-15T17:15:36.500Z",
+      "resolved_at": null,
+      "message": "@Calixte Denizet I played with some alternate Firefox system colors and was able to achieve AA contrast with all these surface. Thoughts? My concern is how they might look for highlighting dark text on a light background :man-shrugging:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "636:29916",
+        "node_offset": {
+          "x": 379,
+          "y": 55.1435546875
+        },
+        "stable_path": [
+          "636:29916"
+        ]
+      },
+      "order_id": "12"
+    }
+  ]
+}

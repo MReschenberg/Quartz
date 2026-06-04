@@ -1,0 +1,4011 @@
+{
+  "unresolved": [
+    {
+      "id": "824235483",
+      "uuid": "f44108d7-ad9f-4dcc-9524-614164b29fe0",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-05-31T17:25:35.996Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler after a user clicks \"not now\" once, does the review checker panel not open the next time they visit a product page?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3:11216",
+        "node_offset": {
+          "x": 3196,
+          "y": 1421
+        },
+        "stable_path": [
+          "3:11216"
+        ]
+      },
+      "order_id": "272"
+    },
+    {
+      "id": "730785101",
+      "uuid": "6c182dfc-399a-4362-858a-c3206714f55c",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-03-11T15:53:34.981Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova @Ania Safko FYI - Here's where we landed for Review Checker, when no network connection. No _words_ to communicate - just a _visual_ that communicates \"hey stuff will be here when you have a connection\". Bugzilla: https://bugzilla.mozilla.org/show_bug.cgi?id=1852274",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2530:87523",
+        "node_offset": {
+          "x": 4074,
+          "y": 158
+        },
+        "stable_path": [
+          "2530:87523"
+        ]
+      },
+      "order_id": "271"
+    },
+    {
+      "id": "622870782",
+      "uuid": "9ea99e27-5a70-4cc3-8d31-f43540c424e1",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Michael Verdi",
+        "img_url": "https://s3-alpha.figma.com/profile/52220d82-0e0a-44e4-927f-a9cc8ed86edf",
+        "id": "185146236911313054"
+      },
+      "created_at": "2023-11-21T16:55:33.728Z",
+      "resolved_at": null,
+      "message": "@Ekaterina Galetski Talk to Julian about this",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6901:45975",
+        "node_offset": {
+          "x": 3038,
+          "y": 490
+        },
+        "stable_path": [
+          "6901:45975"
+        ]
+      },
+      "order_id": "270"
+    },
+    {
+      "id": "588421942",
+      "uuid": "08d7385b-e554-4ea8-93b4-0e5f455fec06",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-10-18T13:24:41.471Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi I guess even if the role is details/summary, it would function as a button on click and close/open the card. Correct?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9489:18749",
+        "node_offset": {
+          "x": 188,
+          "y": 616
+        },
+        "stable_path": [
+          "9489:18749"
+        ]
+      },
+      "order_id": "269"
+    },
+    {
+      "id": "588415697",
+      "uuid": "676b08d8-0c35-4b12-800d-50720f5baca9",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-10-18T13:20:53.204Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi \nWondering what would be the element that would get focus when the card is open and the button \u201cShow more\u201d pressed? Would it be the first focusable element? Wondering if in this case it would be \u201cShow less\u201d button became it in the only interactive element on the card? \nIncluded closed and opened card below.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9494:23655",
+        "node_offset": {
+          "x": 43,
+          "y": 180
+        },
+        "stable_path": [
+          "9494:23655"
+        ]
+      },
+      "order_id": "268"
+    },
+    {
+      "id": "587618562",
+      "uuid": "ac3bfee3-8f90-4c28-9884-537a4828d293",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-10-17T23:38:24.935Z",
+      "resolved_at": null,
+      "message": "I'd add a note here: If this item is not supposed to be rendered to screen readers, please mark its role as Presentation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9489:23604",
+        "node_offset": {
+          "x": 236,
+          "y": 81
+        },
+        "stable_path": [
+          "9489:23604"
+        ]
+      },
+      "order_id": "267"
+    },
+    {
+      "id": "587617337",
+      "uuid": "41bb1e9a-2c15-4be6-a87e-e2a71829e0d6",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-10-17T23:35:25.864Z",
+      "resolved_at": null,
+      "message": "This image doesn't need a name because it should be marked role = presentation, which will remove it from the list of items a screen reader can reach. It should still be in our annotations, however, because we want to explicitly call out to developers that this item needs role=presentation to remove it from the flow.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9494:23643",
+        "node_offset": {
+          "x": 140,
+          "y": 172
+        },
+        "stable_path": [
+          "9494:23643"
+        ]
+      },
+      "order_id": "266"
+    },
+    {
+      "id": "587616142",
+      "uuid": "17bb7001-8c82-4ee4-832e-f7af0d463cc9",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-10-17T23:32:27.451Z",
+      "resolved_at": null,
+      "message": "For the B card I'd use the \"No info about these reviews, yet\" string. You could also use something that describes the content that would be in this card, if we had reviews to look at, like \"Review Quality\" cc @Anna Yeddi",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9494:23643",
+        "node_offset": {
+          "x": 115,
+          "y": 106
+        },
+        "stable_path": [
+          "9494:23643"
+        ]
+      },
+      "order_id": "265"
+    },
+    {
+      "id": "587615358",
+      "uuid": "1e6f1418-c243-46e8-9785-21db9739911c",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-10-17T23:30:39.893Z",
+      "resolved_at": null,
+      "message": "nope, it's fine to keep the orange color. it isn't focusable for keyboard users, so it shouldn't be purple. Some images (like this one in particular) don't contain information that is relevant to accomplishing the task at hand (understanding review quality) and so they should be marked presentational so screen readers ignore them. In the \"role\" section of the annotation, please put \"presentation\".",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9494:23670",
+        "node_offset": {
+          "x": 230,
+          "y": 183
+        },
+        "stable_path": [
+          "9494:23670"
+        ]
+      },
+      "order_id": "264"
+    },
+    {
+      "id": "587615085",
+      "uuid": "57ebe870-252c-4ca7-9850-4b3e832f08b1",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-10-17T23:30:05.282Z",
+      "resolved_at": null,
+      "message": "yes :) that's perfect, thank you !",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9494:23646",
+        "node_offset": {
+          "x": 127,
+          "y": 124
+        },
+        "stable_path": [
+          "9494:23646"
+        ]
+      },
+      "order_id": "263"
+    },
+    {
+      "id": "573551891",
+      "uuid": "d25c691c-974c-4b99-b96e-6174a4766a8e",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-10-03T15:43:03.200Z",
+      "resolved_at": null,
+      "message": "Ania Safko - Let me know if this update is thumbs up by your or if any concerns about clarity. Then, I'll update Bugzilla, the string inventory, and let Emily know (for mobile). \n\nOriginal was:\nUnreliable reviews removed",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8951:29775",
+        "node_offset": {
+          "x": 130,
+          "y": 205
+        },
+        "stable_path": null
+      },
+      "order_id": "261"
+    },
+    {
+      "id": "573550593",
+      "uuid": "2bdb4d03-a964-4e00-b999-aad0467c6166",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-10-03T15:42:05.917Z",
+      "resolved_at": null,
+      "message": "@Ania Safko - Let me know if this shortening is thumbs up by you and I'll update Bugzilla, the string inventory, and let Emily know (for android). \n\nOriginal was:\nReport this product is back in stock",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8951:29729",
+        "node_offset": {
+          "x": 207,
+          "y": 178
+        },
+        "stable_path": null
+      },
+      "order_id": "260"
+    },
+    {
+      "id": "572330814",
+      "uuid": "df6e1859-e19d-49cd-9271-c172d75c6357",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-10-02T15:44:31.404Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova @Michael Verdi @Juliana Gaibler - Should there be shading behind the icon when it's being pointed to? (Also: suggest updating to final icon.) Asking about the shading based on what I just saw in these reader view specs. \n\nhttps://www.figma.com/file/LgK9RAqJZ6AmRLCqIRNC0e/Fox-Guide?type=design&node-id=733-10202&mode=design&t=n4Ev2AyEmbzAqWEj-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2876:88542",
+        "node_offset": {
+          "x": 1096,
+          "y": 64
+        },
+        "stable_path": null
+      },
+      "order_id": "259"
+    },
+    {
+      "id": "571164761",
+      "uuid": "64518ff3-b889-4717-b185-2934e21323b9",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2023-09-29T19:01:52.524Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler this right here :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8750:14018",
+        "node_offset": {
+          "x": 1371,
+          "y": 112
+        },
+        "stable_path": null
+      },
+      "order_id": "257"
+    },
+    {
+      "id": "569963596",
+      "uuid": "a58b3ed0-721f-4c43-9f75-c6c786845454",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Juliana Gaibler",
+        "img_url": "https://s3-alpha.figma.com/profile/075fd6b5-f849-42b4-ac59-89b2ad0d028a",
+        "id": "895341744741177324"
+      },
+      "created_at": "2023-09-28T16:48:06.379Z",
+      "resolved_at": null,
+      "message": "@Jules Simplicio Headline is now using \"shopping-header-title\", but yeah It's a little large. What do you think",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8750:14018",
+        "node_offset": {
+          "x": 441,
+          "y": 42
+        },
+        "stable_path": [
+          "8750:14018"
+        ]
+      },
+      "order_id": "256"
+    },
+    {
+      "id": "559294691",
+      "uuid": "8ee0864c-d30f-4a15-90c4-8d4f0f27ea1a",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Kuu Chen",
+        "img_url": "https://www.gravatar.com/avatar/fdaf121b1cc4faac9f3866511cd0ac4f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1267900790802702608"
+      },
+      "created_at": "2023-09-18T21:15:23.622Z",
+      "resolved_at": null,
+      "message": "@Shane Hughes does this work with the dimensions you listed? the callout window is exactly 400px wide and the spaces on either side of the illustration aren't too wide",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7448:8111",
+        "node_offset": {
+          "x": 380,
+          "y": 281
+        },
+        "stable_path": null
+      },
+      "order_id": "255"
+    },
+    {
+      "id": "556439526",
+      "uuid": "b8860539-c7fb-4004-82ac-0490c2940b49",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-09-14T17:37:18.068Z",
+      "resolved_at": null,
+      "message": "@Michael Verdi Could we increase the timeout for the message to 20 seconds or more? 5 seconds would not be enough time for users to locate the message and then read it, especially users with magnification software, other users with low vision, i.e. those who are physically moving their heads while reading from a large screen, also users with cognitive difficulties, with dyslexia, and neurodiverse users.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3408:82753",
+        "node_offset": {
+          "x": 4743,
+          "y": 223
+        },
+        "stable_path": null
+      },
+      "order_id": "252"
+    },
+    {
+      "id": "555066252",
+      "uuid": "4729d1f3-c8f7-41c3-b5cc-d25c84cd619c",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-09-13T17:25:18.855Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler these broke again. I am not sure how they should look, You?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:8572",
+        "node_offset": {
+          "x": 251,
+          "y": 130
+        },
+        "stable_path": null
+      },
+      "order_id": "251"
+    },
+    {
+      "id": "552205545",
+      "uuid": "411d0b8e-9ffd-4d86-acec-4b12cf6357c3",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-09-11T15:58:40.608Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova - One place to update, to mention 24 hours and not 'session'",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2559:88065",
+        "node_offset": {
+          "x": 189,
+          "y": 571
+        },
+        "stable_path": null
+      },
+      "order_id": "249"
+    },
+    {
+      "id": "551788686",
+      "uuid": "b4fd635e-03ad-4aed-bfcf-e4cc17e572f4",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-09-11T10:39:23.746Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi we have updated this screen. Would you be able to have a look at it? \nI have included your comments her. Just wanted to make sure it look ok.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "35:10670",
+        "node_offset": {
+          "x": 53,
+          "y": 43
+        },
+        "stable_path": null
+      },
+      "order_id": "248"
+    },
+    {
+      "id": "549942898",
+      "uuid": "ea6f3945-63ce-4b5d-b9da-b515c9a35922",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Ekaterina Galetski",
+        "img_url": "https://s3-alpha.figma.com/profile/90d9c8c0-de8f-4290-ab0b-cd4f88b60f31",
+        "id": "986671480981835276"
+      },
+      "created_at": "2023-09-08T03:55:56.244Z",
+      "resolved_at": null,
+      "message": "@Kuu Chen Here you go!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5039:9956",
+        "node_offset": {
+          "x": -2606,
+          "y": 3362
+        },
+        "stable_path": null
+      },
+      "order_id": "247"
+    },
+    {
+      "id": "549825948",
+      "uuid": "8d167df7-ea7d-4913-91a3-04900a099db2",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-09-07T23:15:25.978Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova and @Juliana Gaibler - We no longer need this \"Analysis info\" component and content to appear anywhere in the sidebar. \n\nIf I delete this component entirely, will this content then also be deleted from everywhere it appears? Or, should I just go through and delete every instance where this \"Get more details... on Fakespot.com\" line appears? TY.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "61:27459",
+        "node_offset": {
+          "x": -1371,
+          "y": 1625
+        },
+        "stable_path": null,
+        "region_width": 515,
+        "region_height": 70,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "245"
+    },
+    {
+      "id": "549820042",
+      "uuid": "46284ec4-1c89-4b03-bd86-ad6f493036e5",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-09-07T23:00:02.271Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova @Michael Verdi - Welp, we went around the bend and landed on BETA after all. This tag should be added to the opted in and opted out states of the sidebar. \n\ncc: @Emily Wachowiak and @Ekaterina Galetski since this applies to mobile as well.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6863:15669",
+        "node_offset": {
+          "x": 187,
+          "y": 38
+        },
+        "stable_path": null
+      },
+      "order_id": "244"
+    },
+    {
+      "id": "549628268",
+      "uuid": "83ab30f2-d67f-478f-8c6a-a6356243fc78",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Jared Hirsch",
+        "img_url": "https://s3-alpha.figma.com/profile/8230030e-6a9d-4a4e-8001-e3bd262f532c",
+        "id": "895459557954719821"
+      },
+      "created_at": "2023-09-07T18:23:47.588Z",
+      "resolved_at": null,
+      "message": "Not a big deal, but we won't have ads for 119 :-)",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-09-08T09:35:48.402Z",
+          "user": {
+            "id": "1042453533635562984",
+            "handle": "Yulia Popova",
+            "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "6901:47086",
+        "node_offset": {
+          "x": 4652,
+          "y": 1051
+        },
+        "stable_path": null
+      },
+      "order_id": "243"
+    },
+    {
+      "id": "549583972",
+      "uuid": "1defdcf9-6e04-4fbb-a637-68e8592d6067",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Jared Hirsch",
+        "img_url": "https://s3-alpha.figma.com/profile/8230030e-6a9d-4a4e-8001-e3bd262f532c",
+        "id": "895459557954719821"
+      },
+      "created_at": "2023-09-07T17:35:51.199Z",
+      "resolved_at": null,
+      "message": "I\"m pretty sure it should actually work like this without engineering needing to make any changes to how/when we display the message bar (beyond showing it after the refresh completes)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6916:98061",
+        "node_offset": {
+          "x": 273,
+          "y": 88
+        },
+        "stable_path": null
+      },
+      "order_id": "242"
+    },
+    {
+      "id": "549467247",
+      "uuid": "38b215c9-80cb-4e6e-8f12-d4aeebd96ec5",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Gijs Kruitbosch",
+        "img_url": "https://www.gravatar.com/avatar/289aa2e0137f361dae409aaf9be45660?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "902659345915729404"
+      },
+      "created_at": "2023-09-07T15:45:29.466Z",
+      "resolved_at": null,
+      "message": "@Michael Verdi The implication is that it's bad if the user \"may never see it\". Why would it be bad if it was never visible?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6919:14999",
+        "node_offset": {
+          "x": 152,
+          "y": 256
+        },
+        "stable_path": null
+      },
+      "order_id": "241"
+    },
+    {
+      "id": "548260584",
+      "uuid": "795c3706-e37f-4b6f-8e88-9b0f2a8c602b",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-09-06T17:48:56.235Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler Hi, I see something went wrong here - did the component change? Shall we update the colors here or on the component level for future references? \nCC @Nathan LaPr\u00e9 @Morgan Rae Reschenberg",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:8572",
+        "node_offset": {
+          "x": 294,
+          "y": 78
+        },
+        "stable_path": null
+      },
+      "order_id": "239"
+    },
+    {
+      "id": "547013568",
+      "uuid": "eb775ca4-db4d-4d62-b946-5f617b32019d",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2023-09-05T19:48:57.531Z",
+      "resolved_at": null,
+      "message": "@Michael Verdi",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3408:82753",
+        "node_offset": {
+          "x": 634,
+          "y": 124
+        },
+        "stable_path": null
+      },
+      "order_id": "238"
+    },
+    {
+      "id": "545597581",
+      "uuid": "ef545a96-fb94-440c-badc-798d54d48e1b",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-09-04T14:31:48.865Z",
+      "resolved_at": null,
+      "message": "@Kuu Chen I lean towards C and D. Both illustrations sit very well in the card due to their shape. I also think adding the person works quite well and adds consistency/link between 2 illustrations. I would add a little bit of colour. Maybe on the person or on stars.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6543:1588",
+        "node_offset": {
+          "x": 136,
+          "y": 35
+        },
+        "stable_path": null
+      },
+      "order_id": "237"
+    },
+    {
+      "id": "545593898",
+      "uuid": "162346fe-2144-4274-b726-760c31c24c2e",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-09-04T14:28:27.577Z",
+      "resolved_at": null,
+      "message": "@Kuu Chen This one is my favourite. I would move the content above the illustration. We want the user to click on \"run review checker\" so it should be in focus. And maybe we make the illustration a little bit shorter, because our PMs are worried that it takes up too much space and attention.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6543:2766",
+        "node_offset": {
+          "x": 17,
+          "y": 28
+        },
+        "stable_path": null
+      },
+      "order_id": "236"
+    },
+    {
+      "id": "545584931",
+      "uuid": "cfddac7f-7f94-4ec4-9126-d4cad4c1c62e",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-09-04T14:20:35.318Z",
+      "resolved_at": null,
+      "message": "Making the illustration a little bit shorter also help to make it less prominent.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6543:3037",
+        "node_offset": {
+          "x": 37,
+          "y": 19
+        },
+        "stable_path": null
+      },
+      "order_id": "235"
+    },
+    {
+      "id": "545537641",
+      "uuid": "f56ad4ac-341e-4d9a-af62-55a0d47173ff",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-09-04T13:40:52.348Z",
+      "resolved_at": null,
+      "message": "@Kuu Chen I really like the texture here. It gives a nice touch. I am a little worried about such bright colours tho. I like them. But the illustration becomes really prominent here. You can see it much better in this screen, because it is in context. We want the user to click on \"run review checker\" so it should be in focus. \u2028Probably bringing the content to the top will help. I added some versions below. Oh, and we will exchange the link to the button.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6543:2883",
+        "node_offset": {
+          "x": 33,
+          "y": 42
+        },
+        "stable_path": null
+      },
+      "order_id": "234"
+    },
+    {
+      "id": "545486095",
+      "uuid": "01d36b9f-8899-4f4d-b426-4d9da9a6719f",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-09-04T12:58:45.658Z",
+      "resolved_at": null,
+      "message": "@Kuu Chen even if this illustration doesn't follow established illustration style (because it is your next project:) I think the illustration should have a complete look and shouldn't look unfinished or like a sketch.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6543:3072",
+        "node_offset": {
+          "x": 51,
+          "y": 102
+        },
+        "stable_path": null
+      },
+      "order_id": "233"
+    },
+    {
+      "id": "544427380",
+      "uuid": "62133f6b-1ce4-4252-8b78-ad24347f05cb",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Joy Chen",
+        "img_url": "https://www.gravatar.com/avatar/85133aa962a7f1dc598aeaec52671c00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1258568479163445557"
+      },
+      "created_at": "2023-09-01T18:07:14.102Z",
+      "resolved_at": null,
+      "message": "Image takes up a lot of vertical screen real estate, isn't consistent with other flows where there isn't an illustration, and doesn't fulfill much of a purpose here. Perhaps remove?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6353:31698",
+        "node_offset": {
+          "x": 168,
+          "y": 347
+        },
+        "stable_path": null
+      },
+      "order_id": "232"
+    },
+    {
+      "id": "544425835",
+      "uuid": "864b5dab-541c-4b5d-b154-b6582d63faa5",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Joy Chen",
+        "img_url": "https://www.gravatar.com/avatar/85133aa962a7f1dc598aeaec52671c00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1258568479163445557"
+      },
+      "created_at": "2023-09-01T18:04:55.469Z",
+      "resolved_at": null,
+      "message": "Not urgent and more for my knowledge, not a feedback point - do we actually successfully abide by a 24h SLA for getting users an analysis back after they report?  Asking as it could become a point of user dissatisfaction if we can't live up to this promise - and we should avoid making promises we can't keep in the messaging if we currently do not.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6312:50268",
+        "node_offset": {
+          "x": 130,
+          "y": 136
+        },
+        "stable_path": null
+      },
+      "order_id": "231"
+    },
+    {
+      "id": "544417779",
+      "uuid": "0864e193-5f77-4b32-89f8-4072d98f2566",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Joy Chen",
+        "img_url": "https://www.gravatar.com/avatar/85133aa962a7f1dc598aeaec52671c00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1258568479163445557"
+      },
+      "created_at": "2023-09-01T17:52:52.246Z",
+      "resolved_at": null,
+      "message": "The reduced focus is much better! \n\nIMO We should move this to be more secondary to the letter grade (potentially below the letter grade in position?) so that we can deliver them the value of the rating first, then give the user agency to decide if they want to update for something newer. \n\nThinking that having a CTA at the very top is like asking the user right away to do some work for us (click the Refresh button) before we give them something of value - we ought to flip flop that, since we don't necessarily want to drive them to reanalyze as a primary CTA if they can get value out of the existing rating.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6353:31832",
+        "node_offset": {
+          "x": 546,
+          "y": 303
+        },
+        "stable_path": null
+      },
+      "order_id": "230"
+    },
+    {
+      "id": "544416915",
+      "uuid": "fea92f44-1e3e-4cff-8f77-6eae7e21cdf7",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Will Rocklin",
+        "img_url": "https://www.gravatar.com/avatar/c33183eec669a162417f4400c0bb923d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_w_v2.png",
+        "id": "1273308432601654041"
+      },
+      "created_at": "2023-09-01T17:51:40.160Z",
+      "resolved_at": null,
+      "message": "* I think the user's job to be done here is \"run review checker\" so I'd put the CTA above the image\n* Given above, I'd also reduce image size/complexity or remove altogether. This is clever, but takes a while to grok and seems irrevelant and makes the job to be done harder",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6353:31698",
+        "node_offset": {
+          "x": 207,
+          "y": 200
+        },
+        "stable_path": null
+      },
+      "order_id": "229"
+    },
+    {
+      "id": "543518003",
+      "uuid": "4147911c-94e6-40ab-8c02-9256ea96a588",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-08-31T21:59:25.172Z",
+      "resolved_at": null,
+      "message": "@Katie Lower if we want to remove analysis language here's a suggestion: \"When this product has more reviews, we'll be able to run review checker.\" eh?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6353:33027",
+        "node_offset": {
+          "x": 167,
+          "y": 136
+        },
+        "stable_path": null
+      },
+      "order_id": "228"
+    },
+    {
+      "id": "543426522",
+      "uuid": "8867b3dd-f6a9-437c-81bb-b9cfb0c90c11",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2023-08-31T19:52:37.614Z",
+      "resolved_at": null,
+      "message": "This is very nitpicky, but top and bottom margins around the button feel very tight. This reduces the readability of the error text and the button (and we've got so much space here).\n \nThe length of the CTA will also inevitably wrap (potentially to three lines) in our top EU locales. I wonder if it would help to have the body text \"do the work\" (e.g. mention smth along the lines of \"Would you like to report this product back in stock\")  and the button be more laconic (e.g.: \"Report back in stock\" or just \"Report\"?)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6312:50266",
+        "node_offset": {
+          "x": 289,
+          "y": 148
+        },
+        "stable_path": null
+      },
+      "order_id": "227"
+    },
+    {
+      "id": "543362593",
+      "uuid": "39b8e744-0afc-417e-8064-000d131c1629",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2023-08-31T18:39:43.654Z",
+      "resolved_at": null,
+      "message": "@Katie Lower I'd defer to @Francesco Lodolo here, but we might need to consider a shorter CTA string, as Google translate to DE (F\u00fchren Sie den Review-Checker aus) and FR\n(Ex\u00e9cuter le v\u00e9rificateur d'avis) both look quite long.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6353:31698",
+        "node_offset": {
+          "x": 275,
+          "y": 548
+        },
+        "stable_path": null
+      },
+      "order_id": "226"
+    },
+    {
+      "id": "543360111",
+      "uuid": "25bafc1d-e3a5-4132-ad83-17171b56feb6",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2023-08-31T18:37:09.165Z",
+      "resolved_at": null,
+      "message": "I feel like this primary CTA does not command a lot of attention here, and that will likely be reflected in its CTR. Perhaps we could use another appropriate button style that already exist in the design system and has a bit more prominence?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6353:31698",
+        "node_offset": {
+          "x": 203,
+          "y": 550
+        },
+        "stable_path": null
+      },
+      "order_id": "225"
+    },
+    {
+      "id": "543357342",
+      "uuid": "4d8dc0b2-a48c-41e9-99be-161363ae6a81",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2023-08-31T18:34:06.523Z",
+      "resolved_at": null,
+      "message": "@Katie Lower this looks/feels/reads pleasantly low key to me.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6353:31833",
+        "node_offset": {
+          "x": 272,
+          "y": 99
+        },
+        "stable_path": null
+      },
+      "order_id": "224"
+    },
+    {
+      "id": "543354849",
+      "uuid": "7ef50ba9-89ef-48d2-a189-7ae188e2e5a2",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2023-08-31T18:31:26.122Z",
+      "resolved_at": null,
+      "message": "@Katie Lower I feel like this state might be extraneous as it essentially asks for user acknowledgement (clicking \"Got it\") in a very low stakes-situation. User acknowledgment feels important to get when they are uploading or filling something out, but here we just fetching fresh info from the server.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6353:31797",
+        "node_offset": {
+          "x": 195,
+          "y": 81
+        },
+        "stable_path": null
+      },
+      "order_id": "223"
+    },
+    {
+      "id": "542992460",
+      "uuid": "01fb9856-47a3-49c7-a0a9-ebb6df5abbc9",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-08-31T13:31:46.754Z",
+      "resolved_at": null,
+      "message": "I like this phrasing a lot!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6308:39944",
+        "node_offset": {
+          "x": 94,
+          "y": 79
+        },
+        "stable_path": null
+      },
+      "order_id": "222"
+    },
+    {
+      "id": "542991829",
+      "uuid": "5dfbc423-d55d-47dc-abd6-c93c60a5b903",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-08-31T13:31:19.372Z",
+      "resolved_at": null,
+      "message": "+1 to adding \"How we determine review quality\" here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6312:40883",
+        "node_offset": {
+          "x": 119,
+          "y": 343
+        },
+        "stable_path": null
+      },
+      "order_id": "221"
+    },
+    {
+      "id": "542926705",
+      "uuid": "8868e449-d625-40c6-a022-e156155c22da",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-08-31T12:43:34.208Z",
+      "resolved_at": null,
+      "message": "@Katie Lower another idea. We can use a loading state that we already have instead of an extra screen with another info card.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6334:15459",
+        "node_offset": {
+          "x": 138,
+          "y": 35
+        },
+        "stable_path": null
+      },
+      "order_id": "220"
+    },
+    {
+      "id": "542925638",
+      "uuid": "0416ba04-05d2-412f-9227-eec9f4d1552d",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-08-31T12:42:41.256Z",
+      "resolved_at": null,
+      "message": "@Katie Lower added another scenario for no analysis (and also added a sketch of the illustration from Kuu).\nWhat do you think about keeping the card, and changing the text inside of the card? We might avoid jumping from a big card to a small card and also might keep an illustration, so the user has something to look at while it is loading.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6334:15939",
+        "node_offset": {
+          "x": 131,
+          "y": 19
+        },
+        "stable_path": null
+      },
+      "order_id": "219"
+    },
+    {
+      "id": "542899418",
+      "uuid": "80e1c586-d595-476e-a9dd-597cad470313",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-08-31T12:22:01.873Z",
+      "resolved_at": null,
+      "message": "@Katie Lower sorted your version in scenarios to see how each state would look like in this case. And added one more option \"just words\" + button for refresh.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6334:8449",
+        "node_offset": {
+          "x": 82.42333984375,
+          "y": 535
+        },
+        "stable_path": null
+      },
+      "order_id": "218"
+    },
+    {
+      "id": "542897149",
+      "uuid": "8bedc99b-b5d0-4e0f-a006-a76202f025eb",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-08-31T12:20:17.470Z",
+      "resolved_at": null,
+      "message": "I like this subtle version. My only problem is that it does not look cliakable.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6312:49898",
+        "node_offset": {
+          "x": 270,
+          "y": 92
+        },
+        "stable_path": null
+      },
+      "order_id": "217"
+    },
+    {
+      "id": "542276693",
+      "uuid": "db474f99-2d86-48d0-8c02-0841ba5244fc",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Aaron Benson",
+        "img_url": "https://s3-alpha.figma.com/profile/49c2977f-32cd-4159-bca9-5f75a350de1f",
+        "id": "677661814026032220"
+      },
+      "created_at": "2023-08-31T00:45:15.979Z",
+      "resolved_at": null,
+      "message": "Warning: Incoming random thoughts about .. small details. Take with a grain of salt.. :grimacing:\n\nDo users have enough context to know what this is refreshing? Is refresh the right verb? Could refresh be conflated with browser refresh? Is Coke Zero a superior calorie-free beverage compared to Diet Coke?\n\nSeriously though, could this be an opportunity to use language that makes me feel more empowered? Re-analyzing made it feel like I initiated real work, for example.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6312:49898",
+        "node_offset": {
+          "x": 83,
+          "y": 76
+        },
+        "stable_path": null
+      },
+      "order_id": "216"
+    },
+    {
+      "id": "542274728",
+      "uuid": "d100f148-37fe-4db4-ae3e-05f40297e8c1",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Aaron Benson",
+        "img_url": "https://s3-alpha.figma.com/profile/49c2977f-32cd-4159-bca9-5f75a350de1f",
+        "id": "677661814026032220"
+      },
+      "created_at": "2023-08-31T00:39:23.917Z",
+      "resolved_at": null,
+      "message": "Since we don't know yet how often we'll run across this scenario, and my uninformed guess is that this refresh message could show up a lot in our first versions, I'm a little worried about this creating a jumpy experience with the card/message showing up and disappearing. Could we consider giving his component a space to live that doesn't push down all of the content of the sidebar?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6245:39056",
+        "node_offset": {
+          "x": 289,
+          "y": 81
+        },
+        "stable_path": null
+      },
+      "order_id": "215"
+    },
+    {
+      "id": "542273943",
+      "uuid": "e3c5cab1-1f2b-40a6-aa4a-ec7afd7045a5",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Aaron Benson",
+        "img_url": "https://s3-alpha.figma.com/profile/49c2977f-32cd-4159-bca9-5f75a350de1f",
+        "id": "677661814026032220"
+      },
+      "created_at": "2023-08-31T00:37:05.793Z",
+      "resolved_at": null,
+      "message": ":thought_balloon: Do we even need this confirmation? Once I have new info, just show it to me. Don't give me something to have to manage / dismiss / etc. Same model as refreshing a webpage .. the confirmation is in the updated information. If we're concerned about a perception of \"stale\" info, we could put a \"last updated\" timestamp somewhere.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6245:18219",
+        "node_offset": {
+          "x": 294,
+          "y": 76
+        },
+        "stable_path": null
+      },
+      "order_id": "214"
+    },
+    {
+      "id": "542255073",
+      "uuid": "1efe0cac-95d4-4363-b2a1-a8ff102afe97",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-08-30T23:43:06.198Z",
+      "resolved_at": null,
+      "message": "And feedback on this flow + copy, please",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6308:39538",
+        "node_offset": {
+          "x": 465,
+          "y": 80
+        },
+        "stable_path": null
+      },
+      "order_id": "213"
+    },
+    {
+      "id": "542255008",
+      "uuid": "db60cd05-624b-437c-99e6-14820d782baa",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-08-30T23:42:54.389Z",
+      "resolved_at": null,
+      "message": "Feedback on this flow + copy, please.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6308:39532",
+        "node_offset": {
+          "x": 403,
+          "y": 76
+        },
+        "stable_path": null
+      },
+      "order_id": "212"
+    },
+    {
+      "id": "531158630",
+      "uuid": "299ab9ee-7e71-4b50-9458-a9f310d4e62a",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-08-18T18:50:22.598Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak - SSoE requested. This is the 'new' error for products that FS can't analyze. Attempting to use strings here that work for any retailer so it is, by design, a little hand wavey. The 'unfortunately' is intentional to acknowledge that we sent the user down the path of attempting to analyze or re-analyze  (sent them off to FS . com) and, upon doing so, get a ping back that this product is not supported. Post MVP, there is hopefully a fix to know the product is not supported up front so the user simply doesn't see the review checker sidebar for this product - or, we're able to message them up front the reviews aren't analyzable.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "61:27459",
+        "node_offset": {
+          "x": -310,
+          "y": 5298
+        }
+      },
+      "order_id": "211"
+    },
+    {
+      "id": "531004533",
+      "uuid": "9cf497f6-c899-4175-9126-5ec8f97f0c76",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-08-18T15:41:08.618Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi Similar situation here. I had to redo the component and apply outlines and add notes myself. I think it needs your eyes :) \nThank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "35:10734",
+        "node_offset": {
+          "x": 77,
+          "y": 50
+        }
+      },
+      "order_id": "210"
+    },
+    {
+      "id": "531000726",
+      "uuid": "49762cf9-8276-42b7-b52c-22e846cb97e1",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-08-18T15:37:03.630Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi same here. I was updating this screen and fixing annotations. Would you be able to look over it and check if this is correct?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "35:10769",
+        "node_offset": {
+          "x": 476,
+          "y": 63
+        }
+      },
+      "order_id": "209"
+    },
+    {
+      "id": "531000315",
+      "uuid": "b329ee3b-5192-40f2-98ca-9748eb5094a4",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-08-18T15:36:37.146Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi I was updating this screen and fixing annotations. Would you be able to look over it and check if this is correct?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "35:10754",
+        "node_offset": {
+          "x": 489,
+          "y": 63
+        }
+      },
+      "order_id": "208"
+    },
+    {
+      "id": "530796196",
+      "uuid": "b35057ab-15e8-4528-bcff-9f8450e415c5",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Michael Verdi",
+        "img_url": "https://s3-alpha.figma.com/profile/52220d82-0e0a-44e4-927f-a9cc8ed86edf",
+        "id": "185146236911313054"
+      },
+      "created_at": "2023-08-18T12:31:57.030Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova @Katie Lower This last line shouldn't appear here because there is nothing to see at fakespot.com correct?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5:14041",
+        "node_offset": {
+          "x": 6155,
+          "y": 1934
+        }
+      },
+      "order_id": "206"
+    },
+    {
+      "id": "527969768",
+      "uuid": "ae72dd65-f3fa-43c7-9441-9779359d8a8a",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-08-16T08:53:29.284Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler we got 12x12 icon from Carlotta. What do you think? Looks small to me.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5039:118686",
+        "node_offset": {
+          "x": 232,
+          "y": 270
+        }
+      },
+      "order_id": "205"
+    },
+    {
+      "id": "527082004",
+      "uuid": "42ce99f1-ad39-425c-915a-6ba057535b34",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-08-15T13:59:59.114Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova Should we move this outdated version to an archive page?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1667:97873",
+        "node_offset": {
+          "x": 1131,
+          "y": 81
+        }
+      },
+      "order_id": "204"
+    },
+    {
+      "id": "526418774",
+      "uuid": "e2ff6394-55ea-497f-aced-102a17b05d71",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-08-14T21:36:47.656Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova @Juliana Gaibler - These strings are out of date. Is there a way for the strings to exist in 'one spot' so that they're the same across Dark Mode, HCM and 'normal' mode - that is, not dark or high contrast mode. \n\nIf Figma does ... not make that easy... just lmk and I'll update strings across the different modes. TY!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "858:22635",
+        "node_offset": {
+          "x": 3384,
+          "y": -9522
+        },
+        "region_width": 1290,
+        "region_height": 1321,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "202"
+    },
+    {
+      "id": "526415599",
+      "uuid": "f8ee2150-358c-4353-8341-f562ed6ffe6e",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Michael Verdi",
+        "img_url": "https://s3-alpha.figma.com/profile/52220d82-0e0a-44e4-927f-a9cc8ed86edf",
+        "id": "185146236911313054"
+      },
+      "created_at": "2023-08-14T21:31:41.265Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak This is the CFR you wrote for those slides a week or two back.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4830:20875",
+        "node_offset": {
+          "x": 884,
+          "y": 775
+        }
+      },
+      "order_id": "201"
+    },
+    {
+      "id": "525962309",
+      "uuid": "7f73db45-7c0a-4606-ae6d-89ce95fe3de8",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-08-14T13:38:27.008Z",
+      "resolved_at": null,
+      "message": "@Katie Lower Yulia was fixing components here. Can you double check if this copy should be updated?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4237:95426",
+        "node_offset": {
+          "x": 1,
+          "y": 8
+        }
+      },
+      "order_id": "199"
+    },
+    {
+      "id": "525860055",
+      "uuid": "f731cc16-f359-4a3c-b970-4d754d11690d",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Juliana Gaibler",
+        "img_url": "https://s3-alpha.figma.com/profile/075fd6b5-f849-42b4-ac59-89b2ad0d028a",
+        "id": "895341744741177324"
+      },
+      "created_at": "2023-08-14T12:07:41.716Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "61:21671",
+        "node_offset": {
+          "x": 983,
+          "y": 677
+        },
+        "region_width": 305,
+        "region_height": 121,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "198"
+    },
+    {
+      "id": "524793390",
+      "uuid": "b64df85f-c59a-4451-b270-8e60cf9c0a08",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-08-11T16:11:33.171Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova should this card be connected to a standalone component? I couldn't find it and wanted to double check. thank you",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "22:6902",
+        "node_offset": {
+          "x": 2278,
+          "y": 253
+        }
+      },
+      "order_id": "195"
+    },
+    {
+      "id": "524710075",
+      "uuid": "2545cbfa-734d-44ae-b3c5-6a83427d8cb3",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-08-11T14:47:41.028Z",
+      "resolved_at": null,
+      "message": "@Katie Lower FYI I updated the feature name on the survey",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3402:82150",
+        "node_offset": {
+          "x": 228,
+          "y": 70
+        }
+      },
+      "order_id": "192"
+    },
+    {
+      "id": "524587856",
+      "uuid": "8152f6cd-6111-4145-8562-e22ef443951a",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-08-11T13:02:01.327Z",
+      "resolved_at": null,
+      "message": "What's the difference between this component \"Callout small\" and the one below on this page - just \"Callout\". I've updated the strings in \"Callout\" and wondering if I need to update them in this component, too.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1876:67582",
+        "node_offset": {
+          "x": 192,
+          "y": 341
+        }
+      },
+      "order_id": "189"
+    },
+    {
+      "id": "523881253",
+      "uuid": "1c796f0b-d246-428a-8e34-8a4e68d176a5",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-08-10T20:10:35.904Z",
+      "resolved_at": null,
+      "message": "I know I didn't do this component right... for this one, we want to go with an image, a headline and body copy. Example here: https://www.figma.com/file/Wu4kaHSfKSQnzkym7qek3R/Shopping-Experience-MVP?type=design&node-id=4498-6615&mode=design&t=yCa9QvrMTPor7M3N-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4237:95426",
+        "node_offset": {
+          "x": 351,
+          "y": 256
+        }
+      },
+      "order_id": "188"
+    },
+    {
+      "id": "522448404",
+      "uuid": "787d3e14-4ca4-4902-8816-36b6fee79832",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-08-09T18:16:57.088Z",
+      "resolved_at": null,
+      "message": "@Michael Verdi per our discussion earlier, looks like the error text links are underlined on desktop; i noticed not all sidebar text links are underlined though. We should prob standardize on desktop and make a decision for mobile too",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1253:45605",
+        "node_offset": {
+          "x": 1504,
+          "y": 421
+        }
+      },
+      "order_id": "184"
+    },
+    {
+      "id": "522238623",
+      "uuid": "7b2f17e3-d5c7-4efa-96fb-157fa3959cfd",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Michael Verdi",
+        "img_url": "https://s3-alpha.figma.com/profile/52220d82-0e0a-44e4-927f-a9cc8ed86edf",
+        "id": "185146236911313054"
+      },
+      "created_at": "2023-08-09T15:10:01.288Z",
+      "resolved_at": null,
+      "message": "@Ekaterina Galetski here's an example of the new explainer panel",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3748:123967",
+        "node_offset": {
+          "x": 966,
+          "y": 193
+        }
+      },
+      "order_id": "183"
+    },
+    {
+      "id": "522125458",
+      "uuid": "ebf6edbf-05c7-4bb6-8a86-452717cf4979",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Mimi Jung",
+        "img_url": "https://s3-alpha.figma.com/profile/13cc0b31-6fa5-4a6c-a115-74f936b2c446",
+        "id": "1126616842081648247"
+      },
+      "created_at": "2023-08-09T13:54:21.995Z",
+      "resolved_at": null,
+      "message": "@Michael Verdi Should these links be the same color as our standard link styles as see in about:welcome mobile download page or about:preferences (\"learn more\" links)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "858:25451",
+        "node_offset": {
+          "x": 1182,
+          "y": 547
+        }
+      },
+      "order_id": "179"
+    },
+    {
+      "id": "522122442",
+      "uuid": "79c1935c-9e8d-4c02-a136-25cdcb669ebd",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-08-09T13:52:25.511Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak - SSoE?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4527:19515",
+        "node_offset": {
+          "x": 126,
+          "y": 161
+        }
+      },
+      "order_id": "178"
+    },
+    {
+      "id": "521398348",
+      "uuid": "3995b599-43d4-4f8c-a35d-0b9f0bd25726",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-08-09T02:02:33.692Z",
+      "resolved_at": null,
+      "message": "@Michael Verdi - For the opted in sidebar, this has all the latest, up-to-date content. Use this as 'source' for the prototype.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3784:135005",
+        "node_offset": {
+          "x": 87,
+          "y": 0
+        }
+      },
+      "order_id": "176"
+    },
+    {
+      "id": "521302042",
+      "uuid": "c30f8e56-e376-4563-8e1c-9fd024f14b2a",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-08-08T22:09:17.149Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak - icon",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3748:125119",
+        "node_offset": {
+          "x": 282,
+          "y": 105
+        }
+      },
+      "order_id": "172"
+    },
+    {
+      "id": "521028924",
+      "uuid": "782ec373-b6ec-48ba-9569-5d760686596a",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-08-08T16:57:09.036Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova - LMK if this looks reasonable - just copied / pasted one of the options.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4447:34395",
+        "node_offset": {
+          "x": 125,
+          "y": 478
+        }
+      },
+      "order_id": "171"
+    },
+    {
+      "id": "518307850",
+      "uuid": "73d29e09-24e6-4e34-a9b3-f89215091cf7",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Mimi Jung",
+        "img_url": "https://s3-alpha.figma.com/profile/13cc0b31-6fa5-4a6c-a115-74f936b2c446",
+        "id": "1126616842081648247"
+      },
+      "created_at": "2023-08-04T17:31:55.924Z",
+      "resolved_at": null,
+      "message": "@Michael Verdi Sorry if you're not the right person to ping for this but if you are - wanted to confirm the tabbing order for the links? My impression should be that they tab from first link to second link ect.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2599:83500",
+        "node_offset": {
+          "x": 774,
+          "y": 537
+        }
+      },
+      "order_id": "170"
+    },
+    {
+      "id": "514789225",
+      "uuid": "9e9d6a90-d2cb-4381-8278-f012f9abe26a",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-08-01T23:42:25.197Z",
+      "resolved_at": null,
+      "message": "Cross-link to Fakespot is now at bottom of sidebar instead of below highlights.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3748:123967",
+        "node_offset": {
+          "x": 294,
+          "y": 542
+        },
+        "region_width": 736,
+        "region_height": 250,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "166"
+    },
+    {
+      "id": "514382809",
+      "uuid": "3c4ef2d2-3a5b-42fe-9c5f-e0442f2eb246",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-08-01T15:33:44.263Z",
+      "resolved_at": null,
+      "message": "@Meridel Walkington - Can you link me / tell me how to see where you've borrowed from? Can't find it in about:preferences",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3873:3034",
+        "node_offset": {
+          "x": 184,
+          "y": 97
+        }
+      },
+      "order_id": "164"
+    },
+    {
+      "id": "514371187",
+      "uuid": "9c90b823-144b-45da-9dd7-03afdd312851",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-08-01T15:25:05.053Z",
+      "resolved_at": null,
+      "message": "@Meridel Walkington - I was trying to draw a distinction between 'all' settings and these settings specifically. Wdyt about \"Settings for this feature are not synced across devices.\"",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2023-08-01T16:20:13.505Z",
+          "user": {
+            "id": "551476150859297062",
+            "handle": "Meridel Walkington",
+            "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2023-08-01T15:36:36.767Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3873:3034",
+        "node_offset": {
+          "x": 164,
+          "y": 202
+        }
+      },
+      "order_id": "163"
+    },
+    {
+      "id": "514346459",
+      "uuid": "f661392c-3b02-4bf0-967e-7f951cac4d2c",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2023-08-01T15:06:56.324Z",
+      "resolved_at": null,
+      "message": "@Katie Lower \n@Emily Wachowiak Riffed on Emily's rif, with notes in yellow sticky",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3873:3009",
+        "node_offset": {
+          "x": 133,
+          "y": 37
+        }
+      },
+      "order_id": "162"
+    },
+    {
+      "id": "514278661",
+      "uuid": "4be3acec-5ceb-4ccd-b683-e972b7fc9a82",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-08-01T14:20:08.418Z",
+      "resolved_at": null,
+      "message": "OPO it feels like overkill to say \"Featured product\"...the ad will have an ad label  so I don't think this will be needed. That said, Option 1 is my favorite here. But the last sentence feels awkward and I'm having a hard time articulating why (sorry)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3838:137192",
+        "node_offset": {
+          "x": 165,
+          "y": 71
+        }
+      },
+      "order_id": "160"
+    },
+    {
+      "id": "514268452",
+      "uuid": "dafdbe4c-e63d-4b34-a20c-1b63ab21c1b1",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-08-01T14:13:17.575Z",
+      "resolved_at": null,
+      "message": "@Katie Lower I added this new option that acknowledges quality standards exist but doesn't get specific. Sentences could also be flipped.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3862:3880",
+        "node_offset": {
+          "x": 44,
+          "y": 42
+        }
+      },
+      "order_id": "159"
+    },
+    {
+      "id": "514267149",
+      "uuid": "7a54b35b-f48f-4f3b-ba23-fc921bd15512",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-08-01T14:12:24.197Z",
+      "resolved_at": null,
+      "message": "SS: I don't think mentioning review criteria is necessarily helpful (because C sounds not great) and the criteria could change over time. It would create a burden to have to update strings when criteria changes.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3838:136851",
+        "node_offset": {
+          "x": 219,
+          "y": 115
+        }
+      },
+      "order_id": "158"
+    },
+    {
+      "id": "514265687",
+      "uuid": "9a3bfe9d-36cd-4069-b0e1-a9079c56fc6e",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-08-01T14:11:24.298Z",
+      "resolved_at": null,
+      "message": "OPO: I don't think we need to mention \"when available\" here since I believe the intent over time is to grow the ads business and over time they would become more ubiquitous. I think this could become misleading over time and/or set up unrealistic expectations.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3838:136851",
+        "node_offset": {
+          "x": 117,
+          "y": 44
+        }
+      },
+      "order_id": "157"
+    },
+    {
+      "id": "513427272",
+      "uuid": "aa91fc06-1670-4563-9e7e-ab6d789bd551",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Punam Dahiya",
+        "img_url": "https://www.gravatar.com/avatar/bb829b468ca71bf535f2e948861dcd7c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "670715432074238147"
+      },
+      "created_at": "2023-07-31T21:47:20.757Z",
+      "resolved_at": null,
+      "message": "@Michael Verdi current template has step indicators below action buttons/ link, is it ok to move steps indicator below Terms of use?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3408:82753",
+        "node_offset": {
+          "x": 1490,
+          "y": 772
+        }
+      },
+      "order_id": "154"
+    },
+    {
+      "id": "510787671",
+      "uuid": "033b3f69-8502-4000-b258-8ca3c2ac154a",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-07-27T19:49:36.229Z",
+      "resolved_at": null,
+      "message": "@Michael Verdi This is currently the top voted option. Recommend using this for the leadership deck.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2568:88186",
+        "node_offset": {
+          "x": 3923,
+          "y": -312
+        }
+      },
+      "order_id": "149"
+    },
+    {
+      "id": "507817320",
+      "uuid": "f3f0d5e9-18a3-4baf-aa2c-d5ade9f1dd15",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Michael Verdi",
+        "img_url": "https://s3-alpha.figma.com/profile/52220d82-0e0a-44e4-927f-a9cc8ed86edf",
+        "id": "185146236911313054"
+      },
+      "created_at": "2023-07-25T15:16:48.268Z",
+      "resolved_at": null,
+      "message": "Note - we discussed on July 25th that this should only be closed with the x, by clicking the icon in the address bar, or by hitting Esc on the keyboard.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2876:88542",
+        "node_offset": {
+          "x": 1136,
+          "y": 117
+        }
+      },
+      "order_id": "139"
+    },
+    {
+      "id": "506940007",
+      "uuid": "2d8a1a42-b067-4356-b120-88ef1a1b3fb2",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Najla Bulous",
+        "img_url": "https://www.gravatar.com/avatar/f27747530fc34fa533c7d138cc79e414?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1020407896668095669"
+      },
+      "created_at": "2023-07-25T01:38:54.009Z",
+      "resolved_at": null,
+      "message": "Am I understanding this correctly - This message will be shown to opted-in users if it's their second session and 24 hours have passes since (not sure what the marker is) and they visit a PDP page?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2559:88065",
+        "node_offset": {
+          "x": 216,
+          "y": 700
+        }
+      },
+      "order_id": "138"
+    },
+    {
+      "id": "506928741",
+      "uuid": "07cd0353-b543-47d6-98e3-743e19f007ba",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Najla Bulous",
+        "img_url": "https://www.gravatar.com/avatar/f27747530fc34fa533c7d138cc79e414?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1020407896668095669"
+      },
+      "created_at": "2023-07-25T01:11:29.067Z",
+      "resolved_at": null,
+      "message": "Apologies if this is specified somewhere but just want to confirm if clicking outside of the sidebar closes it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2599:83500",
+        "node_offset": {
+          "x": 406,
+          "y": 100
+        }
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "506926909",
+      "uuid": "ffce6524-8bf2-4636-a525-06e95970bf08",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Najla Bulous",
+        "img_url": "https://www.gravatar.com/avatar/f27747530fc34fa533c7d138cc79e414?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1020407896668095669"
+      },
+      "created_at": "2023-07-25T01:06:38.132Z",
+      "resolved_at": null,
+      "message": "When you say in-line images (plural), are there plans to include multiple images in this section or can we assume that it will be one image?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2599:83500",
+        "node_offset": {
+          "x": 1600,
+          "y": 430
+        }
+      },
+      "order_id": "134"
+    },
+    {
+      "id": "505279153",
+      "uuid": "d1724665-fc67-4c1a-acdc-cd9f886873df",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-07-21T19:53:34.077Z",
+      "resolved_at": null,
+      "message": "This button should be focusable as well",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2893:89502",
+        "node_offset": {
+          "x": 394,
+          "y": 110
+        }
+      },
+      "order_id": "132"
+    },
+    {
+      "id": "505278479",
+      "uuid": "55eb52d5-9409-46b2-a9cd-b5bb0c9c1843",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-07-21T19:52:26.708Z",
+      "resolved_at": null,
+      "message": "I think our standard pattern is to treat this as a link, which means it needs hypertext color and underlining",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2883:89298",
+        "node_offset": {
+          "x": 310,
+          "y": 804
+        }
+      },
+      "order_id": "131"
+    },
+    {
+      "id": "505278223",
+      "uuid": "5e8fdf92-91f0-4cf2-83d8-5ffbd0896c89",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-07-21T19:52:01.116Z",
+      "resolved_at": null,
+      "message": "Is this an SVG ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2883:89298",
+        "node_offset": {
+          "x": 294,
+          "y": 463
+        }
+      },
+      "order_id": "130"
+    },
+    {
+      "id": "505277966",
+      "uuid": "f5cdcb76-26d3-4f52-9fae-944f010f7eb3",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-07-21T19:51:36.035Z",
+      "resolved_at": null,
+      "message": "Please use the button component in this file -- https://www.figma.com/file/VHRA9hZ54oJqKKJwPd6FWa/HCM-Components?type=design&node-id=0-1&mode=design&t=uCyuwDWFfqiEBtS7-0",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2883:89298",
+        "node_offset": {
+          "x": 262,
+          "y": 751
+        }
+      },
+      "order_id": "129"
+    },
+    {
+      "id": "505140433",
+      "uuid": "572a2afd-91fa-49ca-a7ee-cebdfa1690d9",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Najla Bulous",
+        "img_url": "https://www.gravatar.com/avatar/f27747530fc34fa533c7d138cc79e414?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1020407896668095669"
+      },
+      "created_at": "2023-07-21T16:40:44.554Z",
+      "resolved_at": null,
+      "message": "Just want to make a note that these buttons have hover states.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2599:83500",
+        "node_offset": {
+          "x": 1296,
+          "y": 655
+        }
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "503921500",
+      "uuid": "9f0ec0c6-40a2-4c47-be5d-1fcd150eee3f",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-07-20T15:20:17.129Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg could you please review this HCM mode?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2883:89298",
+        "node_offset": {
+          "x": 24,
+          "y": 48
+        }
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "503920811",
+      "uuid": "3d9ff693-8db0-4512-88fb-f73498b9057c",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-07-20T15:19:49.259Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg will you have a moment to review this focus order?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2893:89501",
+        "node_offset": {
+          "x": 30,
+          "y": 144
+        }
+      },
+      "order_id": "124"
+    },
+    {
+      "id": "502765679",
+      "uuid": "b550e744-9331-471e-a834-86b4ab1c44e5",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-07-19T17:42:04.492Z",
+      "resolved_at": null,
+      "message": "@Katie Lower Can you please give a SSoE to the error copy states here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1253:45605",
+        "node_offset": {
+          "x": 1020,
+          "y": 109
+        }
+      },
+      "order_id": "119"
+    },
+    {
+      "id": "502741501",
+      "uuid": "52c36d85-f4b3-4103-b26d-b2e60f2c8c3e",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-07-19T17:18:13.197Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg would you be able to have a look at onboarding screen for the Fakespot sidebar? It is not 100% final, but I wanted to get your eyes on it already to see if in general things looking OK.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2599:81863",
+        "node_offset": {
+          "x": 114,
+          "y": 53
+        }
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "501758415",
+      "uuid": "d612ddce-71d2-4a30-b3db-e9a5c0a3d2fb",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-07-19T01:52:33.790Z",
+      "resolved_at": null,
+      "message": "@Michael Verdi @Katie Lower - Here's some ideas for new ad headlines. I starred my top 2. Let me know if you have any strong feelings.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2568:88186",
+        "node_offset": {
+          "x": 448,
+          "y": -528
+        }
+      },
+      "order_id": "116"
+    },
+    {
+      "id": "499898599",
+      "uuid": "236b1bc6-0052-4f7c-be36-ff0631709ab1",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-07-17T14:25:02.257Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I am wondering if this card needs more explanation? Since this card will be shown to users who did NOT submitted the report, it might be not be really clear to them what is the problem here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2065:73741",
+        "node_offset": {
+          "x": 1149,
+          "y": 161
+        }
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "497317353",
+      "uuid": "66336840-7d5b-4d83-b7fd-58699ed06f71",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-07-13T13:46:47.896Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova are we still waiting for an answer about this button approach?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2342:73759",
+        "node_offset": {
+          "x": 192,
+          "y": 209
+        }
+      },
+      "order_id": "107"
+    },
+    {
+      "id": "496216094",
+      "uuid": "44cc1f21-b9bb-4208-addc-807ca0d22a94",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-07-12T16:17:29.024Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I prepared some mocks for our discussion with Rob and Ania. Let me know what you think. Do we need something else?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2065:75135",
+        "node_offset": {
+          "x": 78,
+          "y": 80
+        }
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "494723034",
+      "uuid": "548bb826-47c3-46b8-8f53-b6bc3cbbf4bd",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2023-07-11T14:14:37.246Z",
+      "resolved_at": null,
+      "message": "@Katie Lower wdyt?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1253:37863",
+        "node_offset": {
+          "x": 4643,
+          "y": 1551
+        },
+        "region_width": 343,
+        "region_height": 188,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "494553044",
+      "uuid": "3801b991-fbba-478c-a42c-7e27b4d2206e",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2023-07-11T12:15:21.371Z",
+      "resolved_at": null,
+      "message": "What if we have \"close\" as a button rather than icon?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1253:45605",
+        "node_offset": {
+          "x": 5163,
+          "y": 167
+        }
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "494496492",
+      "uuid": "ceaa19c0-9de6-4df7-aefc-d48aac9541b4",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-07-11T11:26:03.662Z",
+      "resolved_at": null,
+      "message": "@Katie Lower we would need a \"final\" state for this screen. Something that is good enough for the presentation :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1646:54485",
+        "node_offset": {
+          "x": 1147,
+          "y": 219
+        }
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "493912483",
+      "uuid": "0e6eac0c-a384-4295-8d67-89bcf89c4a40",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-07-10T23:07:26.527Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova - For this error state, can you share more about the thinking to include a 'Hide sidebar for now?' CTA? I am thinking it should not be included since this is expected to be a temporary state and resolved ASAP. Is that expectation aligned with yours?\n\ncc: @Emily Wachowiak",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1902:68291",
+        "node_offset": {
+          "x": 168,
+          "y": 975
+        }
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "491142588",
+      "uuid": "c9efef4f-0cae-4a8a-b55c-921962ead94a",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-07-06T17:33:13.366Z",
+      "resolved_at": null,
+      "message": "@Michael Verdi, @Yulia Popova, @Juliana Gaibler - As I was doing the sidebar explorations for onboarding, I it made me really start to question the use of the Firefox logo in this panel. The logo is not specific to the feature, so I'm wondering what purpose it serves. Is there value in using the same icon in the panel as in the icon in the address bar that activates the panel?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1414:53177",
+        "node_offset": {
+          "x": 86,
+          "y": 15
+        }
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "489730996",
+      "uuid": "8c1526ab-d3ac-4a88-914c-5121bd9abf35",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-07-05T14:54:38.899Z",
+      "resolved_at": null,
+      "message": "I think we need only one of these to be consistent",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1318:42984",
+        "node_offset": {
+          "x": 14,
+          "y": 49
+        }
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "489710002",
+      "uuid": "15c463e2-c267-4821-9d2c-e0469f3e652f",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Michael Verdi",
+        "img_url": "https://s3-alpha.figma.com/profile/52220d82-0e0a-44e4-927f-a9cc8ed86edf",
+        "id": "185146236911313054"
+      },
+      "created_at": "2023-07-05T14:39:36.900Z",
+      "resolved_at": null,
+      "message": "Should this card be yellow? It's not an error state. Maybe the progress bar from the new analysis flow is better here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1253:37870",
+        "node_offset": {
+          "x": 6169,
+          "y": 501
+        }
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "489668895",
+      "uuid": "27125cf3-efdb-489b-b012-f9f15bbc725e",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Michael Verdi",
+        "img_url": "https://s3-alpha.figma.com/profile/52220d82-0e0a-44e4-927f-a9cc8ed86edf",
+        "id": "185146236911313054"
+      },
+      "created_at": "2023-07-05T14:11:08.074Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova can this progress be used in the re-analysis flow? Mainly I'm wondering why the re-analysis progress card is yellow.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1253:43251",
+        "node_offset": {
+          "x": 6169,
+          "y": 568
+        }
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "489648595",
+      "uuid": "11392250-f5eb-44b5-9a11-9859f7508e57",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-07-05T13:56:31.130Z",
+      "resolved_at": null,
+      "message": "To better understand: How do users currently go 'back' to the retailers site, from the Fakespot site? Do we need to have any more 'clear' pointing back to the retailer site, or is this not a problem in the current interaction?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1253:37870",
+        "node_offset": {
+          "x": 4248,
+          "y": 448
+        }
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "485140227",
+      "uuid": "e4839ac5-c0bd-4791-85e5-7cfba5f26e59",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-06-29T13:15:52.155Z",
+      "resolved_at": null,
+      "message": "Hey @Jules Simplicio, we are working on error cards for the Fakespot sidebar. I know that you are working on error messages for our design library. Wanted to get your opinion on colors here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1094:36020",
+        "node_offset": {
+          "x": 150,
+          "y": 366
+        }
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "485116849",
+      "uuid": "4f20cd79-87d0-425f-98e3-d9d92f82c2c4",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-06-29T12:56:27.022Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler feel free to add another version of the progress bar",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1091:29349",
+        "node_offset": {
+          "x": 7028,
+          "y": 360
+        }
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "484533791",
+      "uuid": "72f86f21-eca1-45f5-8307-e70d32496d9d",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-06-28T23:38:06.121Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova - Depending on what the interaction / animation looks like between the previous frame (where the user clicks \"refresh\") and this frame (with the latest analysis data) it MIGHT make sense to have a toast message in this flow, too.\n\nTrain of thought: if the interaction or animation feels significant - like the sidebar is visually communicating that it's 'refeshing' - then I don't think a toast is needed to also verbally communicate that. \n\nBut, if the visual communication of the refresh is super subtle, then a verbal note (like a dismissable, fading toast like in New Flow - V2) - might make sense.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1002:27609",
+        "node_offset": {
+          "x": 6128,
+          "y": 481
+        }
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "484344142",
+      "uuid": "eebe6049-b645-4e83-94ab-5fe943ae1cd3",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Juliana Gaibler",
+        "img_url": "https://s3-alpha.figma.com/profile/075fd6b5-f849-42b4-ac59-89b2ad0d028a",
+        "id": "895341744741177324"
+      },
+      "created_at": "2023-06-28T18:48:40.956Z",
+      "resolved_at": null,
+      "message": "what are your ( @Michael Verdi @Yulia Popova ) thoughts about using a fake progress bar? Like progressing to 80% in maybe 40 seconds and then increasingly slowing towards 100% but never reaching it.\n\nAnd then once it's done we take 250ms to fill the progress bar and then update the date.\n\nI know it sounds silly in text form but I've seen some of these in the wild and they are working quite well and even though it is kind of deceptive I think it's good UX\n\n(I guess we could do a usertest)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1002:30969",
+        "node_offset": {
+          "x": 3054,
+          "y": 552
+        }
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "484168019",
+      "uuid": "85bfae2d-4b97-4d44-9503-2ab407381116",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-06-28T15:47:27.795Z",
+      "resolved_at": null,
+      "message": "Do we need to add a note saying that analyses up-to-date?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1002:30969",
+        "node_offset": {
+          "x": 5971,
+          "y": 483
+        }
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "484167581",
+      "uuid": "17c18571-365e-4942-954f-600e30e6b228",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-06-28T15:47:07.273Z",
+      "resolved_at": null,
+      "message": "Do we need a close button here? Or is it OK if the notification fades away after a while?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1002:30969",
+        "node_offset": {
+          "x": 4617,
+          "y": 493
+        }
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "484166769",
+      "uuid": "d5cf6d76-7137-489c-8858-90e3beff9b88",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-06-28T15:46:28.482Z",
+      "resolved_at": null,
+      "message": "Do we even need a refresh button here? Maybe it can be refreshed automatically?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1002:27609",
+        "node_offset": {
+          "x": 4458,
+          "y": 567
+        }
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "484048991",
+      "uuid": "0e65112f-4644-4951-9452-19d54997f4fd",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Michael Verdi",
+        "img_url": "https://s3-alpha.figma.com/profile/52220d82-0e0a-44e4-927f-a9cc8ed86edf",
+        "id": "185146236911313054"
+      },
+      "created_at": "2023-06-28T14:19:10.140Z",
+      "resolved_at": null,
+      "message": "I think something like this with messaging about how long it might take is probably what we can do here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1002:27609",
+        "node_offset": {
+          "x": 2635,
+          "y": 1460
+        }
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "476620118",
+      "uuid": "b35dde7d-957d-47e6-9011-72720bcaf5b4",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Juliana Gaibler",
+        "img_url": "https://s3-alpha.figma.com/profile/075fd6b5-f849-42b4-ac59-89b2ad0d028a",
+        "id": "895341744741177324"
+      },
+      "created_at": "2023-06-20T15:05:37.456Z",
+      "resolved_at": null,
+      "message": "@Katie Lower :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "35:10617",
+        "node_offset": {
+          "x": 155,
+          "y": 360
+        }
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "474101180",
+      "uuid": "edc52a6d-37d1-4ac1-9601-42c033266e63",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-16T15:11:25.786Z",
+      "resolved_at": null,
+      "message": "engineering note: the letters and their descriptions would be a description list so the relationships between them (A, B => \"we believe the reviews to be reliable\") are preserved (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)",
+      "reactions": [
+        {
+          "emoji": ":heart_eyes:",
+          "created_at": "2023-06-20T17:30:14.656Z",
+          "user": {
+            "id": "939685140842746524",
+            "handle": "Morgan Rae Reschenberg",
+            "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "35:10686",
+        "node_offset": {
+          "x": 411,
+          "y": 1234
+        }
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "473960093",
+      "uuid": "1bbdcce7-a771-4c6e-b866-2b6b1f324cde",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-16T13:06:03.982Z",
+      "resolved_at": null,
+      "message": "Image could have a textual alternative (to communicate its emotional meaning to a screen reader user) or could be marked up as decorative (An Alt Decision Tree could help: https://www.w3.org/WAI/tutorials/images/decision-tree/)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "35:10648",
+        "node_offset": {
+          "x": 280,
+          "y": 90
+        }
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "473936920",
+      "uuid": "cd6a3f09-0d99-48f5-bdde-57004d7d6dee",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-16T12:44:01.883Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler I'd say the entire card would be a landmark, i.e. `<article>` or similar HTML element, thus a screen reader user could navigate between cards faster, not only specific parts of these cards",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-06-16T17:39:43.208Z",
+          "user": {
+            "id": "895341744741177324",
+            "handle": "Juliana Gaibler",
+            "img_url": "https://s3-alpha.figma.com/profile/075fd6b5-f849-42b4-ac59-89b2ad0d028a"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "35:10617",
+        "node_offset": {
+          "x": 327,
+          "y": 496
+        }
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "473929747",
+      "uuid": "8242dd85-6a91-4828-9e32-b3c811f9fe93",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-06-16T12:37:05.845Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi Do you think these letters needs to be landmarks?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "35:10686",
+        "node_offset": {
+          "x": 209,
+          "y": 1237
+        }
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "473310893",
+      "uuid": "ec2a599f-ae19-475d-9316-c76c7e26df38",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-15T21:33:15.802Z",
+      "resolved_at": null,
+      "message": "Refer to the Dropdown button HCM styling above for all states (https://www.figma.com/file/Wu4kaHSfKSQnzkym7qek3R/Shopping-Experience-MVP?type=design&node-id=29-7274&t=iHDzINqH23qxXKpO-4)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:10691",
+        "node_offset": {
+          "x": 262,
+          "y": 308
+        }
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "473310518",
+      "uuid": "684ad89e-b39c-4d71-8670-7d3f9e14d539",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-15T21:32:35.186Z",
+      "resolved_at": null,
+      "message": "Refer to the toggle component HCM styling above for all states (https://www.figma.com/file/Wu4kaHSfKSQnzkym7qek3R/Shopping-Experience-MVP?type=design&node-id=29-7711&t=iHDzINqH23qxXKpO-4)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:8572",
+        "node_offset": {
+          "x": 287,
+          "y": 1797
+        }
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "473310026",
+      "uuid": "211fa1bb-1203-45bc-9f0a-2df3e1e1d5ad",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-15T21:31:44.057Z",
+      "resolved_at": null,
+      "message": "Engineering note: use `<details>` HTML element to create an accessible functional disclosure (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:8572",
+        "node_offset": {
+          "x": 298,
+          "y": 1751
+        }
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "473309982",
+      "uuid": "434a7b43-b5e7-47d1-9bfe-e4dd5b5be607",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-15T21:31:39.820Z",
+      "resolved_at": null,
+      "message": "Engineering note: use `<details>` HTML element to create an accessible functional disclosure (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:8572",
+        "node_offset": {
+          "x": 299,
+          "y": 752
+        }
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "473305846",
+      "uuid": "c01180bc-321f-4305-bafb-5319b6356cf7",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-15T21:24:57.296Z",
+      "resolved_at": null,
+      "message": "If the clickable area here is larger and uses the entire footer area, use Button colors to the entire clickable area instead of just a button in the middle (like it is done for `Settings` below)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:8572",
+        "node_offset": {
+          "x": 206,
+          "y": 661
+        }
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "473291995",
+      "uuid": "4cb4ec0d-0e6c-411c-a032-c9143338f57b",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-15T21:03:51.554Z",
+      "resolved_at": null,
+      "message": "The assumption here is that the usernames won't be active (a user won't be able to click on them to go to see their review or something). If they are going to be links, use `HCM - Hyperlink text` color",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:8572",
+        "node_offset": {
+          "x": 286,
+          "y": 549
+        }
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "473288046",
+      "uuid": "91b53329-3440-439b-9e2f-ed285c4a4a47",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-15T20:58:26.207Z",
+      "resolved_at": null,
+      "message": "I've got a feeling the blurred content needs to be removed since the HCM users could be users with cognitive difficulties, with dyslexia, with low vision, those who rely on high visibility and semantic styling to help them discerning clickable areas and semantic meaning of on-screen elements. The blurry items may be confusing and distracting for them.\n\n@Morgan Rae Reschenberg what do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:8587",
+        "node_offset": {
+          "x": 300,
+          "y": 562
+        }
+      },
+      "order_id": "4"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "588421942",
+      "uuid": "08d7385b-e554-4ea8-93b4-0e5f455fec06",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-10-18T13:24:41.471Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi I guess even if the role is details/summary, it would function as a button on click and close/open the card. Correct?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9489:18749",
+        "node_offset": {
+          "x": 188,
+          "y": 616
+        },
+        "stable_path": [
+          "9489:18749"
+        ]
+      },
+      "order_id": "269"
+    },
+    {
+      "id": "588415697",
+      "uuid": "676b08d8-0c35-4b12-800d-50720f5baca9",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-10-18T13:20:53.204Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi \nWondering what would be the element that would get focus when the card is open and the button \u201cShow more\u201d pressed? Would it be the first focusable element? Wondering if in this case it would be \u201cShow less\u201d button became it in the only interactive element on the card? \nIncluded closed and opened card below.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9494:23655",
+        "node_offset": {
+          "x": 43,
+          "y": 180
+        },
+        "stable_path": [
+          "9494:23655"
+        ]
+      },
+      "order_id": "268"
+    },
+    {
+      "id": "587618562",
+      "uuid": "ac3bfee3-8f90-4c28-9884-537a4828d293",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-10-17T23:38:24.935Z",
+      "resolved_at": null,
+      "message": "I'd add a note here: If this item is not supposed to be rendered to screen readers, please mark its role as Presentation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9489:23604",
+        "node_offset": {
+          "x": 236,
+          "y": 81
+        },
+        "stable_path": [
+          "9489:23604"
+        ]
+      },
+      "order_id": "267"
+    },
+    {
+      "id": "587617337",
+      "uuid": "41bb1e9a-2c15-4be6-a87e-e2a71829e0d6",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-10-17T23:35:25.864Z",
+      "resolved_at": null,
+      "message": "This image doesn't need a name because it should be marked role = presentation, which will remove it from the list of items a screen reader can reach. It should still be in our annotations, however, because we want to explicitly call out to developers that this item needs role=presentation to remove it from the flow.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9494:23643",
+        "node_offset": {
+          "x": 140,
+          "y": 172
+        },
+        "stable_path": [
+          "9494:23643"
+        ]
+      },
+      "order_id": "266"
+    },
+    {
+      "id": "587616142",
+      "uuid": "17bb7001-8c82-4ee4-832e-f7af0d463cc9",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-10-17T23:32:27.451Z",
+      "resolved_at": null,
+      "message": "For the B card I'd use the \"No info about these reviews, yet\" string. You could also use something that describes the content that would be in this card, if we had reviews to look at, like \"Review Quality\" cc @Anna Yeddi",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9494:23643",
+        "node_offset": {
+          "x": 115,
+          "y": 106
+        },
+        "stable_path": [
+          "9494:23643"
+        ]
+      },
+      "order_id": "265"
+    },
+    {
+      "id": "587615358",
+      "uuid": "1e6f1418-c243-46e8-9785-21db9739911c",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-10-17T23:30:39.893Z",
+      "resolved_at": null,
+      "message": "nope, it's fine to keep the orange color. it isn't focusable for keyboard users, so it shouldn't be purple. Some images (like this one in particular) don't contain information that is relevant to accomplishing the task at hand (understanding review quality) and so they should be marked presentational so screen readers ignore them. In the \"role\" section of the annotation, please put \"presentation\".",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9494:23670",
+        "node_offset": {
+          "x": 230,
+          "y": 183
+        },
+        "stable_path": [
+          "9494:23670"
+        ]
+      },
+      "order_id": "264"
+    },
+    {
+      "id": "587615085",
+      "uuid": "57ebe870-252c-4ca7-9850-4b3e832f08b1",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-10-17T23:30:05.282Z",
+      "resolved_at": null,
+      "message": "yes :) that's perfect, thank you !",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9494:23646",
+        "node_offset": {
+          "x": 127,
+          "y": 124
+        },
+        "stable_path": [
+          "9494:23646"
+        ]
+      },
+      "order_id": "263"
+    },
+    {
+      "id": "556439526",
+      "uuid": "b8860539-c7fb-4004-82ac-0490c2940b49",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-09-14T17:37:18.068Z",
+      "resolved_at": null,
+      "message": "@Michael Verdi Could we increase the timeout for the message to 20 seconds or more? 5 seconds would not be enough time for users to locate the message and then read it, especially users with magnification software, other users with low vision, i.e. those who are physically moving their heads while reading from a large screen, also users with cognitive difficulties, with dyslexia, and neurodiverse users.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3408:82753",
+        "node_offset": {
+          "x": 4743,
+          "y": 223
+        },
+        "stable_path": null
+      },
+      "order_id": "252"
+    },
+    {
+      "id": "551788686",
+      "uuid": "b4fd635e-03ad-4aed-bfcf-e4cc17e572f4",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-09-11T10:39:23.746Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi we have updated this screen. Would you be able to have a look at it? \nI have included your comments her. Just wanted to make sure it look ok.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "35:10670",
+        "node_offset": {
+          "x": 53,
+          "y": 43
+        },
+        "stable_path": null
+      },
+      "order_id": "248"
+    },
+    {
+      "id": "548260584",
+      "uuid": "795c3706-e37f-4b6f-8e88-9b0f2a8c602b",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-09-06T17:48:56.235Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler Hi, I see something went wrong here - did the component change? Shall we update the colors here or on the component level for future references? \nCC @Nathan LaPr\u00e9 @Morgan Rae Reschenberg",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:8572",
+        "node_offset": {
+          "x": 294,
+          "y": 78
+        },
+        "stable_path": null
+      },
+      "order_id": "239"
+    },
+    {
+      "id": "531004533",
+      "uuid": "9cf497f6-c899-4175-9126-5ec8f97f0c76",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-08-18T15:41:08.618Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi Similar situation here. I had to redo the component and apply outlines and add notes myself. I think it needs your eyes :) \nThank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "35:10734",
+        "node_offset": {
+          "x": 77,
+          "y": 50
+        }
+      },
+      "order_id": "210"
+    },
+    {
+      "id": "531000726",
+      "uuid": "49762cf9-8276-42b7-b52c-22e846cb97e1",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-08-18T15:37:03.630Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi same here. I was updating this screen and fixing annotations. Would you be able to look over it and check if this is correct?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "35:10769",
+        "node_offset": {
+          "x": 476,
+          "y": 63
+        }
+      },
+      "order_id": "209"
+    },
+    {
+      "id": "531000315",
+      "uuid": "b329ee3b-5192-40f2-98ca-9748eb5094a4",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-08-18T15:36:37.146Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi I was updating this screen and fixing annotations. Would you be able to look over it and check if this is correct?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "35:10754",
+        "node_offset": {
+          "x": 489,
+          "y": 63
+        }
+      },
+      "order_id": "208"
+    },
+    {
+      "id": "526418774",
+      "uuid": "e2ff6394-55ea-497f-aced-102a17b05d71",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-08-14T21:36:47.656Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova @Juliana Gaibler - These strings are out of date. Is there a way for the strings to exist in 'one spot' so that they're the same across Dark Mode, HCM and 'normal' mode - that is, not dark or high contrast mode. \n\nIf Figma does ... not make that easy... just lmk and I'll update strings across the different modes. TY!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "858:22635",
+        "node_offset": {
+          "x": 3384,
+          "y": -9522
+        },
+        "region_width": 1290,
+        "region_height": 1321,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "202"
+    },
+    {
+      "id": "505279153",
+      "uuid": "d1724665-fc67-4c1a-acdc-cd9f886873df",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-07-21T19:53:34.077Z",
+      "resolved_at": null,
+      "message": "This button should be focusable as well",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2893:89502",
+        "node_offset": {
+          "x": 394,
+          "y": 110
+        }
+      },
+      "order_id": "132"
+    },
+    {
+      "id": "505278479",
+      "uuid": "55eb52d5-9409-46b2-a9cd-b5bb0c9c1843",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-07-21T19:52:26.708Z",
+      "resolved_at": null,
+      "message": "I think our standard pattern is to treat this as a link, which means it needs hypertext color and underlining",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2883:89298",
+        "node_offset": {
+          "x": 310,
+          "y": 804
+        }
+      },
+      "order_id": "131"
+    },
+    {
+      "id": "505278223",
+      "uuid": "5e8fdf92-91f0-4cf2-83d8-5ffbd0896c89",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-07-21T19:52:01.116Z",
+      "resolved_at": null,
+      "message": "Is this an SVG ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2883:89298",
+        "node_offset": {
+          "x": 294,
+          "y": 463
+        }
+      },
+      "order_id": "130"
+    },
+    {
+      "id": "505277966",
+      "uuid": "f5cdcb76-26d3-4f52-9fae-944f010f7eb3",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-07-21T19:51:36.035Z",
+      "resolved_at": null,
+      "message": "Please use the button component in this file -- https://www.figma.com/file/VHRA9hZ54oJqKKJwPd6FWa/HCM-Components?type=design&node-id=0-1&mode=design&t=uCyuwDWFfqiEBtS7-0",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2883:89298",
+        "node_offset": {
+          "x": 262,
+          "y": 751
+        }
+      },
+      "order_id": "129"
+    },
+    {
+      "id": "503921500",
+      "uuid": "9f0ec0c6-40a2-4c47-be5d-1fcd150eee3f",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-07-20T15:20:17.129Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg could you please review this HCM mode?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2883:89298",
+        "node_offset": {
+          "x": 24,
+          "y": 48
+        }
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "503920811",
+      "uuid": "3d9ff693-8db0-4512-88fb-f73498b9057c",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-07-20T15:19:49.259Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg will you have a moment to review this focus order?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2893:89501",
+        "node_offset": {
+          "x": 30,
+          "y": 144
+        }
+      },
+      "order_id": "124"
+    },
+    {
+      "id": "502741501",
+      "uuid": "52c36d85-f4b3-4103-b26d-b2e60f2c8c3e",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-07-19T17:18:13.197Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg would you be able to have a look at onboarding screen for the Fakespot sidebar? It is not 100% final, but I wanted to get your eyes on it already to see if in general things looking OK.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2599:81863",
+        "node_offset": {
+          "x": 114,
+          "y": 53
+        }
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "484533791",
+      "uuid": "72f86f21-eca1-45f5-8307-e70d32496d9d",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-06-28T23:38:06.121Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova - Depending on what the interaction / animation looks like between the previous frame (where the user clicks \"refresh\") and this frame (with the latest analysis data) it MIGHT make sense to have a toast message in this flow, too.\n\nTrain of thought: if the interaction or animation feels significant - like the sidebar is visually communicating that it's 'refeshing' - then I don't think a toast is needed to also verbally communicate that. \n\nBut, if the visual communication of the refresh is super subtle, then a verbal note (like a dismissable, fading toast like in New Flow - V2) - might make sense.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1002:27609",
+        "node_offset": {
+          "x": 6128,
+          "y": 481
+        }
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "474101180",
+      "uuid": "edc52a6d-37d1-4ac1-9601-42c033266e63",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-16T15:11:25.786Z",
+      "resolved_at": null,
+      "message": "engineering note: the letters and their descriptions would be a description list so the relationships between them (A, B => \"we believe the reviews to be reliable\") are preserved (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)",
+      "reactions": [
+        {
+          "emoji": ":heart_eyes:",
+          "created_at": "2023-06-20T17:30:14.656Z",
+          "user": {
+            "id": "939685140842746524",
+            "handle": "Morgan Rae Reschenberg",
+            "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "35:10686",
+        "node_offset": {
+          "x": 411,
+          "y": 1234
+        }
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "473960093",
+      "uuid": "1bbdcce7-a771-4c6e-b866-2b6b1f324cde",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-16T13:06:03.982Z",
+      "resolved_at": null,
+      "message": "Image could have a textual alternative (to communicate its emotional meaning to a screen reader user) or could be marked up as decorative (An Alt Decision Tree could help: https://www.w3.org/WAI/tutorials/images/decision-tree/)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "35:10648",
+        "node_offset": {
+          "x": 280,
+          "y": 90
+        }
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "473936920",
+      "uuid": "cd6a3f09-0d99-48f5-bdde-57004d7d6dee",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-16T12:44:01.883Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler I'd say the entire card would be a landmark, i.e. `<article>` or similar HTML element, thus a screen reader user could navigate between cards faster, not only specific parts of these cards",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-06-16T17:39:43.208Z",
+          "user": {
+            "id": "895341744741177324",
+            "handle": "Juliana Gaibler",
+            "img_url": "https://s3-alpha.figma.com/profile/075fd6b5-f849-42b4-ac59-89b2ad0d028a"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "35:10617",
+        "node_offset": {
+          "x": 327,
+          "y": 496
+        }
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "473929747",
+      "uuid": "8242dd85-6a91-4828-9e32-b3c811f9fe93",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-06-16T12:37:05.845Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi Do you think these letters needs to be landmarks?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "35:10686",
+        "node_offset": {
+          "x": 209,
+          "y": 1237
+        }
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "473310893",
+      "uuid": "ec2a599f-ae19-475d-9316-c76c7e26df38",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-15T21:33:15.802Z",
+      "resolved_at": null,
+      "message": "Refer to the Dropdown button HCM styling above for all states (https://www.figma.com/file/Wu4kaHSfKSQnzkym7qek3R/Shopping-Experience-MVP?type=design&node-id=29-7274&t=iHDzINqH23qxXKpO-4)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:10691",
+        "node_offset": {
+          "x": 262,
+          "y": 308
+        }
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "473310518",
+      "uuid": "684ad89e-b39c-4d71-8670-7d3f9e14d539",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-15T21:32:35.186Z",
+      "resolved_at": null,
+      "message": "Refer to the toggle component HCM styling above for all states (https://www.figma.com/file/Wu4kaHSfKSQnzkym7qek3R/Shopping-Experience-MVP?type=design&node-id=29-7711&t=iHDzINqH23qxXKpO-4)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:8572",
+        "node_offset": {
+          "x": 287,
+          "y": 1797
+        }
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "473310026",
+      "uuid": "211fa1bb-1203-45bc-9f0a-2df3e1e1d5ad",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-15T21:31:44.057Z",
+      "resolved_at": null,
+      "message": "Engineering note: use `<details>` HTML element to create an accessible functional disclosure (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:8572",
+        "node_offset": {
+          "x": 298,
+          "y": 1751
+        }
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "473309982",
+      "uuid": "434a7b43-b5e7-47d1-9bfe-e4dd5b5be607",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-15T21:31:39.820Z",
+      "resolved_at": null,
+      "message": "Engineering note: use `<details>` HTML element to create an accessible functional disclosure (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:8572",
+        "node_offset": {
+          "x": 299,
+          "y": 752
+        }
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "473305846",
+      "uuid": "c01180bc-321f-4305-bafb-5319b6356cf7",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-15T21:24:57.296Z",
+      "resolved_at": null,
+      "message": "If the clickable area here is larger and uses the entire footer area, use Button colors to the entire clickable area instead of just a button in the middle (like it is done for `Settings` below)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:8572",
+        "node_offset": {
+          "x": 206,
+          "y": 661
+        }
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "473291995",
+      "uuid": "4cb4ec0d-0e6c-411c-a032-c9143338f57b",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-15T21:03:51.554Z",
+      "resolved_at": null,
+      "message": "The assumption here is that the usernames won't be active (a user won't be able to click on them to go to see their review or something). If they are going to be links, use `HCM - Hyperlink text` color",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:8572",
+        "node_offset": {
+          "x": 286,
+          "y": 549
+        }
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "473288046",
+      "uuid": "91b53329-3440-439b-9e2f-ed285c4a4a47",
+      "file_key": "Wu4kaHSfKSQnzkym7qek3R",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-06-15T20:58:26.207Z",
+      "resolved_at": null,
+      "message": "I've got a feeling the blurred content needs to be removed since the HCM users could be users with cognitive difficulties, with dyslexia, with low vision, those who rely on high visibility and semantic styling to help them discerning clickable areas and semantic meaning of on-screen elements. The blurry items may be confusing and distracting for them.\n\n@Morgan Rae Reschenberg what do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "29:8587",
+        "node_offset": {
+          "x": 300,
+          "y": 562
+        }
+      },
+      "order_id": "4"
+    }
+  ]
+}

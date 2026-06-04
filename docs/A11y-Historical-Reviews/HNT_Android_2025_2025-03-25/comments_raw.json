@@ -1,0 +1,1202 @@
+{
+  "unresolved": [
+    {
+      "id": "1655622524",
+      "uuid": "608fb47b-3c36-4057-a73b-813a96e4da4d",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Devota Aabel",
+        "img_url": "https://www.gravatar.com/avatar/0f72093e2bea38e3029d5e63d9982537?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1240309962618787147"
+      },
+      "created_at": "2026-03-02T23:07:34.584Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan Same issue here where I don't know how to align this with the button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19578:66630",
+        "node_offset": {
+          "x": 377,
+          "y": 149
+        },
+        "stable_path": [
+          "19578:66630"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "1651057208",
+      "uuid": "b8f41803-39ac-43fa-9a12-52bf365af2f8",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Devota Aabel",
+        "img_url": "https://www.gravatar.com/avatar/0f72093e2bea38e3029d5e63d9982537?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1240309962618787147"
+      },
+      "created_at": "2026-02-26T16:51:02.738Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan Can you provide a mock with the text on two lines (for shortcuts on both the first and second line)? As this will change the vertical spacing",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18343:15571",
+        "node_offset": {
+          "x": 548,
+          "y": 427
+        },
+        "stable_path": [
+          "18343:15571"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "1651053423",
+      "uuid": "0c620962-4c7a-4ce6-a18c-d40b4b300819",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Devota Aabel",
+        "img_url": "https://www.gravatar.com/avatar/0f72093e2bea38e3029d5e63d9982537?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1240309962618787147"
+      },
+      "created_at": "2026-02-26T16:49:05.821Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan To be able to rectify this, we need tablet and landscape mocks too, because if I recall correctly the problem is that it looks bad if the shortcuts are spread all the way in tablets and landscape.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18343:15571",
+        "node_offset": {
+          "x": 780,
+          "y": 295
+        },
+        "stable_path": [
+          "18343:15571"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1644773337",
+      "uuid": "2b11b38b-2b3b-41ab-8574-fef1e959cab7",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2026-02-23T18:25:15.840Z",
+      "resolved_at": null,
+      "message": "P/N is in this design but turned off - not to be implemented for Android FX 150",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19578:67522",
+        "node_offset": {
+          "x": 515,
+          "y": 245
+        },
+        "stable_path": [
+          "19578:67522"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1549784289",
+      "uuid": "3cd8825e-dd49-4a20-939c-0fcedb9614d2",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-12-09T16:38:11.753Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan we might want to consider moving the icons back to the search box to make more space for the tabs https://www.figma.com/design/EQBqApLh2iZjwvpnJG9NQD/Toolbar-Handoff?node-id=13975-13257&t=0zO7fofn5tmIGHIa-4, happy to discuss this further, thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18343:18318",
+        "node_offset": {
+          "x": 336,
+          "y": 78
+        },
+        "stable_path": [
+          "18343:18318"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1548254248",
+      "uuid": "a2a3d673-28d6-46c5-ac26-ee44783cc192",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-12-08T23:43:02.941Z",
+      "resolved_at": null,
+      "message": "Can we ensure that bookmarks read left to right? See screen attached screen\u00a0@gl\u00a0",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18961:31779",
+        "node_offset": {
+          "x": 193,
+          "y": 338
+        },
+        "stable_path": [
+          "18961:31779"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1548250035",
+      "uuid": "72be3abe-306b-4f67-9ef8-69ca0bfce87c",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Devota Aabel",
+        "img_url": "https://www.gravatar.com/avatar/0f72093e2bea38e3029d5e63d9982537?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1240309962618787147"
+      },
+      "created_at": "2025-12-08T23:36:44.370Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan Can you please update these to show the url instead of the publisher name? We don't have the publisher's name for these",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18343:14922",
+        "node_offset": {
+          "x": 250,
+          "y": 539
+        },
+        "stable_path": [
+          "18343:14922"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1545925681",
+      "uuid": "a76ee398-92f2-437d-86c9-48d92addfc06",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabriel Luong",
+        "img_url": "https://www.gravatar.com/avatar/61971c71e0b16793b6c2b7378091711f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "890605728240782952"
+      },
+      "created_at": "2025-12-05T23:11:25.868Z",
+      "resolved_at": null,
+      "message": "Currently, \"See all synced tabs\" is a button.  I am not quite sure if this change from a filled button to what seems like a text button would make it clear to an user that it's clickable unless the intent here is not navigate to the tab you have synced.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18522:9820",
+        "node_offset": {
+          "x": 54,
+          "y": 511
+        },
+        "stable_path": [
+          "18522:9820"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1545921609",
+      "uuid": "915b6af7-6b58-4f5c-8d14-1b370fe0029e",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabriel Luong",
+        "img_url": "https://www.gravatar.com/avatar/61971c71e0b16793b6c2b7378091711f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "890605728240782952"
+      },
+      "created_at": "2025-12-05T23:02:47.060Z",
+      "resolved_at": null,
+      "message": "I am not quite sure if having the synced tab card being on top of your most recent tab makes sense.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18522:9820",
+        "node_offset": {
+          "x": 184,
+          "y": 494
+        },
+        "stable_path": [
+          "18522:9820"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "1544186301",
+      "uuid": "bdada40b-b078-44ad-b8ac-a8191a0470f4",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Devota Aabel",
+        "img_url": "https://www.gravatar.com/avatar/0f72093e2bea38e3029d5e63d9982537?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1240309962618787147"
+      },
+      "created_at": "2025-12-04T21:52:13.837Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan Can you update this 4px above the text and padding at text start and end to use static spacing tokens if that's the intention?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18343:14922",
+        "node_offset": {
+          "x": 288,
+          "y": 788
+        },
+        "stable_path": [
+          "18343:14922"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "1542013821",
+      "uuid": "812bbaee-ba89-4456-8b9d-6297c212eb94",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Devota Aabel",
+        "img_url": "https://www.gravatar.com/avatar/0f72093e2bea38e3029d5e63d9982537?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1240309962618787147"
+      },
+      "created_at": "2025-12-03T19:59:40.723Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan Per our conversation, please update the bookmarks text to be one line, and the image to be 126x82px to match the existing implementation. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18343:14922",
+        "node_offset": {
+          "x": 13,
+          "y": 775
+        },
+        "stable_path": [
+          "18343:14922"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "1539907197",
+      "uuid": "42cecab5-5605-4134-be61-5dc36f96177c",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabriel Luong",
+        "img_url": "https://www.gravatar.com/avatar/61971c71e0b16793b6c2b7378091711f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "890605728240782952"
+      },
+      "created_at": "2025-12-02T19:43:41.754Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan Wanted to double check if the usage of the dynamic50 padding here was intentional. This would mean the horizontal padding would grow for bigger screen sizes.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18343:14922",
+        "node_offset": {
+          "x": 25,
+          "y": 950
+        },
+        "stable_path": [
+          "18343:14922"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1538231416",
+      "uuid": "a979b57b-dcad-41c3-90b6-86cee7d159cc",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabriel Luong",
+        "img_url": "https://www.gravatar.com/avatar/61971c71e0b16793b6c2b7378091711f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "890605728240782952"
+      },
+      "created_at": "2025-12-02T02:56:18.866Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan Based on the layout spacing token usage between the different device sizes. You actually captured the spirit of our dynamic space tokens.\n\nThese space tokens are intended to be bigger or smaller depending on the device width. Could you once again check if you could just use a single dynamic space tokens instead of having a variety of static space tokens?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18734:64442",
+        "node_offset": {
+          "x": 6,
+          "y": 422
+        },
+        "stable_path": [
+          "18734:64442"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1538070983",
+      "uuid": "93141b23-8c17-43b5-a051-df1e7927c13e",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-12-01T23:20:04.444Z",
+      "resolved_at": null,
+      "message": "@Gabriel Luong the cards are now set to a given width, and no longer proportional per our discussion today. Let me know if you have questions.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18734:64442",
+        "node_offset": {
+          "x": 408,
+          "y": 163
+        },
+        "stable_path": [
+          "18734:64442"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1535977665",
+      "uuid": "eba62d6b-1113-444f-87e7-9849ca439dc5",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabriel Luong",
+        "img_url": "https://www.gravatar.com/avatar/61971c71e0b16793b6c2b7378091711f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "890605728240782952"
+      },
+      "created_at": "2025-11-29T23:44:42.868Z",
+      "resolved_at": null,
+      "message": "This should be \"On Surface Variant\" instead of \"Secondary\". The colors are equivalent, but we use the token based on the surface that the element is on.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17334:64052",
+        "node_offset": {
+          "x": 106,
+          "y": 686
+        },
+        "stable_path": [
+          "17334:64052"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1535977602",
+      "uuid": "82caa3a0-3a09-41ad-9e99-571db60ae65c",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabriel Luong",
+        "img_url": "https://www.gravatar.com/avatar/61971c71e0b16793b6c2b7378091711f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "890605728240782952"
+      },
+      "created_at": "2025-11-29T23:43:57.850Z",
+      "resolved_at": null,
+      "message": "This should be using \"On Surface\" instead of \"On Primary\" since the background color is a \"Surface\".",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17334:64052",
+        "node_offset": {
+          "x": 262,
+          "y": 648
+        },
+        "stable_path": [
+          "17334:64052"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1535977534",
+      "uuid": "5a6311c4-00b9-4750-be56-fdde88a0f326",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabriel Luong",
+        "img_url": "https://www.gravatar.com/avatar/61971c71e0b16793b6c2b7378091711f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "890605728240782952"
+      },
+      "created_at": "2025-11-29T23:43:22.824Z",
+      "resolved_at": null,
+      "message": "The current background color used in this card is \"surface container low\" which is different from the horizontal card background card that is used on the homepage. See https://www.figma.com/design/MjufE1X5fvkxZ0YneX4kRd/Android-Library--2025-?node-id=61820-4186&m=dev which is using \"surface container lowest\". \n\nCould we align with what we have already established with the design system and the homepage card color by using \"surface container lowest\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17334:64052",
+        "node_offset": {
+          "x": 230,
+          "y": 390
+        },
+        "stable_path": [
+          "17334:64052"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1535977245",
+      "uuid": "00c35989-91e8-49bc-aec5-14aacc6d8a78",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabriel Luong",
+        "img_url": "https://www.gravatar.com/avatar/61971c71e0b16793b6c2b7378091711f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "890605728240782952"
+      },
+      "created_at": "2025-11-29T23:39:38.182Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan It's not totally clear what the horizontal padding should be here. We have an inner content layer which has a 16dp horizontal padding, but it doesn't go edge-to-edge with the outer screen.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17334:64052",
+        "node_offset": {
+          "x": 18,
+          "y": 275
+        },
+        "stable_path": [
+          "17334:64052"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1525827613",
+      "uuid": "d872b7da-b069-433d-8b7a-24747910ea0c",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Andres Furlan",
+        "img_url": "https://www.gravatar.com/avatar/9099d2b2209543f33542d5ed1ea1405b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1298294506515844534"
+      },
+      "created_at": "2025-11-21T16:16:31.771Z",
+      "resolved_at": null,
+      "message": "This can be a good goal for 146 - HNT V1",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17928:66386",
+        "node_offset": {
+          "x": 319,
+          "y": 998
+        },
+        "stable_path": [
+          "17928:66386"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "1525765586",
+      "uuid": "63707d46-07e3-4c9a-882a-f1ebdb264f00",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-11-21T15:38:54.499Z",
+      "resolved_at": null,
+      "message": "@Andres Furlan maybe we don't need this for V1, WDYT?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18343:23093",
+        "node_offset": {
+          "x": 339,
+          "y": 20
+        },
+        "stable_path": [
+          "18343:23093"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1525763195",
+      "uuid": "233d9b23-62c6-491d-ad8f-cfba4bea51f6",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-11-21T15:37:33.214Z",
+      "resolved_at": null,
+      "message": "How Private mode looks like with toolbar at the bottom?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18036:93988",
+        "node_offset": {
+          "x": 219,
+          "y": 690
+        },
+        "stable_path": [
+          "18036:93988"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1523834289",
+      "uuid": "e43f0b04-0995-4833-9b54-e09fc2d88639",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Andres Furlan",
+        "img_url": "https://www.gravatar.com/avatar/9099d2b2209543f33542d5ed1ea1405b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1298294506515844534"
+      },
+      "created_at": "2025-11-20T15:17:17.245Z",
+      "resolved_at": null,
+      "message": "It says Show all today.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18840:27111",
+        "node_offset": {
+          "x": 317,
+          "y": 681
+        },
+        "stable_path": [
+          "18840:27111"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "1523834044",
+      "uuid": "4dcf16a5-0085-4f95-9f07-5dbdc5fb72db",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Andres Furlan",
+        "img_url": "https://www.gravatar.com/avatar/9099d2b2209543f33542d5ed1ea1405b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1298294506515844534"
+      },
+      "created_at": "2025-11-20T15:17:10.023Z",
+      "resolved_at": null,
+      "message": "Stories is nightly. Are we changing this?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18840:27111",
+        "node_offset": {
+          "x": 71,
+          "y": 677
+        },
+        "stable_path": [
+          "18840:27111"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1523760004",
+      "uuid": "7c5355ad-ac2f-47df-afae-6c1dc8addefe",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Andres Furlan",
+        "img_url": "https://www.gravatar.com/avatar/9099d2b2209543f33542d5ed1ea1405b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1298294506515844534"
+      },
+      "created_at": "2025-11-20T14:43:52.914Z",
+      "resolved_at": null,
+      "message": "Do we have the designs with:\n* extended toolbar?\n* tab strip?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17928:66386",
+        "node_offset": {
+          "x": -810,
+          "y": 2291
+        },
+        "stable_path": [
+          "17928:66386"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1519584772",
+      "uuid": "828fdc43-51b5-47be-9af5-8b14dae45186",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Titouan Thibaud",
+        "img_url": "https://www.gravatar.com/avatar/968f8efd6bc3bd81eaf677cd2184bc5b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1195362199264236375"
+      },
+      "created_at": "2025-11-18T15:47:49.135Z",
+      "resolved_at": null,
+      "message": "I can't download the dark mode background, is it possible to make it available as an SVG somehow?\u00a0\n(The light mode SVG download seems to work for me)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18019:93469",
+        "node_offset": {
+          "x": 359,
+          "y": 455
+        },
+        "stable_path": [
+          "18019:93469"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1498962644",
+      "uuid": "ed2de049-cbf5-4e2c-8c30-3606f37ffb7a",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Andres Furlan",
+        "img_url": "https://www.gravatar.com/avatar/9099d2b2209543f33542d5ed1ea1405b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1298294506515844534"
+      },
+      "created_at": "2025-11-04T21:36:13.708Z",
+      "resolved_at": null,
+      "message": "Can we update this design with the actual shorcut that we are going to ship?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17928:71538",
+        "node_offset": {
+          "x": 522,
+          "y": 199
+        },
+        "stable_path": [
+          "17928:71538"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "1403070982",
+      "uuid": "44efb415-7485-4ea1-8de0-790263efa2c2",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-08-28T18:53:58.162Z",
+      "resolved_at": null,
+      "message": "two-column for landscape",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17332:71784",
+        "node_offset": {
+          "x": 1960,
+          "y": 1486
+        },
+        "stable_path": [
+          "17332:71784"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "1403060829",
+      "uuid": "0f5fa1ff-05ea-41d1-adbc-4054e2d685d7",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-08-28T18:46:29.326Z",
+      "resolved_at": null,
+      "message": "Toolbar hides when scrolling",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17332:71784",
+        "node_offset": {
+          "x": 2022,
+          "y": 1539
+        },
+        "stable_path": [
+          "17332:71784"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1403031137",
+      "uuid": "23c235ea-d715-4317-831e-1c7a5ca77015",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-08-28T18:24:26.834Z",
+      "resolved_at": null,
+      "message": "Swap to back arrow",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17334:64052",
+        "node_offset": {
+          "x": 51,
+          "y": 75
+        },
+        "stable_path": [
+          "17334:64052"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1403027357",
+      "uuid": "c7d40d22-eee6-433d-86d4-2514cdfd8360",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-08-28T18:21:44.293Z",
+      "resolved_at": null,
+      "message": "Remove tab and menu btns in this view",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17334:64052",
+        "node_offset": {
+          "x": 366,
+          "y": 85
+        },
+        "stable_path": [
+          "17334:64052"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1320139229",
+      "uuid": "b23fe742-8f94-4894-ab1c-1bee8ac466e9",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Christopher Logan",
+        "img_url": "https://s3-alpha.figma.com/profile/b6cb03cb-db5b-44ba-82c5-9b095535affe",
+        "id": "1410617437873106684"
+      },
+      "created_at": "2025-06-30T20:20:29.299Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak do we want to use the same copy on private mode mobile that we do today?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16639:55642",
+        "node_offset": {
+          "x": 404,
+          "y": 255
+        },
+        "stable_path": [
+          "16639:55642"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1295451656",
+      "uuid": "412d6762-b784-4ba3-99ea-2608fe7a9e37",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-06-11T19:37:49.999Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan - since numbers 2 and 3 are draggable, let's add a notes section  stating that Accessibility Actions to move items should be implemented for TalkBack users. Engineering reference: https://developer.android.com/guide/topics/ui/accessibility/principles#accessibility-actions",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12176:23811",
+        "node_offset": {
+          "x": 179,
+          "y": 265
+        },
+        "stable_path": [
+          "12176:23811"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1295448595",
+      "uuid": "f20bbbec-d46a-4465-ad18-49b8b8c275a6",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-06-11T19:35:24.767Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan - same here, let's add to the notes section on #8 stating that Accessibility Actions to move items should be implemented for TalkBack users. Engineering reference: https://developer.android.com/guide/topics/ui/accessibility/principles#accessibility-actions",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12240:13368",
+        "node_offset": {
+          "x": 140,
+          "y": 325
+        },
+        "stable_path": [
+          "12240:13368"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1295368038",
+      "uuid": "6109c505-81ad-482e-a2e5-6e5ef3e11585",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-06-11T18:34:32.546Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan - let's add to the notes section on #4 stating that Accessibility Actions to move items should be implemented for TalkBack users. Engineering reference: https://developer.android.com/guide/topics/ui/accessibility/principles#accessibility-actions",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 267,
+          "y": 563
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1295352802",
+      "uuid": "51a21d43-23a1-4b13-9324-bc2ea96bc668",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-06-11T18:23:31.573Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan - for #4, 'Shortcuts' and 'Show all >' would move with the group of shortcuts as well, correct?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 330,
+          "y": 502
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1293584126",
+      "uuid": "1fbd4377-cf50-4b73-8c0b-86ee8bab5595",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-06-10T21:07:55.460Z",
+      "resolved_at": null,
+      "message": "Can we shorten this text @Emily Wachowiak @Jeff Pfaller",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16639:54996",
+        "node_offset": {
+          "x": 2117,
+          "y": 2001
+        },
+        "stable_path": [
+          "16639:54996"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1286377526",
+      "uuid": "64e6f7fe-25a4-400e-a08d-20cefbdfbfd3",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-06-05T00:06:47.957Z",
+      "resolved_at": null,
+      "message": "Hi @Christopher Logan - I believe this area would be referred to as 'workspace' in Android mobile. I would adjust the Role line where it says it should be a button to say workspace. Then, let's add another line under Role for 'Note' that says that the area should NOT received any focus from TalkBack. The only interaction would be to press and hold",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 371,
+          "y": 2077
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1286366658",
+      "uuid": "17f697fa-0a9b-4805-98b4-9b533bcf7628",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-06-04T23:45:06.393Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan - linking this comment to refer to for this annotation :) https://www.figma.com/design/NSjxxopvFmRFu0m61T1N4E?node-id=12240-13368#1286366174",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12165:23752",
+        "node_offset": {
+          "x": 523,
+          "y": 538
+        },
+        "stable_path": [
+          "12165:23752"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1286366174",
+      "uuid": "82b517cc-d3bc-4345-876c-b51718b809f6",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-06-04T23:44:16.310Z",
+      "resolved_at": null,
+      "message": "Hi @Christopher Logan - we should have a single touch option here as well with drag+drop to make this accessible for mobility/dexterity users. It can also benefit plenty of AT users (TalkBack, Voice Access, etc). This method is just an example, but as you tap or long press on a button, an action sheet/menu comes up that contains buttons to move up or down (and in this case left or right). Here is the example for reference- https://m3.material.io/components/cards/accessibility#26b009bd-1ae2-4409-add7-6059827091ee\n\nPlease let me know if you have any questions, thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12240:13368",
+        "node_offset": {
+          "x": 362,
+          "y": 446
+        },
+        "stable_path": [
+          "12240:13368"
+        ]
+      },
+      "order_id": "25"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1295451656",
+      "uuid": "412d6762-b784-4ba3-99ea-2608fe7a9e37",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-06-11T19:37:49.999Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan - since numbers 2 and 3 are draggable, let's add a notes section  stating that Accessibility Actions to move items should be implemented for TalkBack users. Engineering reference: https://developer.android.com/guide/topics/ui/accessibility/principles#accessibility-actions",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12176:23811",
+        "node_offset": {
+          "x": 179,
+          "y": 265
+        },
+        "stable_path": [
+          "12176:23811"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1295448595",
+      "uuid": "f20bbbec-d46a-4465-ad18-49b8b8c275a6",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-06-11T19:35:24.767Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan - same here, let's add to the notes section on #8 stating that Accessibility Actions to move items should be implemented for TalkBack users. Engineering reference: https://developer.android.com/guide/topics/ui/accessibility/principles#accessibility-actions",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12240:13368",
+        "node_offset": {
+          "x": 140,
+          "y": 325
+        },
+        "stable_path": [
+          "12240:13368"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1295368038",
+      "uuid": "6109c505-81ad-482e-a2e5-6e5ef3e11585",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-06-11T18:34:32.546Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan - let's add to the notes section on #4 stating that Accessibility Actions to move items should be implemented for TalkBack users. Engineering reference: https://developer.android.com/guide/topics/ui/accessibility/principles#accessibility-actions",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 267,
+          "y": 563
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1295352802",
+      "uuid": "51a21d43-23a1-4b13-9324-bc2ea96bc668",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-06-11T18:23:31.573Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan - for #4, 'Shortcuts' and 'Show all >' would move with the group of shortcuts as well, correct?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 330,
+          "y": 502
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1286377526",
+      "uuid": "64e6f7fe-25a4-400e-a08d-20cefbdfbfd3",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-06-05T00:06:47.957Z",
+      "resolved_at": null,
+      "message": "Hi @Christopher Logan - I believe this area would be referred to as 'workspace' in Android mobile. I would adjust the Role line where it says it should be a button to say workspace. Then, let's add another line under Role for 'Note' that says that the area should NOT received any focus from TalkBack. The only interaction would be to press and hold",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10132:20183",
+        "node_offset": {
+          "x": 371,
+          "y": 2077
+        },
+        "stable_path": [
+          "10132:20183"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1286366658",
+      "uuid": "17f697fa-0a9b-4805-98b4-9b533bcf7628",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-06-04T23:45:06.393Z",
+      "resolved_at": null,
+      "message": "@Christopher Logan - linking this comment to refer to for this annotation :) https://www.figma.com/design/NSjxxopvFmRFu0m61T1N4E?node-id=12240-13368#1286366174",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12165:23752",
+        "node_offset": {
+          "x": 523,
+          "y": 538
+        },
+        "stable_path": [
+          "12165:23752"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1286366174",
+      "uuid": "82b517cc-d3bc-4345-876c-b51718b809f6",
+      "file_key": "NSjxxopvFmRFu0m61T1N4E",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-06-04T23:44:16.310Z",
+      "resolved_at": null,
+      "message": "Hi @Christopher Logan - we should have a single touch option here as well with drag+drop to make this accessible for mobility/dexterity users. It can also benefit plenty of AT users (TalkBack, Voice Access, etc). This method is just an example, but as you tap or long press on a button, an action sheet/menu comes up that contains buttons to move up or down (and in this case left or right). Here is the example for reference- https://m3.material.io/components/cards/accessibility#26b009bd-1ae2-4409-add7-6059827091ee\n\nPlease let me know if you have any questions, thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12240:13368",
+        "node_offset": {
+          "x": 362,
+          "y": 446
+        },
+        "stable_path": [
+          "12240:13368"
+        ]
+      },
+      "order_id": "25"
+    }
+  ]
+}

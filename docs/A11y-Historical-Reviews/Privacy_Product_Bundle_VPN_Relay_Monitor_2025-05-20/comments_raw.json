@@ -1,0 +1,5630 @@
+{
+  "unresolved": [
+    {
+      "id": "1332744682",
+      "uuid": "96244ee6-008a-4caa-88f5-5779cfe5ea19",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-07-09T14:43:09.631Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak some info on val props!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9932:21661",
+        "node_offset": {
+          "x": 139,
+          "y": 27
+        },
+        "stable_path": [
+          "9932:21661"
+        ]
+      },
+      "order_id": "253"
+    },
+    {
+      "id": "1307987168",
+      "uuid": "0de9092c-efc4-492d-ac7b-3677abb70274",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-06-20T15:07:57.050Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller I prefer this direction. Approved on my end - Nice work.\n\ncc @Diana Horn @Sally Richardson",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10079:24390",
+        "node_offset": {
+          "x": 105,
+          "y": 181
+        },
+        "stable_path": [
+          "10079:24390"
+        ]
+      },
+      "order_id": "251"
+    },
+    {
+      "id": "1305183702",
+      "uuid": "06f533d1-adf9-4240-93f7-1614951b8345",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-06-18T21:15:47.502Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller feel free to delete this if it's distracting :+1::skin-tone-5:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10029:20851",
+        "node_offset": {
+          "x": 2286,
+          "y": 159
+        },
+        "stable_path": [
+          "10029:20851"
+        ]
+      },
+      "order_id": "250"
+    },
+    {
+      "id": "1305159582",
+      "uuid": "202004c0-6b8e-4dda-a155-d7f4dbee33b4",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-18T20:53:17.910Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller tagged you above but this is the updated content",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10063:38062",
+        "node_offset": {
+          "x": 841,
+          "y": 199
+        },
+        "stable_path": [
+          "10063:38062"
+        ]
+      },
+      "order_id": "249"
+    },
+    {
+      "id": "1305138044",
+      "uuid": "db8e3b53-e50d-4a3c-bb7d-8ec6d60aa2b4",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-06-18T20:35:04.776Z",
+      "resolved_at": null,
+      "message": "Existing user flow",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9992:21256",
+        "node_offset": {
+          "x": 1890,
+          "y": 16
+        },
+        "stable_path": [
+          "9992:21256"
+        ]
+      },
+      "order_id": "248"
+    },
+    {
+      "id": "1305123379",
+      "uuid": "b62ae07c-f350-4b29-aabd-238ad61496ec",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Miller",
+        "img_url": "https://s3-alpha.figma.com/profile/270be48a-2b7e-4444-8a02-214d79380fcf",
+        "id": "1241057319310543066"
+      },
+      "created_at": "2025-06-18T20:22:54.583Z",
+      "resolved_at": null,
+      "message": "@Diana Horn @Wolasi Konu Could we update the accent colors to the new color palette?",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-06-18T21:14:17.163Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10029:20945",
+        "node_offset": {
+          "x": 1797,
+          "y": 112
+        },
+        "stable_path": [
+          "10029:20945"
+        ]
+      },
+      "order_id": "247"
+    },
+    {
+      "id": "1305054227",
+      "uuid": "36a2c83b-5418-489c-8370-39559208251a",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-06-18T19:25:59.801Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez @Jessica Miller @Wolasi Konu here's yet another rif on rif. But think this might look like these are actual controls versus feature.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10043:21096",
+        "node_offset": {
+          "x": 1804,
+          "y": 20
+        },
+        "stable_path": [
+          "10043:21096"
+        ]
+      },
+      "order_id": "246"
+    },
+    {
+      "id": "1305016880",
+      "uuid": "71af8aeb-34a6-438f-a6d8-82cd1d36567d",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-06-18T18:56:48.642Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez let's revert this this text back to 1-2 lines. And lets avoid duplicative language, e.g. private and privacy\n\ncc @Tony Cinotto @Jessica Miller",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9963:21842",
+        "node_offset": {
+          "x": 1398,
+          "y": 425
+        },
+        "stable_path": [
+          "9963:21842"
+        ]
+      },
+      "order_id": "245"
+    },
+    {
+      "id": "1304958578",
+      "uuid": "093ae8a8-2089-4be9-84f3-21d815cd5b70",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-06-18T18:15:34.338Z",
+      "resolved_at": null,
+      "message": "should the save be brought down with the price",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9992:21256",
+        "node_offset": {
+          "x": 728,
+          "y": 3714
+        },
+        "stable_path": [
+          "9992:21256"
+        ]
+      },
+      "order_id": "244"
+    },
+    {
+      "id": "1302876906",
+      "uuid": "d50ab016-0b78-466f-adbe-fc9cff1f471e",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-17T17:28:44.200Z",
+      "resolved_at": null,
+      "message": "Strikethrough is fine so long as it's clear what we're describing",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9968:22993",
+        "node_offset": {
+          "x": 662,
+          "y": 3208
+        },
+        "stable_path": [
+          "9968:22993"
+        ]
+      },
+      "order_id": "242"
+    },
+    {
+      "id": "1302824092",
+      "uuid": "a09c1bc5-5385-47c9-b97d-c00df45cfe4e",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-06-17T16:53:03.291Z",
+      "resolved_at": null,
+      "message": "This still isn't scanning as comparing, but as two separate options I can get. I wonder if you added a subhead above like \"Purchased individually vs. Bundled\" or made it one big thing and did a strikethrough on the price. Maybe that's too big a change at this point to play with. And if I'm the only one with that read, this is accurate and works for the folks who take the time to parse the text.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9960:20588",
+        "node_offset": {
+          "x": 947,
+          "y": 3330
+        },
+        "stable_path": [
+          "9960:20588"
+        ]
+      },
+      "order_id": "239"
+    },
+    {
+      "id": "1302819326",
+      "uuid": "94f4458a-952b-4213-8969-8edbbd6efd93",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-06-17T16:49:56.457Z",
+      "resolved_at": null,
+      "message": "This headline reads kind of awkward - maybe \"Save 45% when you bundle privacy protection\" or just \"Save 45% when you bundle\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9960:20588",
+        "node_offset": {
+          "x": 1557,
+          "y": 949
+        },
+        "stable_path": [
+          "9960:20588"
+        ]
+      },
+      "order_id": "237"
+    },
+    {
+      "id": "1302817556",
+      "uuid": "3c72d587-81f1-4247-a241-ee94c6d6b1b4",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-06-17T16:48:47.916Z",
+      "resolved_at": null,
+      "message": "Relay is hard to communicate the benefit. I feel like the interface here isn't helping us. Maybe change the \"Promos\" to spam? Or the headline to \"What spam do you want to block\", and then change the tab strip below? Or maybe we just scrap the \"what emails do you want to block\" and just say the benfit \"Protect yourself from spammers\"",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-06-17T17:10:18.341Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9960:20588",
+        "node_offset": {
+          "x": 1775,
+          "y": 761
+        },
+        "stable_path": [
+          "9960:20588"
+        ]
+      },
+      "order_id": "236"
+    },
+    {
+      "id": "1302813943",
+      "uuid": "94dc1451-d1e9-4747-aaa9-d03ff2f2c627",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-06-17T16:46:27.415Z",
+      "resolved_at": null,
+      "message": "I wonder if working in the idea of removal or breaches would resonate more here. Scanning for data breaches or Removing personal info (you could still do the 25 of 190 to indicate activity",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9960:20588",
+        "node_offset": {
+          "x": 1790,
+          "y": 317
+        },
+        "stable_path": [
+          "9960:20588"
+        ]
+      },
+      "order_id": "235"
+    },
+    {
+      "id": "1301147257",
+      "uuid": "691ffd1b-88bd-4b02-b9e7-c83452e74ef1",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-16T21:03:30.709Z",
+      "resolved_at": null,
+      "message": "One liner descriptions. Please reference the content in the old image to the right: @Jessica Miller \n\nAttempted to mock but will leave that up to design :)\n\ncc: @Tony Cinotto @Diana Horn",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9959:19752",
+        "node_offset": {
+          "x": 1539,
+          "y": 717
+        },
+        "stable_path": [
+          "9959:19752"
+        ]
+      },
+      "order_id": "233"
+    },
+    {
+      "id": "1297122434",
+      "uuid": "e1a61d0e-cd01-4e8d-a7de-dc8b5cc98323",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-12T17:30:59.985Z",
+      "resolved_at": null,
+      "message": "LL to workshop these to lead with the value -> functional feature",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9860:19398",
+        "node_offset": {
+          "x": 1078,
+          "y": 1924
+        },
+        "stable_path": [
+          "9860:19398"
+        ]
+      },
+      "order_id": "227"
+    },
+    {
+      "id": "1297116272",
+      "uuid": "db0514f0-af58-4520-9957-2d4843519961",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-12T17:26:38.641Z",
+      "resolved_at": null,
+      "message": "Strikethrough in imagery",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9860:19398",
+        "node_offset": {
+          "x": 839,
+          "y": 471
+        },
+        "stable_path": [
+          "9860:19398"
+        ]
+      },
+      "order_id": "226"
+    },
+    {
+      "id": "1297033925",
+      "uuid": "006233f1-b038-4cf4-8dd4-4eb786a04afa",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-06-12T16:27:13.913Z",
+      "resolved_at": null,
+      "message": "Not to over-index but i still dont think this product is built for gen-z do we have less gen-z type imagery?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9823:20744",
+        "node_offset": {
+          "x": 1688,
+          "y": 737
+        },
+        "stable_path": [
+          "9823:20744"
+        ]
+      },
+      "order_id": "225"
+    },
+    {
+      "id": "1297026843",
+      "uuid": "7309e210-341a-4663-99bb-2a0f5b564775",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Sally Richardson",
+        "img_url": "https://www.gravatar.com/avatar/7037236bbc866d30a21c36f84d6a6233?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1182089219018315845"
+      },
+      "created_at": "2025-06-12T16:22:24.786Z",
+      "resolved_at": null,
+      "message": "I think we wanted to try and show crossed out pricing to show the price difference?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9823:20744",
+        "node_offset": {
+          "x": 1944,
+          "y": 4167
+        },
+        "stable_path": [
+          "9823:20744"
+        ]
+      },
+      "order_id": "224"
+    },
+    {
+      "id": "1297026178",
+      "uuid": "665cba17-d6ae-4050-b087-9a7d53794785",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Sally Richardson",
+        "img_url": "https://www.gravatar.com/avatar/7037236bbc866d30a21c36f84d6a6233?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1182089219018315845"
+      },
+      "created_at": "2025-06-12T16:21:57.757Z",
+      "resolved_at": null,
+      "message": "Can we move up pricing since this is an instance we are leading more with the value deal vs the product",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9823:20744",
+        "node_offset": {
+          "x": 912,
+          "y": 994
+        },
+        "stable_path": [
+          "9823:20744"
+        ]
+      },
+      "order_id": "223"
+    },
+    {
+      "id": "1296926796",
+      "uuid": "7678528a-0954-41f7-affb-d3cf6f412ab7",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-06-12T15:22:17.108Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller @Laura Lopez how do we feel about the call to action in the header including the price? Since one of our main value props is getting all 3 products for a discount and we talk about one supercharged plan should we disclose the price so a user doesn't have to scroll? Reduce any sort of uncertainty",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9823:20744",
+        "node_offset": {
+          "x": 829,
+          "y": 938
+        },
+        "stable_path": [
+          "9823:20744"
+        ]
+      },
+      "order_id": "222"
+    },
+    {
+      "id": "1295558360",
+      "uuid": "e024d3d9-b2bc-4fd9-b1cb-3be9f80b73b3",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-06-11T21:06:40.715Z",
+      "resolved_at": null,
+      "message": "Do we have content for hear yet?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9823:20744",
+        "node_offset": {
+          "x": 1547,
+          "y": 5721
+        },
+        "stable_path": [
+          "9823:20744"
+        ]
+      },
+      "order_id": "221"
+    },
+    {
+      "id": "1295459712",
+      "uuid": "fed35d6e-5a64-43a0-9e1a-62dfa558db72",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-06-11T19:44:13.393Z",
+      "resolved_at": null,
+      "message": "We could add large icon/graphics here to add a little more visual interaction.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9823:20746",
+        "node_offset": {
+          "x": 2316,
+          "y": 2055
+        },
+        "stable_path": [
+          "9823:20746"
+        ]
+      },
+      "order_id": "220"
+    },
+    {
+      "id": "1295457028",
+      "uuid": "16d59d87-0e94-46f8-a6eb-7ed7a4f891f2",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-06-11T19:42:13.304Z",
+      "resolved_at": null,
+      "message": "The larger black outline works better with the expanded pose/hair. The other versions, make it feel like the person is in a phone.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9823:20745",
+        "node_offset": {
+          "x": 4105,
+          "y": 609
+        },
+        "stable_path": [
+          "9823:20745"
+        ]
+      },
+      "order_id": "219"
+    },
+    {
+      "id": "1295306996",
+      "uuid": "2b4f1ec4-a4fe-4b32-84d1-642bb6d22147",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-06-11T17:50:39.562Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller same thing, can we make the toggle green?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9810:18750",
+        "node_offset": {
+          "x": 1586,
+          "y": 916
+        },
+        "stable_path": [
+          "9810:18750"
+        ]
+      },
+      "order_id": "216"
+    },
+    {
+      "id": "1295306579",
+      "uuid": "7c80b648-2fc1-49b2-aeef-10e3c237c1bf",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-06-11T17:50:22.323Z",
+      "resolved_at": null,
+      "message": "Can we add some color to this shape?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9810:18750",
+        "node_offset": {
+          "x": 1576,
+          "y": 685
+        },
+        "stable_path": [
+          "9810:18750"
+        ]
+      },
+      "order_id": "215"
+    },
+    {
+      "id": "1295118775",
+      "uuid": "010999ce-544a-46a3-ba23-2e99f49aec3d",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Miller",
+        "img_url": "https://s3-alpha.figma.com/profile/270be48a-2b7e-4444-8a02-214d79380fcf",
+        "id": "1241057319310543066"
+      },
+      "created_at": "2025-06-11T15:45:11.157Z",
+      "resolved_at": null,
+      "message": "@Brooke Katalinich @Diana Horn I'll update this graphic to match with the colored layers, too",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-06-11T15:51:17.776Z",
+          "user": {
+            "id": "1417300264475332282",
+            "handle": "Brooke Katalinich",
+            "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9789:18171",
+        "node_offset": {
+          "x": 1656,
+          "y": 2813
+        },
+        "stable_path": [
+          "9789:18171"
+        ]
+      },
+      "order_id": "214"
+    },
+    {
+      "id": "1294626479",
+      "uuid": "0cf598fc-061c-44cb-a8fa-b5c845048b96",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-06-11T11:49:46.558Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller I wonder if we use this component instead to reduce duplicity if we use the VPN mock in the hero.\n\ncc @Diana Horn",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9789:19662",
+        "node_offset": {
+          "x": 540,
+          "y": 2151
+        },
+        "stable_path": [
+          "9789:19662"
+        ]
+      },
+      "order_id": "213"
+    },
+    {
+      "id": "1294625042",
+      "uuid": "1c6548fd-3f27-4ab2-8ae9-a3f5f9704a1e",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-06-11T11:48:57.429Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller I think the white BG is working better for consistency in this layout, but let me know what you think.\n\ncc @Diana Horn",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9789:19662",
+        "node_offset": {
+          "x": 252,
+          "y": 863
+        },
+        "stable_path": [
+          "9789:19662"
+        ]
+      },
+      "order_id": "212"
+    },
+    {
+      "id": "1294616452",
+      "uuid": "41624116-d7f7-403a-9e48-600fa917220b",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-06-11T11:44:12.367Z",
+      "resolved_at": null,
+      "message": "Link to section",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9789:19661",
+        "node_offset": {
+          "x": 184,
+          "y": 70
+        },
+        "stable_path": [
+          "9789:19661"
+        ]
+      },
+      "order_id": "211"
+    },
+    {
+      "id": "1294614581",
+      "uuid": "f778840e-8e37-454b-bdc2-0f0512a7d40f",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-06-11T11:43:10.006Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller Let's do something like this in the hero. I broke apart some of the nested auto layout components to mock this up quickly to illustrate. It isnt working in it's current state do to legibility issues but if you can please spend a cycle on this, we can send over to Sally as well.\n\ncc @Diana Horn",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9789:18913",
+        "node_offset": {
+          "x": 232,
+          "y": 952
+        },
+        "stable_path": [
+          "9789:18913"
+        ]
+      },
+      "order_id": "210"
+    },
+    {
+      "id": "1294596043",
+      "uuid": "2364c551-4cb7-4553-bac3-8aad884452bd",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-06-11T11:32:36.640Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller Also, let's add a mix of primary and secondary button styles.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9789:18171",
+        "node_offset": {
+          "x": 1368,
+          "y": 1195
+        },
+        "stable_path": [
+          "9789:18171"
+        ]
+      },
+      "order_id": "209"
+    },
+    {
+      "id": "1294595348",
+      "uuid": "1571a566-ff30-4a5e-a7d0-443728d56393",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-06-11T11:32:11.531Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller Lets do something like this to make it more consistent with the current FF LP.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9789:18171",
+        "node_offset": {
+          "x": 646,
+          "y": 220
+        },
+        "stable_path": [
+          "9789:18171"
+        ]
+      },
+      "order_id": "208"
+    },
+    {
+      "id": "1293730125",
+      "uuid": "a0a95c18-cd6a-4a74-8c14-bd72d9d40223",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-06-11T00:52:19.298Z",
+      "resolved_at": null,
+      "message": "@Brooke Katalinich Can you look at these iterations?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8108:15740",
+        "node_offset": {
+          "x": 45069,
+          "y": 53109
+        },
+        "stable_path": [
+          "8108:15740"
+        ]
+      },
+      "order_id": "206"
+    },
+    {
+      "id": "1291550636",
+      "uuid": "8e54b4db-4f9a-469d-baad-faf62340edc6",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-06-09T20:04:45.270Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller Thanks for linking me to these. Diana and I were looking over them today and she is going to work with you to finalize the two versions to send to Sally in the next couple days. \n\ncc @Diana Horn",
+      "reactions": [
+        {
+          "emoji": ":raised_hands:",
+          "created_at": "2025-06-09T20:16:20.499Z",
+          "user": {
+            "id": "1241057319310543066",
+            "handle": "Jessica Miller",
+            "img_url": "https://s3-alpha.figma.com/profile/270be48a-2b7e-4444-8a02-214d79380fcf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9692:44566",
+        "node_offset": {
+          "x": 4327,
+          "y": 2407
+        },
+        "stable_path": [
+          "9692:44566"
+        ]
+      },
+      "order_id": "205"
+    },
+    {
+      "id": "1291483660",
+      "uuid": "6433f91f-6d2f-4e68-bb63-e488e7d43c77",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-06-09T19:09:27.056Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez this string might be too long for mobile",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9683:15861",
+        "node_offset": {
+          "x": 1773,
+          "y": 23
+        },
+        "stable_path": [
+          "9683:15861"
+        ]
+      },
+      "order_id": "204"
+    },
+    {
+      "id": "1289659178",
+      "uuid": "9941f3d0-d07f-4c29-b148-ca9fc354f06a",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-06-06T21:14:04.103Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller maybe have the product names in the cards on the right?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9661:30854",
+        "node_offset": {
+          "x": 438,
+          "y": 297
+        },
+        "stable_path": [
+          "9661:30854"
+        ]
+      },
+      "order_id": "203"
+    },
+    {
+      "id": "1289460596",
+      "uuid": "80b25eb3-e927-437a-8011-15e1883d8558",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-06T17:36:03.350Z",
+      "resolved_at": null,
+      "message": "Product review Week of June 16",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9654:27127",
+        "node_offset": {
+          "x": 588,
+          "y": 1368
+        },
+        "stable_path": [
+          "9654:27127"
+        ]
+      },
+      "order_id": "201"
+    },
+    {
+      "id": "1289458580",
+      "uuid": "c7cbcd69-ed3b-4f00-9781-36bdf45fb397",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-06T17:34:10.951Z",
+      "resolved_at": null,
+      "message": "Can't have text bt the price + sign up CTA",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9654:29214",
+        "node_offset": {
+          "x": 1436,
+          "y": 3370
+        },
+        "stable_path": [
+          "9654:29214"
+        ]
+      },
+      "order_id": "200"
+    },
+    {
+      "id": "1289457706",
+      "uuid": "dc7cfceb-8169-4692-8657-e5e5a8ee5e21",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-06T17:33:21.493Z",
+      "resolved_at": null,
+      "message": "New visual coming soon",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9654:29214",
+        "node_offset": {
+          "x": 646,
+          "y": 5185
+        },
+        "stable_path": [
+          "9654:29214"
+        ]
+      },
+      "order_id": "199"
+    },
+    {
+      "id": "1289453064",
+      "uuid": "6df90123-60ad-40e6-9759-10259b4802b9",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-06-06T17:29:09.638Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller same card layouts on Hero",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9664:38607",
+        "node_offset": {
+          "x": 20010,
+          "y": 5120
+        },
+        "stable_path": [
+          "9664:38607"
+        ]
+      },
+      "order_id": "198"
+    },
+    {
+      "id": "1289452210",
+      "uuid": "43588836-20e0-45f1-9f6e-187e801d6343",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-06T17:28:26.034Z",
+      "resolved_at": null,
+      "message": "Which style of dropdown do we want here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9654:27127",
+        "node_offset": {
+          "x": 2320,
+          "y": 1358
+        },
+        "stable_path": [
+          "9654:27127"
+        ]
+      },
+      "order_id": "197"
+    },
+    {
+      "id": "1289279221",
+      "uuid": "65baf075-b927-4865-a6ca-a343c7265e3c",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-06-06T15:10:50.370Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller @Laura Lopez @Tony Cinotto a reminder for the og:title, og:description, og:image etc for this page",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9604:10836",
+        "node_offset": {
+          "x": 2389,
+          "y": 1122
+        },
+        "stable_path": [
+          "9604:10836"
+        ]
+      },
+      "order_id": "196"
+    },
+    {
+      "id": "1287994611",
+      "uuid": "2cd660ef-461e-41a8-8bf1-0a6e871471fb",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-06-05T18:36:32.371Z",
+      "resolved_at": null,
+      "message": "Getting tripped up on limiting exposures and what that means. Is it like...\n\nLimiting your exposure to breaches? Limiting the number of places your data appears?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-06-06T13:30:47.305Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9623:29120",
+        "node_offset": {
+          "x": 1127,
+          "y": 2168
+        },
+        "stable_path": [
+          "9623:29120"
+        ]
+      },
+      "order_id": "195"
+    },
+    {
+      "id": "1287993510",
+      "uuid": "eace0c5a-f45d-4814-9ecd-9015c2bd292b",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-06-05T18:35:43.593Z",
+      "resolved_at": null,
+      "message": "Remove box, put slashed pricing next to PPP monthly price?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9623:29120",
+        "node_offset": {
+          "x": 495,
+          "y": 3324
+        },
+        "stable_path": [
+          "9623:29120"
+        ]
+      },
+      "order_id": "194"
+    },
+    {
+      "id": "1287987289",
+      "uuid": "d970020f-ebde-43d1-a51e-1dc442a1463c",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-06-05T18:30:59.899Z",
+      "resolved_at": null,
+      "message": "depending stands out for some reason. Alt suggestion is \"based\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9623:29120",
+        "node_offset": {
+          "x": 1447,
+          "y": 3865
+        },
+        "stable_path": [
+          "9623:29120"
+        ]
+      },
+      "order_id": "193"
+    },
+    {
+      "id": "1287987096",
+      "uuid": "159ee15e-447a-41b6-a669-93656a61c61d",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-06-05T18:30:51.213Z",
+      "resolved_at": null,
+      "message": "you can cut word \"over\" since you have +",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-06-06T15:53:34.503Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9623:29120",
+        "node_offset": {
+          "x": 839,
+          "y": 2196
+        },
+        "stable_path": [
+          "9623:29120"
+        ]
+      },
+      "order_id": "192"
+    },
+    {
+      "id": "1287986802",
+      "uuid": "883799ef-f4c1-4770-91d8-b387ee10ff28",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-06-05T18:30:38.712Z",
+      "resolved_at": null,
+      "message": "alt phrasing: Reduce breach impact...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9623:29120",
+        "node_offset": {
+          "x": 885,
+          "y": 2154
+        },
+        "stable_path": [
+          "9623:29120"
+        ]
+      },
+      "order_id": "191"
+    },
+    {
+      "id": "1287986040",
+      "uuid": "dbe7ea1c-5373-47a1-9394-0050d87d2430",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-06-05T18:30:06.268Z",
+      "resolved_at": null,
+      "message": "This is kind of confusing to me- what does purchasing yearly plans mean? Like, if I bought all of these products individually? As a user, I'm expecting this to be a monthly price for the bundle",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9623:29120",
+        "node_offset": {
+          "x": 672,
+          "y": 3304
+        },
+        "stable_path": [
+          "9623:29120"
+        ]
+      },
+      "order_id": "190"
+    },
+    {
+      "id": "1287984893",
+      "uuid": "bc7455f4-9eef-47aa-8411-5e624dd4eb2c",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-06-05T18:29:15.413Z",
+      "resolved_at": null,
+      "message": "Can we just say \"Billed at $99 yearly\"",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-06-05T18:29:34.721Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9623:29120",
+        "node_offset": {
+          "x": 1279,
+          "y": 3583
+        },
+        "stable_path": [
+          "9623:29120"
+        ]
+      },
+      "order_id": "189"
+    },
+    {
+      "id": "1287984588",
+      "uuid": "8347c05d-f0b6-407f-9c2b-9426225a6dae",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-06-05T18:29:02.236Z",
+      "resolved_at": null,
+      "message": "do you need the Monitor and Relay product names in here?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-06-06T15:54:12.602Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9623:29120",
+        "node_offset": {
+          "x": 851,
+          "y": 2831
+        },
+        "stable_path": [
+          "9623:29120"
+        ]
+      },
+      "order_id": "188"
+    },
+    {
+      "id": "1287983120",
+      "uuid": "d64d728f-ecd1-4666-a346-0f75fd0f2b36",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-06-05T18:28:00.968Z",
+      "resolved_at": null,
+      "message": "Maybe you could pull in Emily's suggestion from above here",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-06-05T18:28:34.972Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9623:29120",
+        "node_offset": {
+          "x": 1449,
+          "y": 2051
+        },
+        "stable_path": [
+          "9623:29120"
+        ]
+      },
+      "order_id": "187"
+    },
+    {
+      "id": "1287982476",
+      "uuid": "8e4a0e0d-d621-44eb-bbce-fb14270a555e",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-06-05T18:27:32.832Z",
+      "resolved_at": null,
+      "message": "Are email masks understood? I think you could get away without mentioning it \"...and Relay to prevent spam.\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9623:29120",
+        "node_offset": {
+          "x": 1453,
+          "y": 1373
+        },
+        "stable_path": [
+          "9623:29120"
+        ]
+      },
+      "order_id": "186"
+    },
+    {
+      "id": "1287982138",
+      "uuid": "84fa9055-3197-4034-98cf-4c6194a0b5b7",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-06-05T18:27:18.199Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez - \"Compare\" plans feels a little overpromising for what this is / what it's doing (jumping you down the page).",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-06-05T18:28:19.432Z",
+          "user": {
+            "id": "1083509274597697392",
+            "handle": "Jeff Pfaller",
+            "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-06-05T18:30:02.835Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9623:29120",
+        "node_offset": {
+          "x": 1674,
+          "y": 2622
+        },
+        "stable_path": [
+          "9623:29120"
+        ]
+      },
+      "order_id": "185"
+    },
+    {
+      "id": "1287981521",
+      "uuid": "940bc0fb-eba5-4df7-84ed-dcb0cbf73d61",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-06-05T18:26:51.935Z",
+      "resolved_at": null,
+      "message": "OPO alt: \"Get protected\"",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-06-05T18:27:06.956Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9623:29120",
+        "node_offset": {
+          "x": 468,
+          "y": 767
+        },
+        "stable_path": [
+          "9623:29120"
+        ]
+      },
+      "order_id": "184"
+    },
+    {
+      "id": "1287980766",
+      "uuid": "699a590f-85f9-477f-8bc9-5213e84751db",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-06-05T18:26:20.178Z",
+      "resolved_at": null,
+      "message": "fwiw I like the shorter stuff without the year-round, I feel like maybe that would put some potential monthly buyers off. Alt riff that feels more conversion-ey is Shop now or Explore plans. I don't mind this though, and that's probably something better served with a test",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-06-05T18:27:01.747Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9623:29120",
+        "node_offset": {
+          "x": 460,
+          "y": 713
+        },
+        "stable_path": [
+          "9623:29120"
+        ]
+      },
+      "order_id": "183"
+    },
+    {
+      "id": "1287980721",
+      "uuid": "1cbef130-845c-4a95-9cdc-4cd7166f5253",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-06-05T18:26:18.536Z",
+      "resolved_at": null,
+      "message": "Flip the selling point first: Prevent spam with unlimited email masks / Stop spam with...",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-06-05T18:26:46.164Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        },
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-06-05T22:45:42.492Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9623:29120",
+        "node_offset": {
+          "x": 1748,
+          "y": 716
+        },
+        "stable_path": [
+          "9623:29120"
+        ]
+      },
+      "order_id": "182"
+    },
+    {
+      "id": "1287980012",
+      "uuid": "44497e86-e120-469a-bb44-32f898c2ea2e",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-06-05T18:25:48.519Z",
+      "resolved_at": null,
+      "message": "OPO: slightly shorter alt: Stop data brokers from selling your info / Help stop...",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-06-05T18:29:02.584Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-06-05T18:26:47.543Z",
+          "user": {
+            "id": "1083509274597697392",
+            "handle": "Jeff Pfaller",
+            "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-06-05T18:29:46.111Z",
+          "user": {
+            "id": "1169379060174051036",
+            "handle": "Katie Lower",
+            "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-06-05T22:45:53.704Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9623:29120",
+        "node_offset": {
+          "x": 1437,
+          "y": 490
+        },
+        "stable_path": [
+          "9623:29120"
+        ]
+      },
+      "order_id": "181"
+    },
+    {
+      "id": "1287674296",
+      "uuid": "ba2d0d81-8e21-4da1-a560-6c8b7463b5c2",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-06-05T15:09:26.844Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller added a page for current landing page screenshots",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9620:10040",
+        "node_offset": {
+          "x": 46,
+          "y": 63
+        },
+        "stable_path": [
+          "9620:10040"
+        ]
+      },
+      "order_id": "180"
+    },
+    {
+      "id": "1286306034",
+      "uuid": "387d2266-b999-4cb2-a676-1c442c53b9ca",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-06-04T22:03:53.589Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller @Laura Lopez not necessarily a sign in button but do we wanna have a link if someone has already purchased to get to the onboarding screen. ive signed up for things and them im like oh wait how do i get to using them. if a user came back to the landing page they would be at a dead end. I say it doesnt have to be a sign in screen cause the onboarding screen isn't behind sign in.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9604:12941",
+        "node_offset": {
+          "x": 1896,
+          "y": 21
+        },
+        "stable_path": [
+          "9604:12941"
+        ]
+      },
+      "order_id": "179"
+    },
+    {
+      "id": "1286280644",
+      "uuid": "a198044a-517b-4b6d-a0fb-7b7f68ee915d",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-06-04T21:33:21.976Z",
+      "resolved_at": null,
+      "message": "is this a button? where does it go?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9604:12941",
+        "node_offset": {
+          "x": 1663,
+          "y": 2624
+        },
+        "stable_path": [
+          "9604:12941"
+        ]
+      },
+      "order_id": "177"
+    },
+    {
+      "id": "1269143088",
+      "uuid": "4029e441-51a5-42ef-a835-1d720d2fd64c",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-22T20:49:36.095Z",
+      "resolved_at": null,
+      "message": "Tony: Available countries\n\nUS only",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9379:32893",
+        "node_offset": {
+          "x": 1575,
+          "y": 4842
+        },
+        "stable_path": [
+          "9379:32893"
+        ]
+      },
+      "order_id": "171"
+    },
+    {
+      "id": "1269141383",
+      "uuid": "7d5ffa1c-f617-4dfa-a388-e898bc7de619",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-22T20:48:06.917Z",
+      "resolved_at": null,
+      "message": "Tony: explain service availability. Ppl assume this is an app\n\nEx: McAfee explains this in their hero",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9379:32893",
+        "node_offset": {
+          "x": 1537,
+          "y": 4442
+        },
+        "stable_path": [
+          "9379:32893"
+        ]
+      },
+      "order_id": "170"
+    },
+    {
+      "id": "1264634637",
+      "uuid": "1bc6c65d-22a7-45d3-bc8a-9b2a06a48401",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Megan Daniel",
+        "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1440376909670790136"
+      },
+      "created_at": "2025-05-20T15:58:33.876Z",
+      "resolved_at": null,
+      "message": "I love this concept!! Feels very refreshing and modern :fire:",
+      "reactions": [
+        {
+          "emoji": ":orange_heart:",
+          "created_at": "2025-05-20T16:28:58.392Z",
+          "user": {
+            "id": "1241057319310543066",
+            "handle": "Jessica Miller",
+            "img_url": "https://s3-alpha.figma.com/profile/270be48a-2b7e-4444-8a02-214d79380fcf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9372:30099",
+        "node_offset": {
+          "x": 2376,
+          "y": 4577
+        },
+        "stable_path": [
+          "9372:30099"
+        ]
+      },
+      "order_id": "169"
+    },
+    {
+      "id": "1264633541",
+      "uuid": "422b716d-c81e-414f-866e-35181d47329b",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jamie Sigadel",
+        "img_url": "https://www.gravatar.com/avatar/53c8c0a1d0c0f42134e8d49ced9aecb6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1403078798096954142"
+      },
+      "created_at": "2025-05-20T15:57:58.401Z",
+      "resolved_at": null,
+      "message": "I like this first concept treatment with the banner + boxes but maybe with the image of #2?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9372:30099",
+        "node_offset": {
+          "x": 4140,
+          "y": 5213
+        },
+        "stable_path": [
+          "9372:30099"
+        ]
+      },
+      "order_id": "168"
+    },
+    {
+      "id": "1263065233",
+      "uuid": "151fdd50-c388-4d85-b105-f5a07b5932ab",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Miller",
+        "img_url": "https://s3-alpha.figma.com/profile/270be48a-2b7e-4444-8a02-214d79380fcf",
+        "id": "1241057319310543066"
+      },
+      "created_at": "2025-05-19T22:26:57.399Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez also added a faq accordion since this is how it will be done in code, in case you want to use this",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9311:29646",
+        "node_offset": {
+          "x": 8879,
+          "y": 875
+        },
+        "stable_path": [
+          "9311:29646"
+        ]
+      },
+      "order_id": "167"
+    },
+    {
+      "id": "1263029655",
+      "uuid": "7630cdbb-356d-4901-bfa3-20445b7034e4",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Miller",
+        "img_url": "https://s3-alpha.figma.com/profile/270be48a-2b7e-4444-8a02-214d79380fcf",
+        "id": "1241057319310543066"
+      },
+      "created_at": "2025-05-19T21:37:06.518Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez adding this placeholder infographic in case you want to add it at this stage just for presentation purposes",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9311:29646",
+        "node_offset": {
+          "x": 6846,
+          "y": 1288
+        },
+        "stable_path": [
+          "9311:29646"
+        ]
+      },
+      "order_id": "166"
+    },
+    {
+      "id": "1262898851",
+      "uuid": "226b5613-4704-45f8-bb6c-1d9a7a8dd4bf",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-19T19:32:38.552Z",
+      "resolved_at": null,
+      "message": "@Tony Cinotto Question: could we show a dynamic version of this landing page if people are logged in vs. not logged in? \n\nEx: \nInstead of a CTA saying \"Get protection\" or in the middle where it says \"Compare plans\" it says \"Upgrade\" instead? \n\nFeels like we could have a harder sell for current customers since they're likely familiar with at least 1 of the products already.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9293:4571",
+        "node_offset": {
+          "x": 795,
+          "y": 177
+        },
+        "stable_path": [
+          "9293:4571"
+        ]
+      },
+      "order_id": "165"
+    },
+    {
+      "id": "1262843828",
+      "uuid": "3735e526-d6ab-4618-b541-79c0db21af74",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-19T18:45:58.967Z",
+      "resolved_at": null,
+      "message": "Wolasi: optimizations based on logged in vs. not\n\nCTAs may be different. Upgrade your protection for ex",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9293:17494",
+        "node_offset": {
+          "x": 11,
+          "y": 208
+        },
+        "stable_path": [
+          "9293:17494"
+        ]
+      },
+      "order_id": "164"
+    },
+    {
+      "id": "1262842862",
+      "uuid": "12add7b2-0cba-4a5d-9aeb-6cc0a5ed080b",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-05-19T18:45:13.059Z",
+      "resolved_at": null,
+      "message": "This layout makes the most sense in terms of amount and topics. The only section I might add an FAQ section (or emphasize in the other sections)....what if i have an existing subscription? what devices does this cover? can i cancel?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-05-19T20:53:29.544Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9293:4538",
+        "node_offset": {
+          "x": 4641,
+          "y": 1790
+        },
+        "stable_path": [
+          "9293:4538"
+        ]
+      },
+      "order_id": "163"
+    },
+    {
+      "id": "1262840509",
+      "uuid": "2bf19818-a717-499c-a7db-1daa1f291ddf",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-19T18:43:14.533Z",
+      "resolved_at": null,
+      "message": "Add FAQs above trust items",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9293:17494",
+        "node_offset": {
+          "x": 22,
+          "y": 33
+        },
+        "stable_path": [
+          "9293:17494"
+        ]
+      },
+      "order_id": "162"
+    },
+    {
+      "id": "1262839643",
+      "uuid": "38d508cb-7673-4dc2-a54b-5a1d6581c285",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-19T18:42:29.322Z",
+      "resolved_at": null,
+      "message": "Diana: add FAQs\n* What if I already have a subscription? Does this work? \n\nNeed other Qs to go here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9293:17494",
+        "node_offset": {
+          "x": 114,
+          "y": 208
+        },
+        "stable_path": [
+          "9293:17494"
+        ]
+      },
+      "order_id": "161"
+    },
+    {
+      "id": "1262839238",
+      "uuid": "0809df92-a01e-43e7-8878-7c36d363ca4d",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-19T18:42:09.266Z",
+      "resolved_at": null,
+      "message": "keep #s in",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9293:17494",
+        "node_offset": {
+          "x": 320,
+          "y": 45
+        },
+        "stable_path": [
+          "9293:17494"
+        ]
+      },
+      "order_id": "160"
+    },
+    {
+      "id": "1262836259",
+      "uuid": "573941b9-7c28-48df-9edf-1fc2478be82d",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-19T18:39:38.621Z",
+      "resolved_at": null,
+      "message": "Jess: there may not be one for Monitor. Look into this, maybe tag Tony?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9293:17494",
+        "node_offset": {
+          "x": 682,
+          "y": 95
+        },
+        "stable_path": [
+          "9293:17494"
+        ]
+      },
+      "order_id": "159"
+    },
+    {
+      "id": "1262663190",
+      "uuid": "e3006d37-729a-4a04-b3b9-e62641592a2c",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-05-19T16:25:57.918Z",
+      "resolved_at": null,
+      "message": "@Tony Cinotto Thoughts on this approach for the landing page content?\n\nDid this in lo-fi to start so we could visualize the content blocks and hierarchy. Let me know if you have any feedback around: \n* The order of content\n* What we're saying: content isn't 100% final but the general idea of what I'd like to say is\n* Whether you think PR/trust-type content at the bottom is needed or not",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9293:4568",
+        "node_offset": {
+          "x": 35,
+          "y": 52
+        },
+        "stable_path": [
+          "9293:4568"
+        ]
+      },
+      "order_id": "158"
+    },
+    {
+      "id": "1239207808",
+      "uuid": "7ddf0253-99bc-45b3-beb2-9120a67d9ae6",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-30T21:03:02.668Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez Given the CTA post purchase is now also \"get started\" ... does this one still work as \"Get started\" ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9063:30602",
+        "node_offset": {
+          "x": 1271,
+          "y": 717
+        },
+        "stable_path": [
+          "9063:30602"
+        ]
+      },
+      "order_id": "156"
+    },
+    {
+      "id": "1238801802",
+      "uuid": "c6d0e7e1-25ce-4a00-94d5-9f309e9efa35",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-04-30T15:58:52.468Z",
+      "resolved_at": null,
+      "message": "Let's please use the Bundle message as inspiration for this. Overall, I think it's important to note the discount that users are getting when accessing the bundle, considering that they are already paying 4.99 p/month (annual) or 9.99 p/month (monthly). The discount will be substantial and can be part of the Title of the message.\n\nI think we can also afford explaining the value props of Monitor and Relay (which users may not have even heard of) and how they complement VPN protections.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8996:32302",
+        "node_offset": {
+          "x": 180,
+          "y": 343
+        },
+        "stable_path": [
+          "8996:32302"
+        ]
+      },
+      "order_id": "152"
+    },
+    {
+      "id": "1238791045",
+      "uuid": "7e534c72-5a46-43ae-9a21-e78b16c32952",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-04-30T15:52:53.048Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu My preference was to integrate this into the VPN page text rather that make it be a banner. Has that ship sailed?\n\nAlso, can we add these in context of the respective homepages? My other concern was on the sequencing on messages and that is not self-evident without placing the context.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8994:28175",
+        "node_offset": {
+          "x": 1558,
+          "y": 1010
+        },
+        "stable_path": [
+          "8994:28175"
+        ]
+      },
+      "order_id": "149"
+    },
+    {
+      "id": "1238781361",
+      "uuid": "c6b650c6-5314-4cbb-a9b0-1a99b212a3f4",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-04-30T15:47:27.942Z",
+      "resolved_at": null,
+      "message": "In this page we are telling them that the instructions will be on their email but then we have this CTA that doesn't set very clear expectations (what do we mean by explore privacy tools?)\n\nCan we tighten this so that it's clear what's the next step? Maybe the thank you page should say something about clicking the CTA to access all products and that they can also access them by looking at their email or so (establishing that these are equivalent paths).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8996:32701",
+        "node_offset": {
+          "x": 584,
+          "y": 873
+        },
+        "stable_path": [
+          "8996:32701"
+        ]
+      },
+      "order_id": "146"
+    },
+    {
+      "id": "1238773047",
+      "uuid": "904c7ae4-a971-44c6-a96d-55beca9695ba",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-04-30T15:42:51.096Z",
+      "resolved_at": null,
+      "message": "We are also refunding customers on the unused portions of their Subscriptions, are we not? If so, we should mention this.\n\n@Stefan Opsal to confirm the refund aspect.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8996:32701",
+        "node_offset": {
+          "x": 699,
+          "y": 554
+        },
+        "stable_path": [
+          "8996:32701"
+        ]
+      },
+      "order_id": "142"
+    },
+    {
+      "id": "1237300401",
+      "uuid": "61d69950-5a25-4443-8afe-84f8f348a0ba",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-29T20:46:13.400Z",
+      "resolved_at": null,
+      "message": "i think body copy flow needs some tinker. See suggestion above.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-04-30T16:56:20.242Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8996:32302",
+        "node_offset": {
+          "x": 340,
+          "y": 294
+        },
+        "stable_path": [
+          "8996:32302"
+        ]
+      },
+      "order_id": "140"
+    },
+    {
+      "id": "1237299690",
+      "uuid": "55aeaa7a-02d2-417a-b603-83fda8103aa7",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-29T20:45:40.773Z",
+      "resolved_at": null,
+      "message": "Same comment as above",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8994:55021",
+        "node_offset": {
+          "x": 406,
+          "y": 163
+        },
+        "stable_path": [
+          "8994:55021"
+        ]
+      },
+      "order_id": "139"
+    },
+    {
+      "id": "1237299611",
+      "uuid": "41dea53a-0773-4e92-9be3-41a0e0b1fb95",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-29T20:45:36.619Z",
+      "resolved_at": null,
+      "message": "Same comment as above",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8994:54979",
+        "node_offset": {
+          "x": 409,
+          "y": 297
+        },
+        "stable_path": [
+          "8994:54979"
+        ]
+      },
+      "order_id": "138"
+    },
+    {
+      "id": "1237297180",
+      "uuid": "2d54c5d6-a59c-42ca-b4e0-09a3e1c40862",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-29T20:43:39.880Z",
+      "resolved_at": null,
+      "message": "Alt for flow:\n\nPrivacy and security, one supercharged plan \nFor $8.25/month, combine Relay with VPN\u2019s online activity protection and Monitor\u2019s public info removal.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-04-29T22:06:12.189Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8994:54958",
+        "node_offset": {
+          "x": 356,
+          "y": 360
+        },
+        "stable_path": [
+          "8994:54958"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "1237294610",
+      "uuid": "63e1a6c8-b347-49d5-98e5-b8e695e7e9f6",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-29T20:41:36.589Z",
+      "resolved_at": null,
+      "message": "Similar comment as previous, both on header and the link CTA: which value prop appeals the most, do we know? Regardless, I would have a distinct one for the CTA or header (ie, not repeat the yearly piece). So, is the price the appealing thing, or next-level privacy etc? \n\nAlt if price is the thing: \n\nPrivacy protection plan for $8/25/month\nSave on VPN, Monitor's data broker info removal, and Relay's unlimited email masks.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8994:54868",
+        "node_offset": {
+          "x": 413,
+          "y": 246
+        },
+        "stable_path": [
+          "8994:54868"
+        ]
+      },
+      "order_id": "136"
+    },
+    {
+      "id": "1237293085",
+      "uuid": "682143bf-4299-4cc3-8d77-4d382f2f63ba",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-29T20:40:26.544Z",
+      "resolved_at": null,
+      "message": "Is this how it truncates or just an exploration?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8994:54409",
+        "node_offset": {
+          "x": 372,
+          "y": 33
+        },
+        "stable_path": [
+          "8994:54409"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "1237288895",
+      "uuid": "b91e2f2b-f402-4864-b369-dcf8a89fa280",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-29T20:37:08.461Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez Since they already purchased VPN, I worry this could confuse. Did you consider alts more along the lines of \"Turn on VPN\" or \"Finish set-up\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8994:55042",
+        "node_offset": {
+          "x": 334,
+          "y": 554
+        },
+        "stable_path": [
+          "8994:55042"
+        ]
+      },
+      "order_id": "130"
+    },
+    {
+      "id": "1237287407",
+      "uuid": "982054f6-c716-40bf-bb3f-08a556366d4c",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-29T20:35:58.254Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez This version emphasizes checking your email. Any concerns about making it much quieter in the new version?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9010:23234",
+        "node_offset": {
+          "x": 776,
+          "y": 451
+        },
+        "stable_path": [
+          "9010:23234"
+        ]
+      },
+      "order_id": "129"
+    },
+    {
+      "id": "1237282626",
+      "uuid": "4cf4e0e4-f524-4411-a34c-16ad3e01571e",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-29T20:32:08.469Z",
+      "resolved_at": null,
+      "message": "Alt to tighten a wee bit and also clarify what gets cancelled: \n\n\"You'll receive an email receipt with instructions on how to start using your privacy tools. \n\nIf you're a current subscriber of VPN, Monitor, or Relay, those subscriptions will be cancelled and replaced with your new bundled plan, effective today.\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8996:32701",
+        "node_offset": {
+          "x": 438,
+          "y": 648
+        },
+        "stable_path": [
+          "8996:32701"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "1237280700",
+      "uuid": "0c176a86-b03b-4d30-afaf-2c49e6a50eda",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-29T20:30:33.032Z",
+      "resolved_at": null,
+      "message": "Will this imply VPN is ON when it isn't yet, so they think they have protection but don't?  If so, should we consider \"Privacy Protection Plan: Purchase complete.\" (or something along those lines. \"Plan purchased!\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8996:32701",
+        "node_offset": {
+          "x": 634,
+          "y": 246
+        },
+        "stable_path": [
+          "8996:32701"
+        ]
+      },
+      "order_id": "126"
+    },
+    {
+      "id": "1237274311",
+      "uuid": "a3a71908-e930-4a6d-a27f-28305c04e151",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-29T20:25:35.872Z",
+      "resolved_at": null,
+      "message": "Re: value props: \n* Monitor. Similar comment to above. If people don't know what Monitor is, do you need to clue them in by mentioning data breaches? Or does the context of surrounding page before this cover it? As an outsider, \"Data breach clean-up\" is more immediately understandable. Take it or leave it but do we have solid rationale for this value prop? \n* Relay: Is the primary protection from spam? If so, more compelling to say \"Spam protection with unlimited email masks\"? Or \"Unlimited email masks\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8994:54014",
+        "node_offset": {
+          "x": 1162,
+          "y": 505
+        },
+        "stable_path": [
+          "8994:54014"
+        ]
+      },
+      "order_id": "122"
+    },
+    {
+      "id": "1237268595",
+      "uuid": "410cb8fe-9857-40d3-be77-b75ea9163125",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-29T20:21:20.761Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez Is the compelling aspect that it is year-round? Or that it is a bundled plan? If it is the latter, would you consider a CTA along the lines of \"Get Privacy Protection Plan\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8994:53907",
+        "node_offset": {
+          "x": 626,
+          "y": 325
+        },
+        "stable_path": [
+          "8994:53907"
+        ]
+      },
+      "order_id": "121"
+    },
+    {
+      "id": "1237267107",
+      "uuid": "10b42515-8572-46c4-be98-35b19791ed85",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-29T20:20:15.815Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez I like the new headline... when this appears in context, does it still work? Want to make sure it is still clear about what this is offering versus all the stuff around it on individual products.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8994:53907",
+        "node_offset": {
+          "x": 1009,
+          "y": 64
+        },
+        "stable_path": [
+          "8994:53907"
+        ]
+      },
+      "order_id": "120"
+    },
+    {
+      "id": "1237265880",
+      "uuid": "df5ffe28-59a2-4b45-b7ef-a005ebc85bdf",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-29T20:19:20.445Z",
+      "resolved_at": null,
+      "message": "One Person's Opinion, who is overly sensitive to repetition: consider \"Billed annually, $99/first year\"",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-04-29T20:56:56.558Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8994:53907",
+        "node_offset": {
+          "x": 761,
+          "y": 307
+        },
+        "stable_path": [
+          "8994:53907"
+        ]
+      },
+      "order_id": "119"
+    },
+    {
+      "id": "1237264587",
+      "uuid": "5aeca169-4008-4012-aca1-eb624a6e2fe9",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-29T20:18:19.449Z",
+      "resolved_at": null,
+      "message": "What's thinking about sentence vs. title case for name of bundle? While I am usually team sentence case, it feels like title case packages this up in a way that appeals/makes sense. @Laura Lopez",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8994:53907",
+        "node_offset": {
+          "x": 927,
+          "y": 327
+        },
+        "stable_path": [
+          "8994:53907"
+        ]
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "1237258411",
+      "uuid": "f9848041-b48b-40ca-9dbe-465c24f16ed6",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-29T20:13:42.514Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez Alts to tighten (especially wondering if the headline can be shorter for easier scanning and get to the cost more quickly? I don't immediately know what 'public info removal' means without knowing what Monitor is (and only VPN has tool recognition).  Alts: \n\nHeader: Protect your online privacy for $8.25/month\nBody: 3 tools, 1 unbeatable price. \nPlan includes VPN, data breach clean-up, and unlimited email masks for span protection.\n\nHeader alt 2: Privacy Protection Plan for only $8.25/month",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8994:28175",
+        "node_offset": {
+          "x": 1411,
+          "y": 1290
+        },
+        "stable_path": [
+          "8994:28175"
+        ]
+      },
+      "order_id": "117"
+    },
+    {
+      "id": "1237177366",
+      "uuid": "6ecb963b-b6ab-4132-ad4a-bdee5da1e5cb",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-29T19:13:36.260Z",
+      "resolved_at": null,
+      "message": "@Stefan Opsal Here's a proposed layout for the email receipt.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8996:24694",
+        "node_offset": {
+          "x": 1757,
+          "y": 31
+        },
+        "stable_path": [
+          "8996:24694"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "1237130234",
+      "uuid": "2efccf67-1203-4445-a8fc-ef1c89aef861",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-04-29T18:39:31.524Z",
+      "resolved_at": null,
+      "message": "@Stefan Opsal  can we customize this area?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8996:32701",
+        "node_offset": {
+          "x": 502,
+          "y": 477
+        },
+        "stable_path": [
+          "8996:32701"
+        ]
+      },
+      "order_id": "113"
+    },
+    {
+      "id": "1236998021",
+      "uuid": "031900ce-2fc9-46f0-b178-5d20fbe7243e",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-29T17:09:33.678Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu do we have an updated version of this with the shield in the preview version? \n\nI saw an alt of the illustration that used the shield so wasn't sure which version we were going with.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8315:21814",
+        "node_offset": {
+          "x": 45,
+          "y": 32
+        },
+        "stable_path": [
+          "8315:21814"
+        ]
+      },
+      "order_id": "111"
+    },
+    {
+      "id": "1236988157",
+      "uuid": "1694c535-af2d-4246-9f58-47b21175ec0f",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-29T17:02:21.623Z",
+      "resolved_at": null,
+      "message": "@Tony Cinotto I don't think we ever discussed having a new receipt email for the bundle. Do we want to use a version a la subplat (ex below) or is it in-scope to create a net-new one? \n\nThis follows a similar format but cleaned up the language to be a bit more in line with our V&T and added some headings for a better sense of hierarchy.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8976:33880",
+        "node_offset": {
+          "x": 810,
+          "y": 520
+        },
+        "stable_path": [
+          "8976:33880"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "1236975722",
+      "uuid": "eace0506-1ca5-4110-a18f-c7cb470d98c3",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-29T16:53:54.339Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu Went ahead and mocked this up for the receipt. I need to double-check to make sure we can pull these things into the email but seems like we could. \n\nI also changed up some of the labels and body copy to be more in line with our V&T and added some bolding for a better sense of hierarchy. \n\nI feel like the footer sticks out a bit here in contrast...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8976:33880",
+        "node_offset": {
+          "x": 637,
+          "y": 599
+        },
+        "stable_path": [
+          "8976:33880"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "1235346801",
+      "uuid": "4bb5857c-6ee9-4ddd-b4bc-8f7110137573",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-04-28T20:42:39.254Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu does this open in a new tab? if a user decides they dont want to upgrade do they just click the back button?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8888:10790",
+        "node_offset": {
+          "x": 1006,
+          "y": 420
+        },
+        "stable_path": [
+          "8888:10790"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "1235213772",
+      "uuid": "f6000954-d7c9-40a8-a303-b8e5faabf314",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-28T18:56:15.043Z",
+      "resolved_at": null,
+      "message": "No strikethrough price for Monitor Plus",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8965:11308",
+        "node_offset": {
+          "x": 734,
+          "y": 742
+        },
+        "stable_path": [
+          "8965:11308"
+        ]
+      },
+      "order_id": "107"
+    },
+    {
+      "id": "1235203196",
+      "uuid": "0eddd94a-1800-4f71-be69-4eb57f72c706",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-28T18:48:34.552Z",
+      "resolved_at": null,
+      "message": "a11y: can't have context bt the price + CTA\n\nideally price + button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8906:17936",
+        "node_offset": {
+          "x": 1153,
+          "y": 700
+        },
+        "stable_path": [
+          "8906:17936"
+        ]
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "1235199995",
+      "uuid": "218d4e84-12a1-49a3-956c-89f6f9092a99",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-28T18:46:10.431Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu Can we reduce the height here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8923:21174",
+        "node_offset": {
+          "x": 1129,
+          "y": 48
+        },
+        "stable_path": [
+          "8923:21174"
+        ]
+      },
+      "order_id": "105"
+    },
+    {
+      "id": "1235196791",
+      "uuid": "5044b9d5-90b4-4ecf-a6aa-8a1f8c008bfb",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-28T18:43:48.648Z",
+      "resolved_at": null,
+      "message": "Keep brands in\nAdd 30 day back in",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8923:21275",
+        "node_offset": {
+          "x": 1113,
+          "y": 148
+        },
+        "stable_path": [
+          "8923:21275"
+        ]
+      },
+      "order_id": "104"
+    },
+    {
+      "id": "1235112007",
+      "uuid": "97309c94-bb6e-4912-a7ad-08b283b91125",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-28T17:41:37.325Z",
+      "resolved_at": null,
+      "message": "Note from legal review: we may not necessarily need th 30 day $ back guarantee wording here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8923:21275",
+        "node_offset": {
+          "x": 1001,
+          "y": 254
+        },
+        "stable_path": [
+          "8923:21275"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "1233071339",
+      "uuid": "974dc9be-2bdb-4596-a43b-7c23c0114d97",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-25T21:51:42.717Z",
+      "resolved_at": null,
+      "message": "Can we find out (cookies? their FxA? something else) to find out if they're already a user? \n\ncc @Wolasi Konu as discussed during our ad hoc mtg",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8589:26019",
+        "node_offset": {
+          "x": 416,
+          "y": 416
+        },
+        "stable_path": [
+          "8589:26019"
+        ]
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "1233049784",
+      "uuid": "7e8e3f40-ebf5-4160-b36a-b527d76bbb2d",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-25T21:17:15.853Z",
+      "resolved_at": null,
+      "message": "I think this get's lost.  And seems to break the decision making flow... what, then which one (where saving would be considered more)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8906:17936",
+        "node_offset": {
+          "x": 1170,
+          "y": 186
+        },
+        "stable_path": [
+          "8906:17936"
+        ]
+      },
+      "order_id": "101"
+    },
+    {
+      "id": "1232825821",
+      "uuid": "76db1ed8-9d82-43d1-936c-46260af1dbc7",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-25T17:31:46.083Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez FYI added this value prop for monitor plus, feel free to edit",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8906:17936",
+        "node_offset": {
+          "x": 782,
+          "y": 440
+        },
+        "stable_path": [
+          "8906:17936"
+        ]
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "1232792092",
+      "uuid": "a2788e94-1168-4e43-916d-9585b54ab347",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-25T17:03:59.136Z",
+      "resolved_at": null,
+      "message": "There's just soo much to explain. Is there a way to simplify? Wondering what we have to explain.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8906:17451",
+        "node_offset": {
+          "x": 1171,
+          "y": 578
+        },
+        "stable_path": [
+          "8906:17451"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "1231752412",
+      "uuid": "d93dafa6-272b-4d3b-bfcf-dfe56e65246d",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-25T06:22:39.640Z",
+      "resolved_at": null,
+      "message": "@Diana Horn @Laura Lopez @Tony Cinotto we should do an accessibility review if we go with this strikeout treatment",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8909:11031",
+        "node_offset": {
+          "x": 1191,
+          "y": 775
+        },
+        "stable_path": [
+          "8909:11031"
+        ]
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "1231267625",
+      "uuid": "0073c507-6893-49a7-a3d8-cc77bd1a6066",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-24T19:20:59.685Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez can we rephrase this to \"automatic removal of personal info\" ? The current phrasing could be confusing to users i.e. what data? who is requesting removal, and to whom?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8542:20558",
+        "node_offset": {
+          "x": 758,
+          "y": 349
+        },
+        "stable_path": [
+          "8542:20558"
+        ]
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "1225139680",
+      "uuid": "926ad3d1-f48c-4663-8745-538b539bec51",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Miller",
+        "img_url": "https://s3-alpha.figma.com/profile/270be48a-2b7e-4444-8a02-214d79380fcf",
+        "id": "1241057319310543066"
+      },
+      "created_at": "2025-04-21T16:49:53.827Z",
+      "resolved_at": null,
+      "message": "@Diana Horn @Wolasi Konu I copied over content from the onboarding page if you want to include this is the slides",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8795:3571",
+        "node_offset": {
+          "x": 1764,
+          "y": 28
+        },
+        "stable_path": [
+          "8795:3571"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "1223746026",
+      "uuid": "7141b134-200c-4abd-80dd-2c8abdf5c1c0",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-04-19T01:15:08.824Z",
+      "resolved_at": null,
+      "message": "My biggest concern here is that a user who came in for Monitor will see this message and experience confusion at not understanding what this all means (e.g. why VPN? what is it? what do you mean by email masks?) nor why it is being mentioned when all they want to know is what Monitor is about.\n\n(same applies for Relay and VPN)\n\nI think we should put a mindset of \"continuous onboarding\", where we accompany the user in their natural evolution, rather than try to push everything in one go.\n\n@Tony Cinotto @Wolasi Konu @Diana Horn @Laura Lopez",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8363:7398",
+        "node_offset": {
+          "x": 1574,
+          "y": 1414
+        },
+        "stable_path": [
+          "8363:7398"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "1222568829",
+      "uuid": "89674681-0652-4911-9acf-20cd96a0d93a",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-17T22:06:17.722Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez note to self: add content here about 62% vs. buying them individually",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8704:31784",
+        "node_offset": {
+          "x": 1171,
+          "y": 643
+        },
+        "stable_path": [
+          "8704:31784"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "1222564296",
+      "uuid": "20f9a379-4ac3-4654-a2b2-2d7a585a8b01",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-17T21:59:03.137Z",
+      "resolved_at": null,
+      "message": "Will go to subplat checkout",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8673:43473",
+        "node_offset": {
+          "x": 743,
+          "y": 1394
+        },
+        "stable_path": [
+          "8673:43473"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "1222544478",
+      "uuid": "45511465-d0dd-48ba-91fd-1823258f836b",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-17T21:30:55.852Z",
+      "resolved_at": null,
+      "message": "@Diana Horn @Laura Lopez tried a version with the logos but keeping the subhead, i kinda dig it :sweat_smile:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8709:33747",
+        "node_offset": {
+          "x": 730,
+          "y": 33
+        },
+        "stable_path": [
+          "8709:33747"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "1222522560",
+      "uuid": "943501c7-381d-4678-bdb6-2061a82735ba",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-17T21:04:45.360Z",
+      "resolved_at": null,
+      "message": "Thanks @Aarjav Pandya :+1::skin-tone-5:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8648:34319",
+        "node_offset": {
+          "x": 133,
+          "y": 34
+        },
+        "stable_path": [
+          "8648:34319"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "1222518736",
+      "uuid": "7719c626-e26c-476b-80e7-8cca5c4b8f71",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-17T21:00:32.249Z",
+      "resolved_at": null,
+      "message": "@Diana Horn flipped the plus and check icons, wdyt?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8704:31784",
+        "node_offset": {
+          "x": 48,
+          "y": 391
+        },
+        "stable_path": [
+          "8704:31784"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "1222418099",
+      "uuid": "d17708f4-b90f-48ef-8308-93242c685e91",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Miller",
+        "img_url": "https://s3-alpha.figma.com/profile/270be48a-2b7e-4444-8a02-214d79380fcf",
+        "id": "1241057319310543066"
+      },
+      "created_at": "2025-04-17T19:27:18.928Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez Hey Laura, I removed the other options of this page because Tony informed me that the links in the payment part already include the product boilerplate, so we're already fully covered there.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8107:15134",
+        "node_offset": {
+          "x": -19522,
+          "y": 18361
+        },
+        "stable_path": [
+          "8107:15134"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "1222413824",
+      "uuid": "eff035ee-5062-4adc-9772-e439ac091bfb",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-04-17T19:23:46.906Z",
+      "resolved_at": null,
+      "message": "Not sure if it jives with user research to mention this, but I'm curious what my savings might be to bundle instead of buying these tools separately. I don't know if you could squeeze in something like: \"Get 3 tools in 1 plan for a savings of $xx/month\" or \"Save $xx/month with 3 tools in 1 plan.\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8645:31660",
+        "node_offset": {
+          "x": 2638,
+          "y": 2932
+        },
+        "stable_path": [
+          "8645:31660"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "1222377101",
+      "uuid": "5cfeeab0-ecb0-481d-af79-684171344d04",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-17T18:52:21.003Z",
+      "resolved_at": null,
+      "message": "The savings is actually a savings of 62% for annual bundle compared to all three product monthly",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8642:23482",
+        "node_offset": {
+          "x": 1216,
+          "y": 753
+        },
+        "stable_path": [
+          "8642:23482"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "1222373112",
+      "uuid": "43f4ccae-2a49-4031-bc4c-bd2b6187a756",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-04-17T18:49:17.150Z",
+      "resolved_at": null,
+      "message": "With the $9.99 clause at the end, I keep reading it as meaning that you are paying $9.99 a month to go online (although I know that isn't what you're saying here). Could be just my brain, but here's a riff:\n\nFor just $9.99/month, you can protect your privacy every time you go online",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8645:31660",
+        "node_offset": {
+          "x": 3242,
+          "y": 1800
+        },
+        "stable_path": [
+          "8645:31660"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "1222372281",
+      "uuid": "5c8df39d-9d84-4fd6-b171-bc1dd3bcb1fd",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-04-17T18:48:40.556Z",
+      "resolved_at": null,
+      "message": "Riff: Get all 3 Mozilla privacy products",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8673:43473",
+        "node_offset": {
+          "x": 1609,
+          "y": 3357
+        },
+        "stable_path": [
+          "8673:43473"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "1222371620",
+      "uuid": "a74d1bc9-a2b0-4dbc-8939-715b3bd80021",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-04-17T18:48:10.061Z",
+      "resolved_at": null,
+      "message": "Riff on this line \"Bundle it with other privacy protecting products and save.\"",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-04-17T19:03:46.550Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8673:43473",
+        "node_offset": {
+          "x": 1221,
+          "y": 3149
+        },
+        "stable_path": [
+          "8673:43473"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "1222370522",
+      "uuid": "37cdcaa5-79f4-41a5-94aa-d1088e07365b",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-04-17T18:47:17.900Z",
+      "resolved_at": null,
+      "message": "I think these ones with this quick callout work better for me, because it says \"bundle\" - did you have any explorations communicating the bundling concept in the headline, like \"Get 3 privacy protecting tools for $9.99 a month\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8645:31685",
+        "node_offset": {
+          "x": 202,
+          "y": 205
+        },
+        "stable_path": [
+          "8645:31685"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1222370178",
+      "uuid": "4fce715b-5834-4c42-9d50-8c418460e7ba",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-04-17T18:47:01.500Z",
+      "resolved_at": null,
+      "message": "In terms of IA, is it more important/impactful to know what the three tools are vs. what they give you? I'd expect the latter to be more important for brand new users especially.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8645:31662",
+        "node_offset": {
+          "x": 934,
+          "y": 167
+        },
+        "stable_path": [
+          "8645:31662"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1222369779",
+      "uuid": "4923e153-0afc-49ac-b61b-305ae030c8c1",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-17T18:46:41.967Z",
+      "resolved_at": null,
+      "message": "I think these are all very clear!",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-04-21T20:18:51.478Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8645:31660",
+        "node_offset": {
+          "x": 3474,
+          "y": 9205
+        },
+        "stable_path": [
+          "8645:31660"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1222368414",
+      "uuid": "62376557-1d9f-4fbe-a7ba-a1f19f001857",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-17T18:45:39.325Z",
+      "resolved_at": null,
+      "message": "These 2 variations use the term \"privacy plan\", but that term doesn't appear below. \"Bundle\" seems like the more prominent term.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-04-17T18:46:04.939Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8645:31832",
+        "node_offset": {
+          "x": 951,
+          "y": 168
+        },
+        "stable_path": [
+          "8645:31832"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1222367751",
+      "uuid": "99b19fcf-344a-4b99-8cad-1dabaa3bf6cd",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-04-17T18:45:09.256Z",
+      "resolved_at": null,
+      "message": "Maybe there's a visual could do some of the lifting to communicate - you get 3 things as part of this?",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-04-17T18:46:12.447Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8645:31662",
+        "node_offset": {
+          "x": 182,
+          "y": 233
+        },
+        "stable_path": [
+          "8645:31662"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1222322972",
+      "uuid": "28d7958c-1002-4ea4-ac59-4085a4397039",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-04-17T18:10:35.916Z",
+      "resolved_at": null,
+      "message": "The content present in the lower tier sound more powerful to me \"Unlimited...\"  vs this where you are in upper value",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8643:21050",
+        "node_offset": {
+          "x": 726,
+          "y": 331
+        },
+        "stable_path": [
+          "8643:21050"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1222318431",
+      "uuid": "d4d313e3-cff2-4414-9c48-7223d171c85b",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-04-17T18:06:58.230Z",
+      "resolved_at": null,
+      "message": "There might be an opportunity to run some tests on the placement of this banner. Personally, I don\u2019t think this location is very effective. It could be helpful to review the page analytics to see how many users actually scroll down to this level. I might be wrong, but based on the type of traffic we usually get, I doubt many users reach this point and discover the banner. Testing a couple of different placements could be a valuable experiment.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8643:35881",
+        "node_offset": {
+          "x": 1783,
+          "y": 3053
+        },
+        "stable_path": [
+          "8643:35881"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "1222313349",
+      "uuid": "44076cbc-c771-47b5-b293-052e78648729",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Zachery Sutton",
+        "img_url": "https://s3-alpha.figma.com/profile/2a1dc37d-4206-407a-8e5d-c246def9ba40",
+        "id": "976544365619812549"
+      },
+      "created_at": "2025-04-17T18:02:39.914Z",
+      "resolved_at": null,
+      "message": "Really feeling this design treatment and use of the ( + )",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-04-17T19:08:40.429Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8643:21050",
+        "node_offset": {
+          "x": 1220,
+          "y": 571
+        },
+        "stable_path": [
+          "8643:21050"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "1222312418",
+      "uuid": "802eb7ba-844c-4abf-a066-2222b7e028a1",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-04-17T18:01:52.943Z",
+      "resolved_at": null,
+      "message": "Personally, I find the content presented this way a bit odd \u2014 it might even pose a challenge for translations in some languages where this structure could be grammatically incorrect.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-04-17T19:08:29.200Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8643:21095",
+        "node_offset": {
+          "x": 726,
+          "y": 391
+        },
+        "stable_path": [
+          "8643:21095"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "1222309653",
+      "uuid": "26baf3a6-59fb-42eb-b2c7-99fc1d9fdcf2",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-04-17T17:59:37.017Z",
+      "resolved_at": null,
+      "message": "I think the primary button should be used only for the recommended option, and the others should use the secondary style.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-04-17T19:08:02.364Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8643:21050",
+        "node_offset": {
+          "x": 956,
+          "y": 851
+        },
+        "stable_path": [
+          "8643:21050"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1222270929",
+      "uuid": "a6e3a3db-5ebb-47ae-bb8f-1105196a723d",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-04-17T17:29:44.214Z",
+      "resolved_at": null,
+      "message": "This one is slightly smaller than the one below, I wonder if we could match the size.\n\nAnd maybe a CTA that works on its own, w/o reading the stuff above, like 'See what info about you is exposed' but in better",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8643:35881",
+        "node_offset": {
+          "x": 1079,
+          "y": 2545
+        },
+        "stable_path": [
+          "8643:35881"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1222267919",
+      "uuid": "ecd2d0ad-86a0-4d6a-8799-acd321c5c835",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-04-17T17:27:28.943Z",
+      "resolved_at": null,
+      "message": "I wonder if this could be even more prominent, probably a good place to experiment",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8643:35881",
+        "node_offset": {
+          "x": 1374,
+          "y": 3628
+        },
+        "stable_path": [
+          "8643:35881"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "1222267498",
+      "uuid": "53b71c74-39a0-413f-b6e1-c1682debbb44",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-04-17T17:27:09.053Z",
+      "resolved_at": null,
+      "message": "This is all looking great! \n\nIf I remember correctly, Monitor isn't available in certain locals, how will that impact the structure of the bundels if at all?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8643:35881",
+        "node_offset": {
+          "x": 1247,
+          "y": 3256
+        },
+        "stable_path": [
+          "8643:35881"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1222266602",
+      "uuid": "55d5d409-bad6-4969-b90f-31a62b4151df",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-04-17T17:26:30.382Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu do we want to look at the new visual style from the banner here?\n\ncc @Diana Horn",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8643:35881",
+        "node_offset": {
+          "x": 1285,
+          "y": 209
+        },
+        "stable_path": [
+          "8643:35881"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1222262639",
+      "uuid": "a7fa8da6-259c-4456-8a8a-739bf9d37f6f",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jamie Sigadel",
+        "img_url": "https://www.gravatar.com/avatar/53c8c0a1d0c0f42134e8d49ced9aecb6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1403078798096954142"
+      },
+      "created_at": "2025-04-17T17:23:36.459Z",
+      "resolved_at": null,
+      "message": "I like the call-out/distinction here",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-04-17T18:29:58.013Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8643:21050",
+        "node_offset": {
+          "x": 1208,
+          "y": 392
+        },
+        "stable_path": [
+          "8643:21050"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1222261583",
+      "uuid": "618f2b72-9a85-4aa6-bff5-3d45481453b4",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jamie Sigadel",
+        "img_url": "https://www.gravatar.com/avatar/53c8c0a1d0c0f42134e8d49ced9aecb6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1403078798096954142"
+      },
+      "created_at": "2025-04-17T17:22:50.380Z",
+      "resolved_at": null,
+      "message": "There might need to be more clarification for what Monitor/Relay are for users who are less familiar with those brands",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8643:43568",
+        "node_offset": {
+          "x": 929,
+          "y": 179
+        },
+        "stable_path": [
+          "8643:43568"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1222261361",
+      "uuid": "3c953760-5175-4742-b36f-f45e35b77abf",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Zachery Sutton",
+        "img_url": "https://s3-alpha.figma.com/profile/2a1dc37d-4206-407a-8e5d-c246def9ba40",
+        "id": "976544365619812549"
+      },
+      "created_at": "2025-04-17T17:22:41.039Z",
+      "resolved_at": null,
+      "message": "Love the update here.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-04-17T18:29:04.051Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8643:43568",
+        "node_offset": {
+          "x": 30,
+          "y": 392
+        },
+        "stable_path": [
+          "8643:43568"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1222260669",
+      "uuid": "0b18575c-c9b6-411d-962a-aa9028643196",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jamie Sigadel",
+        "img_url": "https://www.gravatar.com/avatar/53c8c0a1d0c0f42134e8d49ced9aecb6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1403078798096954142"
+      },
+      "created_at": "2025-04-17T17:22:12.378Z",
+      "resolved_at": null,
+      "message": "Maybe center the shield here? Not sure if that would make it so the text is harder to read but it looks like there's some room to nudge things over towards the right (or make the illustration smaller)",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-04-17T18:28:57.578Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8643:20941",
+        "node_offset": {
+          "x": -4809,
+          "y": -643
+        },
+        "stable_path": [
+          "8643:20941"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1222259354",
+      "uuid": "5519d87e-1d38-439e-83ff-77ed6ad65b02",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-04-17T17:21:17.057Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu nice update here. I do wonder if we can play with other card container treatments along with this?\n\ncc @Diana Horn",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8643:43568",
+        "node_offset": {
+          "x": 313,
+          "y": 62
+        },
+        "stable_path": [
+          "8643:43568"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1222258921",
+      "uuid": "7478f1b2-b58a-433c-a4b3-ccf4be22e9c4",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Rick Russie",
+        "img_url": "https://s3-alpha.figma.com/profile/1dc52e8f-9d10-4da2-bc70-7f851ad13194",
+        "id": "932288466684909710"
+      },
+      "created_at": "2025-04-17T17:20:55.933Z",
+      "resolved_at": null,
+      "message": "I like this style. looks nice!",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-04-17T18:28:16.479Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8643:43568",
+        "node_offset": {
+          "x": 198,
+          "y": 122
+        },
+        "stable_path": [
+          "8643:43568"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "1222117751",
+      "uuid": "e9989e4a-15e9-483e-b938-089a069ac4c5",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-17T15:45:14.041Z",
+      "resolved_at": null,
+      "message": "Should this just focus on getting all three products?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8642:23482",
+        "node_offset": {
+          "x": 1215,
+          "y": 332
+        },
+        "stable_path": [
+          "8642:23482"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1222116542",
+      "uuid": "05a695ca-6226-4473-aeed-9f93930a272b",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-17T15:44:34.116Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez Wondering if we should not call it \"the privacy plan\", maybe just focus on all 3 products?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8642:23482",
+        "node_offset": {
+          "x": 1036,
+          "y": 129
+        },
+        "stable_path": [
+          "8642:23482"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1222082378",
+      "uuid": "c86ba212-4824-409b-b054-5d07cd975cb9",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-17T15:25:55.286Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu If someone taps the +, will that open a drawer with what that includes? Or is the plus to balance the alignment?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8590:18434",
+        "node_offset": {
+          "x": 971,
+          "y": 367
+        },
+        "stable_path": [
+          "8590:18434"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "1222039943",
+      "uuid": "14c2930a-4d2b-4066-88e8-02797bbdb5c0",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-17T15:03:28.741Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu should we use the icon/name pill here? too much?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8606:10463",
+        "node_offset": {
+          "x": 1224,
+          "y": 469
+        },
+        "stable_path": [
+          "8606:10463"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1222035925",
+      "uuid": "b09e8c5e-3126-4f51-9c0c-267ad1457452",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-17T15:01:22.190Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu Does it make sense to switch the + and check for the non-free plans?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8590:18434",
+        "node_offset": {
+          "x": 1072,
+          "y": 184
+        },
+        "stable_path": [
+          "8590:18434"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1221978057",
+      "uuid": "bf0b1c13-2926-40d6-9ca9-0e469d46244b",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-17T14:33:35.935Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu riff w unlimited email masks to prevent spam\n\nI do not want to simply say \"prevent spam\" on its on bc that hides how that happens.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8637:13759",
+        "node_offset": {
+          "x": 1048,
+          "y": 165
+        },
+        "stable_path": [
+          "8637:13759"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1221422922",
+      "uuid": "724f78ce-a167-4f3c-9103-3f76395dfbcd",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-17T09:35:14.487Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez @Wolasi Konu @Jessica Miller This layout looks great. Let's go forward with this and the recent iteration of content from @Laura Lopez",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8623:20281",
+        "node_offset": {
+          "x": 23,
+          "y": 111
+        },
+        "stable_path": [
+          "8623:20281"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1221412988",
+      "uuid": "a2b55603-2ca8-458d-8596-0c8cc1234b42",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-17T09:30:38.262Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez Can we slide in 33% here to? Save 33% on...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8615:13524",
+        "node_offset": {
+          "x": 389,
+          "y": 174
+        },
+        "stable_path": [
+          "8615:13524"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1220827151",
+      "uuid": "99323bdf-cc35-4a6e-a7cf-cb2ee767dc08",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-17T01:25:22.267Z",
+      "resolved_at": null,
+      "message": "I like the tab visuals here. It's starting to get a bit noisy with the other icons.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8617:19978",
+        "node_offset": {
+          "x": 942,
+          "y": 170
+        },
+        "stable_path": [
+          "8617:19978"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1220758729",
+      "uuid": "6baefb87-ba46-4daf-9f3c-8f5fde28c67d",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-16T23:17:37.005Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez should we use the \"prevent spam\" value prop we've been testing for the relay integration? I'm worried that \"email masks\" is too technical, especially on the VPN and Monitor marketing pages.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8542:19886",
+        "node_offset": {
+          "x": 984,
+          "y": 174
+        },
+        "stable_path": [
+          "8542:19886"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1220656978",
+      "uuid": "667d5019-6c1f-4281-8dec-4f3347e38b02",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-16T21:04:57.381Z",
+      "resolved_at": null,
+      "message": "Overall, I think the $9.99 approach is most compelling and clear--the other ones took me a bit longer to grasp the math on. But I think all are worth testing!",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-04-16T22:10:53.571Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8585:12845",
+        "node_offset": {
+          "x": 413,
+          "y": 64
+        },
+        "stable_path": [
+          "8585:12845"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1220655252",
+      "uuid": "1f1d20fd-da40-4c99-9f30-3c42fb0bc75d",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-16T21:03:17.699Z",
+      "resolved_at": null,
+      "message": "What if this version included the monthly breakdown? \"just $119.88 in our yearly plan (less than $10/month!).\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8578:28074",
+        "node_offset": {
+          "x": 865,
+          "y": 205
+        },
+        "stable_path": [
+          "8578:28074"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1220654140",
+      "uuid": "b974212e-decb-4134-bd0d-669452900c02",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-16T21:02:08.300Z",
+      "resolved_at": null,
+      "message": "OPO: \"info removal from data brokers\" is a bit confusing to me. A few riffs based on the Monitor marketing page: \n* personal info removal\n* data broker removal\n* data exposure monitoring\n* data exposure protection",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8542:19886",
+        "node_offset": {
+          "x": 789,
+          "y": 153
+        },
+        "stable_path": [
+          "8542:19886"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "1220651627",
+      "uuid": "b9a623dd-f20a-410e-9c67-56dae7d8e22f",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-16T20:59:56.486Z",
+      "resolved_at": null,
+      "message": "SS: Something about saying 3-in-1 and then 1 again later isn't sitting right with me. I think because the 1 is already the price right? What if it was \"Get 3 privacy and identity protection tools for 1 unbeatable price\"",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-04-16T22:12:56.412Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        },
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-04-16T22:35:08.851Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8578:28074",
+        "node_offset": {
+          "x": 443,
+          "y": 29
+        },
+        "stable_path": [
+          "8578:28074"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1220649816",
+      "uuid": "d027c58f-5cd7-4619-a728-07f49b161832",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-16T20:58:25.059Z",
+      "resolved_at": null,
+      "message": "not sure what style guide FXI products are using but Firefox uses spaces on either side of an em dash",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8559:27939",
+        "node_offset": {
+          "x": 1039,
+          "y": 216
+        },
+        "stable_path": [
+          "8559:27939"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "1220649124",
+      "uuid": "b2892def-3aee-4bb4-9e4f-77305a5837c5",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-16T20:57:47.523Z",
+      "resolved_at": null,
+      "message": "OPO: This one might be stronger when you lead with the savings. Here's a riff that combines the approach from below:\n\n\"Save 33% on 3-in-1 privacy protection for everything you do online\"",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-04-16T22:12:29.745Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-04-16T22:12:36.058Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        },
+        {
+          "emoji": ":shaking_face:",
+          "created_at": "2025-04-16T22:12:34.129Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "715:1807",
+        "node_offset": {
+          "x": -996,
+          "y": 18742
+        },
+        "stable_path": [
+          "715:1807"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1220647330",
+      "uuid": "bddabf00-9146-4240-ab32-10ac5fdae35c",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-16T20:56:12.405Z",
+      "resolved_at": null,
+      "message": "OPO: This button is super effective!",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-04-16T22:13:57.513Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8542:19886",
+        "node_offset": {
+          "x": 673,
+          "y": 287
+        },
+        "stable_path": [
+          "8542:19886"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1220645906",
+      "uuid": "c0043955-5428-4db5-bd78-0a18b1389d66",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-16T20:54:58.517Z",
+      "resolved_at": null,
+      "message": "OPO: What if this headline was more active? e.g. Protect your privacy every time you're online for $9.99 per month",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8542:19886",
+        "node_offset": {
+          "x": 423,
+          "y": 21
+        },
+        "stable_path": [
+          "8542:19886"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1220642027",
+      "uuid": "489b4def-11eb-4993-9366-5041e4cfbabb",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-16T20:51:38.590Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu @Laura Lopez @Tony Cinotto @Jessica Miller What if/should we/maybe..... we include the logos with the product name to indicate they are 3 separate products? And we drop the Mozilla or Firefox.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8631:61930",
+        "node_offset": {
+          "x": 1166,
+          "y": 103
+        },
+        "stable_path": [
+          "8631:61930"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1220388820",
+      "uuid": "ad1ffb0e-e4ac-4c7b-b92d-ca4c72e4e815",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jessica Miller",
+        "img_url": "https://s3-alpha.figma.com/profile/270be48a-2b7e-4444-8a02-214d79380fcf",
+        "id": "1241057319310543066"
+      },
+      "created_at": "2025-04-16T17:42:14.503Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu @Laura Lopez maybe we could consider bolding only the parts that say \"everything in monitor\" and \"everything in Monitor plus\" to bring emphasis to that, and to also downplay the free version",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-04-17T15:15:03.425Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8542:20558",
+        "node_offset": {
+          "x": 1229,
+          "y": 210
+        },
+        "stable_path": [
+          "8542:20558"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1218469386",
+      "uuid": "62213b4e-43e3-40c1-b028-63d07a8cd09e",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-15T18:50:21.675Z",
+      "resolved_at": null,
+      "message": "Jess: link to specific products? \n\nTony: cyclical, each product will have a link back to this pricing grid",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8542:20477",
+        "node_offset": {
+          "x": 1121,
+          "y": 563
+        },
+        "stable_path": [
+          "8542:20477"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1216497732",
+      "uuid": "e03af9da-7b03-436a-aee6-6ed31fee6eba",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-14T19:21:48.920Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez would love your feedback on this line",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8424:19846",
+        "node_offset": {
+          "x": 584,
+          "y": 985
+        },
+        "stable_path": [
+          "8424:19846"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1216496484",
+      "uuid": "9a2cc934-5a04-4342-995d-5e11963ea38f",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-14T19:20:50.846Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez can you take a pass at this too? The first sentence I pulled from the Relay marketing page, the second I came up with to promote the bundle. I used this format for Monitor and VPN.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8427:20567",
+        "node_offset": {
+          "x": 970,
+          "y": 126
+        },
+        "stable_path": [
+          "8427:20567"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1216475571",
+      "uuid": "da7c7ce1-9712-4a07-971e-ed23ca7b7301",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-14T19:04:15.806Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez note to self: try 2 variants, 1 with names (Relay Premium will be repeated) and one with benefits as headlines",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8427:20567",
+        "node_offset": {
+          "x": 852,
+          "y": 287
+        },
+        "stable_path": [
+          "8427:20567"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1216456779",
+      "uuid": "11aee51c-6a70-4cb0-8bb5-5fb7680b1cfc",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-14T18:49:55.075Z",
+      "resolved_at": null,
+      "message": "Diana - save 33% + price? \n\nTony - emphasize saving",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8494:20684",
+        "node_offset": {
+          "x": 878,
+          "y": 204
+        },
+        "stable_path": [
+          "8494:20684"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1216454289",
+      "uuid": "6c1b23f1-f396-4f90-b1aa-36db9dda5661",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-14T18:48:04.550Z",
+      "resolved_at": null,
+      "message": "Tony - feedback that it's unethical that we advertise 9.99 but it's billed annually/yearly\n\nDiana - maybe leave this since it's right above the pricing grid?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8494:20771",
+        "node_offset": {
+          "x": 541,
+          "y": 198
+        },
+        "stable_path": [
+          "8494:20771"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1216451073",
+      "uuid": "c87ed24b-a5f1-442f-b848-1fdb55f0eff9",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-14T18:45:44.536Z",
+      "resolved_at": null,
+      "message": "Tony - Unlimited masks - for paid. Users get 5 free already",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8494:20771",
+        "node_offset": {
+          "x": 963,
+          "y": 164
+        },
+        "stable_path": [
+          "8494:20771"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1216450676",
+      "uuid": "5bb498b3-cd44-47f0-a439-8b7d807713f1",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-14T18:45:27.292Z",
+      "resolved_at": null,
+      "message": "Tony: Lean on data brokers\n\nData breach monitor that everyone gets with free\n\nRemoval: data brokers side",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8494:20771",
+        "node_offset": {
+          "x": 784,
+          "y": 167
+        },
+        "stable_path": [
+          "8494:20771"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1216447782",
+      "uuid": "bce90993-53ac-46ba-89f1-c7dc8e3e4034",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-14T18:43:17.495Z",
+      "resolved_at": null,
+      "message": "Don't call out Firefox (yet). Don't lead with Fx",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8494:20684",
+        "node_offset": {
+          "x": 441,
+          "y": 62
+        },
+        "stable_path": [
+          "8494:20684"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1216326356",
+      "uuid": "b91fc209-d696-452a-81b8-127d6f975ce3",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-14T17:12:50.274Z",
+      "resolved_at": null,
+      "message": "@Stefan Opsal does this version exist in 3.0?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8511:15669",
+        "node_offset": {
+          "x": 605,
+          "y": 260
+        },
+        "stable_path": [
+          "8511:15669"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1212734106",
+      "uuid": "574920ea-d890-43b7-9b20-e5f3c829c602",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-04-10T23:09:27.400Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez This headline seems the most clear to me as to what the offering is.",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-04-14T16:16:45.125Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8366:17213",
+        "node_offset": {
+          "x": 1581,
+          "y": 1604
+        },
+        "stable_path": [
+          "8366:17213"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1212499145",
+      "uuid": "2023b28c-5082-47f4-848a-b32e7c763849",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-04-10T19:12:35.658Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez - As another theme, wonder what you think about simplicity.\n\nIdeas like... \nOnline protection made simple -- and affordable\nAn affordable and simple way to stay protected online\nAll 3 security tools for one low price\nOne monthly bill, three tools to keep you safe online",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8366:17213",
+        "node_offset": {
+          "x": 1417,
+          "y": 125
+        },
+        "stable_path": [
+          "8366:17213"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1212487509",
+      "uuid": "8365988e-efbc-4a08-9548-12cb0b645049",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-04-10T19:03:12.129Z",
+      "resolved_at": null,
+      "message": "H: Get more protection for less B: Bundle 3 Firefox privacy tools-VPN, data breach monitoring and removal, and email masks for just $10/month.",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-04-10T23:05:50.892Z",
+          "user": {
+            "id": "1298754465457927621",
+            "handle": "Tina Vaamonde",
+            "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png"
+          }
+        },
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-04-10T19:06:05.459Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8366:17213",
+        "node_offset": {
+          "x": 463,
+          "y": 1057
+        },
+        "stable_path": [
+          "8366:17213"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1212487049",
+      "uuid": "8e731ccb-1723-4dd4-a4f7-1755ad3b5e74",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-04-10T19:02:49.288Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez - The options that don't mention protection or privacy in the headline don't seem as effective, as they're a little unclear about what the plan is.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-04-10T19:06:23.440Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8391:1187",
+        "node_offset": {
+          "x": 408,
+          "y": 249
+        },
+        "stable_path": [
+          "8391:1187"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1212485549",
+      "uuid": "fe7cf760-81fc-4e78-8a37-c594f86340c9",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-04-10T19:01:36.783Z",
+      "resolved_at": null,
+      "message": "Riff: Bundle your protection and save B: Protect your identity, stay anonymous online and keep your personal info private for just $10/month.",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-04-10T19:03:29.369Z",
+          "user": {
+            "id": "1169379060174051036",
+            "handle": "Katie Lower",
+            "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png"
+          }
+        },
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-04-10T19:05:53.053Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        },
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-04-10T21:44:58.830Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8366:17213",
+        "node_offset": {
+          "x": 433,
+          "y": 797
+        },
+        "stable_path": [
+          "8366:17213"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1212484174",
+      "uuid": "d0a0983b-d7bb-464a-b110-8d76fbba4762",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-10T19:00:33.915Z",
+      "resolved_at": null,
+      "message": "Q from Jeff: Do we know the split of customers for each product? \n\nIf we know 95% of people are paid Relay users, can this msg just say \"Add VPN and Monitor for $X more\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8391:1810",
+        "node_offset": {
+          "x": 403,
+          "y": 238
+        },
+        "stable_path": [
+          "8391:1810"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1210447179",
+      "uuid": "d853bbbb-66cb-406f-a731-b74077022a3c",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-09T18:52:15.931Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \n\nPer Tony: more context setting here\nVPN: download\nRelay/Monitor: websites\n\nWhole page: get started energy here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8322:30262",
+        "node_offset": {
+          "x": 872,
+          "y": 270
+        },
+        "stable_path": [
+          "8322:30262"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1206344017",
+      "uuid": "4a8291fe-5131-4831-940c-0869dd24cf42",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-07T18:55:59.540Z",
+      "resolved_at": null,
+      "message": "Laura recommends using \"bundle\" versus giving it a name.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8273:24192",
+        "node_offset": {
+          "x": 34,
+          "y": 63
+        },
+        "stable_path": [
+          "8273:24192"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1206339656",
+      "uuid": "20d6f667-b4e1-4445-b48c-27ae6a9e5c5b",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-07T18:52:49.856Z",
+      "resolved_at": null,
+      "message": "Do we think it's beneficial to see the 30 day money back here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8273:24192",
+        "node_offset": {
+          "x": 937,
+          "y": 273
+        },
+        "stable_path": [
+          "8273:24192"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1206240813",
+      "uuid": "07470418-ac47-4b0b-aebb-97075fedf295",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-07T17:39:34.043Z",
+      "resolved_at": null,
+      "message": "@Diana Horn reworked the icons, wdyt?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8273:24192",
+        "node_offset": {
+          "x": 282,
+          "y": 70
+        },
+        "stable_path": [
+          "8273:24192"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1206129349",
+      "uuid": "2720e0ab-a976-4a04-92ff-27e65f75622f",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-07T16:21:17.448Z",
+      "resolved_at": null,
+      "message": "@Vesta Zare @Tony Cinotto Here are the current sign in flows between Relay, Monitor and Accounts.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8108:15541",
+        "node_offset": {
+          "x": -10798,
+          "y": -1743
+        },
+        "stable_path": [
+          "8108:15541"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1206126226",
+      "uuid": "2dffa0f1-aad1-442a-9f1b-fc734ec970f2",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-04-07T16:19:15.664Z",
+      "resolved_at": null,
+      "message": "Jessica Miller Wolasi Konu Laura Lopez Let's do the explorations each task in each task's page (versus all explorations on page.  I moved the bundle banner explorations here.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-04-07T16:50:26.007Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        },
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-04-07T16:28:56.761Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "715:1807",
+        "node_offset": {
+          "x": -11082,
+          "y": 11124
+        },
+        "stable_path": [
+          "715:1807"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1196740708",
+      "uuid": "c61ac765-896c-485e-9da1-35af9f09339f",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-03-31T19:27:05.405Z",
+      "resolved_at": null,
+      "message": "@Jessica Miller @Wolasi Konu Found the Relay + VPN bundle assets",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8112:18602",
+        "node_offset": {
+          "x": 522,
+          "y": 9039
+        },
+        "stable_path": [
+          "8112:18602"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1264633541",
+      "uuid": "422b716d-c81e-414f-866e-35181d47329b",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jamie Sigadel",
+        "img_url": "https://www.gravatar.com/avatar/53c8c0a1d0c0f42134e8d49ced9aecb6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1403078798096954142"
+      },
+      "created_at": "2025-05-20T15:57:58.401Z",
+      "resolved_at": null,
+      "message": "I like this first concept treatment with the banner + boxes but maybe with the image of #2?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9372:30099",
+        "node_offset": {
+          "x": 4140,
+          "y": 5213
+        },
+        "stable_path": [
+          "9372:30099"
+        ]
+      },
+      "order_id": "168"
+    },
+    {
+      "id": "1236975722",
+      "uuid": "eace0506-1ca5-4110-a18f-c7cb470d98c3",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-29T16:53:54.339Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu Went ahead and mocked this up for the receipt. I need to double-check to make sure we can pull these things into the email but seems like we could. \n\nI also changed up some of the labels and body copy to be more in line with our V&T and added some bolding for a better sense of hierarchy. \n\nI feel like the footer sticks out a bit here in contrast...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8976:33880",
+        "node_offset": {
+          "x": 637,
+          "y": 599
+        },
+        "stable_path": [
+          "8976:33880"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "1235203196",
+      "uuid": "0eddd94a-1800-4f71-be69-4eb57f72c706",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-04-28T18:48:34.552Z",
+      "resolved_at": null,
+      "message": "a11y: can't have context bt the price + CTA\n\nideally price + button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8906:17936",
+        "node_offset": {
+          "x": 1153,
+          "y": 700
+        },
+        "stable_path": [
+          "8906:17936"
+        ]
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "1231752412",
+      "uuid": "d93dafa6-272b-4d3b-bfcf-dfe56e65246d",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-04-25T06:22:39.640Z",
+      "resolved_at": null,
+      "message": "@Diana Horn @Laura Lopez @Tony Cinotto we should do an accessibility review if we go with this strikeout treatment",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8909:11031",
+        "node_offset": {
+          "x": 1191,
+          "y": 775
+        },
+        "stable_path": [
+          "8909:11031"
+        ]
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "1222262639",
+      "uuid": "a7fa8da6-259c-4456-8a8a-739bf9d37f6f",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jamie Sigadel",
+        "img_url": "https://www.gravatar.com/avatar/53c8c0a1d0c0f42134e8d49ced9aecb6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1403078798096954142"
+      },
+      "created_at": "2025-04-17T17:23:36.459Z",
+      "resolved_at": null,
+      "message": "I like the call-out/distinction here",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-04-17T18:29:58.013Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8643:21050",
+        "node_offset": {
+          "x": 1208,
+          "y": 392
+        },
+        "stable_path": [
+          "8643:21050"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1222261583",
+      "uuid": "618f2b72-9a85-4aa6-bff5-3d45481453b4",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jamie Sigadel",
+        "img_url": "https://www.gravatar.com/avatar/53c8c0a1d0c0f42134e8d49ced9aecb6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1403078798096954142"
+      },
+      "created_at": "2025-04-17T17:22:50.380Z",
+      "resolved_at": null,
+      "message": "There might need to be more clarification for what Monitor/Relay are for users who are less familiar with those brands",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8643:43568",
+        "node_offset": {
+          "x": 929,
+          "y": 179
+        },
+        "stable_path": [
+          "8643:43568"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1222260669",
+      "uuid": "0b18575c-c9b6-411d-962a-aa9028643196",
+      "file_key": "Dq4emgtDKqh3Oi4wVuUxPH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jamie Sigadel",
+        "img_url": "https://www.gravatar.com/avatar/53c8c0a1d0c0f42134e8d49ced9aecb6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1403078798096954142"
+      },
+      "created_at": "2025-04-17T17:22:12.378Z",
+      "resolved_at": null,
+      "message": "Maybe center the shield here? Not sure if that would make it so the text is harder to read but it looks like there's some room to nudge things over towards the right (or make the illustration smaller)",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-04-17T18:28:57.578Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8643:20941",
+        "node_offset": {
+          "x": -4809,
+          "y": -643
+        },
+        "stable_path": [
+          "8643:20941"
+        ]
+      },
+      "order_id": "64"
+    }
+  ]
+}

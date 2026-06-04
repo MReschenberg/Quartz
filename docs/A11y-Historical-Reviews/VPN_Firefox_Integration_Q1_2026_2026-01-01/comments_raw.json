@@ -1,0 +1,4679 @@
+{
+  "unresolved": [
+    {
+      "id": "1647151217",
+      "uuid": "05f3ac08-a40b-4d07-b71e-950f54eb7917",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-02-24T21:11:42.539Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez Per convo with Wolasi-- \n* Combo of existing + this\n* First few times a user experiences this (3 times?) - show Kit version\n* 4th time - show basic version with close all tabs/continue without VPN",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "22265:67201",
+        "node_offset": {
+          "x": 927,
+          "y": 312
+        },
+        "stable_path": [
+          "22265:67201"
+        ]
+      },
+      "order_id": "316"
+    },
+    {
+      "id": "1629315784",
+      "uuid": "ee873a62-2376-417c-80dc-bc8bacaa40eb",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Lesley Norton",
+        "img_url": "https://www.gravatar.com/avatar/d3ff342e687bbc7309c013367f326478?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "763439241312691616"
+      },
+      "created_at": "2026-02-11T17:18:53.731Z",
+      "resolved_at": null,
+      "message": "Is this close-able via the X?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18284:59262",
+        "node_offset": {
+          "x": 754,
+          "y": 332
+        },
+        "stable_path": [
+          "18284:59262"
+        ]
+      },
+      "order_id": "314"
+    },
+    {
+      "id": "1588059631",
+      "uuid": "367ffdc8-acce-4d7c-b049-d3117e1499c8",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Mark Toubman",
+        "img_url": "https://www.gravatar.com/avatar/3a354966def023233cd9461c35384a06?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1271222995422246898"
+      },
+      "created_at": "2026-01-14T17:56:16.035Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu @Laura Lopez Realizing that we never inform users that they require creating a Moz account to activate the feature. Is that something we've considered? I think it's unclear at this stage that clicking 'Get started' will take them to the current landing page to create an account.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18082:45680",
+        "node_offset": {
+          "x": 1149,
+          "y": 346
+        },
+        "stable_path": [
+          "18082:45680"
+        ]
+      },
+      "order_id": "311"
+    },
+    {
+      "id": "1587919078",
+      "uuid": "d597e46c-e009-4204-b52e-212b722ddb35",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily McMinn",
+        "img_url": "https://www.gravatar.com/avatar/831e82bca5555b28c9ad9c9fb0b6f4e8?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "847925155297688953"
+      },
+      "created_at": "2026-01-14T16:29:39.499Z",
+      "resolved_at": null,
+      "message": "Is there a pref that gets set  when the panel is opened that we can listen for?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19083:68095",
+        "node_offset": {
+          "x": 258,
+          "y": 66
+        },
+        "stable_path": [
+          "19083:68095"
+        ]
+      },
+      "order_id": "310"
+    },
+    {
+      "id": "1586507230",
+      "uuid": "a988489f-33ff-4b7c-958e-ac868155b720",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2026-01-13T23:58:23.389Z",
+      "resolved_at": null,
+      "message": "Maybe makes more sense to show this after the user clicks Turn off VPN? The UI is actually so clear that you can turn it off per-site that I wonder if we need this message at all",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18520:97656",
+        "node_offset": {
+          "x": 461,
+          "y": 80
+        },
+        "stable_path": [
+          "18520:97656"
+        ]
+      },
+      "order_id": "309"
+    },
+    {
+      "id": "1586477518",
+      "uuid": "0f366dba-c736-4cb6-8de7-44ae01ca98c6",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Ray Fambro",
+        "img_url": "https://www.gravatar.com/avatar/ddc43009219a6deea041714481c6a2bc?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "965970472202564955"
+      },
+      "created_at": "2026-01-13T23:13:29.237Z",
+      "resolved_at": null,
+      "message": "I don't think the messages in this flow need to be in a message group. What do you think @Emily McMinn ? Seems like these would also likely land in tree?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2910:1389",
+        "node_offset": {
+          "x": -140,
+          "y": 14553
+        },
+        "stable_path": [
+          "2910:1389"
+        ]
+      },
+      "order_id": "306"
+    },
+    {
+      "id": "1586476699",
+      "uuid": "dd4db286-c3fa-40e1-b97a-a0d296c26cdd",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Ray Fambro",
+        "img_url": "https://www.gravatar.com/avatar/ddc43009219a6deea041714481c6a2bc?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "965970472202564955"
+      },
+      "created_at": "2026-01-13T23:12:21.444Z",
+      "resolved_at": null,
+      "message": "Same question for this trigger @Becca King",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18520:97835",
+        "node_offset": {
+          "x": 162,
+          "y": 151
+        },
+        "stable_path": [
+          "18520:97835"
+        ]
+      },
+      "order_id": "305"
+    },
+    {
+      "id": "1586476336",
+      "uuid": "13517389-2933-40fb-ab84-a30858fbcc41",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Ray Fambro",
+        "img_url": "https://www.gravatar.com/avatar/ddc43009219a6deea041714481c6a2bc?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "965970472202564955"
+      },
+      "created_at": "2026-01-13T23:11:52.785Z",
+      "resolved_at": null,
+      "message": "Is this trigger being implemented on your side @Becca King ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18520:97656",
+        "node_offset": {
+          "x": 235,
+          "y": 6
+        },
+        "stable_path": [
+          "18520:97656"
+        ]
+      },
+      "order_id": "304"
+    },
+    {
+      "id": "1586473243",
+      "uuid": "c27dc30a-2d25-4e6e-87c6-c362ac76c085",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Ray Fambro",
+        "img_url": "https://www.gravatar.com/avatar/ddc43009219a6deea041714481c6a2bc?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "965970472202564955"
+      },
+      "created_at": "2026-01-13T23:07:37.181Z",
+      "resolved_at": null,
+      "message": "What happens when the user clicks \"Get started\"? @Emily McMinn -- what do you think about this flow? Would it make sense to have this set up as a feature tour?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18541:52947",
+        "node_offset": {
+          "x": 1099,
+          "y": 449
+        },
+        "stable_path": [
+          "18541:52947"
+        ]
+      },
+      "order_id": "301"
+    },
+    {
+      "id": "1586471839",
+      "uuid": "f1e62481-a797-45a9-a392-c1418c80b048",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Ray Fambro",
+        "img_url": "https://www.gravatar.com/avatar/ddc43009219a6deea041714481c6a2bc?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "965970472202564955"
+      },
+      "created_at": "2026-01-13T23:05:35.095Z",
+      "resolved_at": null,
+      "message": "Where does this link out to?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18541:52931",
+        "node_offset": {
+          "x": 1181,
+          "y": 336
+        },
+        "stable_path": [
+          "18541:52931"
+        ]
+      },
+      "order_id": "300"
+    },
+    {
+      "id": "1586465108",
+      "uuid": "96020766-b79c-4483-9106-5cce28b1725a",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2026-01-13T22:56:31.498Z",
+      "resolved_at": null,
+      "message": "When the user hasn't enabled VPN yet, what about using an info icon instead of the x, to make it look more inviting?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18541:52931",
+        "node_offset": {
+          "x": 1122,
+          "y": 60
+        },
+        "stable_path": [
+          "18541:52931"
+        ]
+      },
+      "order_id": "298"
+    },
+    {
+      "id": "1586463293",
+      "uuid": "9a1d0712-2ed6-488d-8722-a0173189676b",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2026-01-13T22:54:15.889Z",
+      "resolved_at": null,
+      "message": "If we show this twice, we should use a split dismiss button with a \"Don't show again\" menu item. We might want to say \"Hide VPN button\" instead, to make it clear that will happen",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4914:45005",
+        "node_offset": {
+          "x": 1169,
+          "y": 499
+        },
+        "stable_path": [
+          "4914:45005"
+        ]
+      },
+      "order_id": "297"
+    },
+    {
+      "id": "1586461538",
+      "uuid": "7a23cf79-7af1-4300-a415-23e5f71d21bd",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2026-01-13T22:52:09.180Z",
+      "resolved_at": null,
+      "message": "I recommend showing this only on home/new tab after a restart, as having it show on our surfaces will make it look more official.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18541:52937",
+        "node_offset": {
+          "x": 430,
+          "y": 104
+        },
+        "stable_path": [
+          "18541:52937"
+        ]
+      },
+      "order_id": "296"
+    },
+    {
+      "id": "1580900145",
+      "uuid": "53c2b9e7-1ab7-4c56-baf6-6760c2689106",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2026-01-08T23:30:48.063Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu I've dropped in SVGs in the Drive link here. Let me know if there are any issues when handing off to eng or if you need any of the images named differently.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19521:17258",
+        "node_offset": {
+          "x": 941,
+          "y": 46
+        },
+        "stable_path": [
+          "19521:17258"
+        ]
+      },
+      "order_id": "294"
+    },
+    {
+      "id": "1580428132",
+      "uuid": "bedcdf26-82b1-4970-8cde-7a55a8f79342",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-08T16:34:00.611Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz we can drop this option",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19413:14969",
+        "node_offset": {
+          "x": 1303,
+          "y": 387
+        },
+        "stable_path": [
+          "19413:14969"
+        ]
+      },
+      "order_id": "292"
+    },
+    {
+      "id": "1580388940",
+      "uuid": "86185b2d-f2e3-45cc-acfb-8cd803339c24",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2026-01-08T16:10:49.661Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez @Wolasi Konu Updated the location pin to be a shield, but if we feel it doesn't read as well on the globe, we could just repeat the Kit illustration",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-01-08T18:59:28.922Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "19413:14969",
+        "node_offset": {
+          "x": 1094,
+          "y": 2837
+        },
+        "stable_path": [
+          "19413:14969"
+        ],
+        "region_width": 983,
+        "region_height": 1188,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "290"
+    },
+    {
+      "id": "1580387761",
+      "uuid": "9b75a9f5-1b6e-4496-acee-4c20745d447e",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2026-01-08T16:10:07.992Z",
+      "resolved_at": null,
+      "message": "@Diana Horn @Laura Lopez @Wolasi Konu 2 options here for the pause button (replacing the !)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19413:14969",
+        "node_offset": {
+          "x": 1910,
+          "y": 1239
+        },
+        "stable_path": [
+          "19413:14969"
+        ],
+        "region_width": 812,
+        "region_height": 963,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "289"
+    },
+    {
+      "id": "1578876977",
+      "uuid": "061645a6-8f08-4d94-b319-2013bc74b2b3",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-01-07T18:26:19.984Z",
+      "resolved_at": null,
+      "message": "Flagging that we won't have location picking in 149 so unsure if it fits in this context. \n\nWe could, however, repurpose it for a promotional message/callout once we do add it since it's feature users want.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19295:12302",
+        "node_offset": {
+          "x": 264,
+          "y": 105.4375
+        },
+        "stable_path": [
+          "19295:12302"
+        ]
+      },
+      "order_id": "285"
+    },
+    {
+      "id": "1578873997",
+      "uuid": "d377fa55-503e-48af-a6b3-4d7518403eb8",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-01-07T18:24:06.587Z",
+      "resolved_at": null,
+      "message": "Should we include the logo here knowing that users coming from Firefox won't be familiar with it?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19295:11505",
+        "node_offset": {
+          "x": 209,
+          "y": 110.5
+        },
+        "stable_path": [
+          "19295:11505"
+        ]
+      },
+      "order_id": "284"
+    },
+    {
+      "id": "1578771038",
+      "uuid": "875e00cf-b84c-4fef-997a-006588693bf0",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2026-01-07T17:07:37.179Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz  I think we should round the bottom of the exclamation point here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19295:12242",
+        "node_offset": {
+          "x": 185.75,
+          "y": 140.5
+        },
+        "stable_path": [
+          "19295:12242"
+        ]
+      },
+      "order_id": "283"
+    },
+    {
+      "id": "1578739653",
+      "uuid": "4aade712-b396-4289-a61e-68e161b0f068",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2026-01-07T16:46:38.123Z",
+      "resolved_at": null,
+      "message": "Did you explore a pause icon? @Wolasi KonuWhat is the icon in the header in this state?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19267:10856",
+        "node_offset": {
+          "x": 283,
+          "y": 41.5
+        },
+        "stable_path": [
+          "19267:10856"
+        ]
+      },
+      "order_id": "282"
+    },
+    {
+      "id": "1578736919",
+      "uuid": "8bc49026-7691-4252-9462-fb4b250ea7f3",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2026-01-07T16:44:55.170Z",
+      "resolved_at": null,
+      "message": "I really like this imagery and the emotion it conveys.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19267:10162",
+        "node_offset": {
+          "x": 429,
+          "y": 380
+        },
+        "stable_path": [
+          "19267:10162"
+        ]
+      },
+      "order_id": "281"
+    },
+    {
+      "id": "1578736124",
+      "uuid": "95046178-4451-4d44-b123-420d16caea93",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2026-01-07T16:44:24.835Z",
+      "resolved_at": null,
+      "message": "On first glance, this looks very similar to the toggle vs a progress bar. Perhaps making it slightly more full?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-01-08T16:04:27.772Z",
+          "user": {
+            "id": "1501241353019876562",
+            "handle": "Michelle Diaz",
+            "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "19267:10162",
+        "node_offset": {
+          "x": 864,
+          "y": 377
+        },
+        "stable_path": [
+          "19267:10162"
+        ]
+      },
+      "order_id": "280"
+    },
+    {
+      "id": "1578647256",
+      "uuid": "9f63d3c3-2126-4196-80db-79a402c04f08",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-07T15:49:44.391Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz will the final illustrations pixel snap to accommodate lower resolution displays? cc @Jane Wolf",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19267:10162",
+        "node_offset": {
+          "x": 385,
+          "y": 107
+        },
+        "stable_path": [
+          "19267:10162"
+        ]
+      },
+      "order_id": "279"
+    },
+    {
+      "id": "1577676981",
+      "uuid": "b74ef11b-5ec2-4973-b147-c6d408ca2c6a",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-07T03:03:57.199Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz can we have an even bezel all around?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19267:10216",
+        "node_offset": {
+          "x": 263,
+          "y": 46.5
+        },
+        "stable_path": [
+          "19267:10216"
+        ]
+      },
+      "order_id": "276"
+    },
+    {
+      "id": "1577674367",
+      "uuid": "11e5c8c7-b0ee-4415-8fe0-ac31d310d4a3",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-01-07T03:00:11.876Z",
+      "resolved_at": null,
+      "message": "hey @Wolasi Konu - for the shield icon and 'Use VPN for this site', let's update the color token to 'text/color'. I've attached a screenshot to show what this would look like. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18729:55817",
+        "node_offset": {
+          "x": 170,
+          "y": 209
+        },
+        "stable_path": [
+          "18729:55817"
+        ]
+      },
+      "order_id": "274"
+    },
+    {
+      "id": "1577673380",
+      "uuid": "0cb3be00-9859-48ef-8c01-cc695590c659",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-07T02:58:52.235Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz could we update the bevel on the tick like so, and also scale it down, so there's more breathing room around it?\nAnd should the circular arrow also have beveling?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19271:41135",
+        "node_offset": {
+          "x": 173,
+          "y": 117
+        },
+        "stable_path": [
+          "19271:41135"
+        ]
+      },
+      "order_id": "273"
+    },
+    {
+      "id": "1577666507",
+      "uuid": "383cf512-26a9-408e-8a44-e47b6b72e14a",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2026-01-07T02:49:11.058Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu Dropped in this option here but the thinner lines / not filled shapes doesn't really fit with the rest of the style",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19267:10396",
+        "node_offset": {
+          "x": 288,
+          "y": 297.5
+        },
+        "stable_path": [
+          "19267:10396"
+        ],
+        "region_width": 513,
+        "region_height": 852,
+        "comment_pin_corner": "bottom-left"
+      },
+      "order_id": "272"
+    },
+    {
+      "id": "1577459795",
+      "uuid": "9bf6fa79-591b-4e19-81ad-2c2578863e1f",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-06T21:30:51.170Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz added this highlight, wdyt?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19216:39413",
+        "node_offset": {
+          "x": 243,
+          "y": 92
+        },
+        "stable_path": [
+          "19216:39413"
+        ]
+      },
+      "order_id": "271"
+    },
+    {
+      "id": "1577447779",
+      "uuid": "4d57ccec-ab1f-4058-99a3-a11db3dc69a8",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-06T21:18:46.094Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz riff to address contrast issues and simplify the chrome rendering, wdyt?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19216:39579",
+        "node_offset": {
+          "x": 416,
+          "y": 127
+        },
+        "stable_path": [
+          "19216:39579"
+        ]
+      },
+      "order_id": "270"
+    },
+    {
+      "id": "1577435566",
+      "uuid": "c668f2b3-7531-4b61-87b7-aae4a6e524a4",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-06T21:06:25.616Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz could we make the exclamation mark yellow?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19191:9511",
+        "node_offset": {
+          "x": 181,
+          "y": 77.5
+        },
+        "stable_path": [
+          "19191:9511"
+        ]
+      },
+      "order_id": "269"
+    },
+    {
+      "id": "1577434901",
+      "uuid": "0ecf4cba-30fa-4357-a1fb-0b8c2662ef62",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-06T21:05:40.046Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz some riffs on the size and placement of the background bubble",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19191:8587",
+        "node_offset": {
+          "x": 1483,
+          "y": 1718
+        },
+        "stable_path": [
+          "19191:8587"
+        ]
+      },
+      "order_id": "268"
+    },
+    {
+      "id": "1577429581",
+      "uuid": "be94cf06-50bc-4104-a278-c68c4db41cb1",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-06T21:00:04.163Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz not sure about this trapped negative space :thinking_face:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19191:8687",
+        "node_offset": {
+          "x": 58.5,
+          "y": 24.5
+        },
+        "stable_path": [
+          "19191:8687"
+        ]
+      },
+      "order_id": "267"
+    },
+    {
+      "id": "1577428599",
+      "uuid": "83c05e80-7a03-4333-8af7-754e1935c02a",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-06T20:59:04.308Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz not sure about the arrow overlapping the inner disc :thinking_face: \n\nCould we see a version without the inner disc?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19191:9035",
+        "node_offset": {
+          "x": 156,
+          "y": 68.5
+        },
+        "stable_path": [
+          "19191:9035"
+        ]
+      },
+      "order_id": "266"
+    },
+    {
+      "id": "1577427098",
+      "uuid": "f5fdaf96-216f-417c-9028-7c879af3fd17",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-06T20:57:31.101Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz I don't think we need the exclamation mark :thinking_face:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19191:8687",
+        "node_offset": {
+          "x": 232.5,
+          "y": 109.5
+        },
+        "stable_path": [
+          "19191:8687"
+        ]
+      },
+      "order_id": "265"
+    },
+    {
+      "id": "1577319719",
+      "uuid": "204de2a7-33fc-4b98-9188-1c9ae7ca0f9e",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2026-01-06T19:20:20.112Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu @Jane Wolf Revised this riff a bit to be simpler and zoom out of the globe. I like the composition better - it might fit better overall with the others, but the fox feels more ownable. Users will be seeing the fox in the CFR above though.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19191:8587",
+        "node_offset": {
+          "x": 664,
+          "y": 3519
+        },
+        "stable_path": [
+          "19191:8587"
+        ],
+        "region_width": 597,
+        "region_height": 1013,
+        "comment_pin_corner": "bottom-left"
+      },
+      "order_id": "262"
+    },
+    {
+      "id": "1577317832",
+      "uuid": "878f3d9f-e7f9-41c3-8e2e-13196f2d8536",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2026-01-06T19:18:47.850Z",
+      "resolved_at": null,
+      "message": "MozillaVPN has it's own illustration style so I tried putting that in here. Do we think it works?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19191:8587",
+        "node_offset": {
+          "x": 2384,
+          "y": 1339
+        },
+        "stable_path": [
+          "19191:8587"
+        ]
+      },
+      "order_id": "261"
+    },
+    {
+      "id": "1577317408",
+      "uuid": "4cb5ff45-5caf-4150-bf3e-301e82e2351a",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2026-01-06T19:18:26.686Z",
+      "resolved_at": null,
+      "message": "Although the yellow gradient follows the rules of the pictograms, something about it seems too alarming/distracting?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19191:8587",
+        "node_offset": {
+          "x": 1044,
+          "y": 1461
+        },
+        "stable_path": [
+          "19191:8587"
+        ]
+      },
+      "order_id": "260"
+    },
+    {
+      "id": "1577316644",
+      "uuid": "4123a88a-eab2-4437-b212-34667ef2af61",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2026-01-06T19:17:46.609Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu @Jane Wolf Updates here for these illustrations, lmk what you think",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2026-01-06T20:57:38.748Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "19191:8587",
+        "node_offset": {
+          "x": 215,
+          "y": 57
+        },
+        "stable_path": [
+          "19191:8587"
+        ]
+      },
+      "order_id": "259"
+    },
+    {
+      "id": "1577282814",
+      "uuid": "81b1cfa7-060a-4439-b03d-a729ad10b2bd",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Jared Wein",
+        "img_url": "https://s3-alpha.figma.com/profile/6f426105-0675-430b-9e74-156bda394020",
+        "id": "897575435417812155"
+      },
+      "created_at": "2026-01-06T18:47:52.062Z",
+      "resolved_at": null,
+      "message": "When would this error happen different from the one above that has an error page? Is this an error that could correct itself? This feels like an unnecessary error state that is already covered by the error page, and if this pops up randomly while a user is browsing a site then could it also be resolved in the background too? \n\nSame question on the \"Close all tabs\", this feels too destructive and not recoverable for the user to get their tabs back.\n\n/cc @Wolasi Konu",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18685:80869",
+        "node_offset": {
+          "x": 655,
+          "y": 168
+        },
+        "stable_path": [
+          "18685:80869"
+        ]
+      },
+      "order_id": "256"
+    },
+    {
+      "id": "1577278177",
+      "uuid": "c72c412f-3aeb-4270-9236-02ddffab4085",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Jared Wein",
+        "img_url": "https://s3-alpha.figma.com/profile/6f426105-0675-430b-9e74-156bda394020",
+        "id": "897575435417812155"
+      },
+      "created_at": "2026-01-06T18:44:05.823Z",
+      "resolved_at": null,
+      "message": "I'm not sure how we will differentiate this from the \"Couldn't connect to VPN\" error above. I think both could present themselves as \"offline\" depending on the type of error received.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18662:76580",
+        "node_offset": {
+          "x": 1126,
+          "y": 160
+        },
+        "stable_path": [
+          "18662:76580"
+        ]
+      },
+      "order_id": "254"
+    },
+    {
+      "id": "1576018461",
+      "uuid": "2effc2b2-2d18-4196-b294-dab91e8e9ab1",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2026-01-05T22:34:29.880Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu  adding this star feels like it's departing from the brand style.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19072:67653",
+        "node_offset": {
+          "x": 270,
+          "y": 41
+        },
+        "stable_path": [
+          "19072:67653"
+        ]
+      },
+      "order_id": "250"
+    },
+    {
+      "id": "1575914380",
+      "uuid": "51b3e6b7-5991-4c3f-8478-49d4033b6182",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-05T20:29:32.477Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz could we try something like this as the metaphor for bandwidth reset, but in the in pictogram style?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19083:68094",
+        "node_offset": {
+          "x": 107.90673828125,
+          "y": 18.25641393661499
+        },
+        "stable_path": [
+          "19083:68094"
+        ]
+      },
+      "order_id": "248"
+    },
+    {
+      "id": "1575908340",
+      "uuid": "ee26107c-5fc7-47ff-847b-1e9372c038ab",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-05T20:23:31.215Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz i think this illustration could work well for this scenario since \"VPN\" doesn't have to be translated",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-01-05T20:27:12.801Z",
+          "user": {
+            "id": "1501241353019876562",
+            "handle": "Michelle Diaz",
+            "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "19083:68059",
+        "node_offset": {
+          "x": 164,
+          "y": 9
+        },
+        "stable_path": [
+          "19083:68059"
+        ]
+      },
+      "order_id": "247"
+    },
+    {
+      "id": "1575902846",
+      "uuid": "460db594-59c7-4af2-a227-04504ab77118",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-05T20:18:13.523Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz here's really rough riff exploring backdrops what aren't full bleed, and create more dynamic white space around the illustration",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19068:67586",
+        "node_offset": {
+          "x": 303,
+          "y": 53
+        },
+        "stable_path": [
+          "19068:67586"
+        ]
+      },
+      "order_id": "246"
+    },
+    {
+      "id": "1575901014",
+      "uuid": "099f2100-1d21-4faf-8d1e-f8b13f85f1eb",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-05T20:16:19.328Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz here's a riff on reducing the number of metaphors and playing with scale to create a more dynamic composition, wdyt?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19072:67882",
+        "node_offset": {
+          "x": 328,
+          "y": 101
+        },
+        "stable_path": [
+          "19072:67882"
+        ]
+      },
+      "order_id": "245"
+    },
+    {
+      "id": "1575891172",
+      "uuid": "6ef60891-232e-4ed1-ac76-994b3f1f0872",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-05T20:06:10.573Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz it seems like there's one too many metaphors here, I think we can simplify since the text can do the semantic heavy lifting here :sweat_smile:",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-01-05T20:15:18.526Z",
+          "user": {
+            "id": "1501241353019876562",
+            "handle": "Michelle Diaz",
+            "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18993:7006",
+        "node_offset": {
+          "x": 280,
+          "y": 87.4375
+        },
+        "stable_path": [
+          "18993:7006"
+        ]
+      },
+      "order_id": "244"
+    },
+    {
+      "id": "1575885867",
+      "uuid": "5bb4e505-e053-4e05-9174-d8c8509f9dc7",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-05T20:00:37.573Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz are purple and orange/yellow the only colors than can be used for illustrations?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18993:7005",
+        "node_offset": {
+          "x": 556,
+          "y": 305
+        },
+        "stable_path": [
+          "18993:7005"
+        ]
+      },
+      "order_id": "243"
+    },
+    {
+      "id": "1575848832",
+      "uuid": "0656da71-3475-4ba7-89c7-c1cb7653cf7a",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-05T19:24:11.929Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz Let\u2019s go with the logo, save ourselves having to translate the copy in the UI mock for various markets",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-01-05T20:14:06.539Z",
+          "user": {
+            "id": "1501241353019876562",
+            "handle": "Michelle Diaz",
+            "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18993:7005",
+        "node_offset": {
+          "x": 2803,
+          "y": 736
+        },
+        "stable_path": [
+          "18993:7005"
+        ]
+      },
+      "order_id": "242"
+    },
+    {
+      "id": "1575848343",
+      "uuid": "50bde666-5c14-4ca1-9e79-bb73e7a074b5",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-05T19:23:43.988Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz I like this light option, did you try the exclamation mark in yellow?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18993:7217",
+        "node_offset": {
+          "x": 264,
+          "y": 62.5
+        },
+        "stable_path": [
+          "18993:7217"
+        ]
+      },
+      "order_id": "241"
+    },
+    {
+      "id": "1575847269",
+      "uuid": "25dc53c5-0ff6-4e3d-a58d-0f3b0d4314ad",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-05T19:22:40.480Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz this would be my pick here, but I think we just need a single toggle, and would like to see it on the light purple backkground :+1::skin-tone-5:",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-01-05T20:14:01.976Z",
+          "user": {
+            "id": "1501241353019876562",
+            "handle": "Michelle Diaz",
+            "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18993:7402",
+        "node_offset": {
+          "x": 312,
+          "y": 64.5
+        },
+        "stable_path": [
+          "18993:7402"
+        ]
+      },
+      "order_id": "240"
+    },
+    {
+      "id": "1575846158",
+      "uuid": "256d69cf-e93a-4ff4-965d-32c66845871c",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-05T19:21:37.116Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz none of these options are quite reading as meters to me, I'll share a riff and some references below for your consideration :+1::skin-tone-5:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18993:7005",
+        "node_offset": {
+          "x": 814,
+          "y": 724
+        },
+        "stable_path": [
+          "18993:7005"
+        ]
+      },
+      "order_id": "239"
+    },
+    {
+      "id": "1575845184",
+      "uuid": "1fd0a47d-f2e3-47da-aa5a-70e4116da9e3",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-05T19:20:41.726Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz if we go with with a full bleed background, I think this light purple background is the better option. The illustrations look brighter and the contrast is better than the darker option.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-01-05T20:13:12.491Z",
+          "user": {
+            "id": "1501241353019876562",
+            "handle": "Michelle Diaz",
+            "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18993:7005",
+        "node_offset": {
+          "x": 592,
+          "y": 862
+        },
+        "stable_path": [
+          "18993:7005"
+        ]
+      },
+      "order_id": "238"
+    },
+    {
+      "id": "1575768895",
+      "uuid": "639bc2f8-dbb8-43a5-8d2b-d08536bd49b7",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2026-01-05T18:05:59.059Z",
+      "resolved_at": null,
+      "message": "@Jane Wolf @Wolasi Konu Dropped in some R2 updates based on Jane's feedback. \n\nAlso added in dark mode examples",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2026-01-05T20:04:32.371Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18993:7005",
+        "node_offset": {
+          "x": 131,
+          "y": 60
+        },
+        "stable_path": [
+          "18993:7005"
+        ]
+      },
+      "order_id": "237"
+    },
+    {
+      "id": "1574327310",
+      "uuid": "414e63e5-a57c-4255-b83e-6e55d4933d88",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2026-01-02T22:05:02.769Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz  I feel like the 2 shades of purple here are too much? I think it's too many gradients.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-01-06T00:12:40.243Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18977:35481",
+        "node_offset": {
+          "x": 229,
+          "y": 60.5
+        },
+        "stable_path": [
+          "18977:35481"
+        ]
+      },
+      "order_id": "236"
+    },
+    {
+      "id": "1574323956",
+      "uuid": "4f375fad-aa12-4eb5-8405-1ca34ad97f65",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2026-01-02T21:51:36.050Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz  could we consider removing the outer circle? just the bezel on the inside seems to help",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18977:35548",
+        "node_offset": {
+          "x": 78,
+          "y": 64.5
+        },
+        "stable_path": [
+          "18977:35548"
+        ]
+      },
+      "order_id": "235"
+    },
+    {
+      "id": "1574323803",
+      "uuid": "8fb510ca-6941-41ce-84bc-e68459f75f80",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2026-01-02T21:50:57.578Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz  I really like this, could we make Kit look forward?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18977:35900",
+        "node_offset": {
+          "x": 187,
+          "y": 128.5
+        },
+        "stable_path": [
+          "18977:35900"
+        ]
+      },
+      "order_id": "234"
+    },
+    {
+      "id": "1574278752",
+      "uuid": "f6be947b-5935-4ae9-93ee-a2a2d8762886",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2026-01-02T19:39:27.738Z",
+      "resolved_at": null,
+      "message": "@Jane Wolf Tried to make this more of an illustration vs just a pictogram, as well as an overall symbol for VPN without Kit",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18977:35355",
+        "node_offset": {
+          "x": 10,
+          "y": 116.4375
+        },
+        "stable_path": [
+          "18977:35355"
+        ]
+      },
+      "order_id": "233"
+    },
+    {
+      "id": "1574278491",
+      "uuid": "18c34d96-4372-4f5f-a646-8145050eb37e",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2026-01-02T19:38:50.658Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu @Jane Wolf Dropped in some illustrations on this board. There's a few options for each column/CFR. Lmk what you think or if you'd like to discuss over a call today/Monday. Thanks!",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2026-01-06T00:12:57.705Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18977:35354",
+        "node_offset": {
+          "x": 99,
+          "y": 71
+        },
+        "stable_path": [
+          "18977:35354"
+        ]
+      },
+      "order_id": "232"
+    },
+    {
+      "id": "1567533582",
+      "uuid": "89c77966-98ff-401a-ab3f-3d482d891c1c",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-22T21:00:39.255Z",
+      "resolved_at": null,
+      "message": "Fred: Doesn't communicate the security of starting a new session. This does more than restoring a session. \n\nEx: restoring a session restores the form data",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18732:82531",
+        "node_offset": {
+          "x": 639,
+          "y": 254
+        },
+        "stable_path": [
+          "18732:82531"
+        ]
+      },
+      "order_id": "194"
+    },
+    {
+      "id": "1567228565",
+      "uuid": "f993025b-a27e-4578-83ac-a98c0087a6ca",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-12-22T15:55:30.091Z",
+      "resolved_at": null,
+      "message": "Alt headlines that create a bit more of a celebratory moment without sacrificing clarity:\n* 150 GB of VPN just landed in your browser\n* Your 150 GB of VPN is ready to go\n* 150 GB of VPN, refreshed and ready to go\n* You\u2019ve got 150 GB of VPN to use your way\n* 150 GB of VPN protection, unlocked",
+      "reactions": [
+        {
+          "emoji": ":fire:",
+          "created_at": "2025-12-30T17:56:41.369Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18663:136624",
+        "node_offset": {
+          "x": 876,
+          "y": 403
+        },
+        "stable_path": [
+          "18663:136624"
+        ]
+      },
+      "order_id": "193"
+    },
+    {
+      "id": "1567216337",
+      "uuid": "fc9e0f07-24c6-4d1d-a231-f8a2c211433d",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-12-22T15:46:44.983Z",
+      "resolved_at": null,
+      "message": "alt phrase: \"outside Firefox\" @Laura Lopez",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-12-30T17:55:53.597Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18663:57022",
+        "node_offset": {
+          "x": 88,
+          "y": 273
+        },
+        "stable_path": [
+          "18663:57022"
+        ]
+      },
+      "order_id": "192"
+    },
+    {
+      "id": "1567214084",
+      "uuid": "89c2b67e-1202-43cf-aec7-228252996162",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-12-22T15:45:08.449Z",
+      "resolved_at": null,
+      "message": "SS: Cut both uses of \"it\" in this sentence--you don't need them @Laura Lopez",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-12-30T15:54:42.860Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18663:56956",
+        "node_offset": {
+          "x": 1165,
+          "y": 321
+        },
+        "stable_path": [
+          "18663:56956"
+        ]
+      },
+      "order_id": "191"
+    },
+    {
+      "id": "1567205301",
+      "uuid": "4f9ac18a-2322-4ad1-a17b-bc1716f834ff",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-12-22T15:39:03.496Z",
+      "resolved_at": null,
+      "message": "Suggested headline edits: \"Try Firefox's built-in VPN\" \n\n\"Try free VPN, built-in to Firefox\"\n\nThinking of ways to get \"Fireox\" and/or \"free\" into the headline. @Laura Lopez",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-12-30T15:53:41.627Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-12-22T17:51:24.980Z",
+          "user": {
+            "id": "1271222995422246898",
+            "handle": "Mark Toubman",
+            "img_url": "https://www.gravatar.com/avatar/3a354966def023233cd9461c35384a06?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18663:56941",
+        "node_offset": {
+          "x": 1163,
+          "y": 322.99609375
+        },
+        "stable_path": [
+          "18663:56941"
+        ]
+      },
+      "order_id": "190"
+    },
+    {
+      "id": "1567201358",
+      "uuid": "08c1f31b-5ae6-4431-817b-7e32dec9ce95",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-12-22T15:36:08.941Z",
+      "resolved_at": null,
+      "message": "What if you removed the bullet points since there are only 2? I think the paragraph breaks provide enough separation @Laura Lopez",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18663:56941",
+        "node_offset": {
+          "x": 1117,
+          "y": 417.99609375
+        },
+        "stable_path": [
+          "18663:56941"
+        ]
+      },
+      "order_id": "189"
+    },
+    {
+      "id": "1567199908",
+      "uuid": "012fcb01-a88e-473a-9f2e-a6be649e746a",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-12-22T15:35:02.919Z",
+      "resolved_at": null,
+      "message": "I don't think you need the comma (my test is if it would sound weird to put the word \"and\" in between the words, you don't need one) @Laura Lopez",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-12-30T15:08:27.275Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18663:56994",
+        "node_offset": {
+          "x": 83,
+          "y": 284
+        },
+        "stable_path": [
+          "18663:56994"
+        ]
+      },
+      "order_id": "188"
+    },
+    {
+      "id": "1565661399",
+      "uuid": "211f2a8d-fda6-4823-8ccc-b6980e252144",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-19T20:26:01.606Z",
+      "resolved_at": null,
+      "message": "When we have auto-on settings for this in 150+, makes sense to have a message to let people that we turned VPN back on when data is reset",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18663:136624",
+        "node_offset": {
+          "x": 1767,
+          "y": 276
+        },
+        "stable_path": [
+          "18663:136624"
+        ]
+      },
+      "order_id": "181"
+    },
+    {
+      "id": "1565651548",
+      "uuid": "9614be1b-7470-4548-9c13-af53d0442de2",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-19T20:14:44.911Z",
+      "resolved_at": null,
+      "message": "Trigger for this message?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18663:56956",
+        "node_offset": {
+          "x": 1214,
+          "y": 113
+        },
+        "stable_path": [
+          "18663:56956"
+        ]
+      },
+      "order_id": "179"
+    },
+    {
+      "id": "1564184350",
+      "uuid": "5bdee27b-7d66-46ce-b99d-5cfaff30a7cc",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-18T21:38:48.392Z",
+      "resolved_at": null,
+      "message": "VPN in Firefox, built in Firefox....",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18561:105021",
+        "node_offset": {
+          "x": 795,
+          "y": 287
+        },
+        "stable_path": [
+          "18561:105021"
+        ]
+      },
+      "order_id": "170"
+    },
+    {
+      "id": "1564179415",
+      "uuid": "c07321e7-895c-4325-8ea3-5e101e365b30",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-18T21:33:42.790Z",
+      "resolved_at": null,
+      "message": "Not  mention Mozilla VPN \n\nUse a VPN outside the browser",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18597:50261",
+        "node_offset": {
+          "x": 1155,
+          "y": 399
+        },
+        "stable_path": [
+          "18597:50261"
+        ]
+      },
+      "order_id": "169"
+    },
+    {
+      "id": "1564178732",
+      "uuid": "b9283978-645e-445a-bb6a-a1a53be46c3f",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-18T21:33:03.027Z",
+      "resolved_at": null,
+      "message": "We don't call this \"built-in bookmarks\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18597:50257",
+        "node_offset": {
+          "x": 1064,
+          "y": 49
+        },
+        "stable_path": [
+          "18597:50257"
+        ]
+      },
+      "order_id": "168"
+    },
+    {
+      "id": "1564175743",
+      "uuid": "7fb9d69f-cf0a-410e-9608-492730446f16",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-18T21:30:09.949Z",
+      "resolved_at": null,
+      "message": "Lead with beyond the browser riffs here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18561:105021",
+        "node_offset": {
+          "x": 783,
+          "y": 540
+        },
+        "stable_path": [
+          "18561:105021"
+        ]
+      },
+      "order_id": "167"
+    },
+    {
+      "id": "1561585966",
+      "uuid": "b6307e6e-98c9-4601-afcb-252ae159ed4a",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-12-17T14:17:04.024Z",
+      "resolved_at": null,
+      "message": "@Jared Wein @Fred Chasen can we detect when a user connects to public wifi?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18440:31280",
+        "node_offset": {
+          "x": 1162,
+          "y": 23.0009765625
+        },
+        "stable_path": [
+          "18440:31280"
+        ]
+      },
+      "order_id": "153"
+    },
+    {
+      "id": "1561584806",
+      "uuid": "a68f85ed-c885-456a-b3ab-03ae662e0d99",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-12-17T14:16:29.088Z",
+      "resolved_at": null,
+      "message": "@Fred Chasen @Jared Wein does firefox display a warning when a user's internet connection is lost?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18440:31317",
+        "node_offset": {
+          "x": 1233,
+          "y": 179
+        },
+        "stable_path": [
+          "18440:31317"
+        ]
+      },
+      "order_id": "152"
+    },
+    {
+      "id": "1561551006",
+      "uuid": "4a402a94-c0f9-4838-997c-88ddf35f34c7",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-12-17T13:59:20.932Z",
+      "resolved_at": null,
+      "message": "@Diana Horn @Laura Lopez @Maysarah Shahabuddin I removed the Mozilla VPN promo from the VPN panel and made it a CFR per feedback. This way users will see the promo without having to open the panel, and makes it clearer that Mozilla VPN is a separate product.",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-12-17T17:05:32.938Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18440:31321",
+        "node_offset": {
+          "x": 1270,
+          "y": 152
+        },
+        "stable_path": [
+          "18440:31321"
+        ]
+      },
+      "order_id": "148"
+    },
+    {
+      "id": "1560355882",
+      "uuid": "fa8f8cf2-e176-4598-bab5-84afcf571042",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-16T22:32:28.144Z",
+      "resolved_at": null,
+      "message": "Try again later. Check back later?\n\nSomething hand-wavey",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68943",
+        "node_offset": {
+          "x": 704,
+          "y": 462
+        },
+        "stable_path": [
+          "18268:68943"
+        ]
+      },
+      "order_id": "147"
+    },
+    {
+      "id": "1560352417",
+      "uuid": "56db2e88-32df-4b84-bf3c-3c600d9cc970",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-16T22:28:36.735Z",
+      "resolved_at": null,
+      "message": "LL to explore version for 50% mark but promotes Mozilla VPN",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18446:56581",
+        "node_offset": {
+          "x": 1157,
+          "y": 255
+        },
+        "stable_path": [
+          "18446:56581"
+        ]
+      },
+      "order_id": "146"
+    },
+    {
+      "id": "1560225799",
+      "uuid": "e6dbf87a-2160-4c35-852b-f2a1d421ba85",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Jared Wein",
+        "img_url": "https://s3-alpha.figma.com/profile/6f426105-0675-430b-9e74-156bda394020",
+        "id": "897575435417812155"
+      },
+      "created_at": "2025-12-16T20:37:38.516Z",
+      "resolved_at": null,
+      "message": "Should we drop the Beta tag now that we're planning the at-scale release? What is still going to be Beta about the 149 release?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18446:50596",
+        "node_offset": {
+          "x": 1045,
+          "y": 101
+        },
+        "stable_path": [
+          "18446:50596"
+        ]
+      },
+      "order_id": "144"
+    },
+    {
+      "id": "1557958785",
+      "uuid": "68347535-539f-439b-ba4e-c4247eed01ff",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:34:55.520Z",
+      "resolved_at": null,
+      "message": "Your VPN data has reset\nYou now have 150 GB to use this month. Turn VPN on when you're ready.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18316:95049",
+        "node_offset": {
+          "x": 137,
+          "y": 287
+        },
+        "stable_path": [
+          "18316:95049"
+        ]
+      },
+      "order_id": "142"
+    },
+    {
+      "id": "1557956743",
+      "uuid": "5ab366f1-bf1a-4f61-af28-60c66c49f2f4",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:33:30.930Z",
+      "resolved_at": null,
+      "message": "Riff: Like Firefox VPN? Get even more with Mozilla VPN\nChoose your location, connect up to 5 devices, and stay secure on any network \u2014 even public Wi-Fi.",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-12-15T18:34:11.083Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18268:68860",
+        "node_offset": {
+          "x": 1055,
+          "y": 448
+        },
+        "stable_path": [
+          "18268:68860"
+        ]
+      },
+      "order_id": "141"
+    },
+    {
+      "id": "1557955453",
+      "uuid": "08d94de3-5541-412f-97d8-834c5ecd6d15",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:32:32.080Z",
+      "resolved_at": null,
+      "message": "The \"i\" icon doesn't seem quite right for a promotion",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68860",
+        "node_offset": {
+          "x": 831,
+          "y": 416
+        },
+        "stable_path": [
+          "18268:68860"
+        ]
+      },
+      "order_id": "140"
+    },
+    {
+      "id": "1557955031",
+      "uuid": "d6b21d2d-9882-42f7-a756-77ebe80f80c4",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:32:13.761Z",
+      "resolved_at": null,
+      "message": "Since we aren't explicitly making the connection in the copy between bandwidth offerings of the two products, I am wondering if the promotion should still live within the panel itself, or if it could be a call-out that drops from the VPN button itself - it would be less visually noisy presentation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68860",
+        "node_offset": {
+          "x": 1044,
+          "y": 327
+        },
+        "stable_path": [
+          "18268:68860"
+        ]
+      },
+      "order_id": "139"
+    },
+    {
+      "id": "1557953033",
+      "uuid": "01934e6e-0950-4f67-9178-e671dafca275",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:30:49.773Z",
+      "resolved_at": null,
+      "message": "You\u2019re almost out of VPN data\nYou have 5 GB out of 150 GB left this month.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68927",
+        "node_offset": {
+          "x": 1021,
+          "y": 166
+        },
+        "stable_path": [
+          "18268:68927"
+        ]
+      },
+      "order_id": "138"
+    },
+    {
+      "id": "1557951470",
+      "uuid": "9b52da69-cbfc-471a-b405-4cd39149dc2b",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:29:44.483Z",
+      "resolved_at": null,
+      "message": "You're almost out of VPN data for the month\nYou have 5 GB out of 150 GB left. Once you use it all, your VPN will pause until it resets on the first of next month.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68919",
+        "node_offset": {
+          "x": 1120,
+          "y": 293
+        },
+        "stable_path": [
+          "18268:68919"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "1557948746",
+      "uuid": "2197b106-bd16-4f57-b2d9-3882ade924bd",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:27:51.554Z",
+      "resolved_at": null,
+      "message": "You're getting close to your VPN data limit\nYou\u2019ve got 37.5 GB left out of 150 GB this month.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68923",
+        "node_offset": {
+          "x": 1075,
+          "y": 178
+        },
+        "stable_path": [
+          "18268:68923"
+        ]
+      },
+      "order_id": "136"
+    },
+    {
+      "id": "1557943842",
+      "uuid": "a520904a-9d59-413f-99c5-0297f63a2b8e",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:24:44.197Z",
+      "resolved_at": null,
+      "message": "Is there anything we can offer or say as to why they are seeing this error?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68804",
+        "node_offset": {
+          "x": 985,
+          "y": 304
+        },
+        "stable_path": [
+          "18268:68804"
+        ]
+      },
+      "order_id": "134"
+    },
+    {
+      "id": "1557942474",
+      "uuid": "fb403c95-cdb3-496a-8cbd-d3131d8dcd68",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:23:51.300Z",
+      "resolved_at": null,
+      "message": "I think the lay-out - two H1 headers - isn't supporting the content needs. I'd revise the section so you only have one header and one body copy section.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-12-15T18:31:26.998Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18268:68821",
+        "node_offset": {
+          "x": 466,
+          "y": 395
+        },
+        "stable_path": [
+          "18268:68821"
+        ]
+      },
+      "order_id": "132"
+    },
+    {
+      "id": "1557940406",
+      "uuid": "c8c43786-05db-49ab-be4e-0a3df3cc882b",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:22:31.181Z",
+      "resolved_at": null,
+      "message": "Suggested riff via Stormy: \n\nYour VPN will work on all websites except the ones you add here.\nTo exclude a site, enter its address below or manage sites directly in Firefox VPN.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68910",
+        "node_offset": {
+          "x": 769,
+          "y": 150
+        },
+        "stable_path": [
+          "18268:68910"
+        ]
+      },
+      "order_id": "131"
+    },
+    {
+      "id": "1557937918",
+      "uuid": "032e2a9c-03c4-44cf-bb19-f1dc8688512b",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:20:52.249Z",
+      "resolved_at": null,
+      "message": "Should the value prop language here mirror what you do in promotional panels?",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-12-16T19:54:08.705Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18268:68864",
+        "node_offset": {
+          "x": 1037,
+          "y": 295
+        },
+        "stable_path": [
+          "18268:68864"
+        ]
+      },
+      "order_id": "130"
+    },
+    {
+      "id": "1557936266",
+      "uuid": "a9a59662-c8df-4458-8a6a-c6f712fc2295",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:19:50.359Z",
+      "resolved_at": null,
+      "message": "I know we don't want to position Mozilla VPN as an upgrade, but if we don't, I'm not sure the user would understand why we are surfacing the promotion in a moment of frustration.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68831",
+        "node_offset": {
+          "x": 1050,
+          "y": 454
+        },
+        "stable_path": [
+          "18268:68831"
+        ]
+      },
+      "order_id": "128"
+    },
+    {
+      "id": "1557935184",
+      "uuid": "37500992-7722-4927-8367-01bcc71b960e",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:19:08.430Z",
+      "resolved_at": null,
+      "message": "Riff to tighten and make clear they reached bandwidth limit. I don't think we need to talk about \"your browsing is still protected\" -  potentially confusing and feels like overkill since they already made the choice to use VPN. \n\nVPN paused\nYou\u2019ve used all 150 GB of your VPN data. Access will reset next month.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68831",
+        "node_offset": {
+          "x": 995,
+          "y": 304
+        },
+        "stable_path": [
+          "18268:68831"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "1557919381",
+      "uuid": "5c57810b-fc1e-4f1f-8b12-4834ed89ef66",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:08:58.540Z",
+      "resolved_at": null,
+      "message": "It feels like we should say something or link to a support article. Is the issue with the site itself? \n\nRiffin': \n\nVPN isn't working right now\nThere's an issue with the site...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68792",
+        "node_offset": {
+          "x": 965,
+          "y": 323
+        },
+        "stable_path": [
+          "18268:68792"
+        ]
+      },
+      "order_id": "126"
+    },
+    {
+      "id": "1557916863",
+      "uuid": "3ba54364-9454-4790-b191-6903b17e6435",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:07:24.781Z",
+      "resolved_at": null,
+      "message": "Riff on headline: \nVPN isn\u2019t working right now",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68792",
+        "node_offset": {
+          "x": 1041,
+          "y": 251
+        },
+        "stable_path": [
+          "18268:68792"
+        ]
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "1557915873",
+      "uuid": "02eb3345-a4db-4e62-bef5-62fcb9c61e82",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:06:46.885Z",
+      "resolved_at": null,
+      "message": "VPN isn\u2019t working right now \nTry turning it on again in a few minutes.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68947",
+        "node_offset": {
+          "x": 1118,
+          "y": 297
+        },
+        "stable_path": [
+          "18268:68947"
+        ]
+      },
+      "order_id": "124"
+    },
+    {
+      "id": "1557915131",
+      "uuid": "a51cc05c-2a93-41de-995a-37015bd157af",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:06:17.387Z",
+      "resolved_at": null,
+      "message": "Riff: \n\nVPN isn\u2019t working right now\nTry turning VPN on again in a few minutes.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68943",
+        "node_offset": {
+          "x": 624,
+          "y": 449
+        },
+        "stable_path": [
+          "18268:68943"
+        ]
+      },
+      "order_id": "123"
+    },
+    {
+      "id": "1557912160",
+      "uuid": "d1212b07-7666-4845-966a-807c27a386c4",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:04:17.582Z",
+      "resolved_at": null,
+      "message": "I am wondering if this should be styled as a spotlight modal, instead",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68943",
+        "node_offset": {
+          "x": 796,
+          "y": 425
+        },
+        "stable_path": [
+          "18268:68943"
+        ]
+      },
+      "order_id": "122"
+    },
+    {
+      "id": "1557909176",
+      "uuid": "c9351f10-f1c1-49bf-843f-b1692e73ab8d",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T17:02:14.570Z",
+      "resolved_at": null,
+      "message": "Riff to make more active and conversational: \n\nCouldn't connect to VPN\nYou can try again in a few minutes.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-12-15T18:24:44.361Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18268:68796",
+        "node_offset": {
+          "x": 667,
+          "y": 451
+        },
+        "stable_path": [
+          "18268:68796"
+        ]
+      },
+      "order_id": "121"
+    },
+    {
+      "id": "1557904071",
+      "uuid": "f5ca64da-4a92-4f9b-a51a-dc8d9ddc0eb4",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T16:59:03.809Z",
+      "resolved_at": null,
+      "message": "Reco the visual support the message, or consider no visual at all",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68854",
+        "node_offset": {
+          "x": 1026,
+          "y": 187
+        },
+        "stable_path": [
+          "18268:68854"
+        ]
+      },
+      "order_id": "119"
+    },
+    {
+      "id": "1557903437",
+      "uuid": "32106ded-07ca-4e01-bccc-313016659169",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T16:58:40.539Z",
+      "resolved_at": null,
+      "message": "I could see the user being a bit confused by the button - Wait, isn\u2019t it already off? So what does \"Turn off\" do here?\"  What if you got more specific in this string to clarify the off states? Riffs: \n* Turn off VPN everywhere\n* Disable VPN",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-12-15T18:21:07.591Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18268:68854",
+        "node_offset": {
+          "x": 878,
+          "y": 388
+        },
+        "stable_path": [
+          "18268:68854"
+        ]
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "1557897590",
+      "uuid": "5e34c1ef-3578-48be-a762-d296f8c7a848",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T16:55:14.191Z",
+      "resolved_at": null,
+      "message": "Riff: VPN is off for this site",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-12-15T18:20:15.954Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18268:68854",
+        "node_offset": {
+          "x": 1054,
+          "y": 294
+        },
+        "stable_path": [
+          "18268:68854"
+        ]
+      },
+      "order_id": "117"
+    },
+    {
+      "id": "1557893976",
+      "uuid": "5ebe976f-51b7-4c11-b6f0-b8751d67cb6b",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T16:53:09.215Z",
+      "resolved_at": null,
+      "message": "Riff to tighten and make it a bit warmer: Turn off VPN for a site, and we\u2019ll remember your choice next time.",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-12-15T18:19:32.548Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        },
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-12-16T19:58:40.458Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18268:68779",
+        "node_offset": {
+          "x": 1114,
+          "y": 455
+        },
+        "stable_path": [
+          "18268:68779"
+        ]
+      },
+      "order_id": "115"
+    },
+    {
+      "id": "1557877673",
+      "uuid": "b3dee2aa-1bcb-4a63-9feb-317c4809fb35",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T16:43:52.310Z",
+      "resolved_at": null,
+      "message": "Since the toggle isn't being used anymore, I reco a different visual. Also suggest one more specific to the action. =)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68850",
+        "node_offset": {
+          "x": 1080,
+          "y": 220
+        },
+        "stable_path": [
+          "18268:68850"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "1557876235",
+      "uuid": "858c035b-9fd2-447a-a4f1-8f8fc82463d1",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T16:43:02.473Z",
+      "resolved_at": null,
+      "message": "What's the experience when they are in the act of sending the report? Does the flow go straight from 1. Clicks on \"Report broken site\" to \"Report sent\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68766",
+        "node_offset": {
+          "x": 99,
+          "y": 404
+        },
+        "stable_path": [
+          "18268:68766"
+        ]
+      },
+      "order_id": "111"
+    },
+    {
+      "id": "1557874900",
+      "uuid": "fadd15bb-825d-44e6-9a71-757de2116251",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T16:42:14.016Z",
+      "resolved_at": null,
+      "message": "Suggested riff to tighten: \"Thanks for helping us build a better VPN.\"",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-12-15T18:16:43.619Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18268:68766",
+        "node_offset": {
+          "x": 207,
+          "y": 485
+        },
+        "stable_path": [
+          "18268:68766"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "1557872446",
+      "uuid": "8a883f0a-b9e1-4634-a677-7a01f4943bc9",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T16:40:48.142Z",
+      "resolved_at": null,
+      "message": "I assume scope is one string that works for all? Post MVP, it would be a nice-to-have if this was: \"You've got 150 GB left this month\"",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-12-15T18:16:21.949Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18268:68717",
+        "node_offset": {
+          "x": 1068,
+          "y": 320
+        },
+        "stable_path": [
+          "18268:68717"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "1557865604",
+      "uuid": "72627171-b9e5-41db-9c7a-be1e65b3cf3c",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T16:36:43.381Z",
+      "resolved_at": null,
+      "message": "The body copy isn't really adding new info and repeats some of what they already learned in the header. Was there anything else to say or could you drop the body copy completely?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68734",
+        "node_offset": {
+          "x": 841,
+          "y": 272
+        },
+        "stable_path": [
+          "18268:68734"
+        ]
+      },
+      "order_id": "107"
+    },
+    {
+      "id": "1557862619",
+      "uuid": "517a807c-b7fc-4586-824a-ddb90aaa3e62",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T16:35:00.812Z",
+      "resolved_at": null,
+      "message": "Revision for tightening: Get 150 GB of free VPN every month. \n\n(Stormy suggested this - recommend running copy through out little robot for these kind of tweaks!)",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-12-15T16:53:03.667Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18268:68730",
+        "node_offset": {
+          "x": 1099,
+          "y": 390
+        },
+        "stable_path": [
+          "18268:68730"
+        ]
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "1557859460",
+      "uuid": "b23171db-c302-4049-93b2-6e8fdff5d09f",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T16:33:16.123Z",
+      "resolved_at": null,
+      "message": "see comment on first panel about connecting privacy workings to the end benefit",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68730",
+        "node_offset": {
+          "x": 1116,
+          "y": 318
+        },
+        "stable_path": [
+          "18268:68730"
+        ]
+      },
+      "order_id": "105"
+    },
+    {
+      "id": "1557858095",
+      "uuid": "1513621b-dd01-4863-8761-3d1ec4410b44",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T16:32:28.410Z",
+      "resolved_at": null,
+      "message": "Note to adjust name when decision is made",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-12-15T16:52:49.014Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18268:68730",
+        "node_offset": {
+          "x": 940,
+          "y": 285
+        },
+        "stable_path": [
+          "18268:68730"
+        ]
+      },
+      "order_id": "104"
+    },
+    {
+      "id": "1557857401",
+      "uuid": "8146022f-5cf7-4bdd-be9d-691d52a43b44",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T16:32:04.565Z",
+      "resolved_at": null,
+      "message": "Curious about the button placement - is this standard?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68730",
+        "node_offset": {
+          "x": 933,
+          "y": 446
+        },
+        "stable_path": [
+          "18268:68730"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "1557856517",
+      "uuid": "0420cf39-be95-40c7-8df9-7631a226b93a",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T16:31:33.330Z",
+      "resolved_at": null,
+      "message": "Has a ticket been filed for Kit illustrations for this?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68710",
+        "node_offset": {
+          "x": 1120,
+          "y": 193
+        },
+        "stable_path": [
+          "18268:68710"
+        ]
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "1557854052",
+      "uuid": "f6a90170-e65a-49d6-b618-d1c89eb1f168",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T16:30:10.119Z",
+      "resolved_at": null,
+      "message": "Body copy: \"new\" is a tighter, simpler way to say \"introducing\"  and you can remove \"in Firefox\" (if your header does that work for you). Alice's research recommends trying to connect the dots between what the feature does (encryption) and the benefit you get. At the same time, I know you don't want Firefox to sound unsafe. Two riffs for consideration: \n\nUse our new built-in VPN to hide your location and protect your data with extra encryption.\n\nUse our new built-in VPN to hide your location and boost your browsing encryption.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68710",
+        "node_offset": {
+          "x": 967,
+          "y": 317
+        },
+        "stable_path": [
+          "18268:68710"
+        ]
+      },
+      "order_id": "101"
+    },
+    {
+      "id": "1557835368",
+      "uuid": "66bb91b6-ce04-4c72-afb1-9bdda7ebb45a",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T16:19:53.689Z",
+      "resolved_at": null,
+      "message": "Note to adjust name once decision is final. If drop the \"Firefox\" in the name, this could be re-written as something like \"Free VPN, right inside your browser\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68710",
+        "node_offset": {
+          "x": 970,
+          "y": 280
+        },
+        "stable_path": [
+          "18268:68710"
+        ]
+      },
+      "order_id": "94"
+    },
+    {
+      "id": "1557833997",
+      "uuid": "0d1bb7ce-f6db-467e-b6eb-c22f74c7f1c6",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T16:19:06.608Z",
+      "resolved_at": null,
+      "message": "Good bits throughout here for the \"conversion copy\" one-pager at our documentation day!",
+      "reactions": [
+        {
+          "emoji": ":fire:",
+          "created_at": "2025-12-15T16:51:32.207Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18268:68716",
+        "node_offset": {
+          "x": 200,
+          "y": 216
+        },
+        "stable_path": [
+          "18268:68716"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "1557816107",
+      "uuid": "eb11382b-e8de-42fd-a6e1-5f3e9cd1b881",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-15T16:09:17.594Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu Can we add this to the components page?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18268:68766",
+        "node_offset": {
+          "x": 347,
+          "y": 448
+        },
+        "stable_path": [
+          "18268:68766"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "1555927410",
+      "uuid": "5403f36c-000a-4fd0-ae67-164f067d71fe",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-12-12T21:12:00.764Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez I would still recommend NOT leading with unlimited bandwidth because it still makes the bandwidth connection between the products. Perhaps leading with broad or more extensive protection?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18077:20191",
+        "node_offset": {
+          "x": 1139,
+          "y": 390.001953125
+        },
+        "stable_path": [
+          "18077:20191"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "1555839636",
+      "uuid": "51f1bfcc-db7c-4bd1-acb4-3f5c215bde2a",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2025-12-12T19:38:40.803Z",
+      "resolved_at": null,
+      "message": "Similarly, I think this copy is slightly confusing. The prior copy around \"Excluding\" required fewer mental hoops, I think",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18077:20171",
+        "node_offset": {
+          "x": 986,
+          "y": 432
+        },
+        "stable_path": [
+          "18077:20171"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "1555838632",
+      "uuid": "a8783167-bc08-4b33-875c-0253edd54d51",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2025-12-12T19:37:39.450Z",
+      "resolved_at": null,
+      "message": "This reads a little confusingly to me,  maybe Laura has alt options?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18077:20155",
+        "node_offset": {
+          "x": 1140,
+          "y": 297
+        },
+        "stable_path": [
+          "18077:20155"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "1555800485",
+      "uuid": "51f1e0be-b2f8-44bf-8886-bb1c8cb169c7",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2025-12-12T19:02:02.208Z",
+      "resolved_at": null,
+      "message": "might make more sense to have this say a %",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-12-12T21:09:29.992Z",
+          "user": {
+            "id": "935956396631178388",
+            "handle": "Diana Horn",
+            "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18077:20175",
+        "node_offset": {
+          "x": 1218,
+          "y": 423
+        },
+        "stable_path": [
+          "18077:20175"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "1555799587",
+      "uuid": "3731714e-518f-49db-b45c-d3b0767c0260",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2025-12-12T19:01:10.399Z",
+      "resolved_at": null,
+      "message": "what does the panel look like when it's off just for this site?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18077:20167",
+        "node_offset": {
+          "x": 1163,
+          "y": 66
+        },
+        "stable_path": [
+          "18077:20167"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "1555548712",
+      "uuid": "8ce84f99-c2ac-46d9-80ed-9ab2250ca7e7",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-12-12T15:45:20.699Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu perhaps having a solid background for the illustration block. The placeholder icon above is throwing off the visual scan a bit.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-12-12T15:52:07.873Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18203:38298",
+        "node_offset": {
+          "x": 386,
+          "y": 87
+        },
+        "stable_path": [
+          "18203:38298"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "1554303082",
+      "uuid": "6457c400-61ab-4d3f-a07e-463ee8dfc4ef",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-12-11T22:03:28.968Z",
+      "resolved_at": null,
+      "message": "Reuse this state for VPN abusers",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18190:67713",
+        "node_offset": {
+          "x": 1157,
+          "y": 146
+        },
+        "stable_path": [
+          "18190:67713"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "1552106735",
+      "uuid": "0c673059-73d4-4d4e-9f78-08a24939f3f2",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-12-10T19:27:58.082Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu mock up experience for bad actors, should say VPN is unavailable with no CTA, and no option to contact support?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18077:20100",
+        "node_offset": {
+          "x": 10980,
+          "y": 3856
+        },
+        "stable_path": [
+          "18077:20100"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1552089767",
+      "uuid": "889679ff-e060-46c8-a636-fe475c39232b",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-12-10T19:16:00.364Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu add scenario for when internet is unavailable",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18077:20100",
+        "node_offset": {
+          "x": 10949,
+          "y": 3597
+        },
+        "stable_path": [
+          "18077:20100"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1552085729",
+      "uuid": "e6704d62-0d8f-493a-8847-8809fcdb60d2",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-12-10T19:13:14.763Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu add catastrophic error mock",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18077:20100",
+        "node_offset": {
+          "x": 11032,
+          "y": 3244
+        },
+        "stable_path": [
+          "18077:20100"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "1551870324",
+      "uuid": "f204a188-6c6e-4a4c-adf3-aaf6c7639a51",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-12-10T16:51:06.447Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez @Diana Horn here's the proposal for decoupling the Mozilla VPN upsell from the bandwidth warning. I've removed references from the limit warning screens below, but kept it in the limit reached warning pending approval from @Maysarah Shahabuddin to remove it",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18103:30668",
+        "node_offset": {
+          "x": 1051,
+          "y": 539
+        },
+        "stable_path": [
+          "18103:30668"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "1551263249",
+      "uuid": "a41022bc-6c18-43ff-bb56-18a2a4e6f846",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-10T11:49:13.641Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu Understand these are wires, but lets maintain either center or left alignment throughout these layouts for consistency. Currently there is a mix of both.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17926:26343",
+        "node_offset": {
+          "x": 983,
+          "y": 202.0009765625
+        },
+        "stable_path": [
+          "17926:26343"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1551261609",
+      "uuid": "3c19d941-f0cc-4150-98fd-95054846d6d4",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-10T11:48:19.749Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu As part of Nova, we are proposing that VPN is pulled out from the main toolbar. I will confirm this decision today. Remind me again, what your target release date is for this feature.\n\ncc @Diana Horn",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17926:25956",
+        "node_offset": {
+          "x": 1174,
+          "y": 67.0009765625
+        },
+        "stable_path": [
+          "17926:25956"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "1551165882",
+      "uuid": "18079018-03b4-4a00-acc3-a795da7d1e1b",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-10T10:57:08.317Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu Ahead of next week's review, It would be good to context slides into the intro. You touch on some of the requirements here but lets highlight the points below from a storytelling POV\n\n1. Problem we are solving + UR synth\n2. Launch timeline and desired feedback\n3. Quick competitive analysis\n4. Any previous iterations -->\n5. Go into designs\n\ncc @Diana Horn",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17926:17025",
+        "node_offset": {
+          "x": 48,
+          "y": 57
+        },
+        "stable_path": [
+          "17926:17025"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1551155746",
+      "uuid": "23991325-deb7-4b08-9a78-db5814e8af00",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-10T10:52:14.967Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu Yes, this assumption is correct, I wouldn't pull in styling in from Nova given the release schedule.\n\ncc @Diana Horn",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17992:22415",
+        "node_offset": {
+          "x": 117,
+          "y": 211.0009765625
+        },
+        "stable_path": [
+          "17992:22415"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1550175602",
+      "uuid": "99d1cc04-594e-4e56-b55e-e612f8b46d8f",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-09T21:00:52.947Z",
+      "resolved_at": null,
+      "message": "LL for upgrade messaging",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17926:41150",
+        "node_offset": {
+          "x": 1186,
+          "y": 366
+        },
+        "stable_path": [
+          "17926:41150"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1550163341",
+      "uuid": "b96abdfc-eef7-4a08-9bf5-31978ba92386",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-09T20:51:19.357Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu Per our chat re: countdown (cc @Fred Chasen ) when we do a countdown, could we do whole numbers up to 1? Then everything less than 1, could we do it to the nearest tenth? \n\nRationale: It feels less jarring for the user to go from 1 ->0 GB. Feels less scary when it says 1 -> .99 GB, .98 GB, etc. \n\nQ: When we show the countdown, is it showing in real time? Or does the user need to close the panel and reopen it?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17926:28566",
+        "node_offset": {
+          "x": 1083,
+          "y": 286
+        },
+        "stable_path": [
+          "17926:28566"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1550059236",
+      "uuid": "7e471704-37e0-4c4f-b2aa-ae426b310886",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-09T19:34:33.800Z",
+      "resolved_at": null,
+      "message": "Joe: Chart to show what's protected vs. not to make it clear? \n\nEx: Monitor vs. Monitor Plus - add'l benefits",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17941:16960",
+        "node_offset": {
+          "x": 1191,
+          "y": 560.001953125
+        },
+        "stable_path": [
+          "17941:16960"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1549937753",
+      "uuid": "9f69f51d-30c5-4895-8ed2-b0f535db36a7",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-09T18:10:45.969Z",
+      "resolved_at": null,
+      "message": "Vesta: Do people know the diff bt Moz vs. Fx VPN?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17941:16960",
+        "node_offset": {
+          "x": 1175,
+          "y": 405.001953125
+        },
+        "stable_path": [
+          "17941:16960"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1549933514",
+      "uuid": "51b1f4f2-18e4-4931-9b4f-57f709417679",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-12-09T18:07:52.639Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez could you use the framing as \"VPN is paused\" for the remaining days this month?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17941:16960",
+        "node_offset": {
+          "x": 1212,
+          "y": 253.001953125
+        },
+        "stable_path": [
+          "17941:16960"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "1549931271",
+      "uuid": "95d19a59-e1d1-4f0d-a652-b29c63e37712",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-09T18:06:15.408Z",
+      "resolved_at": null,
+      "message": "Vesta: \"Free VPN\", 150 GB - can likely mention this later on in the flow",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17926:26343",
+        "node_offset": {
+          "x": 1117,
+          "y": 357
+        },
+        "stable_path": [
+          "17926:26343"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "1549924046",
+      "uuid": "04783031-3085-4dc5-830b-5d9da14c4ff9",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-09T18:01:06.626Z",
+      "resolved_at": null,
+      "message": "Diana - Unlimited data associated with Fx VPN",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17941:16948",
+        "node_offset": {
+          "x": 1202,
+          "y": 440
+        },
+        "stable_path": [
+          "17941:16948"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1549914721",
+      "uuid": "627e58c5-f9a0-4661-b539-7e6eeda28901",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-09T17:55:05.161Z",
+      "resolved_at": null,
+      "message": "Vesta: can we consider leaning into the why here? \n\nIf it's off for a site, and forgot and assumed VPN is on, can we inform them somehow?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17926:28570",
+        "node_offset": {
+          "x": 1207,
+          "y": 377
+        },
+        "stable_path": [
+          "17926:28570"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1549911252",
+      "uuid": "200f7b6d-1f77-4f66-a940-fc703b6476ea",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-09T17:52:47.215Z",
+      "resolved_at": null,
+      "message": "Icon: Circle + status + text in panel? \nHover text - need to add\nRiffs on headline to denote global VPN is on but off for website bc toast is ephemeral",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17926:28566",
+        "node_offset": {
+          "x": 1192,
+          "y": 55
+        },
+        "stable_path": [
+          "17926:28566"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "1549541070",
+      "uuid": "a49dcb7b-e914-4c1d-9468-12bdd2a6e7ec",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-12-09T14:42:38.970Z",
+      "resolved_at": null,
+      "message": "Does this also need an alert icon? It may be too distracting or cause the user to think there's a error vs just lower bandwidth",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18103:40692",
+        "node_offset": {
+          "x": 81,
+          "y": 278
+        },
+        "stable_path": [
+          "18103:40692"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1549525892",
+      "uuid": "9dc382fd-0da1-4206-bd90-6558658141bf",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-09T14:36:03.177Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu Since we're doing US only to start, need to remove the picker. We could let Maysarah speak to this decision, too, when we present.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17926:26330",
+        "node_offset": {
+          "x": 1170,
+          "y": 355
+        },
+        "stable_path": [
+          "17926:26330"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1548034727",
+      "uuid": "063e738d-b327-41de-8703-9bd25b93c874",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-12-08T20:05:48.667Z",
+      "resolved_at": null,
+      "message": "First turn on could be slower",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17860:10110",
+        "node_offset": {
+          "x": 6134,
+          "y": 2054.998046875
+        },
+        "stable_path": [
+          "17860:10110"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1547777424",
+      "uuid": "acafaf9e-99c7-46de-848e-8c32138e08b2",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-12-08T16:51:07.212Z",
+      "resolved_at": null,
+      "message": "Is location change instantaneous or do we need a \"connecting\" state",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17860:10110",
+        "node_offset": {
+          "x": 4653,
+          "y": 3625.998046875
+        },
+        "stable_path": [
+          "17860:10110"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1545903483",
+      "uuid": "97e6a60a-6a62-4211-9451-ac56e1ef7d89",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-05T22:28:56.500Z",
+      "resolved_at": null,
+      "message": "Triggers: \nFirst time add second location\nGBs used: 1 GB loads the mona lisa on your laptop 2000 times\n1 GB is the equivalent to streaming one 2-hour movie in high-def \nDiff triggers based on the user action? Could be a grid we come up with to map the messages. \n\nBiggest worry I have: messages getting stale. Could do a set of 12 (1x/month, one for every month?)\n\nCould use Kit here!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17766:41218",
+        "node_offset": {
+          "x": 1227,
+          "y": 426
+        },
+        "stable_path": [
+          "17766:41218"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1545897768",
+      "uuid": "93ce79fd-0b0c-4036-8323-5f818449e19b",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-05T22:19:19.054Z",
+      "resolved_at": null,
+      "message": "Expression of felt privacy here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17766:41218",
+        "node_offset": {
+          "x": 1198,
+          "y": 402
+        },
+        "stable_path": [
+          "17766:41218"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1545897125",
+      "uuid": "c59cbec8-2aed-45d3-bd16-ee401f2b9939",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-05T22:18:10.704Z",
+      "resolved_at": null,
+      "message": "Can we have a dynamic amount of time left based on the user's activity? \n\nEx:\n* Someone surfing/has not met limit often: 15 mins\n* Someone regularly comes up on the limit: 5 mins \n\nCan we make this a non-dismissible CFR to force users to acknowledge? Or panel opens and cannot be closed?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17814:7920",
+        "node_offset": {
+          "x": 1185,
+          "y": 202
+        },
+        "stable_path": [
+          "17814:7920"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1545888485",
+      "uuid": "83078103-e982-4204-928a-c16110db5be2",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-12-05T22:04:59.593Z",
+      "resolved_at": null,
+      "message": "Add warning or custom icon",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17814:7920",
+        "node_offset": {
+          "x": 900,
+          "y": 354
+        },
+        "stable_path": [
+          "17814:7920"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1545879568",
+      "uuid": "f684ce24-42e2-4b3c-a05a-4f68c3a0235a",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-05T21:53:06.859Z",
+      "resolved_at": null,
+      "message": "Heads up that in the VPN beta, this served as a marketing message more than a status message. \n\nI'm leaning towards removing it but will noodle on this a bit more bc it feels like a lot of messages around site-specific settings.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16172:22234",
+        "node_offset": {
+          "x": 1126,
+          "y": 195
+        },
+        "stable_path": [
+          "16172:22234"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1545875186",
+      "uuid": "48e3c999-3447-4bb4-a0dd-ca57939aefba",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-05T21:47:35.653Z",
+      "resolved_at": null,
+      "message": "CFR the first time someone uses it\n\nCould it be a small blue notif",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17844:14871",
+        "node_offset": {
+          "x": 1128,
+          "y": 77
+        },
+        "stable_path": [
+          "17844:14871"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1545873258",
+      "uuid": "ee97bd7e-1e3c-454e-8fd7-e81c1a94fe36",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-05T21:45:05.491Z",
+      "resolved_at": null,
+      "message": "Need to talk to eng re: the threshold of this trigger",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16172:22851",
+        "node_offset": {
+          "x": 1191,
+          "y": 396
+        },
+        "stable_path": [
+          "16172:22851"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1545872114",
+      "uuid": "83b39575-c4ba-486c-9d47-adf68df8b263",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-05T21:43:40.884Z",
+      "resolved_at": null,
+      "message": "Will need to define the triggers for each. I worry that showing both is over messaging users.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "17766:19836",
+        "node_offset": {
+          "x": 1186,
+          "y": 180
+        },
+        "stable_path": [
+          "17766:19836"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1545866864",
+      "uuid": "75879006-cdbc-4fd3-b22a-a10f91716a69",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-12-05T21:37:04.583Z",
+      "resolved_at": null,
+      "message": "Framed as positive vs. negative? \n\n* Used vs. what's left",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16172:30760",
+        "node_offset": {
+          "x": 1054,
+          "y": 257
+        },
+        "stable_path": [
+          "16172:30760"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1539868523",
+      "uuid": "684fe9ac-9161-47f2-9406-c1529dde2aef",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Jared Wein",
+        "img_url": "https://s3-alpha.figma.com/profile/6f426105-0675-430b-9e74-156bda394020",
+        "id": "897575435417812155"
+      },
+      "created_at": "2025-12-02T19:16:39.367Z",
+      "resolved_at": null,
+      "message": "On this screen the location selection shows a subview, but on the screen to the left there is a dropdown. We should use a dropdown for the initial release as it's much simpler to implement, though it won't allow for showing the flag by default.\n\n/cc @Wolasi Konu",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-5:",
+          "created_at": "2025-12-03T04:38:20.428Z",
+          "user": {
+            "id": "1450570527398719312",
+            "handle": "Wolasi Konu",
+            "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10628:13415",
+        "node_offset": {
+          "x": 946,
+          "y": 120
+        },
+        "stable_path": [
+          "10628:13415"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1539821900",
+      "uuid": "c1a67592-418a-40b3-9755-282cd878138b",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Jared Wein",
+        "img_url": "https://s3-alpha.figma.com/profile/6f426105-0675-430b-9e74-156bda394020",
+        "id": "897575435417812155"
+      },
+      "created_at": "2025-12-02T18:44:33.255Z",
+      "resolved_at": null,
+      "message": "When the user has hit their bandwidth limit, we will need to specify what the user experience of using the browser while the VPN is on. I suggest that we block all navigation and show a network error page-style error that asks the user to upgrade to Mozilla VPN or turn the VPN off. We shouldn't disable the VPN automatically as it will remove a protection silently that the user has asked for.\n\n/cc @Wolasi Konu",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10628:13438",
+        "node_offset": {
+          "x": 1105,
+          "y": 460
+        },
+        "stable_path": [
+          "10628:13438"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1539819257",
+      "uuid": "646a0e54-b8ff-4b0e-b59f-5b073dd00ffa",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Jared Wein",
+        "img_url": "https://s3-alpha.figma.com/profile/6f426105-0675-430b-9e74-156bda394020",
+        "id": "897575435417812155"
+      },
+      "created_at": "2025-12-02T18:42:42.828Z",
+      "resolved_at": null,
+      "message": "This should open the existing Report Broken Site feature that exists in Help -> Report Broken Site. It's crucial we use the existing feature as it already has proper data protections as well as necessary logs that will help in understanding the breakage.\n\n/cc @Wolasi Konu",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10628:13407",
+        "node_offset": {
+          "x": 988,
+          "y": 378
+        },
+        "stable_path": [
+          "10628:13407"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1539428972",
+      "uuid": "bb0ab35a-279f-46fd-b3e3-d23ea280550f",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Jared Wein",
+        "img_url": "https://s3-alpha.figma.com/profile/6f426105-0675-430b-9e74-156bda394020",
+        "id": "897575435417812155"
+      },
+      "created_at": "2025-12-02T15:08:02.736Z",
+      "resolved_at": null,
+      "message": "Are we considering having different text headers that we rotate or test? The feature is useful when not on public wifi, so maybe this message makes it seem like it's not relevant to someone at home? Other use cases we could mention is to stop your ISP from seeing what sites you visit, and to limit the sites from knowing what location you're at",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10628:13399",
+        "node_offset": {
+          "x": 1062,
+          "y": 279
+        },
+        "stable_path": [
+          "10628:13399"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1538017320",
+      "uuid": "3ef91415-9902-4edd-b3fc-55cdd94e514d",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Jared Wein",
+        "img_url": "https://s3-alpha.figma.com/profile/6f426105-0675-430b-9e74-156bda394020",
+        "id": "897575435417812155"
+      },
+      "created_at": "2025-12-01T22:14:01.835Z",
+      "resolved_at": null,
+      "message": "Projecting the amount of time that remains based on historical bandwidth use adds a lot of complexity and isn't something that is offered today in Mozilla VPN. We can get this wrong and be more confusing to users than we are trying to be helpful. I would like us to just say how many GB are left and let the user figure that out based on their own projections.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10628:13438",
+        "node_offset": {
+          "x": 1009,
+          "y": 569
+        },
+        "stable_path": [
+          "10628:13438"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1524344365",
+      "uuid": "3d0ddc9b-337f-42b9-bff1-d0bd9e37a9d3",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-11-20T20:30:56.970Z",
+      "resolved_at": null,
+      "message": "Probe if people comprehend these settings. If they don't, add in \"for this site\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10322:9919",
+        "node_offset": {
+          "x": 940,
+          "y": 427
+        },
+        "stable_path": [
+          "10322:9919"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1524322385",
+      "uuid": "30721dd3-e19d-462f-97db-01864998e5f5",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-11-20T20:14:12.256Z",
+      "resolved_at": null,
+      "message": "Hide your activity and location on public Wi-Fi",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10322:9176",
+        "node_offset": {
+          "x": 1966,
+          "y": 674
+        },
+        "stable_path": [
+          "10322:9176"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1522313507",
+      "uuid": "21e9d9e3-dc69-43f1-afdf-063bfe73e2a5",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-11-19T21:23:53.270Z",
+      "resolved_at": null,
+      "message": "Will we clarify here that it's \"site location\" in the header? versus overall location?",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-3:",
+          "created_at": "2025-11-19T22:47:52.625Z",
+          "user": {
+            "id": "971812688925499640",
+            "handle": "Alice Rhee",
+            "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10217:5155",
+        "node_offset": {
+          "x": 1014,
+          "y": 90
+        },
+        "stable_path": [
+          "10217:5155"
+        ]
+      },
+      "order_id": "11"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1577674367",
+      "uuid": "11e5c8c7-b0ee-4415-8fe0-ac31d310d4a3",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-01-07T03:00:11.876Z",
+      "resolved_at": null,
+      "message": "hey @Wolasi Konu - for the shield icon and 'Use VPN for this site', let's update the color token to 'text/color'. I've attached a screenshot to show what this would look like. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "18729:55817",
+        "node_offset": {
+          "x": 170,
+          "y": 209
+        },
+        "stable_path": [
+          "18729:55817"
+        ]
+      },
+      "order_id": "274"
+    },
+    {
+      "id": "1577447779",
+      "uuid": "4d57ccec-ab1f-4058-99a3-a11db3dc69a8",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-06T21:18:46.094Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz riff to address contrast issues and simplify the chrome rendering, wdyt?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19216:39579",
+        "node_offset": {
+          "x": 416,
+          "y": 127
+        },
+        "stable_path": [
+          "19216:39579"
+        ]
+      },
+      "order_id": "270"
+    },
+    {
+      "id": "1577319719",
+      "uuid": "204de2a7-33fc-4b98-9188-1c9ae7ca0f9e",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2026-01-06T19:20:20.112Z",
+      "resolved_at": null,
+      "message": "@Wolasi Konu @Jane Wolf Revised this riff a bit to be simpler and zoom out of the globe. I like the composition better - it might fit better overall with the others, but the fox feels more ownable. Users will be seeing the fox in the CFR above though.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "19191:8587",
+        "node_offset": {
+          "x": 664,
+          "y": 3519
+        },
+        "stable_path": [
+          "19191:8587"
+        ],
+        "region_width": 597,
+        "region_height": 1013,
+        "comment_pin_corner": "bottom-left"
+      },
+      "order_id": "262"
+    },
+    {
+      "id": "1575891172",
+      "uuid": "6ef60891-232e-4ed1-ac76-994b3f1f0872",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-05T20:06:10.573Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz it seems like there's one too many metaphors here, I think we can simplify since the text can do the semantic heavy lifting here :sweat_smile:",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-01-05T20:15:18.526Z",
+          "user": {
+            "id": "1501241353019876562",
+            "handle": "Michelle Diaz",
+            "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18993:7006",
+        "node_offset": {
+          "x": 280,
+          "y": 87.4375
+        },
+        "stable_path": [
+          "18993:7006"
+        ]
+      },
+      "order_id": "244"
+    },
+    {
+      "id": "1575845184",
+      "uuid": "1fd0a47d-f2e3-47da-aa5a-70e4116da9e3",
+      "file_key": "R32vqpWWU9ffSCYrWD8tpw",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2026-01-05T19:20:41.726Z",
+      "resolved_at": null,
+      "message": "@Michelle Diaz if we go with with a full bleed background, I think this light purple background is the better option. The illustrations look brighter and the contrast is better than the darker option.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-01-05T20:13:12.491Z",
+          "user": {
+            "id": "1501241353019876562",
+            "handle": "Michelle Diaz",
+            "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "18993:7005",
+        "node_offset": {
+          "x": 592,
+          "y": 862
+        },
+        "stable_path": [
+          "18993:7005"
+        ]
+      },
+      "order_id": "238"
+    }
+  ]
+}

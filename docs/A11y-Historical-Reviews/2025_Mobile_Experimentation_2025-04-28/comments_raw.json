@@ -1,0 +1,500 @@
+{
+  "unresolved": [
+    {
+      "id": "1599657569",
+      "uuid": "5fda41f2-7e8f-4753-a6ec-47faa92c84b6",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-01-22T15:12:33.830Z",
+      "resolved_at": null,
+      "message": "I perceive this a little complex, maybe just having 3 actions only is enough. WDYT",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7839:64973",
+        "node_offset": {
+          "x": 298,
+          "y": 611
+        },
+        "stable_path": [
+          "7839:64973"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1599648123",
+      "uuid": "ed9648e8-920a-4ece-904f-59778f906b23",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-01-22T15:08:21.366Z",
+      "resolved_at": null,
+      "message": "Maybe we will need to have some type of growth factor here (V2) like Share with your friends",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7812:55861",
+        "node_offset": {
+          "x": 333,
+          "y": 664
+        },
+        "stable_path": [
+          "7812:55861"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1599646556",
+      "uuid": "7cd15ac7-8d92-4938-9429-3ee058c70867",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-01-22T15:07:38.008Z",
+      "resolved_at": null,
+      "message": "I think I preferred the progress bar, but let's try to add more playful approach",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7792:53449",
+        "node_offset": {
+          "x": 292,
+          "y": 576
+        },
+        "stable_path": [
+          "7792:53449"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1599644363",
+      "uuid": "42dc2583-8b8a-417b-9583-3020f3a46c09",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-01-22T15:06:38.500Z",
+      "resolved_at": null,
+      "message": "I would like to present this with a more emotion, maybe consider some type of celebration effect (confetti explosion for example)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7812:55861",
+        "node_offset": {
+          "x": 329,
+          "y": 524
+        },
+        "stable_path": [
+          "7812:55861"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1599642179",
+      "uuid": "ff531580-239b-4e6c-aad7-793a08cb5212",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-01-22T15:05:37.276Z",
+      "resolved_at": null,
+      "message": "I think this is a great opportunity to leverage KIT\u2019s charisma in a way that will be perceived positively. Right now it comes across more as a task\u2014which is fine\u2014but using KIT here could drive stronger engagement.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7792:55826",
+        "node_offset": {
+          "x": 294,
+          "y": 516
+        },
+        "stable_path": [
+          "7792:55826"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1599630875",
+      "uuid": "67dfc11e-e6e2-476e-b977-199d5d599883",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-01-22T15:00:11.876Z",
+      "resolved_at": null,
+      "message": "Let's come with an easy process first, so mabe it's just 3 steps instead of 6, mainly because the reward is just a group of icons.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7792:55826",
+        "node_offset": {
+          "x": 143,
+          "y": 519
+        },
+        "stable_path": [
+          "7792:55826"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1599628377",
+      "uuid": "4e7705ab-52df-4c80-b170-be82ab3eac1b",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2026-01-22T14:59:05.527Z",
+      "resolved_at": null,
+      "message": "Let's try to mock this up with out the noise of the other sections, So let's remove the Jump back and the bookmarks so we have a clean homepage presentation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7792:55826",
+        "node_offset": {
+          "x": 191,
+          "y": 763
+        },
+        "stable_path": [
+          "7792:55826"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1582107058",
+      "uuid": "1ecd7570-e8a2-4fd5-ab17-e781f826e91a",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Khan",
+        "img_url": "https://www.gravatar.com/avatar/fb46d31e3f3903e6e87046ea5c4fe226?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1044448833722871989"
+      },
+      "created_at": "2026-01-09T17:55:31.220Z",
+      "resolved_at": null,
+      "message": "This isn't too prominent or discoverable. Had to give it a third look to finally find this placement",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7699:40483",
+        "node_offset": {
+          "x": 283,
+          "y": 476
+        },
+        "stable_path": [
+          "7699:40483"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1582105798",
+      "uuid": "a2c25dff-2037-463b-8b73-0ceb0ff40695",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Petru Lingurar",
+        "img_url": "https://www.gravatar.com/avatar/8f83425cec0f55ea34d5fd519e505742?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "897718176023977647"
+      },
+      "created_at": "2026-01-09T17:54:26.257Z",
+      "resolved_at": null,
+      "message": "Discussed a bit internally: An easier to support condition for showing the toggle might be whether there is input in the search bar, not whether the keyboard is shown (this feature already needs the 0 state search).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7933:59349",
+        "node_offset": {
+          "x": 225,
+          "y": 648
+        },
+        "stable_path": [
+          "7933:59349"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1582104119",
+      "uuid": "5f72cba6-89fa-4287-b50e-fe87b3d7cb20",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Khan",
+        "img_url": "https://www.gravatar.com/avatar/fb46d31e3f3903e6e87046ea5c4fe226?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1044448833722871989"
+      },
+      "created_at": "2026-01-09T17:52:57.436Z",
+      "resolved_at": null,
+      "message": "This can be deemed as an hindrance because it overlaps at least one suggestion",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7933:59349",
+        "node_offset": {
+          "x": 283,
+          "y": 550
+        },
+        "stable_path": [
+          "7933:59349"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1256748067",
+      "uuid": "89ab6e57-50e9-4491-9d84-82857e7c9c97",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-05-14T18:04:58.378Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya there is still something weird with this image.\n\nI see it's truncated by the toolbar, when in reality that doesn't happen right?\n\nAlso, still not sure about having the logo, maybe just the icon or even better removing it.\n\nOther question regarding balance is the dimension, do you think is fine?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6512:7698",
+        "node_offset": {
+          "x": 740,
+          "y": 148
+        },
+        "stable_path": [
+          "6512:7698"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1256378622",
+      "uuid": "9b353b4e-2f0b-4486-8d22-944c0e4949c1",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2025-05-14T14:35:51.078Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Do you think it would be okay to keep the copy same? for both - confirmation and denied versions?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6512:7698",
+        "node_offset": {
+          "x": 867,
+          "y": 95
+        },
+        "stable_path": [
+          "6512:7698"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1249171447",
+      "uuid": "8c692b63-9bff-4b26-b827-2f87ceef348f",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Gouri Angadi",
+        "img_url": "https://www.gravatar.com/avatar/251cba8334f6f75b4461f0f0e8145343?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "1342961520757637593"
+      },
+      "created_at": "2025-05-09T00:07:22.082Z",
+      "resolved_at": null,
+      "message": "@Anthony Keane - Feel free to give feedback on the copy on these two treatments.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6588:6492",
+        "node_offset": {
+          "x": 465,
+          "y": 614
+        },
+        "stable_path": [
+          "6588:6492"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1237447626",
+      "uuid": "5ebe01d3-b34d-453a-b8b4-75c5cc69e90e",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-04-29T23:56:20.419Z",
+      "resolved_at": null,
+      "message": "Maybe removing the search icon here make sense to avoid the duplicative \"search view\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6524:19828",
+        "node_offset": {
+          "x": 268,
+          "y": 283
+        },
+        "stable_path": [
+          "6524:19828"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1237447040",
+      "uuid": "031f22f0-612d-4a56-90f0-a6a50e69fa34",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-04-29T23:55:19.095Z",
+      "resolved_at": null,
+      "message": "Maybe we don't need to show the \"88\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6524:20019",
+        "node_offset": {
+          "x": 304,
+          "y": 494
+        },
+        "stable_path": [
+          "6524:20019"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1237446626",
+      "uuid": "079500cb-ea10-478a-a50c-4280545bb877",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-04-29T23:54:36.561Z",
+      "resolved_at": null,
+      "message": "Not sure if is possible to insert the favicon here. What happened if there is no favicon available?\n\nMaybe we can use a standard \"Favorite\" icon like a heart or something to explain it's a favorite site/link.\n\nAlso, the color of the line underneath maybe we need to lower the contrast to make it more prominent the icon per se.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6396:2232",
+        "node_offset": {
+          "x": 165,
+          "y": 136
+        },
+        "stable_path": [
+          "6396:2232"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1237445301",
+      "uuid": "40340bc2-d176-435f-81ec-7f091db331ca",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-04-29T23:52:12.200Z",
+      "resolved_at": null,
+      "message": "Do we really need the logo here or just the icon? or maybe no branding at all. WDYT?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6524:19078",
+        "node_offset": {
+          "x": 178,
+          "y": 102
+        },
+        "stable_path": [
+          "6524:19078"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1237444713",
+      "uuid": "32ad8392-0e45-4d59-b85c-505536071dc2",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-04-29T23:51:11.974Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya Can we test the size of this icon in a real screen (Small device) I can imagine that is not going to be well defined. So maybe we need to reconsider this image.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6396:2232",
+        "node_offset": {
+          "x": 205,
+          "y": 168
+        },
+        "stable_path": [
+          "6396:2232"
+        ]
+      },
+      "order_id": "8"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1237446626",
+      "uuid": "079500cb-ea10-478a-a50c-4280545bb877",
+      "file_key": "QGpYI25p2qAQpdgIktKYAn",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2025-04-29T23:54:36.561Z",
+      "resolved_at": null,
+      "message": "Not sure if is possible to insert the favicon here. What happened if there is no favicon available?\n\nMaybe we can use a standard \"Favorite\" icon like a heart or something to explain it's a favorite site/link.\n\nAlso, the color of the line underneath maybe we need to lower the contrast to make it more prominent the icon per se.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6396:2232",
+        "node_offset": {
+          "x": 165,
+          "y": 136
+        },
+        "stable_path": [
+          "6396:2232"
+        ]
+      },
+      "order_id": "10"
+    }
+  ]
+}

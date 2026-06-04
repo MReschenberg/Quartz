@@ -1,0 +1,1164 @@
+{
+  "unresolved": [
+    {
+      "id": "1016030906",
+      "uuid": "b011a63e-5b4c-46c5-a3a3-3d559bebf653",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-11-06T23:46:00.651Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova - Bit of a 'meta' question :) Is this Read me supposed to be the Read me for this template? As in should it describe what's included, who to reach out to (you!), Slack channels, etc? If so, would you might updating it with that info? If not, recommend making this a little more generic so it describes what people should write in this section when they copy the template; happy to help with those descriptions if / as needed!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2:205",
+        "node_offset": {
+          "x": 205,
+          "y": 44
+        },
+        "stable_path": [
+          "2:205"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "738407117",
+      "uuid": "f545b3f3-c71c-49c4-b120-1fe33efa8283",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-03-18T08:58:14.045Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova what you think about adding HCM to the 'Modes' section?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2903:1725",
+        "node_offset": {
+          "x": 19016,
+          "y": -2152
+        },
+        "stable_path": [
+          "2903:1725"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "726468487",
+      "uuid": "c5214d55-7641-4202-abd2-faf09ac7a048",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-03-06T21:16:48.318Z",
+      "resolved_at": null,
+      "message": "Updated",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5313:28293",
+        "node_offset": {
+          "x": 66,
+          "y": 6
+        },
+        "stable_path": [
+          "5313:28293"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "724852224",
+      "uuid": "4b793ba4-9f46-4e32-94c7-cd445f343464",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Katherine Patenio",
+        "img_url": "https://www.gravatar.com/avatar/3ba00bb99f41523d041bb1e150ee7de4?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1014635418459674163"
+      },
+      "created_at": "2024-03-05T21:59:55.542Z",
+      "resolved_at": null,
+      "message": "Interesting. I'm reading this as \"ready to pick up\" for engineers. If so, does that mean sections without this message aren't \"dev ready\" then?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2903:1725",
+        "node_offset": {
+          "x": -1458,
+          "y": 4789
+        },
+        "stable_path": [
+          "2903:1725"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "724828297",
+      "uuid": "660166f8-facd-49af-82ab-96da22fbb7b3",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Katherine Patenio",
+        "img_url": "https://www.gravatar.com/avatar/3ba00bb99f41523d041bb1e150ee7de4?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1014635418459674163"
+      },
+      "created_at": "2024-03-05T21:35:25.727Z",
+      "resolved_at": null,
+      "message": "A thought: it would be useful if we could add something for RTL languages too in the responsive design section.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-03-07T18:49:16.075Z",
+          "user": {
+            "id": "1027295805802769316",
+            "handle": "Cieara Meador",
+            "img_url": "https://www.gravatar.com/avatar/fc8d165e86fe16baa73e56c68f34410b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2940:29993",
+        "node_offset": {
+          "x": 229,
+          "y": 35
+        },
+        "stable_path": [
+          "2940:29993"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "724807669",
+      "uuid": "7f35e14e-3fae-433f-a972-fa4fd16ef391",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Katherine Patenio",
+        "img_url": "https://www.gravatar.com/avatar/3ba00bb99f41523d041bb1e150ee7de4?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1014635418459674163"
+      },
+      "created_at": "2024-03-05T21:14:36.234Z",
+      "resolved_at": null,
+      "message": "Just curious, what qualifies a project as \"l10n complete\"? Is that when all strings have landed in-tree and are exposed to l10n? Does it include designs in Figma for RTL languages or wrapping for long strings?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5378:55638",
+        "node_offset": {
+          "x": 513,
+          "y": 1143
+        },
+        "stable_path": [
+          "5378:55638"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "724720722",
+      "uuid": "4cd495e8-db27-40cb-aabf-cadbc3828058",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Cieara Meador",
+        "img_url": "https://www.gravatar.com/avatar/fc8d165e86fe16baa73e56c68f34410b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027295805802769316"
+      },
+      "created_at": "2024-03-05T19:55:45.813Z",
+      "resolved_at": null,
+      "message": "Would it be possible to add an annotation to the HCM section to reiterate which system color values are used?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2940:31152",
+        "node_offset": {
+          "x": 2408,
+          "y": 122
+        },
+        "stable_path": [
+          "2940:31152"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "724716807",
+      "uuid": "364a33cf-1b07-494d-ac8f-0dff7d2f9a9f",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Cieara Meador",
+        "img_url": "https://www.gravatar.com/avatar/fc8d165e86fe16baa73e56c68f34410b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027295805802769316"
+      },
+      "created_at": "2024-03-05T19:52:36.042Z",
+      "resolved_at": null,
+      "message": "It's been my experience that copy changes pretty often after handoff. Could we make the copy status more explicit or informative?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5378:55638",
+        "node_offset": {
+          "x": 26,
+          "y": 959
+        },
+        "stable_path": [
+          "5378:55638"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "724712602",
+      "uuid": "5a2cb988-fb90-439f-b924-b8d5058b0186",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Cieara Meador",
+        "img_url": "https://www.gravatar.com/avatar/fc8d165e86fe16baa73e56c68f34410b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027295805802769316"
+      },
+      "created_at": "2024-03-05T19:49:02.700Z",
+      "resolved_at": null,
+      "message": "One thing that I think could be improved in the handoff workflow is export of assets like this image. Could we add some sort of annotation/tracking to make sure that assets are exported and kept up-to-date?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2937:24527",
+        "node_offset": {
+          "x": 211,
+          "y": 522
+        },
+        "stable_path": [
+          "2937:24527"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "724707004",
+      "uuid": "b1b05017-f82a-412a-89c5-3dc9b160f709",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Cieara Meador",
+        "img_url": "https://www.gravatar.com/avatar/fc8d165e86fe16baa73e56c68f34410b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027295805802769316"
+      },
+      "created_at": "2024-03-05T19:44:17.210Z",
+      "resolved_at": null,
+      "message": "I really appreciate the color-coding of sections. It makes the whole document more scannable",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2917:5981",
+        "node_offset": {
+          "x": 713,
+          "y": 186
+        },
+        "stable_path": [
+          "2917:5981"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "715081604",
+      "uuid": "76110e4b-17c4-4b79-b860-55a397946ca0",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-02-26T21:23:49.459Z",
+      "resolved_at": null,
+      "message": "at some point  where going to have to add in android tablets too. we may also need or want to refer or mention the grid system / adaptive UI that james is now supporting",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5005:40652",
+        "node_offset": {
+          "x": 627,
+          "y": 462
+        },
+        "stable_path": [
+          "5005:40652"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "714864290",
+      "uuid": "f86749de-047c-4dd2-b4e7-68b7280c9a2f",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-02-26T18:02:46.732Z",
+      "resolved_at": null,
+      "message": "random thought - is there where we would call out how an illustration / image scales? and include information about that. for example, in our first run cards, we strive to scale down the image so that the card doesn't scroll and then it can get bigger. but there's also a max size we want.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5084:70134",
+        "node_offset": {
+          "x": 245,
+          "y": 561
+        },
+        "stable_path": [
+          "5084:70134"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "714861902",
+      "uuid": "40ec6975-49f1-41db-874a-4dbf5b814f9c",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-02-26T18:00:35.353Z",
+      "resolved_at": null,
+      "message": "i might be wrong, but i feel like this could benefit from annotations as well?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5072:60194",
+        "node_offset": {
+          "x": 58,
+          "y": 74
+        },
+        "stable_path": [
+          "5072:60194"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "714859210",
+      "uuid": "d2d02425-cb94-4086-9df1-63e9d681c398",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-02-26T17:58:14.458Z",
+      "resolved_at": null,
+      "message": "on ios we've been asked about how to handle dynamic text.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5005:40650",
+        "node_offset": {
+          "x": 49,
+          "y": 65
+        },
+        "stable_path": [
+          "5005:40650"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "714856086",
+      "uuid": "17ee33fb-24ce-4f29-9ab4-9af3f8d40f86",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-02-26T17:55:41.506Z",
+      "resolved_at": null,
+      "message": "curious what my team thinks, but i wonder if stacking ios and android specific designs would make things a bit easier as you more easily see where things diverge to make sure we're being intentional with our cross-platform differences. \n\nrelatedly, i'd also like to see space to call out those divergences and articulate why we've chosen to diverge.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-02-27T18:34:49.671Z",
+          "user": {
+            "id": "1042453533635562984",
+            "handle": "Yulia Popova",
+            "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2910:1792",
+        "node_offset": {
+          "x": 1360,
+          "y": 5800
+        },
+        "stable_path": [
+          "2910:1792"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "700261995",
+      "uuid": "cfc305c3-b8e1-4fce-b860-efcce05a3448",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-02-13T11:26:37.412Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg does this note in D make sense? I am not sure if it belongs here. Maybe I just delete it?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43338",
+        "node_offset": {
+          "x": 217,
+          "y": 363
+        },
+        "stable_path": [
+          "5006:43338"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "700102332",
+      "uuid": "56811e79-dc10-4072-a91f-c0db3a77f0d4",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-02-13T09:41:22.205Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg I guess here the entire card is also a landmark, right?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43318",
+        "node_offset": {
+          "x": 64,
+          "y": 183
+        },
+        "stable_path": [
+          "5006:43318"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "695140346",
+      "uuid": "30b20015-52cf-4f6b-be05-f92696aa1914",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:47:50.482Z",
+      "resolved_at": null,
+      "message": "This needs an annotation as well, role=landmark, title=settings, button has expanded/collapsed state",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43349",
+        "node_offset": {
+          "x": 156,
+          "y": 257
+        },
+        "stable_path": [
+          "5006:43349"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "695139745",
+      "uuid": "e2bac87e-8550-4b16-b67a-d70d48e011bf",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:47:19.089Z",
+      "resolved_at": null,
+      "message": "I'm not sure what this note means. There doesn't seem to be an image here? \nWe don't need to annotate the plain text, let's just annotate the card as a landmark with name \"New info to check\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43334",
+        "node_offset": {
+          "x": 10,
+          "y": 166
+        },
+        "stable_path": [
+          "5006:43334"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "695138637",
+      "uuid": "48e9bc3d-9fe4-4959-9958-39052d43efa4",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:46:21.669Z",
+      "resolved_at": null,
+      "message": "The entire card should have an annotation of landmark",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43294",
+        "node_offset": {
+          "x": 17,
+          "y": 203
+        },
+        "stable_path": [
+          "5006:43294"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "695137833",
+      "uuid": "c1f4e97b-f1bd-4d85-8735-0fcc7caa6424",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:45:40.488Z",
+      "resolved_at": null,
+      "message": "This doesn't need its own annotation because it's just text, but the text should be exposed to screen readers as it normally is",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43303",
+        "node_offset": {
+          "x": 120,
+          "y": 574
+        },
+        "stable_path": [
+          "5006:43303"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "695137306",
+      "uuid": "6a279622-32e8-4ab0-b9b0-73268890af1d",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:45:15.478Z",
+      "resolved_at": null,
+      "message": "yeah we shouldn't have a description for this it should just be presentational",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43294",
+        "node_offset": {
+          "x": 50,
+          "y": 453
+        },
+        "stable_path": [
+          "5006:43294"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "695136833",
+      "uuid": "8d1b63b9-6c7c-4633-9570-1f74d6b4aafa",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:44:51.886Z",
+      "resolved_at": null,
+      "message": "The paragraph text doesn't need to be included in this annotation, but the title \"Try our trusted guide to product reviews\" should have its own annotation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43294",
+        "node_offset": {
+          "x": 127,
+          "y": 357
+        },
+        "stable_path": [
+          "5006:43294"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "695136034",
+      "uuid": "71995fea-0367-4f33-b07b-e94972e6c9b3",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:44:10.294Z",
+      "resolved_at": null,
+      "message": "Can you use the grey annotation for this instead of the orange, since it is presentational?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-02-13T09:32:53.432Z",
+          "user": {
+            "id": "1042453533635562984",
+            "handle": "Yulia Popova",
+            "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "5006:43311",
+        "node_offset": {
+          "x": 130,
+          "y": 33
+        },
+        "stable_path": [
+          "5006:43311"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "695135499",
+      "uuid": "cf437a14-ff99-49c4-a9a8-5545da916de0",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:43:43.801Z",
+      "resolved_at": null,
+      "message": "This button should have an annotation describing it with role=button and also describing its expanded/collapsed state",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43281",
+        "node_offset": {
+          "x": 300,
+          "y": 25
+        },
+        "stable_path": [
+          "5006:43281"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "695135014",
+      "uuid": "19adccfa-0779-4981-93c5-9f4f89bdbe59",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:43:19.122Z",
+      "resolved_at": null,
+      "message": "I think the list (and its internal elements) should be its own letter instead having them all be E1,E2... here. We want the card to be its own element with a landmark role, and then an unordered list inside of it named \"Price\" with the highlighted text excerpts as list items",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43268",
+        "node_offset": {
+          "x": 97,
+          "y": 882
+        },
+        "stable_path": [
+          "5006:43268"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "695132559",
+      "uuid": "3b9e76a2-3126-40c4-aa99-2c077c61ab0f",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:41:09.715Z",
+      "resolved_at": null,
+      "message": "Same role here and on the other cards",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43268",
+        "node_offset": {
+          "x": 116,
+          "y": 612
+        },
+        "stable_path": [
+          "5006:43268"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "670566698",
+      "uuid": "09cf728d-239d-4fc6-ab0a-ca8e584c8954",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-01-16T17:24:00.941Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova We could also have design principles instead of product goals :shrug: or we just see how it goes",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4976:184",
+        "node_offset": {
+          "x": 985,
+          "y": 250
+        },
+        "stable_path": [
+          "4976:184"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "670292466",
+      "uuid": "0e4902b5-8111-4802-86e5-d52200c802b6",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-01-16T14:18:58.290Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber I have reduced the amount of slides and left only those that give some information about a project. What do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "0:1",
+        "node_offset": {
+          "x": -654,
+          "y": -396
+        },
+        "stable_path": [
+          "0:1"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "738407117",
+      "uuid": "f545b3f3-c71c-49c4-b120-1fe33efa8283",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-03-18T08:58:14.045Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova what you think about adding HCM to the 'Modes' section?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2903:1725",
+        "node_offset": {
+          "x": 19016,
+          "y": -2152
+        },
+        "stable_path": [
+          "2903:1725"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "724720722",
+      "uuid": "4cd495e8-db27-40cb-aabf-cadbc3828058",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Cieara Meador",
+        "img_url": "https://www.gravatar.com/avatar/fc8d165e86fe16baa73e56c68f34410b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027295805802769316"
+      },
+      "created_at": "2024-03-05T19:55:45.813Z",
+      "resolved_at": null,
+      "message": "Would it be possible to add an annotation to the HCM section to reiterate which system color values are used?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2940:31152",
+        "node_offset": {
+          "x": 2408,
+          "y": 122
+        },
+        "stable_path": [
+          "2940:31152"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "700261995",
+      "uuid": "cfc305c3-b8e1-4fce-b860-efcce05a3448",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-02-13T11:26:37.412Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg does this note in D make sense? I am not sure if it belongs here. Maybe I just delete it?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43338",
+        "node_offset": {
+          "x": 217,
+          "y": 363
+        },
+        "stable_path": [
+          "5006:43338"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "700102332",
+      "uuid": "56811e79-dc10-4072-a91f-c0db3a77f0d4",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-02-13T09:41:22.205Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg I guess here the entire card is also a landmark, right?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43318",
+        "node_offset": {
+          "x": 64,
+          "y": 183
+        },
+        "stable_path": [
+          "5006:43318"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "695140346",
+      "uuid": "30b20015-52cf-4f6b-be05-f92696aa1914",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:47:50.482Z",
+      "resolved_at": null,
+      "message": "This needs an annotation as well, role=landmark, title=settings, button has expanded/collapsed state",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43349",
+        "node_offset": {
+          "x": 156,
+          "y": 257
+        },
+        "stable_path": [
+          "5006:43349"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "695139745",
+      "uuid": "e2bac87e-8550-4b16-b67a-d70d48e011bf",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:47:19.089Z",
+      "resolved_at": null,
+      "message": "I'm not sure what this note means. There doesn't seem to be an image here? \nWe don't need to annotate the plain text, let's just annotate the card as a landmark with name \"New info to check\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43334",
+        "node_offset": {
+          "x": 10,
+          "y": 166
+        },
+        "stable_path": [
+          "5006:43334"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "695138637",
+      "uuid": "48e9bc3d-9fe4-4959-9958-39052d43efa4",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:46:21.669Z",
+      "resolved_at": null,
+      "message": "The entire card should have an annotation of landmark",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43294",
+        "node_offset": {
+          "x": 17,
+          "y": 203
+        },
+        "stable_path": [
+          "5006:43294"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "695137833",
+      "uuid": "c1f4e97b-f1bd-4d85-8735-0fcc7caa6424",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:45:40.488Z",
+      "resolved_at": null,
+      "message": "This doesn't need its own annotation because it's just text, but the text should be exposed to screen readers as it normally is",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43303",
+        "node_offset": {
+          "x": 120,
+          "y": 574
+        },
+        "stable_path": [
+          "5006:43303"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "695137306",
+      "uuid": "6a279622-32e8-4ab0-b9b0-73268890af1d",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:45:15.478Z",
+      "resolved_at": null,
+      "message": "yeah we shouldn't have a description for this it should just be presentational",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43294",
+        "node_offset": {
+          "x": 50,
+          "y": 453
+        },
+        "stable_path": [
+          "5006:43294"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "695136833",
+      "uuid": "8d1b63b9-6c7c-4633-9570-1f74d6b4aafa",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:44:51.886Z",
+      "resolved_at": null,
+      "message": "The paragraph text doesn't need to be included in this annotation, but the title \"Try our trusted guide to product reviews\" should have its own annotation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43294",
+        "node_offset": {
+          "x": 127,
+          "y": 357
+        },
+        "stable_path": [
+          "5006:43294"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "695136034",
+      "uuid": "71995fea-0367-4f33-b07b-e94972e6c9b3",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:44:10.294Z",
+      "resolved_at": null,
+      "message": "Can you use the grey annotation for this instead of the orange, since it is presentational?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-02-13T09:32:53.432Z",
+          "user": {
+            "id": "1042453533635562984",
+            "handle": "Yulia Popova",
+            "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "5006:43311",
+        "node_offset": {
+          "x": 130,
+          "y": 33
+        },
+        "stable_path": [
+          "5006:43311"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "695135499",
+      "uuid": "cf437a14-ff99-49c4-a9a8-5545da916de0",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:43:43.801Z",
+      "resolved_at": null,
+      "message": "This button should have an annotation describing it with role=button and also describing its expanded/collapsed state",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43281",
+        "node_offset": {
+          "x": 300,
+          "y": 25
+        },
+        "stable_path": [
+          "5006:43281"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "695135014",
+      "uuid": "19adccfa-0779-4981-93c5-9f4f89bdbe59",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:43:19.122Z",
+      "resolved_at": null,
+      "message": "I think the list (and its internal elements) should be its own letter instead having them all be E1,E2... here. We want the card to be its own element with a landmark role, and then an unordered list inside of it named \"Price\" with the highlighted text excerpts as list items",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43268",
+        "node_offset": {
+          "x": 97,
+          "y": 882
+        },
+        "stable_path": [
+          "5006:43268"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "695132559",
+      "uuid": "3b9e76a2-3126-40c4-aa99-2c077c61ab0f",
+      "file_key": "GuKe41il0nvi6dId2xiuU1",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-07T18:41:09.715Z",
+      "resolved_at": null,
+      "message": "Same role here and on the other cards",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5006:43268",
+        "node_offset": {
+          "x": 116,
+          "y": 612
+        },
+        "stable_path": [
+          "5006:43268"
+        ]
+      },
+      "order_id": "4"
+    }
+  ]
+}

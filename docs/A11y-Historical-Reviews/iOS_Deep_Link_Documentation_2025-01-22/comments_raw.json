@@ -1,0 +1,58 @@
+{
+  "unresolved": [
+    {
+      "id": "1095152317",
+      "uuid": "2f0cc4a6-977a-46b2-aeb8-023394d93253",
+      "file_key": "dMZWWr54nIEC1bCEXPYBti",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2025-01-16T19:53:39.571Z",
+      "resolved_at": null,
+      "message": "let's dig up the use cases and make sure the new solution is going to meet the needs people expressed in their feedback. either through night mode or dark mode. \n\nperhaps circle up with a11y team to ensure any a11y needs expressed by folks are covered by one of these two modes.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8129:1437",
+        "node_offset": {
+          "x": -1573,
+          "y": 6450
+        },
+        "stable_path": [
+          "8129:1437"
+        ]
+      },
+      "order_id": "5"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1095152317",
+      "uuid": "2f0cc4a6-977a-46b2-aeb8-023394d93253",
+      "file_key": "dMZWWr54nIEC1bCEXPYBti",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2025-01-16T19:53:39.571Z",
+      "resolved_at": null,
+      "message": "let's dig up the use cases and make sure the new solution is going to meet the needs people expressed in their feedback. either through night mode or dark mode. \n\nperhaps circle up with a11y team to ensure any a11y needs expressed by folks are covered by one of these two modes.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8129:1437",
+        "node_offset": {
+          "x": -1573,
+          "y": 6450
+        },
+        "stable_path": [
+          "8129:1437"
+        ]
+      },
+      "order_id": "5"
+    }
+  ]
+}

@@ -1,0 +1,2661 @@
+{
+  "unresolved": [
+    {
+      "id": "1622787270",
+      "uuid": "aece42ce-dc46-44d1-ab5c-cd82a11a8234",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-06T18:01:49.879Z",
+      "resolved_at": null,
+      "message": "A11y recommendation is to use underlines for links to avoid relying on color alone to differentiate active UI with the adjacent static text. This may have been already addressed by Reusable Components work though.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:58422",
+        "node_offset": {
+          "x": 615,
+          "y": 201
+        },
+        "stable_path": [
+          "2966:58422"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "1622787188",
+      "uuid": "34b23d4f-4778-42cd-a941-fdaaca583c1e",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-06T18:01:45.392Z",
+      "resolved_at": null,
+      "message": "A11y recommendation is to use underlines for links to avoid relying on color alone to differentiate active UI with the adjacent static text. This may have been already addressed by Reusable Components work though.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:58205",
+        "node_offset": {
+          "x": 851,
+          "y": 188
+        },
+        "stable_path": [
+          "2966:58205"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "1620870827",
+      "uuid": "84e55b89-6e0c-41a4-bf13-3f4795575749",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-05T17:32:44.013Z",
+      "resolved_at": null,
+      "message": "A11y concern: \"Explore more extensions\" has too small of a font size",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:56791",
+        "node_offset": {
+          "x": 1572,
+          "y": 650
+        },
+        "stable_path": [
+          "2966:56791"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "1620870059",
+      "uuid": "f3f86ea9-d496-47bc-8e2f-1ca16b12ec5e",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-05T17:32:17.497Z",
+      "resolved_at": null,
+      "message": "A11y issue: toggle is not discernible (has to have 3:1 in color contrast or more with the background and with the inner items to make the toggle state visible)\n\nCheck: the \"Allow AI enhancements\" has too small of font size",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:56733",
+        "node_offset": {
+          "x": 1695,
+          "y": 565
+        },
+        "stable_path": [
+          "2966:56733"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "1620867516",
+      "uuid": "4ecf5df7-8fac-475a-97a6-db8e8a1dad57",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-05T17:30:41.940Z",
+      "resolved_at": null,
+      "message": "A11y concerns:\n1. \"Maisie\" (profile name) and \"See more\" are using too small font.\n2. \"See more\" as well as the chevron are too far removed from their labels. Bringing them closer (i.e. chevron to the line start and the \"See more\" to under the checkbox's label), or at minimum, adding a white (discernible) border needed to help magnification users guide their viewport to the end of the string",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:56578",
+        "node_offset": {
+          "x": 1703,
+          "y": 588
+        },
+        "stable_path": [
+          "2966:56578"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "1620862010",
+      "uuid": "f7eae7ce-eae9-445e-9c99-d60d7ecdd303",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-05T17:27:29.712Z",
+      "resolved_at": null,
+      "message": "A11y recommendation:\n1. The darker (remaining) track should have 3:1 in color contrast against both the background and the lighter (completed) color for discernibility\n2. If possible, having the glowing to be under the darker (remaining) track, so it's still visible compared to the light (completed) track",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:56511",
+        "node_offset": {
+          "x": 864,
+          "y": 996
+        },
+        "stable_path": [
+          "2966:56511"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1620856898",
+      "uuid": "ae60701f-0b70-421e-886a-3850f1ace162",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-05T17:24:28.863Z",
+      "resolved_at": null,
+      "message": "A11y issue: white text is not readable. Should have at least 4.5:1 in color contrast",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:57186",
+        "node_offset": {
+          "x": 1205,
+          "y": 437
+        },
+        "stable_path": [
+          "2966:57186"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1620741178",
+      "uuid": "868d7a0b-f5b4-40f6-889c-cae12e898e6b",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-05T16:21:27.185Z",
+      "resolved_at": null,
+      "message": "A11y note on blurring, in general, and on combination of blurring and motion:\nThe minimal and relatively slow-moving animation is an inclusive approach for the motion. Maybe, the blur could be tweaked a bit to avoid a response from users with newly acquired sensitivity (i.e. using a Kit tail instead of a glare)? In general, some users (including those who do not identify as having a disability) have been reporting that blurred backgrounds are making them feel dizzy. \n\nRecent usability research data, shows a growing number of users reporting fast motion and blurring as being nauseating or triggering migraines - those users who report starting experiencing it in the last few years are mostly non-disabled users. CX Insights (Tritus Technologies) had a larger study done that included deeper conversations with users who reported newly acquired sensitivity. Some of these user mentioned their new discomfort from fast-moving visuals. And most of users with more severe reactions (incl. vomiting during following a Figma mockup review on a larger screen that has been a part of their routine work) have had (or suspected they had) COVID before they had this sensitivity onset. Most of them have never been diagnosed with any Long COVID or related complications. \n\nSadly, I cannot link to a report above because this was presented on a workshop led by the CX Insights and the research was paid by their commercial customer. But there are 3 available peer-reviewed papers that research similar hypothesis:\n* Frontiers cohort paper (2023) reports vestibular symptoms were commonly mentioned and tracks dizziness over follow-up in post-COVID participants. \n* Earlier Frontiers paper (2022) investigates persistent vestibular damage in people with vertigo after COVID-19. Pendulum test showed 1 in 3 participants had concerns while visually tracking a moving object.\n* Springer paper (2025) reports that \"dizziness, vertigo, and balance problems are among the most frequently reported neurological complaints following COVID-19 infection\", while reporting 1 in 4 participants \"reported that their dizziness worsened with stress, while 30.7% stated that it increased with movement\".\n\nNumbers-wise, in the US, NHANES 2001\u20132004) found 35.4% of US adults 40+ had vestibular dysfunction (often correlated with dizziness/balance issues). CDC estimates that by the end of 2022, 77.5% of Americans had had COVID-19 at least once and 6.9-8% of adults in the US have had Long COVID. So, in the US alone, there could be as much as 3 in 4 adults who may have increased discomfort and 1 in 14 is risking to have a more severe reaction].\n\nImportantly, none of these users reported using \"Prefers reduced motion\" settings and vast majority of them were not aware this feature exists in modern OSes. Thus, relying on this OS-level preference alone is not sufficient.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:56174",
+        "node_offset": {
+          "x": 590,
+          "y": 375
+        },
+        "stable_path": [
+          "2966:56174"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1620641474",
+      "uuid": "6370426b-dce6-4e1c-8d33-6af00b1b4919",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-05T15:34:01.075Z",
+      "resolved_at": null,
+      "message": "A11y note: the vertical separator between the sidebar and its panel and the highlight for the top row of the panel appears with a delay after the panel is shown. This may be perceived as flushing by some users (it is technically not), so if it is possible to combine their appearance with the panel expansion or, possibly, make these lighter objects to fade in a bit, this could smooth the experience for more light sensitive users.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:58375",
+        "node_offset": {
+          "x": 1850,
+          "y": 47
+        },
+        "stable_path": [
+          "2966:58375"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1610702239",
+      "uuid": "a568e099-b8e5-4d4e-95f0-4a8936fc6998",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2026-01-29T21:53:03.257Z",
+      "resolved_at": null,
+      "message": "@Glauber da Silva Nicolau UXLT prefers we move back to this version",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2718:60082",
+        "node_offset": {
+          "x": 718,
+          "y": 869
+        },
+        "stable_path": [
+          "2718:60082"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1597871081",
+      "uuid": "8cd2e15c-4734-4e8d-8af3-12fdb3a63100",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2026-01-21T17:48:32.893Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova we tried a smaller font here, maybe it helps? I still think the colour might not be strong enough",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2540:44982",
+        "node_offset": {
+          "x": 1624,
+          "y": 118
+        },
+        "stable_path": [
+          "2540:44982"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1597836980",
+      "uuid": "b94fed3e-d9e8-4bec-868c-23379c31364e",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2026-01-21T17:26:56.740Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova @Paige Ormiston The animation is ready here for the glow if you want to play with it",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2538:29015",
+        "node_offset": {
+          "x": 11934,
+          "y": 6136
+        },
+        "stable_path": [
+          "2538:29015"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "1572045968",
+      "uuid": "5b17e571-d8dd-4b9f-8a5c-c4beb48d1fcd",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-29T16:14:08.257Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova Happys review",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1499:25990",
+        "node_offset": {
+          "x": -281,
+          "y": 3281
+        },
+        "stable_path": [
+          "1499:25990"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "1561804753",
+      "uuid": "cc2aeb42-40d8-4a42-b668-f1982fea0b4a",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-17T16:00:15.946Z",
+      "resolved_at": null,
+      "message": "this on'es broken, shouldn't say Smart Window as frist message but maybe you can talk around that @Alice Cappo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2048:144995",
+        "node_offset": {
+          "x": 1091,
+          "y": 418
+        },
+        "stable_path": [
+          "2048:144995"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "1559915808",
+      "uuid": "f42c46e5-0994-4e19-b6b3-906d125fbfc6",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-16T17:03:43.527Z",
+      "resolved_at": null,
+      "message": "@Ashley Thomas",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1571:50608",
+        "node_offset": {
+          "x": 630,
+          "y": 376
+        },
+        "stable_path": [
+          "1571:50608"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1555508105",
+      "uuid": "0a3ec01c-95ec-466b-af0f-ac230e15b300",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-12T15:20:01.355Z",
+      "resolved_at": null,
+      "message": "@Glauber da Silva Nicolau Lets make the branded elements the same across start page tab, main surface and switcher.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1854:23298",
+        "node_offset": {
+          "x": 345,
+          "y": 115
+        },
+        "stable_path": [
+          "1854:23298"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1554226448",
+      "uuid": "8048ea87-b5b8-4017-923e-4a8e93688664",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-11T20:54:49.850Z",
+      "resolved_at": null,
+      "message": "This content block doenst feel integrated",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1854:26697",
+        "node_offset": {
+          "x": 948,
+          "y": 469
+        },
+        "stable_path": [
+          "1854:26697"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "1554221206",
+      "uuid": "63ff55a3-4160-44fd-8533-29ec5dc04631",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-11T20:50:38.882Z",
+      "resolved_at": null,
+      "message": "Look at sizing could be confused with a tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1854:22511",
+        "node_offset": {
+          "x": 1389,
+          "y": 76
+        },
+        "stable_path": [
+          "1854:22511"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1554220602",
+      "uuid": "337a9b3c-75c2-4e8a-a6cd-887968e3cdc6",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-11T20:50:09.128Z",
+      "resolved_at": null,
+      "message": "Just one logo to be used across",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1854:22511",
+        "node_offset": {
+          "x": 1280,
+          "y": 79
+        },
+        "stable_path": [
+          "1854:22511"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1554217377",
+      "uuid": "fdfafe86-5e36-4658-84ea-47228b5f2671",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-11T20:47:29.483Z",
+      "resolved_at": null,
+      "message": "Need a light mode start screen",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1854:22511",
+        "node_offset": {
+          "x": 416,
+          "y": 299
+        },
+        "stable_path": [
+          "1854:22511"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1554208337",
+      "uuid": "486a2676-e578-4dd7-be3b-59cf861c94f0",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-11T20:40:14.979Z",
+      "resolved_at": null,
+      "message": "Lets focus on an Smart Window logo and is an AI powered experience",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1854:25464",
+        "node_offset": {
+          "x": 1602,
+          "y": 389
+        },
+        "stable_path": [
+          "1854:25464"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1553848008",
+      "uuid": "42c789de-195c-4ca1-9103-322a2eff9dfa",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-11T16:30:19.765Z",
+      "resolved_at": null,
+      "message": "@Raja Jacob",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1854:25649",
+        "node_offset": {
+          "x": 776,
+          "y": 247
+        },
+        "stable_path": [
+          "1854:25649"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1542041496",
+      "uuid": "4f37e554-5254-46dc-b693-996d615af499",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-03T20:20:03.827Z",
+      "resolved_at": null,
+      "message": "@Meridel Walkington",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-12-03T20:24:21.560Z",
+          "user": {
+            "id": "551476150859297062",
+            "handle": "Meridel Walkington",
+            "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1571:64713",
+        "node_offset": {
+          "x": 629,
+          "y": 532
+        },
+        "stable_path": [
+          "1571:64713"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1541591914",
+      "uuid": "b4eab38f-a573-41fd-bd14-f6ef067de8dc",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-03T15:41:40.379Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber Updated icon set",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1571:64861",
+        "node_offset": {
+          "x": 333,
+          "y": 719
+        },
+        "stable_path": [
+          "1571:64861"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "1529568870",
+      "uuid": "73283d5a-74da-4b89-8db2-a6d77b8bacaf",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Myles Palmer",
+        "img_url": "https://s3-alpha.figma.com/profile/fa9a81d2-031e-4c96-98c6-0c1b8c1287db",
+        "id": "1551871742761106765"
+      },
+      "created_at": "2025-11-25T11:11:53.239Z",
+      "resolved_at": null,
+      "message": "@Nicholas Christowitz can't recall what this screen was explaining y'day in preview but tis here if needed",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1288:8998",
+        "node_offset": {
+          "x": 23,
+          "y": 241
+        },
+        "stable_path": [
+          "1288:8998"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1524805858",
+      "uuid": "a8a81a8b-df94-4809-88c8-f6530f430c39",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-11-21T05:46:42.638Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber here is where we're wrapping it up early on. we need to decide which % of the screen should take, do you know if we have general guidance on number of characters or size?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:21347",
+        "node_offset": {
+          "x": 794,
+          "y": 522
+        },
+        "stable_path": [
+          "1027:21347"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "1524407281",
+      "uuid": "5fb43d9c-3946-4ac3-8092-caed69acabf6",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-20T21:23:04.593Z",
+      "resolved_at": null,
+      "message": "hmmm... now seeing just a little dot here as a separator.. kinda feels tight, and reads a bit as if it's part of the actual title a bit:\n* I wonder if we can add a bit of breathing room around the dot\n* or maybe we can try using a pipe\n* or even depending on where we go with these, and if we want to make these more visual, maybe this can stack under the title text?",
+      "reactions": [
+        {
+          "emoji": ":100:",
+          "created_at": "2025-11-21T05:45:26.032Z",
+          "user": {
+            "id": "1001115112023273046",
+            "handle": "Alice Cappo",
+            "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1027:21209",
+        "node_offset": {
+          "x": 1083,
+          "y": 525
+        },
+        "stable_path": [
+          "1027:21209"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1524402788",
+      "uuid": "463366af-3850-4d0e-8e26-9f7d014ba492",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-20T21:19:23.853Z",
+      "resolved_at": null,
+      "message": "IMO: this looks more clean and balanced, and doesn't take away as much attention from the main task of searching",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:21448",
+        "node_offset": {
+          "x": 1455,
+          "y": 364
+        },
+        "stable_path": [
+          "1027:21448"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1524401581",
+      "uuid": "a48de9f0-61f5-4c36-9fde-828e42da8cee",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-20T21:18:21.634Z",
+      "resolved_at": null,
+      "message": "Personally I think that this sections should still only provide answers to quires... rather then being something that is used to tell people what else to search for.. I think it might distract users from their focus at hand.. and could potentially be a higher risk of cognitive overload..\n\nCC @Paul Annett curious if u had any thoughts on this?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:21809",
+        "node_offset": {
+          "x": 1402,
+          "y": 234
+        },
+        "stable_path": [
+          "1027:21809"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1524396647",
+      "uuid": "548cdbc5-fd18-4df5-ae42-26e882af9b97",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-20T21:14:05.539Z",
+      "resolved_at": null,
+      "message": "I think this type of smaller scale styling for things like this is better, because we can't always have high enough confidence that the user is genuinely looking for foxes. \n\nThe fact that it's not on a dark background also makes it look more clean, and steals away less attention to this section.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:21731",
+        "node_offset": {
+          "x": 1210,
+          "y": 262
+        },
+        "stable_path": [
+          "1027:21731"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1524393902",
+      "uuid": "7edcee70-e6aa-4a81-bc46-4ae19108dd61",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-20T21:11:45.978Z",
+      "resolved_at": null,
+      "message": "The tone of this dark mode hover state seems on the grey side, but the equivalent in light mode seems more purple.. is there a reason for this?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:21278",
+        "node_offset": {
+          "x": 619,
+          "y": 450
+        },
+        "stable_path": [
+          "1027:21278"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1524386787",
+      "uuid": "d9996561-5696-4a3e-97b7-8476ee8e753c",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-20T21:05:40.940Z",
+      "resolved_at": null,
+      "message": "@Alice Cappo here is a rough mock wire of what I was thinking of visualizing the bookmarks and history a bit more. And then using the right section strictly for the (answers, sponsorships, or really really special suggestions)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:21209",
+        "node_offset": {
+          "x": 831,
+          "y": 457
+        },
+        "stable_path": [
+          "1027:21209"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1524385490",
+      "uuid": "e21cb2cc-a57e-447e-a77f-694263eac35b",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-11-20T21:04:31.792Z",
+      "resolved_at": null,
+      "message": "maybe we can add a bit more padding around the line.. give it a bit more breathing room.. feels slightly tight here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:21209",
+        "node_offset": {
+          "x": 447,
+          "y": 389
+        },
+        "stable_path": [
+          "1027:21209"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1524324391",
+      "uuid": "5a6d67fe-635e-4278-82ca-2ef492d5609d",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-11-20T20:15:42.639Z",
+      "resolved_at": null,
+      "message": "Sp 2",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:22159",
+        "node_offset": {
+          "x": 288,
+          "y": 295
+        },
+        "stable_path": [
+          "1027:22159"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1524134475",
+      "uuid": "3ca3a085-6059-4d46-ad2a-17ed6ab1228a",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-11-20T17:59:50.116Z",
+      "resolved_at": null,
+      "message": "The association of Kit with the personalized content and components drives an emotional connection between the brand, broswer value and user",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:19040",
+        "node_offset": {
+          "x": 416,
+          "y": 771
+        },
+        "stable_path": [
+          "1027:19040"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1524125720",
+      "uuid": "f2b603cf-0e55-443c-8467-fd3f0d533e37",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-11-20T17:53:51.341Z",
+      "resolved_at": null,
+      "message": "Could use this same type of control for each section",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:19286",
+        "node_offset": {
+          "x": 1658,
+          "y": 219
+        },
+        "stable_path": [
+          "1027:19286"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1524124714",
+      "uuid": "40bae0e8-7c93-4432-a226-8a8627a9a214",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-11-20T17:53:09.659Z",
+      "resolved_at": null,
+      "message": "Would be nice to have a way to easily expand the widgets to a full view. Same with the content feed on the right. Not just a scrolling behavior, but more of an expand area.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1067:6752",
+        "node_offset": {
+          "x": 552,
+          "y": 858
+        },
+        "stable_path": [
+          "1067:6752"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "1524122816",
+      "uuid": "31c1ce1f-abaf-424f-b9db-9efbd2113f4b",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-11-20T17:51:52.981Z",
+      "resolved_at": null,
+      "message": "Same comment on having more affordance to indicate that you scroll, Especially with this mixed alignment layout.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:19040",
+        "node_offset": {
+          "x": 1769,
+          "y": 843
+        },
+        "stable_path": [
+          "1027:19040"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1524122480",
+      "uuid": "172012a1-094a-4e1b-81d8-b4379d95ab41",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-11-20T17:51:39.106Z",
+      "resolved_at": null,
+      "message": "What if we'd focus on the search box at the top and add the shortcuts there when users land here and then make new tap  editorial, visually bold? with that users can jump off to wherever right away or dismiss the search box and explore",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:20206",
+        "node_offset": {
+          "x": 869,
+          "y": 358
+        },
+        "stable_path": [
+          "1027:20206"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "1524120472",
+      "uuid": "6b836576-01c7-448a-9624-e426c7b921f7",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-11-20T17:50:16.982Z",
+      "resolved_at": null,
+      "message": "Wondering if in this view we don't show the search bar on the top",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:19040",
+        "node_offset": {
+          "x": 1370,
+          "y": 349
+        },
+        "stable_path": [
+          "1027:19040"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1524119575",
+      "uuid": "fc668e2a-65aa-45b7-be31-ebd70dfe1f08",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Diana Horn",
+        "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21",
+        "id": "935956396631178388"
+      },
+      "created_at": "2025-11-20T17:49:42.651Z",
+      "resolved_at": null,
+      "message": "Would be interesting to see how to anchor the shortcuts like you have with the widgets. Or even have it as a menu option",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:19286",
+        "node_offset": {
+          "x": 387,
+          "y": 445
+        },
+        "stable_path": [
+          "1027:19286"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1524118387",
+      "uuid": "b7aecb37-a0a7-41c0-9d1f-a84be2d572e7",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-11-20T17:48:56.942Z",
+      "resolved_at": null,
+      "message": "This is a fun moment, when Kit disappears from the little den on the left and then shows up here, nice way to draw attention to this",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:20961",
+        "node_offset": {
+          "x": 855,
+          "y": 646
+        },
+        "stable_path": [
+          "1027:20961"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1524116612",
+      "uuid": "e0684a5a-d17f-4179-b959-c984e283b77a",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-11-20T17:47:45.790Z",
+      "resolved_at": null,
+      "message": "AI switcher is neat, seeing it here, I was wondering how that would fit with the search box... but that said I know we are exploring that more in the future",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:18899",
+        "node_offset": {
+          "x": 1272,
+          "y": 546
+        },
+        "stable_path": [
+          "1027:18899"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1524114066",
+      "uuid": "09d55b5a-8b7c-494c-ba2f-38908932827d",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-11-20T17:46:03.011Z",
+      "resolved_at": null,
+      "message": "If we have very very high conviction that this is what the user is looking for, then we should do it, if not, this feels a bit heavy",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:21653",
+        "node_offset": {
+          "x": 1147,
+          "y": 278
+        },
+        "stable_path": [
+          "1027:21653"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1524091857",
+      "uuid": "aa72e380-93f8-4e25-b124-c337d60dc449",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-11-20T17:31:14.006Z",
+      "resolved_at": null,
+      "message": "This is very far away from the site name, I think Paul also mentioned a11y considerations around screen magnification users who would probably miss this",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-11-21T05:42:06.085Z",
+          "user": {
+            "id": "1001115112023273046",
+            "handle": "Alice Cappo",
+            "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-11-20T21:01:53.833Z",
+          "user": {
+            "id": "1174480039733711256",
+            "handle": "Dasha Andriyenko",
+            "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1027:21209",
+        "node_offset": {
+          "x": 1532,
+          "y": 444
+        },
+        "stable_path": [
+          "1027:21209"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1524090410",
+      "uuid": "be25996a-582c-4947-b27d-d438e0f60fb2",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-11-20T17:30:17.305Z",
+      "resolved_at": null,
+      "message": "Curious to see how this would wrap in less wide windows",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:21209",
+        "node_offset": {
+          "x": 1064,
+          "y": 521
+        },
+        "stable_path": [
+          "1027:21209"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1524089878",
+      "uuid": "69af1853-2b87-410d-b4a2-84124c7810a6",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-11-20T17:29:56.524Z",
+      "resolved_at": null,
+      "message": "The hover and selected colors are very similar, wondering if we should make them a little bit more differentiated. \n\nAlso not sure about the purple line as additional indicator for a selection, it feels a bit detached from the rounded 'selected'-shape",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:21209",
+        "node_offset": {
+          "x": 397,
+          "y": 195
+        },
+        "stable_path": [
+          "1027:21209"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1524086725",
+      "uuid": "0f523d38-027d-4575-87e2-28df06108854",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-11-20T17:27:56.473Z",
+      "resolved_at": null,
+      "message": "Do we have a mock that shows this interaction? Also, I wonder if there are alternatives that have higher affordance / visibility since this is such a great feature and underlines our aim to support choice",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-11-20T21:25:58.437Z",
+          "user": {
+            "id": "1174480039733711256",
+            "handle": "Dasha Andriyenko",
+            "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1027:21209",
+        "node_offset": {
+          "x": 431,
+          "y": 162
+        },
+        "stable_path": [
+          "1027:21209"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1524022897",
+      "uuid": "49323be0-9031-4fe7-8ac4-f2fc3bc32a5a",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Stephen Field",
+        "img_url": "https://www.gravatar.com/avatar/3c159735dbb15941a0f0d25fa559609f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1540365244594738570"
+      },
+      "created_at": "2025-11-20T16:49:38.659Z",
+      "resolved_at": null,
+      "message": "could kit do something when you click him? e.g. wave goodbye and dissapear? lick his paws etc?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:18899",
+        "node_offset": {
+          "x": 964,
+          "y": 278
+        },
+        "stable_path": [
+          "1027:18899"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1524021377",
+      "uuid": "b53999b6-45ff-4222-8f80-4daacd239a87",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Stephen Field",
+        "img_url": "https://www.gravatar.com/avatar/3c159735dbb15941a0f0d25fa559609f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1540365244594738570"
+      },
+      "created_at": "2025-11-20T16:48:50.578Z",
+      "resolved_at": null,
+      "message": "We've got plenty of width to play with here - do we want consistent search/shortcuts/content widths in standardized grid?",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-11-20T17:24:24.586Z",
+          "user": {
+            "id": "935956396631178388",
+            "handle": "Diana Horn",
+            "img_url": "https://s3-alpha.figma.com/profile/253536c8-5573-4398-acf1-2c2794948e21"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1027:18899",
+        "node_offset": {
+          "x": 862,
+          "y": 673
+        },
+        "stable_path": [
+          "1027:18899"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1524020006",
+      "uuid": "38382db7-23d6-4201-9d4e-e2b29d647761",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Stephen Field",
+        "img_url": "https://www.gravatar.com/avatar/3c159735dbb15941a0f0d25fa559609f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1540365244594738570"
+      },
+      "created_at": "2025-11-20T16:48:06.384Z",
+      "resolved_at": null,
+      "message": "We'd need more \"peak\" than this in the final designs - users don't scroll the page so what is visible in the viewport at various breakpoints is super important",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:18899",
+        "node_offset": {
+          "x": 650,
+          "y": 913
+        },
+        "stable_path": [
+          "1027:18899"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1524018486",
+      "uuid": "2321300e-d677-44ae-bdea-e822fd029e7a",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Stephen Field",
+        "img_url": "https://www.gravatar.com/avatar/3c159735dbb15941a0f0d25fa559609f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1540365244594738570"
+      },
+      "created_at": "2025-11-20T16:47:16.627Z",
+      "resolved_at": null,
+      "message": "Is this purely in page vs nav to other pages? may be confusing?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:18899",
+        "node_offset": {
+          "x": 307,
+          "y": 457
+        },
+        "stable_path": [
+          "1027:18899"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1524013094",
+      "uuid": "d1cd2acb-3a53-4aeb-ad8f-2af579f134b7",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Stephen Field",
+        "img_url": "https://www.gravatar.com/avatar/3c159735dbb15941a0f0d25fa559609f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1540365244594738570"
+      },
+      "created_at": "2025-11-20T16:44:24.033Z",
+      "resolved_at": null,
+      "message": "HMW transition / ingress into history/bookmarks views and allow egress from these views back to HNT? What logic would we propose to pin these views - e.g. would all subsequent new tabs open in the selected view?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:20025",
+        "node_offset": {
+          "x": 279,
+          "y": 516
+        },
+        "stable_path": [
+          "1027:20025"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1523999224",
+      "uuid": "6d4346f5-b12b-4b39-a39e-b7242dfcd8ac",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Stephen Field",
+        "img_url": "https://www.gravatar.com/avatar/3c159735dbb15941a0f0d25fa559609f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1540365244594738570"
+      },
+      "created_at": "2025-11-20T16:36:59.950Z",
+      "resolved_at": null,
+      "message": "@Jim Thomas @Bryan Mao @Amber Meryman @Carolyn O'Hara FYI",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1027:18897",
+        "node_offset": {
+          "x": 933,
+          "y": 486
+        },
+        "stable_path": [
+          "1027:18897"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1519857964",
+      "uuid": "3659bc77-c98a-406e-9ca5-02bf1e702bab",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-18T18:16:24.323Z",
+      "resolved_at": null,
+      "message": "Is it possible to move the sub-menu indication (\">\" chevron) to the left side of the label or closer to the text label, i.e. at the end of the on-screen string?\n\nThis is an existing issue that we could try to resolve with the redesign: ATM many labels of controls on a panel are too far removed from the indicators that these controls are going to open a sub-menu (their chevrons).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "682:17713",
+        "node_offset": {
+          "x": 150,
+          "y": 404
+        },
+        "stable_path": [
+          "682:17713"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1519834721",
+      "uuid": "321feedc-90ec-4c8e-8135-1deda09586c3",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-18T18:01:12.821Z",
+      "resolved_at": null,
+      "message": "Enhancement for default themes and recommendation for Contrast themes (HCM on Windows and Increased Contrast on Linux and Mac):\nCould we increase a color contrast of the border of the menu itself against the menu's own background? Right now it's 1.6:1 and while it is clearly distinguishable against the blue and greens of the example site below it, we probably want to make sure that any website below the menu would be clearly separated from the menu by Firefox. \n\nHaving a sufficient color contrast between the menu border color and menu background color would be highly beneficial for this important separation of chrome vs webcontent, because dark websites would get light menu background to be in contrast with the webcontent, and the light/white backgrounded websites would get that visible border that would help users to discern the menu panel against the website below it.\n\nMaking the border of the panel darker is highly recommended: at least 3:1 or higher in color contrast against the menu background, but probably 4.5:1 and more would give more reliable visual separation for users with low vision, with color deficiency, and even users with glare on their screens too!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "682:17713",
+        "node_offset": {
+          "x": 381,
+          "y": 110
+        },
+        "stable_path": [
+          "682:17713"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1519823190",
+      "uuid": "7f756be9-3dc9-407e-9069-0426bcda3ab0",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-18T17:54:10.101Z",
+      "resolved_at": null,
+      "message": "The \"pressed\"/\"expanded\" state for the menu has very subtle visual change that may make some users to not know if the menu is, in fact, visible and if the block below it is, in fact, that menu item called.\n\nWhile this may not affect the experience with the large menu like this in an extreme way, there are cases, like a shield panel, when a smaller panel is opened and then a user could navigate to the subview of this panel - in this case some users with cognitive disabilities may loose the connection between the subview and the menu button. \n\nHaving clear \"pressed\" state would help users to reinforce that this menu button is, in fact, still pressed and the panel they see comes from Firefox (and could be dismissed by clicking to this pressed menu button again). ATM the only change of the pressed vs default state is in background color - and this change is only 1.3:1 in color contrast (of the lighter purple against the lightest purple toolbar background). \n\nThe color contrast should be at least 3:1 OR it should rely to something else beyond color alone. For instance, adding a border to the pressed button (with the same color that the foreground of the button is using) would resolve this issue and provide a clear state change indication that does not rely on color alone. In the current scenario, the darker purple of the button foreground color against lightest purple from the toolbar background would give amazing 5.8:1 in luminosity ratio (color contrast).\n\n It would also help users of custom themes where the developers of the theme may miss the color readability as well.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "682:17713",
+        "node_offset": {
+          "x": 39,
+          "y": 14
+        },
+        "stable_path": [
+          "682:17713"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1519807377",
+      "uuid": "30d74447-a023-4a3b-854e-be6c9351fe1c",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-18T17:44:44.185Z",
+      "resolved_at": null,
+      "message": "Issue:\nWhile this lighter purple (#945af2 per the Colour Contrast Analyser's eye dropper) is acceptable to be used for graphics, including essential graphics like image buttons, the text however (\"Firefox is ready to update\" in this case) does fail the WCAG 2.x minimum color contrast requirements against even the darker part of this gradient - it should have color contrast for the text (white ATM) against the background (gradient purple to orange) of at the very least 4.5:1 (Level AA), but we hope to ensure text has 7:1 or more in color contrast (for the Level AAA compliance and ease of readability). \n\nCurrently, the light purple against white text gives 4.2:1 in contrast ratio (failing 4.5 benchmark) deteriorating even further by the end of the string to 3.4:1, for longer strings this could go as low as 2.7:1 (not sufficient even for informative graphics and states differentiation). \n\nThis has to be resolved because it is very visible WCAG failure and it affects the readability of the string that the team so thoughtfully crafted to add in the banner. 4.5:1 in color contrast should be the bare minimum for all parts of text against this gradient background. For instance, black color would satisfy this requirement from the purple (5:1) to the orange (7.8:1) sections.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "682:17713",
+        "node_offset": {
+          "x": 74,
+          "y": 78
+        },
+        "stable_path": [
+          "682:17713"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1519792809",
+      "uuid": "28710364-3246-4459-bede-950f59efd8a1",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-18T17:36:00.395Z",
+      "resolved_at": null,
+      "message": "Enhancement: Would that be possible to remove the gradual transparency for high contrast modes (when `forced-colors` on Windows and/or `prefers-contrast` on Linux and MacOS are active)? This could be a helpful affordance and help users who need higher clarify of the interface to distinguish tabs easier as well",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "682:17656",
+        "node_offset": {
+          "x": 505,
+          "y": 19
+        },
+        "stable_path": [
+          "682:17656"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1519789745",
+      "uuid": "907397ea-9b8f-4278-b322-80f6c5bf3ffe",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-18T17:34:04.844Z",
+      "resolved_at": null,
+      "message": "It's not clear what this button is symbolizing, i.e. if it's a user-selected icon (which it is probably not, given that the user profile picture appears on the top left side, next to the menu button) or an extension logo, then this would not need to be adjusted for discernibility (this is not in the browser's control).\n\nBut it seems that this may be some Firefox own tool - then we would need to make sure its border (light gray now) has at least 3:1 in color contrast against the toolbar background, then we could keep the inner image in any other way. ATM the light gray border against the white toolbar background gives only 1.6:1 in color contrast, which is below WCAG 2.1/2.2 Non-text Color Contrast guidelines of 3:1 or more, and it is hard to distinguish this logo control on the toolbar",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "682:17656",
+        "node_offset": {
+          "x": 1423,
+          "y": 63
+        },
+        "stable_path": [
+          "682:17656"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1519779024",
+      "uuid": "253aa7a4-925a-46b8-b3b9-2ac5664d5b45",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-18T17:27:48.770Z",
+      "resolved_at": null,
+      "message": "could the color of this disabled control be made a bit darker? It's currently 1.6:1 and would be easy to miss. While disabled states are technically excluded from WCAG compliance, internally we are aiming to still make sure the disabled controls are somewhat discernible - after all, these controls remain on-screen in their disabled state to indicate that, in some other situation, this control could become enabled. \n\n For instance, the [disabled control color token in Acorn DS](https://acorn.firefox.com/latest/desktop/design-tokens/color-pCFFM8pk#section-color-ca) provides 2.7:1 in color contrast against white background - this makes disabled controls a bit more discernible. \n\nThe goal is to get as close to 3:1 with the disabled foreground color against its background as possible (the lighter purple vs white, in this case), while maintaining at least 3:1 in color contrast between two states' foreground colors (the dark purple for enabled control vs lighter purple for disabled control, in this case).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "682:17656",
+        "node_offset": {
+          "x": 102,
+          "y": 65
+        },
+        "stable_path": [
+          "682:17656"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1515489748",
+      "uuid": "73fb52ae-9558-4613-901b-36ef9b9cae0e",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-11-14T21:20:43.602Z",
+      "resolved_at": null,
+      "message": "What's the TLDR on what we decided to feature in this hover state vs. all the options available in the tab menu that shows when you right click? @Emily Wachowiak",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "482:10730",
+        "node_offset": {
+          "x": 597,
+          "y": 159
+        },
+        "stable_path": [
+          "482:10730"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1515487632",
+      "uuid": "9ad5740e-009a-4f22-8234-b8751230bb06",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-11-14T21:18:29.561Z",
+      "resolved_at": null,
+      "message": "Do we include the rendered image here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "482:10730",
+        "node_offset": {
+          "x": 487,
+          "y": 170
+        },
+        "stable_path": [
+          "482:10730"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1513293095",
+      "uuid": "8fa1a106-fc78-4ae6-bac4-1155c0994e27",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2025-11-13T17:09:13.821Z",
+      "resolved_at": null,
+      "message": "@Nicholas Christowitz I'm seeing some inconsistency with the stroke styling between the anchor and the sidebar. One has an outer stroke while the other inner. I feel they should be consistent.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "510:37241",
+        "node_offset": {
+          "x": 247,
+          "y": 185
+        },
+        "stable_path": [
+          "510:37241"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1512946555",
+      "uuid": "9360924c-5e23-49fd-b28e-53d098caed06",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-11-13T14:25:24.144Z",
+      "resolved_at": null,
+      "message": "String change: \"Add tab to group\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "482:10730",
+        "node_offset": {
+          "x": 373,
+          "y": 249
+        },
+        "stable_path": [
+          "482:10730"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1512697856",
+      "uuid": "b8f88f8a-7aaf-4b3d-81f7-8e991613a132",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2025-11-13T12:23:44.597Z",
+      "resolved_at": null,
+      "message": "Based on Emily's comment. Maybe we should visualise how a folder would look like in the grid view.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "482:50606",
+        "node_offset": {
+          "x": 670,
+          "y": 438
+        },
+        "stable_path": [
+          "482:50606"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1511639999",
+      "uuid": "a859fb11-0c65-4bd4-8fb8-60517ad9ea39",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2025-11-12T23:18:54.856Z",
+      "resolved_at": null,
+      "message": "this panel should push content over unless expand on hover is selected.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "482:55578",
+        "node_offset": {
+          "x": 595,
+          "y": 179
+        },
+        "stable_path": [
+          "482:55578"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1511638583",
+      "uuid": "bc995e8a-458f-4ba6-a27d-9f09a80f2155",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2025-11-12T23:17:02.686Z",
+      "resolved_at": null,
+      "message": "should this be 32x32?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "482:25398",
+        "node_offset": {
+          "x": 280,
+          "y": 225
+        },
+        "stable_path": [
+          "482:25398"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1511638114",
+      "uuid": "f2d32702-04c1-4260-a31f-09f5a3edc919",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2025-11-12T23:16:24.974Z",
+      "resolved_at": null,
+      "message": "I think the app menu icon is missing here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "482:25398",
+        "node_offset": {
+          "x": 288,
+          "y": 99
+        },
+        "stable_path": [
+          "482:25398"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1511634198",
+      "uuid": "c29386eb-341b-4162-8bb9-e3dc2f37f946",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2025-11-12T23:11:25.028Z",
+      "resolved_at": null,
+      "message": "this gradient stoke looks really nice in dark mode :)",
+      "reactions": [
+        {
+          "emoji": ":raised_hands:",
+          "created_at": "2025-11-14T09:45:12.978Z",
+          "user": {
+            "id": "381449623265217402",
+            "handle": "Samuel Medvedowsky",
+            "img_url": "https://s3-alpha.figma.com/profile/52aec04f-edc1-46c4-898e-095ca43a958d"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "482:11520",
+        "node_offset": {
+          "x": 1106,
+          "y": 92
+        },
+        "stable_path": [
+          "482:11520"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1511492750",
+      "uuid": "edcc803f-3c7b-4f94-8646-60e754376eea",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-11-12T21:02:47.636Z",
+      "resolved_at": null,
+      "message": "Would users be able to nest folders like they do today?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "482:50606",
+        "node_offset": {
+          "x": 373,
+          "y": 469
+        },
+        "stable_path": [
+          "482:50606"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1511485814",
+      "uuid": "f5f5458a-717c-49a3-bca2-59271cb669ab",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-11-12T20:57:34.089Z",
+      "resolved_at": null,
+      "message": "Can Metalab share some more thinking around how \"Saves\" are different than \"Bookmarks\"? Would bookmarks continue to exist with this feature? If not, how are saves different? Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "482:50606",
+        "node_offset": {
+          "x": 361,
+          "y": 195
+        },
+        "stable_path": [
+          "482:50606"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1511468141",
+      "uuid": "222e1f83-621c-4c31-9a67-6e62da978d5c",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-11-12T20:44:57.703Z",
+      "resolved_at": null,
+      "message": "@Amy Lee Have we ever considered hiding the color changer behind an edit icon or just exposing selected color (like we're doing for the icon)? Now that there are 3 things to edit, would it help to condense the space with that approach? People usually pick 1 color and stick with it, right? Or is color changing a common action?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "482:11040",
+        "node_offset": {
+          "x": 1003,
+          "y": 177
+        },
+        "stable_path": [
+          "482:11040"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1511462968",
+      "uuid": "d33f190f-3d0f-42c4-a128-a82db0844bc7",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-11-12T20:41:20.445Z",
+      "resolved_at": null,
+      "message": "Would users still be able to mute a tab from the tab strip?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "482:10730",
+        "node_offset": {
+          "x": 665,
+          "y": 203
+        },
+        "stable_path": [
+          "482:10730"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1511462372",
+      "uuid": "28579347-b348-460c-af08-439a47996693",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-11-12T20:40:53.988Z",
+      "resolved_at": null,
+      "message": "Has there been any consideration of including \"Share\" in this view?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "482:10730",
+        "node_offset": {
+          "x": 439,
+          "y": 289
+        },
+        "stable_path": [
+          "482:10730"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1511461453",
+      "uuid": "991b16d4-428b-4441-9575-b4de85528a36",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-11-12T20:40:16.342Z",
+      "resolved_at": null,
+      "message": "Curious about the value of exposing an empty text box vs. making \"Add note\" as a CTA (current designs). The latter takes up less room, but it is an extra click. I can see this empty box being annoying for people who don't use this feature though.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "482:10730",
+        "node_offset": {
+          "x": 615,
+          "y": 401
+        },
+        "stable_path": [
+          "482:10730"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1511340457",
+      "uuid": "cec539c4-6355-4bc8-9034-737bad1415a7",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2025-11-12T19:17:40.626Z",
+      "resolved_at": null,
+      "message": "wanted to note that this exploration was specifically for a optional setting for vertical tabs -- expand on hover. \n\nWe'll need to cover two settings. \n\n1. Default - sidebar button expand and collapses the sidebar \n2. Expand on hover - sidebar button shows and hides the sidebar. On hover it expands. \n\ncc. @Yulia Popova @Emily Wachowiak",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-11-13T12:22:10.259Z",
+          "user": {
+            "id": "1042453533635562984",
+            "handle": "Yulia Popova",
+            "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png"
+          }
+        },
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-11-12T19:37:52.048Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "482:25398",
+        "node_offset": {
+          "x": 285,
+          "y": 180
+        },
+        "stable_path": [
+          "482:25398"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1511335551",
+      "uuid": "2a5ef819-dac0-49c2-82f5-b1c635d81a66",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2025-11-12T19:14:28.438Z",
+      "resolved_at": null,
+      "message": "is it intentional that there is no space between the top chrome and sidebar?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "482:25398",
+        "node_offset": {
+          "x": 222,
+          "y": 138
+        },
+        "stable_path": [
+          "482:25398"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1497807779",
+      "uuid": "487703db-ea8a-4a2a-a0b7-411c599c921a",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-11-04T10:27:52.924Z",
+      "resolved_at": null,
+      "message": "@Alice Cappo @Eric Pang I was talking with Raja yesterday and we are especially keen on keeping this tab shape across both the default state and grouped tabs. Let's work together to build more explorations on how this would work. We feel this would be a good distinction surface for us.\n\ncc @Raja Jacob",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:13685",
+        "node_offset": {
+          "x": 7208,
+          "y": 4335
+        },
+        "stable_path": [
+          "1:13685"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1492922123",
+      "uuid": "b3f52231-1fa4-426c-a9c0-67b20d0163d3",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Oduok Ntuk",
+        "img_url": "https://s3-alpha.figma.com/profile/832c6053-150d-4f52-9b89-7d23f51a47e7",
+        "id": "1549425762155683826"
+      },
+      "created_at": "2025-10-30T19:47:36.355Z",
+      "resolved_at": null,
+      "message": "Least practical from an eng perspective because the amount of customization and reorientation of the browser that is needed.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:13685",
+        "node_offset": {
+          "x": 10246,
+          "y": 857
+        },
+        "stable_path": [
+          "1:13685"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1622787270",
+      "uuid": "aece42ce-dc46-44d1-ab5c-cd82a11a8234",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-06T18:01:49.879Z",
+      "resolved_at": null,
+      "message": "A11y recommendation is to use underlines for links to avoid relying on color alone to differentiate active UI with the adjacent static text. This may have been already addressed by Reusable Components work though.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:58422",
+        "node_offset": {
+          "x": 615,
+          "y": 201
+        },
+        "stable_path": [
+          "2966:58422"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "1622787188",
+      "uuid": "34b23d4f-4778-42cd-a941-fdaaca583c1e",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-06T18:01:45.392Z",
+      "resolved_at": null,
+      "message": "A11y recommendation is to use underlines for links to avoid relying on color alone to differentiate active UI with the adjacent static text. This may have been already addressed by Reusable Components work though.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:58205",
+        "node_offset": {
+          "x": 851,
+          "y": 188
+        },
+        "stable_path": [
+          "2966:58205"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "1620870827",
+      "uuid": "84e55b89-6e0c-41a4-bf13-3f4795575749",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-05T17:32:44.013Z",
+      "resolved_at": null,
+      "message": "A11y concern: \"Explore more extensions\" has too small of a font size",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:56791",
+        "node_offset": {
+          "x": 1572,
+          "y": 650
+        },
+        "stable_path": [
+          "2966:56791"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "1620870059",
+      "uuid": "f3f86ea9-d496-47bc-8e2f-1ca16b12ec5e",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-05T17:32:17.497Z",
+      "resolved_at": null,
+      "message": "A11y issue: toggle is not discernible (has to have 3:1 in color contrast or more with the background and with the inner items to make the toggle state visible)\n\nCheck: the \"Allow AI enhancements\" has too small of font size",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:56733",
+        "node_offset": {
+          "x": 1695,
+          "y": 565
+        },
+        "stable_path": [
+          "2966:56733"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "1620867516",
+      "uuid": "4ecf5df7-8fac-475a-97a6-db8e8a1dad57",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-05T17:30:41.940Z",
+      "resolved_at": null,
+      "message": "A11y concerns:\n1. \"Maisie\" (profile name) and \"See more\" are using too small font.\n2. \"See more\" as well as the chevron are too far removed from their labels. Bringing them closer (i.e. chevron to the line start and the \"See more\" to under the checkbox's label), or at minimum, adding a white (discernible) border needed to help magnification users guide their viewport to the end of the string",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:56578",
+        "node_offset": {
+          "x": 1703,
+          "y": 588
+        },
+        "stable_path": [
+          "2966:56578"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "1620862010",
+      "uuid": "f7eae7ce-eae9-445e-9c99-d60d7ecdd303",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-05T17:27:29.712Z",
+      "resolved_at": null,
+      "message": "A11y recommendation:\n1. The darker (remaining) track should have 3:1 in color contrast against both the background and the lighter (completed) color for discernibility\n2. If possible, having the glowing to be under the darker (remaining) track, so it's still visible compared to the light (completed) track",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:56511",
+        "node_offset": {
+          "x": 864,
+          "y": 996
+        },
+        "stable_path": [
+          "2966:56511"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1620856898",
+      "uuid": "ae60701f-0b70-421e-886a-3850f1ace162",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-05T17:24:28.863Z",
+      "resolved_at": null,
+      "message": "A11y issue: white text is not readable. Should have at least 4.5:1 in color contrast",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:57186",
+        "node_offset": {
+          "x": 1205,
+          "y": 437
+        },
+        "stable_path": [
+          "2966:57186"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1620741178",
+      "uuid": "868d7a0b-f5b4-40f6-889c-cae12e898e6b",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-05T16:21:27.185Z",
+      "resolved_at": null,
+      "message": "A11y note on blurring, in general, and on combination of blurring and motion:\nThe minimal and relatively slow-moving animation is an inclusive approach for the motion. Maybe, the blur could be tweaked a bit to avoid a response from users with newly acquired sensitivity (i.e. using a Kit tail instead of a glare)? In general, some users (including those who do not identify as having a disability) have been reporting that blurred backgrounds are making them feel dizzy. \n\nRecent usability research data, shows a growing number of users reporting fast motion and blurring as being nauseating or triggering migraines - those users who report starting experiencing it in the last few years are mostly non-disabled users. CX Insights (Tritus Technologies) had a larger study done that included deeper conversations with users who reported newly acquired sensitivity. Some of these user mentioned their new discomfort from fast-moving visuals. And most of users with more severe reactions (incl. vomiting during following a Figma mockup review on a larger screen that has been a part of their routine work) have had (or suspected they had) COVID before they had this sensitivity onset. Most of them have never been diagnosed with any Long COVID or related complications. \n\nSadly, I cannot link to a report above because this was presented on a workshop led by the CX Insights and the research was paid by their commercial customer. But there are 3 available peer-reviewed papers that research similar hypothesis:\n* Frontiers cohort paper (2023) reports vestibular symptoms were commonly mentioned and tracks dizziness over follow-up in post-COVID participants. \n* Earlier Frontiers paper (2022) investigates persistent vestibular damage in people with vertigo after COVID-19. Pendulum test showed 1 in 3 participants had concerns while visually tracking a moving object.\n* Springer paper (2025) reports that \"dizziness, vertigo, and balance problems are among the most frequently reported neurological complaints following COVID-19 infection\", while reporting 1 in 4 participants \"reported that their dizziness worsened with stress, while 30.7% stated that it increased with movement\".\n\nNumbers-wise, in the US, NHANES 2001\u20132004) found 35.4% of US adults 40+ had vestibular dysfunction (often correlated with dizziness/balance issues). CDC estimates that by the end of 2022, 77.5% of Americans had had COVID-19 at least once and 6.9-8% of adults in the US have had Long COVID. So, in the US alone, there could be as much as 3 in 4 adults who may have increased discomfort and 1 in 14 is risking to have a more severe reaction].\n\nImportantly, none of these users reported using \"Prefers reduced motion\" settings and vast majority of them were not aware this feature exists in modern OSes. Thus, relying on this OS-level preference alone is not sufficient.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:56174",
+        "node_offset": {
+          "x": 590,
+          "y": 375
+        },
+        "stable_path": [
+          "2966:56174"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1620641474",
+      "uuid": "6370426b-dce6-4e1c-8d33-6af00b1b4919",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2026-02-05T15:34:01.075Z",
+      "resolved_at": null,
+      "message": "A11y note: the vertical separator between the sidebar and its panel and the highlight for the top row of the panel appears with a delay after the panel is shown. This may be perceived as flushing by some users (it is technically not), so if it is possible to combine their appearance with the panel expansion or, possibly, make these lighter objects to fade in a bit, this could smooth the experience for more light sensitive users.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2966:58375",
+        "node_offset": {
+          "x": 1850,
+          "y": 47
+        },
+        "stable_path": [
+          "2966:58375"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1597836980",
+      "uuid": "b94fed3e-d9e8-4bec-868c-23379c31364e",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2026-01-21T17:26:56.740Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova @Paige Ormiston The animation is ready here for the glow if you want to play with it",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2538:29015",
+        "node_offset": {
+          "x": 11934,
+          "y": 6136
+        },
+        "stable_path": [
+          "2538:29015"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "1524091857",
+      "uuid": "aa72e380-93f8-4e25-b124-c337d60dc449",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-11-20T17:31:14.006Z",
+      "resolved_at": null,
+      "message": "This is very far away from the site name, I think Paul also mentioned a11y considerations around screen magnification users who would probably miss this",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-11-21T05:42:06.085Z",
+          "user": {
+            "id": "1001115112023273046",
+            "handle": "Alice Cappo",
+            "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-11-20T21:01:53.833Z",
+          "user": {
+            "id": "1174480039733711256",
+            "handle": "Dasha Andriyenko",
+            "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1027:21209",
+        "node_offset": {
+          "x": 1532,
+          "y": 444
+        },
+        "stable_path": [
+          "1027:21209"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1519857964",
+      "uuid": "3659bc77-c98a-406e-9ca5-02bf1e702bab",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-18T18:16:24.323Z",
+      "resolved_at": null,
+      "message": "Is it possible to move the sub-menu indication (\">\" chevron) to the left side of the label or closer to the text label, i.e. at the end of the on-screen string?\n\nThis is an existing issue that we could try to resolve with the redesign: ATM many labels of controls on a panel are too far removed from the indicators that these controls are going to open a sub-menu (their chevrons).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "682:17713",
+        "node_offset": {
+          "x": 150,
+          "y": 404
+        },
+        "stable_path": [
+          "682:17713"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1519834721",
+      "uuid": "321feedc-90ec-4c8e-8135-1deda09586c3",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-18T18:01:12.821Z",
+      "resolved_at": null,
+      "message": "Enhancement for default themes and recommendation for Contrast themes (HCM on Windows and Increased Contrast on Linux and Mac):\nCould we increase a color contrast of the border of the menu itself against the menu's own background? Right now it's 1.6:1 and while it is clearly distinguishable against the blue and greens of the example site below it, we probably want to make sure that any website below the menu would be clearly separated from the menu by Firefox. \n\nHaving a sufficient color contrast between the menu border color and menu background color would be highly beneficial for this important separation of chrome vs webcontent, because dark websites would get light menu background to be in contrast with the webcontent, and the light/white backgrounded websites would get that visible border that would help users to discern the menu panel against the website below it.\n\nMaking the border of the panel darker is highly recommended: at least 3:1 or higher in color contrast against the menu background, but probably 4.5:1 and more would give more reliable visual separation for users with low vision, with color deficiency, and even users with glare on their screens too!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "682:17713",
+        "node_offset": {
+          "x": 381,
+          "y": 110
+        },
+        "stable_path": [
+          "682:17713"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1519823190",
+      "uuid": "7f756be9-3dc9-407e-9069-0426bcda3ab0",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-18T17:54:10.101Z",
+      "resolved_at": null,
+      "message": "The \"pressed\"/\"expanded\" state for the menu has very subtle visual change that may make some users to not know if the menu is, in fact, visible and if the block below it is, in fact, that menu item called.\n\nWhile this may not affect the experience with the large menu like this in an extreme way, there are cases, like a shield panel, when a smaller panel is opened and then a user could navigate to the subview of this panel - in this case some users with cognitive disabilities may loose the connection between the subview and the menu button. \n\nHaving clear \"pressed\" state would help users to reinforce that this menu button is, in fact, still pressed and the panel they see comes from Firefox (and could be dismissed by clicking to this pressed menu button again). ATM the only change of the pressed vs default state is in background color - and this change is only 1.3:1 in color contrast (of the lighter purple against the lightest purple toolbar background). \n\nThe color contrast should be at least 3:1 OR it should rely to something else beyond color alone. For instance, adding a border to the pressed button (with the same color that the foreground of the button is using) would resolve this issue and provide a clear state change indication that does not rely on color alone. In the current scenario, the darker purple of the button foreground color against lightest purple from the toolbar background would give amazing 5.8:1 in luminosity ratio (color contrast).\n\n It would also help users of custom themes where the developers of the theme may miss the color readability as well.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "682:17713",
+        "node_offset": {
+          "x": 39,
+          "y": 14
+        },
+        "stable_path": [
+          "682:17713"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1519807377",
+      "uuid": "30d74447-a023-4a3b-854e-be6c9351fe1c",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-18T17:44:44.185Z",
+      "resolved_at": null,
+      "message": "Issue:\nWhile this lighter purple (#945af2 per the Colour Contrast Analyser's eye dropper) is acceptable to be used for graphics, including essential graphics like image buttons, the text however (\"Firefox is ready to update\" in this case) does fail the WCAG 2.x minimum color contrast requirements against even the darker part of this gradient - it should have color contrast for the text (white ATM) against the background (gradient purple to orange) of at the very least 4.5:1 (Level AA), but we hope to ensure text has 7:1 or more in color contrast (for the Level AAA compliance and ease of readability). \n\nCurrently, the light purple against white text gives 4.2:1 in contrast ratio (failing 4.5 benchmark) deteriorating even further by the end of the string to 3.4:1, for longer strings this could go as low as 2.7:1 (not sufficient even for informative graphics and states differentiation). \n\nThis has to be resolved because it is very visible WCAG failure and it affects the readability of the string that the team so thoughtfully crafted to add in the banner. 4.5:1 in color contrast should be the bare minimum for all parts of text against this gradient background. For instance, black color would satisfy this requirement from the purple (5:1) to the orange (7.8:1) sections.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "682:17713",
+        "node_offset": {
+          "x": 74,
+          "y": 78
+        },
+        "stable_path": [
+          "682:17713"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1519792809",
+      "uuid": "28710364-3246-4459-bede-950f59efd8a1",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-18T17:36:00.395Z",
+      "resolved_at": null,
+      "message": "Enhancement: Would that be possible to remove the gradual transparency for high contrast modes (when `forced-colors` on Windows and/or `prefers-contrast` on Linux and MacOS are active)? This could be a helpful affordance and help users who need higher clarify of the interface to distinguish tabs easier as well",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "682:17656",
+        "node_offset": {
+          "x": 505,
+          "y": 19
+        },
+        "stable_path": [
+          "682:17656"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1519789745",
+      "uuid": "907397ea-9b8f-4278-b322-80f6c5bf3ffe",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-18T17:34:04.844Z",
+      "resolved_at": null,
+      "message": "It's not clear what this button is symbolizing, i.e. if it's a user-selected icon (which it is probably not, given that the user profile picture appears on the top left side, next to the menu button) or an extension logo, then this would not need to be adjusted for discernibility (this is not in the browser's control).\n\nBut it seems that this may be some Firefox own tool - then we would need to make sure its border (light gray now) has at least 3:1 in color contrast against the toolbar background, then we could keep the inner image in any other way. ATM the light gray border against the white toolbar background gives only 1.6:1 in color contrast, which is below WCAG 2.1/2.2 Non-text Color Contrast guidelines of 3:1 or more, and it is hard to distinguish this logo control on the toolbar",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "682:17656",
+        "node_offset": {
+          "x": 1423,
+          "y": 63
+        },
+        "stable_path": [
+          "682:17656"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1519779024",
+      "uuid": "253aa7a4-925a-46b8-b3b9-2ac5664d5b45",
+      "file_key": "B9UzAiiwBM2ucPnXxFO27Q",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-18T17:27:48.770Z",
+      "resolved_at": null,
+      "message": "could the color of this disabled control be made a bit darker? It's currently 1.6:1 and would be easy to miss. While disabled states are technically excluded from WCAG compliance, internally we are aiming to still make sure the disabled controls are somewhat discernible - after all, these controls remain on-screen in their disabled state to indicate that, in some other situation, this control could become enabled. \n\n For instance, the [disabled control color token in Acorn DS](https://acorn.firefox.com/latest/desktop/design-tokens/color-pCFFM8pk#section-color-ca) provides 2.7:1 in color contrast against white background - this makes disabled controls a bit more discernible. \n\nThe goal is to get as close to 3:1 with the disabled foreground color against its background as possible (the lighter purple vs white, in this case), while maintaining at least 3:1 in color contrast between two states' foreground colors (the dark purple for enabled control vs lighter purple for disabled control, in this case).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "682:17656",
+        "node_offset": {
+          "x": 102,
+          "y": 65
+        },
+        "stable_path": [
+          "682:17656"
+        ]
+      },
+      "order_id": "23"
+    }
+  ]
+}

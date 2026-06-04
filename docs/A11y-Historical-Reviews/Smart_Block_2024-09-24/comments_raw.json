@@ -1,0 +1,528 @@
+{
+  "unresolved": [
+    {
+      "id": "997229233",
+      "uuid": "ddf90ae5-7edd-4e62-beac-8ee29a5e0d3c",
+      "file_key": "mIxghbYOrFz179hcpkFxeS",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-10-23T09:16:09.292Z",
+      "resolved_at": null,
+      "message": "@William Wen updated the designs based on our discussion on Slack. thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7661:13316",
+        "node_offset": {
+          "x": 514,
+          "y": 303
+        },
+        "stable_path": [
+          "7661:13316"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "993722132",
+      "uuid": "c74c8f7c-17a6-4577-9951-d570ab07dcac",
+      "file_key": "mIxghbYOrFz179hcpkFxeS",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-10-21T10:24:49.909Z",
+      "resolved_at": null,
+      "message": "@William Wen dark mode",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7723:3205",
+        "node_offset": {
+          "x": 81,
+          "y": 175
+        },
+        "stable_path": [
+          "7723:3205"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "970801517",
+      "uuid": "f039a9b8-704d-4bcd-9de0-c3d13c470b85",
+      "file_key": "mIxghbYOrFz179hcpkFxeS",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-10-02T08:46:10.958Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg thanks for all your comments so far on Smartblock, here's HCM. TY!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4914:45054",
+        "node_offset": {
+          "x": 5077,
+          "y": 209
+        },
+        "stable_path": [
+          "4914:45054"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "961237482",
+      "uuid": "60064fec-3479-4496-8e1e-79673adf23b9",
+      "file_key": "mIxghbYOrFz179hcpkFxeS",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-09-24T16:40:53.558Z",
+      "resolved_at": null,
+      "message": "We should use just \"Blocked\" here since that's what appears on-screen at the top of this section.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-2:",
+          "created_at": "2024-10-02T08:47:21.382Z",
+          "user": {
+            "id": "862656244535756550",
+            "handle": "Nicole Weber",
+            "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "7687:14609",
+        "node_offset": {
+          "x": 102,
+          "y": 55
+        },
+        "stable_path": [
+          "7687:14609"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "961236485",
+      "uuid": "2aee7d16-5e87-416e-a9df-c47f46a93e6a",
+      "file_key": "mIxghbYOrFz179hcpkFxeS",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-09-24T16:40:08.612Z",
+      "resolved_at": null,
+      "message": "Can you modify the aria-checked here to \"false\" so it matches the off state of the toggle in the mock up ?",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-2:",
+          "created_at": "2024-10-02T08:47:54.112Z",
+          "user": {
+            "id": "862656244535756550",
+            "handle": "Nicole Weber",
+            "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "7687:14609",
+        "node_offset": {
+          "x": 321,
+          "y": 479
+        },
+        "stable_path": [
+          "7687:14609"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "961235608",
+      "uuid": "82743a26-7900-4339-b92d-f0a6e82f7f5a",
+      "file_key": "mIxghbYOrFz179hcpkFxeS",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-09-24T16:39:29.587Z",
+      "resolved_at": null,
+      "message": "Perfectly done focus order and roles, thank you!",
+      "reactions": [
+        {
+          "emoji": ":raised_hands::skin-tone-2:",
+          "created_at": "2024-10-02T08:46:30.252Z",
+          "user": {
+            "id": "862656244535756550",
+            "handle": "Nicole Weber",
+            "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "4914:45635",
+        "node_offset": {
+          "x": 24,
+          "y": 19
+        },
+        "stable_path": [
+          "4914:45635"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "961235028",
+      "uuid": "9c92b52c-f990-4f16-b435-7fea47fd83e0",
+      "file_key": "mIxghbYOrFz179hcpkFxeS",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-09-24T16:39:05.177Z",
+      "resolved_at": null,
+      "message": "Hi, I'll be doing your a11y review. \nPlease add high contrast mock ups for this component (including the menu item added in the protections panel). Once you've added these, please ping me for review.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-2:",
+          "created_at": "2024-10-02T08:48:18.133Z",
+          "user": {
+            "id": "862656244535756550",
+            "handle": "Nicole Weber",
+            "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2910:1389",
+        "node_offset": {
+          "x": -1821,
+          "y": 11416
+        },
+        "stable_path": [
+          "2910:1389"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "956082175",
+      "uuid": "f8a7c72d-61de-4d7e-8691-59cac2166c3f",
+      "file_key": "mIxghbYOrFz179hcpkFxeS",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-09-19T17:48:50.102Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller smartblock: can you check the slightly modified copy for when people are in private mode?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7661:14351",
+        "node_offset": {
+          "x": 555,
+          "y": 704
+        },
+        "stable_path": [
+          "7661:14351"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "938584022",
+      "uuid": "9543130e-b207-4ca1-b37f-2ac3673b4c58",
+      "file_key": "mIxghbYOrFz179hcpkFxeS",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-09-05T15:47:21.815Z",
+      "resolved_at": null,
+      "message": "Test that this can do all the potential embeds",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7523:13071",
+        "node_offset": {
+          "x": 598,
+          "y": 297
+        },
+        "stable_path": [
+          "7523:13071"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "935951629",
+      "uuid": "642e04d4-3db6-4442-b3fc-8361c76c70ed",
+      "file_key": "mIxghbYOrFz179hcpkFxeS",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-09-04T07:52:45.702Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller what if someone is in private mode, do you think this could be confusing to users?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7523:12503",
+        "node_offset": {
+          "x": 260,
+          "y": 114
+        },
+        "stable_path": [
+          "7523:12503"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "932050542",
+      "uuid": "002287ed-b0a2-430f-913f-42d9ae25ae9b",
+      "file_key": "mIxghbYOrFz179hcpkFxeS",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-08-30T17:27:33.377Z",
+      "resolved_at": null,
+      "message": "Is there a way to visually tie this to \"tracking content\" above? Would like to avoid repeating saying \"Tracking content\" @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7465:13656",
+        "node_offset": {
+          "x": 294,
+          "y": 326
+        },
+        "stable_path": [
+          "7465:13656"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "930472188",
+      "uuid": "5b054e90-da66-4483-8568-bed769a90441",
+      "file_key": "mIxghbYOrFz179hcpkFxeS",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-08-29T15:58:20.112Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller Smartblock designs",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7465:13554",
+        "node_offset": {
+          "x": 821,
+          "y": 229
+        },
+        "stable_path": [
+          "7465:13554"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "970801517",
+      "uuid": "f039a9b8-704d-4bcd-9de0-c3d13c470b85",
+      "file_key": "mIxghbYOrFz179hcpkFxeS",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-10-02T08:46:10.958Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg thanks for all your comments so far on Smartblock, here's HCM. TY!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4914:45054",
+        "node_offset": {
+          "x": 5077,
+          "y": 209
+        },
+        "stable_path": [
+          "4914:45054"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "961237482",
+      "uuid": "60064fec-3479-4496-8e1e-79673adf23b9",
+      "file_key": "mIxghbYOrFz179hcpkFxeS",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-09-24T16:40:53.558Z",
+      "resolved_at": null,
+      "message": "We should use just \"Blocked\" here since that's what appears on-screen at the top of this section.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-2:",
+          "created_at": "2024-10-02T08:47:21.382Z",
+          "user": {
+            "id": "862656244535756550",
+            "handle": "Nicole Weber",
+            "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "7687:14609",
+        "node_offset": {
+          "x": 102,
+          "y": 55
+        },
+        "stable_path": [
+          "7687:14609"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "961236485",
+      "uuid": "2aee7d16-5e87-416e-a9df-c47f46a93e6a",
+      "file_key": "mIxghbYOrFz179hcpkFxeS",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-09-24T16:40:08.612Z",
+      "resolved_at": null,
+      "message": "Can you modify the aria-checked here to \"false\" so it matches the off state of the toggle in the mock up ?",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-2:",
+          "created_at": "2024-10-02T08:47:54.112Z",
+          "user": {
+            "id": "862656244535756550",
+            "handle": "Nicole Weber",
+            "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "7687:14609",
+        "node_offset": {
+          "x": 321,
+          "y": 479
+        },
+        "stable_path": [
+          "7687:14609"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "961235608",
+      "uuid": "82743a26-7900-4339-b92d-f0a6e82f7f5a",
+      "file_key": "mIxghbYOrFz179hcpkFxeS",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-09-24T16:39:29.587Z",
+      "resolved_at": null,
+      "message": "Perfectly done focus order and roles, thank you!",
+      "reactions": [
+        {
+          "emoji": ":raised_hands::skin-tone-2:",
+          "created_at": "2024-10-02T08:46:30.252Z",
+          "user": {
+            "id": "862656244535756550",
+            "handle": "Nicole Weber",
+            "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "4914:45635",
+        "node_offset": {
+          "x": 24,
+          "y": 19
+        },
+        "stable_path": [
+          "4914:45635"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "961235028",
+      "uuid": "9c92b52c-f990-4f16-b435-7fea47fd83e0",
+      "file_key": "mIxghbYOrFz179hcpkFxeS",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-09-24T16:39:05.177Z",
+      "resolved_at": null,
+      "message": "Hi, I'll be doing your a11y review. \nPlease add high contrast mock ups for this component (including the menu item added in the protections panel). Once you've added these, please ping me for review.",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-2:",
+          "created_at": "2024-10-02T08:48:18.133Z",
+          "user": {
+            "id": "862656244535756550",
+            "handle": "Nicole Weber",
+            "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2910:1389",
+        "node_offset": {
+          "x": -1821,
+          "y": 11416
+        },
+        "stable_path": [
+          "2910:1389"
+        ]
+      },
+      "order_id": "14"
+    }
+  ]
+}

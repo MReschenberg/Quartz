@@ -1,0 +1,1020 @@
+{
+  "unresolved": [
+    {
+      "id": "1661880836",
+      "uuid": "e85a367d-351f-4f77-aa57-f2b5065855c3",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-03-05T23:03:00.784Z",
+      "resolved_at": null,
+      "message": "if u tab out of here without choosing X or Check what will this field look like?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "293:11493",
+        "node_offset": {
+          "x": 79,
+          "y": 35
+        },
+        "stable_path": [
+          "293:11493"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1661876610",
+      "uuid": "ca7a561a-93f2-49ae-84ff-de24da40807e",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-03-05T22:57:41.724Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko update everywhere",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "433:9559",
+        "node_offset": {
+          "x": 339,
+          "y": 132
+        },
+        "stable_path": [
+          "433:9559"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1652741757",
+      "uuid": "aef416ce-7cc1-49fb-8b67-b4047dbbfbf4",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-27T14:54:59.826Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko - for '4, 16-23', can the user press or click on the text or only the caret >?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "288:13553",
+        "node_offset": {
+          "x": 34,
+          "y": 843
+        },
+        "stable_path": [
+          "288:13553"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1651483391",
+      "uuid": "70f90e5f-40b9-42a0-9f61-6fd3a8d9ef2c",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-26T21:44:58.834Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko - same thing here. let's add to the Note field in '1-6' that says to programmatically associate the shortcut name to the Edit icon button. For example, we would ideally like the Edit icon button for New Window to say 'Edit New Window'. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "292:11194",
+        "node_offset": {
+          "x": 219,
+          "y": 466
+        },
+        "stable_path": [
+          "292:11194"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1651424472",
+      "uuid": "44ad6af9-a573-4a1d-8998-3192f7932934",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-26T20:56:55.842Z",
+      "resolved_at": null,
+      "message": "hey @Dasha Andriyenko ! can we adjust the Search shortcuts textbox to have the same color tokens as it does here? (https://www.figma.com/design/3WoKOSGtaSjhUHKldHCXbc/Desktop-Components-3?node-id=2248-12453&t=QgUqaT7E95P23Gcf-4)\n\nThank you! :smile:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "301:51149",
+        "node_offset": {
+          "x": 276,
+          "y": 261
+        },
+        "stable_path": [
+          "301:51149"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1646842645",
+      "uuid": "7387f578-e6a9-40b3-92c1-26805c2d0c8d",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-24T17:44:30.338Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko similar question here- would this happen while the user types or if their shortcut is used elsewhere and they tried pressing the 'Save' icon button?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "293:11658",
+        "node_offset": {
+          "x": 321,
+          "y": 181
+        },
+        "stable_path": [
+          "293:11658"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1646834348",
+      "uuid": "44f349d3-6368-4481-bf7f-01eebe08f81f",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-24T17:39:36.478Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko would this happen while the user types or if their shortcut is wrong and they tried pressing the 'Save' icon button?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "293:11588",
+        "node_offset": {
+          "x": 353,
+          "y": 252
+        },
+        "stable_path": [
+          "293:11588"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1646827736",
+      "uuid": "871603f4-1c34-4350-9f8f-f89ce6151cb0",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-24T17:35:39.287Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko - is it expected that if the user has keyboard focus on this button and presses ENTER, that focus moves to the input box?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "292:10493",
+        "node_offset": {
+          "x": 308,
+          "y": 117
+        },
+        "stable_path": [
+          "292:10493"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1644951283",
+      "uuid": "73f74af1-253b-438b-a21b-05329243a3a6",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-23T20:33:56.725Z",
+      "resolved_at": null,
+      "message": "hey @Dasha Andriyenko ! For these list items (Open Settings, Extensions & Themes, Downloads, etc), is the text or it's surrounding area clickable? Or is it just static text?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "301:51149",
+        "node_offset": {
+          "x": 524,
+          "y": 218
+        },
+        "stable_path": [
+          "301:51149"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1640898546",
+      "uuid": "bd5471c6-3d16-4f72-8580-4b5cdffdac96",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-19T18:43:01.757Z",
+      "resolved_at": null,
+      "message": "Edit this everywhere",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "287:9877",
+        "node_offset": {
+          "x": 250,
+          "y": 131
+        },
+        "stable_path": [
+          "287:9877"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1633645430",
+      "uuid": "5adf9bb3-8eb1-4d07-b7a5-f2c4661d0864",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-14T00:09:12.541Z",
+      "resolved_at": null,
+      "message": "not 100% sure how to announce the difference between the results.. \n\nbut atm in about:keyboards \n\ni am seeing that this is a similar pattern, once you start to tab, the focus is on actual active buttons.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "292:11194",
+        "node_offset": {
+          "x": 331,
+          "y": 517
+        },
+        "stable_path": [
+          "292:11194"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1633636884",
+      "uuid": "d99546c3-c3a7-4771-9ecf-01e74686c736",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-13T23:41:51.469Z",
+      "resolved_at": null,
+      "message": "could this be in the side bar? would be really cool to be able to have a list of custom/ new shortcuts that are handy to me in the side bar....",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "212:36331",
+        "node_offset": {
+          "x": 932,
+          "y": 279
+        },
+        "stable_path": [
+          "212:36331"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1633632907",
+      "uuid": "bd227584-4e73-4980-8bce-4c4a09ee91f2",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-13T23:30:44.261Z",
+      "resolved_at": null,
+      "message": "I wonder if we can make sure that \"tab\" is something that we can exclude from key assignment. \n\nCause otherwise you can't properly navigate.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "293:11475",
+        "node_offset": {
+          "x": 108,
+          "y": 7
+        },
+        "stable_path": [
+          "293:11475"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1633623561",
+      "uuid": "52d23b32-3ca2-4193-8fcb-b7b8b72a43e5",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-13T23:08:09.278Z",
+      "resolved_at": null,
+      "message": "add telemetry... to see which one is used more.. and get rid of the other!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "284:7462",
+        "node_offset": {
+          "x": 1082,
+          "y": 1362
+        },
+        "stable_path": [
+          "284:7462"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1627691341",
+      "uuid": "36cf791a-0f70-40e5-ab2b-45f3814712d6",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-10T22:31:57.698Z",
+      "resolved_at": null,
+      "message": "This needs to almost be... \n\nhow do you want to view this page? \n* Do u want to unfold all sections?\n* Do u want to keep everything disclosed?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "254:29521",
+        "node_offset": {
+          "x": 342,
+          "y": 183
+        },
+        "stable_path": [
+          "254:29521"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1627686210",
+      "uuid": "6e6dbb7f-4455-4fdb-b057-4c07e5de0964",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-10T22:26:52.332Z",
+      "resolved_at": null,
+      "message": "let's not do the side nav for v2",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "253:29547",
+        "node_offset": {
+          "x": 271,
+          "y": 194
+        },
+        "stable_path": [
+          "253:29547"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1621295559",
+      "uuid": "d1d12353-719a-46db-a1de-c76eda50abed",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-05T22:58:54.441Z",
+      "resolved_at": null,
+      "message": "Jamie flagged hover states. \n* talk to anna more about this.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "140:27745",
+        "node_offset": {
+          "x": 859,
+          "y": 285
+        },
+        "stable_path": [
+          "140:27745"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1621292203",
+      "uuid": "d9d70808-e1b5-45a1-9602-993178011695",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-05T22:55:00.000Z",
+      "resolved_at": null,
+      "message": "search for list of things I've customized",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "152:25640",
+        "node_offset": {
+          "x": 631,
+          "y": 124
+        },
+        "stable_path": [
+          "152:25640"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1621290645",
+      "uuid": "c7e70ff9-e811-4d18-a08b-3ef223701fb3",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-05T22:53:02.617Z",
+      "resolved_at": null,
+      "message": "Kim was worried that users might not find this if it's not in Accessibility. \n\nShe is fine with cross linking as well tho.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "136:18537",
+        "node_offset": {
+          "x": 560,
+          "y": 1023
+        },
+        "stable_path": [
+          "136:18537"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1621290210",
+      "uuid": "1df06241-6af9-4512-a23c-3ded6f284d53",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-05T22:52:32.381Z",
+      "resolved_at": null,
+      "message": "Jamie let me know that we can make this feel like a dialogue experience for screen reader users specifically.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "140:27120",
+        "node_offset": {
+          "x": 869,
+          "y": 344
+        },
+        "stable_path": [
+          "140:27120"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1621288734",
+      "uuid": "aa59dc9e-0e1c-448c-8400-6e67a8f1d0c6",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-05T22:50:44.661Z",
+      "resolved_at": null,
+      "message": "include \"something like\".. instead of a defined set.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "140:28395",
+        "node_offset": {
+          "x": 799,
+          "y": 319
+        },
+        "stable_path": [
+          "140:28395"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1621287657",
+      "uuid": "43413ed0-98a5-419e-91cb-90bbfe899d05",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-05T22:49:23.571Z",
+      "resolved_at": null,
+      "message": "Wonder if this button is clear enough.. looks like refresh.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "140:24312",
+        "node_offset": {
+          "x": 935,
+          "y": 288
+        },
+        "stable_path": [
+          "140:24312"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1621285049",
+      "uuid": "b9f3c94f-4ce4-49fb-b7a2-5d7bee881e35",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-05T22:46:19.902Z",
+      "resolved_at": null,
+      "message": "* Idk if we can ever come up with a set of names where everyone can understand everything. \n* Might be worth showing the eatery title  during search.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "152:25640",
+        "node_offset": {
+          "x": 219,
+          "y": 236
+        },
+        "stable_path": [
+          "152:25640"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1621201247",
+      "uuid": "2cd8cb11-edc6-40f3-9bed-2007584a8358",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-05T21:25:27.436Z",
+      "resolved_at": null,
+      "message": "we might get pushback on this double search situation in the future. So might need to rethink this a bit.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "207:25886",
+        "node_offset": {
+          "x": 478,
+          "y": 180
+        },
+        "stable_path": [
+          "207:25886"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1621178971",
+      "uuid": "8907f17a-4d16-47d0-8014-c67feb45aae8",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-05T21:07:47.496Z",
+      "resolved_at": null,
+      "message": "Approvals needed:\n* Calotta would need to design a new icon\n* Settings team\n* Content team",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "136:18537",
+        "node_offset": {
+          "x": 445,
+          "y": 1026
+        },
+        "stable_path": [
+          "136:18537"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1620968854",
+      "uuid": "da23a15c-392e-4bf7-b209-a5c1ec6a3939",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-05T18:36:31.132Z",
+      "resolved_at": null,
+      "message": "add a little highlight to highlight the word in here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "152:25640",
+        "node_offset": {
+          "x": 474,
+          "y": 256
+        },
+        "stable_path": [
+          "152:25640"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1620962926",
+      "uuid": "649459a1-c6fe-4806-a755-9a730a4b29ea",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-05T18:32:18.753Z",
+      "resolved_at": null,
+      "message": "Use caution symbol. so that users undertand that they shouldn't leave it as is. \n\n* Maybe differentiate betweeen error vs helper text.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "140:27120",
+        "node_offset": {
+          "x": 748,
+          "y": 273
+        },
+        "stable_path": [
+          "140:27120"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1620955369",
+      "uuid": "27131983-0402-434d-9e3b-6d961fe690bc",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-05T18:27:09.399Z",
+      "resolved_at": null,
+      "message": "quickly understood this as \"save\" instead of replace.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "140:27120",
+        "node_offset": {
+          "x": 919,
+          "y": 308
+        },
+        "stable_path": [
+          "140:27120"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1617111246",
+      "uuid": "5f6f8ad6-0e3f-4087-bbdb-d4db1e0e1eef",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-04T00:08:00.881Z",
+      "resolved_at": null,
+      "message": "showcase what a PiP experience could look like",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "100:17227",
+        "node_offset": {
+          "x": 332,
+          "y": 75
+        },
+        "stable_path": [
+          "100:17227"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1617111021",
+      "uuid": "03b6775a-263c-4d9f-b017-7901bb30399f",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-04T00:07:42.953Z",
+      "resolved_at": null,
+      "message": "how would someone add things here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "100:14511",
+        "node_offset": {
+          "x": 651,
+          "y": 326
+        },
+        "stable_path": [
+          "100:14511"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1652741757",
+      "uuid": "aef416ce-7cc1-49fb-8b67-b4047dbbfbf4",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-27T14:54:59.826Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko - for '4, 16-23', can the user press or click on the text or only the caret >?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "288:13553",
+        "node_offset": {
+          "x": 34,
+          "y": 843
+        },
+        "stable_path": [
+          "288:13553"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1651483391",
+      "uuid": "70f90e5f-40b9-42a0-9f61-6fd3a8d9ef2c",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-26T21:44:58.834Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko - same thing here. let's add to the Note field in '1-6' that says to programmatically associate the shortcut name to the Edit icon button. For example, we would ideally like the Edit icon button for New Window to say 'Edit New Window'. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "292:11194",
+        "node_offset": {
+          "x": 219,
+          "y": 466
+        },
+        "stable_path": [
+          "292:11194"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1651424472",
+      "uuid": "44ad6af9-a573-4a1d-8998-3192f7932934",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-26T20:56:55.842Z",
+      "resolved_at": null,
+      "message": "hey @Dasha Andriyenko ! can we adjust the Search shortcuts textbox to have the same color tokens as it does here? (https://www.figma.com/design/3WoKOSGtaSjhUHKldHCXbc/Desktop-Components-3?node-id=2248-12453&t=QgUqaT7E95P23Gcf-4)\n\nThank you! :smile:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "301:51149",
+        "node_offset": {
+          "x": 276,
+          "y": 261
+        },
+        "stable_path": [
+          "301:51149"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1646842645",
+      "uuid": "7387f578-e6a9-40b3-92c1-26805c2d0c8d",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-24T17:44:30.338Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko similar question here- would this happen while the user types or if their shortcut is used elsewhere and they tried pressing the 'Save' icon button?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "293:11658",
+        "node_offset": {
+          "x": 321,
+          "y": 181
+        },
+        "stable_path": [
+          "293:11658"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1646834348",
+      "uuid": "44f349d3-6368-4481-bf7f-01eebe08f81f",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-24T17:39:36.478Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko would this happen while the user types or if their shortcut is wrong and they tried pressing the 'Save' icon button?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "293:11588",
+        "node_offset": {
+          "x": 353,
+          "y": 252
+        },
+        "stable_path": [
+          "293:11588"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1646827736",
+      "uuid": "871603f4-1c34-4350-9f8f-f89ce6151cb0",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-24T17:35:39.287Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko - is it expected that if the user has keyboard focus on this button and presses ENTER, that focus moves to the input box?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "292:10493",
+        "node_offset": {
+          "x": 308,
+          "y": 117
+        },
+        "stable_path": [
+          "292:10493"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1644951283",
+      "uuid": "73f74af1-253b-438b-a21b-05329243a3a6",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-23T20:33:56.725Z",
+      "resolved_at": null,
+      "message": "hey @Dasha Andriyenko ! For these list items (Open Settings, Extensions & Themes, Downloads, etc), is the text or it's surrounding area clickable? Or is it just static text?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "301:51149",
+        "node_offset": {
+          "x": 524,
+          "y": 218
+        },
+        "stable_path": [
+          "301:51149"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1621290645",
+      "uuid": "c7e70ff9-e811-4d18-a08b-3ef223701fb3",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-05T22:53:02.617Z",
+      "resolved_at": null,
+      "message": "Kim was worried that users might not find this if it's not in Accessibility. \n\nShe is fine with cross linking as well tho.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "136:18537",
+        "node_offset": {
+          "x": 560,
+          "y": 1023
+        },
+        "stable_path": [
+          "136:18537"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1621290210",
+      "uuid": "1df06241-6af9-4512-a23c-3ded6f284d53",
+      "file_key": "oItVOoNiWVysEqiK9WrJuV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-02-05T22:52:32.381Z",
+      "resolved_at": null,
+      "message": "Jamie let me know that we can make this feel like a dialogue experience for screen reader users specifically.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "140:27120",
+        "node_offset": {
+          "x": 869,
+          "y": 344
+        },
+        "stable_path": [
+          "140:27120"
+        ]
+      },
+      "order_id": "14"
+    }
+  ]
+}

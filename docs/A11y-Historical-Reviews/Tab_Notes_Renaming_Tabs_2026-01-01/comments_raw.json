@@ -1,0 +1,2859 @@
+{
+  "unresolved": [
+    {
+      "id": "1653204980",
+      "uuid": "062ce4b6-3611-475c-8e1d-435806220799",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-02-27T20:39:57.416Z",
+      "resolved_at": null,
+      "message": "@Stephen Thompson @DJ Walker @Jeremy Swinarton \u2013 Updated context menu with new placement and string change for",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4831:13724",
+        "node_offset": {
+          "x": 10,
+          "y": 150
+        },
+        "stable_path": [
+          "4831:13724"
+        ]
+      },
+      "order_id": "143"
+    },
+    {
+      "id": "1652994500",
+      "uuid": "a6cc38eb-7979-409a-b2c4-e592ea0419fe",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-02-27T17:37:11.022Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \u2013 How do you feel about Add/Edit note in the second section if \"Rename tabs\" is removed? We technically don't have this feature yet.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4809:17152",
+        "node_offset": {
+          "x": 894,
+          "y": 1586
+        },
+        "stable_path": [
+          "4809:17152"
+        ]
+      },
+      "order_id": "142"
+    },
+    {
+      "id": "1652993643",
+      "uuid": "e63973f4-ad5d-4139-a503-58455f054e8f",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-02-27T17:36:28.878Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \u2013 Thanks for the recommendation. Realistically since we don't have \"rename tab\" implemented, this section would only have 2 items for now. With only 2 items and these items being quite different, it feels a bit out of place that they would be together. I think it works better when \"Rename tab\" is there.\n\nCould we rearrange the menu to have a new section (Bookmarks Tab, Add Note, Rename Tab) once we have Rename tabs and keep Add/Edit Note at the bottom of the second section under Duplicate Tab in the interim?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4809:17152",
+        "node_offset": {
+          "x": 834,
+          "y": 2132
+        },
+        "stable_path": [
+          "4809:17152"
+        ]
+      },
+      "order_id": "141"
+    },
+    {
+      "id": "1652911371",
+      "uuid": "841c50fd-b01f-4d6b-b70e-9a8b1c824440",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-02-27T16:37:13.637Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \u2013 Hi, wanted to get your feedback on this proposed change. After using Tab Notes in Nightly for a while, the team (including myself) have struggled a bit with the location and the naming of \"Update Note\". \n\nInstinctively we're looking for the \"Edit note\" label and expect it to be higher up in the context menu where the second section is in the context menu. \nThe team agrees that since we have \"delete note\" in the edit panel that we're comfortable removing this from the context menu and to have \"Edit note\" as the primary action. \n\nWe would also want \"Add note\" to be in the same new position for consistency.\n\nWanted to get your thoughts on the proposed update. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4809:17152",
+        "node_offset": {
+          "x": 943,
+          "y": 1087
+        },
+        "stable_path": [
+          "4809:17152"
+        ]
+      },
+      "order_id": "140"
+    },
+    {
+      "id": "1651461424",
+      "uuid": "815a5e42-5c13-4a0f-8630-cab915ef57e4",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-02-26T21:26:42.002Z",
+      "resolved_at": null,
+      "message": "@Stephen Thompson @DJ Walker@Jeremy Swinarton Updated spec \u2013 Removed the \"Edit note\" header and moved delete note icon to bottom left.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4514:13842",
+        "node_offset": {
+          "x": 144,
+          "y": 7
+        },
+        "stable_path": [
+          "4514:13842"
+        ]
+      },
+      "order_id": "139"
+    },
+    {
+      "id": "1651460436",
+      "uuid": "6ff5ee7f-327b-43b8-bc2e-f0ba9efb1969",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-02-26T21:25:57.408Z",
+      "resolved_at": null,
+      "message": "@Stephen Thompson @DJ Walker @Jeremy Swinarton\u2013 Updated spec. If a user is mousing over the note, cursor should change to a text edit cursor to show that it's editable",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4514:13801",
+        "node_offset": {
+          "x": 190,
+          "y": 61
+        },
+        "stable_path": [
+          "4514:13801"
+        ]
+      },
+      "order_id": "138"
+    },
+    {
+      "id": "1642985430",
+      "uuid": "7296a437-dcac-4ee9-af4a-2ce35c23c53c",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-02-21T02:26:00.990Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi @Natalie Stroud \u2013 Example of the note without the hover state but the tool tip will still appear.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4490:15689",
+        "node_offset": {
+          "x": 1818,
+          "y": 297
+        },
+        "stable_path": [
+          "4490:15689"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "1642747432",
+      "uuid": "aa38c4f2-d07b-40ac-9ef4-f471084ef45d",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-02-20T19:35:30.485Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi @Natalie Stroud \u2013 Hi, I had another question here regarding hover states. Do we need a hover state for the tab notes icon if technically clicking anywhere on the note would trigger \"edit mode\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4490:15689",
+        "node_offset": {
+          "x": 2035,
+          "y": 345
+        },
+        "stable_path": [
+          "4490:15689"
+        ]
+      },
+      "order_id": "136"
+    },
+    {
+      "id": "1606035527",
+      "uuid": "06e71a63-f252-417d-b5b6-810a590af00d",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-01-27T17:12:49.823Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez We could possibly do the same via the context menu if we feel the label in the context menu is enough here. CC @Anna Yeddi",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4490:15689",
+        "node_offset": {
+          "x": 2792,
+          "y": 462
+        },
+        "stable_path": [
+          "4490:15689"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "1606034676",
+      "uuid": "546372ff-66da-414d-b9c8-d16fb8dcbcb6",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-01-27T17:12:22.472Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez We could possibly do the same via the context menu if we feel the label in the context menu is enough here. CC @Anna Yeddi",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4490:15689",
+        "node_offset": {
+          "x": 1477,
+          "y": 467
+        },
+        "stable_path": [
+          "4490:15689"
+        ]
+      },
+      "order_id": "134"
+    },
+    {
+      "id": "1604310242",
+      "uuid": "b8619cbd-3fe3-49ca-9e60-5952e3a5ba82",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-01-26T21:55:32.543Z",
+      "resolved_at": null,
+      "message": "@Stephen Thompson @Jeremy Swinarton @DJ Walker \u2013 FYI I updated the components so the add note is now at the top and the note is separated from the hover preview.\n\nPlease note, I increased the left padding for the tab name so it's more aligned with the tab note icon.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2622:44618",
+        "node_offset": {
+          "x": 17,
+          "y": 206
+        },
+        "stable_path": [
+          "2622:44618"
+        ]
+      },
+      "order_id": "131"
+    },
+    {
+      "id": "1577355492",
+      "uuid": "bfd37f87-2ed5-432e-8c57-b9708cde32a4",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-01-06T19:51:25.222Z",
+      "resolved_at": null,
+      "message": "@Ania Safko \u2013\u00a0I spoke to Yulia about unifying the location of our notification dot and audio/tab notes badges so they are consistent between horizontal and vertical tabs. I wanted to run this by you in case there was any issues with this proposal.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4185:39191",
+        "node_offset": {
+          "x": 2356,
+          "y": 800
+        },
+        "stable_path": [
+          "4185:39191"
+        ]
+      },
+      "order_id": "130"
+    },
+    {
+      "id": "1575860949",
+      "uuid": "bf0cb624-de36-4c21-bc65-d9f6ae7fa414",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-01-05T19:36:15.667Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \u2013\u00a0Wanted to confirm these are final strings?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4109:27079",
+        "node_offset": {
+          "x": 2914,
+          "y": 686
+        },
+        "stable_path": [
+          "4109:27079"
+        ]
+      },
+      "order_id": "129"
+    },
+    {
+      "id": "1575860690",
+      "uuid": "69c13c70-05f0-4c81-bfcf-5f27425386a5",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-01-05T19:35:58.766Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \u2013\u00a0Wanted to confirm these are final strings?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3720:27001",
+        "node_offset": {
+          "x": 550,
+          "y": 600
+        },
+        "stable_path": [
+          "3720:27001"
+        ]
+      },
+      "order_id": "128"
+    },
+    {
+      "id": "1559930645",
+      "uuid": "b9ba9153-5993-4b81-a3c4-f933dedda0f4",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-12-16T17:12:39.415Z",
+      "resolved_at": null,
+      "message": "@Jeremy Swinarton \u2013 FYI \u2013 Updated the spec here and the screen to the right.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4066:12411",
+        "node_offset": {
+          "x": 60,
+          "y": 3
+        },
+        "stable_path": [
+          "4066:12411"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "1523961656",
+      "uuid": "b61ed6ea-effb-4796-988b-07d4910dfd45",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeremy Swinarton",
+        "img_url": "https://www.gravatar.com/avatar/d88d3fdf48ea609876f67ee42d980af2?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1009483315210819607"
+      },
+      "created_at": "2025-11-20T16:17:33.589Z",
+      "resolved_at": null,
+      "message": "@Amy Lee I see that the style for the screenshot is slightly different, with the rounded corners and the padding around the image (previously it extended across the full width). I have a couple questions about this.\n\n1: Are we ok with changing this independently of Tab Notes? i.e. if we land this in Nightly without doing extra work to gate these styles behind the tab notes pref, everyone will see the new style, even if they don't have tab notes enabled. This seems reasonable to me, but I wanted to check with you to see if we are ok with this.\n\n2: I noticed that in the new spec, the image is slightly smaller to account for the padding. This causes a small engineering issue. These screenshots are generated at a fixed size (280x140px) and used in a few different places (like Ctrl+Tab). If the size of the thumbnail shrinks here, we have to basically shrink the size of the generated image by a few pixels in CSS. If we do this, in some cases the antialiasing will cause the screenshot to appear blurry. I can post an example if you want to see what I mean.\n\nThe simplest way to fix this would be to make the panel slightly larger to keep the screenshot the same size while also adding the padding. We discussed this in standup yesterday but didn't want to decide without your input.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2622:58542",
+        "node_offset": {
+          "x": 264,
+          "y": 62
+        },
+        "stable_path": [
+          "2622:58542"
+        ]
+      },
+      "order_id": "124"
+    },
+    {
+      "id": "1523957015",
+      "uuid": "a12804ff-812c-4985-ad5d-d2bbf95cb62f",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-11-20T16:15:17.494Z",
+      "resolved_at": null,
+      "message": "@Jeremy Swinarton \u2013 Can we still have the character limit when the user is adding the note if we are defining the limit by line length?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4066:12485",
+        "node_offset": {
+          "x": 292,
+          "y": 407
+        },
+        "stable_path": [
+          "4066:12485"
+        ]
+      },
+      "order_id": "123"
+    },
+    {
+      "id": "1523955160",
+      "uuid": "92c044a6-c77a-46f3-ba54-9132287d0fee",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-11-20T16:14:22.256Z",
+      "resolved_at": null,
+      "message": "@Jeremy Swinarton \u2013 Hi, here is the max characters section. Since you can only specify lines and not characters we can limit the line length to 10 lines. I'm wondering how does that work if we want to have a 1000 character limit message show up? CC @Laura Lopez",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2622:46615",
+        "node_offset": {
+          "x": 253,
+          "y": 212
+        },
+        "stable_path": [
+          "2622:46615"
+        ]
+      },
+      "order_id": "122"
+    },
+    {
+      "id": "1523947928",
+      "uuid": "29ee8a53-e958-433b-bede-674702a87413",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeremy Swinarton",
+        "img_url": "https://www.gravatar.com/avatar/d88d3fdf48ea609876f67ee42d980af2?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1009483315210819607"
+      },
+      "created_at": "2025-11-20T16:10:46.313Z",
+      "resolved_at": null,
+      "message": "@Amy Lee hey, I can't seem to find it in the spec doc, but on the bug for showing the note in the tab preview panel, it is specifed that the truncated version should show 350 characters. In CSS, the simplest way to truncate is by number of lines, not by character length. Is it ok if we specify it this way, maybe truncating after 8 or so lines?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3988:17014",
+        "node_offset": {
+          "x": 61.00000367175744,
+          "y": 8.742277714191005e-06
+        },
+        "stable_path": [
+          "3988:17014"
+        ]
+      },
+      "order_id": "121"
+    },
+    {
+      "id": "1513573397",
+      "uuid": "5c02d87c-9bfe-4d4f-b5aa-2942840663fb",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Stephen Thompson",
+        "img_url": "https://www.gravatar.com/avatar/f7173a41a5f3f5f210e160e79dda5488?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1384938222358520262"
+      },
+      "created_at": "2025-11-13T20:15:52.826Z",
+      "resolved_at": null,
+      "message": "@Amy Lee @Ania Safko Jeremy suggested that we allow the user to paste more than 1k characters, but disable the save button until the user edits the message below 1k characters. This sounds better than truncating the user's text ourselves.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4066:12485",
+        "node_offset": {
+          "x": 260,
+          "y": 158
+        },
+        "stable_path": [
+          "4066:12485"
+        ]
+      },
+      "order_id": "120"
+    },
+    {
+      "id": "1507313555",
+      "uuid": "c8f65a5d-436e-4516-a767-ec07145a2ce7",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-11-10T20:40:00.030Z",
+      "resolved_at": null,
+      "message": "@Natalie Stroud \u2013 Can you advise on the correct wording for describing how to handle the \"new\" badge in the \"dot\" stage and also when it's exposed on hover? CC @Anna Yeddi @Morgan Rae Reschenberg",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3704:14139",
+        "node_offset": {
+          "x": 131,
+          "y": 294
+        },
+        "stable_path": [
+          "3704:14139"
+        ]
+      },
+      "order_id": "119"
+    },
+    {
+      "id": "1507298217",
+      "uuid": "810cee52-7231-41a6-8317-2b6c5269d0d3",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-10T20:27:43.466Z",
+      "resolved_at": null,
+      "message": "@Amy Lee If the green dot badge would be used, we need to ensure that it is exposed to assistive technology in text (i.e. by overwriting the button's name as \"Add note (new)\" via aria-label)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2622:44618",
+        "node_offset": {
+          "x": 171,
+          "y": 23
+        },
+        "stable_path": [
+          "2622:44618"
+        ]
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "1504621476",
+      "uuid": "e67248a9-0055-4364-90c3-a0529c7fd974",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-11-07T16:29:44.258Z",
+      "resolved_at": null,
+      "message": "Hi @Amy Lee! For section A here, we need to add a callout for engineers in the 'Note' section that includes information on exposing this to keyboard. Please add the following:\n\nEngineering Note:\n* add the popover attribute with auto state\n* when focus reaches a tab the thumbnail preview appears",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2799:58929",
+        "node_offset": {
+          "x": 251,
+          "y": 200
+        },
+        "stable_path": [
+          "2799:58929"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "1498764898",
+      "uuid": "2cfb22cb-4c76-4dd9-9609-aed7c38ec6db",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-11-04T19:11:40.745Z",
+      "resolved_at": null,
+      "message": "@DJ Walker \u2013 Hi, wanted to respond to your question if we should have a back button if coming from the context menu. \nI don't think we should, it feels unexpected if we have a back button that goes to a different menu. Having it going back to the context menu also feels strange. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3597:41671",
+        "node_offset": {
+          "x": 191,
+          "y": 12
+        },
+        "stable_path": [
+          "3597:41671"
+        ]
+      },
+      "order_id": "113"
+    },
+    {
+      "id": "1480207310",
+      "uuid": "b8f518e2-8e3f-4f5e-bcc1-299906690309",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-10-22T18:39:46.957Z",
+      "resolved_at": null,
+      "message": "@Nikki Sharpley \u2013 Opt B is that the animation is a fixed with regardless of card size. CC @Ania Safko",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3151:16495",
+        "node_offset": {
+          "x": 7854,
+          "y": 2020
+        },
+        "stable_path": [
+          "3151:16495"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "1480206140",
+      "uuid": "ecf89192-3b09-4e83-8c8f-b1cc3c7f3489",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-10-22T18:39:00.518Z",
+      "resolved_at": null,
+      "message": "@Nikki Sharpley \u2013\u00a0I wanted to get your feedback on if we can have the animation extend out (more of the browser window is shown) as the user expands the sidebar up to a max width. CC @Ania Safko",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3151:16495",
+        "node_offset": {
+          "x": 7858,
+          "y": 444
+        },
+        "stable_path": [
+          "3151:16495"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "1476319820",
+      "uuid": "65381240-eb28-4847-94df-e7d545eb149d",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-10-20T20:30:19.721Z",
+      "resolved_at": null,
+      "message": "PM: Promo in 1 message vs. 2",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3189:34124",
+        "node_offset": {
+          "x": 383.99951171875,
+          "y": 271.05078125
+        },
+        "stable_path": [
+          "3189:34124"
+        ]
+      },
+      "order_id": "94"
+    },
+    {
+      "id": "1476319644",
+      "uuid": "58c3050f-442f-42e4-9902-48bdf3ee4fa5",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-10-20T20:30:04.034Z",
+      "resolved_at": null,
+      "message": "PM: Speaks to what users are getting out of the feature",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3189:34124",
+        "node_offset": {
+          "x": 375.99951171875,
+          "y": 310.05078125
+        },
+        "stable_path": [
+          "3189:34124"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "1476312989",
+      "uuid": "6f1f3010-e777-4247-8c01-8b2eb0942bee",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-10-20T20:19:31.780Z",
+      "resolved_at": null,
+      "message": "PM: agreed that saving is already understood here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3285:48783",
+        "node_offset": {
+          "x": 280,
+          "y": 36
+        },
+        "stable_path": [
+          "3285:48783"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "1474055904",
+      "uuid": "3c503351-c9c5-4cc7-ad37-a1674da8ab80",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-17T19:34:08.926Z",
+      "resolved_at": null,
+      "message": "I agree that this message probably isn't necessary. I find the \"saved automatically\" confusing when there is a \"save\" button.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-10-20T20:07:16.187Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3182:52289",
+        "node_offset": {
+          "x": 207.1484375,
+          "y": 92
+        },
+        "stable_path": [
+          "3182:52289"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "1474053455",
+      "uuid": "40f95d04-aa14-43d8-9817-cf652a28da09",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-17T19:31:42.683Z",
+      "resolved_at": null,
+      "message": "Another playful riff: \"You added your first note. High five! :wave: \"",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-10-20T20:07:05.867Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3194:35428",
+        "node_offset": {
+          "x": 47,
+          "y": 7
+        },
+        "stable_path": [
+          "3194:35428"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "1472310087",
+      "uuid": "872025ff-59a1-478d-bfea-e6f5308826c6",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-10-16T20:04:44.345Z",
+      "resolved_at": null,
+      "message": "I think the juice isn't worth the squeeze to figure out to this should work, write the strings, design, maintain - I'd focus on the higher viz spots above.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-10-20T20:47:04.009Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3189:35003",
+        "node_offset": {
+          "x": 297,
+          "y": 108.37890625
+        },
+        "stable_path": [
+          "3189:35003"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "1472309204",
+      "uuid": "1d7eb29d-9ab8-4285-97f2-94dcca46f671",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-10-16T20:03:59.320Z",
+      "resolved_at": null,
+      "message": "Similar to my comment on the call-out, I'd simplify the headline a bit to focus on core functionality and brevity: \n\nNew: tab notes and names \nRight-click any tab to add a note. Double click to rename it.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-10-20T20:10:03.330Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3189:34408",
+        "node_offset": {
+          "x": 116,
+          "y": 65.37890625
+        },
+        "stable_path": [
+          "3189:34408"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "1472306997",
+      "uuid": "c9be2a30-db2c-42cf-857c-b410482ffeed",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-10-16T20:02:09.970Z",
+      "resolved_at": null,
+      "message": "Is this when a user taps on their current tab, or a different one? Wondering if the former use case is a common enough one to trigger enough messages.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3194:35455",
+        "node_offset": {
+          "x": 284,
+          "y": 36
+        },
+        "stable_path": [
+          "3194:35455"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "1472244485",
+      "uuid": "cb070623-c407-44f5-bd39-ad9b8d69a4f2",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-10-16T19:16:18.676Z",
+      "resolved_at": null,
+      "message": "Based on content here, my thinking is that the message bar isn't adding new info they can't understand from the experience itself. Explaining that something is linked to a tab vs. URL is probably too heady, too. \n\nAs for saving automatically?, they probably assume that or we should communicate that visually.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-10-20T20:07:25.111Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3182:52289",
+        "node_offset": {
+          "x": 244.1484375,
+          "y": 99
+        },
+        "stable_path": [
+          "3182:52289"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "1472242215",
+      "uuid": "b96a76e1-1bc9-4b66-80ee-dbab7ac70c9b",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-10-16T19:14:41.813Z",
+      "resolved_at": null,
+      "message": "Where do they get saved? Is it in the overflow or app menu? Might be helpful to name the location. I also wonder if this is a \"Show me how\" moment - Emily did a message recently that has a functionality of opening the app menu. This could be a great opportunity for that.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3194:35428",
+        "node_offset": {
+          "x": 220,
+          "y": 44
+        },
+        "stable_path": [
+          "3194:35428"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "1472240205",
+      "uuid": "adcf4c7e-09bb-46ff-8f9e-77ab4b3ac08e",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-10-16T19:13:11.493Z",
+      "resolved_at": null,
+      "message": "Since marketing will write this, I'd probably use less realistic copy: \"Headline about new tab features goes here\". I think I am suggesting that because I wonder if \"never forget a tab\" is the real value prop - is this what resonated? (but also don't want you to have to spend a ton of time on this since you aren't writing it ultimately) =)",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-10-20T20:09:54.128Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3183:31951",
+        "node_offset": {
+          "x": 798,
+          "y": 566.37890625
+        },
+        "stable_path": [
+          "3183:31951"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "1472236332",
+      "uuid": "05682e87-ef3b-40ae-8d13-7a0690a7985d",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-10-16T19:10:25.601Z",
+      "resolved_at": null,
+      "message": "Would \"Tabs\" be a new item in the app menu? It's not there today",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3182:50488",
+        "node_offset": {
+          "x": 236,
+          "y": 92.35546875
+        },
+        "stable_path": [
+          "3182:50488"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "1472235267",
+      "uuid": "e721eb0f-5213-4f26-abd6-6a49310824d0",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-10-16T19:09:37.900Z",
+      "resolved_at": null,
+      "message": "I know you mentioned that tab renaming is a smaller feature but I also suspect it could be even more popular than a tab note. Talking about both within one call-out is too much, I think. I'd opt for two distinct call-outs or a tour... is it possible to have the tour be disconnected messages? ie, they don't layer and instead appear anchored on different pieces of UI?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3181:28863",
+        "node_offset": {
+          "x": 3424,
+          "y": 1654
+        },
+        "stable_path": [
+          "3181:28863"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "1472224561",
+      "uuid": "36abdc98-5a9c-4917-b467-707250bb1b43",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-10-16T19:01:29.010Z",
+      "resolved_at": null,
+      "message": "My inclination is to keep the headline quite tight and simplify because we know people don't or won't want to read much and because our winning PDF call-out named the feature in the headline. Riff: \n\nAdd a note to this tab \n[More detailed copy about the value prop or functionality]",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3182:55585",
+        "node_offset": {
+          "x": 276,
+          "y": 40.05078125
+        },
+        "stable_path": [
+          "3182:55585"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1468586345",
+      "uuid": "8a0272f2-95de-4f44-aaae-9973043e5fe9",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-10-15T05:23:20.536Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \u2013 Tried some style variations of how we could display message within the panel.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3513:49110",
+        "node_offset": {
+          "x": 734,
+          "y": 293
+        },
+        "stable_path": [
+          "3513:49110"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1467898190",
+      "uuid": "f949b9f7-bd30-416d-a19c-12a4de0348c8",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-10-14T17:23:45.225Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \u2013 We will need to clarify the release order with @Ania Safko. If tab notes and rename tab gets released separately then we would need to split the onboarding messaging.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3182:55585",
+        "node_offset": {
+          "x": 379,
+          "y": 1.05078125
+        },
+        "stable_path": [
+          "3182:55585"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1467896476",
+      "uuid": "615215ac-baa0-4cce-bce9-6d1daedfc48f",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-10-14T17:22:37.716Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \u2013 FYI this would be a double-click to trigger the rename. Single click makes the tab the active tab.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3189:34943",
+        "node_offset": {
+          "x": 302,
+          "y": 6
+        },
+        "stable_path": [
+          "3189:34943"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1467894968",
+      "uuid": "80559de1-e45f-45a4-ae99-b5c443bdee70",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-10-14T17:21:39.107Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \u2013 This is an interesting approach vs. the CFR. We could introduce the message of saving the note/linked to page in a message bar. I feel like the ghost copy already does a good job of telling the user to add a note so it feels a bit repetitive to have a message bar about it as well.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-10-14T17:27:14.402Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3182:52289",
+        "node_offset": {
+          "x": 263.1484375,
+          "y": 4
+        },
+        "stable_path": [
+          "3182:52289"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1467888887",
+      "uuid": "f9352d2c-405e-4e18-bd50-f709f2ee6a19",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-10-14T17:17:43.247Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \u2013 I agree with your comment that we didn't see users having issues with edit/delete so probably less important than telling the user their notes are saved and also that it's linked to a page.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-10-14T17:27:03.632Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-10-16T19:14:54.812Z",
+          "user": {
+            "id": "551476150859297062",
+            "handle": "Meridel Walkington",
+            "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3189:34897",
+        "node_offset": {
+          "x": 306,
+          "y": 6
+        },
+        "stable_path": [
+          "3189:34897"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1467887135",
+      "uuid": "a99e308d-ea20-47dc-b61e-6be296ccf00d",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-10-14T17:16:39.132Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \u2013\u00a0It might be helpful to also work in that the note is linked to the page so returning to the page would bring back the note.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3194:35428",
+        "node_offset": {
+          "x": 312,
+          "y": 21
+        },
+        "stable_path": [
+          "3194:35428"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "1467878416",
+      "uuid": "3e006590-2c77-416d-bc55-c6163ad85398",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-10-14T17:10:47.499Z",
+      "resolved_at": null,
+      "message": "Love the idea of an animation here! @Amy Lee \n\nMy hunch is that it'll be engaging so it could help to grab a user's attention more so than an static image.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-10-14T20:19:14.985Z",
+          "user": {
+            "id": "870758038064914784",
+            "handle": "Amy Lee",
+            "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3513:41188",
+        "node_offset": {
+          "x": 463,
+          "y": 485
+        },
+        "stable_path": [
+          "3513:41188"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1467877216",
+      "uuid": "11d454ec-2cb4-427e-9b2b-111a234ad552",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-10-14T17:09:59.916Z",
+      "resolved_at": null,
+      "message": "The list all tabs menu gets low usage, so wonder if we can maximize other surfaces for promo instead? \n\n@Amy Lee @Ania Safko",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3513:47099",
+        "node_offset": {
+          "x": 1392,
+          "y": 257
+        },
+        "stable_path": [
+          "3513:47099"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1450831637",
+      "uuid": "fc4e2194-4b00-41a4-b93d-36151c230840",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-10-01T19:25:25.636Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi \u2013 Hi, here is the accessibility annotations for tab notes for review. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2799:58928",
+        "node_offset": {
+          "x": 111,
+          "y": 20
+        },
+        "stable_path": [
+          "2799:58928"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1450724115",
+      "uuid": "59164658-e2a3-4b0c-b773-e66700112af3",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-10-01T18:10:00.024Z",
+      "resolved_at": null,
+      "message": "Might we consider a confirmation toast for after deletion where a user could undo the deletion?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2942:145102",
+        "node_offset": {
+          "x": 1360.84375,
+          "y": 36
+        },
+        "stable_path": [
+          "2942:145102"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1450456350",
+      "uuid": "a75e2285-8423-48a6-978e-9125567ad751",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-10-01T15:21:55.014Z",
+      "resolved_at": null,
+      "message": "What was the thinking around leading with note vs. leading with Rename or Bookmark? Do 'New' things go to the top?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2983:156137",
+        "node_offset": {
+          "x": 145,
+          "y": 185
+        },
+        "stable_path": [
+          "2983:156137"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1450453951",
+      "uuid": "d137d8ed-0c71-4cac-a8bc-6f177cf3154e",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-10-01T15:20:45.038Z",
+      "resolved_at": null,
+      "message": "Curious about rationale for 'Add note' being higher in order than 'Bookmark'?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2942:145232",
+        "node_offset": {
+          "x": 315.84375,
+          "y": 167
+        },
+        "stable_path": [
+          "2942:145232"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1438914787",
+      "uuid": "4b88ca95-2c2e-4a6a-bc2d-99c4b31c900a",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-09-23T21:35:27.138Z",
+      "resolved_at": null,
+      "message": "After reviewing all 3 categories, I prefer the 1st one under clever + the riffs under the second clever option.",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-09-23T21:36:03.194Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2624:27171",
+        "node_offset": {
+          "x": 159,
+          "y": 709
+        },
+        "stable_path": [
+          "2624:27171"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1438914054",
+      "uuid": "7a26ab75-0b3b-4eae-9d66-3c0ab7eebb47",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-09-23T21:34:38.192Z",
+      "resolved_at": null,
+      "message": "This one is working best for me of all these...but I like the alts provided in the other comment as well!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2624:27171",
+        "node_offset": {
+          "x": 1431,
+          "y": 1232
+        },
+        "stable_path": [
+          "2624:27171"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "1438913157",
+      "uuid": "6b94f813-bab5-4788-9cfc-faec14278787",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-09-23T21:33:40.319Z",
+      "resolved_at": null,
+      "message": "This is the strongest in this category IMO but I like the other categories better.",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-09-23T21:36:25.778Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2624:27568",
+        "node_offset": {
+          "x": 221,
+          "y": 69
+        },
+        "stable_path": [
+          "2624:27568"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1438905561",
+      "uuid": "d9bd137f-1887-4972-ac1c-fffa0707eac2",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-09-23T21:25:57.911Z",
+      "resolved_at": null,
+      "message": "Riffs on playful: \nLeave yourself a breadcrumb... \nLeave yourself a tab breadcrumb...\nMake a mental note, right here.",
+      "reactions": [
+        {
+          "emoji": ":fire:",
+          "created_at": "2025-09-23T21:28:13.646Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2624:27171",
+        "node_offset": {
+          "x": 468,
+          "y": 1157
+        },
+        "stable_path": [
+          "2624:27171"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1438904336",
+      "uuid": "ae8e5d8e-4cb4-44da-b200-86d782f5f001",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-09-23T21:24:42.037Z",
+      "resolved_at": null,
+      "message": "Riff: Got an idea? Scribble it here...",
+      "reactions": [
+        {
+          "emoji": ":fire:",
+          "created_at": "2025-09-23T21:28:19.693Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-09-23T21:32:44.673Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2624:27931",
+        "node_offset": {
+          "x": 185,
+          "y": 74
+        },
+        "stable_path": [
+          "2624:27931"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1438896469",
+      "uuid": "aabe66bc-df96-4349-8f9c-56877d33b796",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-09-23T21:17:23.195Z",
+      "resolved_at": null,
+      "message": "I think this option and the following are probably too high cog load",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2624:27271",
+        "node_offset": {
+          "x": 216,
+          "y": 76
+        },
+        "stable_path": [
+          "2624:27271"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1438896150",
+      "uuid": "c3d7ad6d-4871-41da-babb-1d37a55b2fb4",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-09-23T21:17:05.503Z",
+      "resolved_at": null,
+      "message": "+1",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2624:27238",
+        "node_offset": {
+          "x": 217,
+          "y": 109
+        },
+        "stable_path": [
+          "2624:27238"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1438895885",
+      "uuid": "14017fe1-cca5-4a08-9754-d58b82f06fa0",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-09-23T21:16:49.983Z",
+      "resolved_at": null,
+      "message": "+1",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-09-23T21:33:43.633Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-09-23T21:31:33.413Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2624:27205",
+        "node_offset": {
+          "x": 89,
+          "y": 47
+        },
+        "stable_path": [
+          "2624:27205"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1438894946",
+      "uuid": "e66946dd-2db4-4f23-b0ff-b218882687d0",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-09-23T21:15:59.208Z",
+      "resolved_at": null,
+      "message": "Of the different pillars, 'Blazing' doesn't feel like it is lending itself so well to the context. I would focus on the Empowering or Playful paths. =)",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-09-23T21:32:21.828Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2624:28000",
+        "node_offset": {
+          "x": 161,
+          "y": 48
+        },
+        "stable_path": [
+          "2624:28000"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1438888201",
+      "uuid": "6e07eb5e-e246-4ba3-8d18-512d68a9657c",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-09-23T21:09:39.013Z",
+      "resolved_at": null,
+      "message": "Good point, and good note for me to add to our developing empty state guidance: https://docs.google.com/document/d/1GWUrh3J5rGX09mc1if9gkxgXedmv4CIdmPUie0WA774/edit?tab=t.0#heading=h.j15iuz4pjckg\n\nGiven the staleness risk (since empty states aren't generally dismissable), we should probably lean a bit more evergreen and not as personality-forward...",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-09-23T21:18:00.867Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2624:28669",
+        "node_offset": {
+          "x": 268,
+          "y": 507
+        },
+        "stable_path": [
+          "2624:28669"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1438877826",
+      "uuid": "aa947fe1-fe69-4b6f-bf1c-4dc0c9a4c216",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-09-23T21:00:19.632Z",
+      "resolved_at": null,
+      "message": "Note we will be re-writing most of these descrips so take them a bit loosely at this point.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-09-23T21:38:12.733Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2624:28020",
+        "node_offset": {
+          "x": 167,
+          "y": 65
+        },
+        "stable_path": [
+          "2624:28020"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1438876977",
+      "uuid": "9c45d94a-ac71-45a2-96ff-435fdd483610",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-09-23T20:59:37.258Z",
+      "resolved_at": null,
+      "message": "Related to my comment in content channel, \"Clever\" ends up being more about clarity yep.",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-09-23T21:35:48.705Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2624:27171",
+        "node_offset": {
+          "x": 429,
+          "y": 634
+        },
+        "stable_path": [
+          "2624:27171"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1399225775",
+      "uuid": "bf8cb6e7-04dc-4275-9d78-7cdbc0c4389d",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-08-26T20:18:13.802Z",
+      "resolved_at": null,
+      "message": "Create an environment that supports emotional recovery.\nCreate cues:\n* last things they were working on (sorting by recently used)\n* where they have paused\n* what they were thinking (notes)\nShow users their progress\nCreate an environment that supports emotional recovery\nOnboarding:\nAmplify feature visibility when it\u2019s timely and actionable",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1177:53487",
+        "node_offset": {
+          "x": 286,
+          "y": 29
+        },
+        "stable_path": [
+          "1177:53487"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1397028572",
+      "uuid": "fbaabf9a-0f06-43f1-ad75-e50da4f27c5d",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-08-25T18:05:29.921Z",
+      "resolved_at": null,
+      "message": "LL: What actions belong here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "931:86269",
+        "node_offset": {
+          "x": 2203,
+          "y": 6863
+        },
+        "stable_path": [
+          "931:86269"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1397024702",
+      "uuid": "18d2e938-fef5-4d25-9dbe-cc87c09a67c8",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-08-25T18:02:19.469Z",
+      "resolved_at": null,
+      "message": "Find a home for select all tasks, move all tasks to the right, etc.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1072:16842",
+        "node_offset": {
+          "x": 266,
+          "y": 307
+        },
+        "stable_path": [
+          "1072:16842"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1396982985",
+      "uuid": "2a2241a6-62d3-4575-a13f-67492f2d87ef",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-08-25T17:30:44.463Z",
+      "resolved_at": null,
+      "message": "Check off in the tab, not address bar",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1068:16706",
+        "node_offset": {
+          "x": 244,
+          "y": 29
+        },
+        "stable_path": [
+          "1068:16706"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1396980456",
+      "uuid": "5d5ed278-2c88-4970-81f1-e4fa2289b6ac",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-08-25T17:28:51.539Z",
+      "resolved_at": null,
+      "message": "Pref- have ppl used feature or not",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1068:16726",
+        "node_offset": {
+          "x": 103,
+          "y": 112
+        },
+        "stable_path": [
+          "1068:16726"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1396973032",
+      "uuid": "98a346cb-5edc-423a-b4d5-ac9120948d5c",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-08-25T17:23:15.807Z",
+      "resolved_at": null,
+      "message": "If we see users check + close the task - show this contextually",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1098:17433",
+        "node_offset": {
+          "x": 364,
+          "y": 44
+        },
+        "stable_path": [
+          "1098:17433"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1396970474",
+      "uuid": "1f4991f5-d80e-496d-92cf-9d17622364fe",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-08-25T17:21:23.560Z",
+      "resolved_at": null,
+      "message": "CFR",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1098:17253",
+        "node_offset": {
+          "x": 367.57421875,
+          "y": 29
+        },
+        "stable_path": [
+          "1098:17253"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1396968501",
+      "uuid": "d09e00ab-dd17-4ca8-8eac-4532afe10ae7",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-08-25T17:19:58.086Z",
+      "resolved_at": null,
+      "message": "Did this for Fx View\n\nCould darken the rest of the UI? Do we have enough things to point out to in the UI?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1098:17437",
+        "node_offset": {
+          "x": 388,
+          "y": 43
+        },
+        "stable_path": [
+          "1098:17437"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1389501086",
+      "uuid": "307bb4d5-27d6-4bcc-97b7-ef127d72ec71",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2025-08-19T23:32:54.644Z",
+      "resolved_at": null,
+      "message": "@Amy Lee I feel that creating task lists would be a very infrequent action and it might make sense to hide it behind the three dot menu of the To Do list panel (we have used this pattern in the chatbot sidebar panel). What do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "872:242214",
+        "node_offset": {
+          "x": 9118,
+          "y": 381
+        },
+        "stable_path": [
+          "872:242214"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1385143486",
+      "uuid": "f63a13e3-7e73-47ef-955b-c60292fea073",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-08-15T20:27:02.263Z",
+      "resolved_at": null,
+      "message": "@Ania Safko \u2013 Here are the edge cases for marking a task as done in the tab hover preview and expecting it to be marked as done in the task list.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "676:224282",
+        "node_offset": {
+          "x": 2209,
+          "y": 10137
+        },
+        "stable_path": [
+          "676:224282"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1385057768",
+      "uuid": "52855afa-73b9-4f19-9b2c-e129e04b95e2",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-08-15T18:51:32.732Z",
+      "resolved_at": null,
+      "message": "@Ania Safko \u2013 Tried an option here based on the PRD ask. This is not my preference. It feels like the user needs to do an extra step to try the feature out. There's the idea of onboarding fatigue where you don't want to go through a multi step process and it forces you to make a decision where you might just want to try the feature out without a specific goal in mind. There's also little benefit to the difference between a work/personal list besides a different label (which will probably be generic. \n\nI like the previous option where the user can jump right in and drag and drop a tab to see what happens. It feels more light weight with less barriers. CC @Laura Lopez",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "676:224282",
+        "node_offset": {
+          "x": 13152,
+          "y": 2946
+        },
+        "stable_path": [
+          "676:224282"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1383484044",
+      "uuid": "1f13b3fe-40c5-4cce-9126-a57fd8b6d700",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-08-14T16:07:43.741Z",
+      "resolved_at": null,
+      "message": "@Ania Safko \u2013 Hi, I wanted to draw your attention to the notes I wrote around if we should show the completed list by default or not as I was also talking to Yulia and @Laura Lopez about this.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "676:224282",
+        "node_offset": {
+          "x": 6015,
+          "y": 5757
+        },
+        "stable_path": [
+          "676:224282"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1380137719",
+      "uuid": "d8c5bdac-f471-4dfe-b746-acd87b9f39e8",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-08-12T23:09:35.620Z",
+      "resolved_at": null,
+      "message": "@Ania Safko @Laura Lopez \u2013 A modal prompting the user if they want to check off a task. \n\nConcerns: Do we prompt this every time a user closes a tab linked to a task? \n\nIf we want to have a \"never show\" again checkbox, we will end up with 2 checkboxes here. The options feel overwhelming.\n\nAlso an overlay feels a bit of an overkill for this scenario. Thoughts?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "615:144141",
+        "node_offset": {
+          "x": 5168,
+          "y": 10264
+        },
+        "stable_path": [
+          "615:144141"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1380135399",
+      "uuid": "aaf630c5-143f-4b48-b060-bad658c3d88a",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-08-12T23:05:40.129Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez @Ania Safko \u2013\u00a0Wanted to flag some concerns I have around having a modal prompting the user if they want to close associated tabs. \n\nIt can get annoying if we prompt this each time a user removes a task/or a series of tasks. \n\nIf we have a never show this again option, then we end up with 2 check boxes (remember my choice, never show again).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "615:144141",
+        "node_offset": {
+          "x": 5400,
+          "y": 7672
+        },
+        "stable_path": [
+          "615:144141"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1380038333",
+      "uuid": "6957399d-ad43-42a2-a963-83630e0795e7",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-08-12T21:04:34.889Z",
+      "resolved_at": null,
+      "message": "@Ania Safko \u2013\u00a0This wasn't in the brief but an optional \"add current tab\" function.\n\nSome edge cases would be:\n\u2022 Do we let the user add multiple instances of the current tab or disable the function if they just added the tab?\n\nEdge case: \nIf the user adds a current tab and then scrolls to another position on the webpage do we allow the user to add another instance of it?\n\nI feel like we should let the user decide. If they want to add multiple copies of the same thing, is there a reason we shouldn't let them?\n\nAlso wording: \n\"Add current tab\" \u2013 Sounds like we're adding the tab and not the webpage URL. Do users care about this nuance? Thoughts @Laura Lopez?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "636:160141",
+        "node_offset": {
+          "x": 213,
+          "y": 294
+        },
+        "stable_path": [
+          "636:160141"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1374200653",
+      "uuid": "802d9f3d-64e8-4452-9d95-9ed18f530620",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-08-07T19:03:13.901Z",
+      "resolved_at": null,
+      "message": "My gut reaction is that task or to-do makes the most sense, because if I convert a tab to something I can check off, it's because I want to specifically treat it like an action I can clear. For reminder, I can leave the tab open to remind me and it's more passive. Follow up feels too narrow, and action feels too generic.",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2025-08-07T19:14:01.803Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "508:139221",
+        "node_offset": {
+          "x": 1620,
+          "y": 1717
+        },
+        "stable_path": [
+          "508:139221"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1364673292",
+      "uuid": "a16c1b62-c943-47c1-adb9-2b0daa749c56",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-07-31T20:53:31.626Z",
+      "resolved_at": null,
+      "message": "If someone is coming from the manage tab group panel -> make task list -> turn it into a task list for them with a callout that says they can turn it back into a TG anytime \n\n@Laura Lopez",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "339:94440",
+        "node_offset": {
+          "x": 5623,
+          "y": 1631
+        },
+        "stable_path": [
+          "339:94440"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1364656940",
+      "uuid": "25f0b192-1347-4453-a612-7b377673d8ed",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-07-31T20:38:58.937Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez Naming convention for generic/unnamed\n\nTask List 1\nTask List 2? \n\nTo Dos 1\nTo Dos 2\n\nUsers can change it back to a tab group... what do we do with the naming?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "381:116557",
+        "node_offset": {
+          "x": 178,
+          "y": 477
+        },
+        "stable_path": [
+          "381:116557"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1364651345",
+      "uuid": "4fe10f66-6edd-474f-aa30-c388c660bbe5",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-07-31T20:33:53.677Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez Different heading for this\n\nOrganizer?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "339:94440",
+        "node_offset": {
+          "x": 5413,
+          "y": 457
+        },
+        "stable_path": [
+          "339:94440"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1364642202",
+      "uuid": "92fecd1f-f6a0-4b81-a979-920a5c5e94b4",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-07-31T20:26:01.725Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez note: it's still a group-related action",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "322:84122",
+        "node_offset": {
+          "x": 2142,
+          "y": 828
+        },
+        "stable_path": [
+          "322:84122"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1352789477",
+      "uuid": "45b6c008-ade3-413d-8256-f5a8f2f9b062",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-07-23T19:43:59.191Z",
+      "resolved_at": null,
+      "message": "@Ania Safko \u2013\u00a0If we want to give a more obvious indicator when a tab is opened vs. closed since we show the task regardless if the tab is still opened or not. If a tab is already opened we show a regular highlight state. If it's a closed tab, we can show an \"Open tab\" message.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "217:48919",
+        "node_offset": {
+          "x": 13782,
+          "y": 1184
+        },
+        "stable_path": [
+          "217:48919"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1352788084",
+      "uuid": "ad9bbe48-4884-4894-88cc-abf70d714f0b",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-07-23T19:42:55.346Z",
+      "resolved_at": null,
+      "message": "@Ania Safko \u2013\u00a0Some explorations around giving the user the option to close a tab when the task is completed. I'm leaning on the side of not adding complexity and keeping the task list as strictly task tracking and not tab clean-up but I'd be curious what users expect.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "217:48919",
+        "node_offset": {
+          "x": 7158,
+          "y": 758
+        },
+        "stable_path": [
+          "217:48919"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1352782616",
+      "uuid": "219d240f-604e-4221-a07d-61422a658e51",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-07-23T19:38:46.165Z",
+      "resolved_at": null,
+      "message": "@Ania Safko \u2013 Not necessarily a recommended idea. I explored giving 2 options to the user for how they want their task tracked. If we default to a static URL for a task and we give the user the option to track tab navigation if they want.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "217:48919",
+        "node_offset": {
+          "x": 5573,
+          "y": 1824
+        },
+        "stable_path": [
+          "217:48919"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1333365120",
+      "uuid": "1fce7fa1-4b37-41ca-81f5-8d76e2c2425b",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2025-07-09T22:29:04.957Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez @Amy Lee Here's how Todoist extension does the \"show-don't'-tell\" intro to their features - they pre-create a list of tasks for new users.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:2",
+        "node_offset": {
+          "x": 31968,
+          "y": 2989
+        },
+        "stable_path": [
+          "1:2"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1324084868",
+      "uuid": "68839895-f2d0-45bd-9c38-9123747acb62",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2025-07-02T22:18:46.510Z",
+      "resolved_at": null,
+      "message": "https://todoist.doist-emails.com/en/emails/todoist/team/onboarding/day0/creator",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:2",
+        "node_offset": {
+          "x": 9095,
+          "y": 3739
+        },
+        "stable_path": [
+          "1:2"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1324084539",
+      "uuid": "5cb56a3e-36df-4a1c-9503-633810cebac2",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2025-07-02T22:18:18.348Z",
+      "resolved_at": null,
+      "message": "https://app.arcade.software/share/zaIhD1pOxJwVvLDyODPz",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:2",
+        "node_offset": {
+          "x": 8975,
+          "y": 3739
+        },
+        "stable_path": [
+          "1:2"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1642985430",
+      "uuid": "7296a437-dcac-4ee9-af4a-2ce35c23c53c",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-02-21T02:26:00.990Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi @Natalie Stroud \u2013 Example of the note without the hover state but the tool tip will still appear.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4490:15689",
+        "node_offset": {
+          "x": 1818,
+          "y": 297
+        },
+        "stable_path": [
+          "4490:15689"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "1642747432",
+      "uuid": "aa38c4f2-d07b-40ac-9ef4-f471084ef45d",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-02-20T19:35:30.485Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi @Natalie Stroud \u2013 Hi, I had another question here regarding hover states. Do we need a hover state for the tab notes icon if technically clicking anywhere on the note would trigger \"edit mode\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4490:15689",
+        "node_offset": {
+          "x": 2035,
+          "y": 345
+        },
+        "stable_path": [
+          "4490:15689"
+        ]
+      },
+      "order_id": "136"
+    },
+    {
+      "id": "1606035527",
+      "uuid": "06e71a63-f252-417d-b5b6-810a590af00d",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-01-27T17:12:49.823Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez We could possibly do the same via the context menu if we feel the label in the context menu is enough here. CC @Anna Yeddi",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4490:15689",
+        "node_offset": {
+          "x": 2792,
+          "y": 462
+        },
+        "stable_path": [
+          "4490:15689"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "1606034676",
+      "uuid": "546372ff-66da-414d-b9c8-d16fb8dcbcb6",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2026-01-27T17:12:22.472Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez We could possibly do the same via the context menu if we feel the label in the context menu is enough here. CC @Anna Yeddi",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4490:15689",
+        "node_offset": {
+          "x": 1477,
+          "y": 467
+        },
+        "stable_path": [
+          "4490:15689"
+        ]
+      },
+      "order_id": "134"
+    },
+    {
+      "id": "1507313555",
+      "uuid": "c8f65a5d-436e-4516-a767-ec07145a2ce7",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-11-10T20:40:00.030Z",
+      "resolved_at": null,
+      "message": "@Natalie Stroud \u2013 Can you advise on the correct wording for describing how to handle the \"new\" badge in the \"dot\" stage and also when it's exposed on hover? CC @Anna Yeddi @Morgan Rae Reschenberg",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3704:14139",
+        "node_offset": {
+          "x": 131,
+          "y": 294
+        },
+        "stable_path": [
+          "3704:14139"
+        ]
+      },
+      "order_id": "119"
+    },
+    {
+      "id": "1507298217",
+      "uuid": "810cee52-7231-41a6-8317-2b6c5269d0d3",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-10T20:27:43.466Z",
+      "resolved_at": null,
+      "message": "@Amy Lee If the green dot badge would be used, we need to ensure that it is exposed to assistive technology in text (i.e. by overwriting the button's name as \"Add note (new)\" via aria-label)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2622:44618",
+        "node_offset": {
+          "x": 171,
+          "y": 23
+        },
+        "stable_path": [
+          "2622:44618"
+        ]
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "1504621476",
+      "uuid": "e67248a9-0055-4364-90c3-a0529c7fd974",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-11-07T16:29:44.258Z",
+      "resolved_at": null,
+      "message": "Hi @Amy Lee! For section A here, we need to add a callout for engineers in the 'Note' section that includes information on exposing this to keyboard. Please add the following:\n\nEngineering Note:\n* add the popover attribute with auto state\n* when focus reaches a tab the thumbnail preview appears",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2799:58929",
+        "node_offset": {
+          "x": 251,
+          "y": 200
+        },
+        "stable_path": [
+          "2799:58929"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "1480207310",
+      "uuid": "b8f518e2-8e3f-4f5e-bcc1-299906690309",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-10-22T18:39:46.957Z",
+      "resolved_at": null,
+      "message": "@Nikki Sharpley \u2013 Opt B is that the animation is a fixed with regardless of card size. CC @Ania Safko",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3151:16495",
+        "node_offset": {
+          "x": 7854,
+          "y": 2020
+        },
+        "stable_path": [
+          "3151:16495"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "1480206140",
+      "uuid": "ecf89192-3b09-4e83-8c8f-b1cc3c7f3489",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-10-22T18:39:00.518Z",
+      "resolved_at": null,
+      "message": "@Nikki Sharpley \u2013\u00a0I wanted to get your feedback on if we can have the animation extend out (more of the browser window is shown) as the user expands the sidebar up to a max width. CC @Ania Safko",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3151:16495",
+        "node_offset": {
+          "x": 7858,
+          "y": 444
+        },
+        "stable_path": [
+          "3151:16495"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "1467878416",
+      "uuid": "3e006590-2c77-416d-bc55-c6163ad85398",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-10-14T17:10:47.499Z",
+      "resolved_at": null,
+      "message": "Love the idea of an animation here! @Amy Lee \n\nMy hunch is that it'll be engaging so it could help to grab a user's attention more so than an static image.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-10-14T20:19:14.985Z",
+          "user": {
+            "id": "870758038064914784",
+            "handle": "Amy Lee",
+            "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3513:41188",
+        "node_offset": {
+          "x": 463,
+          "y": 485
+        },
+        "stable_path": [
+          "3513:41188"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1450831637",
+      "uuid": "fc4e2194-4b00-41a4-b93d-36151c230840",
+      "file_key": "cYOQUQ7DuihpBPEPui4RqO",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2025-10-01T19:25:25.636Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi \u2013 Hi, here is the accessibility annotations for tab notes for review. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2799:58928",
+        "node_offset": {
+          "x": 111,
+          "y": 20
+        },
+        "stable_path": [
+          "2799:58928"
+        ]
+      },
+      "order_id": "68"
+    }
+  ]
+}

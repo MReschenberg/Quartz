@@ -1,0 +1,1697 @@
+{
+  "unresolved": [
+    {
+      "id": "1302924836",
+      "uuid": "2e847e24-2449-4946-b8d1-0919d28d54a3",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2025-06-17T18:01:38.484Z",
+      "resolved_at": null,
+      "message": "@Yubin Jamora @Ed Lee wanted to flag that I added accessibility notes from @Anna Yeddi throughout the specs.",
+      "reactions": [
+        {
+          "emoji": ":fire:",
+          "created_at": "2025-07-01T17:05:40.434Z",
+          "user": {
+            "id": "1065698646736968458",
+            "handle": "Anna Yeddi",
+            "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "15920:25963",
+        "node_offset": {
+          "x": 309,
+          "y": 51
+        },
+        "stable_path": [
+          "15920:25963"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "1302882454",
+      "uuid": "98b0f29f-51ea-428f-9dbf-d1eed0ad67ca",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-06-17T17:32:36.580Z",
+      "resolved_at": null,
+      "message": "@Eric Pang - Another check please :) Not sure if this is actually possible - to have a small bubble arrow when it points in one direction, and a large bubble arrow when it points in the other.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15553:168454",
+        "node_offset": {
+          "x": 268,
+          "y": 29
+        },
+        "stable_path": [
+          "15553:168454"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "1302880912",
+      "uuid": "b1a79728-72da-4a34-80a5-91da778c0301",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-06-17T17:31:32.284Z",
+      "resolved_at": null,
+      "message": "@Eric Pang - Can you check that the callout bubble size and position are right for this? (Since I updated it to the new component.)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15897:316977",
+        "node_offset": {
+          "x": 301,
+          "y": 81
+        },
+        "stable_path": [
+          "15897:316977"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "1302725757",
+      "uuid": "0f6a173b-59da-4dc5-9a32-f8a4b8d5b569",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2025-06-17T15:52:49.771Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi is this what you meant for HCM? I wasn't able to find a \"Button face\" in figma. let me know :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15920:25959",
+        "node_offset": {
+          "x": 130,
+          "y": 15
+        },
+        "stable_path": [
+          "15920:25959"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "1295688737",
+      "uuid": "179e2bbd-5183-436e-8ff0-db773ddae905",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-06-12T00:21:45.202Z",
+      "resolved_at": null,
+      "message": "@Eric Pang - In this case - the user does not have a chatbot selected - I think the right thing to badge as \"New\" is the level 1 menu item - so \"Ask an AI Chatbot\". Wdyt? This because the whole idea of the chatbot (to them) is new.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15508:188336",
+        "node_offset": {
+          "x": 789,
+          "y": 1971
+        },
+        "stable_path": [
+          "15508:188336"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "1291381807",
+      "uuid": "970cb9bf-509f-4057-a93b-b3c0231412e0",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-06-09T17:46:46.914Z",
+      "resolved_at": null,
+      "message": "@Eric Pang the same recommendation to the badge here as well as above:\n1. color contrast is low for the green with white text (should be 4.5:1 or more)\n2. the \"new\" should be included in the accessible name of this menu option.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15508:195416",
+        "node_offset": {
+          "x": 107,
+          "y": 12
+        },
+        "stable_path": [
+          "15508:195416"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1291149545",
+      "uuid": "37030834-fc22-4a6c-a830-9e8a3a0c914c",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-06-09T15:00:43.709Z",
+      "resolved_at": null,
+      "message": "For the accessibility, the treatment A would be more beneficial, because users with cognitive disabilities, especially users with dyslexia and neurodiverse users would likely not know what exactly the badge would mean. Those are the users that would benefit from the summarization feature the most, for them it may be an assistive technology. Thus, making this feature visible and clearly indicated would be highly beneficial. \n\nConsidering, that a badge on the App Menu usually means a general update is available, this would likely to be implied for the sidebar icon too. \n\nAnother case may be for active users of GenAI tools, when a large document and/or research request is submitted with the prompt, the LLM may take a while to process it. And some users may assume that, if they closed the sidebar while the LLM is still working, the process has been completed and the badge appears (instead of thinking that this badge means a new feature).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15508:163137",
+        "node_offset": {
+          "x": 1381,
+          "y": 7668
+        },
+        "stable_path": [
+          "15508:163137"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1291136550",
+      "uuid": "de2ec5bd-844c-4aca-9b7e-3f7b2324cf00",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-06-09T14:53:21.208Z",
+      "resolved_at": null,
+      "message": "Focus order-wise, I think, we need to ensure this button is added at the bottom of the sidebar panel, right before the web content. So it would not be focused with F6, for instance, but from the top of the webcontent, pressing \"Tab\"+\"Shift\" would focus it, or pressing \"Tab\" from the end of the GenAI provider's UI, i.e. \"Send\" chatGPT button on this example.\n\nbasically, making this button the last one in the sidebar's GenAI panel's landmark (not a separate landmark)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15508:176692",
+        "node_offset": {
+          "x": 299,
+          "y": 566
+        },
+        "stable_path": [
+          "15508:176692"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1291132799",
+      "uuid": "c5eedfb6-19c0-4747-a715-0cfbbcdcc27c",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-06-09T14:51:20.741Z",
+      "resolved_at": null,
+      "message": "@Eric Pang The green color with white text gives 2.6:1 in color contrast, while at least 4.5:1 is expected. \nIf we'd decided to use the same green color, using black for text would give 8.1:1 in color contrast which is Level AAA compliant. Or darker green like #008A00 or darker would do.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15508:176579",
+        "node_offset": {
+          "x": 148,
+          "y": 1022
+        },
+        "stable_path": [
+          "15508:176579"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1291124479",
+      "uuid": "26ab62f2-ff25-4c70-9fa1-4debcda1b85a",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-06-09T14:46:45.018Z",
+      "resolved_at": null,
+      "message": "Focus order: \n1. \"X\" (name: \"Close\" or \"Dismiss\" would work here)\n2. \"Close\"\n3. \"Summarize page\"\nReading order:\n1. Heading \"New Summarize...\"\n2. \"X\" button\n3. Text \"Use...\"\n4. \"Close\" button\n5. \"Summarize page\" button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15508:176227",
+        "node_offset": {
+          "x": 341,
+          "y": 94
+        },
+        "stable_path": [
+          "15508:176227"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1291123975",
+      "uuid": "6b90c508-23a9-42c4-808f-114629be6d10",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-06-09T14:46:28.613Z",
+      "resolved_at": null,
+      "message": "@Eric Pang the green badge with this light background has low color contrast (2.5:1 while 3:1 or more is expected), thus it may be missed by some users. CCing @Jules Simplicio in case this is a reusable component - could we update it to be a darker green dot?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15508:176227",
+        "node_offset": {
+          "x": 39,
+          "y": 89
+        },
+        "stable_path": [
+          "15508:176227"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "1137983152",
+      "uuid": "03c18f84-008a-4f74-b808-c6c1c085897b",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2025-02-18T17:16:34.970Z",
+      "resolved_at": null,
+      "message": "@Jolie Huang Should it be a maximum of 1 more time that callout can be seen?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14984:15295",
+        "node_offset": {
+          "x": 543,
+          "y": 960
+        },
+        "stable_path": [
+          "14984:15295"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1132738119",
+      "uuid": "590ae4e3-9624-47ae-b4f7-267d283ceb26",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-02-14T00:05:01.841Z",
+      "resolved_at": null,
+      "message": "@Katie Lower It looks like this notification is set to show a maximum of 2 times. You might be able to use a regular \"Dismiss\" button here (without the dropdown options) since the callout is not set to repeat very often.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14897:9201",
+        "node_offset": {
+          "x": 379,
+          "y": 278
+        },
+        "stable_path": [
+          "14897:9201"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1132648136",
+      "uuid": "66b4b125-1943-41e3-8b70-02ad65c84ba7",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-02-13T22:06:08.277Z",
+      "resolved_at": null,
+      "message": "Noting Victoria's recommendation to use \"Dismiss\" rather than \"Got it!\" for the secondary CTA for this type of callout with a primary CTA.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14897:9299",
+        "node_offset": {
+          "x": 177,
+          "y": 295
+        },
+        "stable_path": [
+          "14897:9299"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "1132538906",
+      "uuid": "3aeb9666-69bc-4d4b-b09a-8ce13961e769",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-02-13T20:30:47.054Z",
+      "resolved_at": null,
+      "message": "@Katie Lower Now that I am seeing the callout mocked up, there is a slight disconnect for me between the body content and the icon the callout is pointing to. I know the panel has to be closed by default. I think \"Try something new or use what's familiar\" is a little bit harder to grok without seeing what's listed in the open chatbot panel. Maybe some more explicit words for \"something\" or \"what's familiar\" would help tie the copy back to the chatbot?\n\nAnd feel free to vet this with another CD to make sure I'm not seeing something really nitpicky!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14897:9299",
+        "node_offset": {
+          "x": 426,
+          "y": 134
+        },
+        "stable_path": [
+          "14897:9299"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1130727008",
+      "uuid": "c494784c-78fd-45dd-9c9f-faf26d2fed73",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jolie Huang",
+        "img_url": "https://www.gravatar.com/avatar/a6e1e18683134963f63903f8cd8e8912?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1390095106288756484"
+      },
+      "created_at": "2025-02-12T23:15:55.923Z",
+      "resolved_at": null,
+      "message": "Should we have a treatment D for tab switching copy + image?\nIf treatment A is winning/losing, we wouldn't know whether the result was due to lack of image or copy.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14984:15295",
+        "node_offset": {
+          "x": 1309,
+          "y": 454
+        },
+        "stable_path": [
+          "14984:15295"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1130724464",
+      "uuid": "38e0b4bc-7b0b-4f8e-a4b8-3ea1ad64693c",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jolie Huang",
+        "img_url": "https://www.gravatar.com/avatar/a6e1e18683134963f63903f8cd8e8912?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1390095106288756484"
+      },
+      "created_at": "2025-02-12T23:12:43.835Z",
+      "resolved_at": null,
+      "message": "@Eric Pang @Katie Lower @Ed Lee What would happen if a user completed step 1 & see the sidebar, then decided to abandon (click X or Got it)? Would the sidebar remain after existing? If so, would there be a way to \"revert\" the sidebar updates?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14897:9299",
+        "node_offset": {
+          "x": 21,
+          "y": 409
+        },
+        "stable_path": [
+          "14897:9299"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1124446439",
+      "uuid": "b30015a4-5182-4d9b-94ef-a80e4e8774a9",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-02-08T00:43:13.155Z",
+      "resolved_at": null,
+      "message": "@Katie Lower Our standard CTA content for the final step of a multi-step callout tour (if there are no requested actions) is \"Got it!\" Gray button color is :+1:.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14832:50080",
+        "node_offset": {
+          "x": 487,
+          "y": 432
+        },
+        "stable_path": [
+          "14832:50080"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1124303043",
+      "uuid": "90c33243-d692-4b2b-b28c-b2c40dd1c4e5",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-02-07T20:37:33.893Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde - When should we have a 3-dot / more menu and when should we not? What typically goes in the 3-dot menu?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14843:50333",
+        "node_offset": {
+          "x": 312,
+          "y": 15
+        },
+        "stable_path": [
+          "14843:50333"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1124208541",
+      "uuid": "877b4b40-25c7-4421-bbe3-c50c8072e05a",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-02-07T19:07:26.015Z",
+      "resolved_at": null,
+      "message": "@Katie Lower This is my favorite variant of the three. The ability to use the chatbot without switching tabs feels like the strongest value prop.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14787:126",
+        "node_offset": {
+          "x": 1994,
+          "y": 252
+        },
+        "stable_path": [
+          "14787:126"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1124198062",
+      "uuid": "ead847a3-c15c-4578-8025-5e18d1d82d10",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-02-07T18:57:51.395Z",
+      "resolved_at": null,
+      "message": "@Katie Lower I think the 2-step callout tour does work without any images. I think it's clear what you are pointing to.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-02-07T20:27:59.243Z",
+          "user": {
+            "id": "1169379060174051036",
+            "handle": "Katie Lower",
+            "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "14787:126",
+        "node_offset": {
+          "x": 609,
+          "y": 320
+        },
+        "stable_path": [
+          "14787:126"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1124193112",
+      "uuid": "59c0d845-51f8-4efc-ac95-88d331b20063",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-02-07T18:53:36.649Z",
+      "resolved_at": null,
+      "message": "@Katie Lower This variant and step 1 in Variant C that focus on \"chat\" as a primary reason to use the AI chatbot bring up connotations of a chat app, such as Messenger or Slack, for me. That could be just a me problem! I'm wondering if that a main part of the chatbot or if it's more the \"summarize and brainstorm as you browse\" value prop that you have in the panel below.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14832:50080",
+        "node_offset": {
+          "x": 70,
+          "y": 156
+        },
+        "stable_path": [
+          "14832:50080"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "1124174909",
+      "uuid": "7cb9c309-b69e-4f09-a1ed-f7a350ab417b",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-02-07T18:37:45.574Z",
+      "resolved_at": null,
+      "message": "@Katie Lower Our standard for the primary CTA in a tour is to use \"Next\" rather than \"Continue\" (if there's no action to be taken in this first step).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14832:50080",
+        "node_offset": {
+          "x": 363,
+          "y": 295
+        },
+        "stable_path": [
+          "14832:50080"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "1124171886",
+      "uuid": "2e147684-f3da-4a75-99b0-67d072f5986a",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-02-07T18:35:00.657Z",
+      "resolved_at": null,
+      "message": "@Katie Lower I know my instructions are not to look down here yet :grin: but this approach feels really intuitive to me!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14787:126",
+        "node_offset": {
+          "x": 1564,
+          "y": 1215
+        },
+        "stable_path": [
+          "14787:126"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1124168645",
+      "uuid": "195aeae7-c640-43af-bf68-467c2c2ce6b7",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-02-07T18:32:07.603Z",
+      "resolved_at": null,
+      "message": "@Katie Lower Can you remind me what this second callout would point to? Will the panel be closed and then the callout points to the chatbot sparkle icon? Or will the first CTA trigger the panel to open to the list of chatbots and the callout would point to that?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14787:126",
+        "node_offset": {
+          "x": 674,
+          "y": 724
+        },
+        "stable_path": [
+          "14787:126"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1122571418",
+      "uuid": "70d3a9f6-9638-4f6e-88d8-63090f0c1b2f",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-02-06T20:03:00.634Z",
+      "resolved_at": null,
+      "message": "@Katie Lower Would it be important to let the user know that the sidebar will persist in the left column (in a closed state) once they select \"Show/open sidebar\"? \n\nI think in earlier experiments for Bookmarks Toolbar, we did message that the toolbar would remain open in the first callout. In the most recent re-test, we did not. I'll dig up results from the earlier experiment and Slack them to you. (The recent experiment is still running.)",
+      "reactions": [
+        {
+          "emoji": ":pray:",
+          "created_at": "2025-02-06T20:28:50.311Z",
+          "user": {
+            "id": "1169379060174051036",
+            "handle": "Katie Lower",
+            "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "14787:126",
+        "node_offset": {
+          "x": 1412,
+          "y": 108
+        },
+        "stable_path": [
+          "14787:126"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "1122542672",
+      "uuid": "c486ab78-42d8-4b00-94c8-2b285b8ee5f1",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-02-06T19:41:18.431Z",
+      "resolved_at": null,
+      "message": "Riff: H: Firefox now has AI chatbots built in BC: Summarize, brainstorm, and more inside Firefox with your favorite chatbot.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-02-06T19:44:04.306Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "14787:126",
+        "node_offset": {
+          "x": 1509,
+          "y": 108
+        },
+        "stable_path": [
+          "14787:126"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1017762812",
+      "uuid": "e3916519-903f-4281-bf82-d88be93ecdd0",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Nick Grato",
+        "img_url": "https://www.gravatar.com/avatar/8a0fbfd7320eb1658c4ecd8fc9de05cd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1098063561453020918"
+      },
+      "created_at": "2024-11-07T21:35:18.882Z",
+      "resolved_at": null,
+      "message": "One thing this design mock up does not take into account is the drop down so I think this is really about 730px, none the less the scroll bar for the providers container will get a scroll bar when the high no longer contains it so no change in anything just noting the possible difference here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14317:56433",
+        "node_offset": {
+          "x": 241,
+          "y": 42
+        },
+        "stable_path": [
+          "14317:56433"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1013950628",
+      "uuid": "94d5e879-76b4-4e73-b132-97be6e4a13b4",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Nick Grato",
+        "img_url": "https://www.gravatar.com/avatar/8a0fbfd7320eb1658c4ecd8fc9de05cd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1098063561453020918"
+      },
+      "created_at": "2024-11-05T19:23:43.122Z",
+      "resolved_at": null,
+      "message": "@Katie Lower I got some feed back about the string here from Fluent reviewers.\n\nI'll be honest im not entirely sure what they are trying to say but they did give some suggestion string. \n\n\"I didn't pick up on this during the initial string review with the \ncontent team. In order for this to be rendered natively in other \nlanguages, we'd have to use plural forms for both $selectionLength and $maxLength.\n Unfortunately, it's not a good idea (it's basically unmanageable) to do\n two of these selectors in the same string. For English it's fairly \nstraight forward, but when you have languages like Arabic that have 6 \nplural forms, that ends up being a whole lot of permutations for a \nsingle string.\nCould you reach out to content for advice on how to refactor this to drop one of the plurals?\nSome possible examples:\n\nYou\u2019ve selected about { $selectionLength } characters. That exceeds the maximum number of characters ({ $maxLength }) that we can send to { $provider }.\n\nWe can only send about { $maxLength } characters to { $provider }. Number of characters you've selected: { $selectionLength }\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13625:128025",
+        "node_offset": {
+          "x": 1227,
+          "y": 678
+        },
+        "stable_path": [
+          "13625:128025"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "956154185",
+      "uuid": "51f43ff3-17c9-4263-9dce-d515c35fb26d",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-09-19T18:47:15.301Z",
+      "resolved_at": null,
+      "message": "Riffing off my menu comment for the \"Show\" variant. Would it work to do that here?\n\n\"Turn off text selections menu\"\nor \n\"Turn off shortcuts menu when selecting text\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13530:86292",
+        "node_offset": {
+          "x": 4500,
+          "y": 629
+        },
+        "stable_path": [
+          "13530:86292"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "956152109",
+      "uuid": "188528ed-fb62-4dbe-b4b5-1b8089278ad1",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-09-19T18:45:31.688Z",
+      "resolved_at": null,
+      "message": "Wondering if this is either:\n\"Hide shortcut\" or \"Hide prompt shortcut\" - simple and clear\n\nOR\n\n\"Hide shortcut when selecting text\" - to mirror whatever you land on in the other menu.\n\nI feel like either way works, but I lean the short way because I imagine that'll get really long in German",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13552:96706",
+        "node_offset": {
+          "x": 130,
+          "y": 203
+        },
+        "stable_path": [
+          "13552:96706"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "956150494",
+      "uuid": "ba728c7f-c5a1-41fe-87b5-a489e1c56d91",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-09-19T18:44:14.679Z",
+      "resolved_at": null,
+      "message": "I want to call the prompts a 'menu' because that seems most intuitive to me to visualize what I'm showing/hiding. Would that work here?\n\nSuggestions: \n\"Show shortcuts menu when selecting text\" \nor \n\"Show text selections menu\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13530:86292",
+        "node_offset": {
+          "x": 2099,
+          "y": 738
+        },
+        "stable_path": [
+          "13530:86292"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "956149959",
+      "uuid": "5cf76259-b652-4971-bfd2-16866e8d27a1",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-09-19T18:43:47.693Z",
+      "resolved_at": null,
+      "message": "What's the action here? For some reason reload is giving me slight pause because it feels destructive / like it might take me out of what I'm doing. Potential riff is \"Refresh ChatGPT\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13558:80729",
+        "node_offset": {
+          "x": 137,
+          "y": 28
+        },
+        "stable_path": [
+          "13558:80729"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "956147081",
+      "uuid": "3aebcc31-f507-4210-a042-42dcb7ea8769",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-19T18:41:24.516Z",
+      "resolved_at": null,
+      "message": "Alt: \"About AI chatbots in Firefox\" - I think it's ok to be more general here",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-09-19T18:42:25.352Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "13558:80729",
+        "node_offset": {
+          "x": 234,
+          "y": 144
+        },
+        "stable_path": [
+          "13558:80729"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "956146545",
+      "uuid": "e775704c-4aa0-40bc-9797-d4627ce7df27",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-09-19T18:40:57.618Z",
+      "resolved_at": null,
+      "message": "I like this for the clarity, but I recognize it's too long. I wonder if you could get away with \"Show shortcut when selecting text\" or \"Show shortcut on text select\" and rely in the first menu item to communicate this is about ChatGPT @Katie Lower",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-09-19T18:41:28.933Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-09-19T19:27:00.544Z",
+          "user": {
+            "id": "1298754465457927621",
+            "handle": "Tina Vaamonde",
+            "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "13569:57093",
+        "node_offset": {
+          "x": 290,
+          "y": 32
+        },
+        "stable_path": [
+          "13569:57093"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "956146468",
+      "uuid": "16cf5e63-a4ab-48c0-8f0a-c54cebd74d7f",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-09-19T18:40:53.249Z",
+      "resolved_at": null,
+      "message": "Can the word \"shortcut\" be a constant here? The word \"prompts\" confused me initially because it's more about seeing the shortcut to the prompts than the prompts themselve. so \"Show prompt shortcut on text select\"? too long, I assume. But what about \"Show AI shortcut on text select\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13558:80729",
+        "node_offset": {
+          "x": 22,
+          "y": 53
+        },
+        "stable_path": [
+          "13558:80729"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "952892839",
+      "uuid": "d1d49472-9830-46d4-beb4-d7a9448cfdd4",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-09-17T22:22:24.191Z",
+      "resolved_at": null,
+      "message": "@Eric Pang - Just FYI - This column is my brain dump of ideas for placement / framing. Chat with you about this more in the morning.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13319:62194",
+        "node_offset": {
+          "x": 6068,
+          "y": 6146
+        },
+        "stable_path": [
+          "13319:62194"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "952599240",
+      "uuid": "e2c8ed81-00bb-4c11-9a4d-2100df557d54",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-09-17T17:49:08.156Z",
+      "resolved_at": null,
+      "message": "we could share more info about providers -- as we do in in context onboarding",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13319:62194",
+        "node_offset": {
+          "x": 666,
+          "y": 1874
+        },
+        "stable_path": [
+          "13319:62194"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "951217058",
+      "uuid": "2dbddd75-3cec-4253-96b9-49552cf1e025",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-09-16T21:48:10.906Z",
+      "resolved_at": null,
+      "message": "@Eric Pang - I wonder if the sparkles icon should actually be used here (and not above on \"Show AI chatbot...\") since the sparkles are the symbol for the shortcut.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13419:77002",
+        "node_offset": {
+          "x": 128,
+          "y": 253
+        },
+        "stable_path": [
+          "13419:77002"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "951215526",
+      "uuid": "e44032e5-660c-46a8-9d70-ebf8a00d3b33",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-09-16T21:46:01.299Z",
+      "resolved_at": null,
+      "message": "@Eric Pang - Thoughts on this copy? I keep fiddling with it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13419:77002",
+        "node_offset": {
+          "x": 147,
+          "y": 298
+        },
+        "stable_path": [
+          "13419:77002"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "951168665",
+      "uuid": "88ff4884-0475-4d3c-b485-8b8568504e96",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-09-16T20:50:32.505Z",
+      "resolved_at": null,
+      "message": "@Katie Lower designed a version that's more in line with customize settings. That's why I went back to checkboxes for now to be consistent.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13419:77002",
+        "node_offset": {
+          "x": 365,
+          "y": 95
+        },
+        "stable_path": [
+          "13419:77002"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "950641636",
+      "uuid": "0bf779ef-cfd9-423c-a3d2-249bba3a002e",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-09-16T14:04:15.878Z",
+      "resolved_at": null,
+      "message": "if we go this direction should we change this language to \"Try a chatbot\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13346:189350",
+        "node_offset": {
+          "x": 262,
+          "y": 294
+        },
+        "stable_path": [
+          "13346:189350"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "842426787",
+      "uuid": "41f0ddc8-695c-4d70-b19f-681e0965731f",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-06-17T16:29:28.153Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi Can you review these annotations for the provider dropdown? Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10516:69307",
+        "node_offset": {
+          "x": 501,
+          "y": 372
+        },
+        "stable_path": [
+          "10516:69307"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "842366036",
+      "uuid": "d159763a-f050-4f22-8e79-4bd5e68558f8",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-06-17T15:42:38.108Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi Just wanted to note that the dropdown for provider choice has also been added to the customize sidebar. It's styled as a dropdown here. Should I spec this out? Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10140:34087",
+        "node_offset": {
+          "x": 253,
+          "y": 278
+        },
+        "stable_path": [
+          "10140:34087"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "842332364",
+      "uuid": "864a6a0b-07a4-438a-b26a-6accaca9d24c",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-06-17T15:20:01.626Z",
+      "resolved_at": null,
+      "message": "@Eric Pang Hi Eric, it seems that I missed this chevron on the UI before. Is it going to be an actionable element? What would it do?\n\nIn general, if it would be clickable, we'd want to add a focus stop (before the \"X\" button, thus it would become the first focusable element on the GenAI sidebar) - wrap both the heading \"ChatGPT\" and the \"v\" chevron. The label could be the on-screen string (\"ChatGPT\"), role: button, state: collapsed/expanded (via \"aria-expaneded\" property, engineering pattern with examples)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10518:70139",
+        "node_offset": {
+          "x": 161,
+          "y": 55
+        },
+        "stable_path": [
+          "10518:70139"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "807351269",
+      "uuid": "8aa7fd68-f074-49aa-9c01-e73256d6d6ca",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-05-17T09:33:31.708Z",
+      "resolved_at": null,
+      "message": "Updated the HCM for the menu to follow the dropdown pattern",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10527:36875",
+        "node_offset": {
+          "x": 1047,
+          "y": 716
+        },
+        "stable_path": [
+          "10527:36875"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "799631114",
+      "uuid": "96469e37-646f-47b5-a36e-2bef22158f7c",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-05-10T17:48:36.441Z",
+      "resolved_at": null,
+      "message": "These overlay buttons are not expected to be keyboard focusable, but the functionality has to be fully available in the context menu (right click) for screen reader and keyboard-only users to access it in an alternative way.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10496:64051",
+        "node_offset": {
+          "x": 1045,
+          "y": 711
+        },
+        "stable_path": [
+          "10496:64051"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "798317812",
+      "uuid": "0bc7a072-be76-4f9e-96e2-1b18d775258c",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-05-09T17:23:38.593Z",
+      "resolved_at": null,
+      "message": "@Katie Lower wondering is this is still relevant when the participant will see the prompts before getting to in-context onboarding in this flow. Or would we want to ask earlier in the flow?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10535:44763",
+        "node_offset": {
+          "x": 157,
+          "y": 102
+        },
+        "stable_path": [
+          "10535:44763"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "795190733",
+      "uuid": "8594f447-fce3-4bb5-ae2c-066e887e0b57",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-05-07T15:31:20.890Z",
+      "resolved_at": null,
+      "message": "@Ania Safko is being able to drag the AI panel to 75% accurate?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10496:60509",
+        "node_offset": {
+          "x": 352,
+          "y": 8
+        },
+        "stable_path": [
+          "10496:60509"
+        ]
+      },
+      "order_id": "12"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1302924836",
+      "uuid": "2e847e24-2449-4946-b8d1-0919d28d54a3",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2025-06-17T18:01:38.484Z",
+      "resolved_at": null,
+      "message": "@Yubin Jamora @Ed Lee wanted to flag that I added accessibility notes from @Anna Yeddi throughout the specs.",
+      "reactions": [
+        {
+          "emoji": ":fire:",
+          "created_at": "2025-07-01T17:05:40.434Z",
+          "user": {
+            "id": "1065698646736968458",
+            "handle": "Anna Yeddi",
+            "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "15920:25963",
+        "node_offset": {
+          "x": 309,
+          "y": 51
+        },
+        "stable_path": [
+          "15920:25963"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "1302725757",
+      "uuid": "0f6a173b-59da-4dc5-9a32-f8a4b8d5b569",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2025-06-17T15:52:49.771Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi is this what you meant for HCM? I wasn't able to find a \"Button face\" in figma. let me know :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15920:25959",
+        "node_offset": {
+          "x": 130,
+          "y": 15
+        },
+        "stable_path": [
+          "15920:25959"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "1291381807",
+      "uuid": "970cb9bf-509f-4057-a93b-b3c0231412e0",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-06-09T17:46:46.914Z",
+      "resolved_at": null,
+      "message": "@Eric Pang the same recommendation to the badge here as well as above:\n1. color contrast is low for the green with white text (should be 4.5:1 or more)\n2. the \"new\" should be included in the accessible name of this menu option.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15508:195416",
+        "node_offset": {
+          "x": 107,
+          "y": 12
+        },
+        "stable_path": [
+          "15508:195416"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1291149545",
+      "uuid": "37030834-fc22-4a6c-a830-9e8a3a0c914c",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-06-09T15:00:43.709Z",
+      "resolved_at": null,
+      "message": "For the accessibility, the treatment A would be more beneficial, because users with cognitive disabilities, especially users with dyslexia and neurodiverse users would likely not know what exactly the badge would mean. Those are the users that would benefit from the summarization feature the most, for them it may be an assistive technology. Thus, making this feature visible and clearly indicated would be highly beneficial. \n\nConsidering, that a badge on the App Menu usually means a general update is available, this would likely to be implied for the sidebar icon too. \n\nAnother case may be for active users of GenAI tools, when a large document and/or research request is submitted with the prompt, the LLM may take a while to process it. And some users may assume that, if they closed the sidebar while the LLM is still working, the process has been completed and the badge appears (instead of thinking that this badge means a new feature).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15508:163137",
+        "node_offset": {
+          "x": 1381,
+          "y": 7668
+        },
+        "stable_path": [
+          "15508:163137"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1291136550",
+      "uuid": "de2ec5bd-844c-4aca-9b7e-3f7b2324cf00",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-06-09T14:53:21.208Z",
+      "resolved_at": null,
+      "message": "Focus order-wise, I think, we need to ensure this button is added at the bottom of the sidebar panel, right before the web content. So it would not be focused with F6, for instance, but from the top of the webcontent, pressing \"Tab\"+\"Shift\" would focus it, or pressing \"Tab\" from the end of the GenAI provider's UI, i.e. \"Send\" chatGPT button on this example.\n\nbasically, making this button the last one in the sidebar's GenAI panel's landmark (not a separate landmark)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15508:176692",
+        "node_offset": {
+          "x": 299,
+          "y": 566
+        },
+        "stable_path": [
+          "15508:176692"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1291132799",
+      "uuid": "c5eedfb6-19c0-4747-a715-0cfbbcdcc27c",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-06-09T14:51:20.741Z",
+      "resolved_at": null,
+      "message": "@Eric Pang The green color with white text gives 2.6:1 in color contrast, while at least 4.5:1 is expected. \nIf we'd decided to use the same green color, using black for text would give 8.1:1 in color contrast which is Level AAA compliant. Or darker green like #008A00 or darker would do.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15508:176579",
+        "node_offset": {
+          "x": 148,
+          "y": 1022
+        },
+        "stable_path": [
+          "15508:176579"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1291124479",
+      "uuid": "26ab62f2-ff25-4c70-9fa1-4debcda1b85a",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-06-09T14:46:45.018Z",
+      "resolved_at": null,
+      "message": "Focus order: \n1. \"X\" (name: \"Close\" or \"Dismiss\" would work here)\n2. \"Close\"\n3. \"Summarize page\"\nReading order:\n1. Heading \"New Summarize...\"\n2. \"X\" button\n3. Text \"Use...\"\n4. \"Close\" button\n5. \"Summarize page\" button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15508:176227",
+        "node_offset": {
+          "x": 341,
+          "y": 94
+        },
+        "stable_path": [
+          "15508:176227"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1291123975",
+      "uuid": "6b90c508-23a9-42c4-808f-114629be6d10",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-06-09T14:46:28.613Z",
+      "resolved_at": null,
+      "message": "@Eric Pang the green badge with this light background has low color contrast (2.5:1 while 3:1 or more is expected), thus it may be missed by some users. CCing @Jules Simplicio in case this is a reusable component - could we update it to be a darker green dot?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15508:176227",
+        "node_offset": {
+          "x": 39,
+          "y": 89
+        },
+        "stable_path": [
+          "15508:176227"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "842426787",
+      "uuid": "41f0ddc8-695c-4d70-b19f-681e0965731f",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-06-17T16:29:28.153Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi Can you review these annotations for the provider dropdown? Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10516:69307",
+        "node_offset": {
+          "x": 501,
+          "y": 372
+        },
+        "stable_path": [
+          "10516:69307"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "842366036",
+      "uuid": "d159763a-f050-4f22-8e79-4bd5e68558f8",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-06-17T15:42:38.108Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi Just wanted to note that the dropdown for provider choice has also been added to the customize sidebar. It's styled as a dropdown here. Should I spec this out? Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10140:34087",
+        "node_offset": {
+          "x": 253,
+          "y": 278
+        },
+        "stable_path": [
+          "10140:34087"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "842332364",
+      "uuid": "864a6a0b-07a4-438a-b26a-6accaca9d24c",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-06-17T15:20:01.626Z",
+      "resolved_at": null,
+      "message": "@Eric Pang Hi Eric, it seems that I missed this chevron on the UI before. Is it going to be an actionable element? What would it do?\n\nIn general, if it would be clickable, we'd want to add a focus stop (before the \"X\" button, thus it would become the first focusable element on the GenAI sidebar) - wrap both the heading \"ChatGPT\" and the \"v\" chevron. The label could be the on-screen string (\"ChatGPT\"), role: button, state: collapsed/expanded (via \"aria-expaneded\" property, engineering pattern with examples)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10518:70139",
+        "node_offset": {
+          "x": 161,
+          "y": 55
+        },
+        "stable_path": [
+          "10518:70139"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "807351269",
+      "uuid": "8aa7fd68-f074-49aa-9c01-e73256d6d6ca",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-05-17T09:33:31.708Z",
+      "resolved_at": null,
+      "message": "Updated the HCM for the menu to follow the dropdown pattern",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10527:36875",
+        "node_offset": {
+          "x": 1047,
+          "y": 716
+        },
+        "stable_path": [
+          "10527:36875"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "799631114",
+      "uuid": "96469e37-646f-47b5-a36e-2bef22158f7c",
+      "file_key": "0i5n7QQOVNnfOVfmXeq4Hv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-05-10T17:48:36.441Z",
+      "resolved_at": null,
+      "message": "These overlay buttons are not expected to be keyboard focusable, but the functionality has to be fully available in the context menu (right click) for screen reader and keyboard-only users to access it in an alternative way.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10496:64051",
+        "node_offset": {
+          "x": 1045,
+          "y": 711
+        },
+        "stable_path": [
+          "10496:64051"
+        ]
+      },
+      "order_id": "20"
+    }
+  ]
+}

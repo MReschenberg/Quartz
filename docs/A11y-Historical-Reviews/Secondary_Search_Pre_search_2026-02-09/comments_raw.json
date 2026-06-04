@@ -1,0 +1,971 @@
+{
+  "unresolved": [
+    {
+      "id": "1697757555",
+      "uuid": "7b75ddb7-1530-44f4-9be0-ab7d09b01691",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Moyin Adeyemi",
+        "img_url": "https://www.gravatar.com/avatar/e7bd9e59647f97d585f7e199eba733f9?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1572170397293580815"
+      },
+      "created_at": "2026-03-31T09:52:44.420Z",
+      "resolved_at": null,
+      "message": "How do we do this? Isn't the cancelled status enough?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13066:40381",
+        "node_offset": {
+          "x": 490,
+          "y": 975
+        },
+        "stable_path": [
+          "13066:40381"
+        ],
+        "region_width": 377,
+        "region_height": 97,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1675992104",
+      "uuid": "0f3d6ffb-e758-4411-9c37-f6b039c92e1f",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Moyin Adeyemi",
+        "img_url": "https://www.gravatar.com/avatar/e7bd9e59647f97d585f7e199eba733f9?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1572170397293580815"
+      },
+      "created_at": "2026-03-16T15:25:39.264Z",
+      "resolved_at": null,
+      "message": "When the scores are null, we\u2019ll read out [TeamName][TeamName] which isn't ideal, so maybe we need this to be \"[TeamName] versus [TeamName]\" \n\n@Aarjav Pandya \n@Brent Trotter",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13335:13310",
+        "node_offset": {
+          "x": 506,
+          "y": 763
+        },
+        "stable_path": [
+          "13335:13310"
+        ],
+        "region_width": 463,
+        "region_height": 300,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1649372474",
+      "uuid": "0fa2d688-8c55-4eb9-9557-4d1bf4a47b35",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-25T21:49:25.714Z",
+      "resolved_at": null,
+      "message": "go with this pattern now; add neutral patten to backlog; update with settings redesign for android",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13572:18784",
+        "node_offset": {
+          "x": 938,
+          "y": 1046
+        },
+        "stable_path": [
+          "13572:18784"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1649305822",
+      "uuid": "4564ec9f-2284-46b1-ba97-65fb2adef099",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-25T20:57:33.207Z",
+      "resolved_at": null,
+      "message": "@Andres Furlan confirming that nested design is the correct interpretation of the behavior. (see desktop reference to the right)\n\nFor example, you need to have \"Suggestions from Firefox\" toggled ON to see sports, stocks, and flight status suggestions",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13572:18786",
+        "node_offset": {
+          "x": 206,
+          "y": 743
+        },
+        "stable_path": [
+          "13572:18786"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1644445245",
+      "uuid": "2fdeabf0-2fb7-469e-9c07-fe4ce5a30665",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-23T15:11:21.653Z",
+      "resolved_at": null,
+      "message": "Ask legal if the single \"learn more\" is okay here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13647:40889",
+        "node_offset": {
+          "x": 271,
+          "y": 890
+        },
+        "stable_path": [
+          "13647:40889"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "1633622846",
+      "uuid": "df8e4c21-582b-4554-84e1-24d46509e398",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Khan",
+        "img_url": "https://www.gravatar.com/avatar/fb46d31e3f3903e6e87046ea5c4fe226?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1044448833722871989"
+      },
+      "created_at": "2026-02-13T23:06:32.417Z",
+      "resolved_at": null,
+      "message": "I don't think we are receiving an image url",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12963:30288",
+        "node_offset": {
+          "x": 32,
+          "y": 122
+        },
+        "stable_path": [
+          "12963:30288"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1633615323",
+      "uuid": "1ca6fca7-db7d-418c-ad43-04576c2d7fac",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Khan",
+        "img_url": "https://www.gravatar.com/avatar/fb46d31e3f3903e6e87046ea5c4fe226?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1044448833722871989"
+      },
+      "created_at": "2026-02-13T22:51:03.452Z",
+      "resolved_at": null,
+      "message": "\"Departed\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12963:30288",
+        "node_offset": {
+          "x": 64,
+          "y": 192
+        },
+        "stable_path": [
+          "12963:30288"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1633615266",
+      "uuid": "a93b2e50-e5f2-4a27-a297-ce7f99c6e6c7",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Khan",
+        "img_url": "https://www.gravatar.com/avatar/fb46d31e3f3903e6e87046ea5c4fe226?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1044448833722871989"
+      },
+      "created_at": "2026-02-13T22:50:56.824Z",
+      "resolved_at": null,
+      "message": "\"Departed\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12965:54277",
+        "node_offset": {
+          "x": 14,
+          "y": 188
+        },
+        "stable_path": [
+          "12965:54277"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1633608157",
+      "uuid": "43f4de46-aaea-4f92-8cb5-90721ab74c86",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Khan",
+        "img_url": "https://www.gravatar.com/avatar/fb46d31e3f3903e6e87046ea5c4fe226?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1044448833722871989"
+      },
+      "created_at": "2026-02-13T22:38:01.175Z",
+      "resolved_at": null,
+      "message": "There might be a possibility of an \"Early\" flight?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12961:60043",
+        "node_offset": {
+          "x": 372,
+          "y": 129
+        },
+        "stable_path": [
+          "12961:60043"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1633589758",
+      "uuid": "34518e45-f5a5-41a8-ba40-4baebd614300",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Khan",
+        "img_url": "https://www.gravatar.com/avatar/fb46d31e3f3903e6e87046ea5c4fe226?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1044448833722871989"
+      },
+      "created_at": "2026-02-13T22:09:00.004Z",
+      "resolved_at": null,
+      "message": "Plane symbol in red or something different?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13015:35802",
+        "node_offset": {
+          "x": 168,
+          "y": 169
+        },
+        "stable_path": [
+          "13015:35802"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1633577898",
+      "uuid": "981b1b9e-8754-4e5c-8325-91d330f57d1f",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Khan",
+        "img_url": "https://www.gravatar.com/avatar/fb46d31e3f3903e6e87046ea5c4fe226?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1044448833722871989"
+      },
+      "created_at": "2026-02-13T21:52:42.659Z",
+      "resolved_at": null,
+      "message": "What if we have a long name? Maybe an ex: Scandinavian Airlines",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12961:60043",
+        "node_offset": {
+          "x": 107,
+          "y": 124
+        },
+        "stable_path": [
+          "12961:60043"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1633573406",
+      "uuid": "3c6c6ab9-df1b-476a-a6a6-cfeeddaab08b",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Khan",
+        "img_url": "https://www.gravatar.com/avatar/fb46d31e3f3903e6e87046ea5c4fe226?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1044448833722871989"
+      },
+      "created_at": "2026-02-13T21:46:51.003Z",
+      "resolved_at": null,
+      "message": "It's no more estimated? We can have \"Departed\" and \"Arrived\"? Wdyt?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12965:54949",
+        "node_offset": {
+          "x": 83,
+          "y": 200
+        },
+        "stable_path": [
+          "12965:54949"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1633565609",
+      "uuid": "825d8e1f-6ef2-4641-b963-36fa00fa22f3",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Khan",
+        "img_url": "https://www.gravatar.com/avatar/fb46d31e3f3903e6e87046ea5c4fe226?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1044448833722871989"
+      },
+      "created_at": "2026-02-13T21:36:54.119Z",
+      "resolved_at": null,
+      "message": "In contrast to \"Delayed\", this means the flight left on time but is still delayed?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13015:31755",
+        "node_offset": {
+          "x": 207,
+          "y": 11
+        },
+        "stable_path": [
+          "13015:31755"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1631890305",
+      "uuid": "24b11463-9e65-4139-9d58-c1d9cc31afd4",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-12T22:53:29.929Z",
+      "resolved_at": null,
+      "message": "great work with this @Aarjav Pandya :D \nI believe dynamic text is a work in progress with design systems as well but I have a note for myself to reach out to that team and check in. I just wanted to place a comment here as a reminder to keep this in mind as well. thank you!",
+      "reactions": [
+        {
+          "emoji": ":pray:",
+          "created_at": "2026-02-13T14:59:55.815Z",
+          "user": {
+            "id": "1130907002513196392",
+            "handle": "Aarjav Pandya",
+            "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "12961:48396",
+        "node_offset": {
+          "x": 840,
+          "y": 525
+        },
+        "stable_path": [
+          "12961:48396"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1631765503",
+      "uuid": "4fb56889-acaa-4aa3-938e-227a8028596b",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2026-02-12T20:58:15.151Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter Please review these when you get a chance.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13335:13311",
+        "node_offset": {
+          "x": 108,
+          "y": 4
+        },
+        "stable_path": [
+          "13335:13311"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1631765368",
+      "uuid": "bcfc2bd0-9e77-4ca9-b546-380d8d991c74",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2026-02-12T20:58:09.189Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter Please review these when you get a chance.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13335:13262",
+        "node_offset": {
+          "x": 73,
+          "y": 14
+        },
+        "stable_path": [
+          "13335:13262"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1631765022",
+      "uuid": "175a600d-b594-409b-910a-1b9079299edd",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2026-02-12T20:57:53.143Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter please review these notes when you get a chance.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13066:40382",
+        "node_offset": {
+          "x": 90,
+          "y": 5
+        },
+        "stable_path": [
+          "13066:40382"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1631751360",
+      "uuid": "f0eaa4ce-57a3-42d0-be1b-3ee7e61627c7",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2026-02-12T20:47:05.883Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter If the flight is late/delayed, would it be okay to mention 'New Arrival' instead of 'Est. Arrival' because that has changed. It will help communicate this more effectively for screen readers as well from A11y perspective. \n\nSame for 'Delayed at Departure'. Something along the lines of 'New Departure'?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12965:54277",
+        "node_offset": {
+          "x": 389,
+          "y": 181
+        },
+        "stable_path": [
+          "12965:54277"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1631697186",
+      "uuid": "8f2f0aec-50cb-422f-aceb-e756942207df",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-12T20:05:24.217Z",
+      "resolved_at": null,
+      "message": "hi @Aarjav Pandya ! I noticed these while going through the user flows. I think these would be good scenarios where a progress indicator (https://m3.material.io/components/progress-indicators/accessibility) is used where the bar with the red airplane is. Or if we want to go a different route, we could include the progress somewhere else as just static text. what do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13015:35464",
+        "node_offset": {
+          "x": 224,
+          "y": 169
+        },
+        "stable_path": [
+          "13015:35464"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1614741727",
+      "uuid": "5b7110b3-a0d1-4c13-8a55-199719624c3d",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-02T20:14:51.464Z",
+      "resolved_at": null,
+      "message": "i believe we used green for on time and in flight for desktop.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12780:43767",
+        "node_offset": {
+          "x": 379,
+          "y": 130
+        },
+        "stable_path": [
+          "12780:43767"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1614741014",
+      "uuid": "46275560-e796-4498-9e8f-9c6ec08680fd",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-02T20:14:17.859Z",
+      "resolved_at": null,
+      "message": "Same feedback as the other comment to the right",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12780:44442",
+        "node_offset": {
+          "x": 51,
+          "y": 231
+        },
+        "stable_path": [
+          "12780:44442"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1614740723",
+      "uuid": "c8283de2-bfee-4862-8e61-98e6a2efef8f",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-02T20:14:04.240Z",
+      "resolved_at": null,
+      "message": "Could probably just use the color and remove the duplicate use of \"canceled\" ...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12780:44777",
+        "node_offset": {
+          "x": 64,
+          "y": 230
+        },
+        "stable_path": [
+          "12780:44777"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1614738944",
+      "uuid": "bd630014-4f9a-4114-bf63-c85fe0d2adaf",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-02T20:12:43.978Z",
+      "resolved_at": null,
+      "message": "updated to \"In flight\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12780:44102",
+        "node_offset": {
+          "x": 380,
+          "y": 130
+        },
+        "stable_path": [
+          "12780:44102"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1614736212",
+      "uuid": "7127d91f-87ae-4bd1-a46a-6bf061d46edf",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-02T20:10:39.297Z",
+      "resolved_at": null,
+      "message": "iconography is different from desktop...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12780:38313",
+        "node_offset": {
+          "x": 41,
+          "y": 142
+        },
+        "stable_path": [
+          "12780:38313"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1614732123",
+      "uuid": "71ff056b-3d77-49bb-b9b6-1a76380a78b4",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-02T20:07:26.922Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya assuming the date formatting deliberately in UK and US style to show how it would adapt with location?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12780:40169",
+        "node_offset": {
+          "x": 218,
+          "y": 124
+        },
+        "stable_path": [
+          "12780:40169"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1605101876",
+      "uuid": "0adcc535-1a7e-43f6-a3e6-73147b4076af",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Moyin Adeyemi",
+        "img_url": "https://www.gravatar.com/avatar/e7bd9e59647f97d585f7e199eba733f9?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1572170397293580815"
+      },
+      "created_at": "2026-01-27T09:45:06.176Z",
+      "resolved_at": null,
+      "message": "I'm curious about why we have the color code in the response. Were we supposed to do something with them?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12734:100481",
+        "node_offset": {
+          "x": 221,
+          "y": 366
+        },
+        "stable_path": [
+          "12734:100481"
+        ],
+        "region_width": 182,
+        "region_height": 154,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1605100344",
+      "uuid": "6b984adb-0da3-4e48-957d-402b893ac0fa",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Moyin Adeyemi",
+        "img_url": "https://www.gravatar.com/avatar/e7bd9e59647f97d585f7e199eba733f9?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1572170397293580815"
+      },
+      "created_at": "2026-01-27T09:44:29.868Z",
+      "resolved_at": null,
+      "message": "There seems to be a lot of space between the icons and the data. The keys are centered so it's more obvious for those",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12780:42003",
+        "node_offset": {
+          "x": 403,
+          "y": 166
+        },
+        "stable_path": [
+          "12780:42003"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1605099417",
+      "uuid": "464a1edf-e3e7-4363-8378-aceb1c07124a",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Moyin Adeyemi",
+        "img_url": "https://www.gravatar.com/avatar/e7bd9e59647f97d585f7e199eba733f9?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1572170397293580815"
+      },
+      "created_at": "2026-01-27T09:44:06.115Z",
+      "resolved_at": null,
+      "message": "I couldn't tell that the changes are %. Before looking at the data, I thought they were literal figures\n\nAlso, for 0% stock changes, can we display \"No change\" or something related instead? Although I see how that can get complicated with long translated strings so please feel free to disregard. If not, maybe a 0 without the + or decimal figures can work too",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12780:39117",
+        "node_offset": {
+          "x": 383,
+          "y": 154
+        },
+        "stable_path": [
+          "12780:39117"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1605097291",
+      "uuid": "1bac886a-ec09-40bd-8e4d-12fedc5e7dc8",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Moyin Adeyemi",
+        "img_url": "https://www.gravatar.com/avatar/e7bd9e59647f97d585f7e199eba733f9?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1572170397293580815"
+      },
+      "created_at": "2026-01-27T09:43:12.236Z",
+      "resolved_at": null,
+      "message": "Do we need a flight status of \"Arrived\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12780:44777",
+        "node_offset": {
+          "x": 409,
+          "y": 285
+        },
+        "stable_path": [
+          "12780:44777"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1604031492",
+      "uuid": "7e7370c5-8bfc-4e57-bed1-83180d4fe30c",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Khan",
+        "img_url": "https://www.gravatar.com/avatar/fb46d31e3f3903e6e87046ea5c4fe226?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1044448833722871989"
+      },
+      "created_at": "2026-01-26T18:23:48.826Z",
+      "resolved_at": null,
+      "message": "We'd be getting an image too example apple's here. Do we want to incorporate that?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12780:39117",
+        "node_offset": {
+          "x": 47,
+          "y": 121
+        },
+        "stable_path": [
+          "12780:39117"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1604028894",
+      "uuid": "56d1f07e-c39f-4c3f-9e9f-29555908e588",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Khan",
+        "img_url": "https://www.gravatar.com/avatar/fb46d31e3f3903e6e87046ea5c4fe226?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1044448833722871989"
+      },
+      "created_at": "2026-01-26T18:22:00.260Z",
+      "resolved_at": null,
+      "message": "Can Add the currency symbol here depending on what we get in different countries",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12780:38313",
+        "node_offset": {
+          "x": 391,
+          "y": 120
+        },
+        "stable_path": [
+          "12780:38313"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1545515871",
+      "uuid": "e46373b1-8f12-4d39-b8ba-65321356f18a",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Andres Furlan",
+        "img_url": "https://www.gravatar.com/avatar/9099d2b2209543f33542d5ed1ea1405b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1298294506515844534"
+      },
+      "created_at": "2025-12-05T16:23:45.751Z",
+      "resolved_at": null,
+      "message": "Should we bring the thumbnail of the search? If there is one available. Check Chrome.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12339:34078",
+        "node_offset": {
+          "x": 29,
+          "y": 387
+        },
+        "stable_path": [
+          "12339:34078"
+        ]
+      },
+      "order_id": "3"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1633565609",
+      "uuid": "825d8e1f-6ef2-4641-b963-36fa00fa22f3",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Khan",
+        "img_url": "https://www.gravatar.com/avatar/fb46d31e3f3903e6e87046ea5c4fe226?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1044448833722871989"
+      },
+      "created_at": "2026-02-13T21:36:54.119Z",
+      "resolved_at": null,
+      "message": "In contrast to \"Delayed\", this means the flight left on time but is still delayed?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13015:31755",
+        "node_offset": {
+          "x": 207,
+          "y": 11
+        },
+        "stable_path": [
+          "13015:31755"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1631890305",
+      "uuid": "24b11463-9e65-4139-9d58-c1d9cc31afd4",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-12T22:53:29.929Z",
+      "resolved_at": null,
+      "message": "great work with this @Aarjav Pandya :D \nI believe dynamic text is a work in progress with design systems as well but I have a note for myself to reach out to that team and check in. I just wanted to place a comment here as a reminder to keep this in mind as well. thank you!",
+      "reactions": [
+        {
+          "emoji": ":pray:",
+          "created_at": "2026-02-13T14:59:55.815Z",
+          "user": {
+            "id": "1130907002513196392",
+            "handle": "Aarjav Pandya",
+            "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "12961:48396",
+        "node_offset": {
+          "x": 840,
+          "y": 525
+        },
+        "stable_path": [
+          "12961:48396"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1631751360",
+      "uuid": "f0eaa4ce-57a3-42d0-be1b-3ee7e61627c7",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2026-02-12T20:47:05.883Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter If the flight is late/delayed, would it be okay to mention 'New Arrival' instead of 'Est. Arrival' because that has changed. It will help communicate this more effectively for screen readers as well from A11y perspective. \n\nSame for 'Delayed at Departure'. Something along the lines of 'New Departure'?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12965:54277",
+        "node_offset": {
+          "x": 389,
+          "y": 181
+        },
+        "stable_path": [
+          "12965:54277"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1631697186",
+      "uuid": "8f2f0aec-50cb-422f-aceb-e756942207df",
+      "file_key": "wDS6JZqdwwYX7ilc5FAZPf",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-12T20:05:24.217Z",
+      "resolved_at": null,
+      "message": "hi @Aarjav Pandya ! I noticed these while going through the user flows. I think these would be good scenarios where a progress indicator (https://m3.material.io/components/progress-indicators/accessibility) is used where the bar with the red airplane is. Or if we want to go a different route, we could include the progress somewhere else as just static text. what do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13015:35464",
+        "node_offset": {
+          "x": 224,
+          "y": 169
+        },
+        "stable_path": [
+          "13015:35464"
+        ]
+      },
+      "order_id": "25"
+    }
+  ]
+}

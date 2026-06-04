@@ -1,0 +1,202 @@
+{
+  "unresolved": [
+    {
+      "id": "1358689723",
+      "uuid": "f73a219b-463e-4f32-b948-3890f9c2d256",
+      "file_key": "GBvzXzAW49KpuV7Gb2Blsi",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-07-28T21:05:44.187Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel sorry for the comment spam :sweat_smile: for the checked/unchecked states, another suggestion would be to have the states say something like 'added + [SHORTCUT]' (checked) or 'add + [SHORTCUT]' (unchecked)",
+      "reactions": [
+        {
+          "emoji": ":white_check_mark:",
+          "created_at": "2025-07-30T15:27:59.471Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "51:43192",
+        "node_offset": {
+          "x": 334,
+          "y": 650
+        },
+        "stable_path": [
+          "51:43192"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1358681932",
+      "uuid": "7aba3292-51e3-4deb-a3a5-1affb0baf130",
+      "file_key": "GBvzXzAW49KpuV7Gb2Blsi",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-07-28T20:58:13.709Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel thank you for the change on this too! Let's use Table Row Buttons/List Items (https://www.magentaa11y.com/#/native-criteria/controls/table-row-button?tab=2) and think this will be the best option. In notes, you can edit to include the reference link. We can also keep the link that's currently there for the checkbox and advise that the checked and unchecked states should be programmatically associated. :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "37:47527",
+        "node_offset": {
+          "x": 265,
+          "y": 664
+        },
+        "stable_path": [
+          "37:47527"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1358675160",
+      "uuid": "2da56cd6-2d88-45e0-aaf8-0c536df90f5b",
+      "file_key": "GBvzXzAW49KpuV7Gb2Blsi",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-07-28T20:52:09.351Z",
+      "resolved_at": null,
+      "message": "hey @Megan Daniel ! thank you for the change on this. I did also find Table Row Buttons/List Items (https://www.magentaa11y.com/#/native-criteria/controls/table-row-button?tab=3) and think this will be the best option. In notes, you can edit to include the reference link. We can also keep the link that's currently there for the checkbox and advise that the checked and unchecked states should be programmatically associated. Let me know if you have any questions! thank you :tada:",
+      "reactions": [
+        {
+          "emoji": ":white_check_mark:",
+          "created_at": "2025-07-30T15:28:05.258Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "51:43192",
+        "node_offset": {
+          "x": 159,
+          "y": 649
+        },
+        "stable_path": [
+          "51:43192"
+        ]
+      },
+      "order_id": "21"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1358689723",
+      "uuid": "f73a219b-463e-4f32-b948-3890f9c2d256",
+      "file_key": "GBvzXzAW49KpuV7Gb2Blsi",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-07-28T21:05:44.187Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel sorry for the comment spam :sweat_smile: for the checked/unchecked states, another suggestion would be to have the states say something like 'added + [SHORTCUT]' (checked) or 'add + [SHORTCUT]' (unchecked)",
+      "reactions": [
+        {
+          "emoji": ":white_check_mark:",
+          "created_at": "2025-07-30T15:27:59.471Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "51:43192",
+        "node_offset": {
+          "x": 334,
+          "y": 650
+        },
+        "stable_path": [
+          "51:43192"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1358681932",
+      "uuid": "7aba3292-51e3-4deb-a3a5-1affb0baf130",
+      "file_key": "GBvzXzAW49KpuV7Gb2Blsi",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-07-28T20:58:13.709Z",
+      "resolved_at": null,
+      "message": "@Megan Daniel thank you for the change on this too! Let's use Table Row Buttons/List Items (https://www.magentaa11y.com/#/native-criteria/controls/table-row-button?tab=2) and think this will be the best option. In notes, you can edit to include the reference link. We can also keep the link that's currently there for the checkbox and advise that the checked and unchecked states should be programmatically associated. :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "37:47527",
+        "node_offset": {
+          "x": 265,
+          "y": 664
+        },
+        "stable_path": [
+          "37:47527"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1358675160",
+      "uuid": "2da56cd6-2d88-45e0-aaf8-0c536df90f5b",
+      "file_key": "GBvzXzAW49KpuV7Gb2Blsi",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-07-28T20:52:09.351Z",
+      "resolved_at": null,
+      "message": "hey @Megan Daniel ! thank you for the change on this. I did also find Table Row Buttons/List Items (https://www.magentaa11y.com/#/native-criteria/controls/table-row-button?tab=3) and think this will be the best option. In notes, you can edit to include the reference link. We can also keep the link that's currently there for the checkbox and advise that the checked and unchecked states should be programmatically associated. Let me know if you have any questions! thank you :tada:",
+      "reactions": [
+        {
+          "emoji": ":white_check_mark:",
+          "created_at": "2025-07-30T15:28:05.258Z",
+          "user": {
+            "id": "1440376909670790136",
+            "handle": "Megan Daniel",
+            "img_url": "https://www.gravatar.com/avatar/8c1e4e31b8b5d49fa77c2e0e3d888e32?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "51:43192",
+        "node_offset": {
+          "x": 159,
+          "y": 649
+        },
+        "stable_path": [
+          "51:43192"
+        ]
+      },
+      "order_id": "21"
+    }
+  ]
+}

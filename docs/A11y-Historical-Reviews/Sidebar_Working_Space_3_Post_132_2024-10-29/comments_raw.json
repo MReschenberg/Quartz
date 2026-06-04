@@ -1,0 +1,842 @@
+{
+  "unresolved": [
+    {
+      "id": "1228919797",
+      "uuid": "78300c43-bd90-4f8a-8e41-18b518f479de",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2025-04-23T15:32:31.573Z",
+      "resolved_at": null,
+      "message": "@Katie Lower @Yulia Popova I'd consider having Move to Sidebar third or fourth option, as Move to start/end is a pretty common option to prioritize/de-prioritize a tab.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4302:32880",
+        "node_offset": {
+          "x": 190,
+          "y": 88
+        },
+        "stable_path": [
+          "4302:32880"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1228820865",
+      "uuid": "ed84e732-65ef-4023-907c-8e5037c59ca1",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2025-04-23T14:46:02.719Z",
+      "resolved_at": null,
+      "message": "My # 1 preference:sweat_smile:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4302:32645",
+        "node_offset": {
+          "x": 3657,
+          "y": 765
+        },
+        "stable_path": [
+          "4302:32645"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1219862547",
+      "uuid": "77df028a-5f7c-4b2a-9b21-839e52330470",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2025-04-16T13:12:53.933Z",
+      "resolved_at": null,
+      "message": "@Katie Lower \nI'm wondering if pinned tabs would still benefit from a slightly different context menu.\nLet\u2019s say I managed to pin something to the sidebar, but now I want to move it to the tab strip. I'm not using a mouse and can't just drag and drop.\nShould we include an option that allows users to move pinned tabs between the sidebar and the tab strip? Or would they need ti unpin it and pin it again.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4286:26462",
+        "node_offset": {
+          "x": 188,
+          "y": 71
+        },
+        "stable_path": [
+          "4286:26462"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1217737887",
+      "uuid": "0580ebdb-2a74-4557-aa61-d6cafb7afe5c",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2025-04-15T12:28:35.894Z",
+      "resolved_at": null,
+      "message": "@Katie Lower so would we keep same items in the menu for pinned tab in the sidebar? \nI guess we should remove \"New tab below\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4227:25336",
+        "node_offset": {
+          "x": 91,
+          "y": 45
+        },
+        "stable_path": [
+          "4227:25336"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1217735626",
+      "uuid": "f9767aae-ee73-4748-83a3-196471b00935",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2025-04-15T12:27:31.322Z",
+      "resolved_at": null,
+      "message": "@Katie Lower I think it is getting a little bit lost in the middle of the list",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4227:25359",
+        "node_offset": {
+          "x": 99,
+          "y": 265
+        },
+        "stable_path": [
+          "4227:25359"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1216593620",
+      "uuid": "a887d407-8c9e-42fa-8aca-d15a22d3f2e6",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-04-14T20:40:20.794Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova - Some early explorations for callouts to draw attention to opening pinned tabs in a side panel...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4181:78471",
+        "node_offset": {
+          "x": 3410,
+          "y": 1746
+        },
+        "stable_path": [
+          "4181:78471"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1216592981",
+      "uuid": "be668c0d-4208-498a-b522-077008fa92f4",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-04-14T20:39:48.894Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova - Exploring another idea down here. I was thinking that with the 'nested menus' approach, not sure if users will be able (or want) to decide at the moment of pinning a tab whether they would want it in full view or a side / split view. \n\nSo, exploring what adding a conditional context menu might look like. So, If you pin a tab then you have another option in your right click menu to \"Open in Side Panel\" as an example. \n\nIf you Open in Side Panel, then the option changes to Open as Full Page. I assume there would also be an affordance in teh panel itself that allows the user to switch to a full page view.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4181:78471",
+        "node_offset": {
+          "x": 2670,
+          "y": 1714
+        },
+        "stable_path": [
+          "4181:78471"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1216519055",
+      "uuid": "cc0cf848-08e0-4c82-ba16-c40e416ab7bf",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-04-14T19:39:09.639Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova - Think we should steer clear from this option, as to avoid adding yet another option. Also, for actions that are similar but that do different things, we take the chevron approach. See Move Tabs as an example.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-04-15T08:22:29.880Z",
+          "user": {
+            "id": "1042453533635562984",
+            "handle": "Yulia Popova",
+            "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "4191:84987",
+        "node_offset": {
+          "x": 108,
+          "y": 11
+        },
+        "stable_path": [
+          "4191:84987"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1143707432",
+      "uuid": "0bdaa8fa-b337-4cb0-aa65-cedc8540cc31",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2025-02-21T15:29:08.836Z",
+      "resolved_at": null,
+      "message": "I also like option B. It is very clear and straightforward. However, I\u2019m wondering if it would make more sense to say \u201cyou will be able to\u201d instead of \u201c\u2026will expand the sidebar.\u201d The first one sounds more like a possibility or something that users could choose.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3939:83047",
+        "node_offset": {
+          "x": 20,
+          "y": 566
+        },
+        "stable_path": [
+          "3939:83047"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1119737360",
+      "uuid": "6f05ceee-e37c-403b-a8d8-c8d1f01ea4d5",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2025-02-05T11:28:23.908Z",
+      "resolved_at": null,
+      "message": "@Katie Lower I was looking at how the updated right-click menu will look for the new sidebar. As I understand it, we are:\n* Adding \"Open in New Tab\"\n* Adding \"Open in New Container Tab\"\n* Renaming \"Delete from History\"\n* Adding and renaming \"Forget About This Site...\"\n* Adding \"Bookmark\"\n\nA few questions I have:\n* Will we keep \"Copy\" or \"Copy Link\"?\n* Will we keep \"Bookmark\" instead of \"Bookmark Page...\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3186:63514",
+        "node_offset": {
+          "x": 1173,
+          "y": 3182
+        },
+        "stable_path": [
+          "3186:63514"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1105205574",
+      "uuid": "5126ddd4-34bb-43eb-a9d4-694610059fd0",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2025-01-24T11:54:40.383Z",
+      "resolved_at": null,
+      "message": "I think this approach\u2014adding a separate section\u2014is the best solution, as it avoids adding more items to the Tabs section while also making these new checkboxes more discoverable. However, I\u2019m wondering if we need to disable the vertical tabs. To me, it seems like this function appears unavailable when disabled. Perhaps, instead of disabling it, we could adopt the same approach as in Firefox Labs\u2014automatically enabling the sidebar when users enable vertical tabs?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3676:238704",
+        "node_offset": {
+          "x": 810,
+          "y": 254
+        },
+        "stable_path": [
+          "3676:238704"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1105198118",
+      "uuid": "70adbe3b-e855-40f2-a761-a8ceb29e5932",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2025-01-24T11:49:25.242Z",
+      "resolved_at": null,
+      "message": "Since we need a sidebar for vertical tabs, I think we should keep these two checkboxes next to each other.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3676:239703",
+        "node_offset": {
+          "x": 484,
+          "y": 207
+        },
+        "stable_path": [
+          "3676:239703"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1103968339",
+      "uuid": "cd999d77-889b-489f-bfb2-311c59185781",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-01-23T16:35:31.927Z",
+      "resolved_at": null,
+      "message": "Hi Anna. Yulia and I are working on changes to the Customize sidebar panel and one of the changes we'd like to make is to add a tooltip to one of the checkbox options. The checkbox is not checked by default and is - of course - optional to check. The information we want to include in the tooltip is not essential, we think, to the user in understanding the option (based on user testing, users understand the string) but is more of an addendum for users who are interested in the option, explaining how they can show tabs. \n\nWe also explored doing a callout for users who choose this option, to share the same information. But, have received feedback from engineering that the callout would be more work - so, something we might not have capacity to do. \n\nDo you have any concerns here from an accessibility perspective with using a tooltip?  \n@Anna Yeddi cc: @Yulia Popova",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3647:238665",
+        "node_offset": {
+          "x": 261,
+          "y": 116
+        },
+        "stable_path": [
+          "3647:238665"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1102257207",
+      "uuid": "5843e032-cc2d-4d5c-9391-22b48ba6803a",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2025-01-22T18:39:53.164Z",
+      "resolved_at": null,
+      "message": "@Katie Lower @Yulia Popova I wonder if you feel it might be worthwhile to wrap this into an \"enable productivity tools\" setting or something along these lines? \n\nOnly 2% of users use the \"old sidebar\", so I think referring to the new sidebar will be perplexing for the majority of existing Firefox users, and for all new users.",
+      "reactions": [
+        {
+          "emoji": ":eyes:",
+          "created_at": "2025-01-23T21:20:39.644Z",
+          "user": {
+            "id": "1169379060174051036",
+            "handle": "Katie Lower",
+            "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3623:242797",
+        "node_offset": {
+          "x": 580,
+          "y": 257
+        },
+        "stable_path": [
+          "3623:242797"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1102254250",
+      "uuid": "0bbeb87b-8a2a-4cc1-adb6-492e40df47d3",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2025-01-22T18:37:38.893Z",
+      "resolved_at": null,
+      "message": "@Katie Lower @Yulia Popova Noting that this checkbox will enable four default tools - history, synced tabs, bookmarks, and chatbot by default. It would be worthwhile to mention the chatbot because of this, and because in 136+ it would be its only discoverability entry point from settings (as we're removing it from Labs).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3623:242797",
+        "node_offset": {
+          "x": 698,
+          "y": 292
+        },
+        "stable_path": [
+          "3623:242797"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1086440411",
+      "uuid": "364146fd-780c-4360-82b7-c07431edf751",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2025-01-09T20:46:22.948Z",
+      "resolved_at": null,
+      "message": "I'm unsure if hiding the sidebar makes sense under tab settings. Should it be higher level setting that disables all sidebar options -- including vertical tabs?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3328:148166",
+        "node_offset": {
+          "x": 216,
+          "y": 158
+        },
+        "stable_path": [
+          "3328:148166"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1086436112",
+      "uuid": "4def75cc-ecfb-453e-af18-ae5b8dab5477",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2025-01-09T20:42:08.115Z",
+      "resolved_at": null,
+      "message": "I'm unclear of this setting. Does this mean the sidebar is always in the expanded state?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3328:148166",
+        "node_offset": {
+          "x": 210,
+          "y": 120
+        },
+        "stable_path": [
+          "3328:148166"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1086435142",
+      "uuid": "3a6a61d1-d305-4129-a9e2-e9cf996079b5",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2025-01-09T20:41:08.728Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova If this is decided as the default choice, we should move it to the first in the list",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3328:148166",
+        "node_offset": {
+          "x": 226,
+          "y": 82
+        },
+        "stable_path": [
+          "3328:148166"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1086434810",
+      "uuid": "5c52d233-ad93-4995-a823-b374035c6697",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2025-01-09T20:40:46.782Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova what are you thoughts on having the radio buttons in the same box and indented under the heading of \"Vertical tabs\" but in a disabled state when unchecked? I feel having them indented makes it more clear that these are controls that are part of vertical tabs specifically.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-01-10T10:14:31.085Z",
+          "user": {
+            "id": "1042453533635562984",
+            "handle": "Yulia Popova",
+            "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "3328:147115",
+        "node_offset": {
+          "x": 268,
+          "y": 53
+        },
+        "stable_path": [
+          "3328:147115"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1086414776",
+      "uuid": "49b06326-4f71-4ab6-809b-5cf6d912f22a",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2025-01-09T20:21:22.160Z",
+      "resolved_at": null,
+      "message": "@Katie Lower @Eric Pang @Yulia Popova Unfortunately, it looks like this option (allowing for both on hover and show/hide options to be combined) is not viable in the short-term. See Kelly's note here - https://mozilla.slack.com/archives/C07H21R792A/p1736449612983299",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3311:154039",
+        "node_offset": {
+          "x": 3959,
+          "y": 695
+        },
+        "stable_path": [
+          "3311:154039"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1081965266",
+      "uuid": "050bbfb9-a2cc-479d-a984-17db1f2d3b24",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2025-01-06T22:58:03.296Z",
+      "resolved_at": null,
+      "message": "@Eric Pang for me long press + up/down arrows scroll the list, but do not move me between the individual history items within a date.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3162:23125",
+        "node_offset": {
+          "x": 7256,
+          "y": 1305
+        },
+        "stable_path": [
+          "3162:23125"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1081955315",
+      "uuid": "497cdce6-0239-433b-9349-a7db7bf0d989",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2025-01-06T22:41:10.654Z",
+      "resolved_at": null,
+      "message": "@Katie Lower @Eric Pang please see the note on sorting/bucketing By Date and By Last visited here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3160:22268",
+        "node_offset": {
+          "x": 1956,
+          "y": 1768
+        },
+        "stable_path": [
+          "3160:22268"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1081954537",
+      "uuid": "38f12850-ded4-4176-aeb4-1b9dfddfdb7f",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2025-01-06T22:39:53.391Z",
+      "resolved_at": null,
+      "message": "@Katie Lower I added a few notes on the left about the difference between By Date and Last Visited. Essentially, the value folks note for Last Visied is being able to not see history as a list that's not bucketed by date.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3174:39",
+        "node_offset": {
+          "x": 2965,
+          "y": 1063
+        },
+        "stable_path": [
+          "3174:39"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1068299035",
+      "uuid": "88887b61-1e2a-48fb-aa9b-6328eb5e9e9d",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-12-17T23:50:40.779Z",
+      "resolved_at": null,
+      "message": "@Katie Lower I believe in this model, we'll have to change the tooltip for the button, as it will no longer Expand/collapse the sidebar, but instead \"pin it\" or \"click to keep expanded\".",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2972:157806",
+        "node_offset": {
+          "x": 123,
+          "y": 14
+        },
+        "stable_path": [
+          "2972:157806"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1054020964",
+      "uuid": "537485ed-ecf5-4353-9c7d-33946d4ff057",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-12-06T00:35:41.610Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova @Katie Lower this feels, possibly, like a subsetting of vertical tabs checkbox.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2970:7984",
+        "node_offset": {
+          "x": 258,
+          "y": 105
+        },
+        "stable_path": [
+          "2970:7984"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "990213332",
+      "uuid": "06a7905c-d24b-42ed-bcdb-9e172d74994b",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Romain Testard",
+        "img_url": "https://www.gravatar.com/avatar/35c1f4c621a0d22ad40c441c592c7b52?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "900058732700415037"
+      },
+      "created_at": "2024-10-17T12:08:34.111Z",
+      "resolved_at": null,
+      "message": "Do we know how many pixels are available for a placement here? it feels a little widse for lower screen resolution or low dpi users?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2123:11219",
+        "node_offset": {
+          "x": 260,
+          "y": 17
+        },
+        "stable_path": [
+          "2123:11219"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "990205387",
+      "uuid": "aedf708c-3740-4694-98fd-90a1aa0ab27f",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Romain Testard",
+        "img_url": "https://www.gravatar.com/avatar/35c1f4c621a0d22ad40c441c592c7b52?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "900058732700415037"
+      },
+      "created_at": "2024-10-17T12:03:34.109Z",
+      "resolved_at": null,
+      "message": "Could we add a view vith no tabs? Most PBM users see it this way, with bookmarks toolbar loaded on new tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2123:16892",
+        "node_offset": {
+          "x": 33,
+          "y": 74
+        },
+        "stable_path": [
+          "2123:16892"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "990198450",
+      "uuid": "00a913e0-a377-4667-8fed-dadc03131187",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Romain Testard",
+        "img_url": "https://www.gravatar.com/avatar/35c1f4c621a0d22ad40c441c592c7b52?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "900058732700415037"
+      },
+      "created_at": "2024-10-17T11:59:12.950Z",
+      "resolved_at": null,
+      "message": "My concern here is taht it looks like a toolbar element whereas it is not?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2123:16892",
+        "node_offset": {
+          "x": 1295,
+          "y": 18
+        },
+        "stable_path": [
+          "2123:16892"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "990196837",
+      "uuid": "450ea978-c66c-45a1-bea2-7ca0a7ecac7a",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Romain Testard",
+        "img_url": "https://www.gravatar.com/avatar/35c1f4c621a0d22ad40c441c592c7b52?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "900058732700415037"
+      },
+      "created_at": "2024-10-17T11:58:11.217Z",
+      "resolved_at": null,
+      "message": "I suggest using the Windows UI as well since window controls are on the right hand side and may cause proposed designs to not work as wekll?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2123:16892",
+        "node_offset": {
+          "x": 279,
+          "y": 29
+        },
+        "stable_path": [
+          "2123:16892"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "990195336",
+      "uuid": "765776f4-d85b-4622-98a1-1a4da22a6797",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Romain Testard",
+        "img_url": "https://www.gravatar.com/avatar/35c1f4c621a0d22ad40c441c592c7b52?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "900058732700415037"
+      },
+      "created_at": "2024-10-17T11:57:14.728Z",
+      "resolved_at": null,
+      "message": "It feels wrong to make it look like a tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2124:10396",
+        "node_offset": {
+          "x": 25,
+          "y": 55
+        },
+        "stable_path": [
+          "2124:10396"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1103968339",
+      "uuid": "cd999d77-889b-489f-bfb2-311c59185781",
+      "file_key": "y0Glb7odt1JvSA8Ag8Vw5i",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-01-23T16:35:31.927Z",
+      "resolved_at": null,
+      "message": "Hi Anna. Yulia and I are working on changes to the Customize sidebar panel and one of the changes we'd like to make is to add a tooltip to one of the checkbox options. The checkbox is not checked by default and is - of course - optional to check. The information we want to include in the tooltip is not essential, we think, to the user in understanding the option (based on user testing, users understand the string) but is more of an addendum for users who are interested in the option, explaining how they can show tabs. \n\nWe also explored doing a callout for users who choose this option, to share the same information. But, have received feedback from engineering that the callout would be more work - so, something we might not have capacity to do. \n\nDo you have any concerns here from an accessibility perspective with using a tooltip?  \n@Anna Yeddi cc: @Yulia Popova",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3647:238665",
+        "node_offset": {
+          "x": 261,
+          "y": 116
+        },
+        "stable_path": [
+          "3647:238665"
+        ]
+      },
+      "order_id": "18"
+    }
+  ]
+}

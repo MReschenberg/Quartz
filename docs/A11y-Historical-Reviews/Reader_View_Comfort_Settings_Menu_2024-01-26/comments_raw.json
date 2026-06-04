@@ -1,0 +1,1228 @@
+{
+  "unresolved": [
+    {
+      "id": "848336162",
+      "uuid": "d1e4b937-cf44-46e1-9d9c-eb2bb44cf67f",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Marco Castelluccio",
+        "img_url": "https://www.gravatar.com/avatar/16d4d4a441724e006b342ac12507caef?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1002248441057143037"
+      },
+      "created_at": "2024-06-21T12:57:06.302Z",
+      "resolved_at": null,
+      "message": "I wonder if the model is fast enough that we don't need to gray out",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1199:528",
+        "node_offset": {
+          "x": -49,
+          "y": 1269
+        },
+        "stable_path": [
+          "1199:528"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "723073352",
+      "uuid": "10070ade-0d45-4ec4-9df3-c6468d810a49",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2024-03-04T19:48:05.953Z",
+      "resolved_at": null,
+      "message": "@Irene Ni Just a note that \"Character spacing\" and \"Word spacing\" should also be sentence case. Same in menu above this. I think maybe the casing updates just have not been pulled through all the screens?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "336:304",
+        "node_offset": {
+          "x": 111,
+          "y": 100
+        },
+        "stable_path": [
+          "336:304"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "716465231",
+      "uuid": "8029fada-a221-4152-a494-c93c57393158",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-02-27T17:26:25.623Z",
+      "resolved_at": null,
+      "message": "@Josh Berman I don't think this button design would work for localization, since a slightly longer label would overlap with the white swirl. Is there any other design that could work? I could also just keep the existing style where it takes on the light/dark theme colors depending on the system setting (i.e. what the actual page colors will be).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "448:1767",
+        "node_offset": {
+          "x": 93,
+          "y": 68
+        },
+        "stable_path": [
+          "448:1767"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "713043061",
+      "uuid": "446491ad-9c79-4dfb-8fbb-3123b32b6b10",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-02-23T18:52:15.432Z",
+      "resolved_at": null,
+      "message": "either go with narrow-standard-wide, or use number percentages ; can ask for a11y feedback again",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "531:2785",
+        "node_offset": {
+          "x": 248,
+          "y": 422
+        },
+        "stable_path": [
+          "531:2785"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "702494263",
+      "uuid": "e1d9f6f3-c2c3-4e00-b0f7-67025dd538cb",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-02-14T21:28:53.579Z",
+      "resolved_at": null,
+      "message": "@Josh Berman After some discussion with the front-end team today, I thought it would be good to have a reset button since there are so many options. The primary button style seemed too prominent, since if we have Reset as the only button users might absently click it thinking it's a Save. Do you think styling it like a link could work? Also, I envision it as a reset for all text and layout controls, so would 'Reset All' or 'Reset Text & Layout' make that more clear?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "531:2785",
+        "node_offset": {
+          "x": 268,
+          "y": 643
+        },
+        "stable_path": [
+          "531:2785"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "699268714",
+      "uuid": "84482c0f-03b6-4e9f-8729-728422018dbe",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-02-12T16:31:09.507Z",
+      "resolved_at": null,
+      "message": "there is an icon button reusable component already",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "337:599",
+        "node_offset": {
+          "x": 259,
+          "y": 597
+        },
+        "stable_path": [
+          "337:599"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "696981730",
+      "uuid": "7ef3c2eb-33a8-42bc-86d6-91000af50e7c",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-02-09T04:27:13.206Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg From my research, it seems like having wider character and word spacing is more useful for reading fluency than narrower spacing. That's why I decided to make the sliders start from 'Standard' for the Advanced Layout section. Does this choice make sense from an accessibility perspective?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "531:2785",
+        "node_offset": {
+          "x": 101,
+          "y": 455
+        },
+        "stable_path": [
+          "531:2785"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "696546633",
+      "uuid": "c11e357a-df28-4e7b-92c8-aabf003b89b7",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-08T17:49:53.194Z",
+      "resolved_at": null,
+      "message": "From an a11y standpoint, these sliders are a much better approach than buttons because they let users have finer control and draw an explicit link between increasing and decreasing options",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "337:454",
+        "node_offset": {
+          "x": 159,
+          "y": 235
+        },
+        "stable_path": [
+          "337:454"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "695400984",
+      "uuid": "37e05a0a-e23f-41d0-9342-2d0c96358646",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-02-07T23:19:14.994Z",
+      "resolved_at": null,
+      "message": "@Josh Berman @Irene Ni \nI am wondering if you guys are getting some of the icons from our icon library. \n\nIt might be good to get design systems folks to help us makes some of the icons.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "336:301",
+        "node_offset": {
+          "x": 62,
+          "y": 112
+        },
+        "stable_path": [
+          "336:301"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "695235794",
+      "uuid": "36d67e6c-477d-43ac-8b7f-b7dd8005346a",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-02-07T20:12:29.789Z",
+      "resolved_at": null,
+      "message": "I would argue that the granularity we have today is not a positive. Would recommend three options that are smart as opposed to just letting the user implement settings that might actually violate WCAG AA",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "365:413",
+        "node_offset": {
+          "x": 85,
+          "y": 61
+        },
+        "stable_path": [
+          "365:413"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "695202010",
+      "uuid": "d18b8fe9-b852-45e7-a26d-3093abfcc5bc",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-02-07T19:41:56.557Z",
+      "resolved_at": null,
+      "message": "I like the visual change in weight! \nI think it makes things look a lot more clear!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "336:300",
+        "node_offset": {
+          "x": 504,
+          "y": 205
+        },
+        "stable_path": [
+          "336:300"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "695198809",
+      "uuid": "ae9005da-93a0-4754-8e44-49122c8828bf",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-02-07T19:39:13.600Z",
+      "resolved_at": null,
+      "message": "Why is there a separation here?\nWhat are you trying to communicate to the user with this?\n\n@Irene Ni",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "336:300",
+        "node_offset": {
+          "x": 355,
+          "y": 302
+        },
+        "stable_path": [
+          "336:300"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "695163317",
+      "uuid": "840c5fbd-5912-414a-9935-13cd99f36713",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-02-07T19:08:25.023Z",
+      "resolved_at": null,
+      "message": "Very interesting thought!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "287:231",
+        "node_offset": {
+          "x": 454,
+          "y": 353
+        },
+        "stable_path": [
+          "287:231"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "693743275",
+      "uuid": "64d5ed00-8590-4d7f-bbdb-ea53159c66a1",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-02-06T21:21:29.248Z",
+      "resolved_at": null,
+      "message": "Apple Books is currently the only instance I can find of this icon, since it's a pretty niche control. Would this be okay to use?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "337:599",
+        "node_offset": {
+          "x": 73,
+          "y": 507
+        },
+        "stable_path": [
+          "337:599"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "693739873",
+      "uuid": "6ac080f3-1c48-4209-9ff3-6e9047dd05fa",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-02-06T21:18:01.948Z",
+      "resolved_at": null,
+      "message": "find out what is the current reader default for a fresh user -> can inform what colors reset to",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "446:1248",
+        "node_offset": {
+          "x": 282,
+          "y": 358
+        },
+        "stable_path": [
+          "446:1248"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "692221993",
+      "uuid": "e337ce44-6542-40a7-924f-9b88142a2964",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:17:12.672Z",
+      "resolved_at": null,
+      "message": "Could we add a label here that says \"custom\" explicitly?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "25:236",
+        "node_offset": {
+          "x": 255,
+          "y": 299
+        },
+        "stable_path": [
+          "25:236"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "692221812",
+      "uuid": "c57196a2-61ac-49e2-a8e7-23772dcaa34f",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:16:55.998Z",
+      "resolved_at": null,
+      "message": "What initial colours will we provide here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "26:1306",
+        "node_offset": {
+          "x": 52,
+          "y": 137
+        },
+        "stable_path": [
+          "26:1306"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "692221666",
+      "uuid": "f165da7a-6c01-460f-9e57-22d7c2a57d9e",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:16:43.970Z",
+      "resolved_at": null,
+      "message": "Which defaults does this reset to? light? dark?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "26:1306",
+        "node_offset": {
+          "x": 254,
+          "y": 308
+        },
+        "stable_path": [
+          "26:1306"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "692220440",
+      "uuid": "ecbc60ed-6231-41e1-9171-a30317f2f4d7",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:15:04.331Z",
+      "resolved_at": null,
+      "message": "When not hovered/active, these controls are not easily discernable as buttons. can we have explicit +/- controls, or a stepper input instead of a pill with the number? We could also use a slider with an explicit label and - and + indicators on either side.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "34:1348",
+        "node_offset": {
+          "x": 60,
+          "y": 165
+        },
+        "stable_path": [
+          "34:1348"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "692219571",
+      "uuid": "bafd686c-e5af-42f7-b3c6-88fef0047308",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:13:54.585Z",
+      "resolved_at": null,
+      "message": "Are these symbols well understood to indicate more word spacing and less word spacing? (and more letter spacing and less letter spacing?) I wonder if having a slider and an explicit label would be clearer/more accessible",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "33:1152",
+        "node_offset": {
+          "x": 280,
+          "y": 218
+        },
+        "stable_path": [
+          "33:1152"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "692218297",
+      "uuid": "5309a32c-64cc-4c3d-ab2b-04eda9853f50",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:12:10.754Z",
+      "resolved_at": null,
+      "message": "From an a11y point, yeah I'd allow customization of link and listen highlight. It would make our options here similar to what we expose in the colors dialog in about:preferences > manage colors",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "105:588",
+        "node_offset": {
+          "x": 116,
+          "y": 512
+        },
+        "stable_path": [
+          "105:588"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "690366279",
+      "uuid": "57298cb3-883a-4bed-8d3c-e8bd0e350d20",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-02-02T21:16:32.649Z",
+      "resolved_at": null,
+      "message": "Check with strings team to see if auto/default is preferred",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "284:159",
+        "node_offset": {
+          "x": 37,
+          "y": 39
+        },
+        "stable_path": [
+          "284:159"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "687423391",
+      "uuid": "5f1a8eba-713c-4279-b56e-93a12e2fa9f6",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-01-31T19:20:48.641Z",
+      "resolved_at": null,
+      "message": "ask accessibility how they would determine best 3 options",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "336:301",
+        "node_offset": {
+          "x": 311,
+          "y": 128
+        },
+        "stable_path": [
+          "336:301"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "687422801",
+      "uuid": "76291749-316b-4ded-a811-84bacbcb9f45",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-01-31T19:20:16.519Z",
+      "resolved_at": null,
+      "message": "if we bold, what does header/subheading weight become?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "337:599",
+        "node_offset": {
+          "x": 293,
+          "y": 133
+        },
+        "stable_path": [
+          "337:599"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "682434620",
+      "uuid": "63f42e96-48e1-4dbc-ab32-37967ad36190",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-01-26T17:28:36.773Z",
+      "resolved_at": null,
+      "message": "It seems like there are settings related to font specifically (family, size, weight, letter spacing) and then settings more related to page format (page width, line height), and lastly, color settings. Maybe these can be the three groups of settings.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "110:133",
+        "node_offset": {
+          "x": 107,
+          "y": 246
+        },
+        "stable_path": [
+          "110:133"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "682431557",
+      "uuid": "e53405dc-2c06-44f3-8458-a359e97a3d56",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-01-26T17:25:34.828Z",
+      "resolved_at": null,
+      "message": "Shouldnt use +/- buttons twice for two different settings",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "105:620",
+        "node_offset": {
+          "x": 199,
+          "y": 211
+        },
+        "stable_path": [
+          "105:620"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "682429043",
+      "uuid": "4d8107f5-7ebd-40e0-bf57-9f12737e5150",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-01-26T17:23:04.073Z",
+      "resolved_at": null,
+      "message": "Not sure this should be here. Maybe leave this where it was and add a \"Customize colors\" link underneath the radio button group",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "26:1306",
+        "node_offset": {
+          "x": 266,
+          "y": 70
+        },
+        "stable_path": [
+          "26:1306"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "682426929",
+      "uuid": "7897ac30-e665-41d1-a545-78d2836ae310",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-01-26T17:20:53.430Z",
+      "resolved_at": null,
+      "message": "Should we just have a default and then let them pick using the dropdown instead of having the option of serif vs san serif and then bringing them somewhere else to select a different font?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "25:236",
+        "node_offset": {
+          "x": 105,
+          "y": 54
+        },
+        "stable_path": [
+          "25:236"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "682423645",
+      "uuid": "4d37ad82-cc6b-41ff-b2e0-74acfb6cfc68",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-01-26T17:17:42.754Z",
+      "resolved_at": null,
+      "message": "Why should these options be in a sub-menu instead of shown up front?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "33:1152",
+        "node_offset": {
+          "x": 89,
+          "y": 273
+        },
+        "stable_path": [
+          "33:1152"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "682423334",
+      "uuid": "6fae5b7e-4f53-43a4-9296-07bc5d04f766",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-01-26T17:17:25.711Z",
+      "resolved_at": null,
+      "message": "Should color become it's own little menu instead of being here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "25:236",
+        "node_offset": {
+          "x": 42,
+          "y": 318
+        },
+        "stable_path": [
+          "25:236"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "682422143",
+      "uuid": "96b7979b-1c6d-44f7-9b10-4a5cbf95b98f",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-01-26T17:16:13.487Z",
+      "resolved_at": null,
+      "message": "If we have a few reasonable preset choices instead of a gradient of 9 options for letter spacing and font weight and we remove word spacing, we can probably get rid of this button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "33:1152",
+        "node_offset": {
+          "x": 288,
+          "y": 310
+        },
+        "stable_path": [
+          "33:1152"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "682419151",
+      "uuid": "6e95f3ca-45f9-45b2-890b-45f2d80c71ff",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-01-26T17:13:24.088Z",
+      "resolved_at": null,
+      "message": "Have we considered just a few presets instead of such a high degree of gradiation?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "33:1152",
+        "node_offset": {
+          "x": 206,
+          "y": 161
+        },
+        "stable_path": [
+          "33:1152"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "682418761",
+      "uuid": "2cb444ef-8b1b-4562-93be-bda8f8bfdd55",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-01-26T17:13:04.143Z",
+      "resolved_at": null,
+      "message": "I'm not convinced we want to give users the capacity to change the word spacing. I feel like it would be easy for users to make the text essentially illegible.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "33:1152",
+        "node_offset": {
+          "x": 210,
+          "y": 228
+        },
+        "stable_path": [
+          "33:1152"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "679766431",
+      "uuid": "d6fdb10a-f06b-4680-be34-35ef67dfb5b4",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-01-24T18:50:41.827Z",
+      "resolved_at": null,
+      "message": "back button implementation already exists in hamburger menu for history",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "26:1306",
+        "node_offset": {
+          "x": 35,
+          "y": 20
+        },
+        "stable_path": [
+          "26:1306"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "678331616",
+      "uuid": "b811f7d9-9f67-4519-a373-084d03b450e4",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-01-23T20:38:44.440Z",
+      "resolved_at": null,
+      "message": "Since the menu container has a drop shadow, I think we can stick with the white theme for custom selection.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "25:236",
+        "node_offset": {
+          "x": 272,
+          "y": 299
+        },
+        "stable_path": [
+          "25:236"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "678326007",
+      "uuid": "7e3d5958-ace3-4dac-92ff-806d3250c021",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-01-23T20:33:02.206Z",
+      "resolved_at": null,
+      "message": "Any preference for system color picker vs Firefox built-in?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "49:272",
+        "node_offset": {
+          "x": 168,
+          "y": 120
+        },
+        "stable_path": [
+          "49:272"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "713043061",
+      "uuid": "446491ad-9c79-4dfb-8fbb-3123b32b6b10",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-02-23T18:52:15.432Z",
+      "resolved_at": null,
+      "message": "either go with narrow-standard-wide, or use number percentages ; can ask for a11y feedback again",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "531:2785",
+        "node_offset": {
+          "x": 248,
+          "y": 422
+        },
+        "stable_path": [
+          "531:2785"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "696981730",
+      "uuid": "7ef3c2eb-33a8-42bc-86d6-91000af50e7c",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-02-09T04:27:13.206Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg From my research, it seems like having wider character and word spacing is more useful for reading fluency than narrower spacing. That's why I decided to make the sliders start from 'Standard' for the Advanced Layout section. Does this choice make sense from an accessibility perspective?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "531:2785",
+        "node_offset": {
+          "x": 101,
+          "y": 455
+        },
+        "stable_path": [
+          "531:2785"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "696546633",
+      "uuid": "c11e357a-df28-4e7b-92c8-aabf003b89b7",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-08T17:49:53.194Z",
+      "resolved_at": null,
+      "message": "From an a11y standpoint, these sliders are a much better approach than buttons because they let users have finer control and draw an explicit link between increasing and decreasing options",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "337:454",
+        "node_offset": {
+          "x": 159,
+          "y": 235
+        },
+        "stable_path": [
+          "337:454"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "695235794",
+      "uuid": "36d67e6c-477d-43ac-8b7f-b7dd8005346a",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-02-07T20:12:29.789Z",
+      "resolved_at": null,
+      "message": "I would argue that the granularity we have today is not a positive. Would recommend three options that are smart as opposed to just letting the user implement settings that might actually violate WCAG AA",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "365:413",
+        "node_offset": {
+          "x": 85,
+          "y": 61
+        },
+        "stable_path": [
+          "365:413"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "692221993",
+      "uuid": "e337ce44-6542-40a7-924f-9b88142a2964",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:17:12.672Z",
+      "resolved_at": null,
+      "message": "Could we add a label here that says \"custom\" explicitly?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "25:236",
+        "node_offset": {
+          "x": 255,
+          "y": 299
+        },
+        "stable_path": [
+          "25:236"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "692221812",
+      "uuid": "c57196a2-61ac-49e2-a8e7-23772dcaa34f",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:16:55.998Z",
+      "resolved_at": null,
+      "message": "What initial colours will we provide here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "26:1306",
+        "node_offset": {
+          "x": 52,
+          "y": 137
+        },
+        "stable_path": [
+          "26:1306"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "692221666",
+      "uuid": "f165da7a-6c01-460f-9e57-22d7c2a57d9e",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:16:43.970Z",
+      "resolved_at": null,
+      "message": "Which defaults does this reset to? light? dark?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "26:1306",
+        "node_offset": {
+          "x": 254,
+          "y": 308
+        },
+        "stable_path": [
+          "26:1306"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "692220440",
+      "uuid": "ecbc60ed-6231-41e1-9171-a30317f2f4d7",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:15:04.331Z",
+      "resolved_at": null,
+      "message": "When not hovered/active, these controls are not easily discernable as buttons. can we have explicit +/- controls, or a stepper input instead of a pill with the number? We could also use a slider with an explicit label and - and + indicators on either side.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "34:1348",
+        "node_offset": {
+          "x": 60,
+          "y": 165
+        },
+        "stable_path": [
+          "34:1348"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "692219571",
+      "uuid": "bafd686c-e5af-42f7-b3c6-88fef0047308",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:13:54.585Z",
+      "resolved_at": null,
+      "message": "Are these symbols well understood to indicate more word spacing and less word spacing? (and more letter spacing and less letter spacing?) I wonder if having a slider and an explicit label would be clearer/more accessible",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "33:1152",
+        "node_offset": {
+          "x": 280,
+          "y": 218
+        },
+        "stable_path": [
+          "33:1152"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "692218297",
+      "uuid": "5309a32c-64cc-4c3d-ab2b-04eda9853f50",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:12:10.754Z",
+      "resolved_at": null,
+      "message": "From an a11y point, yeah I'd allow customization of link and listen highlight. It would make our options here similar to what we expose in the colors dialog in about:preferences > manage colors",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "105:588",
+        "node_offset": {
+          "x": 116,
+          "y": 512
+        },
+        "stable_path": [
+          "105:588"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "687423391",
+      "uuid": "5f1a8eba-713c-4279-b56e-93a12e2fa9f6",
+      "file_key": "BuurTXXqQjrikE0Dfvb5Wp",
+      "parent_id": "",
+      "user": {
+        "handle": "Irene Ni",
+        "img_url": "https://www.gravatar.com/avatar/2b60d64dcf5a51c040b12db96da3e151?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_i_v2.png",
+        "id": "1326612706162457694"
+      },
+      "created_at": "2024-01-31T19:20:48.641Z",
+      "resolved_at": null,
+      "message": "ask accessibility how they would determine best 3 options",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "336:301",
+        "node_offset": {
+          "x": 311,
+          "y": 128
+        },
+        "stable_path": [
+          "336:301"
+        ]
+      },
+      "order_id": "21"
+    }
+  ]
+}

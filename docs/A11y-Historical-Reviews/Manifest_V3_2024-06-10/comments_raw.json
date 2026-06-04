@@ -1,0 +1,640 @@
+{
+  "unresolved": [
+    {
+      "id": "1011435352",
+      "uuid": "8ade8ac2-260e-49c2-a4cc-4d1727e9a5d5",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2024-11-04T11:17:04.670Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler what do you think about using the panel component as is here https://www.figma.com/design/2ruSnPauajQGprFy6K333u/Desktop-Components?node-id=303-9479&t=BYkErt2ECaH58Jwq-4 and not indenting the body copy?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3399:10157",
+        "node_offset": {
+          "x": 283,
+          "y": 188
+        },
+        "stable_path": [
+          "3399:10157"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "930052377",
+      "uuid": "02c00132-a2d6-4489-b231-c41889053b67",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Luca Greco",
+        "img_url": "https://www.gravatar.com/avatar/cb15f57474d95eb43c5d903ae3fa34ae?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "950785534099204803"
+      },
+      "created_at": "2024-08-29T12:05:45.056Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler (and @Nicole Weber): this area of the popup notifications is managed by the MozPopupNotification custom element (https://searchfox.org/mozilla-central/rev/261005fcc4d6f8b64189946958211259fb45e9e1/toolkit/content/widgets/popupnotification.js#95-102) and so moving the learnmore link there is something that cannot be achieved with just changes in the WebExtensions internals area, and instead it has to be agreed with the Firefox Desktop frontend engineers (I think dao and/or mconley may be good picks to gather a preliminary feedback) and changes eventually applied to the MozPopupNotification custom element, and after that the WebExtensions internals can leverage it for the WebExtensions-related popups.\n\nI'll be meeting with mconley to discuss other issues related to the extension popups and so I'm planning to anticipate this ask from UX to Mike and gather his perspective about it, but I'm also going to split this off from the round of tweaks we are currently working on for this dialog.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3399:8446",
+        "node_offset": {
+          "x": 304,
+          "y": 358
+        },
+        "stable_path": [
+          "3399:8446"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "912855205",
+      "uuid": "86f6c242-c4b8-49a6-8e92-04181b4adc0d",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Luca Greco",
+        "img_url": "https://www.gravatar.com/avatar/cb15f57474d95eb43c5d903ae3fa34ae?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "950785534099204803"
+      },
+      "created_at": "2024-08-15T08:52:07.113Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler I think this is meant to be aria-describedby=G instead of J, right?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3399:4036",
+        "node_offset": {
+          "x": 196,
+          "y": 1131
+        },
+        "stable_path": [
+          "3399:4036"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "888314322",
+      "uuid": "c8565ef1-e7c6-4f55-918e-99bc98dac75a",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Luca Greco",
+        "img_url": "https://www.gravatar.com/avatar/cb15f57474d95eb43c5d903ae3fa34ae?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "950785534099204803"
+      },
+      "created_at": "2024-07-25T15:19:14.549Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler I noticed that the scrollable list is bordered while the non scrollable one doesn't have any border and so I was wondering: should I still aim for adding scroll shadows to the scrollable list or is it not necessary in this incremental change to the existing install dialog?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3399:10154",
+        "node_offset": {
+          "x": 455,
+          "y": 298
+        },
+        "stable_path": [
+          "3399:10154"
+        ]
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "888311120",
+      "uuid": "b3828e16-17e0-47c8-b20b-b709a196877b",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Luca Greco",
+        "img_url": "https://www.gravatar.com/avatar/cb15f57474d95eb43c5d903ae3fa34ae?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "950785534099204803"
+      },
+      "created_at": "2024-07-25T15:17:22.835Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler The current dialog design doesn't have longer description paired with any of the permission description strings, would be ok if we aim to keep this aspect unchanged for this incremental change to the existing dialog?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3399:10157",
+        "node_offset": {
+          "x": 481,
+          "y": 261
+        },
+        "stable_path": [
+          "3399:10157"
+        ]
+      },
+      "order_id": "105"
+    },
+    {
+      "id": "858926060",
+      "uuid": "38a565ea-291f-4dae-b58a-db4ca4bd3148",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Luca Greco",
+        "img_url": "https://www.gravatar.com/avatar/cb15f57474d95eb43c5d903ae3fa34ae?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "950785534099204803"
+      },
+      "created_at": "2024-07-01T21:03:31.862Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler both the permissions list and the domains list that may be  embedded into the permissions list are expected to be scrollable if necessary and (unless I may have misunderstood that part) in these designs it looks like scroll shadows would be used on both the scrollable lists.\n\nWhile working on an exploratory patch covering that part I've been wondering if scroll shadows being used on both the scrollable lists at the same time may end up looking potentially confusing for the users.\n\nShould we consider to make the domains list expandable instead? \n\ne.g. similarly to the mobile design where a \u201cShow all sites\u201d link will be fully expanding the domains list.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3159:9855",
+        "node_offset": {
+          "x": 420,
+          "y": 336
+        },
+        "stable_path": [
+          "3159:9855"
+        ]
+      },
+      "order_id": "104"
+    },
+    {
+      "id": "854022166",
+      "uuid": "4a7662cf-f0ac-40f2-b194-5215585ff905",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Luca Greco",
+        "img_url": "https://www.gravatar.com/avatar/cb15f57474d95eb43c5d903ae3fa34ae?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "950785534099204803"
+      },
+      "created_at": "2024-06-26T19:18:13.866Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler I'm wondering if the users may end up not realizing that there is a private browsing checkbox when the extension being installed have a long list of other permissions granted that would make the private browsing checkbox to be at the bottom of the scrollable list of all permissions.\n\nWhat do you think about that and \nwhat could we consider doing to avoid that?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3159:9855",
+        "node_offset": {
+          "x": 251,
+          "y": 408
+        },
+        "stable_path": [
+          "3159:9855"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "759657785",
+      "uuid": "0a7c1008-ca65-4d9b-8753-6b9b08eb8bcb",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-04-04T21:47:39.353Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler \nSimilar to the comment above. Engineering will need to program a second string that follows the logic when there are only 3 domains. Content string is:\n\nDomains include [google.com], [google.ad], and [google.ae].",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2910:1734",
+        "node_offset": {
+          "x": 401,
+          "y": 85
+        },
+        "stable_path": [
+          "2910:1734"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "759655584",
+      "uuid": "73c5e2a5-a0b4-4568-961e-8c9c63909378",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-04-04T21:44:49.777Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler \nWe will need engineering to set up an alternate version of this content string that would follow the logic when there are more than 3 sites in the domain:\n\nSites include [twitter.com], [mobile.twitter.com], [x.com], and [x] others.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2914:1264",
+        "node_offset": {
+          "x": 390,
+          "y": 84
+        },
+        "stable_path": [
+          "2914:1264"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "759649168",
+      "uuid": "75560939-7471-41f9-8a34-661847e1ec63",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-04-04T21:36:07.567Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler I have content solutions for each of these  permissions scenarios below.\n\nFor the subcopy strings: In looking at the format of the previous version, I can see that the content is probably pulled from an eng script into that bulleted list. I'm wondering if there are any engineering constraints to pulling this info into sentence format. (Hopefully it won't be! :crossed_fingers:)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2816:10565",
+        "node_offset": {
+          "x": 2795,
+          "y": -1253
+        },
+        "stable_path": [
+          "2816:10565"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "759388150",
+      "uuid": "3b2dd4b1-cd46-4e75-8c81-cf7de8651cac",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-04-04T17:29:34.624Z",
+      "resolved_at": null,
+      "message": "Are these also domains (as in the notification below) or are these sites?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2910:1803",
+        "node_offset": {
+          "x": 402,
+          "y": 18
+        },
+        "stable_path": [
+          "2910:1803"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "750953735",
+      "uuid": "744ad5d2-328e-4d1a-ad83-ea9236f05e5c",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-03-27T21:17:10.891Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler Just noting that I brought the \"Access your data on all websites\" string up to the top of the modal. It looks like this was the order the permissions were presented in in the previous version. We probably want to retain that hierarchy.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2819:10823",
+        "node_offset": {
+          "x": 390,
+          "y": 66
+        },
+        "stable_path": [
+          "2819:10823"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "749293517",
+      "uuid": "1ab47d7b-916f-44d7-9af5-c5947ca95fc8",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2024-03-26T21:05:42.920Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde Captured some thoughts for next rev!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2847:494",
+        "node_offset": {
+          "x": 349,
+          "y": 87
+        },
+        "stable_path": [
+          "2847:494"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "749287578",
+      "uuid": "007e3f41-4ed7-45e3-a8ec-7c65ef895aa1",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2024-03-26T20:59:31.512Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde I am inclined towards option 1 and option 2 (with a modification to option 2 wherein \"Run in Private Windows\" remains in the confirm modal rather than gets moved up to the \"Add\" modal. I think tooltip or expander not enough friction, and option four is too much cognitive load. CC @Juliana Gaibler",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2819:10823",
+        "node_offset": {
+          "x": 196,
+          "y": 285
+        },
+        "stable_path": [
+          "2819:10823"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "749269981",
+      "uuid": "fbdb9327-4c74-44f7-9769-c0805bab1aa1",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2024-03-26T20:43:09.316Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde I think I am inclined to just leave \"allow this extension to run in Private Windows\" here, rather than add it to the first modal. \n\nRationale: We want users to finish the install process. By adding another item (that is unchecked) to that first modal where they are making all the big permission decisions, does this additional decision add friction and up the anti on the importance of the \"run in private windows\" decision?\n\nI peeked in old docs to see why we put this permission in the second modal in the first place and couldn't find rationale. I'd ask Julian or an ENG to make sure we have the context here.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-03-26T22:56:09.794Z",
+          "user": {
+            "id": "1298754465457927621",
+            "handle": "Tina Vaamonde",
+            "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2823:11367",
+        "node_offset": {
+          "x": 353,
+          "y": 128
+        },
+        "stable_path": [
+          "2823:11367"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "749269183",
+      "uuid": "81cc0562-1b20-4c95-bf63-605543197d4d",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2024-03-26T20:42:23.909Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde Does this article include the topic of running the extension in private windows? If not, I would consider getting it added or linked to the article IF you end up moving \"Run in Private Windows\" here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2816:10575",
+        "node_offset": {
+          "x": 227,
+          "y": 254
+        },
+        "stable_path": [
+          "2816:10575"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "747660209",
+      "uuid": "9d929fc5-7e1b-4f1e-a8b2-d30bb2bfb319",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-03-25T21:43:29.677Z",
+      "resolved_at": null,
+      "message": "Is content accurate? Explanatory enough for a user to understand the differences between allow/don't allow?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2821:10883",
+        "node_offset": {
+          "x": 403,
+          "y": 266
+        },
+        "stable_path": [
+          "2821:10883"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "747629250",
+      "uuid": "4920024a-6568-4481-88a7-76612b462f6b",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-03-25T21:06:43.991Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler If we do go with some kind of a tooltip treatment here, I have the same question as above: Do we want to add a sentence here informing users that some extensions may require access to their data to perform their function?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2834:545",
+        "node_offset": {
+          "x": 477,
+          "y": 11
+        },
+        "stable_path": [
+          "2834:545"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "745859182",
+      "uuid": "394d999b-9e72-42d9-a0b6-e612e3b7f6bf",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-03-23T00:34:04.504Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler Is there a little more to these instructions? Is there a menu of options after users click on the icon? (We may still want to keep this simple--and even edit this content down further.)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2827:11621",
+        "node_offset": {
+          "x": 540,
+          "y": 134
+        },
+        "stable_path": [
+          "2827:11621"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "745859029",
+      "uuid": "3ef5f13c-b82b-4eed-baba-986d9277a634",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-03-23T00:32:42.516Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler Do we want to add a sentence here informing users that some extensions may require access to their data to perform their function?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2827:11621",
+        "node_offset": {
+          "x": 589,
+          "y": 46
+        },
+        "stable_path": [
+          "2827:11621"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "745821209",
+      "uuid": "3122388b-ee9f-4811-a01b-337dd621840e",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-03-22T22:05:58.981Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler I was originally going to suggest adding a warning or info icon here to provide a tooltip upon hover with more detail on what will happen if this box is unchecked. I see a discussion in the #acorn-design-system Slack that we try to avoid tooltips since they aren't accessible. Is there another text link pattern that we might consider here instead to surface more information? ( I know \"Learn more\" must link to a SUMO article, so we would need a pattern that uses different text.)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2824:11510",
+        "node_offset": {
+          "x": 253,
+          "y": 147
+        },
+        "stable_path": [
+          "2824:11510"
+        ]
+      },
+      "order_id": "72"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "912855205",
+      "uuid": "86f6c242-c4b8-49a6-8e92-04181b4adc0d",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Luca Greco",
+        "img_url": "https://www.gravatar.com/avatar/cb15f57474d95eb43c5d903ae3fa34ae?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "950785534099204803"
+      },
+      "created_at": "2024-08-15T08:52:07.113Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler I think this is meant to be aria-describedby=G instead of J, right?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3399:4036",
+        "node_offset": {
+          "x": 196,
+          "y": 1131
+        },
+        "stable_path": [
+          "3399:4036"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "749287578",
+      "uuid": "007e3f41-4ed7-45e3-a8ec-7c65ef895aa1",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2024-03-26T20:59:31.512Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde I am inclined towards option 1 and option 2 (with a modification to option 2 wherein \"Run in Private Windows\" remains in the confirm modal rather than gets moved up to the \"Add\" modal. I think tooltip or expander not enough friction, and option four is too much cognitive load. CC @Juliana Gaibler",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2819:10823",
+        "node_offset": {
+          "x": 196,
+          "y": 285
+        },
+        "stable_path": [
+          "2819:10823"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "745821209",
+      "uuid": "3122388b-ee9f-4811-a01b-337dd621840e",
+      "file_key": "2FeZiu4V1CAqZ0zzVcH7sW",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-03-22T22:05:58.981Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler I was originally going to suggest adding a warning or info icon here to provide a tooltip upon hover with more detail on what will happen if this box is unchecked. I see a discussion in the #acorn-design-system Slack that we try to avoid tooltips since they aren't accessible. Is there another text link pattern that we might consider here instead to surface more information? ( I know \"Learn more\" must link to a SUMO article, so we would need a pattern that uses different text.)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2824:11510",
+        "node_offset": {
+          "x": 253,
+          "y": 147
+        },
+        "stable_path": [
+          "2824:11510"
+        ]
+      },
+      "order_id": "72"
+    }
+  ]
+}

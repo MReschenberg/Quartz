@@ -1,0 +1,4121 @@
+{
+  "unresolved": [
+    {
+      "id": "1728398966",
+      "uuid": "3e616860-bdbc-4034-bea9-2d88460263d5",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Nick Grato",
+        "img_url": "https://www.gravatar.com/avatar/8a0fbfd7320eb1658c4ecd8fc9de05cd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1098063561453020918"
+      },
+      "created_at": "2026-04-21T21:05:11.081Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston  looks like these potentially changed? I'm working on this check box component right now just trying to track the changes is the second one here hover and then the third one on press?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1816:49242",
+        "node_offset": {
+          "x": 827,
+          "y": 752
+        },
+        "stable_path": [
+          "1816:49242"
+        ]
+      },
+      "order_id": "169"
+    },
+    {
+      "id": "1726484675",
+      "uuid": "b438942d-6eec-43ec-b3f7-2a0b4cedf8c3",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2026-04-21T01:00:21.094Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston @Emanuela Damiani - Is using the Firefox logo here, instead of the Smart Window icon, intentional?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2270:74466",
+        "node_offset": {
+          "x": 302,
+          "y": 57
+        },
+        "stable_path": [
+          "2270:74466"
+        ]
+      },
+      "order_id": "168"
+    },
+    {
+      "id": "1726401773",
+      "uuid": "d0e1098d-fa47-488d-81e5-061b8dad13db",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Nick Grato",
+        "img_url": "https://www.gravatar.com/avatar/8a0fbfd7320eb1658c4ecd8fc9de05cd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1098063561453020918"
+      },
+      "created_at": "2026-04-20T22:34:37.214Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston  could i see what this looks like with just 2 in it? I'm wondering what the height expectation is here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1834:49716",
+        "node_offset": {
+          "x": 1438,
+          "y": 413
+        },
+        "stable_path": [
+          "1834:49716"
+        ]
+      },
+      "order_id": "166"
+    },
+    {
+      "id": "1726319995",
+      "uuid": "16c427bf-f6af-4d24-a2c3-dd57941f3a47",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-04-20T20:58:01.058Z",
+      "resolved_at": null,
+      "message": "may be cases where we would regenerate a confirmation card here. Like - \"what about the tab about hawaii\" and then reprompt",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2519:131465",
+        "node_offset": {
+          "x": 1285,
+          "y": 461
+        },
+        "stable_path": [
+          "2519:131465"
+        ]
+      },
+      "order_id": "165"
+    },
+    {
+      "id": "1726285720",
+      "uuid": "902f30d3-4292-4f39-9c6f-817a4bde1d23",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Nick Grato",
+        "img_url": "https://www.gravatar.com/avatar/8a0fbfd7320eb1658c4ecd8fc9de05cd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1098063561453020918"
+      },
+      "created_at": "2026-04-20T20:29:04.958Z",
+      "resolved_at": null,
+      "message": "I wonder if this might need to be more general \"success text\" here. Having the key word here \"flights\" could be difficult. Since After the user click an action on the screen before,  I think this message would update with a success without  having to converse with the LLM. Would be detrimental to have this say something more like \"5 of your tabs have been closed\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1834:50054",
+        "node_offset": {
+          "x": 1440,
+          "y": 290
+        },
+        "stable_path": [
+          "1834:50054"
+        ]
+      },
+      "order_id": "164"
+    },
+    {
+      "id": "1726275990",
+      "uuid": "6c22a6c1-577c-4358-a886-692ea87b623e",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Nick Grato",
+        "img_url": "https://www.gravatar.com/avatar/8a0fbfd7320eb1658c4ecd8fc9de05cd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1098063561453020918"
+      },
+      "created_at": "2026-04-20T20:21:14.126Z",
+      "resolved_at": null,
+      "message": "Are we expecting when opening a convo from the stored chats all of this interaction data being part of the chat? I would think so but just checking.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1816:49242",
+        "node_offset": {
+          "x": 3264,
+          "y": 516
+        },
+        "stable_path": [
+          "1816:49242"
+        ]
+      },
+      "order_id": "163"
+    },
+    {
+      "id": "1726264732",
+      "uuid": "74a77219-0481-46d4-87c1-d28f729f897b",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Nick Grato",
+        "img_url": "https://www.gravatar.com/avatar/8a0fbfd7320eb1658c4ecd8fc9de05cd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1098063561453020918"
+      },
+      "created_at": "2026-04-20T20:12:18.167Z",
+      "resolved_at": null,
+      "message": "I wonder if this is needed - here is my reason. As soon as the LLM knows to close a tab it will probably do that before it dispatched a message to ai window to show this text, I doubt the user would ever see this",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1834:49561",
+        "node_offset": {
+          "x": 1256,
+          "y": 264
+        },
+        "stable_path": [
+          "1834:49561"
+        ]
+      },
+      "order_id": "162"
+    },
+    {
+      "id": "1726261024",
+      "uuid": "1144cb45-b0cb-4b6b-bf10-9a0c9e42b441",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Nick Grato",
+        "img_url": "https://www.gravatar.com/avatar/8a0fbfd7320eb1658c4ecd8fc9de05cd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1098063561453020918"
+      },
+      "created_at": "2026-04-20T20:09:18.901Z",
+      "resolved_at": null,
+      "message": "what causes the +3? I see versions above that have 3 chips with no \"+? more\" chip. is it the width of the chips or anything over 2 chips we get a \"+? more\" chip? I'm assuming if we click on this we get a full expanded show? is there a hide button then?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1948:59246",
+        "node_offset": {
+          "x": 1404,
+          "y": 320
+        },
+        "stable_path": [
+          "1948:59246"
+        ]
+      },
+      "order_id": "160"
+    },
+    {
+      "id": "1726250157",
+      "uuid": "6e01e0c9-4ace-433d-b371-1454ff513a97",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Nick Grato",
+        "img_url": "https://www.gravatar.com/avatar/8a0fbfd7320eb1658c4ecd8fc9de05cd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1098063561453020918"
+      },
+      "created_at": "2026-04-20T19:59:53.766Z",
+      "resolved_at": null,
+      "message": "Would it be possible to explore the idea of this being the next message? instead of  a message update?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1834:49862",
+        "node_offset": {
+          "x": 1239,
+          "y": 408
+        },
+        "stable_path": [
+          "1834:49862"
+        ]
+      },
+      "order_id": "158"
+    },
+    {
+      "id": "1726248829",
+      "uuid": "aa053114-9a4d-48f9-a116-7c18d61f7b3b",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Nick Grato",
+        "img_url": "https://www.gravatar.com/avatar/8a0fbfd7320eb1658c4ecd8fc9de05cd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1098063561453020918"
+      },
+      "created_at": "2026-04-20T19:58:50.731Z",
+      "resolved_at": null,
+      "message": "what does retry do in this scenario",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1834:49340",
+        "node_offset": {
+          "x": 1171,
+          "y": 372
+        },
+        "stable_path": [
+          "1834:49340"
+        ]
+      },
+      "order_id": "157"
+    },
+    {
+      "id": "1726248373",
+      "uuid": "ec978195-a330-434d-91c0-452a2a6af912",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Nick Grato",
+        "img_url": "https://www.gravatar.com/avatar/8a0fbfd7320eb1658c4ecd8fc9de05cd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1098063561453020918"
+      },
+      "created_at": "2026-04-20T19:58:28.304Z",
+      "resolved_at": null,
+      "message": "Do we have an extra considerations around pinned tabs and or tab groups? how does this interact with them?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1816:49242",
+        "node_offset": {
+          "x": 2928,
+          "y": 510
+        },
+        "stable_path": [
+          "1816:49242"
+        ]
+      },
+      "order_id": "156"
+    },
+    {
+      "id": "1726247615",
+      "uuid": "29e0ba10-b016-48e7-a2b3-dc33083ebff4",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Nick Grato",
+        "img_url": "https://www.gravatar.com/avatar/8a0fbfd7320eb1658c4ecd8fc9de05cd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1098063561453020918"
+      },
+      "created_at": "2026-04-20T19:57:51.890Z",
+      "resolved_at": null,
+      "message": "is there a max number of tabs in this list?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1834:49716",
+        "node_offset": {
+          "x": 1177,
+          "y": 322
+        },
+        "stable_path": [
+          "1834:49716"
+        ]
+      },
+      "order_id": "155"
+    },
+    {
+      "id": "1726247197",
+      "uuid": "20e3db01-d4dd-498e-bfd1-2e67eb31b167",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Nick Grato",
+        "img_url": "https://www.gravatar.com/avatar/8a0fbfd7320eb1658c4ecd8fc9de05cd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1098063561453020918"
+      },
+      "created_at": "2026-04-20T19:57:30.865Z",
+      "resolved_at": null,
+      "message": "There might be localization concerns having a variable (5) being in the middle of a groups of text. Could we explore things like \"close tabs : 5\" . something that is more scalable in the localization front?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1834:49716",
+        "node_offset": {
+          "x": 1418,
+          "y": 535
+        },
+        "stable_path": [
+          "1834:49716"
+        ]
+      },
+      "order_id": "154"
+    },
+    {
+      "id": "1726245170",
+      "uuid": "408ca11a-9dd7-4043-8551-9338ee3a2cc8",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Nick Grato",
+        "img_url": "https://www.gravatar.com/avatar/8a0fbfd7320eb1658c4ecd8fc9de05cd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1098063561453020918"
+      },
+      "created_at": "2026-04-20T19:55:55.644Z",
+      "resolved_at": null,
+      "message": "could we see an overflow one?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1834:49716",
+        "node_offset": {
+          "x": 1426,
+          "y": 343
+        },
+        "stable_path": [
+          "1834:49716"
+        ]
+      },
+      "order_id": "153"
+    },
+    {
+      "id": "1726210085",
+      "uuid": "599dc772-c580-4ce4-8f86-2b4ef3ae86a9",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-04-20T19:27:50.333Z",
+      "resolved_at": null,
+      "message": "Victoria from UX",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2107:71124",
+        "node_offset": {
+          "x": 4944,
+          "y": 2470
+        },
+        "stable_path": [
+          "2107:71124"
+        ]
+      },
+      "order_id": "152"
+    },
+    {
+      "id": "1725972137",
+      "uuid": "bcd626e1-ad01-4124-a4ed-efb30c8f65e9",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2026-04-20T16:30:31.529Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston - Can you help me understand why the interaction is different between v2 - Interim UI and v2 - Nova? \n\nSo, in Nova we introduce this kind of 'review' step, but i don't see that in the interim UI.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2270:74963",
+        "node_offset": {
+          "x": 3819,
+          "y": 332
+        },
+        "stable_path": [
+          "2270:74963"
+        ]
+      },
+      "order_id": "151"
+    },
+    {
+      "id": "1723628287",
+      "uuid": "35418b52-635d-44cd-b366-baf87bcf8234",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-17T15:52:46.681Z",
+      "resolved_at": null,
+      "message": "@Taylor Silva we need to change the spec from version A to version B. I'd leave the specs for version A since Loren said we may want to A/B test it in the future.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2348:115455",
+        "node_offset": {
+          "x": 373.455078125,
+          "y": 172.16015625
+        },
+        "stable_path": [
+          "2348:115455"
+        ]
+      },
+      "order_id": "148"
+    },
+    {
+      "id": "1723619238",
+      "uuid": "35e6c9df-867f-4345-9dcf-1d215122aa2c",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-04-17T15:46:54.074Z",
+      "resolved_at": null,
+      "message": "@Katie Lower these are existing strings from report feature. I don't have a lot of context about what legally needs to be included / what is simply content so please take whatever I have in my specs above as placeholder",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "31:2666",
+        "node_offset": {
+          "x": 753,
+          "y": 1153
+        },
+        "stable_path": [
+          "31:2666"
+        ]
+      },
+      "order_id": "147"
+    },
+    {
+      "id": "1722274630",
+      "uuid": "132e7e93-2984-4b9d-b1ea-6be21b7bc230",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-04-16T22:15:42.603Z",
+      "resolved_at": null,
+      "message": "is this modal too tall? how does overflow work for shorter windows?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2270:88374",
+        "node_offset": {
+          "x": 496,
+          "y": 262
+        },
+        "stable_path": [
+          "2270:88374"
+        ]
+      },
+      "order_id": "146"
+    },
+    {
+      "id": "1722271689",
+      "uuid": "b2aa2150-8b88-4b6d-bf07-526a0dbf5690",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-04-16T22:11:38.781Z",
+      "resolved_at": null,
+      "message": "@Katie Lower can we shorten this?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2270:74466",
+        "node_offset": {
+          "x": 294,
+          "y": 254
+        },
+        "stable_path": [
+          "2270:74466"
+        ]
+      },
+      "order_id": "145"
+    },
+    {
+      "id": "1722266393",
+      "uuid": "1214c4e4-1329-494e-8c2d-26f73f1e5985",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-16T22:04:17.400Z",
+      "resolved_at": null,
+      "message": "Is the learn more needed or this one can be the preview report?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2270:74466",
+        "node_offset": {
+          "x": 441,
+          "y": 289
+        },
+        "stable_path": [
+          "2270:74466"
+        ]
+      },
+      "order_id": "144"
+    },
+    {
+      "id": "1722264401",
+      "uuid": "602ed18e-0db5-4bf7-a687-4190c9b58305",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-16T22:01:36.635Z",
+      "resolved_at": null,
+      "message": "I wonder if this can be an opportunity to be \"Unlike others, we don't...\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2270:74502",
+        "node_offset": {
+          "x": 131,
+          "y": 413
+        },
+        "stable_path": [
+          "2270:74502"
+        ]
+      },
+      "order_id": "143"
+    },
+    {
+      "id": "1722000624",
+      "uuid": "5dfeff28-9efe-4fed-9e84-9c3dfe2d449b",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-16T18:22:11.955Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova is this really a component from OMC?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1662:63874",
+        "node_offset": {
+          "x": 1237,
+          "y": 4026
+        },
+        "stable_path": [
+          "1662:63874"
+        ]
+      },
+      "order_id": "139"
+    },
+    {
+      "id": "1721874660",
+      "uuid": "02b3fade-75a8-4900-9c6f-c1ede9faf6ab",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-04-16T16:56:10.668Z",
+      "resolved_at": null,
+      "message": "@Emanuela Damiani added few other options",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1662:63874",
+        "node_offset": {
+          "x": 1851,
+          "y": 2557
+        },
+        "stable_path": [
+          "1662:63874"
+        ]
+      },
+      "order_id": "138"
+    },
+    {
+      "id": "1721740230",
+      "uuid": "3e9960f6-a7f2-4e7b-948f-11294b3c6f22",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-16T15:37:37.514Z",
+      "resolved_at": null,
+      "message": "@Katie Lower wdyt of this one?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2154:61258",
+        "node_offset": {
+          "x": 1241,
+          "y": 760
+        },
+        "stable_path": [
+          "2154:61258"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "1721739845",
+      "uuid": "bc490750-1336-49eb-83f0-d51b24248752",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-16T15:37:25.518Z",
+      "resolved_at": null,
+      "message": "I like the idea of using the hat! We are also suggesting for other items so it makes sense to re-use it here too.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2154:61567",
+        "node_offset": {
+          "x": 694,
+          "y": 392
+        },
+        "stable_path": [
+          "2154:61567"
+        ]
+      },
+      "order_id": "136"
+    },
+    {
+      "id": "1720446178",
+      "uuid": "9a852388-87a6-4966-98c6-34db157e85f7",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-16T04:07:00.752Z",
+      "resolved_at": null,
+      "message": "@Katie Lower I added a continuous onboarding component to this, coming from Loren's PRD",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2126:133139",
+        "node_offset": {
+          "x": 80,
+          "y": 55
+        },
+        "stable_path": [
+          "2126:133139"
+        ]
+      },
+      "order_id": "132"
+    },
+    {
+      "id": "1719789597",
+      "uuid": "37b39c97-e8a1-4f21-985a-98ea58c24946",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Steven Truong",
+        "img_url": "https://www.gravatar.com/avatar/5b4770b2fa9cd5ecab133b7a77dc1cee?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1572705727818486937"
+      },
+      "created_at": "2026-04-15T16:56:19.395Z",
+      "resolved_at": null,
+      "message": "Could we add a version where a Custom Model is configured in settings? So a \"Custom\" item can show up here, using the user-entered Model Name (ex: \"SmolLM3-3B-GGUF\") as subtext?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-04-16T02:47:35.190Z",
+          "user": {
+            "id": "368785027972814935",
+            "handle": "Emanuela Damiani",
+            "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "845:3668",
+        "node_offset": {
+          "x": 1127,
+          "y": 636
+        },
+        "stable_path": [
+          "845:3668"
+        ]
+      },
+      "order_id": "131"
+    },
+    {
+      "id": "1719786288",
+      "uuid": "94a2e06c-0958-4c51-a8d0-5d4c7fd702a7",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Steven Truong",
+        "img_url": "https://www.gravatar.com/avatar/5b4770b2fa9cd5ecab133b7a77dc1cee?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1572705727818486937"
+      },
+      "created_at": "2026-04-15T16:54:20.847Z",
+      "resolved_at": null,
+      "message": "It would be far too cluttered to put the actual model name in here. Stating this just because there is a tiny risk that it's not clear that it's not a Mozilla model (though if it were to come up, we could determine the exact model based on the time a screenshot was taken, for example).\n\nNot suggesting we need to make an attempt or take action on this here, mostly just commenting out loud so that thought is out there.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-04-15T17:59:02.808Z",
+          "user": {
+            "id": "1093246043853427875",
+            "handle": "Paige Ormiston",
+            "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "845:3826",
+        "node_offset": {
+          "x": 1380,
+          "y": 894
+        },
+        "stable_path": [
+          "845:3826"
+        ]
+      },
+      "order_id": "130"
+    },
+    {
+      "id": "1718227665",
+      "uuid": "66313c00-61f0-45b3-be8d-e030f21e2fcd",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-15T01:45:35.092Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova added the PRD screenshot",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2000:46724",
+        "node_offset": {
+          "x": 55,
+          "y": 66
+        },
+        "stable_path": [
+          "2000:46724"
+        ]
+      },
+      "order_id": "129"
+    },
+    {
+      "id": "1718096686",
+      "uuid": "7b87c764-dd83-472b-be06-62e201153a52",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-04-14T22:13:18.827Z",
+      "resolved_at": null,
+      "message": "this would overflow",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "27:31013",
+        "node_offset": {
+          "x": 11006,
+          "y": 6611
+        },
+        "stable_path": [
+          "27:31013"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "1718094932",
+      "uuid": "5540297e-0571-4ed7-8240-23ec5c2a090b",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-04-14T22:10:56.184Z",
+      "resolved_at": null,
+      "message": "full json of the conversation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "27:31013",
+        "node_offset": {
+          "x": 7414,
+          "y": 6383
+        },
+        "stable_path": [
+          "27:31013"
+        ]
+      },
+      "order_id": "126"
+    },
+    {
+      "id": "1718030868",
+      "uuid": "becd253a-d58c-44f5-b821-c3d3f58e2dd7",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-14T21:03:19.725Z",
+      "resolved_at": null,
+      "message": "Is this step necessary?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1923:90249",
+        "node_offset": {
+          "x": 3929,
+          "y": 810
+        },
+        "stable_path": [
+          "1923:90249"
+        ]
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "1718029181",
+      "uuid": "2fab9fe0-68fc-4061-8f9d-23b8cf7ac851",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-14T21:01:52.056Z",
+      "resolved_at": null,
+      "message": "@Katie Lower per session? how does it reset?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1923:90249",
+        "node_offset": {
+          "x": 2338,
+          "y": 981
+        },
+        "stable_path": [
+          "1923:90249"
+        ]
+      },
+      "order_id": "124"
+    },
+    {
+      "id": "1718010672",
+      "uuid": "1408bd7d-1555-4c6b-9539-cb8774593191",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-04-14T20:47:03.470Z",
+      "resolved_at": null,
+      "message": "@Katie Lower do you think it's worth saying something about reopen closed tab shortcut as well?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1834:49594",
+        "node_offset": {
+          "x": 1318,
+          "y": 109
+        },
+        "stable_path": [
+          "1834:49594"
+        ]
+      },
+      "order_id": "123"
+    },
+    {
+      "id": "1717730057",
+      "uuid": "fa72f937-d65b-4939-9fee-bd7be70e3c8c",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-14T17:31:42.645Z",
+      "resolved_at": null,
+      "message": "@Steven Truong",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "845:3657",
+        "node_offset": {
+          "x": 98,
+          "y": 40
+        },
+        "stable_path": [
+          "845:3657"
+        ]
+      },
+      "order_id": "122"
+    },
+    {
+      "id": "1715837285",
+      "uuid": "23a6caef-c5ed-45f4-8981-8ab7e3f1943e",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-13T19:44:41.088Z",
+      "resolved_at": null,
+      "message": "@Steven Truong clarifying question for you. I think we are always submitting the conversation, we are not giving the user an option to not include it. Is that right?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1702:63641",
+        "node_offset": {
+          "x": 1261,
+          "y": 855
+        },
+        "stable_path": [
+          "1702:63641"
+        ]
+      },
+      "order_id": "117"
+    },
+    {
+      "id": "1715805058",
+      "uuid": "50c72245-6c3b-4872-99e5-2c42b9017405",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-04-13T19:20:00.987Z",
+      "resolved_at": null,
+      "message": "show full width chat",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "724:1061",
+        "node_offset": {
+          "x": 10719,
+          "y": 2435
+        },
+        "stable_path": [
+          "724:1061"
+        ]
+      },
+      "order_id": "116"
+    },
+    {
+      "id": "1715774260",
+      "uuid": "0a80b3b3-17e7-4e93-86c0-065c828fdfb1",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-04-13T18:56:46.742Z",
+      "resolved_at": null,
+      "message": "show what happens on close / what does cancelled state look like?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "724:1061",
+        "node_offset": {
+          "x": 7979,
+          "y": 4960
+        },
+        "stable_path": [
+          "724:1061"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "1715601959",
+      "uuid": "06f53406-f560-40b1-95a0-1af2ef6b8e13",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-04-13T16:51:27.140Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston trying out this approach that might work for both. Now saying it is the way to go, but wanted to try and see if we can use one way for both.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1761:64217",
+        "node_offset": {
+          "x": 3997,
+          "y": 2519
+        },
+        "stable_path": [
+          "1761:64217"
+        ]
+      },
+      "order_id": "113"
+    },
+    {
+      "id": "1715568167",
+      "uuid": "8c6aa2dc-9183-4846-b170-464e06b818f1",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-04-13T16:28:20.539Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston one thing I noticed here is that user already expanded collapsed content. So it is a little strange that we have collapsed content inside of the collapsed content. \nMaybe we could show at least 6-9 tabs here before we show \"+3\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1761:47913",
+        "node_offset": {
+          "x": 1262,
+          "y": 270
+        },
+        "stable_path": [
+          "1761:47913"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "1713703418",
+      "uuid": "5abbfab6-c9fc-4091-812b-f096854c576b",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-04-10T23:15:23.788Z",
+      "resolved_at": null,
+      "message": "But how does this work in full width chat? :thinking_face:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1702:61011",
+        "node_offset": {
+          "x": 1338,
+          "y": 599
+        },
+        "stable_path": [
+          "1702:61011"
+        ]
+      },
+      "order_id": "111"
+    },
+    {
+      "id": "1713702231",
+      "uuid": "e69b357e-79d4-4d81-8629-bac175537b77",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-04-10T23:11:20.199Z",
+      "resolved_at": null,
+      "message": "should the other items in the accordion still be in view?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "27:31013",
+        "node_offset": {
+          "x": 7391,
+          "y": 6273
+        },
+        "stable_path": [
+          "27:31013"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "1713653787",
+      "uuid": "fba30c4e-a097-4bff-92f3-9ff97b026ac7",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-04-10T21:27:50.432Z",
+      "resolved_at": null,
+      "message": "inline instead of modal",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "27:31013",
+        "node_offset": {
+          "x": 3099,
+          "y": 2159
+        },
+        "stable_path": [
+          "27:31013"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "1713515557",
+      "uuid": "5aea77c3-d1f3-4eb4-9305-b1c9aabfd40d",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-10T19:00:38.698Z",
+      "resolved_at": null,
+      "message": "@Katie Lower",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1662:63874",
+        "node_offset": {
+          "x": 367,
+          "y": 104
+        },
+        "stable_path": [
+          "1662:63874"
+        ]
+      },
+      "order_id": "107"
+    },
+    {
+      "id": "1713434230",
+      "uuid": "1d8cc87f-653b-4c80-8f3c-6daccea80e04",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-10T17:50:32.120Z",
+      "resolved_at": null,
+      "message": "@Katie Lower @Taylor Silva I'd love to surface the information that they can change this settings even if they have the checkbox already checked",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1639:29213",
+        "node_offset": {
+          "x": 1039,
+          "y": 633
+        },
+        "stable_path": [
+          "1639:29213"
+        ],
+        "region_width": 650,
+        "region_height": 539,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "104"
+    },
+    {
+      "id": "1713433175",
+      "uuid": "400ce92b-a5c4-43ae-aa33-cdf77f06c95b",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-10T17:49:41.179Z",
+      "resolved_at": null,
+      "message": "@Taylor Silva minor, but I'm wondering why are you aligning the icon to the middle rather than the top?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1639:29213",
+        "node_offset": {
+          "x": 517,
+          "y": 271
+        },
+        "stable_path": [
+          "1639:29213"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "1713421911",
+      "uuid": "9ba4537e-db88-4b86-8276-5695d870a982",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Loren Austin",
+        "img_url": "https://www.gravatar.com/avatar/21c3d2e70d6ad2893d363b43a77bb569?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "936361410883988161"
+      },
+      "created_at": "2026-04-10T17:40:46.554Z",
+      "resolved_at": null,
+      "message": "Similar question on whether we want to change the formatting/content of the value props. We're varying toggle/checkbox and the value props; do we want to isolate variables in testing?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "572:6301",
+        "node_offset": {
+          "x": -41868,
+          "y": -29924
+        },
+        "stable_path": [
+          "572:6301"
+        ]
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "1711383709",
+      "uuid": "226c37ef-5e71-4a64-a7b0-fcc7b671a236",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-04-09T15:23:58.439Z",
+      "resolved_at": null,
+      "message": "what happens if someone types a message in this phase?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "904:7455",
+        "node_offset": {
+          "x": 1293,
+          "y": 524
+        },
+        "stable_path": [
+          "904:7455"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "1709914832",
+      "uuid": "4cdeecaf-f08c-40c0-a889-6f6243656fe9",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Taylor Silva",
+        "img_url": "https://www.gravatar.com/avatar/c88a22764b791085ecb4edd9de69dd7e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1610120205577841625"
+      },
+      "created_at": "2026-04-08T22:59:16.684Z",
+      "resolved_at": null,
+      "message": "@Katie Lower\ntiny feedback from Ty as he is prepping UXR: the top option uses a different tense than the bottom two\n\ne.g, \"start from a blank slate and have\"\nvs. \" learns from chats\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1292:27887",
+        "node_offset": {
+          "x": 1005,
+          "y": 366
+        },
+        "stable_path": [
+          "1292:27887"
+        ]
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "1709863765",
+      "uuid": "01d63701-466c-4616-a2b1-81d9f8941532",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Bryan Mao",
+        "img_url": "https://www.gravatar.com/avatar/e6b5625d3ee39480d0359885489011ff?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1407812875222429686"
+      },
+      "created_at": "2026-04-08T21:49:28.568Z",
+      "resolved_at": null,
+      "message": "This title isn't great. Something more value-prop oriented would be better. \"More relevant information using Memories\" or something like that",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1308:25574",
+        "node_offset": {
+          "x": 1061,
+          "y": 565
+        },
+        "stable_path": [
+          "1308:25574"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "1709862702",
+      "uuid": "344bde13-d390-48ed-9a33-ae7a2e20b516",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Bryan Mao",
+        "img_url": "https://www.gravatar.com/avatar/e6b5625d3ee39480d0359885489011ff?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1407812875222429686"
+      },
+      "created_at": "2026-04-08T21:48:18.057Z",
+      "resolved_at": null,
+      "message": "Can remove part about external servers. it's a bit nuanced.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1308:25574",
+        "node_offset": {
+          "x": 1680,
+          "y": 789
+        },
+        "stable_path": [
+          "1308:25574"
+        ]
+      },
+      "order_id": "94"
+    },
+    {
+      "id": "1709861899",
+      "uuid": "9fd2347b-1f50-4c51-85e3-83e0aa11ca16",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Bryan Mao",
+        "img_url": "https://www.gravatar.com/avatar/e6b5625d3ee39480d0359885489011ff?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1407812875222429686"
+      },
+      "created_at": "2026-04-08T21:47:24.273Z",
+      "resolved_at": null,
+      "message": "Background color should match prior screen",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1308:25574",
+        "node_offset": {
+          "x": 2297,
+          "y": 774
+        },
+        "stable_path": [
+          "1308:25574"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "1709861709",
+      "uuid": "02f03419-4968-49cd-8b07-731508ae09cb",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Bryan Mao",
+        "img_url": "https://www.gravatar.com/avatar/e6b5625d3ee39480d0359885489011ff?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1407812875222429686"
+      },
+      "created_at": "2026-04-08T21:47:12.003Z",
+      "resolved_at": null,
+      "message": "Toggle section can be narrower. Maybe other ways to be slightly more understated - such as not having a background color? Not sure what can work for the understated direction...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1308:25574",
+        "node_offset": {
+          "x": 1152,
+          "y": 1165
+        },
+        "stable_path": [
+          "1308:25574"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "1709860967",
+      "uuid": "fb8705dc-8d39-47a9-b58a-3c4428c89d84",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Bryan Mao",
+        "img_url": "https://www.gravatar.com/avatar/e6b5625d3ee39480d0359885489011ff?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1407812875222429686"
+      },
+      "created_at": "2026-04-08T21:46:21.120Z",
+      "resolved_at": null,
+      "message": "Button style is different",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1308:25574",
+        "node_offset": {
+          "x": 1239,
+          "y": 1519
+        },
+        "stable_path": [
+          "1308:25574"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "1709860915",
+      "uuid": "eb5a8c0b-af8d-464a-87a1-d065f16e89ad",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Bryan Mao",
+        "img_url": "https://www.gravatar.com/avatar/e6b5625d3ee39480d0359885489011ff?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1407812875222429686"
+      },
+      "created_at": "2026-04-08T21:46:17.100Z",
+      "resolved_at": null,
+      "message": "Prob can just omit the illustration to fit the same frame as the other screen",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1308:25574",
+        "node_offset": {
+          "x": 1212,
+          "y": 343
+        },
+        "stable_path": [
+          "1308:25574"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "1709860729",
+      "uuid": "e0e268e3-47b4-453e-b428-6067cb1bd7bb",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Bryan Mao",
+        "img_url": "https://www.gravatar.com/avatar/e6b5625d3ee39480d0359885489011ff?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1407812875222429686"
+      },
+      "created_at": "2026-04-08T21:46:04.898Z",
+      "resolved_at": null,
+      "message": "Font style and color doesn't match",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1308:25574",
+        "node_offset": {
+          "x": 1288,
+          "y": 546
+        },
+        "stable_path": [
+          "1308:25574"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "1709760007",
+      "uuid": "283c5650-cd90-45de-864d-c302635a0f64",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-04-08T20:18:40.554Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston @Emanuela Damiani in this approach we will end up with a different length of chips and we would need to layout them differently.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1333:22672",
+        "node_offset": {
+          "x": 1276,
+          "y": 323
+        },
+        "stable_path": [
+          "1333:22672"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "1709757996",
+      "uuid": "826e03d2-4501-48a5-aa24-0ed8b7848fad",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-04-08T20:17:09.845Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston @Emanuela Damiani I think I prefer this approach for mentions in chat. I think it is much more compact version. We won't have any problem with layout because it is only 1 element that opens as a menu.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1263:23505",
+        "node_offset": {
+          "x": 1325,
+          "y": 301
+        },
+        "stable_path": [
+          "1263:23505"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "1709736732",
+      "uuid": "16434e01-ccbf-4e1f-b3e1-54eb7cada3e1",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Loren Austin",
+        "img_url": "https://www.gravatar.com/avatar/21c3d2e70d6ad2893d363b43a77bb569?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "936361410883988161"
+      },
+      "created_at": "2026-04-08T20:00:40.309Z",
+      "resolved_at": null,
+      "message": "\"memories stay on this device\" this is a tricky needle to thread. It isn't entirely true as memories will be sent as part of chats where they are applied; would \"are stored\" be ok to substitute for \"stay\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1292:27887",
+        "node_offset": {
+          "x": 828,
+          "y": 240
+        },
+        "stable_path": [
+          "1292:27887"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "1709314599",
+      "uuid": "7222a33f-2912-4681-b0e9-1d6bc4ebe83c",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-04-08T15:27:46.125Z",
+      "resolved_at": null,
+      "message": "Possible body riff to shorten (OPO)\n\n* A tight option: Choose an open-source model to power Smart Window. Switch anytime. (then you can cut out the extra headline below the body) \n* Slightly more educational: Smart Window uses open-source models. Pick one and switch anytime. (do we need to say 3? even for a11y purposes, it'd read out all 3 so maybe it's self-explanatory?)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1068:21166",
+        "node_offset": {
+          "x": 939,
+          "y": 229
+        },
+        "stable_path": [
+          "1068:21166"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "1709285144",
+      "uuid": "c53743ec-4573-48a6-8be6-a6ef7f0097ba",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-04-08T15:14:27.068Z",
+      "resolved_at": null,
+      "message": "Small edit: \"when you start chatting\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1068:21021",
+        "node_offset": {
+          "x": 809,
+          "y": 406
+        },
+        "stable_path": [
+          "1068:21021"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "1707904229",
+      "uuid": "a1219014-2b89-4ac2-ada9-d5fe8903f699",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2026-04-08T00:47:12.272Z",
+      "resolved_at": null,
+      "message": "Bolded terms felt a bit distracting so removed those. Removed \"you stay in control\" because it feels like we covered that well enough with the details on turning memories off.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1081:21056",
+        "node_offset": {
+          "x": 960,
+          "y": 216
+        },
+        "stable_path": [
+          "1081:21056"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "1707903831",
+      "uuid": "0b22812f-81e4-4bd1-91bd-00bbc1956dcf",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2026-04-08T00:46:26.986Z",
+      "resolved_at": null,
+      "message": "Given the heaviness of the content, \"Let's go!\" now felt a bit off-tone so neutralized it",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1081:21056",
+        "node_offset": {
+          "x": 824,
+          "y": 804
+        },
+        "stable_path": [
+          "1081:21056"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1707891946",
+      "uuid": "51460955-8f02-44bc-8373-e82d3cfb59a8",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2026-04-08T00:25:18.757Z",
+      "resolved_at": null,
+      "message": "Sent a slack note about model comparison",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1081:21152",
+        "node_offset": {
+          "x": 886,
+          "y": 488
+        },
+        "stable_path": [
+          "1081:21152"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1707889296",
+      "uuid": "f301dfe3-f0e1-456d-ab68-b927d994f9b6",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2026-04-08T00:20:25.632Z",
+      "resolved_at": null,
+      "message": "@Katie Lower Riff done! Rationale for changes: \n* Shortened up headline and tried a different verb so the two screens don't lead with the same verb, risking a flattening. Brought \"you/your\" into both to emphasize a control aspect. \n* Consolidated body copies into one chunk and made it focused on the model selection details. \n* Want to say something about why open source matters... took a weak swing. Why does open source matter in this case? \n* Emphasized \"control\" in the connect-model line.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1081:21152",
+        "node_offset": {
+          "x": 872,
+          "y": 126
+        },
+        "stable_path": [
+          "1081:21152"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1707711868",
+      "uuid": "1d800eb7-8608-4dc7-869e-877578f3c718",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-04-07T20:33:19.080Z",
+      "resolved_at": null,
+      "message": "I think the second sentence here would be more clear without the question: \"We'll use your recent Firefox history to create initial memories.\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1068:21021",
+        "node_offset": {
+          "x": 890,
+          "y": 500
+        },
+        "stable_path": [
+          "1068:21021"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1707709616",
+      "uuid": "d4c760c6-af04-4497-844b-8e33d2be3e2e",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-04-07T20:31:26.926Z",
+      "resolved_at": null,
+      "message": "Would cut first part before the comma -- i think the second part if clear",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-04-08T15:14:33.963Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1068:21021",
+        "node_offset": {
+          "x": 782,
+          "y": 632
+        },
+        "stable_path": [
+          "1068:21021"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1707706812",
+      "uuid": "14ec4559-65f1-4617-9d89-dbbf037e9a86",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-04-07T20:29:13.560Z",
+      "resolved_at": null,
+      "message": "Riff on intro graph -- aiming for less em dashes and bolding and using a paragraph break for readability:\n\nSmart Window can give more helpful responses when it creates memories based on your activity.\n\nTo protect your privacy, memories stay on this device. You're always in control: view delete, or turn them off any time. Learn more",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "986:20845",
+        "node_offset": {
+          "x": 3324,
+          "y": 416
+        },
+        "stable_path": [
+          "986:20845"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1705875156",
+      "uuid": "93ee53c3-ba99-4fdf-95a0-d6f8be370d85",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-04-06T23:57:59.078Z",
+      "resolved_at": null,
+      "message": "we need nova designs for this",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1007:15936",
+        "node_offset": {
+          "x": 630,
+          "y": 451
+        },
+        "stable_path": [
+          "1007:15936"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1705862753",
+      "uuid": "4a32f176-a5b2-453c-bfff-f9a5f30277bc",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-04-06T23:34:01.950Z",
+      "resolved_at": null,
+      "message": "does it look better to have items flush to the left / with overflow at 2+?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1003:8950",
+        "node_offset": {
+          "x": 1228,
+          "y": 321
+        },
+        "stable_path": [
+          "1003:8950"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1705414788",
+      "uuid": "1e9a5097-3c77-49c0-9a18-b6b223ffbe68",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2026-04-06T16:14:41.740Z",
+      "resolved_at": null,
+      "message": "I'm not sure the implications of \"stay on this device\" are super clear to a non techy person. Would maybe suggest riffs to make our privacy guarantee clearer",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "878:31170",
+        "node_offset": {
+          "x": 527,
+          "y": 224
+        },
+        "stable_path": [
+          "878:31170"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1705411046",
+      "uuid": "5c38ce4b-6f2f-488d-a50a-58b0c8f1c3a8",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2026-04-06T16:11:46.511Z",
+      "resolved_at": null,
+      "message": "what are the privacy implications associated with these models? like, will I be less private if I pick the OpenAI or Google one vs. the Alibaba one?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "878:31351",
+        "node_offset": {
+          "x": 880,
+          "y": 333
+        },
+        "stable_path": [
+          "878:31351"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1705409333",
+      "uuid": "3e7235f1-eeee-4a45-a2c8-6ef6490a1328",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2026-04-06T16:10:24.660Z",
+      "resolved_at": null,
+      "message": "I think this headline and the one to the left are good, but this one is slightly more clear imo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "895:32864",
+        "node_offset": {
+          "x": 516,
+          "y": 160
+        },
+        "stable_path": [
+          "895:32864"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1705408152",
+      "uuid": "a9eee3e7-b8f7-430e-b983-e2b031d261ba",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2026-04-06T16:09:24.823Z",
+      "resolved_at": null,
+      "message": "this one much clearer than the one to the right",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "878:31170",
+        "node_offset": {
+          "x": 1275,
+          "y": 357
+        },
+        "stable_path": [
+          "878:31170"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1703814967",
+      "uuid": "a1dfc13d-3d59-4614-8da1-cfd8f42e7120",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-03T16:12:32.983Z",
+      "resolved_at": null,
+      "message": "@Taylor Silva @Katie Lower I made a quick riff here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "859:35706",
+        "node_offset": {
+          "x": 630,
+          "y": 421
+        },
+        "stable_path": [
+          "859:35706"
+        ],
+        "region_width": 2520,
+        "region_height": 588,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1702706899",
+      "uuid": "5de641fe-9fc4-4af4-a56a-eff12c5c9b68",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-04-02T19:10:13.425Z",
+      "resolved_at": null,
+      "message": "Would this option potentially be the more private option? \n\nCould help strike a balance between ppl who want to try smart window but dont want it rooting around in your history",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "791:31212",
+        "node_offset": {
+          "x": 488,
+          "y": 542
+        },
+        "stable_path": [
+          "791:31212"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1702695831",
+      "uuid": "133b1670-1227-409d-b05a-a29a3feb8849",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-04-02T19:00:24.079Z",
+      "resolved_at": null,
+      "message": "writing down my audible comment:\n\ngiven choice is our primary framing or differentiation with AI in Firefox, giving users the option could (a) reinforce that and (b) make people feel more invested in the experience up front.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-04-02T23:54:45.974Z",
+          "user": {
+            "id": "1169379060174051036",
+            "handle": "Katie Lower",
+            "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "806:30630",
+        "node_offset": {
+          "x": 1232,
+          "y": 414
+        },
+        "stable_path": [
+          "806:30630"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1702693754",
+      "uuid": "3749793e-085d-466a-a1db-31ecb7bf0d6a",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-04-02T18:58:41.893Z",
+      "resolved_at": null,
+      "message": "+1 to emily that these feels really clear",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "806:30630",
+        "node_offset": {
+          "x": 1149,
+          "y": 251
+        },
+        "stable_path": [
+          "806:30630"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1702693268",
+      "uuid": "ceffaf21-063a-4fa1-8fc0-6e098132876f",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-04-02T18:58:18.071Z",
+      "resolved_at": null,
+      "message": "Riff: Creates memories and learns from you and personalizes responses in real-time",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "791:31212",
+        "node_offset": {
+          "x": 763,
+          "y": 556
+        },
+        "stable_path": [
+          "791:31212"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "1702692012",
+      "uuid": "de1b36e2-4a33-4028-9e57-8ae12ca46b86",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-04-02T18:57:14.952Z",
+      "resolved_at": null,
+      "message": "One of the pillars from the p+s writing guidelines is to emphasize control. Perhaps we pull that in here more?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "791:31212",
+        "node_offset": {
+          "x": 1047,
+          "y": 289
+        },
+        "stable_path": [
+          "791:31212"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1702691098",
+      "uuid": "6f08c6b5-cd5a-48a2-ac68-3b5cf58cdbda",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-04-02T18:56:32.346Z",
+      "resolved_at": null,
+      "message": "i think you need a brief statement or example to define what a memory is right here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "790:33445",
+        "node_offset": {
+          "x": 900,
+          "y": 256.9990234375
+        },
+        "stable_path": [
+          "790:33445"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1702690889",
+      "uuid": "55a0961e-5e9b-4e21-9829-e50d5da9b0c3",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-04-02T18:56:22.247Z",
+      "resolved_at": null,
+      "message": "Can we clarify what on your device entails?\n\nInfo isn't sent anywhere etc etc",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "790:33445",
+        "node_offset": {
+          "x": 1068,
+          "y": 461.9990234375
+        },
+        "stable_path": [
+          "790:33445"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1702688862",
+      "uuid": "43fa8067-dd76-4e22-bae8-20b61fa123d8",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-04-02T18:54:47.935Z",
+      "resolved_at": null,
+      "message": "This statement at the bottom feels pretty important but buried right now. This will be the foundation of SW right? How can it be more prominent and clear AND framed as a benefit?",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-04-02T18:56:37.199Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "790:33445",
+        "node_offset": {
+          "x": 1028,
+          "y": 684.9990234375
+        },
+        "stable_path": [
+          "790:33445"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1702687645",
+      "uuid": "4fe5ca1c-2dd2-4a78-8e67-516b67c64352",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-04-02T18:53:52.026Z",
+      "resolved_at": null,
+      "message": "to be clear, this version just defaults to \"Learn from both?\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "790:33445",
+        "node_offset": {
+          "x": 1194,
+          "y": 547.9990234375
+        },
+        "stable_path": [
+          "790:33445"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1702686736",
+      "uuid": "9c60b9b4-0973-49d8-88d4-205c3ba5df89",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-04-02T18:53:09.178Z",
+      "resolved_at": null,
+      "message": "This reminds me of DDG disclosure for their AI chat, which is super effective",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "790:33445",
+        "node_offset": {
+          "x": 830,
+          "y": 122.9990234375
+        },
+        "stable_path": [
+          "790:33445"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1702686453",
+      "uuid": "c9d71dcd-967b-49ca-a160-ccac5de786c1",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-04-02T18:52:55.647Z",
+      "resolved_at": null,
+      "message": "This versions feels like it has the most opportunity to layer on the benefits without it feeling subjective\n\ne.g. like the \"...to help protect your privacy\" like.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "790:33445",
+        "node_offset": {
+          "x": 1248,
+          "y": 227.9990234375
+        },
+        "stable_path": [
+          "790:33445"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1702685765",
+      "uuid": "d7e5e455-0253-4705-b4fc-a64061b7b444",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-04-02T18:52:22.123Z",
+      "resolved_at": null,
+      "message": "maybe there is conditional copy when you select \"no memories\" and it tells you what the impact of this is...",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-04-02T19:02:39.136Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-04-02T19:02:36.936Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "806:30630",
+        "node_offset": {
+          "x": 855,
+          "y": 659
+        },
+        "stable_path": [
+          "806:30630"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1702684739",
+      "uuid": "7aa9711b-2fbe-40aa-946a-b46c24c423ea",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-04-02T18:51:33.628Z",
+      "resolved_at": null,
+      "message": "How much info is it pulling from? Like... everything?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "791:31212",
+        "node_offset": {
+          "x": 1108,
+          "y": 566
+        },
+        "stable_path": [
+          "791:31212"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1702684106",
+      "uuid": "3077c2b7-fb6f-49a0-91c2-1fed49c6d452",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-04-02T18:51:03.560Z",
+      "resolved_at": null,
+      "message": "For these descriptions, what is the benefit to the user of choosing each option? What are the drawbacks?",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-04-02T18:57:31.521Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "791:31212",
+        "node_offset": {
+          "x": 834,
+          "y": 557
+        },
+        "stable_path": [
+          "791:31212"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "1702683284",
+      "uuid": "cc83bb20-c4b8-4dbb-a891-4cc20d4f7800",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-04-02T18:50:24.598Z",
+      "resolved_at": null,
+      "message": "I think this option needs more description. e.g. \"Less personal responses\"",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-04-02T18:50:36.138Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-04-02T19:51:19.783Z",
+          "user": {
+            "id": "1169379060174051036",
+            "handle": "Katie Lower",
+            "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-04-02T18:50:44.689Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "791:31212",
+        "node_offset": {
+          "x": 370,
+          "y": 551
+        },
+        "stable_path": [
+          "791:31212"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1700783277",
+      "uuid": "29b79367-0dc6-453c-bb97-5db11930e84f",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-01T18:47:55.366Z",
+      "resolved_at": null,
+      "message": "@Taylor Silva",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "27:31015",
+        "node_offset": {
+          "x": 1252,
+          "y": 742
+        },
+        "stable_path": [
+          "27:31015"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "1700757328",
+      "uuid": "940a5a87-baa8-4b11-a0f8-f91d8ff54472",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-04-01T18:29:51.291Z",
+      "resolved_at": null,
+      "message": "can we claude prototype this",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "738:6788",
+        "node_offset": {
+          "x": 55,
+          "y": 34
+        },
+        "stable_path": [
+          "738:6788"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1700499325",
+      "uuid": "549ef594-c5d5-444e-b26e-a2e905c8a708",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-04-01T15:43:16.674Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston this is minor, but can we mock in dark mode, please?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "724:1061",
+        "node_offset": {
+          "x": 395,
+          "y": 130
+        },
+        "stable_path": [
+          "724:1061"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1698193925",
+      "uuid": "dae1888c-f076-4da5-b33c-ab4de28aeb67",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-31T13:34:26.935Z",
+      "resolved_at": null,
+      "message": "prototype had a list of tabs that included 'x' button in each option. 'Your open tabs' would be a button that expands/collapses. Markup should have a list with the tabs inside",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "422:496",
+        "node_offset": {
+          "x": 659,
+          "y": 3222
+        },
+        "stable_path": [
+          "422:496"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1696437811",
+      "uuid": "dbb084da-71d4-4aa8-bc54-bc244c5a8fbb",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-30T15:35:11.061Z",
+      "resolved_at": null,
+      "message": "another note, though this applies more to Smart Window as a whole, we want keyboard focus to remain in 'Ask, search, or type a URL' textbox after they send a message and when the AI sends a message\n\ncc @Paige Ormiston",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-03-31T20:20:57.040Z",
+          "user": {
+            "id": "1093246043853427875",
+            "handle": "Paige Ormiston",
+            "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "422:496",
+        "node_offset": {
+          "x": 282,
+          "y": 1002
+        },
+        "stable_path": [
+          "422:496"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1696369295",
+      "uuid": "25dbcdb4-5e18-490f-9bcd-40cfe2698dfb",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-30T15:00:58.644Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston does this '+' do anything? is it a button or just a static icon?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "316:900",
+        "node_offset": {
+          "x": 512,
+          "y": 113
+        },
+        "stable_path": [
+          "316:900"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1696361709",
+      "uuid": "8e4bcb7e-5bc1-4a1c-887c-ab0199bc97c7",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-30T14:57:24.048Z",
+      "resolved_at": null,
+      "message": "flagging this since the text is cut off by '...' in it's default state. we will want to have a method for the user to be able to access the full text. \n\n@Paige Ormiston does the 'Always cite sources ...' box link to anything?\n\nsource: WCAG 1.4.12 Text Spacing (https://www.w3.org/WAI/WCAG22/Understanding/text-spacing.html)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "316:896",
+        "node_offset": {
+          "x": 771,
+          "y": 207
+        },
+        "stable_path": [
+          "316:896"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1696306435",
+      "uuid": "577971fa-9477-462a-aea0-23a1faa1bdf5",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-30T14:32:25.908Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston - thank you for laying these out! I saw another comment on here where you said the prototype is the most up to date version of things but wanted to see if there was anything in this section you would still like addressed? :sparkle:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "171:137",
+        "node_offset": {
+          "x": 2336,
+          "y": 234
+        },
+        "stable_path": [
+          "171:137"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1696300994",
+      "uuid": "e1a08eba-c86b-4e85-9bd4-93311d23577c",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-30T14:29:55.992Z",
+      "resolved_at": null,
+      "message": "as soon as this message appears on screen visually, we want to make sure to communicate this to screenreader users\ncc @Paige Ormiston",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "522:630",
+        "node_offset": {
+          "x": 732,
+          "y": 142
+        },
+        "stable_path": [
+          "522:630"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1696299014",
+      "uuid": "8945541f-3d82-49a0-b433-d294c49b8e34",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-30T14:29:08.836Z",
+      "resolved_at": null,
+      "message": "for the 'x' button, we'll want to make sure the touch target size is at least 24 x 24 CSS pixels :grin: \ncc @Paige Ormiston",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "522:630",
+        "node_offset": {
+          "x": 877,
+          "y": 146
+        },
+        "stable_path": [
+          "522:630"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1696282959",
+      "uuid": "2cf72b5d-d5c5-4d4f-91d3-cb6f2c4594b5",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-30T14:22:12.527Z",
+      "resolved_at": null,
+      "message": "whenever we get to the design review/annotations part, we will want to mark this button up as disabled when there are 0 checkboxes checked\ncc @Paige Ormiston",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "422:501",
+        "node_offset": {
+          "x": 418,
+          "y": 436
+        },
+        "stable_path": [
+          "422:501"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1696167242",
+      "uuid": "77e47526-9b8c-4fbc-aec7-f2ee8c747df8",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-30T13:30:41.113Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston - this would be a case where I'd want to point out timing (going back to this comment --> https://www.figma.com/design/75Z1LtkCEUJWCxoY2KyNHv?node-id=151-1279#1694523961)\n\nI just want to add the comment as a reminder so let me know if you have any questions. For this I'd recommend finding a way to achieve this without a timer (for screenreader users, magnification users, cognitive disabilities, motor disabilities - https://www.w3.org/WAI/WCAG21/Understanding/no-timing)\nIf the timer is a must, we should adjust the countdown time to 20 seconds with a way to pause/stop the countdown too.\n\nthank you! :sparkles:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "422:505",
+        "node_offset": {
+          "x": 403,
+          "y": 271
+        },
+        "stable_path": [
+          "422:505"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1694549441",
+      "uuid": "0b045e6a-7b35-4ddc-99c0-ef99853916ed",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-27T20:49:38.804Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston - this applies to the instances where the Undo button can be found in the chat, but I think this is the best use from the A11y side. There's no time limit, keyboard users won't have a lot of focus stops to get to the Undo button, screenreader users can get to it quickly as well, and if a magnification user's view is already in the chat, it's likely they'll see this quickly :sparkle:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "422:498",
+        "node_offset": {
+          "x": 803,
+          "y": 299
+        },
+        "stable_path": [
+          "422:498"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1694540402",
+      "uuid": "0d315167-8824-4843-8a9a-8913df0202f2",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-27T20:38:59.844Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston - would there be any chance of changing the first 'Closed tabs' to Action Log or something similar? this doesn't fail anything a11y wise but I wonder if the redundant names could cause some confusion. what do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "422:497",
+        "node_offset": {
+          "x": 360,
+          "y": 225
+        },
+        "stable_path": [
+          "422:497"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1694530805",
+      "uuid": "fc944281-7287-4a39-b1b3-2211be4d7819",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-27T20:28:41.812Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston when it comes to this version and 'Close current tab' in v2 (or even in the prototype), I do like this for the sake of accessibility. There's no time limit here and gives a confirmation message in case the user made a mistake or changes their mind. \n\nI would say if they choose to close the tab, adding this to the Action log or just some 'this has been closed' type of message would be great to let the user know. \n* Users with cognitive disabilities benefit  -if a user struggles with memory they're reminded it's closed.\n* Screenreader users benefit  -the text would be available for them to navigate to\n* magnification users benefit  -removes the need to check the tab strip to determine if the tab was closed\n\nIf you have any questions, please let me know! :star:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "182:198",
+        "node_offset": {
+          "x": 532,
+          "y": 201
+        },
+        "stable_path": [
+          "182:198"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1694523961",
+      "uuid": "9eb3e0a4-cc48-41c2-863a-fbe6df6b9625",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-27T20:21:20.122Z",
+      "resolved_at": null,
+      "message": "hi @Paige Ormiston ! I'm putting this comment here since I know the topic of 'timer', 'countdown' and such is used in several areas. \n\nBased off of WCAG 2.2.3 No Timing (https://www.w3.org/WAI/WCAG21/Understanding/no-timing) we want to avoid the use of time limits as much as possible. It can impact multiple user groups and assistive tech users - those with physical disabilities, cognitive disabilities, screenreader users, those with low vision, magnification users. \n\nIf a timer/time limit needs to be added, we want to make sure we're giving enough time and an option for users to add more time if they need it (like pausing or stopping the countdown) / source: https://www.w3.org/WAI/WCAG21/Understanding/timing-adjustable.html\n\nPlease let me know if you have any additional questions on this. thank you! :grin:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "151:1279",
+        "node_offset": {
+          "x": -1203,
+          "y": -1470
+        },
+        "stable_path": [
+          "151:1279"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1694463053",
+      "uuid": "b2e6d347-d198-4f10-975e-9dd55e86c3c0",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-27T19:22:16.851Z",
+      "resolved_at": null,
+      "message": "hey @Paige Ormiston ! I see the line about no history carrying over. is there any method to undo the action or an Action log that would be available?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "422:505",
+        "node_offset": {
+          "x": 998,
+          "y": 299
+        },
+        "stable_path": [
+          "422:505"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1694316715",
+      "uuid": "b098c29e-7d68-402c-bc52-7e592b78717d",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-27T17:23:22.084Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston is the 'Action log' not interactive when the user chooses 'Cancel'?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "422:502",
+        "node_offset": {
+          "x": 403,
+          "y": 179
+        },
+        "stable_path": [
+          "422:502"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1694315772",
+      "uuid": "341e8e8e-eff4-4b96-a708-f7a56392c676",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-27T17:22:42.973Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston will the user be able to type their response to close a tab as well? or only by the multiselect picker?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "422:501",
+        "node_offset": {
+          "x": 380,
+          "y": 344
+        },
+        "stable_path": [
+          "422:501"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1694312281",
+      "uuid": "e254b2cc-a222-45a5-a4d2-f854504e9ded",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-27T17:20:10.877Z",
+      "resolved_at": null,
+      "message": "hey @Paige Ormiston ! I notice that in this 'tab management v1' section of Figma we have this ghosted tab with the undo timer. but in the prototype, it looks like this doesn't exist. is the tab and undo timer still being considered or implemented?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "175:142",
+        "node_offset": {
+          "x": 233,
+          "y": 29
+        },
+        "stable_path": [
+          "175:142"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1692873921",
+      "uuid": "33074d0d-ca0c-4cef-9b36-6446a49373d6",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-03-26T22:15:40.940Z",
+      "resolved_at": null,
+      "message": "@Taylor Silva I don't mind this wild card from a long hanging fruit pov",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "604:9993",
+        "node_offset": {
+          "x": 440,
+          "y": 423
+        },
+        "stable_path": [
+          "604:9993"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1690330581",
+      "uuid": "26b1d1cf-1697-47a5-a9fc-a0c1bd92991a",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-03-25T16:31:53.829Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova I capture how others are displaying tables in the sidebar",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "515:5379",
+        "node_offset": {
+          "x": 991,
+          "y": 73
+        },
+        "stable_path": [
+          "515:5379"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1676516047",
+      "uuid": "90491801-47e8-4824-99aa-409c5448aa7a",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-03-16T20:58:34.642Z",
+      "resolved_at": null,
+      "message": "how will longer memories impact UI here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "316:901",
+        "node_offset": {
+          "x": 624,
+          "y": 143
+        },
+        "stable_path": [
+          "316:901"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1676514272",
+      "uuid": "7c759453-8f98-41f4-8c34-8571389bbb72",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-03-16T20:57:06.986Z",
+      "resolved_at": null,
+      "message": "it would be helpful for ML if the user could edit a memory if the generated one wasn't correct ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "316:901",
+        "node_offset": {
+          "x": 565,
+          "y": 141
+        },
+        "stable_path": [
+          "316:901"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1676504329",
+      "uuid": "1366e07f-c519-41c1-a09c-fcfc0e2a56af",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-03-16T20:49:09.249Z",
+      "resolved_at": null,
+      "message": "timer pause?",
+      "reactions": [
+        {
+          "emoji": ":hearts:",
+          "created_at": "2026-03-27T20:30:05.362Z",
+          "user": {
+            "id": "1423002262484994562",
+            "handle": "Natalie Stroud",
+            "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "182:200",
+        "node_offset": {
+          "x": 230,
+          "y": 24
+        },
+        "stable_path": [
+          "182:200"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1676502172",
+      "uuid": "5fb90425-ad64-4b60-afb5-f5e26864b2ea",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-03-16T20:47:26.314Z",
+      "resolved_at": null,
+      "message": "make sure this affordance supports a11y",
+      "reactions": [
+        {
+          "emoji": ":hearts:",
+          "created_at": "2026-03-26T19:07:28.114Z",
+          "user": {
+            "id": "1423002262484994562",
+            "handle": "Natalie Stroud",
+            "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "182:200",
+        "node_offset": {
+          "x": 272,
+          "y": 24
+        },
+        "stable_path": [
+          "182:200"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1676494212",
+      "uuid": "95e35911-5719-4d8e-9c47-4dbb8726b012",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-03-16T20:41:09.149Z",
+      "resolved_at": null,
+      "message": "would doing reopen tabs shortcut reopen all of them or one at a time?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "313:138",
+        "node_offset": {
+          "x": 248,
+          "y": 25
+        },
+        "stable_path": [
+          "313:138"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1676492600",
+      "uuid": "b4fa5d3b-475d-436b-b8aa-4870ab86b38a",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-03-16T20:39:54.177Z",
+      "resolved_at": null,
+      "message": "could this have a timer as well",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "182:198",
+        "node_offset": {
+          "x": 671,
+          "y": 226
+        },
+        "stable_path": [
+          "182:198"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1675991873",
+      "uuid": "391d4e47-2ae0-4337-8c40-e916dba49efa",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2026-03-16T15:25:33.077Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston - Seeing the \"thinking' string for the tab management flow, one might be appropriate here, too like \n\nSearching memories...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "316:888",
+        "node_offset": {
+          "x": 850,
+          "y": 160
+        },
+        "stable_path": [
+          "316:888"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1675972929",
+      "uuid": "12aebc53-74d0-40d8-9409-072fe0fde682",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2026-03-16T15:17:21.144Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston - The user's request is really clear / unambiguous here - and this interaction feels like a a disambiguation pattern. I think there might be some lighter weight interaction options to explore that don't require the user to confirm. For example, I wonder if something more like a 'countdown' / the ghost idea would better suit. \n\nUser: Close this tab\nSystem: Closing now... (with some progress indicator maybe? a bar or circle filling in?) and a \"Cancel\" button to stop it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "184:205",
+        "node_offset": {
+          "x": 31.5,
+          "y": 217.5
+        },
+        "stable_path": [
+          "184:205"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1675937229",
+      "uuid": "8e6315b8-e7f1-4063-abc0-9e4282eb82de",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2026-03-16T15:01:20.441Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston - Could the user click / expand here and see which three tabs?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "313:138",
+        "node_offset": {
+          "x": 727,
+          "y": 167
+        },
+        "stable_path": [
+          "313:138"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1674173330",
+      "uuid": "56eba351-7954-4152-b919-7969dded8a9e",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-03-13T22:38:19.279Z",
+      "resolved_at": null,
+      "message": "imo cancel works for this. if the memory generated is incorrect, they can just say no that's not right",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "316:901",
+        "node_offset": {
+          "x": 653,
+          "y": 177
+        },
+        "stable_path": [
+          "316:901"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1674170701",
+      "uuid": "15f85a62-32dd-4d17-9abc-5019a2aa8a78",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-03-13T22:32:23.476Z",
+      "resolved_at": null,
+      "message": "select all -> delete",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "316:888",
+        "node_offset": {
+          "x": 768,
+          "y": 292
+        },
+        "stable_path": [
+          "316:888"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1674169801",
+      "uuid": "a2b6cafc-b493-4a76-898f-ef0bc6b8f662",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-03-13T22:30:24.591Z",
+      "resolved_at": null,
+      "message": "what is the max # of memories we will show here? what if there's overflow?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "316:888",
+        "node_offset": {
+          "x": 680,
+          "y": 250
+        },
+        "stable_path": [
+          "316:888"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1669862246",
+      "uuid": "d9de6831-10f9-49db-9d4b-c43eadd9511a",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-03-11T17:46:13.090Z",
+      "resolved_at": null,
+      "message": "can this go to visual history?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "175:179",
+        "node_offset": {
+          "x": 766,
+          "y": 198
+        },
+        "stable_path": [
+          "175:179"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1669860057",
+      "uuid": "3f6e724f-c893-4b96-af63-7b2e0f9b907e",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-03-11T17:44:57.740Z",
+      "resolved_at": null,
+      "message": "works better as action log",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "175:163",
+        "node_offset": {
+          "x": 807,
+          "y": 153
+        },
+        "stable_path": [
+          "175:163"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1669856315",
+      "uuid": "87e5ba2e-73f7-4481-afe9-5435245a193c",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-03-11T17:42:50.053Z",
+      "resolved_at": null,
+      "message": "what happens when history is cleared",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "175:143",
+        "node_offset": {
+          "x": 761,
+          "y": 233
+        },
+        "stable_path": [
+          "175:143"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1669855348",
+      "uuid": "357d18f2-9fbd-4ada-b702-46bef3c48337",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-03-11T17:42:19.006Z",
+      "resolved_at": null,
+      "message": "recently closed would be between 20-25 sites in history",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "175:143",
+        "node_offset": {
+          "x": 709,
+          "y": 168
+        },
+        "stable_path": [
+          "175:143"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1669848227",
+      "uuid": "4dda134c-7eee-4057-910d-21f08d4ebd6b",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-03-11T17:38:19.276Z",
+      "resolved_at": null,
+      "message": "can be retrieved thru recently closed tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "175:181",
+        "node_offset": {
+          "x": 728,
+          "y": 367
+        },
+        "stable_path": [
+          "175:181"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1669700556",
+      "uuid": "e0dfd7ad-bcf2-444c-af17-6b6e711a3a20",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-03-11T16:20:46.732Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston when you add screenshots here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "39:2744",
+        "node_offset": {
+          "x": 1714,
+          "y": 594
+        },
+        "stable_path": [
+          "39:2744"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1669695343",
+      "uuid": "44ca3ba2-8742-4415-8c7f-b41465092ab1",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-03-11T16:18:18.783Z",
+      "resolved_at": null,
+      "message": "@Emanuela Damiani to check with Steve why Eng wasn't sure about download report",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "30:2357",
+        "node_offset": {
+          "x": 193,
+          "y": 288
+        },
+        "stable_path": [
+          "30:2357"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1669653526",
+      "uuid": "c3a0e787-b966-4e88-bc15-3e705131d7ce",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-03-11T15:58:36.343Z",
+      "resolved_at": null,
+      "message": "cute!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "153:1299",
+        "node_offset": {
+          "x": 126,
+          "y": 186
+        },
+        "stable_path": [
+          "153:1299"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1709314599",
+      "uuid": "7222a33f-2912-4681-b0e9-1d6bc4ebe83c",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-04-08T15:27:46.125Z",
+      "resolved_at": null,
+      "message": "Possible body riff to shorten (OPO)\n\n* A tight option: Choose an open-source model to power Smart Window. Switch anytime. (then you can cut out the extra headline below the body) \n* Slightly more educational: Smart Window uses open-source models. Pick one and switch anytime. (do we need to say 3? even for a11y purposes, it'd read out all 3 so maybe it's self-explanatory?)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1068:21166",
+        "node_offset": {
+          "x": 939,
+          "y": 229
+        },
+        "stable_path": [
+          "1068:21166"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "1698193925",
+      "uuid": "dae1888c-f076-4da5-b33c-ab4de28aeb67",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-31T13:34:26.935Z",
+      "resolved_at": null,
+      "message": "prototype had a list of tabs that included 'x' button in each option. 'Your open tabs' would be a button that expands/collapses. Markup should have a list with the tabs inside",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "422:496",
+        "node_offset": {
+          "x": 659,
+          "y": 3222
+        },
+        "stable_path": [
+          "422:496"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1696437811",
+      "uuid": "dbb084da-71d4-4aa8-bc54-bc244c5a8fbb",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-30T15:35:11.061Z",
+      "resolved_at": null,
+      "message": "another note, though this applies more to Smart Window as a whole, we want keyboard focus to remain in 'Ask, search, or type a URL' textbox after they send a message and when the AI sends a message\n\ncc @Paige Ormiston",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2026-03-31T20:20:57.040Z",
+          "user": {
+            "id": "1093246043853427875",
+            "handle": "Paige Ormiston",
+            "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "422:496",
+        "node_offset": {
+          "x": 282,
+          "y": 1002
+        },
+        "stable_path": [
+          "422:496"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1696369295",
+      "uuid": "25dbcdb4-5e18-490f-9bcd-40cfe2698dfb",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-30T15:00:58.644Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston does this '+' do anything? is it a button or just a static icon?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "316:900",
+        "node_offset": {
+          "x": 512,
+          "y": 113
+        },
+        "stable_path": [
+          "316:900"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1696361709",
+      "uuid": "8e4bcb7e-5bc1-4a1c-887c-ab0199bc97c7",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-30T14:57:24.048Z",
+      "resolved_at": null,
+      "message": "flagging this since the text is cut off by '...' in it's default state. we will want to have a method for the user to be able to access the full text. \n\n@Paige Ormiston does the 'Always cite sources ...' box link to anything?\n\nsource: WCAG 1.4.12 Text Spacing (https://www.w3.org/WAI/WCAG22/Understanding/text-spacing.html)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "316:896",
+        "node_offset": {
+          "x": 771,
+          "y": 207
+        },
+        "stable_path": [
+          "316:896"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1696306435",
+      "uuid": "577971fa-9477-462a-aea0-23a1faa1bdf5",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-30T14:32:25.908Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston - thank you for laying these out! I saw another comment on here where you said the prototype is the most up to date version of things but wanted to see if there was anything in this section you would still like addressed? :sparkle:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "171:137",
+        "node_offset": {
+          "x": 2336,
+          "y": 234
+        },
+        "stable_path": [
+          "171:137"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1696300994",
+      "uuid": "e1a08eba-c86b-4e85-9bd4-93311d23577c",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-30T14:29:55.992Z",
+      "resolved_at": null,
+      "message": "as soon as this message appears on screen visually, we want to make sure to communicate this to screenreader users\ncc @Paige Ormiston",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "522:630",
+        "node_offset": {
+          "x": 732,
+          "y": 142
+        },
+        "stable_path": [
+          "522:630"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1696299014",
+      "uuid": "8945541f-3d82-49a0-b433-d294c49b8e34",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-30T14:29:08.836Z",
+      "resolved_at": null,
+      "message": "for the 'x' button, we'll want to make sure the touch target size is at least 24 x 24 CSS pixels :grin: \ncc @Paige Ormiston",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "522:630",
+        "node_offset": {
+          "x": 877,
+          "y": 146
+        },
+        "stable_path": [
+          "522:630"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1696282959",
+      "uuid": "2cf72b5d-d5c5-4d4f-91d3-cb6f2c4594b5",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-30T14:22:12.527Z",
+      "resolved_at": null,
+      "message": "whenever we get to the design review/annotations part, we will want to mark this button up as disabled when there are 0 checkboxes checked\ncc @Paige Ormiston",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "422:501",
+        "node_offset": {
+          "x": 418,
+          "y": 436
+        },
+        "stable_path": [
+          "422:501"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1696167242",
+      "uuid": "77e47526-9b8c-4fbc-aec7-f2ee8c747df8",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-30T13:30:41.113Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston - this would be a case where I'd want to point out timing (going back to this comment --> https://www.figma.com/design/75Z1LtkCEUJWCxoY2KyNHv?node-id=151-1279#1694523961)\n\nI just want to add the comment as a reminder so let me know if you have any questions. For this I'd recommend finding a way to achieve this without a timer (for screenreader users, magnification users, cognitive disabilities, motor disabilities - https://www.w3.org/WAI/WCAG21/Understanding/no-timing)\nIf the timer is a must, we should adjust the countdown time to 20 seconds with a way to pause/stop the countdown too.\n\nthank you! :sparkles:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "422:505",
+        "node_offset": {
+          "x": 403,
+          "y": 271
+        },
+        "stable_path": [
+          "422:505"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1694549441",
+      "uuid": "0b045e6a-7b35-4ddc-99c0-ef99853916ed",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-27T20:49:38.804Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston - this applies to the instances where the Undo button can be found in the chat, but I think this is the best use from the A11y side. There's no time limit, keyboard users won't have a lot of focus stops to get to the Undo button, screenreader users can get to it quickly as well, and if a magnification user's view is already in the chat, it's likely they'll see this quickly :sparkle:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "422:498",
+        "node_offset": {
+          "x": 803,
+          "y": 299
+        },
+        "stable_path": [
+          "422:498"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1694540402",
+      "uuid": "0d315167-8824-4843-8a9a-8913df0202f2",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-27T20:38:59.844Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston - would there be any chance of changing the first 'Closed tabs' to Action Log or something similar? this doesn't fail anything a11y wise but I wonder if the redundant names could cause some confusion. what do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "422:497",
+        "node_offset": {
+          "x": 360,
+          "y": 225
+        },
+        "stable_path": [
+          "422:497"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1694530805",
+      "uuid": "fc944281-7287-4a39-b1b3-2211be4d7819",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-27T20:28:41.812Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston when it comes to this version and 'Close current tab' in v2 (or even in the prototype), I do like this for the sake of accessibility. There's no time limit here and gives a confirmation message in case the user made a mistake or changes their mind. \n\nI would say if they choose to close the tab, adding this to the Action log or just some 'this has been closed' type of message would be great to let the user know. \n* Users with cognitive disabilities benefit  -if a user struggles with memory they're reminded it's closed.\n* Screenreader users benefit  -the text would be available for them to navigate to\n* magnification users benefit  -removes the need to check the tab strip to determine if the tab was closed\n\nIf you have any questions, please let me know! :star:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "182:198",
+        "node_offset": {
+          "x": 532,
+          "y": 201
+        },
+        "stable_path": [
+          "182:198"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1694523961",
+      "uuid": "9eb3e0a4-cc48-41c2-863a-fbe6df6b9625",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-27T20:21:20.122Z",
+      "resolved_at": null,
+      "message": "hi @Paige Ormiston ! I'm putting this comment here since I know the topic of 'timer', 'countdown' and such is used in several areas. \n\nBased off of WCAG 2.2.3 No Timing (https://www.w3.org/WAI/WCAG21/Understanding/no-timing) we want to avoid the use of time limits as much as possible. It can impact multiple user groups and assistive tech users - those with physical disabilities, cognitive disabilities, screenreader users, those with low vision, magnification users. \n\nIf a timer/time limit needs to be added, we want to make sure we're giving enough time and an option for users to add more time if they need it (like pausing or stopping the countdown) / source: https://www.w3.org/WAI/WCAG21/Understanding/timing-adjustable.html\n\nPlease let me know if you have any additional questions on this. thank you! :grin:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "151:1279",
+        "node_offset": {
+          "x": -1203,
+          "y": -1470
+        },
+        "stable_path": [
+          "151:1279"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1694463053",
+      "uuid": "b2e6d347-d198-4f10-975e-9dd55e86c3c0",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-27T19:22:16.851Z",
+      "resolved_at": null,
+      "message": "hey @Paige Ormiston ! I see the line about no history carrying over. is there any method to undo the action or an Action log that would be available?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "422:505",
+        "node_offset": {
+          "x": 998,
+          "y": 299
+        },
+        "stable_path": [
+          "422:505"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1694316715",
+      "uuid": "b098c29e-7d68-402c-bc52-7e592b78717d",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-27T17:23:22.084Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston is the 'Action log' not interactive when the user chooses 'Cancel'?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "422:502",
+        "node_offset": {
+          "x": 403,
+          "y": 179
+        },
+        "stable_path": [
+          "422:502"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1694315772",
+      "uuid": "341e8e8e-eff4-4b96-a708-f7a56392c676",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-27T17:22:42.973Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston will the user be able to type their response to close a tab as well? or only by the multiselect picker?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "422:501",
+        "node_offset": {
+          "x": 380,
+          "y": 344
+        },
+        "stable_path": [
+          "422:501"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1694312281",
+      "uuid": "e254b2cc-a222-45a5-a4d2-f854504e9ded",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-03-27T17:20:10.877Z",
+      "resolved_at": null,
+      "message": "hey @Paige Ormiston ! I notice that in this 'tab management v1' section of Figma we have this ghosted tab with the undo timer. but in the prototype, it looks like this doesn't exist. is the tab and undo timer still being considered or implemented?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "175:142",
+        "node_offset": {
+          "x": 233,
+          "y": 29
+        },
+        "stable_path": [
+          "175:142"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1676502172",
+      "uuid": "5fb90425-ad64-4b60-afb5-f5e26864b2ea",
+      "file_key": "75Z1LtkCEUJWCxoY2KyNHv",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-03-16T20:47:26.314Z",
+      "resolved_at": null,
+      "message": "make sure this affordance supports a11y",
+      "reactions": [
+        {
+          "emoji": ":hearts:",
+          "created_at": "2026-03-26T19:07:28.114Z",
+          "user": {
+            "id": "1423002262484994562",
+            "handle": "Natalie Stroud",
+            "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "182:200",
+        "node_offset": {
+          "x": 272,
+          "y": 24
+        },
+        "stable_path": [
+          "182:200"
+        ]
+      },
+      "order_id": "18"
+    }
+  ]
+}

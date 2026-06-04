@@ -1,0 +1,5688 @@
+{
+  "unresolved": [
+    {
+      "id": "1653199607",
+      "uuid": "60af6081-5138-4389-bd82-7e3033065ef9",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-27T20:34:13.192Z",
+      "resolved_at": null,
+      "message": "\"Remind me later\" seems to have more implied commitment to action than \"Ask me again later\"\n\nBut \"Ask me again later\" feels more specifically like a re-prompt flow\n\n\"Ask me again soon\" -- most urgent and committal; not as \"honest\" if we're planning to not show it again to ppl who click it",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12036:6931",
+        "node_offset": {
+          "x": 572,
+          "y": 351
+        },
+        "stable_path": [
+          "12036:6931"
+        ]
+      },
+      "order_id": "321"
+    },
+    {
+      "id": "1652776052",
+      "uuid": "3231fec9-98aa-4e0f-b42a-6c4e84e802b3",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-27T15:14:24.788Z",
+      "resolved_at": null,
+      "message": "honest",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12036:6894",
+        "node_offset": {
+          "x": 361,
+          "y": 329
+        },
+        "stable_path": [
+          "12036:6894"
+        ]
+      },
+      "order_id": "319"
+    },
+    {
+      "id": "1652773069",
+      "uuid": "a65f558e-57c8-49f2-a407-9630004a41c0",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-27T15:12:44.017Z",
+      "resolved_at": null,
+      "message": "signals inevitability",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12036:6971",
+        "node_offset": {
+          "x": 570,
+          "y": 405
+        },
+        "stable_path": [
+          "12036:6971"
+        ]
+      },
+      "order_id": "318"
+    },
+    {
+      "id": "1652769041",
+      "uuid": "21da6549-d571-4c5a-8d53-97e49878c87c",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-27T15:10:28.175Z",
+      "resolved_at": null,
+      "message": "continue big break of the pattern",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12036:6889",
+        "node_offset": {
+          "x": 238,
+          "y": 192
+        },
+        "stable_path": [
+          "12036:6889"
+        ]
+      },
+      "order_id": "317"
+    },
+    {
+      "id": "1652768670",
+      "uuid": "163bf371-a77f-4f68-bcd0-b4e366773571",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-02-27T15:10:14.971Z",
+      "resolved_at": null,
+      "message": "removes pleasantries",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12036:6931",
+        "node_offset": {
+          "x": 396,
+          "y": 131
+        },
+        "stable_path": [
+          "12036:6931"
+        ]
+      },
+      "order_id": "316"
+    },
+    {
+      "id": "1600311779",
+      "uuid": "f21ee74b-9dbf-428d-9362-8ba380246875",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-22T22:31:11.600Z",
+      "resolved_at": null,
+      "message": "compatibility message that feels required and functional?\n\ncould we go all in on the BRAND message where the language tries to get attn too!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11808:4980",
+        "node_offset": {
+          "x": 498,
+          "y": 152
+        },
+        "stable_path": [
+          "11808:4980"
+        ]
+      },
+      "order_id": "313"
+    },
+    {
+      "id": "1597923876",
+      "uuid": "66d8243c-2f7e-4aa8-9ce8-bc918a8d1dd9",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-21T18:23:26.772Z",
+      "resolved_at": null,
+      "message": "change the UX pattern? (button)\nchange the layout\nchange the HL",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11745:4852",
+        "node_offset": {
+          "x": 305,
+          "y": 1635
+        },
+        "stable_path": [
+          "11745:4852"
+        ]
+      },
+      "order_id": "312"
+    },
+    {
+      "id": "1591951609",
+      "uuid": "bbe84c45-3a0b-471b-be79-a6ad52c26a47",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-16T20:34:56.491Z",
+      "resolved_at": null,
+      "message": "could we be even MORE plainspoken?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:5511",
+        "node_offset": {
+          "x": 99,
+          "y": 155
+        },
+        "stable_path": [
+          "11732:5511"
+        ]
+      },
+      "order_id": "311"
+    },
+    {
+      "id": "1591944758",
+      "uuid": "254f6e5d-8aad-4269-adfc-0d402dc10795",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-16T20:27:53.099Z",
+      "resolved_at": null,
+      "message": "\"Continue\" doesn't make it AS clear that you're accepting something.\n\n\"click continue to accept the terms...\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:5511",
+        "node_offset": {
+          "x": 532,
+          "y": 249
+        },
+        "stable_path": [
+          "11732:5511"
+        ]
+      },
+      "order_id": "310"
+    },
+    {
+      "id": "1591943490",
+      "uuid": "dc6221e6-2900-48b9-98dc-afa092066a3a",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-16T20:26:36.631Z",
+      "resolved_at": null,
+      "message": "\"continued compatibility with our features\" vs \"new",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:3738",
+        "node_offset": {
+          "x": 544,
+          "y": 137
+        },
+        "stable_path": [
+          "11732:3738"
+        ]
+      },
+      "order_id": "309"
+    },
+    {
+      "id": "1590320652",
+      "uuid": "2ead4467-6f63-4b01-bd36-6e9b929fb9cf",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-15T22:08:18.489Z",
+      "resolved_at": null,
+      "message": "@Venetia Tay feel free to leave comments here too! I just tried to capture what we were all discussing",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11748:8487",
+        "node_offset": {
+          "x": 699,
+          "y": 186
+        },
+        "stable_path": [
+          "11748:8487"
+        ]
+      },
+      "order_id": "308"
+    },
+    {
+      "id": "1590307078",
+      "uuid": "89570a97-5e35-466a-a7b0-70c23abc7c3e",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-15T21:54:47.809Z",
+      "resolved_at": null,
+      "message": "also still vague",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:5463",
+        "node_offset": {
+          "x": 291,
+          "y": 123
+        },
+        "stable_path": [
+          "11732:5463"
+        ]
+      },
+      "order_id": "307"
+    },
+    {
+      "id": "1590306961",
+      "uuid": "11eab310-be5e-46ac-ac10-91bab7337215",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-15T21:54:42.306Z",
+      "resolved_at": null,
+      "message": "More accurate but probably tilts too negative",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:5463",
+        "node_offset": {
+          "x": 142,
+          "y": 122
+        },
+        "stable_path": [
+          "11732:5463"
+        ]
+      },
+      "order_id": "306"
+    },
+    {
+      "id": "1590305928",
+      "uuid": "591733b2-ff7e-44f4-b1d8-84c290b78ef4",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-15T21:53:41.133Z",
+      "resolved_at": null,
+      "message": "not really accurate?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:5418",
+        "node_offset": {
+          "x": 93,
+          "y": 124
+        },
+        "stable_path": [
+          "11732:5418"
+        ]
+      },
+      "order_id": "305"
+    },
+    {
+      "id": "1590305654",
+      "uuid": "09427364-02af-4f73-9cec-f4747f2010f8",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-15T21:53:24.811Z",
+      "resolved_at": null,
+      "message": "feels more subtly threatening and vague",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:5418",
+        "node_offset": {
+          "x": 237,
+          "y": 123
+        },
+        "stable_path": [
+          "11732:5418"
+        ]
+      },
+      "order_id": "304"
+    },
+    {
+      "id": "1590304644",
+      "uuid": "746cbf07-73f1-4d91-8f94-caa09d1177bd",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-15T21:52:23.086Z",
+      "resolved_at": null,
+      "message": "most alarmist and urgent",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:5185",
+        "node_offset": {
+          "x": 167,
+          "y": 125
+        },
+        "stable_path": [
+          "11732:5185"
+        ]
+      },
+      "order_id": "303"
+    },
+    {
+      "id": "1590299078",
+      "uuid": "820d0153-bb15-45ed-a6fb-c1676d4450f2",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-15T21:47:16.247Z",
+      "resolved_at": null,
+      "message": "not necessarily true; available feels more alarmist",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:5326",
+        "node_offset": {
+          "x": 277,
+          "y": 124
+        },
+        "stable_path": [
+          "11732:5326"
+        ]
+      },
+      "order_id": "302"
+    },
+    {
+      "id": "1590296240",
+      "uuid": "a51788c9-fb2f-4877-bccc-a1c977aaf05f",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-15T21:44:45.040Z",
+      "resolved_at": null,
+      "message": "access feels a little too threatening",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:5372",
+        "node_offset": {
+          "x": 104,
+          "y": 125
+        },
+        "stable_path": [
+          "11732:5372"
+        ]
+      },
+      "order_id": "301"
+    },
+    {
+      "id": "1590292327",
+      "uuid": "57cb1ac6-7360-4bd5-821d-b6e5f786278b",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-15T21:41:09.312Z",
+      "resolved_at": null,
+      "message": "feels like it could lightly be read as a threat (e.g. something might break if i don't do this)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:5278",
+        "node_offset": {
+          "x": 341,
+          "y": 122
+        },
+        "stable_path": [
+          "11732:5278"
+        ]
+      },
+      "order_id": "300"
+    },
+    {
+      "id": "1590289273",
+      "uuid": "981eed50-7bb8-440b-bb20-47978a24e098",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-15T21:38:26.830Z",
+      "resolved_at": null,
+      "message": "still leverages status quo bias, implying a continuation of your existing experience",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:5278",
+        "node_offset": {
+          "x": 117,
+          "y": 124
+        },
+        "stable_path": [
+          "11732:5278"
+        ]
+      },
+      "order_id": "299"
+    },
+    {
+      "id": "1590288843",
+      "uuid": "84f1c5ac-517a-4c53-b651-67950f988a9a",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-15T21:38:04.371Z",
+      "resolved_at": null,
+      "message": "could be a bit more vague in terms of interpretation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:5278",
+        "node_offset": {
+          "x": 262,
+          "y": 121
+        },
+        "stable_path": [
+          "11732:5278"
+        ]
+      },
+      "order_id": "298"
+    },
+    {
+      "id": "1590285903",
+      "uuid": "587fdb23-d737-4bb3-854d-722c89e07a72",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-15T21:35:25.304Z",
+      "resolved_at": null,
+      "message": "framed more as \"maintenance\" vs \"permission",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:5232",
+        "node_offset": {
+          "x": 210,
+          "y": 125
+        },
+        "stable_path": [
+          "11732:5232"
+        ]
+      },
+      "order_id": "297"
+    },
+    {
+      "id": "1590284643",
+      "uuid": "7799ae39-640b-4853-a90e-44fad7a780c0",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-15T21:34:14.210Z",
+      "resolved_at": null,
+      "message": "frames acceptance as maintenance with a hint of urgency",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:3738",
+        "node_offset": {
+          "x": 313,
+          "y": 123
+        },
+        "stable_path": [
+          "11732:3738"
+        ]
+      },
+      "order_id": "296"
+    },
+    {
+      "id": "1590117757",
+      "uuid": "2646e1df-033a-483c-98f7-b1ff0df6892c",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-15T19:20:09.873Z",
+      "resolved_at": null,
+      "message": "legal OK with this?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:5511",
+        "node_offset": {
+          "x": 327,
+          "y": 205
+        },
+        "stable_path": [
+          "11732:5511"
+        ]
+      },
+      "order_id": "293"
+    },
+    {
+      "id": "1588111844",
+      "uuid": "4e5c4619-0acd-4ee7-b270-b72bbb773254",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-14T18:33:03.002Z",
+      "resolved_at": null,
+      "message": "lean into status quo bias (People resist change, but are more ok with \"maintaining\")",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:5511",
+        "node_offset": {
+          "x": 192,
+          "y": 122
+        },
+        "stable_path": [
+          "11732:5511"
+        ]
+      },
+      "order_id": "288"
+    },
+    {
+      "id": "1588110668",
+      "uuid": "153559a5-c3ff-4f85-bb6f-9a19757f8b9a",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-14T18:32:11.203Z",
+      "resolved_at": null,
+      "message": "feels more threatening",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:5528",
+        "node_offset": {
+          "x": 113,
+          "y": 125
+        },
+        "stable_path": [
+          "11732:5528"
+        ]
+      },
+      "order_id": "287"
+    },
+    {
+      "id": "1588086777",
+      "uuid": "d3aea26f-834b-4310-a4b4-c5183b15bf74",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-14T18:15:37.326Z",
+      "resolved_at": null,
+      "message": "are there any security risks to NOT accepting the ToU?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11621:8585",
+        "node_offset": {
+          "x": 457,
+          "y": 54
+        },
+        "stable_path": [
+          "11621:8585"
+        ]
+      },
+      "order_id": "284"
+    },
+    {
+      "id": "1588081828",
+      "uuid": "f4120eb1-44f2-40fd-a2fa-ffdd1759da00",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-14T18:12:10.931Z",
+      "resolved_at": null,
+      "message": "not all that true",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11732:5326",
+        "node_offset": {
+          "x": 483,
+          "y": 51
+        },
+        "stable_path": [
+          "11732:5326"
+        ]
+      },
+      "order_id": "283"
+    },
+    {
+      "id": "1579147296",
+      "uuid": "b5a8ae19-466c-43c2-9566-7cf33be84d88",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-07T22:32:32.650Z",
+      "resolved_at": null,
+      "message": "check out windows 10 messaging",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11707:16844",
+        "node_offset": {
+          "x": 447,
+          "y": 41
+        },
+        "stable_path": [
+          "11707:16844"
+        ]
+      },
+      "order_id": "282"
+    },
+    {
+      "id": "1370259578",
+      "uuid": "27ac156f-758b-471c-9356-8a69a23baadd",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-08-05T19:16:00.398Z",
+      "resolved_at": null,
+      "message": "like this one too",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10393:7088",
+        "node_offset": {
+          "x": 350,
+          "y": 190
+        },
+        "stable_path": [
+          "10393:7088"
+        ]
+      },
+      "order_id": "275"
+    },
+    {
+      "id": "1370255375",
+      "uuid": "099ca754-e78c-43a0-8466-b62d1249f135",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-08-05T19:12:55.973Z",
+      "resolved_at": null,
+      "message": "to an extent, it may be accurate given these new features may require more data",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10393:6760",
+        "node_offset": {
+          "x": 437,
+          "y": 39
+        },
+        "stable_path": [
+          "10393:6760"
+        ]
+      },
+      "order_id": "274"
+    },
+    {
+      "id": "1356374174",
+      "uuid": "836b146e-704a-484e-a7fa-b96fb2104ded",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-07-25T19:25:46.571Z",
+      "resolved_at": null,
+      "message": "would help us on the back end should we agree to turn data off",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10131:9892",
+        "node_offset": {
+          "x": 1758,
+          "y": 940
+        },
+        "stable_path": [
+          "10131:9892"
+        ]
+      },
+      "order_id": "273"
+    },
+    {
+      "id": "1348091283",
+      "uuid": "47bd7999-1976-445a-94c2-6acb1341e1ae",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Mirabela Lobontiu",
+        "img_url": "https://www.gravatar.com/avatar/a990400cdeb572ee4952701886185238?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "908619654267099691"
+      },
+      "created_at": "2025-07-21T12:58:12.143Z",
+      "resolved_at": null,
+      "message": "If the user taps on \"Remind me later\", when will the prompt be re-triggerred?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9993:5753",
+        "node_offset": {
+          "x": 296,
+          "y": 845
+        },
+        "stable_path": [
+          "9993:5753"
+        ]
+      },
+      "order_id": "272"
+    },
+    {
+      "id": "1340506082",
+      "uuid": "a093144b-6758-4c7a-82db-93962ecd9437",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-07-15T14:54:33.824Z",
+      "resolved_at": null,
+      "message": "@Raluca Iordan",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9556:10277",
+        "node_offset": {
+          "x": 3454,
+          "y": 559
+        },
+        "stable_path": [
+          "9556:10277"
+        ]
+      },
+      "order_id": "270"
+    },
+    {
+      "id": "1336512336",
+      "uuid": "44e0b1ae-2bda-488e-bd74-ac2561c877d5",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-07-11T15:28:37.890Z",
+      "resolved_at": null,
+      "message": "@Maggie Atkinson @Jeffrey Guerrero I agree with the points in the best practices (ty!), but with a request and a note, please:\n1. For the Reco'd version, I think the body copy needs to have a narrower width so the block of text looks centered (while staying left aligned). Right now, it runs long and the eye has to bounce too widely between header to body to button. \n2. The body text in question isn't that long so I'd argue that the reading of it isn't too hard in this case. =) That being said, I agree with the Reco'd version if we can adjust width of body copy. CC @Brent Trotter",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9476:18513",
+        "node_offset": {
+          "x": 308,
+          "y": 115
+        },
+        "stable_path": [
+          "9476:18513"
+        ]
+      },
+      "order_id": "268"
+    },
+    {
+      "id": "1332531012",
+      "uuid": "b3999e0b-d668-485a-ad38-9e753bf33ce6",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-07-09T13:06:05.334Z",
+      "resolved_at": null,
+      "message": "@Nishant Bhasin @Raluca Iordan - can you think of any other scenarios I may have missed?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9556:9827",
+        "node_offset": {
+          "x": 6967,
+          "y": -1357
+        },
+        "stable_path": [
+          "9556:9827"
+        ]
+      },
+      "order_id": "265"
+    },
+    {
+      "id": "1332446621",
+      "uuid": "8cd11f4e-e50b-470a-8665-e2a13c92c52f",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-07-09T12:24:19.116Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter - here are the 3 types. feel free to add pros and cons",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9737:68078",
+        "node_offset": {
+          "x": -767,
+          "y": -502
+        },
+        "stable_path": [
+          "9737:68078"
+        ]
+      },
+      "order_id": "264"
+    },
+    {
+      "id": "1329055718",
+      "uuid": "d2a1068b-3036-497c-9193-79d7ec684998",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-07-07T17:24:34.673Z",
+      "resolved_at": null,
+      "message": "add color",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9679:34976",
+        "node_offset": {
+          "x": 1721,
+          "y": 231
+        },
+        "stable_path": [
+          "9679:34976"
+        ]
+      },
+      "order_id": "261"
+    },
+    {
+      "id": "1323420361",
+      "uuid": "20a97194-2995-4577-bb82-0eff3235fe38",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-07-02T14:19:31.756Z",
+      "resolved_at": null,
+      "message": "@John Oberhauser - this is the updated version. Do you see any issues with any of the inline links here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9365:10110",
+        "node_offset": {
+          "x": 912,
+          "y": 921
+        },
+        "stable_path": [
+          "9365:10110"
+        ]
+      },
+      "order_id": "255"
+    },
+    {
+      "id": "1323025054",
+      "uuid": "d0bcad72-d626-485f-9348-254741cffbc2",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tom White",
+        "img_url": "https://www.gravatar.com/avatar/22a9310c1f58a884132acc7cea6f3c6b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1166366970359969104"
+      },
+      "created_at": "2025-07-02T11:03:13.457Z",
+      "resolved_at": null,
+      "message": "Is this full row clickable, or just the action button?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9012:13498",
+        "node_offset": {
+          "x": 110,
+          "y": 104
+        },
+        "stable_path": [
+          "9012:13498"
+        ]
+      },
+      "order_id": "254"
+    },
+    {
+      "id": "1322003704",
+      "uuid": "e3d50376-018f-4cc4-a387-9422e6d10976",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-07-01T19:58:17.270Z",
+      "resolved_at": null,
+      "message": "Are we okay with users not being able to get back to the FAQ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9499:15605",
+        "node_offset": {
+          "x": 363,
+          "y": 107
+        },
+        "stable_path": [
+          "9499:15605"
+        ]
+      },
+      "order_id": "253"
+    },
+    {
+      "id": "1321995026",
+      "uuid": "731b9291-1eac-461d-9884-30bf14abe258",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-07-01T19:50:31.016Z",
+      "resolved_at": null,
+      "message": "Legal might be okay with just ToU",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8760:23776",
+        "node_offset": {
+          "x": 943,
+          "y": -1696
+        },
+        "stable_path": [
+          "8760:23776"
+        ]
+      },
+      "order_id": "252"
+    },
+    {
+      "id": "1317651714",
+      "uuid": "2cabea2a-cdc4-4e95-a2fa-e300a55caf9b",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-06-27T15:12:48.363Z",
+      "resolved_at": null,
+      "message": "Do we have/need screens for the Bookmarks/Passwords export @Jeffrey Guerrero cc @Eduardo Feo @Chris Peterson",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8772:71975",
+        "node_offset": {
+          "x": 258,
+          "y": 856
+        },
+        "stable_path": [
+          "8772:71975"
+        ]
+      },
+      "order_id": "251"
+    },
+    {
+      "id": "1316497004",
+      "uuid": "5265cb72-9cf9-4175-9f4e-dce54482bd16",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-06-26T22:01:29.046Z",
+      "resolved_at": null,
+      "message": "@Jeffrey Guerrero Do you have Tablet designs or are they needed? cc @Tom White",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9045:14689",
+        "node_offset": {
+          "x": 3577,
+          "y": 431
+        },
+        "stable_path": [
+          "9045:14689"
+        ]
+      },
+      "order_id": "250"
+    },
+    {
+      "id": "1316494976",
+      "uuid": "a41936f9-174b-4321-a293-5f70b5691abb",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-06-26T21:58:36.719Z",
+      "resolved_at": null,
+      "message": "Hey @Brooke Katalinich, @Eduardo Feo  I\u2019ve flagged this a few times to others, but I\u2019m not sure this approach is the right one. As we can see here, the ToU bar will be presented to users. I\u2019m willing to guess many will ignore this message, and the bar will remain stuck to the top of the screen, limiting the real estate and viewable screen space (potentially leading to user annoyance).\nI\u2019m not privy to the legal conversations around this, but why not add the Agree (or Okay) button to the bar to make it easier for users to accept?\nWould love to see some more creative ideas here that meet our objectives while also limiting possible impact on users and retention.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8772:72034",
+        "node_offset": {
+          "x": 355,
+          "y": 124
+        },
+        "stable_path": [
+          "8772:72034"
+        ]
+      },
+      "order_id": "249"
+    },
+    {
+      "id": "1304985214",
+      "uuid": "878e605e-a223-452b-94d2-0849bf7de1cc",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-06-18T18:34:16.019Z",
+      "resolved_at": null,
+      "message": "Capital C?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8947:31088",
+        "node_offset": {
+          "x": 301,
+          "y": 807
+        },
+        "stable_path": [
+          "8947:31088"
+        ]
+      },
+      "order_id": "248"
+    },
+    {
+      "id": "1303249574",
+      "uuid": "bfaa610a-d6c7-4219-9638-132c468da3da",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-06-17T22:48:44.339Z",
+      "resolved_at": null,
+      "message": "Is this localized?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9010:8690",
+        "node_offset": {
+          "x": 320,
+          "y": 587
+        },
+        "stable_path": [
+          "9010:8690"
+        ]
+      },
+      "order_id": "247"
+    },
+    {
+      "id": "1303238208",
+      "uuid": "097c33f3-a448-4a7a-a6e3-10d473eb6a84",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-06-17T22:30:47.047Z",
+      "resolved_at": null,
+      "message": "Did you consider a bottom sheet for this, @Jeffrey Guerrero? Taking over the full browser feels quite jarring.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9040:9950",
+        "node_offset": {
+          "x": 319,
+          "y": 203
+        },
+        "stable_path": [
+          "9040:9950"
+        ]
+      },
+      "order_id": "246"
+    },
+    {
+      "id": "1303235399",
+      "uuid": "417e6eb5-6f41-4a77-a22b-37df7f940440",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-06-17T22:26:31.653Z",
+      "resolved_at": null,
+      "message": "What happens when the user taps here @Jeffrey Guerrero",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9012:13498",
+        "node_offset": {
+          "x": 327,
+          "y": 121
+        },
+        "stable_path": [
+          "9012:13498"
+        ]
+      },
+      "order_id": "245"
+    },
+    {
+      "id": "1300740016",
+      "uuid": "5e4ea108-07d3-4b31-8497-038cf5c30490",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-06-16T15:46:29.366Z",
+      "resolved_at": null,
+      "message": "Double check if we can remove this on mobile",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9010:6285",
+        "node_offset": {
+          "x": 3318,
+          "y": 191
+        },
+        "stable_path": [
+          "9010:6285"
+        ]
+      },
+      "order_id": "244"
+    },
+    {
+      "id": "1300738174",
+      "uuid": "8892ff3d-ea24-4aa3-bd7a-623b400c19a9",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-06-16T15:45:24.753Z",
+      "resolved_at": null,
+      "message": "Double check downloads follows toast",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9045:14689",
+        "node_offset": {
+          "x": 2191,
+          "y": 906
+        },
+        "stable_path": [
+          "9045:14689"
+        ]
+      },
+      "order_id": "243"
+    },
+    {
+      "id": "1300737876",
+      "uuid": "de1c275e-6746-4c44-ae03-a1ef9812f946",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-06-16T15:45:15.246Z",
+      "resolved_at": null,
+      "message": "Add find in page mock",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9045:14689",
+        "node_offset": {
+          "x": 1065,
+          "y": 603
+        },
+        "stable_path": [
+          "9045:14689"
+        ]
+      },
+      "order_id": "242"
+    },
+    {
+      "id": "1300709338",
+      "uuid": "e8c7c684-9bbe-4bef-8ea2-72bb61544e41",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-06-16T15:28:55.344Z",
+      "resolved_at": null,
+      "message": "hi @Gabrielle Lussier ! after further review, @Anna Yeddi and I have voted that this one is the best option. As mentioned to the left, the UI is a lot cleaner and this looks similar to typical Terms of Use/Service UI in other examples. It resolves the bug I had filed previously for the browser views as well. We both agree that with option 1, the new window icon inside of the expand/collapse button could become confusing. Same thing with #3, the button within the expand/collapse areas could become busy and confusing as well. If you have any questions, please let me know! thank you :grin:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8753:31384",
+        "node_offset": {
+          "x": 687,
+          "y": 74
+        },
+        "stable_path": [
+          "8753:31384"
+        ]
+      },
+      "order_id": "241"
+    },
+    {
+      "id": "1290273170",
+      "uuid": "10776d82-9ae0-47a5-b70e-0992d8fa328f",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-06-09T04:13:08.411Z",
+      "resolved_at": null,
+      "message": "@Venetia Tay - added user flow chart, component behaviors, and some pros/cons to the left of each of the different experiences for reference!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8760:23776",
+        "node_offset": {
+          "x": -4636,
+          "y": -5876
+        },
+        "stable_path": [
+          "8760:23776"
+        ]
+      },
+      "order_id": "240"
+    },
+    {
+      "id": "1284083538",
+      "uuid": "ebac4d41-3b01-405f-98b9-d2f909508198",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-06-03T18:57:17.196Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter - Microsurvey version here. Original bottom sheet content didn't fit nicely so this needs a cleanup.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8772:74096",
+        "node_offset": {
+          "x": 483,
+          "y": 91
+        },
+        "stable_path": [
+          "8772:74096"
+        ]
+      },
+      "order_id": "238"
+    },
+    {
+      "id": "1284081890",
+      "uuid": "0e4bf002-5fdc-4c41-bd32-a1cba441b186",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-06-03T18:56:06.541Z",
+      "resolved_at": null,
+      "message": "@Anthony Keane - persistent experience for existing Android users here. This would utilize newer components/styles. In the section below it's the same content but framed in existing components that we use for microsurveys that would lighten eng lift",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8760:23776",
+        "node_offset": {
+          "x": -7264,
+          "y": -4634
+        },
+        "stable_path": [
+          "8760:23776"
+        ]
+      },
+      "order_id": "237"
+    },
+    {
+      "id": "1278143458",
+      "uuid": "9b720269-835e-44c6-a317-c217a8d8ba49",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-29T15:17:22.302Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier FYI I updated the body copy for these to match what's live in about:settings.\n\ncc: @Chris Peterson These strings should already be localized, but calling it out as they're different than the new user onboarding ones.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8558:27765",
+        "node_offset": {
+          "x": 477,
+          "y": 361
+        },
+        "stable_path": [
+          "8558:27765"
+        ]
+      },
+      "order_id": "234"
+    },
+    {
+      "id": "1276868962",
+      "uuid": "8ae4b013-c4bc-496c-8a42-74a0f03976d4",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-28T21:48:39.743Z",
+      "resolved_at": null,
+      "message": "drop remind me later",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8422:8210",
+        "node_offset": {
+          "x": 354,
+          "y": 402
+        },
+        "stable_path": [
+          "8422:8210"
+        ]
+      },
+      "order_id": "233"
+    },
+    {
+      "id": "1276812535",
+      "uuid": "8e7dfab4-757b-4b0e-8678-751e3c139c4b",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-28T20:52:09.425Z",
+      "resolved_at": null,
+      "message": "@Chris Peterson what kind of file will this be? I'd like to explore being specific if possible",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8422:7729",
+        "node_offset": {
+          "x": 150,
+          "y": 295
+        },
+        "stable_path": [
+          "8422:7729"
+        ]
+      },
+      "order_id": "232"
+    },
+    {
+      "id": "1276793390",
+      "uuid": "08040419-6244-4a0f-87cd-a85b184d5658",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-28T20:36:08.751Z",
+      "resolved_at": null,
+      "message": "@Alice Rhee any thoughts, feedback, or suggestions on this language?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8478:13454",
+        "node_offset": {
+          "x": 351,
+          "y": 421
+        },
+        "stable_path": [
+          "8478:13454"
+        ]
+      },
+      "order_id": "231"
+    },
+    {
+      "id": "1276788748",
+      "uuid": "43632b8e-b6ad-406d-a42e-e221b185a222",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-28T20:32:13.025Z",
+      "resolved_at": null,
+      "message": "@Alice Rhee any thoughts, feedback, or suggestions on this language?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8285:24651",
+        "node_offset": {
+          "x": 348,
+          "y": 223
+        },
+        "stable_path": [
+          "8285:24651"
+        ]
+      },
+      "order_id": "230"
+    },
+    {
+      "id": "1276777883",
+      "uuid": "e5161da2-8bbf-47f0-a778-ec50b0ebeaf3",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-28T20:23:46.898Z",
+      "resolved_at": null,
+      "message": "Longer alt: \n\n\"Our Terms of Use don\u2019t require you to share technical or crash data. Sharing data helps us keep Firefox fast and secure.\n\nIf you\u2019d rather not share you can adjust these settings any time.\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8285:24651",
+        "node_offset": {
+          "x": 347,
+          "y": 305
+        },
+        "stable_path": [
+          "8285:24651"
+        ]
+      },
+      "order_id": "229"
+    },
+    {
+      "id": "1276764511",
+      "uuid": "5c4cfece-cfe9-44b5-88a8-40456f7a0b22",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-28T20:13:15.243Z",
+      "resolved_at": null,
+      "message": "@Jeffrey Guerrero Let's go with this one and we'll just make it go back to manage data collection.\n\nAt least that screen still has the \"Accept Terms of Use\" CTA",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8527:15730",
+        "node_offset": {
+          "x": 303,
+          "y": 775
+        },
+        "stable_path": [
+          "8527:15730"
+        ]
+      },
+      "order_id": "228"
+    },
+    {
+      "id": "1276607238",
+      "uuid": "bbc80238-ddc8-42dc-8165-a05c23663206",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-28T18:16:08.336Z",
+      "resolved_at": null,
+      "message": "Q: what if there were a \"what makes you feel uncomfortable about the ToU\" question?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8285:24651",
+        "node_offset": {
+          "x": 272,
+          "y": 31
+        },
+        "stable_path": [
+          "8285:24651"
+        ]
+      },
+      "order_id": "226"
+    },
+    {
+      "id": "1276591680",
+      "uuid": "69280f98-3c69-40d0-912a-18668670a481",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-28T18:05:04.507Z",
+      "resolved_at": null,
+      "message": "@Jeffrey Guerrero thoughts on whether this should take you one screen back or all the way back? or if there should be two buttons? \n\nFeels like naturally, you would go one screen back, yeah?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8478:13454",
+        "node_offset": {
+          "x": 360,
+          "y": 851
+        },
+        "stable_path": [
+          "8478:13454"
+        ]
+      },
+      "order_id": "225"
+    },
+    {
+      "id": "1276579455",
+      "uuid": "b2308646-eed9-4f62-8f89-60ed57957933",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-28T17:55:56.251Z",
+      "resolved_at": null,
+      "message": "@Alice Rhee Tagging you to see if you have additional thoughts on this screen",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8517:48132",
+        "node_offset": {
+          "x": 389,
+          "y": 383
+        },
+        "stable_path": [
+          "8517:48132"
+        ]
+      },
+      "order_id": "224"
+    },
+    {
+      "id": "1276578739",
+      "uuid": "9df1931c-e7d9-4939-9d46-54000e803759",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-28T17:55:28.196Z",
+      "resolved_at": null,
+      "message": "@Venetia Tay Curious if you have a POV on framing these two unrelated offers. Struggling to add context in the body here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8517:48132",
+        "node_offset": {
+          "x": 396,
+          "y": 132
+        },
+        "stable_path": [
+          "8517:48132"
+        ]
+      },
+      "order_id": "223"
+    },
+    {
+      "id": "1276423922",
+      "uuid": "43be606e-8bb7-4930-b9fd-577f450c9916",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-28T16:13:55.515Z",
+      "resolved_at": null,
+      "message": "update?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8262:29456",
+        "node_offset": {
+          "x": 397,
+          "y": 159
+        },
+        "stable_path": [
+          "8262:29456"
+        ]
+      },
+      "order_id": "219"
+    },
+    {
+      "id": "1274943342",
+      "uuid": "1a55c1f2-3d70-4cd3-8163-a01ba81a76e1",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2025-05-28T01:03:55.148Z",
+      "resolved_at": null,
+      "message": "I think we are missing a \"not now\" or \"remind me later\" here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8263:29473",
+        "node_offset": {
+          "x": 326,
+          "y": 851
+        },
+        "stable_path": [
+          "8263:29473"
+        ]
+      },
+      "order_id": "214"
+    },
+    {
+      "id": "1274924895",
+      "uuid": "13a49733-629f-4aff-89f0-47d6e5045b48",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2025-05-28T00:30:32.948Z",
+      "resolved_at": null,
+      "message": "It will be interesting to probe - what should still be in \"strict\" data collection?\n\n* Only daily ping?\n\nstandard?\n* does standard include Search queries?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8423:10653",
+        "node_offset": {
+          "x": 332,
+          "y": 325
+        },
+        "stable_path": [
+          "8423:10653"
+        ]
+      },
+      "order_id": "213"
+    },
+    {
+      "id": "1274921846",
+      "uuid": "49390c13-7e42-4ee1-b4c2-3fd57b2246d8",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2025-05-28T00:24:36.359Z",
+      "resolved_at": null,
+      "message": "While I dont think we will ever show this option, it is worth exploring it in the Focus Groups",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8422:7729",
+        "node_offset": {
+          "x": 484,
+          "y": 412
+        },
+        "stable_path": [
+          "8422:7729"
+        ]
+      },
+      "order_id": "212"
+    },
+    {
+      "id": "1269124743",
+      "uuid": "cf9ca269-2308-4824-a7ba-9c0da82ccdbc",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-05-22T20:33:48.743Z",
+      "resolved_at": null,
+      "message": "Won't have to reprompt users if they update to not share their data",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8285:24651",
+        "node_offset": {
+          "x": 395,
+          "y": 137
+        },
+        "stable_path": [
+          "8285:24651"
+        ]
+      },
+      "order_id": "207"
+    },
+    {
+      "id": "1269105878",
+      "uuid": "86962a10-b08e-4159-be56-2b56f791cc26",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Chris Peterson",
+        "img_url": "https://s3-alpha.figma.com/profile/cab0e5e9-3f94-44e4-b11a-9530e0279afd",
+        "id": "893717597898174582"
+      },
+      "created_at": "2025-05-22T20:17:57.228Z",
+      "resolved_at": null,
+      "message": "We probably should say \"some of your data\" because that reminds people that we're not exorting everything. We can just say something like \"You can export your saved passwords, bookmarks, and open tabs.\"",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-05-23T16:08:55.942Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8260:21964",
+        "node_offset": {
+          "x": 375,
+          "y": 487
+        },
+        "stable_path": [
+          "8260:21964"
+        ]
+      },
+      "order_id": "205"
+    },
+    {
+      "id": "1269102540",
+      "uuid": "9583ad85-030c-4766-9070-12c2747f19e7",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-05-22T20:15:14.001Z",
+      "resolved_at": null,
+      "message": "Check with devs if this should pop up in share sheet or if we can save directly to device.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8260:21964",
+        "node_offset": {
+          "x": 368,
+          "y": 367
+        },
+        "stable_path": [
+          "8260:21964"
+        ]
+      },
+      "order_id": "201"
+    },
+    {
+      "id": "1268890128",
+      "uuid": "21e88512-3c28-4df6-96fc-cabadbcfb254",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2025-05-22T17:33:39.315Z",
+      "resolved_at": null,
+      "message": "similar comment to Android",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8263:32099",
+        "node_offset": {
+          "x": 241,
+          "y": 529
+        },
+        "stable_path": [
+          "8263:32099"
+        ]
+      },
+      "order_id": "198"
+    },
+    {
+      "id": "1268889374",
+      "uuid": "839b9a45-cc9e-4f57-93ab-aa0a9d0d07d4",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2025-05-22T17:33:04.943Z",
+      "resolved_at": null,
+      "message": "same comment as Android",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8260:28893",
+        "node_offset": {
+          "x": 244,
+          "y": 746
+        },
+        "stable_path": [
+          "8260:28893"
+        ]
+      },
+      "order_id": "197"
+    },
+    {
+      "id": "1268889155",
+      "uuid": "6c432346-0cb4-4854-bd77-b94c49b2f908",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2025-05-22T17:32:55.590Z",
+      "resolved_at": null,
+      "message": "what is FTU?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8260:27634",
+        "node_offset": {
+          "x": 217,
+          "y": 66
+        },
+        "stable_path": [
+          "8260:27634"
+        ]
+      },
+      "order_id": "196"
+    },
+    {
+      "id": "1268888546",
+      "uuid": "d1d6c3b7-faf4-49c0-b9f1-b164994b9950",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2025-05-22T17:32:29.739Z",
+      "resolved_at": null,
+      "message": "Have we gotten feedback from Winnie about how we can space out these links?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8183:29597",
+        "node_offset": {
+          "x": 221,
+          "y": 666
+        },
+        "stable_path": [
+          "8183:29597"
+        ]
+      },
+      "order_id": "195"
+    },
+    {
+      "id": "1268883405",
+      "uuid": "9360cd55-a91c-4926-a942-eaf9d573d9cd",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2025-05-22T17:29:00.388Z",
+      "resolved_at": null,
+      "message": "I like that the ToU and Privacy Notice are more prominent,  I also wonder why we might not follow the similar pattern in onboarding (pros/cons)\n\nOriginal: \nhttps://www.figma.com/design/a0vLe1jbZMVNBbL3pxBBo7/ToS--Settings--Marketing-Card--and-more?node-id=8292-31189&p=f&t=ckxTZNWaJ3Nobkb6-0\n\n* Pros - easier to just agree and move on; focus on Firefox\n* Cons - small tap areas; less transparency",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8107:32711",
+        "node_offset": {
+          "x": 1175,
+          "y": 869
+        },
+        "stable_path": [
+          "8107:32711"
+        ]
+      },
+      "order_id": "194"
+    },
+    {
+      "id": "1268861161",
+      "uuid": "da45ca91-4d7c-4ba7-9435-e0d7418d2265",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2025-05-22T17:14:20.200Z",
+      "resolved_at": null,
+      "message": "I was thinking we either show:\nhttps://www.figma.com/design/a0vLe1jbZMVNBbL3pxBBo7/ToS--Settings--Marketing-Card--and-more?node-id=8502-7217&t=JPkPhLPXIUQEcVwI-0\n\nor show\n\nhttps://www.figma.com/design/a0vLe1jbZMVNBbL3pxBBo7/ToS--Settings--Marketing-Card--and-more?node-id=7501-19488&t=ckxTZNWaJ3Nobkb6-0",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8263:29584",
+        "node_offset": {
+          "x": 95,
+          "y": 531
+        },
+        "stable_path": [
+          "8263:29584"
+        ]
+      },
+      "order_id": "193"
+    },
+    {
+      "id": "1268854439",
+      "uuid": "06d50eaa-9f22-4bcf-bfc4-5415e9c7e89f",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2025-05-22T17:09:43.181Z",
+      "resolved_at": null,
+      "message": "I was thinking that \"manage\" is around managing data i.e diagnostic and interaction data.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8263:29528",
+        "node_offset": {
+          "x": 328,
+          "y": 757
+        },
+        "stable_path": [
+          "8263:29528"
+        ]
+      },
+      "order_id": "192"
+    },
+    {
+      "id": "1268847005",
+      "uuid": "eb50fd7f-f156-41f9-833f-2696120e7333",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2025-05-22T17:04:12.624Z",
+      "resolved_at": null,
+      "message": "no need for this page?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8260:23329",
+        "node_offset": {
+          "x": 157,
+          "y": 259
+        },
+        "stable_path": [
+          "8260:23329"
+        ]
+      },
+      "order_id": "191"
+    },
+    {
+      "id": "1268846740",
+      "uuid": "1f7fd36e-0886-4833-b799-99e0ec56e436",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2025-05-22T17:04:01.756Z",
+      "resolved_at": null,
+      "message": "Could we not give them an easy \"delete Firefox button\"? \n\ni.e. they can get their data out but they would need go to their OS settings to delete the app entirely.\n\nSo everytime they open Firefox, they will see the ToU blocker.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8260:21964",
+        "node_offset": {
+          "x": 355,
+          "y": 766
+        },
+        "stable_path": [
+          "8260:21964"
+        ]
+      },
+      "order_id": "190"
+    },
+    {
+      "id": "1268836470",
+      "uuid": "8bcfba91-e4bd-44cd-8812-184a031ba2e7",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2025-05-22T16:56:44.175Z",
+      "resolved_at": null,
+      "message": "yes, that makes sense to me",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8260:27634",
+        "node_offset": {
+          "x": 69,
+          "y": 130
+        },
+        "stable_path": [
+          "8260:27634"
+        ]
+      },
+      "order_id": "189"
+    },
+    {
+      "id": "1268835582",
+      "uuid": "5ed30a7d-2220-4e13-baca-29c372a33a14",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2025-05-22T16:56:08.194Z",
+      "resolved_at": null,
+      "message": "wait confused abut the flow here -- this is the option where they can still use FF without accepting the terms if they turn off certain settings? or is this \"choose what data to export\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8263:29528",
+        "node_offset": {
+          "x": 252,
+          "y": 704
+        },
+        "stable_path": [
+          "8263:29528"
+        ]
+      },
+      "order_id": "188"
+    },
+    {
+      "id": "1268802209",
+      "uuid": "ace1d002-41eb-45da-b863-7e337ae818e3",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2025-05-22T16:33:49.343Z",
+      "resolved_at": null,
+      "message": "for both Android and iOS - it would be helpful to know where exactly this saved file is going. e.g. \"You can find this in Downloads / File Manager\"",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-05-23T16:09:35.526Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8260:21964",
+        "node_offset": {
+          "x": 311,
+          "y": 370
+        },
+        "stable_path": [
+          "8260:21964"
+        ]
+      },
+      "order_id": "187"
+    },
+    {
+      "id": "1268775645",
+      "uuid": "5745b820-ca05-4b14-9b4d-7abe1e332a5e",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2025-05-22T16:17:13.170Z",
+      "resolved_at": null,
+      "message": "this is very minor and maybe not addressable since it could be a design system req, but the long horizontal button shape here makes my brain think this is more of a form fill than a button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8107:32711",
+        "node_offset": {
+          "x": 1177,
+          "y": 740
+        },
+        "stable_path": [
+          "8107:32711"
+        ]
+      },
+      "order_id": "186"
+    },
+    {
+      "id": "1264456419",
+      "uuid": "5cc9753b-82b3-4480-af0d-de95e0afae9d",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-05-20T14:35:40.298Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter - I'm assuming we'd need some content for the \"deadline\" screen so I mocked up some placeholder content here of what I imagine it could look like",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8124:16564",
+        "node_offset": {
+          "x": 15,
+          "y": 572
+        },
+        "stable_path": [
+          "8124:16564"
+        ]
+      },
+      "order_id": "178"
+    },
+    {
+      "id": "1262901204",
+      "uuid": "f5dd0154-f397-4e8c-8af2-bfab7db19f62",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-19T19:34:41.988Z",
+      "resolved_at": null,
+      "message": "\"At your convenience\" \n\n* feels too vague around the timing; could need to change \"in product\" if a hard deadline were ever enforced\n* the language further reinforces the assumption that acceptance is optional",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8099:63682",
+        "node_offset": {
+          "x": 423,
+          "y": 457
+        },
+        "stable_path": [
+          "8099:63682"
+        ]
+      },
+      "order_id": "177"
+    },
+    {
+      "id": "1252845090",
+      "uuid": "52576235-cac7-417b-9806-8c7ba2062514",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-12T20:47:21.658Z",
+      "resolved_at": null,
+      "message": "@Jeffrey Guerrero I know you mentioned we need to update for iOS too",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7961:74806",
+        "node_offset": {
+          "x": 499,
+          "y": 75
+        },
+        "stable_path": [
+          "7961:74806"
+        ]
+      },
+      "order_id": "175"
+    },
+    {
+      "id": "1250469656",
+      "uuid": "26164245-1fc4-4cfa-9270-00e08d6d55e3",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-09T19:02:55.713Z",
+      "resolved_at": null,
+      "message": "can't have headlines (e.g. bold) on msgs that don't ride the trains",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7990:38598",
+        "node_offset": {
+          "x": 227,
+          "y": 93
+        },
+        "stable_path": [
+          "7990:38598"
+        ]
+      },
+      "order_id": "174"
+    },
+    {
+      "id": "1250239345",
+      "uuid": "380a2d79-dc3e-41db-9f34-42c21657ffae",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-05-09T15:44:53.012Z",
+      "resolved_at": null,
+      "message": "Mock up Landscape views",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7774:9823",
+        "node_offset": {
+          "x": 2061,
+          "y": 2984
+        },
+        "stable_path": [
+          "7774:9823"
+        ]
+      },
+      "order_id": "173"
+    },
+    {
+      "id": "1250238488",
+      "uuid": "00ebfe10-1159-4885-9219-a1df51f0fd5c",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-05-09T15:44:16.466Z",
+      "resolved_at": null,
+      "message": "Explore toolbar chrome outs",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7774:9823",
+        "node_offset": {
+          "x": 2064,
+          "y": 3070
+        },
+        "stable_path": [
+          "7774:9823"
+        ]
+      },
+      "order_id": "172"
+    },
+    {
+      "id": "1250158639",
+      "uuid": "d26d7590-810b-4a5b-a239-a6aed3a7c0d6",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-05-09T14:49:45.796Z",
+      "resolved_at": null,
+      "message": "We are able to persist everywhere",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7979:30309",
+        "node_offset": {
+          "x": 349,
+          "y": 16
+        },
+        "stable_path": [
+          "7979:30309"
+        ]
+      },
+      "order_id": "171"
+    },
+    {
+      "id": "1250155709",
+      "uuid": "1d86230c-33d7-4bfd-805b-0f57d8fd204a",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-05-09T14:47:52.538Z",
+      "resolved_at": null,
+      "message": "Winnie will double check",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7979:35994",
+        "node_offset": {
+          "x": 390,
+          "y": 162
+        },
+        "stable_path": [
+          "7979:35994"
+        ]
+      },
+      "order_id": "170"
+    },
+    {
+      "id": "1248950649",
+      "uuid": "769998f1-bb90-403c-95b0-85e9b7fc7957",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-08T19:33:06.695Z",
+      "resolved_at": null,
+      "message": "@Jeffrey Guerrero this version puts a lot of emphasis on clicking these links and sort of buries the message.\n\nmaybe we swap the text to be on the top and see what that looks like?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7961:68917",
+        "node_offset": {
+          "x": 341,
+          "y": 372
+        },
+        "stable_path": [
+          "7961:68917"
+        ]
+      },
+      "order_id": "169"
+    },
+    {
+      "id": "1248865961",
+      "uuid": "e9b88809-f377-4d09-80be-c4dd337dd16e",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-08T18:26:38.070Z",
+      "resolved_at": null,
+      "message": "@Jeffrey Guerrero some design questions for ya?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7961:78848",
+        "node_offset": {
+          "x": 357,
+          "y": 72
+        },
+        "stable_path": [
+          "7961:78848"
+        ]
+      },
+      "order_id": "168"
+    },
+    {
+      "id": "1248690302",
+      "uuid": "6f7fbead-df78-4471-bd6c-fa4e08723d20",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-08T16:15:29.926Z",
+      "resolved_at": null,
+      "message": "update with final alt (if we decide to present one)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7212:8509",
+        "node_offset": {
+          "x": 785,
+          "y": 96
+        },
+        "stable_path": [
+          "7212:8509"
+        ]
+      },
+      "order_id": "167"
+    },
+    {
+      "id": "1248689916",
+      "uuid": "910e3c11-51b6-4745-8740-db3e8b381ae9",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-08T16:15:14.529Z",
+      "resolved_at": null,
+      "message": "update with final",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7212:8721",
+        "node_offset": {
+          "x": 138,
+          "y": 6
+        },
+        "stable_path": [
+          "7212:8721"
+        ]
+      },
+      "order_id": "166"
+    },
+    {
+      "id": "1248688973",
+      "uuid": "8b2f163b-1ef6-40c4-b33a-9356ea118676",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-08T16:14:33.905Z",
+      "resolved_at": null,
+      "message": "alts\n\nFirefox and our world\nFirefox and the technology landscape",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7959:35727",
+        "node_offset": {
+          "x": 543,
+          "y": 91
+        },
+        "stable_path": [
+          "7959:35727"
+        ]
+      },
+      "order_id": "165"
+    },
+    {
+      "id": "1248687264",
+      "uuid": "88564870-7328-4328-be4c-4b4a72d7d103",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-08T16:13:25.325Z",
+      "resolved_at": null,
+      "message": "comment from alice r\n\n\"FWIW, this is my choice of the 9 options proposed. The wording here also mitigates my concern in the prior comment about the\"Update\" term\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7959:35660",
+        "node_offset": {
+          "x": 632,
+          "y": 119
+        },
+        "stable_path": [
+          "7959:35660"
+        ]
+      },
+      "order_id": "164"
+    },
+    {
+      "id": "1248686036",
+      "uuid": "c67d95e7-70fd-4832-a973-e7b5dd4ee6f8",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-08T16:12:34.875Z",
+      "resolved_at": null,
+      "message": "comment via Alice R\n\n\"Food for thought - My only thought here on \"update\" is that I know folks sometimes choose not to update when we prompt them because they worry they will lose their tabs. The \"FF terms of use\" header is clearer / sets a somewhat diff mental model.\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7959:35863",
+        "node_offset": {
+          "x": 61,
+          "y": 104
+        },
+        "stable_path": [
+          "7959:35863"
+        ]
+      },
+      "order_id": "163"
+    },
+    {
+      "id": "1247097924",
+      "uuid": "2910f607-3937-4516-ab0c-72f062cecbf3",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-07T18:16:19.174Z",
+      "resolved_at": null,
+      "message": "update to underlined links",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7920:35184",
+        "node_offset": {
+          "x": 209,
+          "y": 200
+        },
+        "stable_path": [
+          "7920:35184"
+        ]
+      },
+      "order_id": "162"
+    },
+    {
+      "id": "1247089190",
+      "uuid": "b0787315-fe90-4a51-8265-828163c88915",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-07T18:10:00.736Z",
+      "resolved_at": null,
+      "message": "via Mer: \"We're clarifying how we use data so you know...\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7920:35054",
+        "node_offset": {
+          "x": 524,
+          "y": 92
+        },
+        "stable_path": [
+          "7920:35054"
+        ]
+      },
+      "order_id": "161"
+    },
+    {
+      "id": "1243393945",
+      "uuid": "d45289ed-8ffe-4906-b211-4c6b84abb87f",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-05T19:31:42.441Z",
+      "resolved_at": null,
+      "message": "implies a connection between these two ideas",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7820:57291",
+        "node_offset": {
+          "x": 330,
+          "y": 101
+        },
+        "stable_path": [
+          "7820:57291"
+        ]
+      },
+      "order_id": "150"
+    },
+    {
+      "id": "1243393605",
+      "uuid": "eaa32ba4-c00e-4acc-9951-650fd99ed203",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-05T19:31:25.574Z",
+      "resolved_at": null,
+      "message": "not clear what the update is with \"open source\" up front",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7820:57291",
+        "node_offset": {
+          "x": 62,
+          "y": 104
+        },
+        "stable_path": [
+          "7820:57291"
+        ]
+      },
+      "order_id": "149"
+    },
+    {
+      "id": "1243326377",
+      "uuid": "2467073f-988c-4145-982c-2f08388b8f67",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-05T18:37:31.654Z",
+      "resolved_at": null,
+      "message": "update",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7212:8498",
+        "node_offset": {
+          "x": 1609,
+          "y": 382
+        },
+        "stable_path": [
+          "7212:8498"
+        ]
+      },
+      "order_id": "145"
+    },
+    {
+      "id": "1243318716",
+      "uuid": "72fe7edc-7cdd-4394-a679-869389ee12c2",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-05T18:31:30.998Z",
+      "resolved_at": null,
+      "message": "update",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7214:9825",
+        "node_offset": {
+          "x": 1128,
+          "y": 400
+        },
+        "stable_path": [
+          "7214:9825"
+        ]
+      },
+      "order_id": "143"
+    },
+    {
+      "id": "1243317906",
+      "uuid": "551846e4-4a66-46ee-ba1a-d88ffe5e9746",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-05T18:30:52.144Z",
+      "resolved_at": null,
+      "message": "update",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7212:8725",
+        "node_offset": {
+          "x": 403,
+          "y": 115
+        },
+        "stable_path": [
+          "7212:8725"
+        ]
+      },
+      "order_id": "142"
+    },
+    {
+      "id": "1243317808",
+      "uuid": "dab095b3-6292-485a-a9cd-0b127378230f",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-05T18:30:47.675Z",
+      "resolved_at": null,
+      "message": "update",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7212:8724",
+        "node_offset": {
+          "x": 483,
+          "y": 58
+        },
+        "stable_path": [
+          "7212:8724"
+        ]
+      },
+      "order_id": "141"
+    },
+    {
+      "id": "1241309367",
+      "uuid": "ae6531a8-b88b-4516-b313-99b5fee9c190",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-02T17:10:38.484Z",
+      "resolved_at": null,
+      "message": "@Venetia Tay FYI I know Chris mentioned we were thinking about using the hyperlink for  \"learn more\" ... I think they look odd",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7773:12201",
+        "node_offset": {
+          "x": 965,
+          "y": 157
+        },
+        "stable_path": [
+          "7773:12201"
+        ]
+      },
+      "order_id": "140"
+    },
+    {
+      "id": "1241252155",
+      "uuid": "8919b279-c24a-408a-b363-54460118198c",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-02T16:18:12.940Z",
+      "resolved_at": null,
+      "message": "idea of leading with \"open source\" was to remind them before \"hitting them with how we're like everyone else now\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7773:6755",
+        "node_offset": {
+          "x": 910,
+          "y": 901
+        },
+        "stable_path": [
+          "7773:6755"
+        ]
+      },
+      "order_id": "139"
+    },
+    {
+      "id": "1241220395",
+      "uuid": "6d6d03d5-fd3c-4e0a-9560-48f3bfdee5e0",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-05-02T15:51:12.511Z",
+      "resolved_at": null,
+      "message": "v fave from before",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7773:13470",
+        "node_offset": {
+          "x": 837,
+          "y": 104
+        },
+        "stable_path": [
+          "7773:13470"
+        ]
+      },
+      "order_id": "138"
+    },
+    {
+      "id": "1239044356",
+      "uuid": "02053a1b-4f3a-4146-be95-ccb84770e1d3",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-04-30T18:48:31.349Z",
+      "resolved_at": null,
+      "message": "get specific",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7440:17773",
+        "node_offset": {
+          "x": 351,
+          "y": 842
+        },
+        "stable_path": [
+          "7440:17773"
+        ]
+      },
+      "order_id": "136"
+    },
+    {
+      "id": "1239042569",
+      "uuid": "a10e16bd-d268-4665-aa40-5334984e8979",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-04-30T18:47:14.771Z",
+      "resolved_at": null,
+      "message": "How do we want to prioritize these messages?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7440:17773",
+        "node_offset": {
+          "x": 400,
+          "y": 780
+        },
+        "stable_path": [
+          "7440:17773"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "1237374298",
+      "uuid": "77df3512-ab68-4cb4-aa0a-64e8bcb5d528",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-04-29T21:59:26.191Z",
+      "resolved_at": null,
+      "message": "\"While Firefox is open-source software, usage is subject to accepting its Terms of Use and Privacy Notice\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7598:4505",
+        "node_offset": {
+          "x": 1208,
+          "y": 1441
+        },
+        "stable_path": [
+          "7598:4505"
+        ]
+      },
+      "order_id": "134"
+    },
+    {
+      "id": "1237372744",
+      "uuid": "320b2385-20b2-4884-9962-9bd507f950d5",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-04-29T21:57:30.143Z",
+      "resolved_at": null,
+      "message": "V fave?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7598:4505",
+        "node_offset": {
+          "x": 217,
+          "y": 818
+        },
+        "stable_path": [
+          "7598:4505"
+        ]
+      },
+      "order_id": "133"
+    },
+    {
+      "id": "1237371112",
+      "uuid": "8304d41c-acb0-4efa-aceb-eb0b8e95c3e1",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-04-29T21:55:32.912Z",
+      "resolved_at": null,
+      "message": "v fave",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7598:4178",
+        "node_offset": {
+          "x": 81,
+          "y": 1747
+        },
+        "stable_path": [
+          "7598:4178"
+        ]
+      },
+      "order_id": "132"
+    },
+    {
+      "id": "1237360051",
+      "uuid": "d8ec5b69-78eb-4fd8-956b-84b3751473f5",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-04-29T21:42:43.661Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier Can we have \"learn more\" as a hyperlink?\n\nFrom your experience is that (a) how we typically hand that?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7598:4179",
+        "node_offset": {
+          "x": 631,
+          "y": 101
+        },
+        "stable_path": [
+          "7598:4179"
+        ]
+      },
+      "order_id": "131"
+    },
+    {
+      "id": "1235308159",
+      "uuid": "de3f0a9b-632a-4717-ada4-d2faf2ed4fa0",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-04-28T20:11:09.460Z",
+      "resolved_at": null,
+      "message": "Mock up diff stategies",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7489:4960",
+        "node_offset": {
+          "x": 3310,
+          "y": 3009
+        },
+        "stable_path": [
+          "7489:4960"
+        ]
+      },
+      "order_id": "128"
+    },
+    {
+      "id": "1235284466",
+      "uuid": "0b202658-6f55-4194-95cf-fd73ceb6110e",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2025-04-28T19:51:42.379Z",
+      "resolved_at": null,
+      "message": "The first time we show it, it should be user-initiated - i.e update Firefox,",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7492:14092",
+        "node_offset": {
+          "x": 110,
+          "y": 556
+        },
+        "stable_path": [
+          "7492:14092"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "1235283080",
+      "uuid": "5770f0d2-4441-45f4-bb77-5037b381f801",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2025-04-28T19:50:34.336Z",
+      "resolved_at": null,
+      "message": "ideally daily",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7492:14760",
+        "node_offset": {
+          "x": 190,
+          "y": 794
+        },
+        "stable_path": [
+          "7492:14760"
+        ]
+      },
+      "order_id": "126"
+    },
+    {
+      "id": "1235282947",
+      "uuid": "e91d7e91-702b-412e-9323-52906cd8abba",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-04-28T19:50:27.651Z",
+      "resolved_at": null,
+      "message": "This should be persistent",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7492:14760",
+        "node_offset": {
+          "x": 145,
+          "y": 830
+        },
+        "stable_path": [
+          "7492:14760"
+        ]
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "1235282756",
+      "uuid": "73df1838-e026-48c9-a5ec-b4200303b8a4",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-04-28T19:50:17.778Z",
+      "resolved_at": null,
+      "message": "Should be a user-initiated action",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7489:4960",
+        "node_offset": {
+          "x": 1149,
+          "y": 5885
+        },
+        "stable_path": [
+          "7489:4960"
+        ]
+      },
+      "order_id": "124"
+    },
+    {
+      "id": "1235275737",
+      "uuid": "7842b8c3-5bfa-4160-99e6-1de9262ba14b",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2025-04-28T19:44:36.837Z",
+      "resolved_at": null,
+      "message": "What might this look like when collapsed?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7501:9425",
+        "node_offset": {
+          "x": 240,
+          "y": 704
+        },
+        "stable_path": [
+          "7501:9425"
+        ]
+      },
+      "order_id": "123"
+    },
+    {
+      "id": "1234976018",
+      "uuid": "9d7cca57-fecf-42da-a3cb-158edb2fed42",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-04-28T16:04:31.395Z",
+      "resolved_at": null,
+      "message": "does the CTA need to also say \"continue\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7607:10807",
+        "node_offset": {
+          "x": 282,
+          "y": 99
+        },
+        "stable_path": [
+          "7607:10807"
+        ]
+      },
+      "order_id": "121"
+    },
+    {
+      "id": "1231109335",
+      "uuid": "812fe53f-3eee-4c53-a60c-dfe1aa9807c7",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-04-24T17:28:31.826Z",
+      "resolved_at": null,
+      "message": "@Jeffrey Guerrero Yes would want to initially introduce the concept and then for customers dismiss the content - we have a more intrusive pattern on HNT and maybe even some push + email notifications + To communicate the transparency and value on agreeing to the ToS\n\ncc @Eduardo Feo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7501:9425",
+        "node_offset": {
+          "x": 220,
+          "y": 646
+        },
+        "stable_path": [
+          "7501:9425"
+        ]
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "1231107308",
+      "uuid": "4c584111-3e9a-4e53-8451-0b9b26e0cad4",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-04-24T17:27:07.581Z",
+      "resolved_at": null,
+      "message": "@Jeffrey Guerrero this could be just a link with the primary button going full-width and then a 'Close app' below as link but then again, it might be just a stop gap and make users go for that instead of clicking the button and making a decision",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7501:10555",
+        "node_offset": {
+          "x": 166,
+          "y": 817
+        },
+        "stable_path": [
+          "7501:10555"
+        ]
+      },
+      "order_id": "117"
+    },
+    {
+      "id": "1231105903",
+      "uuid": "f7401873-cf65-4bb4-8d62-874439b2ab98",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jamie Sigadel",
+        "img_url": "https://www.gravatar.com/avatar/53c8c0a1d0c0f42134e8d49ced9aecb6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1403078798096954142"
+      },
+      "created_at": "2025-04-24T17:26:06.256Z",
+      "resolved_at": null,
+      "message": "Between the two full-screen options, I do like the design here (more branded experience)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7489:4960",
+        "node_offset": {
+          "x": 1687,
+          "y": 2916
+        },
+        "stable_path": [
+          "7489:4960"
+        ]
+      },
+      "order_id": "116"
+    },
+    {
+      "id": "1231100954",
+      "uuid": "f4f90eea-5ccd-4456-b3be-6ed04d5a8a82",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeffrey Guerrero",
+        "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229",
+        "id": "1032666723872458519"
+      },
+      "created_at": "2025-04-24T17:22:43.193Z",
+      "resolved_at": null,
+      "message": "Consider removing bar",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7492:14732",
+        "node_offset": {
+          "x": 409,
+          "y": 573
+        },
+        "stable_path": [
+          "7492:14732"
+        ]
+      },
+      "order_id": "115"
+    },
+    {
+      "id": "1231099386",
+      "uuid": "b6228e34-6587-404f-908c-57b62cb40be9",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-04-24T17:21:36.718Z",
+      "resolved_at": null,
+      "message": "@Jeffrey Guerrero same feedback on close button \n\ncc @Eduardo Feo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7496:6506",
+        "node_offset": {
+          "x": 237,
+          "y": 329
+        },
+        "stable_path": [
+          "7496:6506"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "1231098718",
+      "uuid": "845c54a9-eff5-4aab-9ad1-c175af01c733",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jamie Sigadel",
+        "img_url": "https://www.gravatar.com/avatar/53c8c0a1d0c0f42134e8d49ced9aecb6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1403078798096954142"
+      },
+      "created_at": "2025-04-24T17:21:09.657Z",
+      "resolved_at": null,
+      "message": "I like this option.. It feels balanced as far as being informative without too intrusive or taking too much space",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7489:4960",
+        "node_offset": {
+          "x": 2575,
+          "y": 5326
+        },
+        "stable_path": [
+          "7489:4960"
+        ]
+      },
+      "order_id": "113"
+    },
+    {
+      "id": "1231098070",
+      "uuid": "fa1c98e6-ab5f-401c-8b99-e2945736d56a",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-04-24T17:20:44.748Z",
+      "resolved_at": null,
+      "message": "@Jeffrey Guerrero same feedback on the close button\n\ncc @Eduardo Feo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7492:14092",
+        "node_offset": {
+          "x": 307,
+          "y": 568
+        },
+        "stable_path": [
+          "7492:14092"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "1231097086",
+      "uuid": "d78a17e4-7a90-430d-93fe-8e3eed344ede",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-04-24T17:20:04.411Z",
+      "resolved_at": null,
+      "message": "@Jeffrey Guerrero do we need a close icon on the bottom sheet? \n\ncc @Eduardo Feo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7501:10555",
+        "node_offset": {
+          "x": 235,
+          "y": 153
+        },
+        "stable_path": [
+          "7501:10555"
+        ]
+      },
+      "order_id": "111"
+    },
+    {
+      "id": "1231095201",
+      "uuid": "a4c11752-b549-48b6-b784-9fb2f10404aa",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-04-24T17:18:47.055Z",
+      "resolved_at": null,
+      "message": "@Jeffrey Guerrero Let\u2019s please not use the off boarding language. I spoke to Markus today and that language is kind of off putting\n\ncc @Eduardo Feo",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-04-24T20:44:24.689Z",
+          "user": {
+            "id": "1032666723872458519",
+            "handle": "Jeffrey Guerrero",
+            "img_url": "https://s3-alpha.figma.com/profile/d75e12b2-fd07-4301-ba88-77be7cc0e229"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "7267:4771",
+        "node_offset": {
+          "x": 539,
+          "y": 1497
+        },
+        "stable_path": [
+          "7267:4771"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "1229364060",
+      "uuid": "0a74c0f9-6d09-4316-b1ec-4a477a213d50",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-04-23T20:30:26.625Z",
+      "resolved_at": null,
+      "message": "Q: what are the potential avenues to reassure them in the context of this message?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7440:19305",
+        "node_offset": {
+          "x": 148,
+          "y": 218
+        },
+        "stable_path": [
+          "7440:19305"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "1229325842",
+      "uuid": "008506bf-0361-474e-a5dd-9f2a57e1befe",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-04-23T20:01:11.818Z",
+      "resolved_at": null,
+      "message": "more \"accept-y\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7440:1020",
+        "node_offset": {
+          "x": 774,
+          "y": 315
+        },
+        "stable_path": [
+          "7440:1020"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "1229325617",
+      "uuid": "8840d2c0-529e-43dc-9b87-fac95bbd031d",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-04-23T20:01:01.595Z",
+      "resolved_at": null,
+      "message": "with or without \"open source\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7440:17339",
+        "node_offset": {
+          "x": 274,
+          "y": 335
+        },
+        "stable_path": [
+          "7440:17339"
+        ]
+      },
+      "order_id": "107"
+    },
+    {
+      "id": "1229317577",
+      "uuid": "e760cc13-a6d0-4df9-9bc7-1d08853fc179",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-04-23T19:54:53.150Z",
+      "resolved_at": null,
+      "message": "ascerting as a statement of fact as oppose to mentioning your behavior might help turn down the temps",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7440:17339",
+        "node_offset": {
+          "x": 394,
+          "y": 281
+        },
+        "stable_path": [
+          "7440:17339"
+        ]
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "1229313612",
+      "uuid": "ce161d33-ab6f-49e2-94a7-1a6a0f45365a",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-04-23T19:51:54.156Z",
+      "resolved_at": null,
+      "message": "alt: Notice",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7440:17339",
+        "node_offset": {
+          "x": 185,
+          "y": 283
+        },
+        "stable_path": [
+          "7440:17339"
+        ]
+      },
+      "order_id": "105"
+    },
+    {
+      "id": "1229308223",
+      "uuid": "e7a52691-6d75-41f8-91ec-423364d4f34e",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-04-23T19:47:48.939Z",
+      "resolved_at": null,
+      "message": "Notice?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7440:1020",
+        "node_offset": {
+          "x": 158,
+          "y": 277
+        },
+        "stable_path": [
+          "7440:1020"
+        ]
+      },
+      "order_id": "104"
+    },
+    {
+      "id": "1229300954",
+      "uuid": "c64e1360-4898-4c0c-a44d-a21a2df3e934",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-04-23T19:42:25.696Z",
+      "resolved_at": null,
+      "message": "sweet spot",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7440:17218",
+        "node_offset": {
+          "x": 79,
+          "y": 5
+        },
+        "stable_path": [
+          "7440:17218"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "1225341437",
+      "uuid": "995428ad-086b-4b1e-9057-bbd130b4f4c0",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-04-21T19:52:27.869Z",
+      "resolved_at": null,
+      "message": "two lines; centered",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7342:16109",
+        "node_offset": {
+          "x": 413,
+          "y": 319
+        },
+        "stable_path": [
+          "7342:16109"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "1221994922",
+      "uuid": "bb106ee6-0f00-448e-a267-4d0d025c8d47",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-04-17T14:41:53.853Z",
+      "resolved_at": null,
+      "message": "P0: link can't be in the body\nP1: any button closes the infobar",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7249:7912",
+        "node_offset": {
+          "x": 145,
+          "y": 38
+        },
+        "stable_path": [
+          "7249:7912"
+        ]
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "1220668162",
+      "uuid": "5cc055eb-88dc-4af3-8f77-e6a67f0a5945",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-04-16T21:15:41.661Z",
+      "resolved_at": null,
+      "message": "What's the implication of this?\n\nWe have to break into separate sentences?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7249:7851",
+        "node_offset": {
+          "x": 373,
+          "y": 201
+        },
+        "stable_path": [
+          "7249:7851"
+        ]
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "1189086818",
+      "uuid": "6d275603-24ad-4ffd-89f0-f69f33590784",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-03-25T21:42:26.397Z",
+      "resolved_at": null,
+      "message": "\"continuing\" or \"continuing to use Firefox\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6659:55925",
+        "node_offset": {
+          "x": 490,
+          "y": 350
+        },
+        "stable_path": [
+          "6659:55925"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "1189084280",
+      "uuid": "3a7be5c3-e17d-44c8-b583-49e0c55fa5d3",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-03-25T21:39:52.218Z",
+      "resolved_at": null,
+      "message": "is the privacy notice part of what they're acknowledging?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6659:55925",
+        "node_offset": {
+          "x": 721,
+          "y": 361
+        },
+        "stable_path": [
+          "6659:55925"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "1189075643",
+      "uuid": "415f507b-f93b-474c-ac87-8022e8f9246e",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-03-25T21:31:08.269Z",
+      "resolved_at": null,
+      "message": "do we need to call it updated?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6670:3190",
+        "node_offset": {
+          "x": 591,
+          "y": 266
+        },
+        "stable_path": [
+          "6670:3190"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "1189023407",
+      "uuid": "8bfad6d0-1393-49cb-9c4d-3aa1585301af",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-03-25T20:47:09.650Z",
+      "resolved_at": null,
+      "message": "need to say \"updated\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6659:55581",
+        "node_offset": {
+          "x": 170,
+          "y": 355
+        },
+        "stable_path": [
+          "6659:55581"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "1189023348",
+      "uuid": "1635cabf-ed80-4c5e-b049-4896785c87df",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-03-25T20:47:07.092Z",
+      "resolved_at": null,
+      "message": "need to say \"updated\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6659:42379",
+        "node_offset": {
+          "x": 172,
+          "y": 406
+        },
+        "stable_path": [
+          "6659:42379"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "1189023296",
+      "uuid": "8a8b3a66-3fed-4187-b791-e3da55854bc9",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-03-25T20:47:04.030Z",
+      "resolved_at": null,
+      "message": "need to say \"updated\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6659:42384",
+        "node_offset": {
+          "x": 169,
+          "y": 407
+        },
+        "stable_path": [
+          "6659:42384"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "1186953163",
+      "uuid": "91043b0f-cc1a-42f1-b197-898546a0a2e4",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-03-24T20:54:02.658Z",
+      "resolved_at": null,
+      "message": "ilnks here: https://www.mozilla.org/en-US/about/legal/terms/firefox/",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6604:61717",
+        "node_offset": {
+          "x": 143,
+          "y": 462
+        },
+        "stable_path": [
+          "6604:61717"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "1186952980",
+      "uuid": "a135f854-4998-41e0-9636-2f1c4579dd38",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-03-24T20:53:53.146Z",
+      "resolved_at": null,
+      "message": "links here: https://www.mozilla.org/en-US/about/legal/terms/firefox/",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6604:61235",
+        "node_offset": {
+          "x": 160,
+          "y": 451
+        },
+        "stable_path": [
+          "6604:61235"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "1186949611",
+      "uuid": "9ba086f2-9df7-4d35-8cad-d9a5489751f2",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-03-24T20:50:57.674Z",
+      "resolved_at": null,
+      "message": "Q: are you able to click out of these?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6241:4757",
+        "node_offset": {
+          "x": 8329,
+          "y": 20304
+        },
+        "stable_path": [
+          "6241:4757"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "1186944886",
+      "uuid": "af9e9cc1-9d4a-4f73-90eb-cdc1ce6e5e64",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-03-24T20:46:59.118Z",
+      "resolved_at": null,
+      "message": "same Q re: hyperlinking here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6604:61717",
+        "node_offset": {
+          "x": 155,
+          "y": 420
+        },
+        "stable_path": [
+          "6604:61717"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1186943646",
+      "uuid": "874e6bd8-1603-47f8-8bd4-8530ce82963d",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-03-24T20:45:55.466Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter do we need to say \"New\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6604:61235",
+        "node_offset": {
+          "x": 89,
+          "y": 330
+        },
+        "stable_path": [
+          "6604:61235"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1130631158",
+      "uuid": "24efd1fe-6580-45f6-89fe-ae03e591bc1d",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-02-12T21:36:36.317Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier Moving back from the question of opening new links, the source of this issue is that the whole MoCo website, in the current implementation, is embedded into a disclosure that is embedded into a modal. The designs on the left from this frame have text-based ToS (with links but no other website structure and scrolling and other complexity of a full-scale website) - could this be realized instead? this would resolve the a11y concerns and would provide behavior that is known for wide set of users too.\nCC @Natalie Stroud",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1420:23186",
+        "node_offset": {
+          "x": 2479,
+          "y": 717
+        },
+        "stable_path": [
+          "1420:23186"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1126620293",
+      "uuid": "051a9723-f401-4d85-8b7e-e903e3a6d7c1",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-02-10T20:48:37.607Z",
+      "resolved_at": null,
+      "message": "@Brooke Katalinich you may be up to date on this, but I got the latest from @Ashley Thomas. We need to introduce this part of the UI to Firefox Focus.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5663:14605",
+        "node_offset": {
+          "x": 1038,
+          "y": 769
+        },
+        "stable_path": [
+          "5663:14605"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "1118993014",
+      "uuid": "e56b1602-7ade-4a42-a12d-c17d8042fdc8",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-02-05T01:25:26.726Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier Removed this content since we are turning telemetry off.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5594:15168",
+        "node_offset": {
+          "x": 416,
+          "y": 7043
+        },
+        "stable_path": [
+          "5594:15168"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "1118985305",
+      "uuid": "21b31868-3e6c-4ceb-a1ed-2dfb5a0472e0",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-02-05T01:13:17.422Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier Just caught up on Slack conversations about ToS and Focus. It sounds like we are removing telemetry for technical and interaction data in Focus, but not for crash reporting. But maybe we don't need an explicit opt-out for crash reports?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5594:15597",
+        "node_offset": {
+          "x": 364,
+          "y": 67
+        },
+        "stable_path": [
+          "5594:15597"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "1118817606",
+      "uuid": "5d0ebfaa-a6b0-4a06-a3d4-5e159646b694",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-02-04T21:37:10.094Z",
+      "resolved_at": null,
+      "message": "Here's the link to the current Privacy Notice: https://www.mozilla.org/en-US/privacy/firefox-focus/\n\nIt sounds like it will be updated from this Slack discussion between Jennifer and Chris: https://mozilla.slack.com/archives/C07LM3FLJD8/p1738349092949709",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5594:15268",
+        "node_offset": {
+          "x": 330,
+          "y": 647
+        },
+        "stable_path": [
+          "5594:15268"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1109581723",
+      "uuid": "41308e81-7db3-4508-b711-a3c585bdc2bf",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-01-28T18:55:41.905Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde Of the three options, I think Variant 3B works best because the \"When\" construction makes it sound more like a one-and-done action for the user (ie, you agree to this thing and we collect data once, versus the other options sound more like continual data collection/more work for the user. \n\nI am going to suggest one alternate but ignore it if this causes swirl.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5193:6393",
+        "node_offset": {
+          "x": 4407,
+          "y": 5464
+        },
+        "stable_path": [
+          "5193:6393"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1105637482",
+      "uuid": "608324da-d2ba-4e99-8ce2-94c05bd04c0f",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2025-01-24T16:35:43.121Z",
+      "resolved_at": null,
+      "message": "@Meg Viar added the variant B stuff up here and marked it as ready for dev!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5106:15407",
+        "node_offset": {
+          "x": 371,
+          "y": 169
+        },
+        "stable_path": [
+          "5106:15407"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1104259009",
+      "uuid": "3a4494c6-fa3a-4a6b-98b8-78eac8e759fd",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-01-23T19:59:38.387Z",
+      "resolved_at": null,
+      "message": "Could you drop the \"start browsing\" and just go with \"Confirm\" and \"Confirm and continue\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4814:15692",
+        "node_offset": {
+          "x": 1871,
+          "y": 2769
+        },
+        "stable_path": [
+          "4814:15692"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1104038834",
+      "uuid": "5260c5eb-02c0-48bd-b6ab-ac83686b6dfd",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Meg Viar",
+        "img_url": "https://www.gravatar.com/avatar/a0d79f9c5b0e4af5c2211cf04ea9f363?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1075100377676868300"
+      },
+      "created_at": "2025-01-23T17:18:18.984Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier we were asked to land updates to support variant B as well - ok to use these designs?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1420:23186",
+        "node_offset": {
+          "x": 2186,
+          "y": 525
+        },
+        "stable_path": [
+          "1420:23186"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1103847440",
+      "uuid": "d1275049-d3fb-4961-be8c-2468322a852b",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-01-23T15:31:21.142Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde I drafted some legal requirements - can you take a peek and address gaps/missteps? Thank you",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4814:15692",
+        "node_offset": {
+          "x": 3766,
+          "y": 3313
+        },
+        "stable_path": [
+          "4814:15692"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1102748554",
+      "uuid": "7bd34999-1986-430c-ba3e-e1a74ebf0835",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-01-23T03:37:29.827Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde Took another swing based on your feedback, quick review of previous versions, and some more thoughts (captured in yellow post-it). WDYT?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4814:15692",
+        "node_offset": {
+          "x": 2404,
+          "y": 3877
+        },
+        "stable_path": [
+          "4814:15692"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1102685324",
+      "uuid": "cf81601b-342b-41e6-8834-26e067256e3e",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-01-23T02:09:59.701Z",
+      "resolved_at": null,
+      "message": "\"Data is only collected if you actively use the product\" isn't totally accurate. Data is collected if users check the box and tap \"Confirm and start browsing.\" The data about how you discovered Firefox is sent right away and then the other data measuring conversion or engagement is sent later, I believe.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4814:15692",
+        "node_offset": {
+          "x": 1393,
+          "y": 4088
+        },
+        "stable_path": [
+          "4814:15692"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1102683948",
+      "uuid": "38ce2485-e0eb-4dc8-a205-411bbe689a85",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-01-23T02:08:02.573Z",
+      "resolved_at": null,
+      "message": "I wouldn't advocate to use \"trusted partners\" here. One of our partners is Google, which will be mentioned in the SUMO article, and our users expressed a general feeling of mistrust toward Google. \n\nFrom the ToS user research deck: \"... Google, for our participants, is a heuristic for \u201cwhat I don\u2019t want.\u201d",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4814:15692",
+        "node_offset": {
+          "x": 1893,
+          "y": 4008
+        },
+        "stable_path": [
+          "4814:15692"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1093177572",
+      "uuid": "b4f29456-7e0c-4b8d-9e80-0674d8461113",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Noel De La Torre",
+        "img_url": "https://s3-alpha.figma.com/profile/46e37a04-18c5-4258-9868-ca6eb641f2f8",
+        "id": "1259179507290857735"
+      },
+      "created_at": "2025-01-15T17:33:31.021Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier here are the most recent variants WITH \"and interact with\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4198:5923",
+        "node_offset": {
+          "x": 309,
+          "y": 243
+        },
+        "stable_path": [
+          "4198:5923"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "1089317534",
+      "uuid": "96f67d42-b010-445f-9e14-28b265a03036",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Noel De La Torre",
+        "img_url": "https://s3-alpha.figma.com/profile/46e37a04-18c5-4258-9868-ca6eb641f2f8",
+        "id": "1259179507290857735"
+      },
+      "created_at": "2025-01-13T14:05:26.335Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde, the overall message here feels selfish as the focus is what we want (to collect) and how that helps us. The only signal that a user has a choice is the checkbox, which will be opted in by default. I think we'd get significant pushback on these variants.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4182:8366",
+        "node_offset": {
+          "x": 468,
+          "y": 65
+        },
+        "stable_path": [
+          "4182:8366"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1088595567",
+      "uuid": "44012f3d-08d1-4f88-98a0-a5b3169883db",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2025-01-13T04:56:15.711Z",
+      "resolved_at": null,
+      "message": "@Noel De La Torre Of the variants that focus on \"limited resources,\" I think I like this one best. Are we also gathering data on how people use Firefox? That's the new piece of information here and I don't know if it's accurate! :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1268:5311",
+        "node_offset": {
+          "x": 13355,
+          "y": 9444
+        },
+        "stable_path": [
+          "1268:5311"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1079414975",
+      "uuid": "f7f936ba-78b7-46a2-b469-494a98a86f52",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Ashley Thomas",
+        "img_url": "https://www.gravatar.com/avatar/ffbbd17f9e9f339615ea38dea15de645?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "890268597412154883"
+      },
+      "created_at": "2025-01-02T19:19:17.491Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde I got some feedback that we should title-case this. Have you taken a look at it?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1420:14381",
+        "node_offset": {
+          "x": -1326,
+          "y": 1054
+        },
+        "stable_path": [
+          "1420:14381"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1067902340",
+      "uuid": "4944a973-78b5-4bcf-95fc-c8be6ee2e17b",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Ashley Thomas",
+        "img_url": "https://www.gravatar.com/avatar/ffbbd17f9e9f339615ea38dea15de645?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "890268597412154883"
+      },
+      "created_at": "2024-12-17T17:30:08.330Z",
+      "resolved_at": null,
+      "message": "I wonder if we need the 2nd sentence given we have the dropdown section more prominent here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3527:6439",
+        "node_offset": {
+          "x": 739,
+          "y": 230
+        },
+        "stable_path": [
+          "3527:6439"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1066561055",
+      "uuid": "0d788ce0-14fe-4af6-8bac-270de589b8e5",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-12-17T01:06:12.890Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier I've got some content in here for 3 different design options. I'm sure it will have dependencies on legal requirements but which one do you prefer? cc: @Ashley Thomas",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3385:12041",
+        "node_offset": {
+          "x": 59,
+          "y": 1068
+        },
+        "stable_path": [
+          "3385:12041"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1066493323",
+      "uuid": "32ba8051-580c-4b79-acc6-3d4e25464a7d",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-12-16T23:09:33.111Z",
+      "resolved_at": null,
+      "message": "Should this say \"Backlogged crash reports\" like the current setting on the Settings page? Desktop crash reports aren't automatic like mobile?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3527:6223",
+        "node_offset": {
+          "x": 10,
+          "y": 388
+        },
+        "stable_path": [
+          "3527:6223"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1030051036",
+      "uuid": "dc9bd975-c2e3-4e83-a006-3ca269b4352a",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jennifer Johnson",
+        "img_url": "https://www.gravatar.com/avatar/6274249dc1eac64ab5e5cf2fb305d299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1285680797592383399"
+      },
+      "created_at": "2024-11-18T14:11:23.071Z",
+      "resolved_at": null,
+      "message": "Assuming it's true (do we only send aggregates? Or individual data with identifiers removed?), we could say this.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1643:14623",
+        "node_offset": {
+          "x": -72,
+          "y": 479
+        },
+        "stable_path": [
+          "1643:14623"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "1030047707",
+      "uuid": "4911cc62-d2e6-46d3-af12-ef4533d94934",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jennifer Johnson",
+        "img_url": "https://www.gravatar.com/avatar/6274249dc1eac64ab5e5cf2fb305d299?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1285680797592383399"
+      },
+      "created_at": "2024-11-18T14:09:35.956Z",
+      "resolved_at": null,
+      "message": "We can't use the word \"anonymous\" (it has a particular legal meaning that's very strict)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1870:5918",
+        "node_offset": {
+          "x": 136,
+          "y": 442
+        },
+        "stable_path": [
+          "1870:5918"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1024991330",
+      "uuid": "cc21079b-20f2-4204-803c-19e24219a2d7",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2024-11-13T19:48:30.763Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier - also, I'm planning on having participants go through this entire flow naturally (e.g. they will be asked to complete the onboarding flow as they would in real life without me probing on anything in particular) and then I'm going to take them back to the data collection screen and this screen for specific probes. I can get back to the data collection screen pretty easily by pressing R for restart, but is there a way hide an invisible button that quick-jump to this page from wherever you are in the prototype?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1420:37724",
+        "node_offset": {
+          "x": 5914,
+          "y": 1920
+        },
+        "stable_path": [
+          "1420:37724"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "1023304172",
+      "uuid": "7d2f11a5-9f91-449f-9254-b320dd326d27",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2024-11-12T23:08:29.658Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier could we actually have the flow start on the Firefox app on the Google Play store? e.g. the step right before this one, this helps users get into the mindset a little better",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1420:37724",
+        "node_offset": {
+          "x": 624,
+          "y": 1700
+        },
+        "stable_path": [
+          "1420:37724"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1023303551",
+      "uuid": "7c10f616-66d0-4076-94ee-6679009880cd",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2024-11-12T23:07:37.002Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier @Tina Vaamonde this one is the tricky one that @Ashley Thomas and I talked about -- we don't currently have the page it will link to built out yet, but I ideally need a proxy page where the copy doesn't have to be perfect but it just can't link to here: https://support.mozilla.org/en-US/kb/how-do-you-use-adjust-firefox#w_campaign-measurement-data because it just doesn't fit the current flow.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1420:37724",
+        "node_offset": {
+          "x": 5929,
+          "y": 1814
+        },
+        "stable_path": [
+          "1420:37724"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1023301639",
+      "uuid": "b3623834-f937-40cd-af60-1eb102d23f32",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2024-11-12T23:05:00.504Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier I need this one to go here : https://www.mozilla.org/en-US/privacy/firefox/#health-report",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1315:17158",
+        "node_offset": {
+          "x": 228,
+          "y": 295
+        },
+        "stable_path": [
+          "1315:17158"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1023301397",
+      "uuid": "887bed81-dabf-4625-940c-60c8f37ce004",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Rhee",
+        "img_url": "https://s3-alpha.figma.com/profile/b93cd4f9-e93a-42f1-a32f-f61d9907f19d",
+        "id": "971812688925499640"
+      },
+      "created_at": "2024-11-12T23:04:42.233Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier I need this Learn More link to be clickable and go here : https://www.mozilla.org/en-US/privacy/firefox/#crash-reporter (Ashley was good with this)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1315:17158",
+        "node_offset": {
+          "x": 228,
+          "y": 143
+        },
+        "stable_path": [
+          "1315:17158"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "982344266",
+      "uuid": "75f5ee45-7bcc-46dc-b2c6-eaf0581e2dfa",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-10-11T00:08:39.178Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier I'm interested in exploring a variant that doesn't include the headers for each data collection description. It might seem friendlier and would save some space. (I'd like to shorten the descriptions as well, if possible.) From a design perspective, do you think we need the headers for easier scanning?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "889:21217",
+        "node_offset": {
+          "x": 650,
+          "y": 107
+        },
+        "stable_path": [
+          "889:21217"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "982119948",
+      "uuid": "5dbeb8eb-5a38-4b18-b3f8-1bc094e88010",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-10-10T19:18:09.640Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier Yes, agree! The toggle implies that it's a setting that can be turned on or off whereas the checkbox better implies that it's a one-time decision in order to proceed through onboarding.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "859:2712",
+        "node_offset": {
+          "x": 826,
+          "y": 74
+        },
+        "stable_path": [
+          "859:2712"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "928921025",
+      "uuid": "d67956e8-1f60-46fe-a19f-906d23ed1191",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2024-08-28T18:26:53.755Z",
+      "resolved_at": null,
+      "message": "looking at this headline - doesnt quite flow with the actions we want them to do.\n\nhow about something along the lines of \"Keeping you safe is easy\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "229:7136",
+        "node_offset": {
+          "x": 908,
+          "y": 436.396484375
+        },
+        "stable_path": [
+          "229:7136"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "928913225",
+      "uuid": "df8ba45f-d6c1-4c5d-a1ed-45fbb051d418",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2024-08-28T18:21:12.557Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde Looking at this again - trying to think about how to encourage people to opt in.\nThe heading seems to run contrarian to what we want them to do - we want them to share their data (and it is less about privacy). Right now, if we cared about your privacy, it wouldnt ask you \n\nI wonder if the heading could be modified to \n1. Sharing is caring/ Make Firefox Better -- by sharing X you make Firefox better - data shared will still be handled respectful",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "307:5137",
+        "node_offset": {
+          "x": 831.13623046875,
+          "y": 420.396484375
+        },
+        "stable_path": [
+          "307:5137"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "902262795",
+      "uuid": "c2cdd1d5-a5c8-4b9e-963a-decd5a5f78e2",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-08-06T21:34:34.468Z",
+      "resolved_at": null,
+      "message": "Update the copy to clarify that by \u201cshare\u201d we mean \u201cshare with Mozilla.\u201d",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "235:7725",
+        "node_offset": {
+          "x": 916,
+          "y": 627
+        },
+        "stable_path": [
+          "235:7725"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "902261097",
+      "uuid": "be12ddc2-95fd-4e37-8617-ad6c321a4601",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-08-06T21:32:25.339Z",
+      "resolved_at": null,
+      "message": "Not final yet. This variant needs: \n\u2022 updated content on marketing data collection from @Daniel Berry \n\u2022 an overall review of content from legal (@Jennifer Johnson)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:2641",
+        "node_offset": {
+          "x": 6255,
+          "y": 1029
+        },
+        "stable_path": [
+          "1:2641"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "897323063",
+      "uuid": "c97d6c21-5b34-4ff3-bdd6-73200bef7389",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-08-01T23:30:56.228Z",
+      "resolved_at": null,
+      "message": "From a legal perspective, is there any risk having onboarding tasks and data collection permissions in one list?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "235:7725",
+        "node_offset": {
+          "x": 993,
+          "y": 559
+        },
+        "stable_path": [
+          "235:7725"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "897210210",
+      "uuid": "9926038b-5447-418d-b58f-ba5925c16691",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-08-01T20:41:30.413Z",
+      "resolved_at": null,
+      "message": "Use 'confirm' for stronger term. 'Accept' as another option.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "107:2627",
+        "node_offset": {
+          "x": 139.2509765625,
+          "y": 699.35546875
+        },
+        "stable_path": [
+          "107:2627"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "897208637",
+      "uuid": "a8ae9441-8ab6-4a25-9f32-f666a1bc80fa",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-08-01T20:39:49.040Z",
+      "resolved_at": null,
+      "message": "Can we cut content after 'customization data' in Usage and technical data description?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "107:2627",
+        "node_offset": {
+          "x": 281.2509765625,
+          "y": 523.35546875
+        },
+        "stable_path": [
+          "107:2627"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "897178620",
+      "uuid": "534152b4-be5b-4343-a2fa-30dec9ce0660",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-08-01T20:11:04.413Z",
+      "resolved_at": null,
+      "message": "This stronger CTA language is preferred by legal (Accept vs Save). Does this still work when we are combining onboarding tasks and data collection in one checklist?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "235:7725",
+        "node_offset": {
+          "x": 1031,
+          "y": 711
+        },
+        "stable_path": [
+          "235:7725"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "897176196",
+      "uuid": "6f30bb2e-c1ae-49a2-88d3-a2ead654153d",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-08-01T20:08:38.576Z",
+      "resolved_at": null,
+      "message": "Confirm with legal: Is it correct that we need to remove the 'Skip' button so that users can't skip past this first card? Users need to make a selection and consent to what they've selected?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:2641",
+        "node_offset": {
+          "x": 1716,
+          "y": 1876
+        },
+        "stable_path": [
+          "1:2641"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "893942827",
+      "uuid": "e168d556-a24b-4aef-878c-f396c5b3f9ac",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-07-30T23:10:38.495Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier Re-writing this subcopy for variant B. What do you think? Do any of these work?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:2636",
+        "node_offset": {
+          "x": 9278,
+          "y": 749
+        },
+        "stable_path": [
+          "1:2636"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "890014195",
+      "uuid": "1fcc18c7-8852-4174-af83-821123953ecf",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2024-07-26T18:02:17.213Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde could you take a look at this content when you have a moment?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "229:7435",
+        "node_offset": {
+          "x": 147.13623046875,
+          "y": 114.80126953125
+        },
+        "stable_path": [
+          "229:7435"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "890001754",
+      "uuid": "21e47478-b6ec-4c87-9a5d-62e9e3957014",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2024-07-26T17:49:22.637Z",
+      "resolved_at": null,
+      "message": "@Daniel Berry added what we talked about as a concept here for reference.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "229:7435",
+        "node_offset": {
+          "x": 46.13623046875,
+          "y": 113.80126953125
+        },
+        "stable_path": [
+          "229:7435"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "889974079",
+      "uuid": "96302e49-abb1-42fd-8875-9b44096997ab",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2024-07-26T17:21:07.458Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde should we frame this subtitle as a question somehow? \"by checking this box you agree that...\" or something?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "229:6961",
+        "node_offset": {
+          "x": 208,
+          "y": 427.35546875
+        },
+        "stable_path": [
+          "229:6961"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "883281643",
+      "uuid": "c762ec7d-35dd-4416-8180-bd6d18c5d6f6",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-07-22T17:24:52.766Z",
+      "resolved_at": null,
+      "message": "More deliberate language for CTA text: Confirm, Confirm and accept",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:11777",
+        "node_offset": {
+          "x": 6225.998046875,
+          "y": 888
+        },
+        "stable_path": [
+          "1:11777"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "883276509",
+      "uuid": "47fd7b61-1c79-4c22-8fdd-67f70853fe9b",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-07-22T17:20:29.604Z",
+      "resolved_at": null,
+      "message": "Marketing data is dependent on Usage and technical data being checked.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:11777",
+        "node_offset": {
+          "x": 7240.998046875,
+          "y": 1614
+        },
+        "stable_path": [
+          "1:11777"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "883264616",
+      "uuid": "d9211679-d367-47e9-a870-848425651b0e",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabrielle Lussier",
+        "img_url": "https://s3-alpha.figma.com/profile/47f20711-4971-4e0b-9c1a-c07abc2b789a",
+        "id": "1081652139969940022"
+      },
+      "created_at": "2024-07-22T17:10:02.617Z",
+      "resolved_at": null,
+      "message": "add privacy link here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "107:2627",
+        "node_offset": {
+          "x": 264.2490234375,
+          "y": 669.35546875
+        },
+        "stable_path": [
+          "107:2627"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "878404291",
+      "uuid": "cb7d0a16-290b-4c35-9d9f-5c0295e840a8",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-07-17T20:20:01.048Z",
+      "resolved_at": null,
+      "message": "@Michael Feldman In this approach, we are routing the user to settings to opt out. Is this option viable from a legal perspective? Or are we are required to offer an explicit opt-out option within the onboarding surface rather than linking to it?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "109:7818",
+        "node_offset": {
+          "x": 978,
+          "y": 612
+        },
+        "stable_path": [
+          "109:7818"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "878317915",
+      "uuid": "388de8e8-22cf-4585-b0f6-d6a10dc937b8",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-07-17T19:02:33.508Z",
+      "resolved_at": null,
+      "message": "From a content perspective, I think this is confusing to mix setup actions and data collection permissions in the same checklist. Maybe a legal question, too? @Michael Feldman, can you comment on this variant?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "229:7126",
+        "node_offset": {
+          "x": 1674,
+          "y": 2188
+        },
+        "stable_path": [
+          "229:7126"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "878311098",
+      "uuid": "6e3d77e4-4d0e-4e1c-bcaf-cf40a19fb73d",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-07-17T18:56:35.055Z",
+      "resolved_at": null,
+      "message": "@Michael Feldman These data collection descriptions were pulled from another area of the site so I assume they have already been through a legal review. Can you take a quick peek and just give a thumbs up?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "21:4514",
+        "node_offset": {
+          "x": 8,
+          "y": 490
+        },
+        "stable_path": [
+          "21:4514"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "878306763",
+      "uuid": "eb8fcf08-e1ca-42d0-840d-5bc7730d3a78",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-07-17T18:52:57.502Z",
+      "resolved_at": null,
+      "message": "@Michael Feldman From a legal perspective, do the data collection category names need to precede each description?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "21:4771",
+        "node_offset": {
+          "x": 34,
+          "y": 459
+        },
+        "stable_path": [
+          "21:4771"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "878305682",
+      "uuid": "9ebc13b6-6d32-4998-96d2-3e5259c6961d",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-07-17T18:52:02.846Z",
+      "resolved_at": null,
+      "message": "@Michael Feldman Can you read through these variants (and the rationale for them) and comment on whether the messaging is OK from a legal perspective? FYI, the headline/subcopy intro content was lifted from the privacy notice content but slightly paraphrased.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:11777",
+        "node_offset": {
+          "x": 5748.998046875,
+          "y": 2629
+        },
+        "stable_path": [
+          "1:11777"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "878302239",
+      "uuid": "ac5d328f-4920-4859-a441-d858b78d16f4",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-07-17T18:49:14.341Z",
+      "resolved_at": null,
+      "message": "@Michael Feldman Can we link to the privacy notice in inline text? Or does it have to be on its own line per legal requirements?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:11777",
+        "node_offset": {
+          "x": 8231.998046875,
+          "y": 2404
+        },
+        "stable_path": [
+          "1:11777"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "877540188",
+      "uuid": "67de2c22-53ee-4325-b356-cc4966740a07",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2024-07-17T10:46:53.845Z",
+      "resolved_at": null,
+      "message": "Might users find the heading and the content disconnected. \n\nI noticed most of the competitors talk about \"helping them\" by providing their data. Could we try something around supporting the internet/community by sharing? maybe reference our open source roots?",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-07-17T19:04:51.374Z",
+          "user": {
+            "id": "1298754465457927621",
+            "handle": "Tina Vaamonde",
+            "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "100:6515",
+        "node_offset": {
+          "x": 1154,
+          "y": 997
+        },
+        "stable_path": [
+          "100:6515"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "877533446",
+      "uuid": "2d47b9fc-b105-4e79-b8cf-cf06043fd8b1",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2024-07-17T10:42:40.361Z",
+      "resolved_at": null,
+      "message": "I like how whale puts \"Help make [the browser] better first before asking about what data to share. If users skim it, they might just read the first few words",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:2641",
+        "node_offset": {
+          "x": 1709,
+          "y": 1634.603515625
+        },
+        "stable_path": [
+          "1:2641"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "877524636",
+      "uuid": "52498543-43f6-4c23-b2b8-8c0d40db2694",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2024-07-17T10:37:07.078Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde I think the challenge is communicating that we will only delete the info after the experiment. legal might need that before approving the experiment?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "100:6515",
+        "node_offset": {
+          "x": 1137,
+          "y": 726
+        },
+        "stable_path": [
+          "100:6515"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "877523291",
+      "uuid": "90ee39ba-6802-4982-89a5-b3248fc235e0",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2024-07-17T10:36:16.240Z",
+      "resolved_at": null,
+      "message": "On windows, we can combine pin + set default into a single action",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "109:7446",
+        "node_offset": {
+          "x": 909,
+          "y": 315.103515625
+        },
+        "stable_path": [
+          "109:7446"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "876864794",
+      "uuid": "c8175dce-0d29-4ad5-a3aa-3f02d327f180",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-07-17T00:50:47.808Z",
+      "resolved_at": null,
+      "message": "after what? We can't say \"after the end of the experiment\" because users don't know they're in an experiment. What can we say here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:11777",
+        "node_offset": {
+          "x": 1610.998046875,
+          "y": 991
+        },
+        "stable_path": [
+          "1:11777"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "876789245",
+      "uuid": "14cb369a-2268-4677-886f-90f8c34ae290",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Daniel Berry",
+        "img_url": "https://www.gravatar.com/avatar/b62d9a0cfdf111355a01260653b2b959?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1124007762114860760"
+      },
+      "created_at": "2024-07-16T22:15:23.620Z",
+      "resolved_at": null,
+      "message": "These should be checked by default. Also, we might need a link to the terms of service in the main paragraph.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:2641",
+        "node_offset": {
+          "x": 1711,
+          "y": 1446.603515625
+        },
+        "stable_path": [
+          "1:2641"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1300709338",
+      "uuid": "e8c7c684-9bbe-4bef-8ea2-72bb61544e41",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-06-16T15:28:55.344Z",
+      "resolved_at": null,
+      "message": "hi @Gabrielle Lussier ! after further review, @Anna Yeddi and I have voted that this one is the best option. As mentioned to the left, the UI is a lot cleaner and this looks similar to typical Terms of Use/Service UI in other examples. It resolves the bug I had filed previously for the browser views as well. We both agree that with option 1, the new window icon inside of the expand/collapse button could become confusing. Same thing with #3, the button within the expand/collapse areas could become busy and confusing as well. If you have any questions, please let me know! thank you :grin:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8753:31384",
+        "node_offset": {
+          "x": 687,
+          "y": 74
+        },
+        "stable_path": [
+          "8753:31384"
+        ]
+      },
+      "order_id": "241"
+    },
+    {
+      "id": "1231105903",
+      "uuid": "f7401873-cf65-4bb4-8d62-874439b2ab98",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jamie Sigadel",
+        "img_url": "https://www.gravatar.com/avatar/53c8c0a1d0c0f42134e8d49ced9aecb6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1403078798096954142"
+      },
+      "created_at": "2025-04-24T17:26:06.256Z",
+      "resolved_at": null,
+      "message": "Between the two full-screen options, I do like the design here (more branded experience)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7489:4960",
+        "node_offset": {
+          "x": 1687,
+          "y": 2916
+        },
+        "stable_path": [
+          "7489:4960"
+        ]
+      },
+      "order_id": "116"
+    },
+    {
+      "id": "1231098718",
+      "uuid": "845c54a9-eff5-4aab-9ad1-c175af01c733",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jamie Sigadel",
+        "img_url": "https://www.gravatar.com/avatar/53c8c0a1d0c0f42134e8d49ced9aecb6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1403078798096954142"
+      },
+      "created_at": "2025-04-24T17:21:09.657Z",
+      "resolved_at": null,
+      "message": "I like this option.. It feels balanced as far as being informative without too intrusive or taking too much space",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7489:4960",
+        "node_offset": {
+          "x": 2575,
+          "y": 5326
+        },
+        "stable_path": [
+          "7489:4960"
+        ]
+      },
+      "order_id": "113"
+    },
+    {
+      "id": "1130631158",
+      "uuid": "24efd1fe-6580-45f6-89fe-ae03e591bc1d",
+      "file_key": "F63Ac1akw2q1fN5D59rgS5",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-02-12T21:36:36.317Z",
+      "resolved_at": null,
+      "message": "@Gabrielle Lussier Moving back from the question of opening new links, the source of this issue is that the whole MoCo website, in the current implementation, is embedded into a disclosure that is embedded into a modal. The designs on the left from this frame have text-based ToS (with links but no other website structure and scrolling and other complexity of a full-scale website) - could this be realized instead? this would resolve the a11y concerns and would provide behavior that is known for wide set of users too.\nCC @Natalie Stroud",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1420:23186",
+        "node_offset": {
+          "x": 2479,
+          "y": 717
+        },
+        "stable_path": [
+          "1420:23186"
+        ]
+      },
+      "order_id": "76"
+    }
+  ]
+}

@@ -1,0 +1,4844 @@
+{
+  "unresolved": [
+    {
+      "id": "1610564388",
+      "uuid": "1e65154c-3032-4910-9167-5cb833ac6e94",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2026-01-29T20:04:44.592Z",
+      "resolved_at": null,
+      "message": "@Emanuela Damiani is this the recommendation?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3225:19731",
+        "node_offset": {
+          "x": 98,
+          "y": 180
+        },
+        "stable_path": [
+          "3225:19731"
+        ]
+      },
+      "order_id": "199"
+    },
+    {
+      "id": "1609741725",
+      "uuid": "083ee2bb-6d5c-45f1-a5ec-eaa3ad2b6186",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2026-01-29T12:41:19.941Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova Thanks for putting this together - Agree with the decision to bring the CTA closer to the action itself. That said, I do wonder can keep the smart bar + answers inside one container with a divider line? It does feel a little disconnected with two cards.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3202:56919",
+        "node_offset": {
+          "x": 1077,
+          "y": 434
+        },
+        "stable_path": [
+          "3202:56919"
+        ]
+      },
+      "order_id": "198"
+    },
+    {
+      "id": "1603571008",
+      "uuid": "a8d4e45d-ab16-4eb9-83bb-083b228f33ed",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-01-26T14:07:43.101Z",
+      "resolved_at": null,
+      "message": "Is this enough of contrast for the address bar?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2836:137774",
+        "node_offset": {
+          "x": 251,
+          "y": 69
+        },
+        "stable_path": [
+          "2836:137774"
+        ]
+      },
+      "order_id": "197"
+    },
+    {
+      "id": "1603567591",
+      "uuid": "d4396683-cb21-402a-8d4c-c24f87cf5131",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-01-26T14:05:53.455Z",
+      "resolved_at": null,
+      "message": "Should these be styled as conversation starters on the New Tab?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2982:144865",
+        "node_offset": {
+          "x": 1334,
+          "y": 652
+        },
+        "stable_path": [
+          "2982:144865"
+        ]
+      },
+      "order_id": "196"
+    },
+    {
+      "id": "1602095625",
+      "uuid": "579d9331-4290-4807-9d90-45f67534b8df",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-01-23T23:28:05.655Z",
+      "resolved_at": null,
+      "message": "need to define a max width for these elements and context chips in smart bar",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3042:81253",
+        "node_offset": {
+          "x": 1429,
+          "y": 232
+        },
+        "stable_path": [
+          "3042:81253"
+        ]
+      },
+      "order_id": "195"
+    },
+    {
+      "id": "1601637503",
+      "uuid": "1677a659-b3a1-4f5b-94cb-1fea9a3986bf",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-01-23T16:10:31.416Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston started to test your designs on the new bg. Got stuck a bit on the fill color here since it is invisible :( Should we just choose another solid color? Or use something with transparence?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2836:145265",
+        "node_offset": {
+          "x": 1208,
+          "y": 218
+        },
+        "stable_path": [
+          "2836:145265"
+        ]
+      },
+      "order_id": "194"
+    },
+    {
+      "id": "1600261681",
+      "uuid": "15c83715-28a8-4a4c-931f-449d4d018771",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-01-22T21:41:05.297Z",
+      "resolved_at": null,
+      "message": "time based - if you're typing etc, remove follow-ups and suggestions",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1791:67021",
+        "node_offset": {
+          "x": 4124,
+          "y": 24512
+        },
+        "stable_path": [
+          "1791:67021"
+        ]
+      },
+      "order_id": "193"
+    },
+    {
+      "id": "1600242207",
+      "uuid": "9fa59ab3-b914-4d76-8963-d07e857d476f",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-01-22T21:23:45.333Z",
+      "resolved_at": null,
+      "message": "I like the touch purple",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2795:130374",
+        "node_offset": {
+          "x": 623,
+          "y": 563
+        },
+        "stable_path": [
+          "2795:130374"
+        ]
+      },
+      "order_id": "192"
+    },
+    {
+      "id": "1600191975",
+      "uuid": "c9d8c0ab-92d4-4544-aab2-5bf503ab628a",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-01-22T20:41:13.959Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston for these elements I am wondering if we should start using the new background to see how it looks and if we need to tweak it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2618:58884",
+        "node_offset": {
+          "x": 1295,
+          "y": 250
+        },
+        "stable_path": [
+          "2618:58884"
+        ]
+      },
+      "order_id": "191"
+    },
+    {
+      "id": "1600190274",
+      "uuid": "1da9baa4-9788-45cc-ba3b-55a509a1d461",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-01-22T20:39:51.679Z",
+      "resolved_at": null,
+      "message": "@Emanuela Damiani @Brooke Katalinich @Jane Wolf @Eric Pang @Paige Ormiston I further refined the new tab look. For the version with colorful corners at the top, I made the gradient much more subtle, and I think I prefer this direction. Below, I also explored a less saturated option and I\u2019m leaning toward it. It also helps the gradient on the smart bar stand out more. Curious to hear your thoughts.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2791:131449",
+        "node_offset": {
+          "x": 3593,
+          "y": 2633
+        },
+        "stable_path": [
+          "2791:131449"
+        ]
+      },
+      "order_id": "190"
+    },
+    {
+      "id": "1600182221",
+      "uuid": "4aba5235-0614-410f-a335-2aa2572f3c43",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-01-22T20:33:06.489Z",
+      "resolved_at": null,
+      "message": "the difference is so subtle. Maybe I am ok with the grey we have ;D",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2846:71269",
+        "node_offset": {
+          "x": 918,
+          "y": 665
+        },
+        "stable_path": [
+          "2846:71269"
+        ]
+      },
+      "order_id": "189"
+    },
+    {
+      "id": "1597541147",
+      "uuid": "78be355b-3d69-4f1f-ba83-529a443936be",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-01-21T14:58:45.223Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller I know you didn't ask for my thoughts on this but just saw it real quick... \n* Could we use a different word other than mask here since we also have email masks? \n* Could this also be a moment where we gently promote VPN in Firefox? It doesn't fully make someone anon in PBM but can add an extra layer",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1804:22393",
+        "node_offset": {
+          "x": 643,
+          "y": 248
+        },
+        "stable_path": [
+          "1804:22393"
+        ]
+      },
+      "order_id": "188"
+    },
+    {
+      "id": "1596165257",
+      "uuid": "0c9ed54c-2f4f-42c3-9760-0d147d2eb53b",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2026-01-20T22:38:33.504Z",
+      "resolved_at": null,
+      "message": "How do we label private windows in the sidebar? @Emily Wachowiak",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1804:23088",
+        "node_offset": {
+          "x": 114,
+          "y": 268
+        },
+        "stable_path": [
+          "1804:23088"
+        ]
+      },
+      "order_id": "185"
+    },
+    {
+      "id": "1595762827",
+      "uuid": "a4065d56-b92f-4d02-ac66-daf1bc86f93e",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-01-20T17:30:40.335Z",
+      "resolved_at": null,
+      "message": "@Jane Wolf we also have a super-dark proposal now",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2525:162166",
+        "node_offset": {
+          "x": 133,
+          "y": 780
+        },
+        "stable_path": [
+          "2525:162166"
+        ]
+      },
+      "order_id": "181"
+    },
+    {
+      "id": "1595751546",
+      "uuid": "5425a423-3da1-4f77-b651-85fa25e124d8",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2026-01-20T17:23:36.189Z",
+      "resolved_at": null,
+      "message": "@Emanuela Damiani",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2534:56219",
+        "node_offset": {
+          "x": 644,
+          "y": 138
+        },
+        "stable_path": [
+          "2534:56219"
+        ]
+      },
+      "order_id": "180"
+    },
+    {
+      "id": "1595649923",
+      "uuid": "756d1d50-60ec-4be4-9b1a-ffc0bb0a34b1",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2026-01-20T16:26:00.961Z",
+      "resolved_at": null,
+      "message": "@Diana Horn here is the latest Smart Window and Private Window for comparison",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2462:195147",
+        "node_offset": {
+          "x": 2082,
+          "y": 12173
+        },
+        "stable_path": [
+          "2462:195147"
+        ]
+      },
+      "order_id": "179"
+    },
+    {
+      "id": "1595589052",
+      "uuid": "734660bc-f6bf-4f5a-96d3-b40a482f613c",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2026-01-20T15:54:31.115Z",
+      "resolved_at": null,
+      "message": "I think we should consider adding branding to this page a bit like the private window has as our default wallpaper.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-01-20T16:36:27.170Z",
+          "user": {
+            "id": "368785027972814935",
+            "handle": "Emanuela Damiani",
+            "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2465:46646",
+        "node_offset": {
+          "x": 311,
+          "y": 311
+        },
+        "stable_path": [
+          "2465:46646"
+        ]
+      },
+      "order_id": "178"
+    },
+    {
+      "id": "1595480741",
+      "uuid": "249150a8-5e40-4f89-a0ce-0a891faff70b",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-01-20T15:04:01.892Z",
+      "resolved_at": null,
+      "message": "@Brooke Katalinich tried this version of the dark background. I think it helps make the smart window feel different from the classic one, and because the background is almost black, the glow behind the smart bar stands out even more.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2462:195147",
+        "node_offset": {
+          "x": 1410,
+          "y": 11609
+        },
+        "stable_path": [
+          "2462:195147"
+        ]
+      },
+      "order_id": "177"
+    },
+    {
+      "id": "1595099723",
+      "uuid": "68d199ed-c0b5-4b6d-b6df-a654720199e2",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2026-01-20T11:55:13.418Z",
+      "resolved_at": null,
+      "message": "https://finex-finance.aura.build/",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2465:48018",
+        "node_offset": {
+          "x": 918,
+          "y": 1052
+        },
+        "stable_path": [
+          "2465:48018"
+        ]
+      },
+      "order_id": "176"
+    },
+    {
+      "id": "1593565787",
+      "uuid": "0b9b55b7-954c-4c51-9076-f94de9e6dd4f",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-01-19T13:42:51.607Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk @Paige Ormiston dropped more explorations here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1570:20267",
+        "node_offset": {
+          "x": 64679,
+          "y": 9225
+        },
+        "stable_path": [
+          "1570:20267"
+        ]
+      },
+      "order_id": "175"
+    },
+    {
+      "id": "1591917105",
+      "uuid": "136868ff-913e-4acd-b46e-778a01c88d8e",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2026-01-16T20:00:29.741Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2315:101783",
+        "node_offset": {
+          "x": 1988,
+          "y": 1615
+        },
+        "stable_path": [
+          "2315:101783"
+        ]
+      },
+      "order_id": "174"
+    },
+    {
+      "id": "1591630701",
+      "uuid": "846e09b7-41bf-4a84-b07e-ce39dbd27fb1",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-01-16T16:14:32.376Z",
+      "resolved_at": null,
+      "message": "Maybe try using this shape?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2168:37140",
+        "node_offset": {
+          "x": 2696,
+          "y": 3075
+        },
+        "stable_path": [
+          "2168:37140"
+        ]
+      },
+      "order_id": "173"
+    },
+    {
+      "id": "1591620427",
+      "uuid": "4c64023d-dc1d-483a-b3fd-3c7b705f190a",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-16T16:07:56.169Z",
+      "resolved_at": null,
+      "message": "This is my second favorite if we don't need the way-finding. Would like to see what it looks like when you're in a smart window though! cc @Katie Lower",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2276:102143",
+        "node_offset": {
+          "x": 2658,
+          "y": 1814
+        },
+        "stable_path": [
+          "2276:102143"
+        ]
+      },
+      "order_id": "172"
+    },
+    {
+      "id": "1591619744",
+      "uuid": "a2babe2b-a57d-4832-897c-52f0f738e001",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-16T16:07:27.890Z",
+      "resolved_at": null,
+      "message": "This treatment is my favorite if we decide we don't need wayfinding at the top (since the menu icon is the signal to your window type) cc @Katie Lower",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2276:102143",
+        "node_offset": {
+          "x": 2218,
+          "y": 2312
+        },
+        "stable_path": [
+          "2276:102143"
+        ]
+      },
+      "order_id": "171"
+    },
+    {
+      "id": "1590281536",
+      "uuid": "0608b7a2-db06-4a16-9bcf-1656458d96b0",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2026-01-15T21:31:18.282Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk - FYI, we would not have text describing what Smart Window is here like this in a persistent way. Maybe we'd get fancy with dismissible bar in the future, but this shouldn't be a thing we need to find space for.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2168:43537",
+        "node_offset": {
+          "x": 1150,
+          "y": 120
+        },
+        "stable_path": [
+          "2168:43537"
+        ]
+      },
+      "order_id": "170"
+    },
+    {
+      "id": "1590247560",
+      "uuid": "1c02136e-f54e-4747-8115-26d38578f87e",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-15T21:01:51.585Z",
+      "resolved_at": null,
+      "message": "I love this minimalist treatment tbh",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2168:37140",
+        "node_offset": {
+          "x": 7022,
+          "y": 4062
+        },
+        "stable_path": [
+          "2168:37140"
+        ]
+      },
+      "order_id": "169"
+    },
+    {
+      "id": "1590062884",
+      "uuid": "2253480f-75ea-40de-8f13-899f48cb2b83",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-01-15T18:41:11.672Z",
+      "resolved_at": null,
+      "message": "@Katie Lower hey, we may need some of your magic here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2168:37139",
+        "node_offset": {
+          "x": 8256,
+          "y": 5927
+        },
+        "stable_path": [
+          "2168:37139"
+        ],
+        "region_width": 891,
+        "region_height": 708,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "168"
+    },
+    {
+      "id": "1590037603",
+      "uuid": "8c0c308d-a66f-4e62-b40d-905e125d822e",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-01-15T18:23:10.983Z",
+      "resolved_at": null,
+      "message": "This is a strong NO",
+      "reactions": [
+        {
+          "emoji": ":raised_hands:",
+          "created_at": "2026-01-15T20:59:33.293Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2168:43722",
+        "node_offset": {
+          "x": 1182,
+          "y": 317
+        },
+        "stable_path": [
+          "2168:43722"
+        ]
+      },
+      "order_id": "167"
+    },
+    {
+      "id": "1589947322",
+      "uuid": "df7c0799-04e3-4db1-8e1f-f0fe370cfe94",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-01-15T17:21:40.604Z",
+      "resolved_at": null,
+      "message": "is there meant to be a toggle in here? I am not seeing the difference from the exploration to the left",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2168:43490",
+        "node_offset": {
+          "x": 956,
+          "y": 309
+        },
+        "stable_path": [
+          "2168:43490"
+        ]
+      },
+      "order_id": "166"
+    },
+    {
+      "id": "1589942331",
+      "uuid": "5ea40185-d276-49ed-8b2b-114af236bd32",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-01-15T17:18:34.875Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2168:37140",
+        "node_offset": {
+          "x": 6078,
+          "y": 3771
+        },
+        "stable_path": [
+          "2168:37140"
+        ]
+      },
+      "order_id": "165"
+    },
+    {
+      "id": "1589834551",
+      "uuid": "65a2f5e4-9bcc-4d5d-99be-b54649fea3f2",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-01-15T16:17:01.857Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk not sure I understand what the toggle does",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2168:43722",
+        "node_offset": {
+          "x": 1257,
+          "y": 200
+        },
+        "stable_path": [
+          "2168:43722"
+        ]
+      },
+      "order_id": "164"
+    },
+    {
+      "id": "1589832111",
+      "uuid": "b186e107-65d8-4669-8c18-28b0c2b618e3",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2026-01-15T16:15:45.027Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak @Misha Bruk @Katie Lower as suggested by Emily, I tried to move switch closer to the description. I'm wondering if it can be even less bulky (eg. not using the the bold) and having a more descriptive label cc @Paige Ormiston @Yulia Popova",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2185:37899",
+        "node_offset": {
+          "x": 1094,
+          "y": 182
+        },
+        "stable_path": [
+          "2185:37899"
+        ]
+      },
+      "order_id": "163"
+    },
+    {
+      "id": "1589731545",
+      "uuid": "dde5323e-f1d8-4e38-9c0c-714d6ff5a53e",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-15T15:25:21.201Z",
+      "resolved_at": null,
+      "message": "Can we try a version where switch is at the top under the SW explainer? @Misha Bruk",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2168:43537",
+        "node_offset": {
+          "x": 1110,
+          "y": 406
+        },
+        "stable_path": [
+          "2168:43537"
+        ]
+      },
+      "order_id": "162"
+    },
+    {
+      "id": "1587115084",
+      "uuid": "6b4cf594-4126-4f6c-bec7-c5bde0d1a70e",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-01-14T09:34:16.658Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston what about something like this?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1791:67021",
+        "node_offset": {
+          "x": 9870,
+          "y": 7409
+        },
+        "stable_path": [
+          "1791:67021"
+        ]
+      },
+      "order_id": "160"
+    },
+    {
+      "id": "1586615427",
+      "uuid": "43c99f75-39f5-4a6f-a3d4-2813bce6d196",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2026-01-14T02:33:14.214Z",
+      "resolved_at": null,
+      "message": "What happens if this last one gets too long? @Misha Bruk",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1888:36591",
+        "node_offset": {
+          "x": 962,
+          "y": 577
+        },
+        "stable_path": [
+          "1888:36591"
+        ]
+      },
+      "order_id": "159"
+    },
+    {
+      "id": "1586611736",
+      "uuid": "5e223ebd-fd55-41f7-a4d1-91c9966ae626",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2026-01-14T02:28:48.475Z",
+      "resolved_at": null,
+      "message": "Need to validate what this actually does @Misha Bruk",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1888:37025",
+        "node_offset": {
+          "x": 887,
+          "y": 478
+        },
+        "stable_path": [
+          "1888:37025"
+        ]
+      },
+      "order_id": "158"
+    },
+    {
+      "id": "1586606876",
+      "uuid": "f2abd629-a045-40cc-8637-6e7f8a052018",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2026-01-14T02:22:57.792Z",
+      "resolved_at": null,
+      "message": "Should the checkbox be if the user doesn't want to be prompted? This is what we do with the command Q prompt, but just raising the question @Misha Bruk",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1846:108085",
+        "node_offset": {
+          "x": 897,
+          "y": 164
+        },
+        "stable_path": [
+          "1846:108085"
+        ]
+      },
+      "order_id": "157"
+    },
+    {
+      "id": "1586474404",
+      "uuid": "0269f6d6-8e56-4b42-bd1e-5d8dd1503abe",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-01-13T23:09:15.079Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk @Paige Ormiston I will be selecting more examples from explorations  (sections on the right). Since we had no chance to chat today, feel free so leave some comments if you see something that you think might work or won't work. :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1874:73025",
+        "node_offset": {
+          "x": 4926,
+          "y": 220
+        },
+        "stable_path": [
+          "1874:73025"
+        ]
+      },
+      "order_id": "156"
+    },
+    {
+      "id": "1586374827",
+      "uuid": "e647e6ab-e575-49c3-ab5f-900e6b369647",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-01-13T21:25:49.385Z",
+      "resolved_at": null,
+      "message": "@Yulia PopovaJust flagging what it would look like to have window type alongside the tab dropdown and profiles\n\nNot sure if the tab dropdown icon was final or not, but if we wanted to avoid having two dropdown arrows, maybe we could do a simpler shape. But this could compete a bit with the circular profile icon.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1945:23749",
+        "node_offset": {
+          "x": 342,
+          "y": 27
+        },
+        "stable_path": [
+          "1945:23749"
+        ]
+      },
+      "order_id": "154"
+    },
+    {
+      "id": "1586157321",
+      "uuid": "03ef82c7-e25e-4fb3-9158-16e24c443b6f",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2026-01-13T18:42:07.592Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova @Paige Ormiston mine is basically the same just no action at the bottom to switch anywhere. i also did a couple louder explorations but i think something more practical like this will be good",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1888:37295",
+        "node_offset": {
+          "x": 1026,
+          "y": 72
+        },
+        "stable_path": [
+          "1888:37295"
+        ]
+      },
+      "order_id": "153"
+    },
+    {
+      "id": "1586134696",
+      "uuid": "cc0067aa-1f2b-4990-b46d-a1d274e95498",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-01-13T18:25:58.254Z",
+      "resolved_at": null,
+      "message": "@Paige Ormiston @Misha Bruk quickly put together switch concept that we talked about. Let me know what you think and also feel free to change it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1892:97326",
+        "node_offset": {
+          "x": 1313,
+          "y": 77
+        },
+        "stable_path": [
+          "1892:97326"
+        ]
+      },
+      "order_id": "152"
+    },
+    {
+      "id": "1586133344",
+      "uuid": "c7483ce4-6d16-4a55-8422-73f14d7cf84a",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-01-13T18:25:01.652Z",
+      "resolved_at": null,
+      "message": "Alternative option with more prominent visible switch. Let me know what you think. It also looks like what we have now.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1913:98454",
+        "node_offset": {
+          "x": 1183,
+          "y": 21
+        },
+        "stable_path": [
+          "1913:98454"
+        ]
+      },
+      "order_id": "151"
+    },
+    {
+      "id": "1586132511",
+      "uuid": "707cde98-02ec-4a53-b4c2-d51cfc71b522",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-01-13T18:24:27.644Z",
+      "resolved_at": null,
+      "message": "Alternative option without text. Looks like what we have now",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1913:99560",
+        "node_offset": {
+          "x": 1122,
+          "y": 103
+        },
+        "stable_path": [
+          "1913:99560"
+        ]
+      },
+      "order_id": "150"
+    },
+    {
+      "id": "1584253527",
+      "uuid": "f871e3cb-4e9a-4160-8a37-a0a38fb0aeaf",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2026-01-12T19:16:59.410Z",
+      "resolved_at": null,
+      "message": "fade versus ellipsis?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3042:81177",
+        "node_offset": {
+          "x": 1187,
+          "y": 764
+        },
+        "stable_path": [
+          "3042:81177"
+        ]
+      },
+      "order_id": "147"
+    },
+    {
+      "id": "1583641312",
+      "uuid": "fb562629-6793-4ead-9280-3dca9306cf58",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2026-01-12T12:59:41.010Z",
+      "resolved_at": null,
+      "message": "@Andrew Crago @Emanuela Damiani @Meridel Walkington Please list your teams scope areas and team members here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1746:2",
+        "node_offset": {
+          "x": 2048,
+          "y": 1320
+        },
+        "stable_path": [
+          "1746:2"
+        ]
+      },
+      "order_id": "146"
+    },
+    {
+      "id": "1580415528",
+      "uuid": "1d1bc1ab-dda8-4f44-934f-9b4eb74cae30",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2026-01-08T16:26:25.918Z",
+      "resolved_at": null,
+      "message": "@Andrew Crago latest designs",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1293:30890",
+        "node_offset": {
+          "x": 271,
+          "y": 1113
+        },
+        "stable_path": [
+          "1293:30890"
+        ]
+      },
+      "order_id": "145"
+    },
+    {
+      "id": "1577506894",
+      "uuid": "eb5ae609-99ea-4ca8-a8be-77452793c2b1",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2026-01-06T22:24:05.189Z",
+      "resolved_at": null,
+      "message": "@Ashley Thomas here's an example of the 'broom' icon button that could trigger the clearing dialog",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1034:83748",
+        "node_offset": {
+          "x": 1467,
+          "y": 118
+        },
+        "stable_path": [
+          "1034:83748"
+        ]
+      },
+      "order_id": "144"
+    },
+    {
+      "id": "1577461902",
+      "uuid": "e03ccc92-dfad-4c51-8e0c-de7a8c8a9c2d",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ashley Thomas",
+        "img_url": "https://www.gravatar.com/avatar/ffbbd17f9e9f339615ea38dea15de645?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "890268597412154883"
+      },
+      "created_at": "2026-01-06T21:32:58.354Z",
+      "resolved_at": null,
+      "message": "What prompts this popup? @Misha Bruk @Dan Mehic",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1034:83545",
+        "node_offset": {
+          "x": 1407,
+          "y": 175
+        },
+        "stable_path": [
+          "1034:83545"
+        ]
+      },
+      "order_id": "143"
+    },
+    {
+      "id": "1577459696",
+      "uuid": "833d499f-51eb-4b8e-8028-7bb99b3f745e",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ashley Thomas",
+        "img_url": "https://www.gravatar.com/avatar/ffbbd17f9e9f339615ea38dea15de645?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "890268597412154883"
+      },
+      "created_at": "2026-01-06T21:30:45.750Z",
+      "resolved_at": null,
+      "message": "Should this logo match the private window logo with the mask?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1041:61866",
+        "node_offset": {
+          "x": 1163,
+          "y": 229
+        },
+        "stable_path": [
+          "1041:61866"
+        ]
+      },
+      "order_id": "142"
+    },
+    {
+      "id": "1572988464",
+      "uuid": "edf3cba2-b170-4d50-b398-b35f27f2c41a",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-12-30T16:52:12.765Z",
+      "resolved_at": null,
+      "message": "@Alice Cappo - Is it intentional that this prompt is a different color than the one below? Perhaps the colors change based on what is in focus?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1304:64435",
+        "node_offset": {
+          "x": 778,
+          "y": 516
+        },
+        "stable_path": [
+          "1304:64435"
+        ]
+      },
+      "order_id": "141"
+    },
+    {
+      "id": "1572982596",
+      "uuid": "eebeaed9-9129-47e7-8a4e-0aa72e21d846",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-12-30T16:43:47.574Z",
+      "resolved_at": null,
+      "message": "@Alice Cappo - For MVP, the approach we're going with for suggested prompts on the new tab is to keep them more neutral. \"New tab as neutral ground\" has been our framing. Then, as I commented below, suggested prompts will be more contextual within the sidebar when a page is in view. \n\nThe current set of \"neutral\" prompts we're working with is:\n\nCompare tabs\nSummarize tabs\nFind tabs in history\nWrite a first draft\nImprove writing\nProofread a message\nSimplify a topic\nBrainstorm ideas\nHelp make a plan",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1342:234841",
+        "node_offset": {
+          "x": 1459,
+          "y": 604
+        },
+        "stable_path": [
+          "1342:234841"
+        ]
+      },
+      "order_id": "140"
+    },
+    {
+      "id": "1572977255",
+      "uuid": "2fca0637-d529-4b26-a3b6-af13c875ec0c",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-12-30T16:35:59.087Z",
+      "resolved_at": null,
+      "message": "@Alice Cappo - The suggested prompts that appear when a user is viewing a page will be:\n1. more contextual to the page\n2. likely longer than one word. \n\nFor example, \"Make this vegan\" for a recipe or \"Summarize the reviews\" for a product. Or, for this particular page - a science article - something like \"Summarize this\" and \"Define hominin\" might be realistic. For the count, we're currently exploring showing 2 suggested prompts. \n\nAs for the interaction, when these suggested prompts are chosen, the user shouldn't have to do anything else. (Should not have to click the arrow button.) They should be 'one-click'. (The next frame suggests clicking the suggestion will move it into the input area, where the user then has to click enter.) Let me know your thoughts on the 'double-select' idea here and if there's some logic or nuance I'm missing.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1342:235291",
+        "node_offset": {
+          "x": 1587,
+          "y": 758
+        },
+        "stable_path": [
+          "1342:235291"
+        ]
+      },
+      "order_id": "139"
+    },
+    {
+      "id": "1568962080",
+      "uuid": "2ebd68c1-dd08-4089-b0b5-caa9a82d6859",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2025-12-23T22:17:59.343Z",
+      "resolved_at": null,
+      "message": "In some mocks from the video, I saw the overflow area here has a blur effect - both below the smart bar and up top. Is the blurring something we see elsewhere throughout Nova or would this effect be unique to Assistant?\n\nSome slight worry between the gradients, color and the amount of content open at one time that it would create even more visual noise as someone is reading/scrolling.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1304:64435",
+        "node_offset": {
+          "x": 1582,
+          "y": 417
+        },
+        "stable_path": [
+          "1304:64435"
+        ]
+      },
+      "order_id": "138"
+    },
+    {
+      "id": "1568961142",
+      "uuid": "4fac4a71-8ab7-4da1-869e-2157543f2f60",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2025-12-23T22:15:54.167Z",
+      "resolved_at": null,
+      "message": "I like these filled buttons compared to what we had explored before!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1314:97311",
+        "node_offset": {
+          "x": 1712,
+          "y": 198
+        },
+        "stable_path": [
+          "1314:97311"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "1568960789",
+      "uuid": "852cf535-320b-4a43-84e2-7c6b65da9605",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2025-12-23T22:15:06.921Z",
+      "resolved_at": null,
+      "message": "Do you imagine this gradient shifting at all between default and active states?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1202:70996",
+        "node_offset": {
+          "x": 718,
+          "y": 417
+        },
+        "stable_path": [
+          "1202:70996"
+        ]
+      },
+      "order_id": "136"
+    },
+    {
+      "id": "1568960368",
+      "uuid": "244bb2f1-406c-489b-a57b-51996eecd789",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2025-12-23T22:14:14.912Z",
+      "resolved_at": null,
+      "message": "In this new tab state, I wonder if this can be more translucent to the gradient underneath instead of a differing gradient on top, so it feels more like a neutral space.\n\nBut can switch back to the gradient here when web pages are open",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1202:70996",
+        "node_offset": {
+          "x": 720,
+          "y": 106
+        },
+        "stable_path": [
+          "1202:70996"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "1568959140",
+      "uuid": "7f6b84b1-61c2-457e-bcd1-a420068b34e0",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2025-12-23T22:11:45.428Z",
+      "resolved_at": null,
+      "message": "Not sure if this is a Nova system thing, but I feel like the rounded pill radius of the menu items and the rectangular container are competing / it doesn't feel quite right",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1342:231604",
+        "node_offset": {
+          "x": 1477,
+          "y": 649
+        },
+        "stable_path": [
+          "1342:231604"
+        ]
+      },
+      "order_id": "134"
+    },
+    {
+      "id": "1568957320",
+      "uuid": "3bb7c04d-b035-4cdf-8a6e-1f9bc2cbb69c",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2025-12-23T22:07:28.114Z",
+      "resolved_at": null,
+      "message": "This close assitant button feels detached from the actual assistant since it's sitting in the sidebar area, and I worry it could be hard to miss.\n\nIn recent Diary study, many users were not aware they could dismiss it. Granted, we could work on that in continuous onboarding but I think more obvious icon/copy or placement could help",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-12-30T16:26:47.305Z",
+          "user": {
+            "id": "1169379060174051036",
+            "handle": "Katie Lower",
+            "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1258:60628",
+        "node_offset": {
+          "x": 1660,
+          "y": 117
+        },
+        "stable_path": [
+          "1258:60628"
+        ]
+      },
+      "order_id": "133"
+    },
+    {
+      "id": "1568955929",
+      "uuid": "8ea17a4e-2dec-412f-9feb-f4ecec6b02d6",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Paige Ormiston",
+        "img_url": "https://www.gravatar.com/avatar/447f8fd3b1f4e915c7e75f1c334c139e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "1093246043853427875"
+      },
+      "created_at": "2025-12-23T22:04:12.172Z",
+      "resolved_at": null,
+      "message": "In happy path use cases where there's a shorter prompt, I agree the purple stands out more as a divider between user prompt and response, but I worry it would feel heavy, bulky, and difficult to read for larger, multi-line prompts with potentially paragraphs of requests",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-12-30T16:26:21.330Z",
+          "user": {
+            "id": "1169379060174051036",
+            "handle": "Katie Lower",
+            "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1304:64435",
+        "node_offset": {
+          "x": 740,
+          "y": 860
+        },
+        "stable_path": [
+          "1304:64435"
+        ]
+      },
+      "order_id": "132"
+    },
+    {
+      "id": "1568497519",
+      "uuid": "d9ebc72c-6446-49ee-b891-832bb079455c",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2025-12-23T13:54:19.182Z",
+      "resolved_at": null,
+      "message": "@Alice Cappo I still think it\u2019s difficult to distinguish between the classic and smart window states, especially when the user is not on a new tab\u2014see the example below. In our earlier explorations for the smart window, we differentiated not only through color but also through changes in UI shape, which made the distinction between window types more apparent. Since we want to keep the same UI structure across states, color becomes a key differentiator here. With that in mind, it may be worth exploring a slightly stronger color variation.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-12-30T16:20:34.827Z",
+          "user": {
+            "id": "1169379060174051036",
+            "handle": "Katie Lower",
+            "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1315:99276",
+        "node_offset": {
+          "x": 198,
+          "y": 335
+        },
+        "stable_path": [
+          "1315:99276"
+        ]
+      },
+      "order_id": "131"
+    },
+    {
+      "id": "1568464018",
+      "uuid": "40c4376b-a5f3-4825-bf02-6e3cd2882149",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2025-12-23T13:29:07.091Z",
+      "resolved_at": null,
+      "message": "@Alice Cappo I don\u2019t think a decision is required here, as both states are valid. When the search box is empty, the button appears as an arrow and has kind of disabled state. Once the user starts typing, the label changes to Ask, Search, or Go depending on the detected intent. We infer the intent from the input and update the button accordingly\u2014for example, questions map to Ask, URLs to Go, and so on. Dia follows a similar pattern. In Firefox, however, users also have the ability to change this manually and therefor the button has a dropdown.\nI have included some images below.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1342:248916",
+        "node_offset": {
+          "x": 895,
+          "y": 1002
+        },
+        "stable_path": [
+          "1342:248916"
+        ]
+      },
+      "order_id": "130"
+    },
+    {
+      "id": "1563509937",
+      "uuid": "178e17be-d151-4d31-b670-e6f48e5ed6e9",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-18T14:08:40.110Z",
+      "resolved_at": null,
+      "message": "@Ralph  Peskett I know I said maybe no blur but actually having some elevation helps for clarity OR we could use a stroke like the Mozilla team did",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1193:71483",
+        "node_offset": {
+          "x": 1037,
+          "y": 163
+        },
+        "stable_path": [
+          "1193:71483"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "1563332876",
+      "uuid": "ae6f1018-4046-4abf-b85c-93b0b311e787",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-18T12:30:18.680Z",
+      "resolved_at": null,
+      "message": "honestly, I feel like pure white could be a strong way to differentiate the Smart Window.\n\nwdyt @Alice Cappo ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1202:70996",
+        "node_offset": {
+          "x": 1252,
+          "y": 95
+        },
+        "stable_path": [
+          "1202:70996"
+        ]
+      },
+      "order_id": "126"
+    },
+    {
+      "id": "1563159258",
+      "uuid": "b8fa1863-8328-4dbd-86f9-0b1bdc6bcd44",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-18T10:50:08.105Z",
+      "resolved_at": null,
+      "message": "3. Entry Points and Discoverability\n* Access to Smart Window functionality is currently split across the application menu, tab menu, and contextual actions.\n\n* Recommendation: make switching for smart windows only in the switcher (that will bring your tabs with you from classic window to smart window). However, you can open a new smart window in the application menu.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1193:89521",
+        "node_offset": {
+          "x": 1403,
+          "y": 107
+        },
+        "stable_path": [
+          "1193:89521"
+        ]
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "1563105667",
+      "uuid": "8280f1aa-4e87-41a3-8771-20f390f3136e",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-18T10:23:20.524Z",
+      "resolved_at": null,
+      "message": "Color: The dark mode colors are moving in the right direction with the orange and purple (maybe we could go even darker since it\u2019s a dark mode).\u00a0\n\nThe team is wondering if there is any way to bring purple and orange into light mode and move away from less pick. Exec leadership has not liked pink in the past in the early explorations we\u2019ve done.\u00a0\n\nWe also change the browser chrome colors for smart window default themes so you do not need to do the same gradient there (which can help make smart window more distinct).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1193:89521",
+        "node_offset": {
+          "x": 193,
+          "y": 48
+        },
+        "stable_path": [
+          "1193:89521"
+        ]
+      },
+      "order_id": "124"
+    },
+    {
+      "id": "1563105238",
+      "uuid": "29ea7f9f-4353-4b2e-9083-fe6546597a68",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-18T10:23:06.619Z",
+      "resolved_at": null,
+      "message": "1. Chrome Layout Behavior + Color\u00a0\n* Detaching the URL bar and shifting chrome behavior in Smart Window introduces complexity that is not needed, and also may be a security concern when sharing a previous pattern early.\u00a0\n* Recommendation: please stick with the current browser chrome layout and use this option since it indicates the content is coming from the browser.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1193:89299",
+        "node_offset": {
+          "x": 154,
+          "y": 62
+        },
+        "stable_path": [
+          "1193:89299"
+        ]
+      },
+      "order_id": "123"
+    },
+    {
+      "id": "1561789664",
+      "uuid": "a7ed9f5d-218a-4485-bb0f-5e442d4f5465",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-17T15:52:57.197Z",
+      "resolved_at": null,
+      "message": "@Nicholas Christowitz is this darker for a reason compared to the previous screens? just want to make sure I don't miss to point it out",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1034:83479",
+        "node_offset": {
+          "x": 1448,
+          "y": 108
+        },
+        "stable_path": [
+          "1034:83479"
+        ]
+      },
+      "order_id": "122"
+    },
+    {
+      "id": "1561194574",
+      "uuid": "73fc7b09-f3db-4914-827f-1014606cd6ec",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-17T10:44:23.011Z",
+      "resolved_at": null,
+      "message": "https://www.savoirfaire.nyc/about\nmight have some inspo/ideas around the spark icon. bit whacky tho.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "169:14600",
+        "node_offset": {
+          "x": 81387,
+          "y": 19894
+        },
+        "stable_path": [
+          "169:14600"
+        ]
+      },
+      "order_id": "121"
+    },
+    {
+      "id": "1561181476",
+      "uuid": "73141303-91ea-499e-8658-a8026de10761",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-17T10:38:07.169Z",
+      "resolved_at": null,
+      "message": "this is really nice as it aligns with previews and stacks in bookmarks",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1053:47142",
+        "node_offset": {
+          "x": 274,
+          "y": 2085
+        },
+        "stable_path": [
+          "1053:47142"
+        ]
+      },
+      "order_id": "120"
+    },
+    {
+      "id": "1561107741",
+      "uuid": "9eb36955-0e10-4fed-ac0f-1d2793864140",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-17T10:03:35.959Z",
+      "resolved_at": null,
+      "message": "I just quickly made one of these @Alice Cappo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1009:427710",
+        "node_offset": {
+          "x": 1265,
+          "y": 91
+        },
+        "stable_path": [
+          "1009:427710"
+        ]
+      },
+      "order_id": "119"
+    },
+    {
+      "id": "1559908874",
+      "uuid": "58619fdb-cd95-4537-a658-276c44918d82",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-16T16:59:39.136Z",
+      "resolved_at": null,
+      "message": "Trigger and animation /transition into these colours. \n\nStroke path starts empty and fills(?).\n\nA gradient flash effect happens over the text in the link below.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1015:134507",
+        "node_offset": {
+          "x": 346,
+          "y": 127
+        },
+        "stable_path": [
+          "1015:134507"
+        ]
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "1559906967",
+      "uuid": "6623417c-4764-4ea3-ba23-5973584112fc",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-16T16:58:34.837Z",
+      "resolved_at": null,
+      "message": "Gradient state appears on hover. Ambient gradient effect moves around. User clicks the button.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1015:134435",
+        "node_offset": {
+          "x": 312,
+          "y": 145
+        },
+        "stable_path": [
+          "1015:134435"
+        ]
+      },
+      "order_id": "117"
+    },
+    {
+      "id": "1559657621",
+      "uuid": "407ef79a-438c-48d2-97e2-4f57c5e10fcf",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-16T14:55:00.416Z",
+      "resolved_at": null,
+      "message": "@Nicholas Christowitz OMG I love this, Kit as an a lister lol",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "974:155366",
+        "node_offset": {
+          "x": 1094,
+          "y": 346
+        },
+        "stable_path": [
+          "974:155366"
+        ]
+      },
+      "order_id": "116"
+    },
+    {
+      "id": "1559648987",
+      "uuid": "eb883e1d-83cb-44a7-8b12-4de27d1dbe5f",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-16T14:51:10.733Z",
+      "resolved_at": null,
+      "message": "brief not created yet",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "976:128510",
+        "node_offset": {
+          "x": 1436,
+          "y": 282
+        },
+        "stable_path": [
+          "976:128510"
+        ]
+      },
+      "order_id": "115"
+    },
+    {
+      "id": "1559648688",
+      "uuid": "c0859f56-ad96-496f-bfae-946dca85f12f",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-16T14:51:02.799Z",
+      "resolved_at": null,
+      "message": "might use what's created above on this box",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "976:128510",
+        "node_offset": {
+          "x": 1418,
+          "y": 674
+        },
+        "stable_path": [
+          "976:128510"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "1559642421",
+      "uuid": "e5852bab-9b46-407a-87e4-6d438fde4371",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-16T14:48:17.904Z",
+      "resolved_at": null,
+      "message": "final layout idea here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "976:128510",
+        "node_offset": {
+          "x": 724,
+          "y": 180
+        },
+        "stable_path": [
+          "976:128510"
+        ]
+      },
+      "order_id": "113"
+    },
+    {
+      "id": "1559639495",
+      "uuid": "a39541d6-3457-4a2a-ac33-851efc82411d",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-16T14:47:02.696Z",
+      "resolved_at": null,
+      "message": "I created these little experiments. But would love a few options for other ideas for loaders.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "976:128467",
+        "node_offset": {
+          "x": 854,
+          "y": 156
+        },
+        "stable_path": [
+          "976:128467"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "1559635951",
+      "uuid": "0c6fb423-09b6-4dc8-9cba-7c52c37cfdf3",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-16T14:45:29.254Z",
+      "resolved_at": null,
+      "message": "Top row moves right to left\nBottom row moves left to right",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "976:128265",
+        "node_offset": {
+          "x": 1197,
+          "y": 806
+        },
+        "stable_path": [
+          "976:128265"
+        ]
+      },
+      "order_id": "111"
+    },
+    {
+      "id": "1559635091",
+      "uuid": "e7ebd9c1-c052-4473-b120-24d4cad1decd",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-16T14:45:07.602Z",
+      "resolved_at": null,
+      "message": "Would love to create a little intro animation for the 'smartbar' on this page. \n\nGoogle Gemini do a little stroke animation, although of course we want to be different to that.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "976:128265",
+        "node_offset": {
+          "x": 1099,
+          "y": 409
+        },
+        "stable_path": [
+          "976:128265"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "1559333981",
+      "uuid": "ad3c6378-9f85-4e6d-b3a1-ce633638ffc2",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-16T12:12:41.758Z",
+      "resolved_at": null,
+      "message": "@Nicole Stoll side by side here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "944:168327",
+        "node_offset": {
+          "x": 2691,
+          "y": 7209
+        },
+        "stable_path": [
+          "944:168327"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "1559333657",
+      "uuid": "511107cc-a3a4-4c9e-bdc9-d5b5adf48331",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-16T12:12:30.571Z",
+      "resolved_at": null,
+      "message": "@Nicole Stoll full new tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "946:129003",
+        "node_offset": {
+          "x": 771,
+          "y": 266
+        },
+        "stable_path": [
+          "946:129003"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "1559149521",
+      "uuid": "dda0015d-2372-45d7-9045-1081e35b73d1",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-16T10:32:20.780Z",
+      "resolved_at": null,
+      "message": "@Ralph  Peskett one interesting thing in terms of hierarchy here: the main 'mode' of the window is taking over the logo instead of being the smaller entity. I reckon we should look into this from a recognisability pov\n\nCC @Nicholas Christowitz",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "176:23636",
+        "node_offset": {
+          "x": 550,
+          "y": 223
+        },
+        "stable_path": [
+          "176:23636"
+        ]
+      },
+      "order_id": "107"
+    },
+    {
+      "id": "1559147043",
+      "uuid": "9d504275-5a19-4f80-9d11-c9873110dd77",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-16T10:31:05.767Z",
+      "resolved_at": null,
+      "message": "I keep feeling this is a bit odd so high up. I know it's to align with HNT, but it feels very empty",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "946:87635",
+        "node_offset": {
+          "x": 1053,
+          "y": 309
+        },
+        "stable_path": [
+          "946:87635"
+        ]
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "1557849406",
+      "uuid": "2599124d-c6d1-4238-a9a4-c7a17121e618",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-15T16:27:38.193Z",
+      "resolved_at": null,
+      "message": "what is the difference from V1? @Ralph  Peskett",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "813:129433",
+        "node_offset": {
+          "x": 1006,
+          "y": 145
+        },
+        "stable_path": [
+          "813:129433"
+        ]
+      },
+      "order_id": "104"
+    },
+    {
+      "id": "1557817590",
+      "uuid": "309146bc-adb4-4ad3-adaf-2ad94df722b3",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicholas Christowitz",
+        "img_url": "https://www.gravatar.com/avatar/5ae1b3c8d26cb5c77a712a86fddaec5c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1544655652632162877"
+      },
+      "created_at": "2025-12-15T16:10:04.818Z",
+      "resolved_at": null,
+      "message": "@Ralph  Peskett this is where close tab 'X' goes I don't think this should live here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "813:138257",
+        "node_offset": {
+          "x": 461,
+          "y": 116
+        },
+        "stable_path": [
+          "813:138257"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "1557679096",
+      "uuid": "ba7b1041-0780-42bc-8a2e-7f8f5ea2dd7d",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-15T15:00:11.083Z",
+      "resolved_at": null,
+      "message": "@Alice Cappo do you want to lead with this here... or the 'Version 2' from slide below?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "813:127972",
+        "node_offset": {
+          "x": 464,
+          "y": 208
+        },
+        "stable_path": [
+          "813:127972"
+        ]
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "1557666558",
+      "uuid": "51c6cd69-9142-4d26-a86e-e869d51a183b",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicholas Christowitz",
+        "img_url": "https://www.gravatar.com/avatar/5ae1b3c8d26cb5c77a712a86fddaec5c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1544655652632162877"
+      },
+      "created_at": "2025-12-15T14:54:27.785Z",
+      "resolved_at": null,
+      "message": "@Ralph  Peskett wanna sub this one in as an option on this slide? If not just delete",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "847:36378",
+        "node_offset": {
+          "x": 23,
+          "y": 24
+        },
+        "stable_path": [
+          "847:36378"
+        ]
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "1557305341",
+      "uuid": "3747041f-2ffa-47c1-a488-9d4128dbd437",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-15T11:39:15.255Z",
+      "resolved_at": null,
+      "message": "this purple is so lush tbh",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "692:65774",
+        "node_offset": {
+          "x": 770,
+          "y": 425
+        },
+        "stable_path": [
+          "692:65774"
+        ]
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "1557304619",
+      "uuid": "8d5bdbc7-273b-4c08-9609-4d9416ca4f34",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-15T11:38:47.368Z",
+      "resolved_at": null,
+      "message": "they asked for no sparkles, I guess we can look into other options",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "782:50438",
+        "node_offset": {
+          "x": 1151,
+          "y": 292
+        },
+        "stable_path": [
+          "782:50438"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "1557304081",
+      "uuid": "95dca6d8-e4b8-4d77-8bad-690c4f588110",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-15T11:38:29.097Z",
+      "resolved_at": null,
+      "message": "ok but this is so cool with the fox fluff!",
+      "reactions": [
+        {
+          "emoji": ":joy:",
+          "created_at": "2025-12-15T11:38:40.855Z",
+          "user": {
+            "id": "1573267393576175172",
+            "handle": "Ralph  Peskett",
+            "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "720:90195",
+        "node_offset": {
+          "x": 1689,
+          "y": 370
+        },
+        "stable_path": [
+          "720:90195"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "1557048973",
+      "uuid": "3740bd42-6ffd-4145-ae15-6a57ffa89cfc",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-15T09:26:13.854Z",
+      "resolved_at": null,
+      "message": "too many gradient borders",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "765:48789",
+        "node_offset": {
+          "x": 1072,
+          "y": 102
+        },
+        "stable_path": [
+          "765:48789"
+        ]
+      },
+      "order_id": "94"
+    },
+    {
+      "id": "1556024825",
+      "uuid": "90b21d1e-0abd-4f8a-9567-48e1a3300177",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2025-12-13T00:20:34.281Z",
+      "resolved_at": null,
+      "message": "This feels more like it's coming from the browser, , but then we white out the content. I'm not sure on this look",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "679:72374",
+        "node_offset": {
+          "x": 1307,
+          "y": 358
+        },
+        "stable_path": [
+          "679:72374"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "1556024622",
+      "uuid": "da496eb6-350f-472c-835b-a923b362de95",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2025-12-13T00:19:49.093Z",
+      "resolved_at": null,
+      "message": "this one feels like the AI panel is from the content instead of from Firefox. I don't think this would pass security review.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "679:72482",
+        "node_offset": {
+          "x": 1139,
+          "y": 393
+        },
+        "stable_path": [
+          "679:72482"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "1555452964",
+      "uuid": "b5314a48-b60d-4aa2-b3c7-ffa56cc4ae78",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicholas Christowitz",
+        "img_url": "https://www.gravatar.com/avatar/5ae1b3c8d26cb5c77a712a86fddaec5c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1544655652632162877"
+      },
+      "created_at": "2025-12-12T14:47:44.116Z",
+      "resolved_at": null,
+      "message": "Kinda OpenAI",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "378:19824",
+        "node_offset": {
+          "x": 9.642380836753603,
+          "y": 7.5334239350398775
+        },
+        "stable_path": [
+          "378:19824"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "1555212963",
+      "uuid": "2a88724a-4f8f-43e5-a8e7-6f84ee8d4cc3",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-12T12:17:39.295Z",
+      "resolved_at": null,
+      "message": "maybe I'm biased, but this my fave. I think the way it really feels super connected to the webpage is what they're after",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "658:31624",
+        "node_offset": {
+          "x": 1004,
+          "y": 454
+        },
+        "stable_path": [
+          "658:31624"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "1555210343",
+      "uuid": "369bcace-d80c-4568-b822-5e10c4a88927",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-12T12:15:52.949Z",
+      "resolved_at": null,
+      "message": "I wonder if this edge line wraps around the bottom too? could be kinda funky",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "169:14600",
+        "node_offset": {
+          "x": 58947,
+          "y": 12444
+        },
+        "stable_path": [
+          "169:14600"
+        ],
+        "region_width": 368,
+        "region_height": 4,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "1555209348",
+      "uuid": "c723f0d5-e93e-458e-9d3e-72e211e828e7",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-12T12:15:15.843Z",
+      "resolved_at": null,
+      "message": "this is interesting",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "641:65560",
+        "node_offset": {
+          "x": 1088,
+          "y": 97
+        },
+        "stable_path": [
+          "641:65560"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "1555207880",
+      "uuid": "cb16d69c-775d-482e-a8a7-6701a873d153",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-12T12:14:16.042Z",
+      "resolved_at": null,
+      "message": "might be interesting to show a cursor and hover state for a draggable type feature here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "658:31894",
+        "node_offset": {
+          "x": 1075,
+          "y": 172
+        },
+        "stable_path": [
+          "658:31894"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "1555207065",
+      "uuid": "e4f81ce3-c13d-44de-a106-d67cc5b5cc81",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-12T12:13:42.748Z",
+      "resolved_at": null,
+      "message": "Would using a visually more chill website help focus on the panel. The Wikipedia page is a bit distracting to me here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "658:31894",
+        "node_offset": {
+          "x": 980,
+          "y": 139
+        },
+        "stable_path": [
+          "658:31894"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "1555206154",
+      "uuid": "9de8e610-9a28-40ec-9f03-79f7f4a687f8",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-12T12:13:06.569Z",
+      "resolved_at": null,
+      "message": "I wonder how this might look with a dark BG right in the back?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "658:31894",
+        "node_offset": {
+          "x": 1436,
+          "y": 96
+        },
+        "stable_path": [
+          "658:31894"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "1555053052",
+      "uuid": "75464b0c-02ce-4940-a5c9-09e0e5c6d5f1",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-12T10:34:47.626Z",
+      "resolved_at": null,
+      "message": "this doesn't feel linked enough to the tab. it feels too global",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "643:132948",
+        "node_offset": {
+          "x": 1349,
+          "y": 131
+        },
+        "stable_path": [
+          "643:132948"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "1554987243",
+      "uuid": "6f76ddc2-da31-4b6c-bda3-f383e64185c3",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-12T09:58:11.425Z",
+      "resolved_at": null,
+      "message": "I doubt we will end up showing these by default",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "640:30333",
+        "node_offset": {
+          "x": 623,
+          "y": 707
+        },
+        "stable_path": [
+          "640:30333"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "1553797732",
+      "uuid": "672445b2-c6c6-46cf-bef8-58feb1747731",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2025-12-11T16:03:35.219Z",
+      "resolved_at": null,
+      "message": "if i'm understanding this correctly, in this case 'Private Mode' is the copy instead of 'New Private Tab' and i think it's confusing",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "473:29618",
+        "node_offset": {
+          "x": 494,
+          "y": 136
+        },
+        "stable_path": [
+          "473:29618"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1553788593",
+      "uuid": "fb635b1b-ec7f-4a75-975f-e726237ca42c",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2025-12-11T15:58:36.899Z",
+      "resolved_at": null,
+      "message": "if we have time, would be nice to explore some other iconography/imagery for privacy",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "473:26774",
+        "node_offset": {
+          "x": 1367,
+          "y": 351
+        },
+        "stable_path": [
+          "473:26774"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1553786631",
+      "uuid": "f0ba164f-7b63-4f13-8848-ab4777aaa793",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2025-12-11T15:57:39.388Z",
+      "resolved_at": null,
+      "message": "i think we should disable extensions by default and have users opt in to extensions + give them a warning that some extensions can access website data",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "473:26774",
+        "node_offset": {
+          "x": 1632,
+          "y": 183
+        },
+        "stable_path": [
+          "473:26774"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1553736567",
+      "uuid": "e01736ec-aa61-4654-8309-04a5126685b2",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-11T15:33:03.198Z",
+      "resolved_at": null,
+      "message": "caveat. icon tbc depending on brand work",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "591:59121",
+        "node_offset": {
+          "x": 632,
+          "y": 226
+        },
+        "stable_path": [
+          "591:59121"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1553731988",
+      "uuid": "91df41df-1b87-4752-9b68-14d04b975c72",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2025-12-11T15:30:44.835Z",
+      "resolved_at": null,
+      "message": "Where do I trigger the assistant? If it\u2019s floating like this, it can be easily faked by a malicious third party.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "342:18174",
+        "node_offset": {
+          "x": 1362,
+          "y": 118
+        },
+        "stable_path": [
+          "342:18174"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1553725379",
+      "uuid": "f44e8208-ff2d-4f2e-81ab-5554beea61af",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2025-12-11T15:27:33.965Z",
+      "resolved_at": null,
+      "message": "Would this add confusion for people? Google is already calling their AI search capability \u201cAI Mode,\u201d and they\u2019re using it in a similar way. I think this may be misleading.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "354:38238",
+        "node_offset": {
+          "x": 1004,
+          "y": 321
+        },
+        "stable_path": [
+          "354:38238"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "1553657877",
+      "uuid": "4eaedf55-9689-46c9-bb69-c9c6e64def57",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-11T14:55:26.946Z",
+      "resolved_at": null,
+      "message": "@Glauber da Silva Nicolau @Alice Cappo Love this assertion :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "530:87856",
+        "node_offset": {
+          "x": 802,
+          "y": 161
+        },
+        "stable_path": [
+          "530:87856"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "1553656532",
+      "uuid": "64572715-d517-40c6-86ed-2949379f2159",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-11T14:54:49.503Z",
+      "resolved_at": null,
+      "message": "@Alice Cappo Small thing but not sure the white logo is working now that I see it. Hmmmm, I wonder if we some type of polish details, a stroke or something? That may be weird though.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "567:62161",
+        "node_offset": {
+          "x": 1035,
+          "y": 233
+        },
+        "stable_path": [
+          "567:62161"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1553653601",
+      "uuid": "b16b06ee-da65-4c2c-bcfa-81240c7a15ff",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-11T14:53:29.814Z",
+      "resolved_at": null,
+      "message": "@Alice Cappo Where is the entry point for Smart Window?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "530:61446",
+        "node_offset": {
+          "x": 3990,
+          "y": 4064
+        },
+        "stable_path": [
+          "530:61446"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1553313477",
+      "uuid": "5dc93971-38dc-4adc-92e3-6f57949ad906",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-11T11:57:57.713Z",
+      "resolved_at": null,
+      "message": "Ai as a theme",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "540:113214",
+        "node_offset": {
+          "x": 1120,
+          "y": 773
+        },
+        "stable_path": [
+          "540:113214"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1552525702",
+      "uuid": "035ad652-c191-4e00-aa0d-928fe610ee38",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2025-12-11T02:57:22.908Z",
+      "resolved_at": null,
+      "message": "@Alice Cappo  @Ralph  Peskett  @Nicholas Christowitz \n\nI chatted with Raja on this. He feels that it is more important to have a very differentiated default on private mode than a muted one that feels private in public. \n\nWe want to shy away from what Safari does. \n\nThat said, could you provide us an option that leans into the deep purples we have today? (or anther way to show that it's private browsing). I think we need classic, AI, and private to all feel like they are part of the fx family, but this is too much of a change for us right now. \n\n@Brooke Katalinich",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "473:26774",
+        "node_offset": {
+          "x": 668,
+          "y": 351
+        },
+        "stable_path": [
+          "473:26774"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1552167179",
+      "uuid": "07dd1c53-6b0c-4877-814a-d01faaaa4bc7",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-10T20:12:56.962Z",
+      "resolved_at": null,
+      "message": "@Raja Jacob",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "342:13289",
+        "node_offset": {
+          "x": 721,
+          "y": 356
+        },
+        "stable_path": [
+          "342:13289"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "1551809233",
+      "uuid": "82e07ca3-102c-4b4c-8183-09d708e574e8",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-10T16:18:21.318Z",
+      "resolved_at": null,
+      "message": "Personally I prefer a dark mode default state. \n\ncc @Alice Cappo",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-12-11T09:12:38.106Z",
+          "user": {
+            "id": "1001115112023273046",
+            "handle": "Alice Cappo",
+            "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "342:14245",
+        "node_offset": {
+          "x": 1241,
+          "y": 513
+        },
+        "stable_path": [
+          "342:14245"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "1551800286",
+      "uuid": "10ce02e6-13c8-435b-9476-abbec0e2c596",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-10T16:13:54.790Z",
+      "resolved_at": null,
+      "message": "I wonder should we inverse the logo color scheme here? cc @Alice Cappo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "386:81628",
+        "node_offset": {
+          "x": 723,
+          "y": 168
+        },
+        "stable_path": [
+          "386:81628"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1551798335",
+      "uuid": "bf9d7182-0b06-43ad-be68-2460fac66237",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-10T16:12:56.365Z",
+      "resolved_at": null,
+      "message": "@Alice Cappo Love the vibrancy in this gradient",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "342:17852",
+        "node_offset": {
+          "x": 669,
+          "y": 792
+        },
+        "stable_path": [
+          "342:17852"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1551796944",
+      "uuid": "a08606e4-ab65-4602-b556-84ef6b321cc0",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-10T16:12:14.511Z",
+      "resolved_at": null,
+      "message": "This is cool and aligns with the Shake to Summarize feature on Desktop\n\ncc @Alice Cappo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "342:13852",
+        "node_offset": {
+          "x": 1159,
+          "y": 807
+        },
+        "stable_path": [
+          "342:13852"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "1551795505",
+      "uuid": "2ba44ce8-cf4c-4d0c-ad3d-6152958e6151",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-10T16:11:32.964Z",
+      "resolved_at": null,
+      "message": "@Alice Cappo Love this.",
+      "reactions": [
+        {
+          "emoji": ":yellow_heart:",
+          "created_at": "2025-12-11T09:15:30.496Z",
+          "user": {
+            "id": "1001115112023273046",
+            "handle": "Alice Cappo",
+            "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "386:81628",
+        "node_offset": {
+          "x": 757,
+          "y": 614
+        },
+        "stable_path": [
+          "386:81628"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1551785923",
+      "uuid": "5a4bf3ba-6436-4d77-a665-0c1b76a97019",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-10T16:06:37.289Z",
+      "resolved_at": null,
+      "message": "@Ralph  Peskett we're missing the gradient here or are my eyes playing tricks on me?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "424:57315",
+        "node_offset": {
+          "x": 702,
+          "y": 339
+        },
+        "stable_path": [
+          "424:57315"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1551750743",
+      "uuid": "18cf0d13-b1df-4165-b9b1-eaa58bc95696",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-10T15:49:21.798Z",
+      "resolved_at": null,
+      "message": "let's keep this as a tab for now\nCC @Nicholas Christowitz",
+      "reactions": [
+        {
+          "emoji": ":white_check_mark:",
+          "created_at": "2025-12-10T15:52:13.731Z",
+          "user": {
+            "id": "1544655652632162877",
+            "handle": "Nicholas Christowitz",
+            "img_url": "https://www.gravatar.com/avatar/5ae1b3c8d26cb5c77a712a86fddaec5c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "473:31741",
+        "node_offset": {
+          "x": 1279,
+          "y": 342
+        },
+        "stable_path": [
+          "473:31741"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1551746552",
+      "uuid": "9fa672d3-a08a-4438-b428-b5c3e046167d",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-10T15:47:21.545Z",
+      "resolved_at": null,
+      "message": "odd glitch here CC @Ralph  Peskett",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "424:54166",
+        "node_offset": {
+          "x": 254,
+          "y": 92
+        },
+        "stable_path": [
+          "424:54166"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1551644709",
+      "uuid": "c4712ea6-f424-4751-b824-484ba06e25dc",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-10T14:59:44.227Z",
+      "resolved_at": null,
+      "message": "let's check on the latest HNT because this seems too blended into the BG to me",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "424:57601",
+        "node_offset": {
+          "x": 994,
+          "y": 347
+        },
+        "stable_path": [
+          "424:57601"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1551642218",
+      "uuid": "84fbbc98-95ea-4b59-aa98-72e041a29ed4",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-10T14:58:37.051Z",
+      "resolved_at": null,
+      "message": "@Ralph  Peskett based on competitors, this is another option with all the items",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "435:51138",
+        "node_offset": {
+          "x": 1438,
+          "y": 943
+        },
+        "stable_path": [
+          "435:51138"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1551537752",
+      "uuid": "6efd45e8-934a-41bb-bb89-5b0e6fd3d679",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-10T14:12:23.117Z",
+      "resolved_at": null,
+      "message": "Are we able to pull in images? and the links that are being referenced (above)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "354:37826",
+        "node_offset": {
+          "x": 1258,
+          "y": 433
+        },
+        "stable_path": [
+          "354:37826"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1551248574",
+      "uuid": "a35dbd2f-56b7-41d3-93a3-06dbdc6d3e50",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-10T11:41:07.249Z",
+      "resolved_at": null,
+      "message": "more vibes",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "354:43768",
+        "node_offset": {
+          "x": 731,
+          "y": 401
+        },
+        "stable_path": [
+          "354:43768"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1551241182",
+      "uuid": "4c93dae7-9aab-4a9b-910a-2d63faaef63b",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-10T11:36:57.402Z",
+      "resolved_at": null,
+      "message": "add search results with ai",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "354:38238",
+        "node_offset": {
+          "x": 713,
+          "y": 251
+        },
+        "stable_path": [
+          "354:38238"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1551236880",
+      "uuid": "df08ec63-cf6e-4df8-9bb1-31b38037b62b",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-10T11:34:41.150Z",
+      "resolved_at": null,
+      "message": "hide button?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "354:38032",
+        "node_offset": {
+          "x": 1352,
+          "y": 213
+        },
+        "stable_path": [
+          "354:38032"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1550124137",
+      "uuid": "3fab15b2-dc7a-4f58-b7f1-5485473cfb3e",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-09T20:21:28.908Z",
+      "resolved_at": null,
+      "message": "Just exploration... This would become annoying pretty quickly.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "342:17218",
+        "node_offset": {
+          "x": 1327,
+          "y": 515
+        },
+        "stable_path": [
+          "342:17218"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "1549869204",
+      "uuid": "dc164f2f-8d76-4718-822a-70dcc461bdf1",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2025-12-09T17:26:18.315Z",
+      "resolved_at": null,
+      "message": "@Alice Cappo  @Glauber da Silva Nicolau  here are some AI mode logo explorations by Michelle. Hoping you can take this a bit futher to see what works for AI mode. Raja said that our leadership team liked the tail with sparkles but was worried the purple might be confusing with private mode.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-12-09T18:15:15.392Z",
+          "user": {
+            "id": "1474107670221562682",
+            "handle": "Glauber da Silva Nicolau",
+            "img_url": "https://www.gravatar.com/avatar/52c83ef1ce1dd010b6dff3fd1b0a2d08?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "334:12221",
+        "node_offset": {
+          "x": 3610,
+          "y": 3497
+        },
+        "stable_path": [
+          "334:12221"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1549607525",
+      "uuid": "e815e25a-3c06-4bb5-835b-d32f9a888a51",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-09T15:12:40.378Z",
+      "resolved_at": null,
+      "message": "intro animation for text field",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "354:38567",
+        "node_offset": {
+          "x": 1250,
+          "y": 450
+        },
+        "stable_path": [
+          "354:38567"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1549603088",
+      "uuid": "bfede97d-79e6-4093-8da1-eaabebc9bbfd",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-09T15:10:40.800Z",
+      "resolved_at": null,
+      "message": "loading animation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "342:13289",
+        "node_offset": {
+          "x": 8780,
+          "y": 568
+        },
+        "stable_path": [
+          "342:13289"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1549583573",
+      "uuid": "54924065-8a1a-4944-8b41-7b5a7dbb9159",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-09T15:01:30.218Z",
+      "resolved_at": null,
+      "message": "he's tooooo cute watching you type away :joy:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "288:11777",
+        "node_offset": {
+          "x": 695,
+          "y": 343
+        },
+        "stable_path": [
+          "288:11777"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1549421910",
+      "uuid": "02be3960-c297-4bca-ae7c-317e516a6dc3",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-09T13:48:17.429Z",
+      "resolved_at": null,
+      "message": "temporary icon, just for UX",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "268:10023",
+        "node_offset": {
+          "x": 1333,
+          "y": 70
+        },
+        "stable_path": [
+          "268:10023"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1549382284",
+      "uuid": "72d2445e-625c-4ad9-9a80-2fe2334a520b",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-09T13:28:59.413Z",
+      "resolved_at": null,
+      "message": "@Nicholas Christowitz could use something like this for the private start tab?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "176:507",
+        "node_offset": {
+          "x": 660,
+          "y": 1663
+        },
+        "stable_path": [
+          "176:507"
+        ],
+        "region_width": 147,
+        "region_height": 109,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1549147545",
+      "uuid": "eb3a928b-65fb-4cba-ba8e-e59bdf193889",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-09T11:23:36.590Z",
+      "resolved_at": null,
+      "message": "note: what icon do we use here? is it always AI mode icon as a favicon?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "288:12381",
+        "node_offset": {
+          "x": 25,
+          "y": 26
+        },
+        "stable_path": [
+          "288:12381"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1548831267",
+      "uuid": "dcae81a6-f204-4a96-aa53-3ffbd314b18d",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-09T08:56:09.237Z",
+      "resolved_at": null,
+      "message": "chip contextually updates depending on your URL",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "229:20731",
+        "node_offset": {
+          "x": 1203,
+          "y": 819
+        },
+        "stable_path": [
+          "229:20731"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1548813233",
+      "uuid": "7a2b265a-3d8c-46d3-b333-aee12f6cdb62",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-09T08:47:35.561Z",
+      "resolved_at": null,
+      "message": "this icon is for 'insights'",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "229:19500",
+        "node_offset": {
+          "x": 1160,
+          "y": 902
+        },
+        "stable_path": [
+          "229:19500"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1548228272",
+      "uuid": "ac5f44a1-b33a-44f8-9b21-86e9f65295e5",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2025-12-08T23:06:19.386Z",
+      "resolved_at": null,
+      "message": "@Alice Cappo this concept is now not in the MVP scope anymore",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-12-09T07:57:11.922Z",
+          "user": {
+            "id": "1001115112023273046",
+            "handle": "Alice Cappo",
+            "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "221:15276",
+        "node_offset": {
+          "x": 390,
+          "y": 58
+        },
+        "stable_path": [
+          "221:15276"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1547744048",
+      "uuid": "328e2321-593a-45d4-a7f1-24243bd3cdce",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T16:30:11.990Z",
+      "resolved_at": null,
+      "message": "found the destruct animation @Nicholas Christowitz @Alice Cappo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "179:16526",
+        "node_offset": {
+          "x": 79,
+          "y": 122
+        },
+        "stable_path": [
+          "179:16526"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1547739554",
+      "uuid": "4ce37a69-354d-40b3-8157-7d977fcaad77",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicholas Christowitz",
+        "img_url": "https://www.gravatar.com/avatar/5ae1b3c8d26cb5c77a712a86fddaec5c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1544655652632162877"
+      },
+      "created_at": "2025-12-08T16:27:24.326Z",
+      "resolved_at": null,
+      "message": "I do enjoy the difference between the active state stroke for 'fire tab' and regular tab. Made it easy for me to understand",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "180:23724",
+        "node_offset": {
+          "x": 869,
+          "y": 72
+        },
+        "stable_path": [
+          "180:23724"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1547734220",
+      "uuid": "d4ea2290-45a4-4219-b65c-0f72b4aa7d0b",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T16:24:10.230Z",
+      "resolved_at": null,
+      "message": "is there a big animation too?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "180:23724",
+        "node_offset": {
+          "x": 1525,
+          "y": 31
+        },
+        "stable_path": [
+          "180:23724"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1547667046",
+      "uuid": "f8872fc4-4c29-407b-b61e-5bfb8a536821",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-08T15:45:05.192Z",
+      "resolved_at": null,
+      "message": "so smart window styling is connected to profile? is this the same as HNT?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "35:20215",
+        "node_offset": {
+          "x": 686,
+          "y": 188
+        },
+        "stable_path": [
+          "35:20215"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1547636055",
+      "uuid": "29c6792e-5230-435d-be2a-4dfc219b81fd",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-08T15:27:59.237Z",
+      "resolved_at": null,
+      "message": "any reasoning on why these are at the bottom? it seems like an easy place for input to go after the first interaction, most LLMs tent to have these on the side",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "34:1017",
+        "node_offset": {
+          "x": 746,
+          "y": 863
+        },
+        "stable_path": [
+          "34:1017"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1547633844",
+      "uuid": "de890864-c95e-4fdc-b200-b53fe87506ca",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-08T15:26:49.552Z",
+      "resolved_at": null,
+      "message": "Why there are no prompts here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "34:1017",
+        "node_offset": {
+          "x": 477,
+          "y": 551
+        },
+        "stable_path": [
+          "34:1017"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1547612061",
+      "uuid": "93eddf10-8c08-4b21-a867-b9370afdae8e",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Alice Cappo",
+        "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab",
+        "id": "1001115112023273046"
+      },
+      "created_at": "2025-12-08T15:15:20.780Z",
+      "resolved_at": null,
+      "message": "nice touch",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "157:578",
+        "node_offset": {
+          "x": 127,
+          "y": 145
+        },
+        "stable_path": [
+          "157:578"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1547354000",
+      "uuid": "3e54103e-0560-427d-ab7e-a9d94482762b",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T12:55:35.960Z",
+      "resolved_at": null,
+      "message": "Loom run thru https://www.loom.com/share/9031121b56d342539d1fe0758b283fc2",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "165:13923",
+        "node_offset": {
+          "x": 143,
+          "y": 134
+        },
+        "stable_path": [
+          "165:13923"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1547311535",
+      "uuid": "b714462e-a9fe-4605-8ee1-1d998a43f381",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T12:30:39.665Z",
+      "resolved_at": null,
+      "message": "I reckon KIT as a detective... or a ghost.\n\nGhost is a bit cooler, but doesn't make as much sense. Phantom is back @Alice Cappo :face_with_cowboy_hat:",
+      "reactions": [
+        {
+          "emoji": ":eyes:",
+          "created_at": "2025-12-08T15:16:20.257Z",
+          "user": {
+            "id": "1001115112023273046",
+            "handle": "Alice Cappo",
+            "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab"
+          }
+        },
+        {
+          "emoji": ":ghost:",
+          "created_at": "2025-12-08T15:16:23.729Z",
+          "user": {
+            "id": "1001115112023273046",
+            "handle": "Alice Cappo",
+            "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "165:13922",
+        "node_offset": {
+          "x": 191,
+          "y": 179
+        },
+        "stable_path": [
+          "165:13922"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1547309449",
+      "uuid": "07fecd8a-7a5d-4d73-a006-08ea5c525189",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T12:29:25.470Z",
+      "resolved_at": null,
+      "message": "little comic book style",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "165:13922",
+        "node_offset": {
+          "x": 303,
+          "y": 4210
+        },
+        "stable_path": [
+          "165:13922"
+        ],
+        "region_width": 228,
+        "region_height": 275,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1547308690",
+      "uuid": "1dca7a54-9d0a-40c1-8c65-eb727fd583ea",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T12:28:57.698Z",
+      "resolved_at": null,
+      "message": "Censorship through blur?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "165:13922",
+        "node_offset": {
+          "x": 745,
+          "y": 4111
+        },
+        "stable_path": [
+          "165:13922"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1547303604",
+      "uuid": "a49fb30f-d577-4a0e-a600-4878100c6538",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T12:25:59.683Z",
+      "resolved_at": null,
+      "message": "lol - users are so shameful of what they order, they do it on the sly? Maccies?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "165:13922",
+        "node_offset": {
+          "x": 1677,
+          "y": 4358
+        },
+        "stable_path": [
+          "165:13922"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1547249536",
+      "uuid": "189cb453-e41c-4986-9c95-96368bb13e49",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:51:49.898Z",
+      "resolved_at": null,
+      "message": "Frosty tops + grad bots",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "156:20441",
+        "node_offset": {
+          "x": 197,
+          "y": 61
+        },
+        "stable_path": [
+          "156:20441"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1547249167",
+      "uuid": "a3a1d7c6-2f31-41cf-99d3-be9c2cd8721a",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:51:37.129Z",
+      "resolved_at": null,
+      "message": "Using a character this way I think could be super annoying imo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "156:20441",
+        "node_offset": {
+          "x": 990,
+          "y": 159
+        },
+        "stable_path": [
+          "156:20441"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1547248679",
+      "uuid": "36ebf19d-1494-47f5-9b89-7c16a21c226a",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:51:19.435Z",
+      "resolved_at": null,
+      "message": "Kinda like the way they're showing real use cases for how the tool could REALLY be used... VS Chat GPT who say \"what's on your mind today\" and gives you a text box. Useless.",
+      "reactions": [
+        {
+          "emoji": ":sweat_smile:",
+          "created_at": "2025-12-08T12:08:55.317Z",
+          "user": {
+            "id": "1544655652632162877",
+            "handle": "Nicholas Christowitz",
+            "img_url": "https://www.gravatar.com/avatar/5ae1b3c8d26cb5c77a712a86fddaec5c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "156:20441",
+        "node_offset": {
+          "x": 654,
+          "y": 489
+        },
+        "stable_path": [
+          "156:20441"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1547224806",
+      "uuid": "89d5fdf3-fd46-4d8f-b7d9-1f0d454dfdc0",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:36:06.142Z",
+      "resolved_at": null,
+      "message": "https://buck.co/work/notion-ai\n\nLink to case study",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "156:20358",
+        "node_offset": {
+          "x": 1877,
+          "y": 33
+        },
+        "stable_path": [
+          "156:20358"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1547216055",
+      "uuid": "025c7c8d-c8d9-478c-93ae-42a789112164",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:30:21.962Z",
+      "resolved_at": null,
+      "message": "cute loading state",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "156:20344",
+        "node_offset": {
+          "x": 1137,
+          "y": 1602
+        },
+        "stable_path": [
+          "156:20344"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1547210338",
+      "uuid": "f21886da-cdbc-42b5-9f7c-f0ddc1a4bb13",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:26:44.880Z",
+      "resolved_at": null,
+      "message": "Nice mini card link thing",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "153:19654",
+        "node_offset": {
+          "x": 1029,
+          "y": 14290
+        },
+        "stable_path": [
+          "153:19654"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1547210053",
+      "uuid": "b20c4220-a882-43d9-a438-1f9137011394",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:26:34.900Z",
+      "resolved_at": null,
+      "message": "View mode should different depending on context VS giving control like this IMO",
+      "reactions": [
+        {
+          "emoji": ":100:",
+          "created_at": "2025-12-08T15:18:55.352Z",
+          "user": {
+            "id": "1001115112023273046",
+            "handle": "Alice Cappo",
+            "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "153:19654",
+        "node_offset": {
+          "x": 1448,
+          "y": 12679
+        },
+        "stable_path": [
+          "153:19654"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1547209320",
+      "uuid": "73a7b864-e326-418f-970f-741230c6fe7b",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:26:08.313Z",
+      "resolved_at": null,
+      "message": "these little things don't actually add much value, but they help users see what's going on, and it's super smart",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "153:19654",
+        "node_offset": {
+          "x": 1087,
+          "y": 8715
+        },
+        "stable_path": [
+          "153:19654"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1547207157",
+      "uuid": "35107947-1864-4097-991c-f99fa4fbcdd4",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:24:50.897Z",
+      "resolved_at": null,
+      "message": "can add loads of TOOLS and APPS to the text field",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "153:19654",
+        "node_offset": {
+          "x": 1228,
+          "y": 5130
+        },
+        "stable_path": [
+          "153:19654"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1547206679",
+      "uuid": "ed56063a-f8e8-4467-832c-385eda1776e8",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:24:33.952Z",
+      "resolved_at": null,
+      "message": "Tools and apps in dropdown",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "153:19654",
+        "node_offset": {
+          "x": 1507,
+          "y": 4047
+        },
+        "stable_path": [
+          "153:19654"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1547206004",
+      "uuid": "f79549e3-2097-4764-87fa-2d799a8d7271",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:24:09.870Z",
+      "resolved_at": null,
+      "message": "Layout ref for 'Suggestions'",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "153:19677",
+        "node_offset": {
+          "x": 863,
+          "y": 746
+        },
+        "stable_path": [
+          "153:19677"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1547205261",
+      "uuid": "d4d65aed-d666-4005-9b5a-947fb92fc9c4",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:23:43.204Z",
+      "resolved_at": null,
+      "message": "Again, boring design. but mini card ref",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "156:20336",
+        "node_offset": {
+          "x": 360,
+          "y": 1207
+        },
+        "stable_path": [
+          "156:20336"
+        ],
+        "region_width": 341,
+        "region_height": 75,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1547204933",
+      "uuid": "edf7a0d3-71d5-4231-bb8f-b225da28155f",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:23:31.864Z",
+      "resolved_at": null,
+      "message": "Not great design either, but a ref for a mini card for type of content",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "156:20336",
+        "node_offset": {
+          "x": 1279,
+          "y": 165
+        },
+        "stable_path": [
+          "156:20336"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1547204256",
+      "uuid": "424c7337-0965-403b-b2ba-29f682d75b4f",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:23:06.062Z",
+      "resolved_at": null,
+      "message": "I find the formatting a bit clunky on Claude tbh",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "156:20336",
+        "node_offset": {
+          "x": 1499,
+          "y": 298
+        },
+        "stable_path": [
+          "156:20336"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1547203753",
+      "uuid": "9e64bbcb-8b8a-4a60-862a-6867d5dc22ad",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:22:45.988Z",
+      "resolved_at": null,
+      "message": "micro animation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "156:20336",
+        "node_offset": {
+          "x": 34,
+          "y": 209
+        },
+        "stable_path": [
+          "156:20336"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1547203505",
+      "uuid": "484d021b-15b4-4316-85bb-769a5d8b2fd3",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:22:37.252Z",
+      "resolved_at": null,
+      "message": "Would be so fun to make one of these for Kit :orange_heart:",
+      "reactions": [
+        {
+          "emoji": ":100:",
+          "created_at": "2025-12-09T07:59:24.621Z",
+          "user": {
+            "id": "1001115112023273046",
+            "handle": "Alice Cappo",
+            "img_url": "https://s3-alpha.figma.com/profile/fb450573-283a-4d66-9489-7b9c4679e5ab"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "156:20344",
+        "node_offset": {
+          "x": 1669,
+          "y": 483
+        },
+        "stable_path": [
+          "156:20344"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1547202921",
+      "uuid": "4fc40e10-9925-4b57-8e94-4f5d2fc06e9c",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:22:14.860Z",
+      "resolved_at": null,
+      "message": "Obvs all way over the top, but wondering how/if Kit lives across key moments of AI/Private",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "156:20344",
+        "node_offset": {
+          "x": 1091,
+          "y": 410
+        },
+        "stable_path": [
+          "156:20344"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1547103316",
+      "uuid": "502dcfce-69f1-4508-b315-dc6fcb3eebe4",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T10:26:48.920Z",
+      "resolved_at": null,
+      "message": "Layout breaks quickly!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "153:19654",
+        "node_offset": {
+          "x": 128,
+          "y": 13566
+        },
+        "stable_path": [
+          "153:19654"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1540927190",
+      "uuid": "2f8abee6-49c1-46a2-9ea2-dfb5105f7be5",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-12-03T10:15:15.586Z",
+      "resolved_at": null,
+      "message": "@Meridel Walkington Tagging you on the AI Mode feature list",
+      "reactions": [
+        {
+          "emoji": ":heart_eyes:",
+          "created_at": "2025-12-03T17:16:46.574Z",
+          "user": {
+            "id": "551476150859297062",
+            "handle": "Meridel Walkington",
+            "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1:54",
+        "node_offset": {
+          "x": -779,
+          "y": -1045
+        },
+        "stable_path": [
+          "1:54"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1531012553",
+      "uuid": "f8f559ed-73cb-4d96-944b-f3e8f31942c8",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2025-11-26T04:31:21.499Z",
+      "resolved_at": null,
+      "message": "@Brooke Katalinich @Jane Wolf \n\nPlease check this. I know it's a lot, but there is actually a lot to cover.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "33:2",
+        "node_offset": {
+          "x": 444,
+          "y": 332
+        },
+        "stable_path": [
+          "33:2"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1603571008",
+      "uuid": "a8d4e45d-ab16-4eb9-83bb-083b228f33ed",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2026-01-26T14:07:43.101Z",
+      "resolved_at": null,
+      "message": "Is this enough of contrast for the address bar?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2836:137774",
+        "node_offset": {
+          "x": 251,
+          "y": 69
+        },
+        "stable_path": [
+          "2836:137774"
+        ]
+      },
+      "order_id": "197"
+    },
+    {
+      "id": "1559908874",
+      "uuid": "58619fdb-cd95-4537-a658-276c44918d82",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-16T16:59:39.136Z",
+      "resolved_at": null,
+      "message": "Trigger and animation /transition into these colours. \n\nStroke path starts empty and fills(?).\n\nA gradient flash effect happens over the text in the link below.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1015:134507",
+        "node_offset": {
+          "x": 346,
+          "y": 127
+        },
+        "stable_path": [
+          "1015:134507"
+        ]
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "1559635091",
+      "uuid": "e7ebd9c1-c052-4473-b120-24d4cad1decd",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-16T14:45:07.602Z",
+      "resolved_at": null,
+      "message": "Would love to create a little intro animation for the 'smartbar' on this page. \n\nGoogle Gemini do a little stroke animation, although of course we want to be different to that.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "976:128265",
+        "node_offset": {
+          "x": 1099,
+          "y": 409
+        },
+        "stable_path": [
+          "976:128265"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "1549607525",
+      "uuid": "e815e25a-3c06-4bb5-835b-d32f9a888a51",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-09T15:12:40.378Z",
+      "resolved_at": null,
+      "message": "intro animation for text field",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "354:38567",
+        "node_offset": {
+          "x": 1250,
+          "y": 450
+        },
+        "stable_path": [
+          "354:38567"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1549603088",
+      "uuid": "bfede97d-79e6-4093-8da1-eaabebc9bbfd",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-09T15:10:40.800Z",
+      "resolved_at": null,
+      "message": "loading animation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "342:13289",
+        "node_offset": {
+          "x": 8780,
+          "y": 568
+        },
+        "stable_path": [
+          "342:13289"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1547744048",
+      "uuid": "328e2321-593a-45d4-a7f1-24243bd3cdce",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T16:30:11.990Z",
+      "resolved_at": null,
+      "message": "found the destruct animation @Nicholas Christowitz @Alice Cappo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "179:16526",
+        "node_offset": {
+          "x": 79,
+          "y": 122
+        },
+        "stable_path": [
+          "179:16526"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1547734220",
+      "uuid": "d4ea2290-45a4-4219-b65c-0f72b4aa7d0b",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T16:24:10.230Z",
+      "resolved_at": null,
+      "message": "is there a big animation too?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "180:23724",
+        "node_offset": {
+          "x": 1525,
+          "y": 31
+        },
+        "stable_path": [
+          "180:23724"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1547203753",
+      "uuid": "9e64bbcb-8b8a-4a60-862a-6867d5dc22ad",
+      "file_key": "02Hu5aGErwxcY0aQPg4hq6",
+      "parent_id": "",
+      "user": {
+        "handle": "Ralph  Peskett",
+        "img_url": "https://www.gravatar.com/avatar/428a8b6f8c12a71ce941ff2672f93015?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_r_v2.png",
+        "id": "1573267393576175172"
+      },
+      "created_at": "2025-12-08T11:22:45.988Z",
+      "resolved_at": null,
+      "message": "micro animation",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "156:20336",
+        "node_offset": {
+          "x": 34,
+          "y": 209
+        },
+        "stable_path": [
+          "156:20336"
+        ]
+      },
+      "order_id": "6"
+    }
+  ]
+}

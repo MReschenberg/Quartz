@@ -1,0 +1,3535 @@
+{
+  "unresolved": [
+    {
+      "id": "1586500400",
+      "uuid": "07bb73a5-9b04-40ea-ad68-6fcb29f56a63",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrew Crago",
+        "img_url": "https://s3-alpha.figma.com/profile/ba211a9e-af73-4555-9524-33f939c11805",
+        "id": "1075270157069956042"
+      },
+      "created_at": "2026-01-13T23:47:31.760Z",
+      "resolved_at": null,
+      "message": "@Victoria Wang the exploration does bring things more together on the card. Given the feedback today are there reasons this is not an option to pursue?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2315:112892",
+        "node_offset": {
+          "x": 940,
+          "y": 226
+        },
+        "stable_path": [
+          "2315:112892"
+        ]
+      },
+      "order_id": "170"
+    },
+    {
+      "id": "1586493586",
+      "uuid": "e60567db-60f0-4a1a-9206-c871193ee2c9",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrew Crago",
+        "img_url": "https://s3-alpha.figma.com/profile/ba211a9e-af73-4555-9524-33f939c11805",
+        "id": "1075270157069956042"
+      },
+      "created_at": "2026-01-13T23:36:57.116Z",
+      "resolved_at": null,
+      "message": "it does feel more \"page level\" but I also think that is may look disabled at the card level? (ie \"grayed out\") @Victoria Wang",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2439:31453",
+        "node_offset": {
+          "x": 1045,
+          "y": 232
+        },
+        "stable_path": [
+          "2439:31453"
+        ]
+      },
+      "order_id": "169"
+    },
+    {
+      "id": "1584359943",
+      "uuid": "07785896-7444-4a13-b2ab-1fdede3898e8",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2026-01-12T20:43:12.244Z",
+      "resolved_at": null,
+      "message": "Idea: \"This doesn\u2019t block search suggestions or other features that use machine learning.\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2051:18758",
+        "node_offset": {
+          "x": 868,
+          "y": 487
+        },
+        "stable_path": [
+          "2051:18758"
+        ]
+      },
+      "order_id": "168"
+    },
+    {
+      "id": "1584121628",
+      "uuid": "57b79baf-48eb-4150-8df0-4f83d0beb1f3",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2026-01-12T17:35:47.645Z",
+      "resolved_at": null,
+      "message": "Stormy had a new take! \"Images you add to PDFs get descriptions to make them accessible.\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2051:18758",
+        "node_offset": {
+          "x": 676,
+          "y": 952
+        },
+        "stable_path": [
+          "2051:18758"
+        ]
+      },
+      "order_id": "167"
+    },
+    {
+      "id": "1584120159",
+      "uuid": "ca9e5188-ca49-465b-8bc7-ce1e7a2783a6",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2026-01-12T17:34:43.823Z",
+      "resolved_at": null,
+      "message": "Possible to avoid the orphan?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2051:18758",
+        "node_offset": {
+          "x": 817,
+          "y": 790
+        },
+        "stable_path": [
+          "2051:18758"
+        ]
+      },
+      "order_id": "166"
+    },
+    {
+      "id": "1584119047",
+      "uuid": "ef978c43-2c65-46f4-83f2-78760991c9b6",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2026-01-12T17:33:52.748Z",
+      "resolved_at": null,
+      "message": "Riff from Stormy, incorporating Emily's feedback, plus italicized treatment for \"Blocked\" to communicate state change. \n\nIf you block, you won\u2019t see new AI features in Firefox, or get promotional messages about them. The features listed below will switch to Blocked, but you can turn them back on anytime.\n\nThis doesn\u2019t block things like search suggestions or recommendations, which use machine learning.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2051:18758",
+        "node_offset": {
+          "x": 592,
+          "y": 439
+        },
+        "stable_path": [
+          "2051:18758"
+        ]
+      },
+      "order_id": "165"
+    },
+    {
+      "id": "1584116187",
+      "uuid": "2bc614d8-a4c7-4251-ba60-fdbe245777f7",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2026-01-12T17:31:46.578Z",
+      "resolved_at": null,
+      "message": "Wonder if you can avoid saying \"use\" twice. Riff from Stormy: Small AI models are downloaded to your device when you use the feature. This helps keep your data private.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2051:18758",
+        "node_offset": {
+          "x": 675,
+          "y": 706
+        },
+        "stable_path": [
+          "2051:18758"
+        ]
+      },
+      "order_id": "164"
+    },
+    {
+      "id": "1583865420",
+      "uuid": "7d793833-6ee2-401f-8893-da693c3527b0",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-12T15:03:46.086Z",
+      "resolved_at": null,
+      "message": "SS: Saying \"Afterwards\" instead of \"after\" is a bit clearer.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2051:18762",
+        "node_offset": {
+          "x": 811,
+          "y": 508
+        },
+        "stable_path": [
+          "2051:18762"
+        ]
+      },
+      "order_id": "163"
+    },
+    {
+      "id": "1583862779",
+      "uuid": "9ce04bc0-4181-4bb3-8151-829e4dc1320e",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-12T15:02:17.118Z",
+      "resolved_at": null,
+      "message": "have you tried an all-encompassing phrase like \"promotion\" instead of explicitly saying \"popups?\"",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-01-12T17:29:20.674Z",
+          "user": {
+            "id": "551476150859297062",
+            "handle": "Meridel Walkington",
+            "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2051:18758",
+        "node_offset": {
+          "x": 931,
+          "y": 405
+        },
+        "stable_path": [
+          "2051:18758"
+        ]
+      },
+      "order_id": "162"
+    },
+    {
+      "id": "1583858185",
+      "uuid": "684b5de5-44eb-414f-b303-0115e49efed5",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-12T14:59:48.845Z",
+      "resolved_at": null,
+      "message": "Suggestion: Add some context about the model download status to these definitions to further differentiate Available and Enabled. e.g. \"but you haven't downloaded any models yet.\" and \"and the model is downloaded to your device.\"",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-01-12T17:36:07.550Z",
+          "user": {
+            "id": "551476150859297062",
+            "handle": "Meridel Walkington",
+            "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2051:18758",
+        "node_offset": {
+          "x": 801,
+          "y": 1195
+        },
+        "stable_path": [
+          "2051:18758"
+        ]
+      },
+      "order_id": "161"
+    },
+    {
+      "id": "1583850620",
+      "uuid": "6939754d-b80a-48f6-8025-595278eb7e6c",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-12T14:56:02.622Z",
+      "resolved_at": null,
+      "message": "@Katie Lower the comma section breaks this sentence up awkwardly. Can you move it to the end?",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-01-12T17:29:38.578Z",
+          "user": {
+            "id": "551476150859297062",
+            "handle": "Meridel Walkington",
+            "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-01-13T00:20:49.586Z",
+          "user": {
+            "id": "1198141840990927452",
+            "handle": "Ashley Roybal-Reid",
+            "img_url": "https://www.gravatar.com/avatar/0b725d063e1075f35faa8a7cf30e338e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2051:18758",
+        "node_offset": {
+          "x": 674,
+          "y": 474
+        },
+        "stable_path": [
+          "2051:18758"
+        ]
+      },
+      "order_id": "160"
+    },
+    {
+      "id": "1580710290",
+      "uuid": "77a65511-9da6-450c-b5d8-7f5ef61e6f81",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-08T20:04:23.892Z",
+      "resolved_at": null,
+      "message": "Alts to available (throwing stuff at the wall)\n* Allowed\n* Activated\n* Ready to use (this could work well with the in use)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 549,
+          "y": 1356
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "159"
+    },
+    {
+      "id": "1580705486",
+      "uuid": "44b2f2cb-665c-4973-bd77-6b7fb22685b2",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2026-01-08T20:00:05.126Z",
+      "resolved_at": null,
+      "message": "An alt I thought when you just talked was \"Ready for use\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 957,
+          "y": 978
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "158"
+    },
+    {
+      "id": "1580703127",
+      "uuid": "d2b58db0-85dc-4907-ba0b-4928a2953945",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-08T19:58:09.232Z",
+      "resolved_at": null,
+      "message": "Q: This is maybe a bit future-proofy, but is this where we might also later include something like the Perplexity/Lens in search or some of the other features that fit this format?\n\nSome are \"partners\". Some are \"providers\".",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 761,
+          "y": 1500
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "157"
+    },
+    {
+      "id": "1580699959",
+      "uuid": "2fb60bb0-dba6-4a27-bd42-703e3f360449",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-01-08T19:55:35.035Z",
+      "resolved_at": null,
+      "message": "riff: \"Active\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 970,
+          "y": 1126
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "156"
+    },
+    {
+      "id": "1580695420",
+      "uuid": "05bde44f-742c-46f0-a2ba-4b0778951eb7",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-08T19:52:02.933Z",
+      "resolved_at": null,
+      "message": "Alt that is shorter: Provider integrations",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-01-08T19:54:25.571Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 497,
+          "y": 1489
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "154"
+    },
+    {
+      "id": "1580692916",
+      "uuid": "936d3e69-42b5-4a5e-bd54-691af8e1180c",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-08T19:50:03.092Z",
+      "resolved_at": null,
+      "message": "Similar to above, a \"Current provider:\" status bar might be helpful to create separation and clarity.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 456,
+          "y": 1743
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "153"
+    },
+    {
+      "id": "1580691780",
+      "uuid": "aff40a6b-28bc-4e6f-abb5-1851091f5482",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-08T19:49:11.122Z",
+      "resolved_at": null,
+      "message": "OPO\n\nSubjective descriptors like \"small\" or \"minimal\" can be interpreted all sorts of ways...\n\nWe had a good amount of swirl of the phrase \"minimal data\" on some ToU stuff so if we can communicate the same thing without language that might add fuel to the discussion, being more neutral feels \"safer\".",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 549,
+          "y": 851
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "152"
+    },
+    {
+      "id": "1580691426",
+      "uuid": "e6eae502-9027-41b9-9d53-4a194f8317f5",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-01-08T19:48:53.506Z",
+      "resolved_at": null,
+      "message": "opp to shorten: \"...we only add models for features you use\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 646,
+          "y": 888
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "151"
+    },
+    {
+      "id": "1580691344",
+      "uuid": "45d7b2ec-60a4-4846-aec0-407addce87ea",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-08T19:48:50.424Z",
+      "resolved_at": null,
+      "message": "@Katie Lower Will this success state persist if a user comes back and the block is on? As a reminder that they're blocking new features...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1913:30718",
+        "node_offset": {
+          "x": 534,
+          "y": 434
+        },
+        "stable_path": [
+          "1913:30718"
+        ]
+      },
+      "order_id": "150"
+    },
+    {
+      "id": "1580690449",
+      "uuid": "521b6fe7-4bc4-4b79-8a76-4a9dc005231b",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2026-01-08T19:48:08.744Z",
+      "resolved_at": null,
+      "message": "Same comment as I had to the left on \"new\". Especially if we are using current below. It's not as evergreen and could become content debt that unintentionally communicates \"You can't block current AI features, only new ones moving forward\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25614",
+        "node_offset": {
+          "x": 534,
+          "y": 522
+        },
+        "stable_path": [
+          "1907:25614"
+        ]
+      },
+      "order_id": "149"
+    },
+    {
+      "id": "1580689890",
+      "uuid": "5511c40d-9865-45dd-b380-a89827692db3",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-08T19:47:42.002Z",
+      "resolved_at": null,
+      "message": "Any plans to link to to about:addons page where they can manage their model downloads? @Katie Lower",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 479,
+          "y": 1439
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "148"
+    },
+    {
+      "id": "1580689355",
+      "uuid": "2f967e2e-e538-4b76-80d7-a2a0f5fc92a0",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-08T19:47:15.656Z",
+      "resolved_at": null,
+      "message": "Future state idea: a \"Model downloaded\" badge or status that is outside of the dropdown. That way the choice to use or not use a feature remains binary and the status of the download is communicated separately. We have something like this set up in alt text PDF settings.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-01-08T19:49:32.316Z",
+          "user": {
+            "id": "1083509274597697392",
+            "handle": "Jeff Pfaller",
+            "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-01-08T19:59:21.853Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 473,
+          "y": 1334
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "147"
+    },
+    {
+      "id": "1580689029",
+      "uuid": "3ce1ac63-1c11-4ca9-b701-2e3c6cd132f4",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2026-01-08T19:47:00.725Z",
+      "resolved_at": null,
+      "message": "Maybe I missed it while you were talking, what's the plan for scaling this, since it'll probably start getting long",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25614",
+        "node_offset": {
+          "x": 718,
+          "y": 655
+        },
+        "stable_path": [
+          "1907:25614"
+        ]
+      },
+      "order_id": "146"
+    },
+    {
+      "id": "1580687956",
+      "uuid": "a25c229a-f8b3-451c-bd09-6457bd66a808",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2026-01-08T19:46:09.188Z",
+      "resolved_at": null,
+      "message": "At the risk of being hodge-podgy, I think I prefer the following options:\n\n* Available - you can turn it on\n* Enabled - you turned it on\n* Disabled - you turned it off\n\nWhile we're moving toward \"Use\" as the verb in setting for turning on features (e.g. \"Use Picture-in-picture\" vs \"Enable picture-in-picture\") as a drop-down, \"Enabled\" feels more clear here.\n\nAdditionally, \"Available\" vs \"Enabled\" vs \"Disabled\" feels more distinct than \"Visible\".",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1913:24012",
+        "node_offset": {
+          "x": 426,
+          "y": 1151
+        },
+        "stable_path": [
+          "1913:24012"
+        ]
+      },
+      "order_id": "145"
+    },
+    {
+      "id": "1580687687",
+      "uuid": "8f845c00-d058-49ad-a98b-fd7a53980673",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2026-01-08T19:45:57.885Z",
+      "resolved_at": null,
+      "message": "Personally, I like blocked vs. disabled. Blocked feels stronger. Disabled could mean that I'm still seeing things or that it's still in my product",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-01-08T19:53:08.978Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-01-08T19:46:30.346Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 389,
+          "y": 558
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "144"
+    },
+    {
+      "id": "1580687282",
+      "uuid": "357bdfe5-c357-411a-b25e-4f65c7b82a60",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2026-01-08T19:45:38.265Z",
+      "resolved_at": null,
+      "message": "Need to explain the provider name piece?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 571,
+          "y": 1754
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "143"
+    },
+    {
+      "id": "1580686753",
+      "uuid": "ae11beab-e0a1-4c13-911d-b4b493524e6d",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2026-01-08T19:45:14.174Z",
+      "resolved_at": null,
+      "message": "This makes it feel like it's \"active\" and maybe isn't different enough from available. Downloaded?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 902,
+          "y": 1120
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "142"
+    },
+    {
+      "id": "1580686079",
+      "uuid": "a96e5956-7087-4069-8818-dc886edfbcef",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2026-01-08T19:44:43.111Z",
+      "resolved_at": null,
+      "message": "Riff to simplify: \u201cThese use small AI models that download to your device only when you use a feature. This way, your data stays private.\" \n\n(don't need last line?)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 874,
+          "y": 874
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "141"
+    },
+    {
+      "id": "1580686028",
+      "uuid": "f526b5af-4359-46ef-b86a-4ff6ff702b75",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-08T19:44:40.734Z",
+      "resolved_at": null,
+      "message": "Just \"More controls coming soon.\" ? Shorter... @Katie Lower",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-01-08T19:47:00.234Z",
+          "user": {
+            "id": "1169379060174051036",
+            "handle": "Katie Lower",
+            "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 886,
+          "y": 179
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "140"
+    },
+    {
+      "id": "1580685363",
+      "uuid": "c0e4b1b2-44d2-4b08-aa65-4206eb52fdd2",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2026-01-08T19:44:08.798Z",
+      "resolved_at": null,
+      "message": "This is nice and feels pretty clear",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-01-08T19:49:25.932Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 707,
+          "y": 868
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "139"
+    },
+    {
+      "id": "1580684734",
+      "uuid": "c45a914a-1e2b-464b-a404-14be7e51080c",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2026-01-08T19:43:39.079Z",
+      "resolved_at": null,
+      "message": "The new is tripping me up - I don't think you need it if this is a comprehensive, we remove stuff from the interface",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 609,
+          "y": 587
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "138"
+    },
+    {
+      "id": "1580683908",
+      "uuid": "b460ebca-b496-46a8-90f4-837dc4d56392",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-01-08T19:43:00.085Z",
+      "resolved_at": null,
+      "message": "IIRC I've also seen a \"What is this?\" link. Not sure that's too casual for this or not",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 786,
+          "y": 718
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "1580683233",
+      "uuid": "a4611984-64f0-42ab-b20f-080622aeff17",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-08T19:42:26.368Z",
+      "resolved_at": null,
+      "message": "Can this copy be dynamic? Right now the block if off but the copy reads as if it is on. @Katie Lower",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 475,
+          "y": 578
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "136"
+    },
+    {
+      "id": "1580682844",
+      "uuid": "49d8c261-b823-4ea3-b4e4-0d4c2b5af16b",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-01-08T19:42:07.837Z",
+      "resolved_at": null,
+      "message": "Riffs: \n* If there are some features you want to still use, you can.\n* Or, choose any AI-enhanced feature if you want to keep using it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 962,
+          "y": 642
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "1580681727",
+      "uuid": "d04e8e3b-42ff-4438-87cd-abdd2b0dce7e",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2026-01-08T19:41:16.355Z",
+      "resolved_at": null,
+      "message": "I think copy should cover that you are blocking current AND future features (you had this in some other version at some point). Riff: \n\nYou won\u2019t see any AI-enhanced features in Firefox, including new ones. \n\n[don't need last line, and removed directional bit]",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 559,
+          "y": 659
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "134"
+    },
+    {
+      "id": "1580680852",
+      "uuid": "d99670c5-b016-4997-96bf-181842451206",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-08T19:40:34.855Z",
+      "resolved_at": null,
+      "message": "My gut feeling is that \"Block\" is a better choice than \"Disable\" because block feels like a strong, clear action. Parallels to blocking someone on social media. Feels more satisfying and concrete than \"Disabling\" something. @Katie Lower",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-01-08T19:51:38.874Z",
+          "user": {
+            "id": "1083509274597697392",
+            "handle": "Jeff Pfaller",
+            "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 164,
+          "y": 55
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "133"
+    },
+    {
+      "id": "1580679523",
+      "uuid": "46537095-b379-4a0a-be19-f66fdbdd748e",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-01-08T19:39:31.668Z",
+      "resolved_at": null,
+      "message": "IIRC, using directional words (above, below, etc.) aren't accessible",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 523,
+          "y": 597
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "132"
+    },
+    {
+      "id": "1580679392",
+      "uuid": "b7bedc2e-6ce7-4906-a00d-bcccf2ade1a8",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-08T19:39:24.994Z",
+      "resolved_at": null,
+      "message": "Will this be \"in use\" by default? (since we built the feature to be opt-out?) @Katie Lower",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 986,
+          "y": 1105
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "131"
+    },
+    {
+      "id": "1580676800",
+      "uuid": "75993809-1f97-44fd-b45a-92c5f697a013",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2026-01-08T19:37:18.438Z",
+      "resolved_at": null,
+      "message": "Instead of saying \"on\" here, you could say allow, enable, unblock, etc.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 896,
+          "y": 605
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "130"
+    },
+    {
+      "id": "1580670211",
+      "uuid": "b07ef2de-3a88-4272-b601-2dacc02974cc",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2026-01-08T19:31:53.992Z",
+      "resolved_at": null,
+      "message": "A little reassurance that future features will  respect your choice would be good!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 789,
+          "y": 136
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "129"
+    },
+    {
+      "id": "1577483829",
+      "uuid": "74e45a45-bbef-4c54-b15e-5c56a5e18262",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2026-01-06T21:56:22.334Z",
+      "resolved_at": null,
+      "message": "I like this shorter variant!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1652:46156",
+        "node_offset": {
+          "x": 1282,
+          "y": 259
+        },
+        "stable_path": [
+          "1652:46156"
+        ]
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "1577472201",
+      "uuid": "a4fe4936-6534-4f22-baa5-62e328d33574",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Mark Striemer",
+        "img_url": "https://www.gravatar.com/avatar/8407f1551cb10122bad1fc181e6177ac?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "902611020167152389"
+      },
+      "created_at": "2026-01-06T21:44:13.458Z",
+      "resolved_at": null,
+      "message": "Having the select floating here would be a custom layout. Can it go in a box group like the other sections?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1618:18779",
+        "node_offset": {
+          "x": 900,
+          "y": 1122
+        },
+        "stable_path": [
+          "1618:18779"
+        ]
+      },
+      "order_id": "124"
+    },
+    {
+      "id": "1577467923",
+      "uuid": "4194e1aa-d56b-4727-b4a1-0cb3c84fbf90",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Mark Striemer",
+        "img_url": "https://www.gravatar.com/avatar/8407f1551cb10122bad1fc181e6177ac?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "902611020167152389"
+      },
+      "created_at": "2026-01-06T21:39:39.777Z",
+      "resolved_at": null,
+      "message": "I will likely create these dropdowns as HTML <select> elements, which doesn't support a sub menu like this. Would it be okay to put these all at the same level?\n\nHaving Removed as the second option might make sense, we could also add a separator if that makes sense\n\nAvailable\nRemoved\n-----\nChatGPT\nClaude\n...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1609:18329",
+        "node_offset": {
+          "x": 121,
+          "y": 21
+        },
+        "stable_path": [
+          "1609:18329"
+        ]
+      },
+      "order_id": "123"
+    },
+    {
+      "id": "1576043794",
+      "uuid": "2b975963-a46a-4b44-92c4-97a63aabb839",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2026-01-05T23:19:14.794Z",
+      "resolved_at": null,
+      "message": "@Katie Lower What do you think of this on/off differentiation?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1618:41247",
+        "node_offset": {
+          "x": 9184,
+          "y": 434
+        },
+        "stable_path": [
+          "1618:41247"
+        ]
+      },
+      "order_id": "122"
+    },
+    {
+      "id": "1575788610",
+      "uuid": "31a83bad-f150-4c44-befb-6f80a1db559c",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Stefan Opsal",
+        "img_url": "https://s3-alpha.figma.com/profile/33ea8761-8af0-41da-b438-bdeddd7b1023",
+        "id": "1030840362368782377"
+      },
+      "created_at": "2026-01-05T18:25:25.696Z",
+      "resolved_at": null,
+      "message": "Adam: Jargon'y. We might say something closer to \"the feature is on\" or \"active\", rather than clarifying that a model is downloaded.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1523:41889",
+        "node_offset": {
+          "x": 927,
+          "y": 539
+        },
+        "stable_path": [
+          "1523:41889"
+        ]
+      },
+      "order_id": "121"
+    },
+    {
+      "id": "1575689214",
+      "uuid": "b56f839e-ccb7-4bbd-b824-7ec5ba6ef309",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Stefan Opsal",
+        "img_url": "https://s3-alpha.figma.com/profile/33ea8761-8af0-41da-b438-bdeddd7b1023",
+        "id": "1030840362368782377"
+      },
+      "created_at": "2026-01-05T16:53:06.261Z",
+      "resolved_at": null,
+      "message": "Vesta:  Is there a way to request feedback about the kill switch from our users, directly in this AI controls section? Turn our critics into helpers",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1523:41889",
+        "node_offset": {
+          "x": 1096,
+          "y": 297
+        },
+        "stable_path": [
+          "1523:41889"
+        ]
+      },
+      "order_id": "120"
+    },
+    {
+      "id": "1575683297",
+      "uuid": "4a62a009-c9b3-409d-b5c0-c273abd16353",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Stefan Opsal",
+        "img_url": "https://s3-alpha.figma.com/profile/33ea8761-8af0-41da-b438-bdeddd7b1023",
+        "id": "1030840362368782377"
+      },
+      "created_at": "2026-01-05T16:48:19.980Z",
+      "resolved_at": null,
+      "message": "Tony: We may want to explain via text somewhere that models aren't downloaded until first run",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1523:18094",
+        "node_offset": {
+          "x": 1040,
+          "y": 492
+        },
+        "stable_path": [
+          "1523:18094"
+        ]
+      },
+      "order_id": "119"
+    },
+    {
+      "id": "1573094288",
+      "uuid": "545f5cff-ad04-48d5-9967-158d3e192172",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-12-30T19:48:20.168Z",
+      "resolved_at": null,
+      "message": "would people think what's new page is pop up?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1523:18094",
+        "node_offset": {
+          "x": 1082,
+          "y": 344
+        },
+        "stable_path": [
+          "1523:18094"
+        ]
+      },
+      "order_id": "115"
+    },
+    {
+      "id": "1573023513",
+      "uuid": "996e6daa-3b8a-4440-a4d8-4b5e8bbedfbe",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Stefan Opsal",
+        "img_url": "https://s3-alpha.figma.com/profile/33ea8761-8af0-41da-b438-bdeddd7b1023",
+        "id": "1030840362368782377"
+      },
+      "created_at": "2025-12-30T17:45:47.546Z",
+      "resolved_at": null,
+      "message": "I wonder if \"Discoverable\" is a more natural way to communicate to users that Translations can show up in every dayuse, but aren't necessarily active yet / the model hasn't downloaded yet.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1450:8590",
+        "node_offset": {
+          "x": 91,
+          "y": 11
+        },
+        "stable_path": [
+          "1450:8590"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "1572307336",
+      "uuid": "69123669-aafd-42e8-a83a-8a563bebdce8",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2025-12-30T01:22:11.196Z",
+      "resolved_at": null,
+      "message": "@Katie Lower Love the idea of just doing Remove/Restore for MVP, and the off switch language/UI! Giving it a stronger name seems helpful for promotion.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1481:27947",
+        "node_offset": {
+          "x": 32,
+          "y": 764
+        },
+        "stable_path": [
+          "1481:27947"
+        ]
+      },
+      "order_id": "113"
+    },
+    {
+      "id": "1572221225",
+      "uuid": "be19fe30-6b15-4a08-8af8-8755a30d10c5",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-12-29T20:53:28.272Z",
+      "resolved_at": null,
+      "message": "@Victoria Wang - I think the sleeping fox should be associated with the AI kill switch card + copy (so, what's directly below). It doesn't quite track with the copy in the intro card.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1312:46191",
+        "node_offset": {
+          "x": 12673,
+          "y": 255
+        },
+        "stable_path": [
+          "1312:46191"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "1572123136",
+      "uuid": "8bb3e27b-95f4-4255-b4f9-11696257580c",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2025-12-29T18:03:12.199Z",
+      "resolved_at": null,
+      "message": "If we don't want translations to look set apart from the others, we could link to the other section like this",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1312:45757",
+        "node_offset": {
+          "x": 691,
+          "y": 721
+        },
+        "stable_path": [
+          "1312:45757"
+        ]
+      },
+      "order_id": "111"
+    },
+    {
+      "id": "1570909863",
+      "uuid": "10d8e74d-4c16-4302-a014-9c8a7a4b32a3",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Stefan Opsal",
+        "img_url": "https://s3-alpha.figma.com/profile/33ea8761-8af0-41da-b438-bdeddd7b1023",
+        "id": "1030840362368782377"
+      },
+      "created_at": "2025-12-26T18:37:47.983Z",
+      "resolved_at": null,
+      "message": "Do we still need this block of text with these new designs?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1291:27414",
+        "node_offset": {
+          "x": 840,
+          "y": 165
+        },
+        "stable_path": [
+          "1291:27414"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "1569820625",
+      "uuid": "42d90f41-50e1-4e36-bb4a-9719a6e53551",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-12-24T19:10:39.153Z",
+      "resolved_at": null,
+      "message": "If we say \"block all ai features\" i think we need to make sure we're truly doing all ai features. So i dont think we finalize this button CTA until we have the full list crafted",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1291:27414",
+        "node_offset": {
+          "x": 515,
+          "y": 400
+        },
+        "stable_path": [
+          "1291:27414"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "1569820499",
+      "uuid": "b1a6f688-73bd-4428-bcef-5971bc2ae899",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-12-24T19:10:10.607Z",
+      "resolved_at": null,
+      "message": "I think we might need to be explicit that this could impact the browser experience. I wonder if we can share more on how it will impact the browser experience but users have the option to select which feature they want instead below.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1291:27414",
+        "node_offset": {
+          "x": 773,
+          "y": 398
+        },
+        "stable_path": [
+          "1291:27414"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "1568902517",
+      "uuid": "230ab51f-f311-43bc-b4d5-10b7b19f8202",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-12-23T20:28:47.426Z",
+      "resolved_at": null,
+      "message": "is AI smart windows in beta?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1291:27414",
+        "node_offset": {
+          "x": 666,
+          "y": 45
+        },
+        "stable_path": [
+          "1291:27414"
+        ]
+      },
+      "order_id": "107"
+    },
+    {
+      "id": "1568901806",
+      "uuid": "f06ceaa3-dc18-4c2c-b1a8-dc0d5e132ace",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-12-23T20:27:47.963Z",
+      "resolved_at": null,
+      "message": "i like that we split out on device  features and integrations with ai providers! Great idea so users can make that distinction",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1291:27414",
+        "node_offset": {
+          "x": 659,
+          "y": 499
+        },
+        "stable_path": [
+          "1291:27414"
+        ]
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "1568901303",
+      "uuid": "34ee0e04-c96d-4090-bc3e-eabbbf00999d",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-12-23T20:27:04.524Z",
+      "resolved_at": null,
+      "message": "Does access point feel technical?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1291:27414",
+        "node_offset": {
+          "x": 540,
+          "y": 293
+        },
+        "stable_path": [
+          "1291:27414"
+        ]
+      },
+      "order_id": "105"
+    },
+    {
+      "id": "1568901172",
+      "uuid": "bb0cc0df-2353-4f9c-838d-20b5ce0d8a3b",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-12-23T20:26:50.710Z",
+      "resolved_at": null,
+      "message": "Do we want to lean into user choice a bit more here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1291:27414",
+        "node_offset": {
+          "x": 696,
+          "y": 124
+        },
+        "stable_path": [
+          "1291:27414"
+        ]
+      },
+      "order_id": "104"
+    },
+    {
+      "id": "1568900943",
+      "uuid": "a998b755-45d8-4993-bb07-9db1530100b4",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-12-23T20:26:30.615Z",
+      "resolved_at": null,
+      "message": "Do we think it is \"AI features\" or is it something more around features using AI? I'm not sure the exact term. The reason for this distinction is I think \"AI features\" has a bit of a marketing sense to them that it's AI being added into firefox like AI smart window. when really a lot of these features are functionality that are accessibility, translations etc.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1291:27414",
+        "node_offset": {
+          "x": 517,
+          "y": 110
+        },
+        "stable_path": [
+          "1291:27414"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "1567647955",
+      "uuid": "c6acdd00-6d2b-4326-8bba-f1fc2985ec4a",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2025-12-23T00:33:18.452Z",
+      "resolved_at": null,
+      "message": "Hopeful we don't need to include ML features, but if there's concern, I think a message like this is a great idea",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1296:19260",
+        "node_offset": {
+          "x": 977,
+          "y": 811
+        },
+        "stable_path": [
+          "1296:19260"
+        ]
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "1567647708",
+      "uuid": "0f2fb780-0126-46c4-862f-f33e92e497de",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2025-12-23T00:32:44.391Z",
+      "resolved_at": null,
+      "message": "Depending on what Translations looks like, could make sense to have it at the top since it has such a clear value prop for most people?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1310:24156",
+        "node_offset": {
+          "x": 360,
+          "y": 11
+        },
+        "stable_path": [
+          "1310:24156"
+        ]
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "1561405331",
+      "uuid": "837c4a6a-fd6c-4346-afda-e13479b696f7",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Julien Wajsberg",
+        "img_url": "https://www.gravatar.com/avatar/070765e387f8176358ed9187275856bd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "688429422804570486"
+      },
+      "created_at": "2025-12-17T12:41:50.838Z",
+      "resolved_at": null,
+      "message": "Hey! \nI'm very interested in this feature and that's how I found the design. I wanted to do a little piece of feedback, but feel free to ignore :-)\nFrom this UI, as a user, I think I'd like to know which features are local, and which ones are not. That is, which ones will share my data with other companies.\nAs far as I understand they're all local except the chatbot currently, but that could changer later (with AI Window for example). As a user I could decide to remove all cloud-based AI features but still keep the local-based ones.\n\nThis could also solve the other issue I read in the megadoc: \"Do not govern every AI/ML-powered capability in MVP.\": we wouldn't be able to govern all of them individually but still be able to disable as a group.\n\nThanks for reading!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "983:24562",
+        "node_offset": {
+          "x": 811,
+          "y": 88
+        },
+        "stable_path": [
+          "983:24562"
+        ]
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "1560047114",
+      "uuid": "6c003bbc-4f57-45f6-8377-a8906b7f9385",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-12-16T18:29:04.841Z",
+      "resolved_at": null,
+      "message": "@Mark Striemer - Details on where each learn more link should point.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1061:11911",
+        "node_offset": {
+          "x": 367,
+          "y": 19
+        },
+        "stable_path": [
+          "1061:11911"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "1559961903",
+      "uuid": "6bbbc0f1-9a85-489b-9df6-0d6535bb8129",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-12-16T17:31:55.855Z",
+      "resolved_at": null,
+      "message": "@Jules Simplicio @Brent Trotter - Heard from Mark S in the x-func meeting today that this should be non-bold given this context. Does this track with your understanding? If so will to through and unbold. cc: @Victoria Wang",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "721:7341",
+        "node_offset": {
+          "x": 731,
+          "y": 441
+        },
+        "stable_path": [
+          "721:7341"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "1557798294",
+      "uuid": "4580f448-828a-4adf-a176-485fad288e2d",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-12-15T15:59:25.124Z",
+      "resolved_at": null,
+      "message": "@Katie Lower \n\nSafe to assume that making these links grey is intentional to reduce the \"sea of blue links\"?\n\nThat said, double checking with @Jules Simplicio on how we feel about breaking the patten throughout the rest of settings here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "721:7341",
+        "node_offset": {
+          "x": 873,
+          "y": 321
+        },
+        "stable_path": [
+          "721:7341"
+        ]
+      },
+      "order_id": "94"
+    },
+    {
+      "id": "1557779847",
+      "uuid": "54dfd453-bae7-411d-832e-8903f947001f",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T15:50:01.500Z",
+      "resolved_at": null,
+      "message": "wondering if these should use ellipses because they are communicating an in-progress state: \"Setting up link previews...\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "909:3881",
+        "node_offset": {
+          "x": 209,
+          "y": 14
+        },
+        "stable_path": [
+          "909:3881"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "1557779091",
+      "uuid": "6bf71266-219a-485c-a0e8-ea0155ab5696",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T15:49:38.349Z",
+      "resolved_at": null,
+      "message": "I prefer the \"Done!\" versions because they are very clear that the action is complete.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2025-12-15T16:12:26.855Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "913:4156",
+        "node_offset": {
+          "x": 150,
+          "y": 20
+        },
+        "stable_path": [
+          "913:4156"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "1557778054",
+      "uuid": "41d01ae1-2fb9-4e0d-bac5-6df5d70971e8",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-15T15:49:07.974Z",
+      "resolved_at": null,
+      "message": "@Katie Lower I think this copy approach is a bit confusing because it makes me think I am being prompted to take an action but the message doesn't facilitate that action. I will comment below on my preferred option.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "800:1878",
+        "node_offset": {
+          "x": 774,
+          "y": 359
+        },
+        "stable_path": [
+          "800:1878"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "1556008586",
+      "uuid": "a0a88392-e953-4943-af05-60e40d64a444",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Bryan Olsson",
+        "img_url": "https://www.gravatar.com/avatar/34df29d70aca0d9b18a6a8fbb65acd5b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1128440584731101832"
+      },
+      "created_at": "2025-12-12T23:27:33.055Z",
+      "resolved_at": null,
+      "message": "Is \"Smart Window\" final? How will we be treating it in English (always capitalized?).\n\nCan we assume that this name can be localized in other languages?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "776:18557",
+        "node_offset": {
+          "x": 580,
+          "y": 563
+        },
+        "stable_path": [
+          "776:18557"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "1556007874",
+      "uuid": "b050d6b7-2e2d-4d8c-ac98-976ca5f05845",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Bryan Olsson",
+        "img_url": "https://www.gravatar.com/avatar/34df29d70aca0d9b18a6a8fbb65acd5b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_b_v2.png",
+        "id": "1128440584731101832"
+      },
+      "created_at": "2025-12-12T23:25:26.271Z",
+      "resolved_at": null,
+      "message": "Likely not a l10n concern, but how does this appear when a provider is selected? How do users \"disable\" the feature compared to the toggles above?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "721:7410",
+        "node_offset": {
+          "x": 636,
+          "y": 470
+        },
+        "stable_path": [
+          "721:7410"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "1555991366",
+      "uuid": "29929fe3-d1d4-4870-9c2f-074d3fcd0a6b",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-12-12T22:46:51.178Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter @Meridel Walkington - Can I get a SSoE on these status messages as well? \nWhen someone toggles a feature 'on', they'll see the 'blue' message first. The blue message represents the model downloading in the background. The 'green' message represents 'model download was successful'.\n\nI'm trying 3 different options for the copy format / style, represented by the 3 different columns here. I'm preferring option 2.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "721:9100",
+        "node_offset": {
+          "x": 6574,
+          "y": 1736
+        },
+        "stable_path": [
+          "721:9100"
+        ],
+        "region_width": 2308,
+        "region_height": 502,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "1555870825",
+      "uuid": "620f5d23-fdf9-490b-9667-436919987264",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2025-12-12T20:09:10.877Z",
+      "resolved_at": null,
+      "message": "@Meridel Walkington @Brent Trotter - SSoE, please. \n\nInstead of having the heading here be \"Restore AI\", wdyt about having it be more a statement / reiteration of what the user has done? I think that for people who are choosing to Remove AI, this will be more satisfying, and more clear.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "721:7481",
+        "node_offset": {
+          "x": 749,
+          "y": 607
+        },
+        "stable_path": [
+          "721:7481"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "1548225070",
+      "uuid": "13f53f8c-754d-48b0-b9d6-8b6337822679",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Michelle Diaz",
+        "img_url": "https://www.gravatar.com/avatar/c995bd39ce0658ce1818acd20d348239?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "1501241353019876562"
+      },
+      "created_at": "2025-12-08T23:01:51.112Z",
+      "resolved_at": null,
+      "message": "@Jane Wolf @Victoria Wang @Jules Simplicio @Meridel Walkington Hey all, dropped in a first pass at some on/off state illustration options for these settings. Lmk what y'all think.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "747:1701",
+        "node_offset": {
+          "x": 234,
+          "y": 308
+        },
+        "stable_path": [
+          "747:1701"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "1545808706",
+      "uuid": "ac02cdeb-727c-4a14-a671-a582b1c14a86",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Mark Striemer",
+        "img_url": "https://www.gravatar.com/avatar/8407f1551cb10122bad1fc181e6177ac?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "902611020167152389"
+      },
+      "created_at": "2025-12-05T20:30:57.641Z",
+      "resolved_at": null,
+      "message": "Option 2 for this seems backwards? I'd think it would check the box in Customize sidebar if it isn't currently checked (but by default it is already checked if the new sidebar is enabled)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "574:19434",
+        "node_offset": {
+          "x": 6043,
+          "y": 950
+        },
+        "stable_path": [
+          "574:19434"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "1545792012",
+      "uuid": "fc6b5ff9-74c9-4b64-ba29-e60ea28e1030",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2025-12-05T20:14:24.791Z",
+      "resolved_at": null,
+      "message": "I recommend in context as opposed to stacked @Katie Lower",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "577:19795",
+        "node_offset": {
+          "x": 137,
+          "y": 128
+        },
+        "stable_path": [
+          "577:19795"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "1544235505",
+      "uuid": "42a83f89-e493-4a32-8a1d-2210b7b427c3",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrew Crago",
+        "img_url": "https://s3-alpha.figma.com/profile/ba211a9e-af73-4555-9524-33f939c11805",
+        "id": "1075270157069956042"
+      },
+      "created_at": "2025-12-04T22:44:01.659Z",
+      "resolved_at": null,
+      "message": "AI window settings on page?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "493:15624",
+        "node_offset": {
+          "x": 2187,
+          "y": 931
+        },
+        "stable_path": [
+          "493:15624"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1543972146",
+      "uuid": "36512485-5ae8-4034-8273-f984235e9c5a",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-12-04T19:03:13.849Z",
+      "resolved_at": null,
+      "message": "@Katie Lower added a riff here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "493:15624",
+        "node_offset": {
+          "x": 739,
+          "y": 765
+        },
+        "stable_path": [
+          "493:15624"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1542160076",
+      "uuid": "893cda18-491b-4aad-ac09-57076b7816da",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2025-12-03T21:54:04.358Z",
+      "resolved_at": null,
+      "message": "Will need to soften this depending on what ENG says about functionality",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "415:12339",
+        "node_offset": {
+          "x": 1185,
+          "y": 863
+        },
+        "stable_path": [
+          "415:12339"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "1539764553",
+      "uuid": "8ecf988c-43dc-4a2c-8eab-200c58b5eb53",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-12-02T18:06:17.976Z",
+      "resolved_at": null,
+      "message": "add \"future features\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "378:9947",
+        "node_offset": {
+          "x": 219,
+          "y": 70
+        },
+        "stable_path": [
+          "378:9947"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1539464379",
+      "uuid": "bdf87754-0005-4212-82f1-a9bb422a0db1",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-12-02T15:23:44.190Z",
+      "resolved_at": null,
+      "message": "@Victoria Wang \n\ndo you recommend the grey or red icon here? red feels a bit clearer, but we don't have a precedent in settings to my knowledge. wdyt?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "346:8327",
+        "node_offset": {
+          "x": 473,
+          "y": 229
+        },
+        "stable_path": [
+          "346:8327"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "1539437381",
+      "uuid": "83ccaf35-ff9a-432c-a183-d4b6d77d3fe3",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-12-02T15:11:49.992Z",
+      "resolved_at": null,
+      "message": "@Katie Lower \n\nI like the simplicity of this version.\n\nWe have included the messaging about notifications in the confirmation dialog so that's not lost with additional text next to the button.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "359:14799",
+        "node_offset": {
+          "x": 294,
+          "y": 142
+        },
+        "stable_path": [
+          "359:14799"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "1538078506",
+      "uuid": "d5c10027-9d23-4f40-a3b0-8d4a79fad220",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2025-12-01T23:30:42.949Z",
+      "resolved_at": null,
+      "message": "Wouldn't this one be checked by default?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "346:7372",
+        "node_offset": {
+          "x": 482,
+          "y": 348
+        },
+        "stable_path": [
+          "346:7372"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1538063619",
+      "uuid": "5861ac60-fa16-4e41-92b8-d99babf614de",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-12-01T23:09:53.846Z",
+      "resolved_at": null,
+      "message": "does this still achieve the goal of creating the perception that these are OFF by default if you still have to select \"DISABLE\" and we're showing an indicator that they are \"Discoverable\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "346:7372",
+        "node_offset": {
+          "x": 960,
+          "y": 683
+        },
+        "stable_path": [
+          "346:7372"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1538062150",
+      "uuid": "6b70b523-7349-430c-97ee-b436e9a02473",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-12-01T23:07:57.210Z",
+      "resolved_at": null,
+      "message": "this button feels less impactful as it's more a \"reset default\" (see next screen) than enabling AI features (e.g. skipping \"consent\" steps)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "346:8327",
+        "node_offset": {
+          "x": 962,
+          "y": 674
+        },
+        "stable_path": [
+          "346:8327"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "1538060348",
+      "uuid": "0db69846-51b5-454f-82b6-2830a7948b11",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-12-01T23:05:24.935Z",
+      "resolved_at": null,
+      "message": "drawback: is this better achieved via contextual opt-in?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "346:7681",
+        "node_offset": {
+          "x": 839,
+          "y": 423
+        },
+        "stable_path": [
+          "346:7681"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1538060060",
+      "uuid": "f3fc0bdc-35dd-45eb-a292-308fb2d14650",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-12-01T23:05:02.236Z",
+      "resolved_at": null,
+      "message": "benefit: checking allows you to \"skip\" consenting dialogs in some cases",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "346:7681",
+        "node_offset": {
+          "x": 630,
+          "y": 410
+        },
+        "stable_path": [
+          "346:7681"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1538049021",
+      "uuid": "d73e6793-ddaa-48d1-abc1-7b361bd9c9c9",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-12-01T22:50:31.812Z",
+      "resolved_at": null,
+      "message": "drawback: need to change the default state of the UI for the AI chatbot for this checkbox to do anything when flipped on\n\nthis could mean the same for the AI Window and other AI features left out of MVP (e.g. google lens, perplexity, etc)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "346:7372",
+        "node_offset": {
+          "x": 653,
+          "y": 513
+        },
+        "stable_path": [
+          "346:7372"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1538045902",
+      "uuid": "ea904432-b5f6-4566-a69e-2c683594cb95",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-12-01T22:46:43.266Z",
+      "resolved_at": null,
+      "message": "intent: showing the features as unchecked may help the perception that they are \"Off\" by default",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "346:7372",
+        "node_offset": {
+          "x": 989,
+          "y": 907
+        },
+        "stable_path": [
+          "346:7372"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1538045090",
+      "uuid": "e174997f-6fa6-48d6-bc76-7ff3acf582ff",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-12-01T22:45:43.263Z",
+      "resolved_at": null,
+      "message": "the \"perception\" is that these AI features are ON by default",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "346:9357",
+        "node_offset": {
+          "x": 587,
+          "y": 850
+        },
+        "stable_path": [
+          "346:9357"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1538043020",
+      "uuid": "52fbaae6-a05e-4f3c-b1a0-af3c2cd72d87",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-12-01T22:43:14.416Z",
+      "resolved_at": null,
+      "message": "allows you to get notifications about the features you're interested in and opt of the ones you don't",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "346:9377",
+        "node_offset": {
+          "x": 822,
+          "y": 419
+        },
+        "stable_path": [
+          "346:9377"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1538040712",
+      "uuid": "6246530a-ef56-4f95-bb2f-73cc32f32446",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-12-01T22:40:25.840Z",
+      "resolved_at": null,
+      "message": "there's no way to \"skip\" the consenting steps in this version. existing flows are supported as usual\n\nit serves purely as a way to show/not show UI",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "346:9357",
+        "node_offset": {
+          "x": 1040,
+          "y": 436
+        },
+        "stable_path": [
+          "346:9357"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1530620463",
+      "uuid": "a3ba94d7-20d1-4d71-ba51-b81a303e908f",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrew Crago",
+        "img_url": "https://s3-alpha.figma.com/profile/ba211a9e-af73-4555-9524-33f939c11805",
+        "id": "1075270157069956042"
+      },
+      "created_at": "2025-11-25T20:41:44.896Z",
+      "resolved_at": null,
+      "message": "aligned on button at bottom list with Katie and Brent",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "193:7240",
+        "node_offset": {
+          "x": 843,
+          "y": 254
+        },
+        "stable_path": [
+          "193:7240"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1530558776",
+      "uuid": "9e887cf7-d306-4b53-8ca0-63124222f321",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-25T19:54:55.589Z",
+      "resolved_at": null,
+      "message": "@Katie Lower SSoE on the confirmation dialog?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "234:12160",
+        "node_offset": {
+          "x": 100,
+          "y": 68
+        },
+        "stable_path": [
+          "234:12160"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1530413409",
+      "uuid": "65b03c6d-f5c6-4a0b-857f-ec10b430d337",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-25T18:13:19.906Z",
+      "resolved_at": null,
+      "message": "clicking enable turns all the check boxes back ON",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "234:10837",
+        "node_offset": {
+          "x": 955,
+          "y": 599
+        },
+        "stable_path": [
+          "234:10837"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1530175789",
+      "uuid": "5839e2e4-6e6d-4c29-a0b7-9a95293db587",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-25T15:58:58.056Z",
+      "resolved_at": null,
+      "message": "update",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "238:2880",
+        "node_offset": {
+          "x": 263,
+          "y": 134
+        },
+        "stable_path": [
+          "238:2880"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1530127356",
+      "uuid": "4dc77316-4798-4be4-94a7-8d7b774bbf21",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Mark Striemer",
+        "img_url": "https://www.gravatar.com/avatar/8407f1551cb10122bad1fc181e6177ac?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "902611020167152389"
+      },
+      "created_at": "2025-11-25T15:36:54.380Z",
+      "resolved_at": null,
+      "message": "It feels a little weird to have the bottom control disable the ones above it. Are we concerned about making the disable button too prominent?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "234:10837",
+        "node_offset": {
+          "x": 783,
+          "y": 614
+        },
+        "stable_path": [
+          "234:10837"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1529584582",
+      "uuid": "02d0122e-84fe-4ff2-a0d0-168496dc870b",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-25T11:19:37.406Z",
+      "resolved_at": null,
+      "message": "this UI doesn't exist",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "219:10224",
+        "node_offset": {
+          "x": 222,
+          "y": 312
+        },
+        "stable_path": [
+          "219:10224"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "1529582219",
+      "uuid": "223eca13-acc5-4852-afb5-be4f1f1aa94d",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-25T11:18:25.920Z",
+      "resolved_at": null,
+      "message": "add transparent gray background",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "234:12160",
+        "node_offset": {
+          "x": 343,
+          "y": 138
+        },
+        "stable_path": [
+          "234:12160"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1529531462",
+      "uuid": "88cfd6b2-ee66-43e8-9319-a9234bbcbe15",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-25T10:53:19.909Z",
+      "resolved_at": null,
+      "message": "Turning OFF individual features mean you CAN'T get notifications about these existing features, too \n\nFor example, if you turn off AI chat bot in the sidebar, there's no UI to point the message to.\n\nDo we need to make that explicit or is it implied? Maybe just add to the learn more?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "234:11453",
+        "node_offset": {
+          "x": 736,
+          "y": 499
+        },
+        "stable_path": [
+          "234:11453"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1529522437",
+      "uuid": "8d2c137c-58e3-4f85-a77c-82fcc1e444cd",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-25T10:49:09.854Z",
+      "resolved_at": null,
+      "message": "in this instance, you'll see:\n* entry points and UI for everything\n* no visible UI or entry points for smart tab groups",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "234:11453",
+        "node_offset": {
+          "x": 944,
+          "y": 223
+        },
+        "stable_path": [
+          "234:11453"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1528668666",
+      "uuid": "0b015e55-a5ad-4c1f-a8bb-65162d2e9dc1",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-24T23:41:27.685Z",
+      "resolved_at": null,
+      "message": "[Technically deletes all models; for AI window deletes insights generated",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "226:2412",
+        "node_offset": {
+          "x": 962,
+          "y": 604
+        },
+        "stable_path": [
+          "226:2412"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1528598128",
+      "uuid": "d351df98-f069-4e7d-a71f-5f210ffb6891",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-24T22:16:03.049Z",
+      "resolved_at": null,
+      "message": "should we duplicate this pref in accessibility?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "219:10234",
+        "node_offset": {
+          "x": 273,
+          "y": 72
+        },
+        "stable_path": [
+          "219:10234"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1528583290",
+      "uuid": "2c911e05-2d44-47b2-a586-889419c37995",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-24T22:01:19.690Z",
+      "resolved_at": null,
+      "message": "this UI doesn't exist",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "219:10251",
+        "node_offset": {
+          "x": 291,
+          "y": 317
+        },
+        "stable_path": [
+          "219:10251"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1528577429",
+      "uuid": "494a3d26-e9a1-47d2-96d4-ce7c60977273",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-24T21:55:57.271Z",
+      "resolved_at": null,
+      "message": "This UI doesn't exist?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "219:10243",
+        "node_offset": {
+          "x": 244,
+          "y": 259
+        },
+        "stable_path": [
+          "219:10243"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1528551719",
+      "uuid": "a86c2f62-c324-4e85-8a1b-d51ff54d29a1",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-24T21:33:28.292Z",
+      "resolved_at": null,
+      "message": "This UI doesn't exist",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "219:9815",
+        "node_offset": {
+          "x": 303,
+          "y": 25
+        },
+        "stable_path": [
+          "219:9815"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1528350466",
+      "uuid": "a953ed08-20d9-42c6-a416-22a4b0a39aff",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-24T18:56:54.448Z",
+      "resolved_at": null,
+      "message": "include confirmation modal?\n\nprobably better as a button than a check box?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "190:10534",
+        "node_offset": {
+          "x": 952,
+          "y": 640
+        },
+        "stable_path": [
+          "190:10534"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1528335327",
+      "uuid": "900e77de-04f4-454b-b6af-426bb7883d86",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-24T18:45:51.713Z",
+      "resolved_at": null,
+      "message": "add outlink icon",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "190:9801",
+        "node_offset": {
+          "x": 947,
+          "y": 193
+        },
+        "stable_path": [
+          "190:9801"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1528334836",
+      "uuid": "cda8ff1e-1ad9-47a0-a01f-8155615465c8",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-24T18:45:29.861Z",
+      "resolved_at": null,
+      "message": "PDF alt text",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "190:10534",
+        "node_offset": {
+          "x": 251,
+          "y": 592
+        },
+        "stable_path": [
+          "190:10534"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1526288683",
+      "uuid": "b0fa1b4e-f2b2-4ede-81e8-c4c6671469f5",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-22T00:13:31.226Z",
+      "resolved_at": null,
+      "message": "notifications, callouts, etc are also all or nothing",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "190:10534",
+        "node_offset": {
+          "x": 861,
+          "y": 465
+        },
+        "stable_path": [
+          "190:10534"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1526288375",
+      "uuid": "464c15d1-ae61-4524-8aa1-e98c8c24c38f",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-22T00:12:27.721Z",
+      "resolved_at": null,
+      "message": "disabled not checked by default",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "190:10534",
+        "node_offset": {
+          "x": 660,
+          "y": 572
+        },
+        "stable_path": [
+          "190:10534"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1526288312",
+      "uuid": "32f74a90-3702-4782-a60e-3eeee5f00dd0",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-22T00:12:15.998Z",
+      "resolved_at": null,
+      "message": "checked by default",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "190:10534",
+        "node_offset": {
+          "x": 751,
+          "y": 467
+        },
+        "stable_path": [
+          "190:10534"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1526288281",
+      "uuid": "64be30de-2ae9-4278-b04e-b1da668b0d2a",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-22T00:12:11.249Z",
+      "resolved_at": null,
+      "message": "these are not checked by default",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "190:10534",
+        "node_offset": {
+          "x": 646,
+          "y": 189
+        },
+        "stable_path": [
+          "190:10534"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1526283664",
+      "uuid": "ebef669e-400e-407e-9a5a-c3ae94f8c0a9",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-21T23:58:04.899Z",
+      "resolved_at": null,
+      "message": "because there's an inconsistency in how these features show up in the product, we have to do an all or nothing",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "190:10534",
+        "node_offset": {
+          "x": 939,
+          "y": 268
+        },
+        "stable_path": [
+          "190:10534"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1526283178",
+      "uuid": "f3312fcf-56a8-4927-a418-29f7ed89330c",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-21T23:56:36.860Z",
+      "resolved_at": null,
+      "message": "you either don't see the UI of anything or you see the UI of everything",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "190:10534",
+        "node_offset": {
+          "x": 910,
+          "y": 585
+        },
+        "stable_path": [
+          "190:10534"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1526265578",
+      "uuid": "3d25a844-04b1-4265-b514-e374be621e2f",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-21T23:12:28.741Z",
+      "resolved_at": null,
+      "message": "other wise they wouldn't see the button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "190:8835",
+        "node_offset": {
+          "x": 111,
+          "y": 17
+        },
+        "stable_path": [
+          "190:8835"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1526037864",
+      "uuid": "374308f9-7c63-4705-9a06-f1365138ec33",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-21T18:56:03.725Z",
+      "resolved_at": null,
+      "message": "default state",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "108:4715",
+        "node_offset": {
+          "x": 3143,
+          "y": 1286
+        },
+        "stable_path": [
+          "108:4715"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1526032735",
+      "uuid": "d354231c-6712-42f3-9134-4a676db8e14a",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-21T18:51:39.584Z",
+      "resolved_at": null,
+      "message": "for new users, if the default state is everything is off with Notifications ON, what entry points would show?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "108:4715",
+        "node_offset": {
+          "x": 4342,
+          "y": 2252
+        },
+        "stable_path": [
+          "108:4715"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1526029008",
+      "uuid": "265c5a8e-b767-47f0-8d14-e9cbf3fedadb",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-21T18:48:26.726Z",
+      "resolved_at": null,
+      "message": "incl. messaging about it disabling the UI",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "118:6794",
+        "node_offset": {
+          "x": 353,
+          "y": 50
+        },
+        "stable_path": [
+          "118:6794"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1526020279",
+      "uuid": "5fdcbb42-5fa7-4aa4-b6e8-9957f89b5bc1",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-21T18:40:55.739Z",
+      "resolved_at": null,
+      "message": "Notify should be on in default state",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "118:6794",
+        "node_offset": {
+          "x": 264,
+          "y": 546
+        },
+        "stable_path": [
+          "118:6794"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1524457253",
+      "uuid": "77d03a52-61ab-4a5a-b05c-c0fe74f27823",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-20T22:07:51.532Z",
+      "resolved_at": null,
+      "message": "future ones?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "108:4715",
+        "node_offset": {
+          "x": 3329,
+          "y": 2421
+        },
+        "stable_path": [
+          "108:4715"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1524455165",
+      "uuid": "202d7f63-472b-4d9a-b018-9743f2399b47",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-20T22:05:48.312Z",
+      "resolved_at": null,
+      "message": "info?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "108:4715",
+        "node_offset": {
+          "x": 3291,
+          "y": 2391
+        },
+        "stable_path": [
+          "108:4715"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1522349704",
+      "uuid": "cb0e7ac6-816c-4a10-9eb1-55712ce5aabe",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-19T21:52:28.877Z",
+      "resolved_at": null,
+      "message": "@Katie Lower @Victoria Wang \n\nNot sure if y'all already saw how Arc handles their AI feature set, but it's probably the closest to what we're considering, execution-wise",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "96:3921",
+        "node_offset": {
+          "x": 432,
+          "y": 222
+        },
+        "stable_path": [
+          "96:3921"
+        ]
+      },
+      "order_id": "4"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1584121628",
+      "uuid": "57b79baf-48eb-4150-8df0-4f83d0beb1f3",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2026-01-12T17:35:47.645Z",
+      "resolved_at": null,
+      "message": "Stormy had a new take! \"Images you add to PDFs get descriptions to make them accessible.\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2051:18758",
+        "node_offset": {
+          "x": 676,
+          "y": 952
+        },
+        "stable_path": [
+          "2051:18758"
+        ]
+      },
+      "order_id": "167"
+    },
+    {
+      "id": "1580689355",
+      "uuid": "2f967e2e-e538-4b76-80d7-a2a0f5fc92a0",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-08T19:47:15.656Z",
+      "resolved_at": null,
+      "message": "Future state idea: a \"Model downloaded\" badge or status that is outside of the dropdown. That way the choice to use or not use a feature remains binary and the status of the download is communicated separately. We have something like this set up in alt text PDF settings.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-01-08T19:49:32.316Z",
+          "user": {
+            "id": "1083509274597697392",
+            "handle": "Jeff Pfaller",
+            "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba"
+          }
+        },
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-01-08T19:59:21.853Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 473,
+          "y": 1334
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "147"
+    },
+    {
+      "id": "1580679523",
+      "uuid": "46537095-b379-4a0a-be19-f66fdbdd748e",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-01-08T19:39:31.668Z",
+      "resolved_at": null,
+      "message": "IIRC, using directional words (above, below, etc.) aren't accessible",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1907:25611",
+        "node_offset": {
+          "x": 523,
+          "y": 597
+        },
+        "stable_path": [
+          "1907:25611"
+        ]
+      },
+      "order_id": "132"
+    },
+    {
+      "id": "1568900943",
+      "uuid": "a998b755-45d8-4993-bb07-9db1530100b4",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Tony Cinotto",
+        "img_url": "https://www.gravatar.com/avatar/92a903e2175c8fa3ecd29dfdbe5a5d2c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "891445351508550232"
+      },
+      "created_at": "2025-12-23T20:26:30.615Z",
+      "resolved_at": null,
+      "message": "Do we think it is \"AI features\" or is it something more around features using AI? I'm not sure the exact term. The reason for this distinction is I think \"AI features\" has a bit of a marketing sense to them that it's AI being added into firefox like AI smart window. when really a lot of these features are functionality that are accessibility, translations etc.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1291:27414",
+        "node_offset": {
+          "x": 517,
+          "y": 110
+        },
+        "stable_path": [
+          "1291:27414"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "1528598128",
+      "uuid": "d351df98-f069-4e7d-a71f-5f210ffb6891",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-24T22:16:03.049Z",
+      "resolved_at": null,
+      "message": "should we duplicate this pref in accessibility?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "219:10234",
+        "node_offset": {
+          "x": 273,
+          "y": 72
+        },
+        "stable_path": [
+          "219:10234"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1528334836",
+      "uuid": "cda8ff1e-1ad9-47a0-a01f-8155615465c8",
+      "file_key": "S5dJYR7WLdot8tnpudrWUv",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2025-11-24T18:45:29.861Z",
+      "resolved_at": null,
+      "message": "PDF alt text",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "190:10534",
+        "node_offset": {
+          "x": 251,
+          "y": 592
+        },
+        "stable_path": [
+          "190:10534"
+        ]
+      },
+      "order_id": "25"
+    }
+  ]
+}

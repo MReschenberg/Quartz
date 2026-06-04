@@ -1,0 +1,2300 @@
+{
+  "unresolved": [
+    {
+      "id": "1130596871",
+      "uuid": "3adad920-c86a-4408-91d0-e8da405793b6",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Brooke Katalinich",
+        "img_url": "https://s3-alpha.figma.com/profile/fc275570-c45d-4058-8397-e076d48a507d",
+        "id": "1417300264475332282"
+      },
+      "created_at": "2025-02-12T21:07:33.851Z",
+      "resolved_at": null,
+      "message": "@Rick Russie this the previous toolbar work that is currently in nightly. The designer on this also did a very deep analysis of features for consideration.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "28587:226566",
+        "node_offset": {
+          "x": -3912,
+          "y": -3268
+        },
+        "stable_path": [
+          "28587:226566"
+        ]
+      },
+      "order_id": "214"
+    },
+    {
+      "id": "1080164348",
+      "uuid": "8758f250-a7e8-4cd1-8e62-0aeec6c38a34",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2025-01-03T16:32:03.691Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya \n* Conduct IA evaluation\n* Add telemetry on features available on the toolbar.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "28729:221744",
+        "node_offset": {
+          "x": 992,
+          "y": 19
+        },
+        "stable_path": [
+          "28729:221744"
+        ]
+      },
+      "order_id": "213"
+    },
+    {
+      "id": "1080144047",
+      "uuid": "a264c509-7c7b-4327-a5bb-818d189ee5c6",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2025-01-03T16:08:25.066Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya link to data and UR.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "28729:221711",
+        "node_offset": {
+          "x": 156,
+          "y": 15
+        },
+        "stable_path": [
+          "28729:221711"
+        ]
+      },
+      "order_id": "212"
+    },
+    {
+      "id": "1072923478",
+      "uuid": "e0fc2d5d-60cf-409f-a6fd-04255fc963a7",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Ajit Varma",
+        "img_url": "https://www.gravatar.com/avatar/45c2495ec7ece8724a32a448ac736ac2?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1451790795847013431"
+      },
+      "created_at": "2024-12-21T01:44:00.172Z",
+      "resolved_at": null,
+      "message": "Is there a view on what happens when there is the button bar and the new proposed bottom nav bar (back/forward/new tab)? It looks like Chrome does not have that functionality?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "28604:226660",
+        "node_offset": {
+          "x": 387,
+          "y": 31
+        },
+        "stable_path": [
+          "28604:226660"
+        ]
+      },
+      "order_id": "210"
+    },
+    {
+      "id": "978642964",
+      "uuid": "fe54e62b-2dc9-482e-b510-f42ad52ed2fe",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Olivia Hall",
+        "img_url": "https://www.gravatar.com/avatar/9bb5ba1328acae6f1d36d1c8564bc4bf?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_o_v2.png",
+        "id": "1117092712176404920"
+      },
+      "created_at": "2024-10-08T19:54:26.892Z",
+      "resolved_at": null,
+      "message": "This right now is \"Enable private browsing\" and when it switches it becomes \"Disable private browsing\". \n\nCan you advise on what the new label should be once it switches modes or should both remain as is, @Morgan Rae Reschenberg?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 958,
+          "y": 2857
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "208"
+    },
+    {
+      "id": "978587279",
+      "uuid": "fed5eb0b-6e94-4f1b-a2e5-cf68d2c5fd84",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Olivia Hall",
+        "img_url": "https://www.gravatar.com/avatar/9bb5ba1328acae6f1d36d1c8564bc4bf?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_o_v2.png",
+        "id": "1117092712176404920"
+      },
+      "created_at": "2024-10-08T19:07:28.492Z",
+      "resolved_at": null,
+      "message": "Hi @Morgan Rae Reschenberg,\n\nJust double checking the name \"Search Engine: <Search name>\".\n\nWe also can select \"Bookmarks\", \"Tabs\", and \"History\" to search. \n\nWould it be preferable to use the name \"Search: <Search name>\" to accomodate these options?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 599,
+          "y": 2648
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "207"
+    },
+    {
+      "id": "978499198",
+      "uuid": "8f3a42de-96a1-492a-a5a8-6725f326c6a7",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Olivia Hall",
+        "img_url": "https://www.gravatar.com/avatar/9bb5ba1328acae6f1d36d1c8564bc4bf?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_o_v2.png",
+        "id": "1117092712176404920"
+      },
+      "created_at": "2024-10-08T17:58:52.809Z",
+      "resolved_at": null,
+      "message": "Hi @Morgan Rae Reschenberg,\n\nI couldn't find 15's role. Should this and similar titles on this page have a role of Heading?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 158,
+          "y": 3045
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "206"
+    },
+    {
+      "id": "944269906",
+      "uuid": "04f7d60e-dd79-40b4-a1e0-90c1db162e08",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-09-10T20:35:12.142Z",
+      "resolved_at": null,
+      "message": "i think amending this to more of a timeline and where we are in product development should be the goal of this slide. i think what you're wanting to convey is a sense of urgency around making a decision or getting consensus?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "20432:335945",
+        "node_offset": {
+          "x": 511,
+          "y": 188
+        },
+        "stable_path": [
+          "20432:335945"
+        ]
+      },
+      "order_id": "198"
+    },
+    {
+      "id": "944250115",
+      "uuid": "a27afb52-189f-4fa5-a374-e83dfe747263",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-09-10T20:17:58.774Z",
+      "resolved_at": null,
+      "message": "i'm not quite following this first argument. how is swiping (gesture based action) improved by having the forward / back button more accessible?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "20394:333689",
+        "node_offset": {
+          "x": 697,
+          "y": 378
+        },
+        "stable_path": [
+          "20394:333689"
+        ]
+      },
+      "order_id": "191"
+    },
+    {
+      "id": "695085865",
+      "uuid": "a47e6db2-2e75-48b9-8634-7fb12d885bb9",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-02-07T18:00:52.894Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya The content on these 3 CFRs is being reviewed by localization. Please edit the CFR/arrow placement as you see fit. Not sure if this and the criteria should move to main spec.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9992:152382",
+        "node_offset": {
+          "x": 46,
+          "y": 38
+        },
+        "stable_path": [
+          "9992:152382"
+        ]
+      },
+      "order_id": "171"
+    },
+    {
+      "id": "693747024",
+      "uuid": "e4a94f93-95d8-406e-a2ee-4b4165545fe2",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-02-06T21:25:10.352Z",
+      "resolved_at": null,
+      "message": "This should say \"new tab\" if it is on the last tab, yes?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:280181",
+        "node_offset": {
+          "x": 959,
+          "y": 3941
+        },
+        "stable_path": [
+          "5503:280181"
+        ]
+      },
+      "order_id": "159"
+    },
+    {
+      "id": "692148564",
+      "uuid": "16b13483-d4e5-4b7d-8e05-90abf7acc7bf",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T20:52:15.300Z",
+      "resolved_at": null,
+      "message": "This looks great !",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 265,
+          "y": 2546
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "152"
+    },
+    {
+      "id": "690264421",
+      "uuid": "1780f6db-c090-4e4b-8dbf-f98cf4f24532",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-02-02T19:09:16.795Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya here's what it looks like without the icon. Yesterday we were thinking that the weight contrast was not sharp enough between the headline and the body but lmk what you think.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10039:158101",
+        "node_offset": {
+          "x": 107,
+          "y": 754
+        },
+        "stable_path": [
+          "10039:158101"
+        ]
+      },
+      "order_id": "148"
+    },
+    {
+      "id": "690261826",
+      "uuid": "16122157-14d3-4cac-88c9-51a6e1e3922e",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-02-02T19:06:06.774Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak I would prefer having a heading as I can quickly read what this CFR is about, the longer description is less preferable (my perspective as a user). \n\nAlthough do we have to add an icon, can't we skip it, is it how the component is created? What is the reason, why is this weird according to you?\n\nI find it weird in its current format because the starting line for both the texts is different. I think it is better if we not have an icon and have the starting line the same. Or do we not have the option to change anything in the CFR? \n\nAlternatively, and I am just throwing this here, what if we not have any description. Do we need to explain everything in detail? I would prefer \"Swipe the toolbar to switch tabs\" and that's it, just the plain heading.\n\nWould love to hear your thoughts.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10063:177762",
+        "node_offset": {
+          "x": 38,
+          "y": 24
+        },
+        "stable_path": [
+          "10063:177762"
+        ]
+      },
+      "order_id": "147"
+    },
+    {
+      "id": "690036041",
+      "uuid": "5f81eb67-a69f-4882-add7-3d5852e18889",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-02-02T15:31:01.157Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya I have a few content options for the 3 CFRs here. Would love your thoughts! If we want to use the version with a headline, we will need an icon too (bc it looks weird without it). Keep in mind that the headline may stretch to 2 lines in certain languages as well. I just wanted to present a more scannable option where possible.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10039:158101",
+        "node_offset": {
+          "x": 46,
+          "y": 212
+        },
+        "stable_path": [
+          "10039:158101"
+        ]
+      },
+      "order_id": "146"
+    },
+    {
+      "id": "684327957",
+      "uuid": "0dca9e45-08ba-41db-b13d-b55e63ecaf85",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-29T19:43:56.298Z",
+      "resolved_at": null,
+      "message": "1 should start where 4 is",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 2302,
+          "y": 2527
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "684327738",
+      "uuid": "1a170ee4-3792-4f2a-b5fd-5f462c714752",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-29T19:43:44.382Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi do you think it makes more sense to have these buttons continue after the URL bar and mic/QR buttons or after the newtab content?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 63,
+          "y": 3059
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "136"
+    },
+    {
+      "id": "684327183",
+      "uuid": "d238dce7-cced-43f7-9cbd-fbf5d036feae",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-29T19:43:12.994Z",
+      "resolved_at": null,
+      "message": "Please mark this as item 10 so users know the focus order continues from the toolbar items",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 1504,
+          "y": 2533
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "684326633",
+      "uuid": "a4fb68c4-d582-4aac-9297-ab3856df9aae",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-29T19:42:40.524Z",
+      "resolved_at": null,
+      "message": "This should be presentational, if clicking on it doesn't do anything",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 553,
+          "y": 2689
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "134"
+    },
+    {
+      "id": "684326181",
+      "uuid": "fb82df7e-bb07-4807-932e-605998ed0e20",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-29T19:42:14.157Z",
+      "resolved_at": null,
+      "message": "1 should start where 4 is",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 1186,
+          "y": 2997
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "133"
+    },
+    {
+      "id": "684325392",
+      "uuid": "159eb780-f243-410d-8587-8f9e9e861fbb",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-29T19:41:30.230Z",
+      "resolved_at": null,
+      "message": "1 should start where 4 is now",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 53,
+          "y": 2454
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "132"
+    },
+    {
+      "id": "681225544",
+      "uuid": "3746adcd-0a8c-4c38-a642-29d32fd09e88",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-01-25T18:05:21.547Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg Please review this reading order for 1 state of the toolbar. If this looks good, I will add it for all the other toolbar states as well.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 176,
+          "y": 2338
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "130"
+    },
+    {
+      "id": "673945714",
+      "uuid": "f2c03e74-24ae-47ca-8d37-0a49dfd34245",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-19T01:53:35.410Z",
+      "resolved_at": null,
+      "message": "To meet WCAG standards, our touch target size needs to be minimum 44 by 44px for all interactive controls",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 730,
+          "y": 157
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "673943029",
+      "uuid": "b28c62f5-cd4a-44b7-b17c-b1f8fa4d26bd",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-19T01:48:14.753Z",
+      "resolved_at": null,
+      "message": "Which highlight colour are we using for dark mode? This purple or the one below?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:276765",
+        "node_offset": {
+          "x": 1052,
+          "y": 734
+        },
+        "stable_path": [
+          "5503:276765"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "673942453",
+      "uuid": "7a8a1d46-9b3a-4a42-b046-d731f9213fcc",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-19T01:47:05.085Z",
+      "resolved_at": null,
+      "message": "Because it is possible to have selected text appear next to non-selected text in the URL bar, the selected state needs 3:1 contrast with the non selected state to meet WCAG AA standards. The contrast between the purple highlight and grey background is only 1:1.15. Please improve this ratio",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:276765",
+        "node_offset": {
+          "x": 594,
+          "y": 1012
+        },
+        "stable_path": [
+          "5503:276765"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "624196124",
+      "uuid": "ddc161f0-3500-4bd5-8432-c220fa980fa3",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-11-22T15:28:29.488Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong I have added it here, what do you think? You can also check out how it would look for light and dark modes.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8588:352406",
+        "node_offset": {
+          "x": 269,
+          "y": 59
+        },
+        "stable_path": [
+          "8588:352406"
+        ]
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "598472874",
+      "uuid": "57d62f0e-17a2-4c2d-9804-5380e7104212",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-10-27T15:25:34.370Z",
+      "resolved_at": null,
+      "message": "@Juhee Jain FYI, here's an exploration Aarjav did for the menu IA rework -- in case you wanna explore adding site actions to the panel alongside privacy and security stuff",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3980:266838",
+        "node_offset": {
+          "x": 14880,
+          "y": 14626
+        },
+        "stable_path": [
+          "3980:266838"
+        ]
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "594654919",
+      "uuid": "4f495c28-1dce-442c-95a5-6ac15a58e511",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-10-24T21:28:51.142Z",
+      "resolved_at": null,
+      "message": "For the descriptive copy, I edited throughout to try to maximize the # of items we show in the preview here vs matching exactly the copy/order of the items within. This lets us expose more content but will pose some challenges with l10n. I think the extra effort could be worth it to make these as descriptive as possible but let me know what you think.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6409:371123",
+        "node_offset": {
+          "x": 44,
+          "y": 213
+        },
+        "stable_path": [
+          "6409:371123"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "594296311",
+      "uuid": "0495ed7a-be23-4eff-ad33-6550e7666d43",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-10-24T15:43:36.830Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya The alternative to the toggle would be to take the approach that iOS does: The text says \"Request desktop site\" or \"Request mobile site\" depending on which setting you are on. The icon changes as well depending on the copy. IMO it is odd to have just one toggle in the whole menu.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6409:370048",
+        "node_offset": {
+          "x": 309,
+          "y": 412
+        },
+        "stable_path": [
+          "6409:370048"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "594192181",
+      "uuid": "2c4797bd-660a-4137-ad01-d407645d945e",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-10-24T14:36:53.770Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong I have updated the color based on available colors in firefox color palatte. There are also these gradients, do we need a token for this too? \nFor all Light, Dark and Private Mode?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:280181",
+        "node_offset": {
+          "x": 788,
+          "y": 1621
+        },
+        "stable_path": [
+          "5503:280181"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "590257872",
+      "uuid": "1e03f67a-686d-4c88-bf9b-0dd2fb051170",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-10-19T18:26:39.749Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong Same for this. Sorry for all the spam.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:280181",
+        "node_offset": {
+          "x": 868,
+          "y": 3385
+        },
+        "stable_path": [
+          "5503:280181"
+        ]
+      },
+      "order_id": "94"
+    },
+    {
+      "id": "590257266",
+      "uuid": "a2ca9b55-758e-4043-8366-4c6ec1c25dd0",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-10-19T18:26:05.259Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong Same for this.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 1162,
+          "y": 1877
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "590256814",
+      "uuid": "68eda422-8301-41cd-a7ac-0637384ec7cd",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-10-19T18:25:37.679Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong This is the new color of the search bar background. We might need to add it to the Acorn DS.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 1142,
+          "y": 845
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "580383135",
+      "uuid": "c476f79d-9adb-4db7-9483-c0897a1c3fa3",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-10-10T18:00:25.911Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak one more thing, for the next usability test for menu tif wanted to explore putting the print feature in page actions section, rather than in save. What do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6050:269178",
+        "node_offset": {
+          "x": 118,
+          "y": 294
+        },
+        "stable_path": [
+          "6050:269178"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "578602843",
+      "uuid": "63ed2c30-b141-4f27-869c-9fd311c3a3b4",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Oana Horvath",
+        "img_url": "https://www.gravatar.com/avatar/2c2eb7d173916aa092fb307fae0691c3?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_o_v2.png",
+        "id": "962342517871272332"
+      },
+      "created_at": "2023-10-09T11:21:56.096Z",
+      "resolved_at": null,
+      "message": "Maybe we could have the Save as PDF option added here as well?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6050:269788",
+        "node_offset": {
+          "x": 209,
+          "y": 362
+        },
+        "stable_path": [
+          "6050:269788"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "575167367",
+      "uuid": "e2f3dd0e-c92c-4619-b295-aa6ce51fe8ee",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-10-04T19:46:20.394Z",
+      "resolved_at": null,
+      "message": "@Jonathan Almeida",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5784:494839",
+        "node_offset": {
+          "x": 386,
+          "y": 548
+        },
+        "stable_path": [
+          "5784:494839"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "569796657",
+      "uuid": "3995d9b3-59b0-4a61-936e-268667fcb29e",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-09-28T14:36:18.372Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Actually I did add that detail. I forgot. :yum:",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-09-28T15:05:15.923Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "5503:280181",
+        "node_offset": {
+          "x": 380,
+          "y": 1298
+        },
+        "stable_path": null
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "560563266",
+      "uuid": "a0481c13-4761-4df9-a636-1cee935de154",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-09-19T19:21:49.240Z",
+      "resolved_at": null,
+      "message": "This is a non issue because there is no changing happening on the screen, they are simply moving from one point to another;.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5300:244624",
+        "node_offset": {
+          "x": 149,
+          "y": 21
+        },
+        "stable_path": null
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "533739546",
+      "uuid": "e3bb3fe4-46bc-45ea-8601-e00f64c9152e",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-08-22T14:53:56.284Z",
+      "resolved_at": null,
+      "message": "laurie says there is something like this in webview.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5083:219505",
+        "node_offset": {
+          "x": 197,
+          "y": 42
+        }
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "527466101",
+      "uuid": "cdeb4a1b-ac20-44ee-846d-2339136e98a4",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-08-15T20:15:05.743Z",
+      "resolved_at": null,
+      "message": "Only the toolbar is moving and not the page with it, try to keep it close to the current implementation on firefox and chrome.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5061:223820",
+        "node_offset": {
+          "x": 173,
+          "y": 181
+        }
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "527382411",
+      "uuid": "36901ed2-a1a0-4e75-99ef-641bda548814",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-08-15T18:40:14.935Z",
+      "resolved_at": null,
+      "message": "Explore a hybrid version.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4862:218761",
+        "node_offset": {
+          "x": 244,
+          "y": 33
+        }
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "527373349",
+      "uuid": "9185b7af-a084-4b3d-a8ac-0efeceeca727",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-08-15T18:30:31.572Z",
+      "resolved_at": null,
+      "message": "Should the bottom toolbar be of a similar color as the top toolbar.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4820:222544",
+        "node_offset": {
+          "x": 261,
+          "y": 433
+        }
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "527368479",
+      "uuid": "ec60e409-2183-47fa-bdef-14e2cc0bfb14",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-08-15T18:25:44.762Z",
+      "resolved_at": null,
+      "message": "Check out safari implementaton on desktop",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4824:206964",
+        "node_offset": {
+          "x": 276,
+          "y": 89
+        }
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "517214221",
+      "uuid": "f79d4516-f35e-4d4e-8b7e-65c97552be11",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-08-03T18:21:28.828Z",
+      "resolved_at": null,
+      "message": "Ensure accessibility guidelines",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3980:266838",
+        "node_offset": {
+          "x": 7307,
+          "y": 15226
+        }
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "508147286",
+      "uuid": "2dac10ce-9465-4aa1-986f-644d0b29d0b8",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-07-25T20:32:45.061Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4377:256067",
+        "node_offset": {
+          "x": 242,
+          "y": 57
+        }
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "508131950",
+      "uuid": "1a119f91-20a4-4c56-b0ed-e6c6685a7d6f",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-07-25T20:16:05.195Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya Check telemetry on screen sizes.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4118:248152",
+        "node_offset": {
+          "x": 94,
+          "y": 45
+        }
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "507766689",
+      "uuid": "62684e4c-eaee-42d4-bcab-07753fdfe743",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-07-25T14:43:08.040Z",
+      "resolved_at": null,
+      "message": "Can you remind me what the logic is for what is shown in the \"shortened\" page actions section? Is the idea that all page actions are in the Page Controls menu and not duplicated?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4066:252114",
+        "node_offset": {
+          "x": 137,
+          "y": 211
+        }
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "507764415",
+      "uuid": "3241a4a9-2ddc-44ea-b3b6-65b7e6310781",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-07-25T14:41:45.839Z",
+      "resolved_at": null,
+      "message": "Would it cut down on the patterns here to present Add-ons as an expandable menu as well instead of a sub-menu? We'd probably have to trim the empty state quite a bit.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4054:247022",
+        "node_offset": {
+          "x": 303,
+          "y": 341
+        }
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "506700547",
+      "uuid": "9f81be48-0788-436c-a701-6ff8177e17d1",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-07-24T18:43:59.612Z",
+      "resolved_at": null,
+      "message": "Back/Forward, refresh, find UR studies to help support/not support this.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3980:266838",
+        "node_offset": {
+          "x": -4161,
+          "y": 13467
+        }
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "506684329",
+      "uuid": "55b39f4b-6bf1-410c-9bf6-233167c80a00",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-07-24T18:25:17.042Z",
+      "resolved_at": null,
+      "message": "Maybe allowing the user to re-order the page actions themselves instead of auto-rearranging ourselves.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4128:247274",
+        "node_offset": {
+          "x": 288,
+          "y": 250
+        }
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "501574881",
+      "uuid": "d584909f-a3f5-46d7-9478-62ab5b4c1504",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-07-18T20:02:20.280Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya Possibly add print as a task in the UT.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4128:247345",
+        "node_offset": {
+          "x": 158,
+          "y": 319
+        }
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "481777530",
+      "uuid": "2bfea98f-402b-4143-8315-21a696cd0b8a",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2023-06-26T17:45:52.609Z",
+      "resolved_at": null,
+      "message": "i think this is a typo from page zoom can you update title and jira ticket link please :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2586:70610",
+        "node_offset": {
+          "x": 2067,
+          "y": 1461
+        }
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "469338554",
+      "uuid": "1c8f20ef-216c-4c5f-9d6d-5c50f8e57167",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-06-12T19:47:56.369Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong this one specifically looks good to me. A neutral color with warning color for the copy.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2906:95215",
+        "node_offset": {
+          "x": 112,
+          "y": 24
+        }
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "466886599",
+      "uuid": "634e4b7d-cd4e-4a37-b4c3-9ee30bf8be02",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-06-08T18:32:52.430Z",
+      "resolved_at": null,
+      "message": "Why here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2675:70806",
+        "node_offset": {
+          "x": 1268,
+          "y": 924
+        }
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "466764287",
+      "uuid": "bccc4d50-f266-4bdc-b0ce-3444b6bddf72",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-06-08T16:13:41.443Z",
+      "resolved_at": null,
+      "message": "Becuase we dont have geckoview, we have to rely on webkit for security. The lock icon means more for checking https, an attacker can mimic the same thing and potentially cause security issue.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2520:70149",
+        "node_offset": {
+          "x": 222,
+          "y": 70
+        }
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "464502699",
+      "uuid": "b7283338-fce6-4771-9c25-ea20f4a95a18",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-06-06T20:51:03.652Z",
+      "resolved_at": null,
+      "message": "Try to keep bottom sheet lower when fully opened.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2509:68809",
+        "node_offset": {
+          "x": 274,
+          "y": 41
+        }
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "464488483",
+      "uuid": "b2f63628-aed0-432a-bde6-0d125ba91d00",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-06-06T20:34:04.788Z",
+      "resolved_at": null,
+      "message": "Potentially empty space issues and higher reach to select menu items",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2093:50526",
+        "node_offset": {
+          "x": 238,
+          "y": 281
+        }
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "462984042",
+      "uuid": "b70c54bb-fc21-4b89-b850-a643f717430a",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-06-05T15:34:48.703Z",
+      "resolved_at": null,
+      "message": "Conflict between state vs behavioral confusion for users.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2093:49973",
+        "node_offset": {
+          "x": 175,
+          "y": 201
+        }
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "461517371",
+      "uuid": "fb7da46f-985a-4d91-b9fa-96c35873c2eb",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-06-02T13:47:56.498Z",
+      "resolved_at": null,
+      "message": "Jeff Commented: I've been struggling with this type of component too - I think in general, our CFR component needs to be re-thought in general. In this instance, I think I agree with Emily's comment about the cluttered look of it. I'm wondering if there's a better way to showcase this. Can we highlight/spotlight in a more integrative way? Does this feature warrant a different modal? Combo of two (i.e. highlight + card explaining new feature). Maybe something similar to how we introduced wallpapers?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2370:50259",
+        "node_offset": {
+          "x": 94,
+          "y": 245
+        }
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "461512267",
+      "uuid": "6ce856bf-e0e1-441a-9924-b99d94f4b273",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-06-02T13:43:23.466Z",
+      "resolved_at": null,
+      "message": "Nicole Commented: the sticky bar in the menu is a nice idea, which gives its content quick access and prominence, I wonder if the account is the most important thing to have there\n* I could  see that users associate the icons to the right with the account, so help/settings for account and then the x to close the menu\n* What else would make sense in a sticky part of the menu? What are highly used items that users want quick access to?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2093:49973",
+        "node_offset": {
+          "x": 54,
+          "y": 488
+        }
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "461508604",
+      "uuid": "96bed06a-4e9c-4161-9907-e4426a6b4f49",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-06-02T13:40:12.154Z",
+      "resolved_at": null,
+      "message": "Nicole Commented: while submenus clean up the IA, I wonder if this adds a barrier to finding what users are actually looking for since the interaction of navigating in and out of submenus vs. scrolling down a longish list feels heavier, also a lot of the site actions like bookmark, request desktop site and so on seem to be frequently used items per survey + telemetry",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2093:49973",
+        "node_offset": {
+          "x": 274,
+          "y": 352
+        }
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "461507321",
+      "uuid": "aafb4e74-206b-4c79-99db-61b27c2098a2",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-06-02T13:39:04.937Z",
+      "resolved_at": null,
+      "message": "Nicole commented: the repeating arrow icon for bookmarks, history, downloads feel monotonous and I wonder if users get the idea behind it or if it would be more beneficial to use established icons",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2093:49973",
+        "node_offset": {
+          "x": 37,
+          "y": 172
+        }
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "461506693",
+      "uuid": "42807277-9d69-405e-befb-57bdb17535f1",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-06-02T13:38:31.996Z",
+      "resolved_at": null,
+      "message": "Nicole Commented: do we need the home icon since it does roughly the same as the plus, at least for now, or could we merge them? what do users do on home, how successful is home?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2346:56526",
+        "node_offset": {
+          "x": 39,
+          "y": 19
+        }
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "461506380",
+      "uuid": "b81c8b9c-867c-4b56-b1b5-7a72361b3b56",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-06-02T13:38:16.860Z",
+      "resolved_at": null,
+      "message": "Nicole Commented: the page controls menu is interesting, I wonder if a simple list would be an alternative to avoid horizontal scrolling and show all the options in one view;  do you envision a way to automatically/manually 'promote' frequently used items to the surface level so that users don't have to navigate into the menu?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2370:51245",
+        "node_offset": {
+          "x": 349,
+          "y": 19
+        }
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "461504696",
+      "uuid": "192938da-19d0-426c-b40f-37a92dd2efaa",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-06-02T13:36:46.743Z",
+      "resolved_at": null,
+      "message": "Nicole Commented: the address bar feels heavy with all the icons and options, do you see opportunities to slim it down? what is the most to least relevant item, what is needed and what not, e.g. could we hide the forward arrow until users navigate back from a site?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2355:50074",
+        "node_offset": {
+          "x": 524,
+          "y": 33
+        }
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "460696798",
+      "uuid": "1cc833f0-fec0-4d4c-aec2-368bc7143b1a",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-06-01T18:14:39.486Z",
+      "resolved_at": null,
+      "message": "On desktop, we are only displaying a language code for pages that have already been translated. Otherwise, it is just the icon. We could choose to use just the icon here or add \"Translate\" as text.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-06-01T19:37:16.245Z",
+          "user": {
+            "id": "1130907002513196392",
+            "handle": "Aarjav Pandya",
+            "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2496:66536",
+        "node_offset": {
+          "x": 239,
+          "y": 92
+        }
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "460693051",
+      "uuid": "6a3420ec-8ef7-48cf-b717-da0a3aca9193",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-06-01T18:10:25.133Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya \"Page controls\" is just an initial name idea and would need to be validated if we are keeping this menu. I shortened the text a bit here as well but would want to revisit as this feature is finalized.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2370:50259",
+        "node_offset": {
+          "x": 49,
+          "y": 142
+        }
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "459419267",
+      "uuid": "c4af2c82-dd81-41cb-922c-1d1159e6753c",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-05-31T17:32:01.819Z",
+      "resolved_at": null,
+      "message": "What does customize mean? Why does it come before cookies? (Also What is cookies?)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2370:50259",
+        "node_offset": {
+          "x": 316,
+          "y": 101
+        }
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "459416925",
+      "uuid": "f6824fc1-e6d9-491d-9c90-bccfdbed64d2",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-05-31T17:29:34.098Z",
+      "resolved_at": null,
+      "message": "I prefer our current CFR design to this because it takes up less real estate (Having X instead of dismiss saves a lot of room). The sparkles & text in the corner make it feel cluttered IMO.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2370:50259",
+        "node_offset": {
+          "x": 239,
+          "y": 150
+        }
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "459412375",
+      "uuid": "2481987c-dec3-4e71-9165-0fb6329e2456",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-05-31T17:24:56.508Z",
+      "resolved_at": null,
+      "message": "Let me work on copy here & for the empty state",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2509:69797",
+        "node_offset": {
+          "x": 145,
+          "y": 533
+        }
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "459410625",
+      "uuid": "58ac4081-949a-410e-a840-493be27beacf",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-05-31T17:23:12.242Z",
+      "resolved_at": null,
+      "message": "I agree that the dividing line here is confusing and a little arbitrary. If we remove night mode and have only 5 items (and usually 4 because Open in App is conditional only on Android), do we even need it?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2093:50526",
+        "node_offset": {
+          "x": 180,
+          "y": 234
+        }
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "459406911",
+      "uuid": "d92d52b4-f9c4-42ce-aee0-38d92798e1d5",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-05-31T17:19:28.234Z",
+      "resolved_at": null,
+      "message": "I still feel this should be at the bottom of this list because it is conditional.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2093:50526",
+        "node_offset": {
+          "x": 131,
+          "y": 212
+        }
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "459405079",
+      "uuid": "6a9478f6-2ad9-4b04-a8f5-74ae1d8210b4",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-05-31T17:17:37.494Z",
+      "resolved_at": null,
+      "message": "I think we should move Night Mode into Settings. It was added before iOS made this setting easier to change on a global level and it gets very low clicks as is.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2093:50526",
+        "node_offset": {
+          "x": 128,
+          "y": 373
+        }
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "459402678",
+      "uuid": "f9fea8f8-0255-4fd9-8e47-e4b09b6a8ca4",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2023-05-31T17:15:07.817Z",
+      "resolved_at": null,
+      "message": "I have reservations about including What's New as a menu item. I think that Settings and Help are more appropriate places for this content. It's one of the least clicked items on the homepage menu, and I don't think adding it to the website menu will change that. It adds clutter and I think there are other opportunities to talk about updates elsewhere in the product.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2509:69797",
+        "node_offset": {
+          "x": 104,
+          "y": 494
+        }
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "978642964",
+      "uuid": "fe54e62b-2dc9-482e-b510-f42ad52ed2fe",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Olivia Hall",
+        "img_url": "https://www.gravatar.com/avatar/9bb5ba1328acae6f1d36d1c8564bc4bf?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_o_v2.png",
+        "id": "1117092712176404920"
+      },
+      "created_at": "2024-10-08T19:54:26.892Z",
+      "resolved_at": null,
+      "message": "This right now is \"Enable private browsing\" and when it switches it becomes \"Disable private browsing\". \n\nCan you advise on what the new label should be once it switches modes or should both remain as is, @Morgan Rae Reschenberg?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 958,
+          "y": 2857
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "208"
+    },
+    {
+      "id": "978587279",
+      "uuid": "fed5eb0b-6e94-4f1b-a2e5-cf68d2c5fd84",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Olivia Hall",
+        "img_url": "https://www.gravatar.com/avatar/9bb5ba1328acae6f1d36d1c8564bc4bf?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_o_v2.png",
+        "id": "1117092712176404920"
+      },
+      "created_at": "2024-10-08T19:07:28.492Z",
+      "resolved_at": null,
+      "message": "Hi @Morgan Rae Reschenberg,\n\nJust double checking the name \"Search Engine: <Search name>\".\n\nWe also can select \"Bookmarks\", \"Tabs\", and \"History\" to search. \n\nWould it be preferable to use the name \"Search: <Search name>\" to accomodate these options?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 599,
+          "y": 2648
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "207"
+    },
+    {
+      "id": "978499198",
+      "uuid": "8f3a42de-96a1-492a-a5a8-6725f326c6a7",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Olivia Hall",
+        "img_url": "https://www.gravatar.com/avatar/9bb5ba1328acae6f1d36d1c8564bc4bf?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_o_v2.png",
+        "id": "1117092712176404920"
+      },
+      "created_at": "2024-10-08T17:58:52.809Z",
+      "resolved_at": null,
+      "message": "Hi @Morgan Rae Reschenberg,\n\nI couldn't find 15's role. Should this and similar titles on this page have a role of Heading?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 158,
+          "y": 3045
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "206"
+    },
+    {
+      "id": "944250115",
+      "uuid": "a27afb52-189f-4fa5-a374-e83dfe747263",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2024-09-10T20:17:58.774Z",
+      "resolved_at": null,
+      "message": "i'm not quite following this first argument. how is swiping (gesture based action) improved by having the forward / back button more accessible?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "20394:333689",
+        "node_offset": {
+          "x": 697,
+          "y": 378
+        },
+        "stable_path": [
+          "20394:333689"
+        ]
+      },
+      "order_id": "191"
+    },
+    {
+      "id": "692148564",
+      "uuid": "16b13483-d4e5-4b7d-8e05-90abf7acc7bf",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T20:52:15.300Z",
+      "resolved_at": null,
+      "message": "This looks great !",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 265,
+          "y": 2546
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "152"
+    },
+    {
+      "id": "690264421",
+      "uuid": "1780f6db-c090-4e4b-8dbf-f98cf4f24532",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-02-02T19:09:16.795Z",
+      "resolved_at": null,
+      "message": "@Aarjav Pandya here's what it looks like without the icon. Yesterday we were thinking that the weight contrast was not sharp enough between the headline and the body but lmk what you think.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10039:158101",
+        "node_offset": {
+          "x": 107,
+          "y": 754
+        },
+        "stable_path": [
+          "10039:158101"
+        ]
+      },
+      "order_id": "148"
+    },
+    {
+      "id": "684327957",
+      "uuid": "0dca9e45-08ba-41db-b13d-b55e63ecaf85",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-29T19:43:56.298Z",
+      "resolved_at": null,
+      "message": "1 should start where 4 is",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 2302,
+          "y": 2527
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "684327738",
+      "uuid": "1a170ee4-3792-4f2a-b5fd-5f462c714752",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-29T19:43:44.382Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi do you think it makes more sense to have these buttons continue after the URL bar and mic/QR buttons or after the newtab content?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 63,
+          "y": 3059
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "136"
+    },
+    {
+      "id": "684327183",
+      "uuid": "d238dce7-cced-43f7-9cbd-fbf5d036feae",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-29T19:43:12.994Z",
+      "resolved_at": null,
+      "message": "Please mark this as item 10 so users know the focus order continues from the toolbar items",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 1504,
+          "y": 2533
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "684326633",
+      "uuid": "a4fb68c4-d582-4aac-9297-ab3856df9aae",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-29T19:42:40.524Z",
+      "resolved_at": null,
+      "message": "This should be presentational, if clicking on it doesn't do anything",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 553,
+          "y": 2689
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "134"
+    },
+    {
+      "id": "684326181",
+      "uuid": "fb82df7e-bb07-4807-932e-605998ed0e20",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-29T19:42:14.157Z",
+      "resolved_at": null,
+      "message": "1 should start where 4 is",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 1186,
+          "y": 2997
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "133"
+    },
+    {
+      "id": "684325392",
+      "uuid": "159eb780-f243-410d-8587-8f9e9e861fbb",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-29T19:41:30.230Z",
+      "resolved_at": null,
+      "message": "1 should start where 4 is now",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 53,
+          "y": 2454
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "132"
+    },
+    {
+      "id": "681225544",
+      "uuid": "3746adcd-0a8c-4c38-a642-29d32fd09e88",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-01-25T18:05:21.547Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg Please review this reading order for 1 state of the toolbar. If this looks good, I will add it for all the other toolbar states as well.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 176,
+          "y": 2338
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "130"
+    },
+    {
+      "id": "673945714",
+      "uuid": "f2c03e74-24ae-47ca-8d37-0a49dfd34245",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-19T01:53:35.410Z",
+      "resolved_at": null,
+      "message": "To meet WCAG standards, our touch target size needs to be minimum 44 by 44px for all interactive controls",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:278225",
+        "node_offset": {
+          "x": 730,
+          "y": 157
+        },
+        "stable_path": [
+          "5503:278225"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "673943029",
+      "uuid": "b28c62f5-cd4a-44b7-b17c-b1f8fa4d26bd",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-19T01:48:14.753Z",
+      "resolved_at": null,
+      "message": "Which highlight colour are we using for dark mode? This purple or the one below?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:276765",
+        "node_offset": {
+          "x": 1052,
+          "y": 734
+        },
+        "stable_path": [
+          "5503:276765"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "673942453",
+      "uuid": "7a8a1d46-9b3a-4a42-b046-d731f9213fcc",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-01-19T01:47:05.085Z",
+      "resolved_at": null,
+      "message": "Because it is possible to have selected text appear next to non-selected text in the URL bar, the selected state needs 3:1 contrast with the non selected state to meet WCAG AA standards. The contrast between the purple highlight and grey background is only 1:1.15. Please improve this ratio",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5503:276765",
+        "node_offset": {
+          "x": 594,
+          "y": 1012
+        },
+        "stable_path": [
+          "5503:276765"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "517214221",
+      "uuid": "f79d4516-f35e-4d4e-8b7e-65c97552be11",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2023-08-03T18:21:28.828Z",
+      "resolved_at": null,
+      "message": "Ensure accessibility guidelines",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3980:266838",
+        "node_offset": {
+          "x": 7307,
+          "y": 15226
+        }
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "481777530",
+      "uuid": "2bfea98f-402b-4143-8315-21a696cd0b8a",
+      "file_key": "8fsCvtnweBkWGZ9NfL907l",
+      "parent_id": "",
+      "user": {
+        "handle": "Tiffanie Shakespeare",
+        "img_url": "https://s3-alpha.figma.com/profile/eed6be3e-f57d-4728-b2d2-b622c338c7b3",
+        "id": "890322120066008023"
+      },
+      "created_at": "2023-06-26T17:45:52.609Z",
+      "resolved_at": null,
+      "message": "i think this is a typo from page zoom can you update title and jira ticket link please :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2586:70610",
+        "node_offset": {
+          "x": 2067,
+          "y": 1461
+        }
+      },
+      "order_id": "30"
+    }
+  ]
+}

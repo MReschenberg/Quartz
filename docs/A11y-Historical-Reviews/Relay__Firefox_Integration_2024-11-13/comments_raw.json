@@ -1,0 +1,2346 @@
+{
+  "unresolved": [
+    {
+      "id": "1454844747",
+      "uuid": "4a71b8ba-cc71-4f96-986b-51f3b4c4c7f0",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-10-06T00:16:45.952Z",
+      "resolved_at": null,
+      "message": "Possibly being replaced by this:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1770:8230",
+        "node_offset": {
+          "x": 470,
+          "y": 145
+        },
+        "stable_path": [
+          "1770:8230"
+        ]
+      },
+      "order_id": "121"
+    },
+    {
+      "id": "1332726629",
+      "uuid": "585e3378-5bb4-4f2c-9c02-4831e062cc34",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-07-09T14:35:04.600Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak This was the winner!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "878:4669",
+        "node_offset": {
+          "x": 632,
+          "y": 508
+        },
+        "stable_path": [
+          "878:4669"
+        ]
+      },
+      "order_id": "120"
+    },
+    {
+      "id": "1154110268",
+      "uuid": "736c0c03-d5dc-4724-b57f-3a0828004fcf",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-02-28T18:02:54.704Z",
+      "resolved_at": null,
+      "message": "Consideration: do we want to tell free users that they're out of masks? Or use this as a surface to encourage them to upgrade for more?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1832:7678",
+        "node_offset": {
+          "x": 118,
+          "y": 75
+        },
+        "stable_path": [
+          "1832:7678"
+        ]
+      },
+      "order_id": "119"
+    },
+    {
+      "id": "1154106726",
+      "uuid": "a56cb445-dabb-4abe-8458-77b7e448e01b",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-02-28T17:59:53.434Z",
+      "resolved_at": null,
+      "message": "Now that saved addresses are here... does it look lopsided now that Relay + PWs have an icon and those don't?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1832:7680",
+        "node_offset": {
+          "x": 150,
+          "y": 13
+        },
+        "stable_path": [
+          "1832:7680"
+        ]
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "1154102551",
+      "uuid": "5c9fa690-47ee-4e74-927a-a16afa5b2ad3",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-02-28T17:56:25.962Z",
+      "resolved_at": null,
+      "message": "I've seen gradients used with AI features so wonder if just the gray works best here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1810:1986",
+        "node_offset": {
+          "x": 283,
+          "y": 61
+        },
+        "stable_path": [
+          "1810:1986"
+        ]
+      },
+      "order_id": "117"
+    },
+    {
+      "id": "1154102010",
+      "uuid": "39542b89-97fe-49f2-a4d7-8f2d9ddc2f24",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-02-28T17:55:59.626Z",
+      "resolved_at": null,
+      "message": "I do think the label that explicitly says \"Relay email masks\" works great as it differentiates bt the saved emails vs. masks which is currently all together.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1810:2276",
+        "node_offset": {
+          "x": 120,
+          "y": 206
+        },
+        "stable_path": [
+          "1810:2276"
+        ]
+      },
+      "order_id": "116"
+    },
+    {
+      "id": "1150321951",
+      "uuid": "a76895f6-e260-43d9-b66f-df101224826e",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-02-26T18:09:15.922Z",
+      "resolved_at": null,
+      "message": "@Santiago Andrigo @Laura Lopez mocked up some layout option based on the acroon guidelines for menus\n\nMy recommendations are\n\u2022 We use sub headers and dividers to improve info hierarchy\n\u2022 If we choose to use icons we use an icon for the Manage passwords menu item as well",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1810:2399",
+        "node_offset": {
+          "x": 175,
+          "y": 35
+        },
+        "stable_path": [
+          "1810:2399"
+        ]
+      },
+      "order_id": "115"
+    },
+    {
+      "id": "1148498788",
+      "uuid": "072c47a7-da24-4b5e-979a-ecb0cb0607f1",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-02-25T20:52:50.820Z",
+      "resolved_at": null,
+      "message": "Not signed in\nSigned into browser/not opted into Relay\nSigned into browser/have Relay - don't add a second line",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1476:20383",
+        "node_offset": {
+          "x": 323,
+          "y": 78
+        },
+        "stable_path": [
+          "1476:20383"
+        ]
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "1109398235",
+      "uuid": "c90da305-c1fb-4d4e-9c71-6c0352e7014e",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-01-28T16:52:19.587Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez To be clear, is this your recommendation?\n\nI like it - though I think we shouldn't put the key on \"Manage passwords\" just yet, as it's controlled by CM and on a different timeline.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1493:555",
+        "node_offset": {
+          "x": 267,
+          "y": 20
+        },
+        "stable_path": [
+          "1493:555"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "1090920200",
+      "uuid": "fedc2e5e-2101-4d95-b37c-d20e6568897e",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-01-14T13:16:59.174Z",
+      "resolved_at": null,
+      "message": "I think we should keep on using the email icon, as it helps reinforce to the user what this is about.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1482:350",
+        "node_offset": {
+          "x": 177,
+          "y": 8
+        },
+        "stable_path": [
+          "1482:350"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "1090914887",
+      "uuid": "5b7d9fa6-200d-413d-913a-e3efbfb18313",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-01-14T13:13:45.381Z",
+      "resolved_at": null,
+      "message": "This is cool but out of scope as it's more about what we do after we hit 5 masks (for free users).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1482:523",
+        "node_offset": {
+          "x": 281,
+          "y": 151
+        },
+        "stable_path": [
+          "1482:523"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "1090898802",
+      "uuid": "badcbca3-56fe-4bd0-a3e1-7c2b851c973c",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2025-01-14T13:03:19.426Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \nThis is actually the \"Form History\" view, not the \"Credential Management\" view when \"ask to save passwords\" is disabled.\n\nRegardless, this was fixed by Luke, so now    both \"form history\" and \"credential management\" are identical.\n\nThe question of whether \"ask to save passwords\" is enabled or not, only controls if the \"Manage passwords\" button is present or not.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-01-14T20:27:12.289Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1476:22873",
+        "node_offset": {
+          "x": 262,
+          "y": 6
+        },
+        "stable_path": [
+          "1476:22873"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "1055277100",
+      "uuid": "2b796ab8-ed6c-49ca-90f0-a9f9f7c73a14",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-06T19:46:33.764Z",
+      "resolved_at": null,
+      "message": "hey @Zachery Sutton ! one quick change here, this one calls for a 1, 2, and 3. \n1 being a menu role (so the entire dropdown off of the text input). \n2= Name: Protect against email spam, Sign up for an email mask / Role: menuitem / Note: Modal is triggered after user clicks on the Relay offer. \n3= Name: Manage Passwords / Role: menuitem / Note: Opens the about:logins page in a new tab\n\nThank you!! :tada:",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-6:",
+          "created_at": "2024-12-06T20:01:38.604Z",
+          "user": {
+            "id": "976544365619812549",
+            "handle": "Zachery Sutton",
+            "img_url": "https://s3-alpha.figma.com/profile/2a1dc37d-4206-407a-8e5d-c246def9ba40"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "688:8593",
+        "node_offset": {
+          "x": 516,
+          "y": 317
+        },
+        "stable_path": [
+          "688:8593"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "1048310797",
+      "uuid": "47dbcabb-b660-43d4-984f-436631dde67d",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-02T18:45:53.564Z",
+      "resolved_at": null,
+      "message": "Hi @Zachery Sutton ! This would be the menu that appears from the text input, correct?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "936:20295",
+        "node_offset": {
+          "x": 1156,
+          "y": 534
+        },
+        "stable_path": [
+          "936:20295"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "1048304321",
+      "uuid": "8c108c1f-69c7-473f-876e-1692762fa6bd",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-02T18:40:43.066Z",
+      "resolved_at": null,
+      "message": "Hi @Zachery Sutton ! In both instances, the 'Protect against...' and 'Manage passwords' are buttons, correct?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "936:20295",
+        "node_offset": {
+          "x": 513,
+          "y": 254
+        },
+        "stable_path": [
+          "936:20295"
+        ]
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "1039419681",
+      "uuid": "5c9835cd-c010-4845-a7f1-dd2228fa6979",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2024-11-25T13:31:15.707Z",
+      "resolved_at": null,
+      "message": "Note: this focus order is controlled by FXA code.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "805:51399",
+        "node_offset": {
+          "x": 739,
+          "y": 322
+        },
+        "stable_path": [
+          "805:51399"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "1039414433",
+      "uuid": "38a1688a-4637-4d16-a86a-854671112c90",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2024-11-25T13:28:17.578Z",
+      "resolved_at": null,
+      "message": "Note: we don't control the tab/focus order of these elements. Amazon.com controls this UI.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "805:51151",
+        "node_offset": {
+          "x": 713,
+          "y": 274
+        },
+        "stable_path": [
+          "805:51151"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "1037851479",
+      "uuid": "e202ac82-35f8-4c8d-8bcd-c55cbe5f689f",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-11-22T19:53:03.646Z",
+      "resolved_at": null,
+      "message": "@Luke Crouch It just occurred to me... since we are logging when the \"relay mask offer\" is shown, would we be \"aware\" of whether the offer mask is being shown in the credential management UI vs in the form history UI? That would help us break down the performance of these two variants (as well as understand popularity).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "936:19734",
+        "node_offset": {
+          "x": 680,
+          "y": 228
+        },
+        "stable_path": [
+          "936:19734"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "1032807786",
+      "uuid": "c0a909cb-713e-4ed2-b4a0-747bce70186f",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-20T01:52:01.040Z",
+      "resolved_at": null,
+      "message": "Hi @Zachery Sutton - to add to this note, the toast message should be presented using aria-live=\"polite\" so that screen reader users are informed a new mask was created successfully. Thank you! :new_moon: \n(reference: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-live)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "688:9081",
+        "node_offset": {
+          "x": 377,
+          "y": 531
+        },
+        "stable_path": [
+          "688:9081"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "1032806757",
+      "uuid": "77470756-95fd-49b6-8fb5-f969ce8aacaf",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-20T01:50:31.563Z",
+      "resolved_at": null,
+      "message": "Hi @Zachery Sutton - the name for this should be 'Mobile number or email, 4568dshjd@mozmail.com' (in general it will be Mobile number or email label + the created email mask). Thank you! :four_leaf_clover:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "688:9081",
+        "node_offset": {
+          "x": 348,
+          "y": 153
+        },
+        "stable_path": [
+          "688:9081"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1032804787",
+      "uuid": "e7ea4e7c-d32d-4687-8131-6eec28c23611",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-20T01:47:38.862Z",
+      "resolved_at": null,
+      "message": "Hi @Zachery Sutton - after a user clicks/presses 'Continue', does this close the tab?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "688:9072",
+        "node_offset": {
+          "x": 303,
+          "y": 312
+        },
+        "stable_path": [
+          "688:9072"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1032804168",
+      "uuid": "71404d53-e81c-4d34-aafe-fd30a7b9c14b",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-20T01:46:45.815Z",
+      "resolved_at": null,
+      "message": "Hi @Zachery Sutton ! With this opening up a new tab, we will want to provide a way to let screen reader users know. This can be done with hidden text, though visual text for sighted users (+ screen reader users) will be best practice. Thank you! :sparkles:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "688:9063",
+        "node_offset": {
+          "x": 326,
+          "y": 1437
+        },
+        "stable_path": [
+          "688:9063"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1032541530",
+      "uuid": "17e4949e-277c-41be-aa75-95f1eebfb7b9",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-19T20:29:47.272Z",
+      "resolved_at": null,
+      "message": "Hi @Zachery Sutton - it appears there is a down caret/drop down of some sort to the right of the Not Now button. What does this do?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "688:9063",
+        "node_offset": {
+          "x": 265,
+          "y": 1198
+        },
+        "stable_path": [
+          "688:9063"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1032538443",
+      "uuid": "ad7c82a5-523b-4694-8bf3-96fb554aa1ed",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-19T20:27:25.679Z",
+      "resolved_at": null,
+      "message": "Hi @Zachery Sutton - the blue links in this modal ('an email mask', 'sign up or sign in', 'Terms of Service', 'Privacy Notice') should be included in the annotations to the left. Thank you! :sparkler:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "688:8763",
+        "node_offset": {
+          "x": 542,
+          "y": 251
+        },
+        "stable_path": [
+          "688:8763"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1026195171",
+      "uuid": "2fc38bb2-8ff3-4f18-a615-b0c38475920a",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-11-14T13:14:48.209Z",
+      "resolved_at": null,
+      "message": "Can we remove this and put the current treatment? This is not in scope",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "398:6775",
+        "node_offset": {
+          "x": 1329,
+          "y": 165
+        },
+        "stable_path": [
+          "398:6775"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1024956480",
+      "uuid": "fae6ef11-89e9-4f24-b97a-954dc19e0d21",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-11-13T19:21:50.176Z",
+      "resolved_at": null,
+      "message": "Show signed in users (current exp)\nNon signed in users exp doesn't exist today!\nBut we have 3x variants \n\nWe want to make it consistent overall",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "439:2712",
+        "node_offset": {
+          "x": 134,
+          "y": 112
+        },
+        "stable_path": [
+          "439:2712"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1024401644",
+      "uuid": "cbf0a73e-87a2-43a9-a785-e4e0484349b5",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2024-11-13T13:57:18.474Z",
+      "resolved_at": null,
+      "message": "After tinkering with the code, I learned that changing the image is a small amount of work, but moving it to the opposite side of the auto-complete drop-down is an unknown amount of extra work. Biggest uknowns: 1. Need to find the code that renders the HTML of the auto-complete drop-down items 2. Need to understand if we can change the image placement ONLY for the Relay item, or if changing it will affect ALL auto-complete drop-down items across Firefox Desktop.\n\nIs it okay to go with the easier change: keep the image on the left side and simply swap the Relay icon for this email icon?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "394:3955",
+        "node_offset": {
+          "x": 281,
+          "y": 24
+        },
+        "stable_path": [
+          "394:3955"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1021124287",
+      "uuid": "1ed6b36d-5035-463e-ac03-a31b5dba9d13",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-11-11T17:42:02.363Z",
+      "resolved_at": null,
+      "message": "@Zachery Sutton @Laura Lopez \n\nIt's a bit difficult for me to follow this figma because the structure is a bit implicit and I think we are missing some dimensions.\n\nCan we structure this a bit more so that it's more clear to see the differences?\n\nMy suggestion would be:\n1. Align on either dark mode or light mode. Suggest light mode.\n2. Display the \"offer mask\" UI, and the modal to the right of it, using the LTR flow that we are all used to, and helping us ensure terminology consistency.\n3. Separate logged-in vs non-logged in (as you do)\n4. Show the control and the variants (right now this is a bit confusing because the control is (partly) on the right hand side and the variants are all on the left side)\n5. For the logged-in case, separate first time use (\"create an email mask\") vs ongoing use (\"use an email mask\")\n6. For the offer mask, in all cases, show the \"when ask to save passwords is enabled\" and \"when ask to save passwords is not enabled\", in both the short term version (where we have to live with the current styling for \"save passwords) and long term version (where we don't).\n\nApologies that this is a lot, but I have a feeling that this will clarify the situation for everybody.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-11-12T14:31:29.476Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "286:1577",
+        "node_offset": {
+          "x": 588,
+          "y": 183
+        },
+        "stable_path": [
+          "286:1577"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1021116805",
+      "uuid": "df9afc88-08a6-453d-8bcc-0972e4b31284",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-11-11T17:35:14.028Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez If we are saying \"create\" in the prompt, shouldn't the modal also say \"create\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "286:2053",
+        "node_offset": {
+          "x": 179,
+          "y": 36
+        },
+        "stable_path": [
+          "286:2053"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1021114817",
+      "uuid": "b8abe820-fbc4-41b8-8653-7726421a709e",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-11-11T17:33:24.006Z",
+      "resolved_at": null,
+      "message": "@Zachery Sutton @Laura Lopez Notice that these icon is different from that of the variant above. Was that intentional and part of the test?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "286:1816",
+        "node_offset": {
+          "x": 282,
+          "y": 26
+        },
+        "stable_path": [
+          "286:1816"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1021113471",
+      "uuid": "694989a2-7fa5-4876-afdc-bd539b915ae8",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-11-11T17:32:11.215Z",
+      "resolved_at": null,
+      "message": "@Zachery Sutton Note that we have a little key here, but we don't have it in the others. Is that intentional? (fwiw, I like the little key you added)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "286:1816",
+        "node_offset": {
+          "x": 279,
+          "y": 82
+        },
+        "stable_path": [
+          "286:1816"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1021112573",
+      "uuid": "f2252917-f4f7-4b2e-9e61-da3e8933be0c",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-11-11T17:31:22.846Z",
+      "resolved_at": null,
+      "message": "@Zachery Sutton @Laura Lopez\nWhat if we had a different icon, separating the first-time use vs ongoing? e.g. this same email but with a \"plus\" sign, since it's about adding/creating a new mask?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "286:2053",
+        "node_offset": {
+          "x": 287,
+          "y": 17
+        },
+        "stable_path": [
+          "286:2053"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1021109887",
+      "uuid": "998a9acd-d649-47f8-8a22-ec27e78fc1cd",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-11-11T17:28:59.921Z",
+      "resolved_at": null,
+      "message": "@Zachery Sutton Can we separate the short-term, where \"manage passwords\" will be styled like it is now? vs the long term one, where it's styled as we want?\n\nThis is important for the product review as we want to show both, acknowledging we are going out with a less than ideal one (but better than the current one)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "286:1577",
+        "node_offset": {
+          "x": 97,
+          "y": 672
+        },
+        "stable_path": [
+          "286:1577"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1021108882",
+      "uuid": "110e87a0-9abd-47aa-a526-f500e4646523",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-11-11T17:28:08.215Z",
+      "resolved_at": null,
+      "message": "@Zachery Sutton @Laura Lopez Can we have the version where \"Ask to save passwords\" is disabled?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-11-12T16:17:22.645Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "286:2013",
+        "node_offset": {
+          "x": 201,
+          "y": 0
+        },
+        "stable_path": [
+          "286:2013"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1021107528",
+      "uuid": "fdd083dc-ddae-43c0-87a0-97ca8a0dc353",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-11-11T17:27:00.949Z",
+      "resolved_at": null,
+      "message": "@Zachery Sutton @Laura Lopez To avoid confusion, can we move these proposals to light mode (or move the modal to dark mode)?",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-11-12T16:17:09.463Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "286:2013",
+        "node_offset": {
+          "x": 293,
+          "y": 16
+        },
+        "stable_path": [
+          "286:2013"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1021106080",
+      "uuid": "7bbe9bea-b40d-4854-85cf-f9f3f1271efc",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-11-11T17:25:47.733Z",
+      "resolved_at": null,
+      "message": "@Zachery Sutton @Laura Lopez How do these proposals here match the variants to the left? Is this a residue that we should eliminate?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "286:1782",
+        "node_offset": {
+          "x": 60,
+          "y": 66
+        },
+        "stable_path": [
+          "286:1782"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1021095408",
+      "uuid": "7ff25d5a-de4e-479c-853b-290e3d00304e",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-11-11T17:16:51.665Z",
+      "resolved_at": null,
+      "message": "@Zachery Sutton Mind giving me access? I want to add (a) light mode for these (b) the modals for the logged-in case, as reference.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "286:1784",
+        "node_offset": {
+          "x": 656,
+          "y": 152
+        },
+        "stable_path": [
+          "286:1784"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1019317102",
+      "uuid": "a5e19e80-0dc5-4de8-9f2a-7aa339654099",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-11-08T21:12:27.139Z",
+      "resolved_at": null,
+      "message": "@Santiago Andrigo @Zachery Sutton @Luke Crouch Corralled the versions for the experiment here\n\n* 1 control (current)\n* Experiment A: basic version (logged in + not logged in)\n* Experiment B: mentions domain (logged in + not logged in)\n* Experiment C: more val prop-y + domain (logged in + not logged in)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "363:1744",
+        "node_offset": {
+          "x": 33,
+          "y": 107
+        },
+        "stable_path": [
+          "363:1744"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1008971121",
+      "uuid": "d9605aa8-a031-4d01-97ba-3c171164fc1d",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2024-10-31T19:12:47.060Z",
+      "resolved_at": null,
+      "message": "This is super cool but technically hard. The code only sees the values like \"etsy.com\" or the full page title like \"Etsy - shop for handmade, vintage, custom and unique gifts for everyone\". It's quite hard to condense the website text in a way we know will fit well with the rest of the text.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "286:2292",
+        "node_offset": {
+          "x": 339,
+          "y": 105
+        },
+        "stable_path": [
+          "286:2292"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "999970975",
+      "uuid": "4986d1d9-0ed2-4caa-8966-b342dd8fb314",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-24T18:00:35.522Z",
+      "resolved_at": null,
+      "message": "Next? Let's go?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "286:2207",
+        "node_offset": {
+          "x": 424,
+          "y": 286
+        },
+        "stable_path": [
+          "286:2207"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "999961776",
+      "uuid": "0c7f355a-166b-4930-9e3e-7972554e8b2d",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-24T17:53:37.163Z",
+      "resolved_at": null,
+      "message": "There was a UR study that went from alias -> mask. Ask Alice!! This was a conscious decision",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "286:2207",
+        "node_offset": {
+          "x": 76,
+          "y": 110
+        },
+        "stable_path": [
+          "286:2207"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "999958982",
+      "uuid": "ad729c72-f3a0-48c9-a6d8-6c3a39b1cdf6",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-24T17:51:32.889Z",
+      "resolved_at": null,
+      "message": "Can likely just say forwards here\n\nMasked email = not a term ppl are familiar with\n\nLook at the onboarding email to make sure it aligns",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "286:2207",
+        "node_offset": {
+          "x": 343,
+          "y": 73
+        },
+        "stable_path": [
+          "286:2207"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "999943174",
+      "uuid": "1c1b9c67-1c54-4344-b2ae-73ed6cacffc2",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-24T17:39:42.454Z",
+      "resolved_at": null,
+      "message": "CTR is high!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "286:5244",
+        "node_offset": {
+          "x": 802,
+          "y": 410
+        },
+        "stable_path": [
+          "286:5244"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "999930940",
+      "uuid": "0ab24c93-0b19-4ed5-8802-ba1ce7f3e264",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-24T17:29:56.672Z",
+      "resolved_at": null,
+      "message": "If we need 3 lines here, try an alt with that",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "286:2476",
+        "node_offset": {
+          "x": 204,
+          "y": 14
+        },
+        "stable_path": [
+          "286:2476"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "999914811",
+      "uuid": "2cecb683-a572-4e0c-8cdb-feff18066942",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-24T17:17:54.080Z",
+      "resolved_at": null,
+      "message": "We don't show a user's previous masks unless they're using the extension",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "286:1755",
+        "node_offset": {
+          "x": 232,
+          "y": 11
+        },
+        "stable_path": [
+          "286:1755"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "999670271",
+      "uuid": "474c7060-3234-41ba-adda-6e30819cf95e",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Zachery Sutton",
+        "img_url": "https://s3-alpha.figma.com/profile/2a1dc37d-4206-407a-8e5d-c246def9ba40",
+        "id": "976544365619812549"
+      },
+      "created_at": "2024-10-24T14:45:49.200Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez I moved your design notes over too. I may have pulled the wrong ones over...if so my bad!!!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "277:4146",
+        "node_offset": {
+          "x": 422,
+          "y": 968
+        },
+        "stable_path": [
+          "277:4146"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "997805477",
+      "uuid": "9c935a44-5c96-4c0b-be48-ff65210bab2f",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-10-23T14:26:29.824Z",
+      "resolved_at": null,
+      "message": "Suggestion: How about \"First, sign up or log in to your Mozilla Account to create your first email mask\".",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "266:1314",
+        "node_offset": {
+          "x": 411,
+          "y": 166
+        },
+        "stable_path": [
+          "266:1314"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "997803252",
+      "uuid": "af0cd78b-0997-4efc-8751-db3d32a1f809",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-10-23T14:25:30.059Z",
+      "resolved_at": null,
+      "message": "Shouldn't this say \"Create email mask\"? Or if we want \"Use\", I suggest we change the language immediately above to say \"By using an email mask, you agree...\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "266:1353",
+        "node_offset": {
+          "x": 416,
+          "y": 275
+        },
+        "stable_path": [
+          "266:1353"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "997800627",
+      "uuid": "8fe35d87-1d0e-44ed-9fc0-33b3ef25df18",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-10-23T14:24:18.822Z",
+      "resolved_at": null,
+      "message": "\"protect against spam\" is not spelling out what is being protected.\n\nHow about \"Protect yourself from spam\" or \"Protect your inbox from spam\"? (or \"against\", idk).",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-10-24T17:12:01.966Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "266:1314",
+        "node_offset": {
+          "x": 115,
+          "y": 83
+        },
+        "stable_path": [
+          "266:1314"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "997796469",
+      "uuid": "1b85aef4-9a2b-44d3-9ff9-755056073ebf",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-10-23T14:22:24.752Z",
+      "resolved_at": null,
+      "message": "\"to your account\" --> \"to your Mozilla Account\", might be good to say here, because I could imagine somebody thinking they are going to sign up or log in to their email account.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "266:1314",
+        "node_offset": {
+          "x": 275,
+          "y": 154
+        },
+        "stable_path": [
+          "266:1314"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "997794579",
+      "uuid": "2702b4e6-aeed-4d1e-b3cd-30b12da79ba9",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-10-23T14:21:33.785Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez I don't have a suggestion here but \"masked emails\" is not quite accurate and somebody who doesn't get it intuitively might not get it. Its \"emails sent to your masked address\". But that's too long?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "266:1314",
+        "node_offset": {
+          "x": 330,
+          "y": 113
+        },
+        "stable_path": [
+          "266:1314"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "997754092",
+      "uuid": "047fd9ff-88f6-470d-9e9b-b1b6f7093659",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-23T14:02:27.228Z",
+      "resolved_at": null,
+      "message": "Can we pull just the domain name, no link?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "266:1399",
+        "node_offset": {
+          "x": 356,
+          "y": 105
+        },
+        "stable_path": [
+          "266:1399"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "997731399",
+      "uuid": "a8c0d657-4ba5-4856-9680-46a3cde5456a",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Santiago Andrigo",
+        "img_url": "https://s3-alpha.figma.com/profile/33cf5d1c-3814-44d3-bd0c-146fe5b4d968",
+        "id": "1138649166372164567"
+      },
+      "created_at": "2024-10-23T13:51:56.991Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez Are these two designs corresponding to \"Ongoing\" (left) vs \"1st run\" (right), or alternatives?\n\nOverall, it seems correct that we might take more real estate for \"1st run\" than for \"ongoing\" as we need to have a bit more clarity as to what we are offering.\n\nWe probably want to have the text line up with the title of the modal that would show up. In this case, it seems that the user is clicking on \"Protect against email spam\" and then lands on Sign up for a free email mask\", which might be jarring.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "266:1313",
+        "node_offset": {
+          "x": 2359,
+          "y": 132
+        },
+        "stable_path": [
+          "266:1313"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "997730346",
+      "uuid": "f6d3df13-f15b-4690-abfd-9211a9bfc99f",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-23T13:51:27.693Z",
+      "resolved_at": null,
+      "message": "Wonder if we can just pull the site name instead of using it as a link? \n\nFirefox will forward masked emails from Etsy to laura@gmail.com.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "266:1437",
+        "node_offset": {
+          "x": 355,
+          "y": 151
+        },
+        "stable_path": [
+          "266:1437"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "997722203",
+      "uuid": "db982ce0-e9d6-44fa-afa4-aa726dda412f",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-23T13:47:34.183Z",
+      "resolved_at": null,
+      "message": "@Zachery Sutton can we do a smaller treatment for these so it's seen more as legalese? \n\nAlso... are links blue or just underlined?",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-6:",
+          "created_at": "2024-10-23T15:05:30.922Z",
+          "user": {
+            "id": "976544365619812549",
+            "handle": "Zachery Sutton",
+            "img_url": "https://s3-alpha.figma.com/profile/2a1dc37d-4206-407a-8e5d-c246def9ba40"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "266:1437",
+        "node_offset": {
+          "x": 440,
+          "y": 233
+        },
+        "stable_path": [
+          "266:1437"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "996386312",
+      "uuid": "db8e1315-9c3b-4b3e-834c-7b8f64b8645c",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-10-22T18:55:52.051Z",
+      "resolved_at": null,
+      "message": "I think I missed it somewhere, what's under this expansion?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "123:2162",
+        "node_offset": {
+          "x": 240,
+          "y": 286
+        },
+        "stable_path": [
+          "123:2162"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "996385346",
+      "uuid": "fbe9f3b7-ef90-41dc-8c2f-12c5fae653c8",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-10-22T18:55:07.915Z",
+      "resolved_at": null,
+      "message": "Wonder if its worth saying \"Firefox will\" so that users more directly tie this to the browser",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-10-23T13:49:41.638Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "123:2188",
+        "node_offset": {
+          "x": 49,
+          "y": 160
+        },
+        "stable_path": [
+          "123:2188"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "996384730",
+      "uuid": "e76c48c5-aeee-4cb3-97bf-f9fe6cceca74",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-10-22T18:54:40.506Z",
+      "resolved_at": null,
+      "message": "Wondering if it's possible / we have precedent for treating this more like a disclaimer so it doesn't have so much weight.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "123:2188",
+        "node_offset": {
+          "x": 156,
+          "y": 230
+        },
+        "stable_path": [
+          "123:2188"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "996383840",
+      "uuid": "1537ef86-b2c2-46ec-83a4-8377b9115173",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-10-22T18:53:58.982Z",
+      "resolved_at": null,
+      "message": "I loathe the sign up or sign in. I've seen it \"Sign up/in\" other places but I think that guidance Katie linked to is probably good. Something like 85% of users don't have an account, and an even smaller minority percentage of those have an account but are logged out. If we want to make the case that we can say just sign up, that's great. Though I am curious if Emily's study tested sign up vs. sign in and sign in won!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "123:2162",
+        "node_offset": {
+          "x": 445,
+          "y": 276
+        },
+        "stable_path": [
+          "123:2162"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "996381558",
+      "uuid": "daa80080-7a5d-4178-a373-35f94abc16e4",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-10-22T18:52:16.855Z",
+      "resolved_at": null,
+      "message": "Are you planning on user testing? I'd be curious if you need the \"First sign up or\" line here, since the next thing they see will introduce the idea of an account.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "123:2162",
+        "node_offset": {
+          "x": 250,
+          "y": 120
+        },
+        "stable_path": [
+          "123:2162"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "996379416",
+      "uuid": "7908f71b-5605-4528-a2c4-b6544ee96bfb",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-10-22T18:50:42.796Z",
+      "resolved_at": null,
+      "message": "These options feel kind of link-ey. Too many paths out - on error pages we bold the url to set it off as variable without making it actionable. Maybe that's worth it here too.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "123:2188",
+        "node_offset": {
+          "x": 79,
+          "y": 92
+        },
+        "stable_path": [
+          "123:2188"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "996378101",
+      "uuid": "c592a481-a263-4c0c-b3e5-06c7c993ea1c",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-10-22T18:49:44.858Z",
+      "resolved_at": null,
+      "message": "I like including the domain. Admittedly, I don't know much about masks. Let's assume etsy sells my masked email to a data broker, and they try emailing me from a non-etsy domain. Do those not get forwarded? @Laura Lopez",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "123:2188",
+        "node_offset": {
+          "x": 148,
+          "y": 163
+        },
+        "stable_path": [
+          "123:2188"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "996376151",
+      "uuid": "32f6036c-2f95-4552-84c1-f662c32f8b97",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-10-22T18:48:17.896Z",
+      "resolved_at": null,
+      "message": "Did you consider \"Create email mask\"? Feels more indicative of what's happening, use could imply there's something that exists already.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "104:1797",
+        "node_offset": {
+          "x": 380,
+          "y": 284
+        },
+        "stable_path": [
+          "104:1797"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "996373499",
+      "uuid": "6f68b782-18ab-44a6-9424-3297f51e5cc6",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-10-22T18:46:17.385Z",
+      "resolved_at": null,
+      "message": "I kind of want this to be formatted as a question vs. a directive. I think i'd also prefer to have the value prop in here, something like \"Protect against spam with an email mask\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "104:1797",
+        "node_offset": {
+          "x": 175,
+          "y": 45
+        },
+        "stable_path": [
+          "104:1797"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "992622884",
+      "uuid": "acf9772f-ea0d-480c-a505-c94b538b9154",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-10-18T23:23:16.450Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez - Digging this one",
+      "reactions": [
+        {
+          "emoji": ":heart:",
+          "created_at": "2024-10-20T23:47:28.820Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "123:2248",
+        "node_offset": {
+          "x": 393,
+          "y": 32
+        },
+        "stable_path": [
+          "123:2248"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "992622762",
+      "uuid": "ca146caa-964f-4788-9799-4baf9ff28738",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-10-18T23:22:45.682Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez - This one sounds too overpromising IMO. Makes me think my email could never be hacked into, yadda yadda.",
+      "reactions": [
+        {
+          "emoji": ":fire:",
+          "created_at": "2024-10-23T13:12:23.487Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "123:2151",
+        "node_offset": {
+          "x": 398,
+          "y": 51
+        },
+        "stable_path": [
+          "123:2151"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "992622377",
+      "uuid": "c57da0e5-e1c1-42bf-b98b-e4f0a48d5456",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-10-18T23:21:05.298Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez - The forwarding bit feels a bit functional. I wonder if there's a way to position this more benefit forward - or in more plain language. \n\nRiffs...\n\nYou\u2019ll still receive emails from Amazon in your regular inbox, with your address is masked.\n\nEmails from Amazon will still come to your inbox, but with your email masked.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "97:1719",
+        "node_offset": {
+          "x": 398,
+          "y": 105
+        },
+        "stable_path": [
+          "97:1719"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "992619522",
+      "uuid": "a0a5de5e-a893-4c01-9a59-b580e04cd5fd",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-10-18T23:09:35.433Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez - Emily shared with me that, for mobile onboarding, an onborading card that simply used \"Sign in\" in the CTA performed better than one that addressed both scenarios - Sign in or sign up. Of course, not sure if that can be applied directly here, but it's an interesting input to consider... and I'd be inclined to at least make the button one action - maybe Sign up to match the header? And the body still references both?",
+      "reactions": [
+        {
+          "emoji": ":fire:",
+          "created_at": "2024-10-20T23:44:14.196Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "93:1286",
+        "node_offset": {
+          "x": 366,
+          "y": 158
+        },
+        "stable_path": [
+          "93:1286"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "992616655",
+      "uuid": "4d9f2714-2f0a-4ab6-97f9-157394e07eb5",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-10-18T22:58:59.104Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez - The construction here, to lead with a link to a potentially 'unknown' thing / term, throws me a little bit. Wdyt about...\n\nProtect against spam by hiding your real email address with an _email mask_.",
+      "reactions": [
+        {
+          "emoji": ":fire:",
+          "created_at": "2024-10-20T23:43:45.444Z",
+          "user": {
+            "id": "1357000100758670069",
+            "handle": "Laura Lopez",
+            "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "93:1286",
+        "node_offset": {
+          "x": 59,
+          "y": 78
+        },
+        "stable_path": [
+          "93:1286"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "990894604",
+      "uuid": "11d391b9-c077-426f-a017-33579feb13c5",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-17T19:00:16.139Z",
+      "resolved_at": null,
+      "message": "Next screen doesn't actually say \"Create an account to use an email mask\" -> possibly in the future but rn it's general (\"Create an account\")",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "72:1193",
+        "node_offset": {
+          "x": 461,
+          "y": 260
+        },
+        "stable_path": [
+          "72:1193"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "990797447",
+      "uuid": "80fae96b-b6be-48c6-ae2b-a4756a87c656",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-17T17:44:20.461Z",
+      "resolved_at": null,
+      "message": "CTA -> sign up or sign into your account",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "74:1449",
+        "node_offset": {
+          "x": 452,
+          "y": 277
+        },
+        "stable_path": [
+          "74:1449"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "990794135",
+      "uuid": "3fa7cbbf-daf3-436e-b322-ac0a099f7f1d",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-17T17:41:54.337Z",
+      "resolved_at": null,
+      "message": "We know what domain the user is on so could call that out here\n\nHelps with the qualification of the protection",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "74:1449",
+        "node_offset": {
+          "x": 357,
+          "y": 86
+        },
+        "stable_path": [
+          "74:1449"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "990789426",
+      "uuid": "e2728373-49c7-44dc-8857-18379f8c3464",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-17T17:38:25.595Z",
+      "resolved_at": null,
+      "message": "The place where someone is logging in = may be construed as a spammer (which isn't necessarily true!)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "74:1449",
+        "node_offset": {
+          "x": 99,
+          "y": 101
+        },
+        "stable_path": [
+          "74:1449"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "990783182",
+      "uuid": "4d74a858-e33c-4621-88d5-20206c9aeba1",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-10-17T17:33:38.639Z",
+      "resolved_at": null,
+      "message": "Do not mention Firefox in accounts",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "74:1483",
+        "node_offset": {
+          "x": 42,
+          "y": 148
+        },
+        "stable_path": [
+          "74:1483"
+        ]
+      },
+      "order_id": "2"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1055277100",
+      "uuid": "2b796ab8-ed6c-49ca-90f0-a9f9f7c73a14",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-06T19:46:33.764Z",
+      "resolved_at": null,
+      "message": "hey @Zachery Sutton ! one quick change here, this one calls for a 1, 2, and 3. \n1 being a menu role (so the entire dropdown off of the text input). \n2= Name: Protect against email spam, Sign up for an email mask / Role: menuitem / Note: Modal is triggered after user clicks on the Relay offer. \n3= Name: Manage Passwords / Role: menuitem / Note: Opens the about:logins page in a new tab\n\nThank you!! :tada:",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-6:",
+          "created_at": "2024-12-06T20:01:38.604Z",
+          "user": {
+            "id": "976544365619812549",
+            "handle": "Zachery Sutton",
+            "img_url": "https://s3-alpha.figma.com/profile/2a1dc37d-4206-407a-8e5d-c246def9ba40"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "688:8593",
+        "node_offset": {
+          "x": 516,
+          "y": 317
+        },
+        "stable_path": [
+          "688:8593"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "1048310797",
+      "uuid": "47dbcabb-b660-43d4-984f-436631dde67d",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-02T18:45:53.564Z",
+      "resolved_at": null,
+      "message": "Hi @Zachery Sutton ! This would be the menu that appears from the text input, correct?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "936:20295",
+        "node_offset": {
+          "x": 1156,
+          "y": 534
+        },
+        "stable_path": [
+          "936:20295"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "1048304321",
+      "uuid": "8c108c1f-69c7-473f-876e-1692762fa6bd",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-12-02T18:40:43.066Z",
+      "resolved_at": null,
+      "message": "Hi @Zachery Sutton ! In both instances, the 'Protect against...' and 'Manage passwords' are buttons, correct?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "936:20295",
+        "node_offset": {
+          "x": 513,
+          "y": 254
+        },
+        "stable_path": [
+          "936:20295"
+        ]
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "1039419681",
+      "uuid": "5c9835cd-c010-4845-a7f1-dd2228fa6979",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2024-11-25T13:31:15.707Z",
+      "resolved_at": null,
+      "message": "Note: this focus order is controlled by FXA code.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "805:51399",
+        "node_offset": {
+          "x": 739,
+          "y": 322
+        },
+        "stable_path": [
+          "805:51399"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "1039414433",
+      "uuid": "38a1688a-4637-4d16-a86a-854671112c90",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Luke Crouch",
+        "img_url": "https://www.gravatar.com/avatar/ac76daf656edb21915fd4611edae2b2e?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "908394248768663776"
+      },
+      "created_at": "2024-11-25T13:28:17.578Z",
+      "resolved_at": null,
+      "message": "Note: we don't control the tab/focus order of these elements. Amazon.com controls this UI.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "805:51151",
+        "node_offset": {
+          "x": 713,
+          "y": 274
+        },
+        "stable_path": [
+          "805:51151"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "1032807786",
+      "uuid": "c0a909cb-713e-4ed2-b4a0-747bce70186f",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-20T01:52:01.040Z",
+      "resolved_at": null,
+      "message": "Hi @Zachery Sutton - to add to this note, the toast message should be presented using aria-live=\"polite\" so that screen reader users are informed a new mask was created successfully. Thank you! :new_moon: \n(reference: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-live)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "688:9081",
+        "node_offset": {
+          "x": 377,
+          "y": 531
+        },
+        "stable_path": [
+          "688:9081"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "1032806757",
+      "uuid": "77470756-95fd-49b6-8fb5-f969ce8aacaf",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-20T01:50:31.563Z",
+      "resolved_at": null,
+      "message": "Hi @Zachery Sutton - the name for this should be 'Mobile number or email, 4568dshjd@mozmail.com' (in general it will be Mobile number or email label + the created email mask). Thank you! :four_leaf_clover:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "688:9081",
+        "node_offset": {
+          "x": 348,
+          "y": 153
+        },
+        "stable_path": [
+          "688:9081"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1032804787",
+      "uuid": "e7ea4e7c-d32d-4687-8131-6eec28c23611",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-20T01:47:38.862Z",
+      "resolved_at": null,
+      "message": "Hi @Zachery Sutton - after a user clicks/presses 'Continue', does this close the tab?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "688:9072",
+        "node_offset": {
+          "x": 303,
+          "y": 312
+        },
+        "stable_path": [
+          "688:9072"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1032804168",
+      "uuid": "71404d53-e81c-4d34-aafe-fd30a7b9c14b",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-20T01:46:45.815Z",
+      "resolved_at": null,
+      "message": "Hi @Zachery Sutton ! With this opening up a new tab, we will want to provide a way to let screen reader users know. This can be done with hidden text, though visual text for sighted users (+ screen reader users) will be best practice. Thank you! :sparkles:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "688:9063",
+        "node_offset": {
+          "x": 326,
+          "y": 1437
+        },
+        "stable_path": [
+          "688:9063"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1032541530",
+      "uuid": "17e4949e-277c-41be-aa75-95f1eebfb7b9",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-19T20:29:47.272Z",
+      "resolved_at": null,
+      "message": "Hi @Zachery Sutton - it appears there is a down caret/drop down of some sort to the right of the Not Now button. What does this do?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "688:9063",
+        "node_offset": {
+          "x": 265,
+          "y": 1198
+        },
+        "stable_path": [
+          "688:9063"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1032538443",
+      "uuid": "ad7c82a5-523b-4694-8bf3-96fb554aa1ed",
+      "file_key": "gnyElr1Wtce3RdQT54y8kS",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2024-11-19T20:27:25.679Z",
+      "resolved_at": null,
+      "message": "Hi @Zachery Sutton - the blue links in this modal ('an email mask', 'sign up or sign in', 'Terms of Service', 'Privacy Notice') should be included in the annotations to the left. Thank you! :sparkler:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "688:8763",
+        "node_offset": {
+          "x": 542,
+          "y": 251
+        },
+        "stable_path": [
+          "688:8763"
+        ]
+      },
+      "order_id": "76"
+    }
+  ]
+}

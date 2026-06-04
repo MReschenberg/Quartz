@@ -1,0 +1,604 @@
+{
+  "unresolved": [
+    {
+      "id": "1507588854",
+      "uuid": "103a7aeb-d7a9-4258-aa2b-337654126a0c",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-11T01:52:08.623Z",
+      "resolved_at": null,
+      "message": "@Victoria Wang could you please update the tokens for the button (because even though the text label is removed after a timeout, the star icon remains and it is still clickable):\n* background: `button/background/color` - it would appear grayish black on this theme\n* label color (both the fill for the star icon and the text): `button/color/active` - it would appear yellow on this theme\n* border/stroke is used correctly - thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8024:11565",
+        "node_offset": {
+          "x": 959,
+          "y": 54
+        },
+        "stable_path": [
+          "8024:11565"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1507585523",
+      "uuid": "29ed39e7-95b9-4f32-9dcc-4535137bbdbc",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-11T01:47:52.334Z",
+      "resolved_at": null,
+      "message": "@Victoria Wang was it supposed to be 3 sec here or 5 as it is listed in the notes on the left? 5 seconds would be the minimum for accessibility (20 sec being sufficient for WCAG compliance). Maybe we could by default show it for 20 sec, unless user is clicking elsewhere (then dismiss on click). IIRC there were other in-awesome bar interactions that were following this pattern (but I cannot find a Figma file anymore)\nCC @Andrew Crago @Natalie Stroud\n\neta to add: not all users who report feeling nauseated by motion or being distracted by it or missing it are also reporting being aware of the \"reduced motion\" preference on their OS, thus not all of them have it enabled",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8044:15145",
+        "node_offset": {
+          "x": 355,
+          "y": 157
+        },
+        "stable_path": [
+          "8044:15145"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1460395940",
+      "uuid": "3b0b7e41-baa1-44b0-95f8-04c933b9ac90",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-10-08T21:47:31.023Z",
+      "resolved_at": null,
+      "message": "Do we actually know there's text loss or not? Similar to if you're closing a tab out + warning",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8064:5760",
+        "node_offset": {
+          "x": 227,
+          "y": 62
+        },
+        "stable_path": [
+          "8064:5760"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1444269009",
+      "uuid": "81e69585-98cf-4015-be3c-4357569ac79a",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-09-26T15:18:53.965Z",
+      "resolved_at": null,
+      "message": "In this scenario would this reload all 3 tabs? If so we should indicate that. If a background tab has unsaved information will the user get a warning from that tab that reloading will discard that info?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7630:7072",
+        "node_offset": {
+          "x": 868,
+          "y": 1130
+        },
+        "stable_path": [
+          "7630:7072"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1432726091",
+      "uuid": "18260736-ee4d-4404-9778-481f903b2d4e",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrew Crago",
+        "img_url": "https://s3-alpha.figma.com/profile/ba211a9e-af73-4555-9524-33f939c11805",
+        "id": "1075270157069956042"
+      },
+      "created_at": "2025-09-18T19:31:21.298Z",
+      "resolved_at": null,
+      "message": "toast only shows for those who do not have editor showing? I think so",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7672:7163",
+        "node_offset": {
+          "x": 44,
+          "y": 231
+        },
+        "stable_path": [
+          "7672:7163"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1432723442",
+      "uuid": "dea88499-52fc-431f-85ab-5f3411a49f61",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrew Crago",
+        "img_url": "https://s3-alpha.figma.com/profile/ba211a9e-af73-4555-9524-33f939c11805",
+        "id": "1075270157069956042"
+      },
+      "created_at": "2025-09-18T19:29:15.390Z",
+      "resolved_at": null,
+      "message": "Assumption: users don't need to go to the location, they need to confirm location and edit it maybe",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7526:6595",
+        "node_offset": {
+          "x": 787,
+          "y": 62
+        },
+        "stable_path": [
+          "7526:6595"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1432722611",
+      "uuid": "309969a2-fd0a-41df-baa6-b8702daaa89e",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrew Crago",
+        "img_url": "https://s3-alpha.figma.com/profile/ba211a9e-af73-4555-9524-33f939c11805",
+        "id": "1075270157069956042"
+      },
+      "created_at": "2025-09-18T19:28:37.567Z",
+      "resolved_at": null,
+      "message": "this is strong, resolves concerns about theming. Could the whole thing behave like a button -- like the favorite button that opens the panel?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7526:6595",
+        "node_offset": {
+          "x": 955,
+          "y": 57
+        },
+        "stable_path": [
+          "7526:6595"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1432587625",
+      "uuid": "5100aa0d-b9c4-4b1d-8450-026a026cc977",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrew Crago",
+        "img_url": "https://s3-alpha.figma.com/profile/ba211a9e-af73-4555-9524-33f939c11805",
+        "id": "1075270157069956042"
+      },
+      "created_at": "2025-09-18T17:50:58.605Z",
+      "resolved_at": null,
+      "message": "icon treatment that could communicate memory?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7630:7072",
+        "node_offset": {
+          "x": 473,
+          "y": 230
+        },
+        "stable_path": [
+          "7630:7072"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1432519800",
+      "uuid": "2607666d-eea7-4e92-a5b8-eae8713e0240",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-09-18T17:04:04.331Z",
+      "resolved_at": null,
+      "message": "How important is it to call out the total number of tabs? \n\nIf it's a tab hover preview and you see this message, would it be only for that one problematic tab? Or could it be for multiple? \n\nIf the message shows for just a single problematic tab, then I think we could consider removing the tab count here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7630:7072",
+        "node_offset": {
+          "x": 873,
+          "y": 1105
+        },
+        "stable_path": [
+          "7630:7072"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1432515458",
+      "uuid": "5a5a5e75-38b2-4030-bba1-f8e2e1025a7b",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2025-09-18T17:00:54.968Z",
+      "resolved_at": null,
+      "message": "Are there other ways we communicate to users that their memory usage is high? And if so, where do we expect users to take that action? Here in this panel or somewhere else?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7630:7072",
+        "node_offset": {
+          "x": 1383,
+          "y": 1121
+        },
+        "stable_path": [
+          "7630:7072"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1431004006",
+      "uuid": "da209f11-111b-4025-90bb-e17cda968483",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-09-18T01:41:35.048Z",
+      "resolved_at": null,
+      "message": "Maybe a callout for the reload button recommending the user reloads to improve performance?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7469:9909",
+        "node_offset": {
+          "x": 3803,
+          "y": 987
+        },
+        "stable_path": [
+          "7469:9909"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1431003222",
+      "uuid": "9736ec7f-fe3e-4c11-8aee-8374650e4b30",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-09-18T01:40:29.917Z",
+      "resolved_at": null,
+      "message": "Could we make this affordance stronger?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7469:9909",
+        "node_offset": {
+          "x": 3934,
+          "y": 995
+        },
+        "stable_path": [
+          "7469:9909"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1431002446",
+      "uuid": "da8b45d9-6b44-4db6-bbbb-d31b07efc339",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-09-18T01:39:25.969Z",
+      "resolved_at": null,
+      "message": "What affordance do we show if the user is on the tab causing performance issue? do we show an info bar?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7469:9909",
+        "node_offset": {
+          "x": 721,
+          "y": 2192
+        },
+        "stable_path": [
+          "7469:9909"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1431001139",
+      "uuid": "472625b7-8f77-4a3b-aaa1-91cec514cf10",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-09-18T01:37:36.972Z",
+      "resolved_at": null,
+      "message": "Could we consider a solution like this?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7473:3023",
+        "node_offset": {
+          "x": 347.880859375,
+          "y": 72.595458984375
+        },
+        "stable_path": [
+          "7473:3023"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1431000340",
+      "uuid": "915b03b0-3f62-4ff0-95f1-8f70da09c48d",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-09-18T01:36:27.161Z",
+      "resolved_at": null,
+      "message": "Is there a scenario where multiple tabs for pages on different sites in combination are affecting browser performance?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7630:7072",
+        "node_offset": {
+          "x": 555,
+          "y": 40
+        },
+        "stable_path": [
+          "7630:7072"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1430999455",
+      "uuid": "0b233992-252f-4069-8c89-b2b09c20e90f",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-09-18T01:35:09.269Z",
+      "resolved_at": null,
+      "message": "Is there a benefit to showing the memory usage when browser performance is not affected?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7630:7072",
+        "node_offset": {
+          "x": 775,
+          "y": 249
+        },
+        "stable_path": [
+          "7630:7072"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1430998371",
+      "uuid": "542b1097-5da0-4403-9c8f-ee4101880dd3",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-09-18T01:33:33.291Z",
+      "resolved_at": null,
+      "message": "I like this treatment because it creates an association between the memory usage info the recommended action",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7630:7072",
+        "node_offset": {
+          "x": 1324,
+          "y": 1136
+        },
+        "stable_path": [
+          "7630:7072"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1430997416",
+      "uuid": "1b2555d5-4de8-4373-b529-d7da33c0de5c",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-09-18T01:32:10.323Z",
+      "resolved_at": null,
+      "message": "What does the checkmark mean?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7630:7072",
+        "node_offset": {
+          "x": 881,
+          "y": 248
+        },
+        "stable_path": [
+          "7630:7072"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1430997036",
+      "uuid": "a8c2312e-049c-471a-bcc9-8202a1a93c86",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-09-18T01:31:34.512Z",
+      "resolved_at": null,
+      "message": "Does this mean the user has 3 tabs open for this domain? And is the memory usage amount for the 3 tabs or the tab the user is currently hovering on?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7630:7072",
+        "node_offset": {
+          "x": 875,
+          "y": 564
+        },
+        "stable_path": [
+          "7630:7072"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1430996422",
+      "uuid": "86b785e9-60df-4d7c-b1ea-4b882987202e",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Wolasi Konu",
+        "img_url": "https://s3-alpha.figma.com/profile/75fe7316-1357-4972-91c1-23065e8d4cb0",
+        "id": "1450570527398719312"
+      },
+      "created_at": "2025-09-18T01:30:36.428Z",
+      "resolved_at": null,
+      "message": "I like this solution because it provides a consistent location for the memory usage info",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7630:7072",
+        "node_offset": {
+          "x": 973,
+          "y": 560
+        },
+        "stable_path": [
+          "7630:7072"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "985382847",
+      "uuid": "cebfb5b6-f3ad-46a2-b32e-4d6519987010",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Cieara Meador",
+        "img_url": "https://www.gravatar.com/avatar/fc8d165e86fe16baa73e56c68f34410b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "1027295805802769316"
+      },
+      "created_at": "2024-10-14T16:36:00.037Z",
+      "resolved_at": null,
+      "message": "I think the color here is a lightweight theme property? If you open the Bookmarks menu it's the same background color.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7102:11484",
+        "node_offset": {
+          "x": 127,
+          "y": 29
+        },
+        "stable_path": [
+          "7102:11484"
+        ]
+      },
+      "order_id": "2"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1507588854",
+      "uuid": "103a7aeb-d7a9-4258-aa2b-337654126a0c",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-11T01:52:08.623Z",
+      "resolved_at": null,
+      "message": "@Victoria Wang could you please update the tokens for the button (because even though the text label is removed after a timeout, the star icon remains and it is still clickable):\n* background: `button/background/color` - it would appear grayish black on this theme\n* label color (both the fill for the star icon and the text): `button/color/active` - it would appear yellow on this theme\n* border/stroke is used correctly - thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8024:11565",
+        "node_offset": {
+          "x": 959,
+          "y": 54
+        },
+        "stable_path": [
+          "8024:11565"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1507585523",
+      "uuid": "29ed39e7-95b9-4f32-9dcc-4535137bbdbc",
+      "file_key": "QIk3D9QM8H8b5RiMEljLL0",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-11-11T01:47:52.334Z",
+      "resolved_at": null,
+      "message": "@Victoria Wang was it supposed to be 3 sec here or 5 as it is listed in the notes on the left? 5 seconds would be the minimum for accessibility (20 sec being sufficient for WCAG compliance). Maybe we could by default show it for 20 sec, unless user is clicking elsewhere (then dismiss on click). IIRC there were other in-awesome bar interactions that were following this pattern (but I cannot find a Figma file anymore)\nCC @Andrew Crago @Natalie Stroud\n\neta to add: not all users who report feeling nauseated by motion or being distracted by it or missing it are also reporting being aware of the \"reduced motion\" preference on their OS, thus not all of them have it enabled",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8044:15145",
+        "node_offset": {
+          "x": 355,
+          "y": 157
+        },
+        "stable_path": [
+          "8044:15145"
+        ]
+      },
+      "order_id": "23"
+    }
+  ]
+}

@@ -1,0 +1,1894 @@
+{
+  "unresolved": [
+    {
+      "id": "1067957868",
+      "uuid": "fde53978-d489-4f3c-979d-4961efd401ba",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-12-17T18:12:05.139Z",
+      "resolved_at": null,
+      "message": "Usually this space is occupied by the URL, is it ok to break the existing framework and place descriptive text here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8937:2301",
+        "node_offset": {
+          "x": 610,
+          "y": 430
+        },
+        "stable_path": [
+          "8937:2301"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "1067954554",
+      "uuid": "e3a0ccf0-d257-4e42-8d5b-5a1a1c04d4e9",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-12-17T18:09:33.243Z",
+      "resolved_at": null,
+      "message": "@Stafford Brooke mentioned this is not a technically desireable solution / direction",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8936:44149",
+        "node_offset": {
+          "x": 223,
+          "y": 433
+        },
+        "stable_path": [
+          "8936:44149"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "860413233",
+      "uuid": "8e283c17-030b-4c1d-a4e1-b829bf5ace2f",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-07-02T18:19:42.151Z",
+      "resolved_at": null,
+      "message": "@Josh Berman could you please add here an (orange) landmark so we could make sure this is either a live region (probably not since the URL bar itself is live) or that when the content is changed:\n1. the focus is placed to the \"Got it\" button, while\n2. this button is included in the group with label from the static text on the left hand side of the button - this would be announced then after the button's accessible name too\nMaking sure the change in context is made known to assistive tech users.\n\nAdding: the landmark would include both the Fx logo + TY text + Got it button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6972:10492",
+        "node_offset": {
+          "x": 493,
+          "y": 25
+        },
+        "stable_path": [
+          "6972:10492"
+        ]
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "850575999",
+      "uuid": "3109e24a-33ad-4bab-818d-7b29f9b71ed4",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-06-24T18:15:19.310Z",
+      "resolved_at": null,
+      "message": "[KL] would someone conflate turning off THIS suggestion with turning off review checker callout?\n\nex. callout for RC, they select \"don't show this\" on that callout.\n\nCallout display conditions: for users that have opted in or closed the page on Amzn, BB, or Walmart",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6533:10562",
+        "node_offset": {
+          "x": 191,
+          "y": 16
+        },
+        "stable_path": [
+          "6533:10562"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "850569491",
+      "uuid": "f5745da1-88e3-4a5c-bb4f-cb4607951659",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-06-24T18:09:27.929Z",
+      "resolved_at": null,
+      "message": "are explicitly not targeting folks that have opted OUT of review checker?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6614:12419",
+        "node_offset": {
+          "x": 286,
+          "y": 370
+        },
+        "stable_path": [
+          "6614:12419"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "850568802",
+      "uuid": "fe6aa17e-503e-4272-83de-f1e016d04b22",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-06-24T18:08:47.100Z",
+      "resolved_at": null,
+      "message": "would it be worth it to have a different treatment for users that haven't opted in?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6533:8823",
+        "node_offset": {
+          "x": 532,
+          "y": 451
+        },
+        "stable_path": [
+          "6533:8823"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "847536365",
+      "uuid": "1e11db80-1e62-40e2-87ac-5122839c4ef9",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Nive Suresh",
+        "img_url": "https://www.gravatar.com/avatar/36848cb0307543418b98be186b364de6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1068409464198614486"
+      },
+      "created_at": "2024-06-20T22:24:01.789Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter we found that either this one or the one above worked with users when it came to clarity for this vs any suggestion right?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6534:19891",
+        "node_offset": {
+          "x": 253,
+          "y": 22
+        },
+        "stable_path": [
+          "6534:19891"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "847535283",
+      "uuid": "fb661d1f-f3e7-429e-abc6-1d17b66a3ab5",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Nive Suresh",
+        "img_url": "https://www.gravatar.com/avatar/36848cb0307543418b98be186b364de6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1068409464198614486"
+      },
+      "created_at": "2024-06-20T22:22:01.329Z",
+      "resolved_at": null,
+      "message": "I really like this and I also agree with not showing this unless the reviews score 4.0 stars or above",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-06-21T20:05:55.792Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "6533:8640",
+        "node_offset": {
+          "x": 572,
+          "y": 444
+        },
+        "stable_path": [
+          "6533:8640"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "847292974",
+      "uuid": "364ea504-3c99-4a67-a539-89738a43ec83",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Chris Bellini",
+        "img_url": "https://s3-alpha.figma.com/profile/376f0526-9b6d-4128-9a87-8b0c779cc234",
+        "id": "1054843850053268681"
+      },
+      "created_at": "2024-06-20T18:01:04.958Z",
+      "resolved_at": null,
+      "message": "But is consistent with the current menu item for other suggestion types (e.g. Yelp)",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-06-21T19:11:08.392Z",
+          "user": {
+            "id": "1042905853028956067",
+            "handle": "Brent Trotter",
+            "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86"
+          }
+        },
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-06-20T22:17:25.204Z",
+          "user": {
+            "id": "1068409464198614486",
+            "handle": "Nive Suresh",
+            "img_url": "https://www.gravatar.com/avatar/36848cb0307543418b98be186b364de6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png"
+          }
+        },
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-06-20T18:48:18.136Z",
+          "user": {
+            "id": "1113937443180999805",
+            "handle": "Josh Berman",
+            "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "6534:20212",
+        "node_offset": {
+          "x": 363,
+          "y": 255
+        },
+        "stable_path": [
+          "6534:20212"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "844304991",
+      "uuid": "1d32ac99-3fdc-478d-bba8-ef4cbb2fde0e",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-06-18T20:16:11.623Z",
+      "resolved_at": null,
+      "message": "We can do this one as long as we have the capability to segment guardrail metrics by user who is opted in vs not opted in to RC.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6384:17747",
+        "node_offset": {
+          "x": 506,
+          "y": 456
+        },
+        "stable_path": [
+          "6384:17747"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "844304123",
+      "uuid": "6256a4d8-9243-4a5e-93ab-254a88996592",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-06-18T20:15:23.364Z",
+      "resolved_at": null,
+      "message": "UX more comfortable with this treatment if we change criteria for inclusion to products with adjusted ratings of 4 or higher",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6384:20067",
+        "node_offset": {
+          "x": 630,
+          "y": 438
+        },
+        "stable_path": [
+          "6384:20067"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "835904850",
+      "uuid": "6d93520f-20ce-46bc-8422-caf5a59e8e5d",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Nive Suresh",
+        "img_url": "https://www.gravatar.com/avatar/36848cb0307543418b98be186b364de6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1068409464198614486"
+      },
+      "created_at": "2024-06-11T15:58:53.107Z",
+      "resolved_at": null,
+      "message": "where/ how does the badge show in case the product tiles are much longer?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5918:64052",
+        "node_offset": {
+          "x": 330,
+          "y": 442
+        },
+        "stable_path": [
+          "5918:64052"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "832687938",
+      "uuid": "e8ad1527-7841-4922-ac90-0b5c54c9c9e3",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-06-07T20:14:36.986Z",
+      "resolved_at": null,
+      "message": "are we also displaying best buy or walmart in this experiment?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6233:16165",
+        "node_offset": {
+          "x": 27,
+          "y": 446
+        },
+        "stable_path": [
+          "6233:16165"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "832687729",
+      "uuid": "fcb61e7e-1771-4e06-9fd9-8586463564fe",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-06-07T20:14:18.061Z",
+      "resolved_at": null,
+      "message": "\"Reliable reviews\" on its own doesn't accurately communicate that they're \"likely to be real\" \n\ncould be misleading\n\nDo we feel we NEED to have anything at all?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6233:16165",
+        "node_offset": {
+          "x": 397,
+          "y": 448
+        },
+        "stable_path": [
+          "6233:16165"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "832686808",
+      "uuid": "44b6faad-9659-4df1-b59c-8741493ea3b4",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-06-07T20:13:05.336Z",
+      "resolved_at": null,
+      "message": "are we showing the amazon rating or the adjusted rating by Review checker",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6233:16165",
+        "node_offset": {
+          "x": 140,
+          "y": 445
+        },
+        "stable_path": [
+          "6233:16165"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "832682534",
+      "uuid": "c36cf2d9-458c-44ac-ac62-1312a084fc82",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-06-07T20:07:12.973Z",
+      "resolved_at": null,
+      "message": "link to SUMO like the accuweather example",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6233:16165",
+        "node_offset": {
+          "x": 820,
+          "y": 402
+        },
+        "stable_path": [
+          "6233:16165"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "832666014",
+      "uuid": "8b8ca209-3a56-489d-9af5-b050feb9e755",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-06-07T19:45:56.010Z",
+      "resolved_at": null,
+      "message": "link to SUMO",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6233:15959",
+        "node_offset": {
+          "x": 771,
+          "y": 397
+        },
+        "stable_path": [
+          "6233:15959"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "832662513",
+      "uuid": "d9515772-5f54-492e-9986-54090282b0f1",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-06-07T19:41:30.812Z",
+      "resolved_at": null,
+      "message": "RC sumo article exists",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6231:15680",
+        "node_offset": {
+          "x": 840,
+          "y": 401
+        },
+        "stable_path": [
+          "6231:15680"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "832662367",
+      "uuid": "df428957-e00f-4962-9852-9e420adc5598",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-06-07T19:41:20.087Z",
+      "resolved_at": null,
+      "message": "maybe don't need this  and can incl. the grade",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6231:15680",
+        "node_offset": {
+          "x": 324,
+          "y": 468
+        },
+        "stable_path": [
+          "6231:15680"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "832662036",
+      "uuid": "e57d49e1-228b-4d89-aef8-ff6494d93f3c",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-06-07T19:40:54.628Z",
+      "resolved_at": null,
+      "message": "\"Sponsored by Fakespot\"\n\nif 'mozillaness\" is implied, we don't need to say \"Mozilla\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6231:15680",
+        "node_offset": {
+          "x": 63,
+          "y": 486
+        },
+        "stable_path": [
+          "6231:15680"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "832656199",
+      "uuid": "c438ea3a-1039-4f7d-baf9-7d61688a0f22",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-06-07T19:33:35.055Z",
+      "resolved_at": null,
+      "message": "where does \"Fakespot\" need to be revealed",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6231:15680",
+        "node_offset": {
+          "x": 15,
+          "y": 469
+        },
+        "stable_path": [
+          "6231:15680"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "832650039",
+      "uuid": "b581576f-92fe-4255-9a5b-54295b84feec",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-06-07T19:26:10.711Z",
+      "resolved_at": null,
+      "message": "\"review checker thinks we have reliable reviews\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6231:15680",
+        "node_offset": {
+          "x": 437,
+          "y": 447
+        },
+        "stable_path": [
+          "6231:15680"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "832646157",
+      "uuid": "18b8bc7d-e7f4-45ea-b8af-259862c0df79",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-06-07T19:21:29.413Z",
+      "resolved_at": null,
+      "message": "ad by fakespot?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6231:15680",
+        "node_offset": {
+          "x": 115,
+          "y": 469
+        },
+        "stable_path": [
+          "6231:15680"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "822938368",
+      "uuid": "c7a809a5-d7c0-42f7-ba5f-de6b6b1ee0a0",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-05-30T19:18:46.324Z",
+      "resolved_at": null,
+      "message": "@Josh Berman \n\nThis will be \"nested\" along with the other sponsored suggestions in settings, yes?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5877:62298",
+        "node_offset": {
+          "x": 656,
+          "y": 475
+        },
+        "stable_path": [
+          "5877:62298"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "822935941",
+      "uuid": "4c4ae1fd-a9d8-4da6-b421-429c1bde384f",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-05-30T19:16:21.122Z",
+      "resolved_at": null,
+      "message": "@Josh Berman\n\nthe existing design feels like it's a bit too busy to include something like the \"related to [kw]\", yeah?\n\nI feel like it would help for those situations where the keyword they type doesn't show up in the product title",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5877:62298",
+        "node_offset": {
+          "x": 396,
+          "y": 462
+        },
+        "stable_path": [
+          "5877:62298"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "822932681",
+      "uuid": "badd1b23-497b-4086-bbdd-b69219831943",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-05-30T19:13:14.813Z",
+      "resolved_at": null,
+      "message": "@Josh Berman \n\nMy gut is a bit skeptical of the badge saying \"Trusted\"\n\nEspecially when \"Trusted\" is paired with an unfamiliar brand name.\n\nAdditionally, there are products with as little as 3 reviews (in the sample set)\n\nLastly, we're currently not very confident we can accurately match user search intent with what gets displayed here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5877:62298",
+        "node_offset": {
+          "x": 639,
+          "y": 452
+        },
+        "stable_path": [
+          "5877:62298"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "819704848",
+      "uuid": "28c4c571-c782-4a22-a3fd-ab08d2d0bb44",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-05-28T20:59:03.736Z",
+      "resolved_at": null,
+      "message": "Include a \"Learn more about Fakespot\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5715:3764",
+        "node_offset": {
+          "x": 109,
+          "y": 88
+        },
+        "stable_path": [
+          "5715:3764"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "819694772",
+      "uuid": "f529de84-162c-4178-a3c7-5d4c6c94de82",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-05-28T20:49:01.702Z",
+      "resolved_at": null,
+      "message": "Conversation with @Brent Trotter\n* Manage search settings always (anchor link to suggest settings)\n* Show less frequently - Keep, adjust character matching by 1 (4->5)\n* Not relevant - likely keep. \n* Not interested - doesnt work well in this context. What is the user not interested in? The product, the category, the vendor, the program?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5715:3764",
+        "node_offset": {
+          "x": 193,
+          "y": 101
+        },
+        "stable_path": [
+          "5715:3764"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "819436584",
+      "uuid": "b2c110dd-f408-4836-8e87-b551189b8ca8",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-05-28T17:05:18.318Z",
+      "resolved_at": null,
+      "message": "Can we apply categories to this? Or include a category or product type in a more prominent way?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5737:3421",
+        "node_offset": {
+          "x": 665,
+          "y": 174
+        },
+        "stable_path": [
+          "5737:3421"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "819371536",
+      "uuid": "7166ebfc-6b30-41ea-a02d-c31f89d680d5",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Nive Suresh",
+        "img_url": "https://www.gravatar.com/avatar/36848cb0307543418b98be186b364de6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1068409464198614486"
+      },
+      "created_at": "2024-05-28T16:14:59.995Z",
+      "resolved_at": null,
+      "message": "this wouldn't be possible outside amazon.com, correct? essentially with Scotch Bonnet, users can see this only when they're on Amazon.com. @Aaron Kim thoughts?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5696:3999",
+        "node_offset": {
+          "x": 766,
+          "y": 178
+        },
+        "stable_path": [
+          "5696:3999"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "816443962",
+      "uuid": "bb6b84d1-d221-48c8-a10f-78b065862c0b",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Nive Suresh",
+        "img_url": "https://www.gravatar.com/avatar/36848cb0307543418b98be186b364de6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1068409464198614486"
+      },
+      "created_at": "2024-05-24T22:30:26.785Z",
+      "resolved_at": null,
+      "message": "should we differentiate the vendor name somehow? at first glance, i couldn't find the difference between this and low value before I read the sticky that the vendor name isn't as prominent",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5700:6466",
+        "node_offset": {
+          "x": 939,
+          "y": 481
+        },
+        "stable_path": [
+          "5700:6466"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "816443259",
+      "uuid": "0885656c-ae43-4954-a737-f1ce0e5f9933",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Nive Suresh",
+        "img_url": "https://www.gravatar.com/avatar/36848cb0307543418b98be186b364de6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1068409464198614486"
+      },
+      "created_at": "2024-05-24T22:27:51.889Z",
+      "resolved_at": null,
+      "message": "depends a bit on the type of keywords we extract. in this case, it would be odd to suggest a particular type of configuration when someone just types \"best tv\". if they say `best 77\" tv` - that's a bit more specific and this may just work",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5696:3426",
+        "node_offset": {
+          "x": 170,
+          "y": 76
+        },
+        "stable_path": [
+          "5696:3426"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "814838605",
+      "uuid": "289094ab-8477-4f24-a891-2a8992c51381",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Will Rocklin",
+        "img_url": "https://www.gravatar.com/avatar/c33183eec669a162417f4400c0bb923d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_w_v2.png",
+        "id": "1273308432601654041"
+      },
+      "created_at": "2024-05-23T18:09:11.937Z",
+      "resolved_at": null,
+      "message": "@Josh Berman do you see a scenario where we'd show multiple vendors stacked, e.g. FS takes the 9th and 10th ordinals?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5772:3010",
+        "node_offset": {
+          "x": 460,
+          "y": 316
+        },
+        "stable_path": [
+          "5772:3010"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "814837970",
+      "uuid": "6d01b249-ac04-476a-9d1a-70ede1792c51",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Will Rocklin",
+        "img_url": "https://www.gravatar.com/avatar/c33183eec669a162417f4400c0bb923d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_w_v2.png",
+        "id": "1273308432601654041"
+      },
+      "created_at": "2024-05-23T18:08:38.889Z",
+      "resolved_at": null,
+      "message": "@Josh Berman my understanding is we can only show one provider at a time, so for the experiment branches, it'd only be FS. The control branch would show Wikipedia AFAIK",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5696:4165",
+        "node_offset": {
+          "x": 2454,
+          "y": 1821
+        },
+        "stable_path": [
+          "5696:4165"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "814837209",
+      "uuid": "20738cdd-8702-4725-be73-cd93aa80bf78",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Will Rocklin",
+        "img_url": "https://www.gravatar.com/avatar/c33183eec669a162417f4400c0bb923d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_w_v2.png",
+        "id": "1273308432601654041"
+      },
+      "created_at": "2024-05-23T18:07:55.665Z",
+      "resolved_at": null,
+      "message": "@Josh Berman plenty of taylor swift merch on Amazon so I don't think in actuality it'd look this off. In general, we should spot check these and use them to inform FTS improvements IMO",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5696:4480",
+        "node_offset": {
+          "x": 361,
+          "y": 418
+        },
+        "stable_path": [
+          "5696:4480"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "814833012",
+      "uuid": "b6e6d7ac-0cf6-43b0-81a0-d92d1dcd24cc",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Will Rocklin",
+        "img_url": "https://www.gravatar.com/avatar/c33183eec669a162417f4400c0bb923d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_w_v2.png",
+        "id": "1273308432601654041"
+      },
+      "created_at": "2024-05-23T18:03:55.142Z",
+      "resolved_at": null,
+      "message": "@Josh Berman this is out of scope for the project. We are gonna lean on what's already been built for RC. Date of 100% roll out for RC is TBD, but it could ship as early as June 11",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-05-24T14:41:06.153Z",
+          "user": {
+            "id": "1113937443180999805",
+            "handle": "Josh Berman",
+            "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "5712:3373",
+        "node_offset": {
+          "x": 222,
+          "y": 14
+        },
+        "stable_path": [
+          "5712:3373"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "814805607",
+      "uuid": "e9c3a0c5-0919-45d8-b940-e76c6e41cd6f",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Will Rocklin",
+        "img_url": "https://www.gravatar.com/avatar/c33183eec669a162417f4400c0bb923d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_w_v2.png",
+        "id": "1273308432601654041"
+      },
+      "created_at": "2024-05-23T17:41:07.380Z",
+      "resolved_at": null,
+      "message": "@Nive Suresh do you have data on how often users check this OFF?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5737:3422",
+        "node_offset": {
+          "x": 561,
+          "y": 541
+        },
+        "stable_path": [
+          "5737:3422"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "814804926",
+      "uuid": "0b683a4a-2f34-4774-ae22-cc787ca19604",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Will Rocklin",
+        "img_url": "https://www.gravatar.com/avatar/c33183eec669a162417f4400c0bb923d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_w_v2.png",
+        "id": "1273308432601654041"
+      },
+      "created_at": "2024-05-23T17:40:36.266Z",
+      "resolved_at": null,
+      "message": "@Josh Berman My sense is no on this. We should try to limit prevent users from taking detours from their shopping journeys.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-05-24T14:37:27.728Z",
+          "user": {
+            "id": "1113937443180999805",
+            "handle": "Josh Berman",
+            "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "5737:3421",
+        "node_offset": {
+          "x": 941,
+          "y": 493
+        },
+        "stable_path": [
+          "5737:3421"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "814802686",
+      "uuid": "5a4baae6-ef89-4dad-af9c-392cc960a277",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Will Rocklin",
+        "img_url": "https://www.gravatar.com/avatar/c33183eec669a162417f4400c0bb923d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_w_v2.png",
+        "id": "1273308432601654041"
+      },
+      "created_at": "2024-05-23T17:38:46.025Z",
+      "resolved_at": null,
+      "message": "@Josh Berman I assume we are still defining this with @Joe McBride @Stafford Brooke and @Wil Stuckey ya?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5737:3421",
+        "node_offset": {
+          "x": 773,
+          "y": 61
+        },
+        "stable_path": [
+          "5737:3421"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "814799145",
+      "uuid": "1f5d50ec-0bff-4688-9462-2569b6eadbee",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Will Rocklin",
+        "img_url": "https://www.gravatar.com/avatar/c33183eec669a162417f4400c0bb923d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_w_v2.png",
+        "id": "1273308432601654041"
+      },
+      "created_at": "2024-05-23T17:35:57.867Z",
+      "resolved_at": null,
+      "message": "@Josh Berman Are these stars the Amazon rating or the FS rating? The N of reviews can change at any moment and we will not be able to keep pace with that with the current experiment limitations. Are you cool with that? One option would be to caveat the number, e.g ~175 reviews or 175+ reviews or if we wanted to get cheeky (and I doubt it!) 175ish",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5737:3421",
+        "node_offset": {
+          "x": 494,
+          "y": 373
+        },
+        "stable_path": [
+          "5737:3421"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "814796952",
+      "uuid": "e3d48159-8818-4980-868a-fc32dcfeb7b4",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Will Rocklin",
+        "img_url": "https://www.gravatar.com/avatar/c33183eec669a162417f4400c0bb923d?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_w_v2.png",
+        "id": "1273308432601654041"
+      },
+      "created_at": "2024-05-23T17:34:04.085Z",
+      "resolved_at": null,
+      "message": "@Josh Berman I might suggest giving us a few examples to look at - one with short titles, one with a long title, and maybe something other variable (language or something cheap like a box of nails for $4) to make sure this feels right",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5541:2981",
+        "node_offset": {
+          "x": 1316,
+          "y": 91
+        },
+        "stable_path": [
+          "5541:2981"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "813081202",
+      "uuid": "7cdcb848-1dd9-4efb-8e64-49ee0e4ff5a4",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-05-22T17:06:50.647Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter not sure our previously existing pattern works here. Not sure why, but something about this context menu in this context is bugging me",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5715:3625",
+        "node_offset": {
+          "x": 573,
+          "y": 302
+        },
+        "stable_path": [
+          "5715:3625"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "799779071",
+      "uuid": "2633e672-6b80-44a7-9b77-d74e4082838f",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Joe McBride",
+        "img_url": "https://www.gravatar.com/avatar/cd07b7a986954ea308c3e3323f5f0dbb?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1264234813507229943"
+      },
+      "created_at": "2024-05-10T20:46:43.584Z",
+      "resolved_at": null,
+      "message": "What would an example of an attribute be?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5593:6980",
+        "node_offset": {
+          "x": 165,
+          "y": 164
+        },
+        "stable_path": [
+          "5593:6980"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "799764042",
+      "uuid": "87966720-546d-425c-ac1a-3026abe1de73",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-05-10T20:25:28.193Z",
+      "resolved_at": null,
+      "message": "flag some risks\n* products might be in the wrong category\n* how to remove the right data (e.g. prepositions)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5595:1209",
+        "node_offset": {
+          "x": 1009,
+          "y": 1906
+        },
+        "stable_path": [
+          "5595:1209"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "799763862",
+      "uuid": "c32c22b7-a4f7-4864-9ad7-89efb275fade",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-05-10T20:25:13.647Z",
+      "resolved_at": null,
+      "message": "create sample output result",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5595:1212",
+        "node_offset": {
+          "x": 1234,
+          "y": 101
+        },
+        "stable_path": [
+          "5595:1212"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "799763543",
+      "uuid": "d6c0eceb-2d5b-4a9d-81a6-d017218b6f15",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-05-10T20:24:50.777Z",
+      "resolved_at": null,
+      "message": "create sample prompt by category",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5595:1211",
+        "node_offset": {
+          "x": 1267,
+          "y": 143
+        },
+        "stable_path": [
+          "5595:1211"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "799763285",
+      "uuid": "ee547a0d-b9ae-4bbb-8636-11d342039cc6",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-05-10T20:24:29.304Z",
+      "resolved_at": null,
+      "message": "create sample \"template\" by category",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5595:1211",
+        "node_offset": {
+          "x": 1268,
+          "y": 85
+        },
+        "stable_path": [
+          "5595:1211"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "799640124",
+      "uuid": "61268dfc-530c-43e9-9dfa-85619b2ffad3",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Nive Suresh",
+        "img_url": "https://www.gravatar.com/avatar/36848cb0307543418b98be186b364de6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1068409464198614486"
+      },
+      "created_at": "2024-05-10T17:58:08.097Z",
+      "resolved_at": null,
+      "message": "so are you thinking about having a carousel of results when there are multiple vendors?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5549:3452",
+        "node_offset": {
+          "x": 212,
+          "y": 67
+        },
+        "stable_path": [
+          "5549:3452"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "799637111",
+      "uuid": "fa650523-9503-4117-89e6-f2359b8eaa03",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Nive Suresh",
+        "img_url": "https://www.gravatar.com/avatar/36848cb0307543418b98be186b364de6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1068409464198614486"
+      },
+      "created_at": "2024-05-10T17:54:57.273Z",
+      "resolved_at": null,
+      "message": "this is without Fakespot right?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5470:2418",
+        "node_offset": {
+          "x": 488,
+          "y": 1017.5000000000005
+        },
+        "stable_path": [
+          "5470:2418"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "799631186",
+      "uuid": "142892bc-e077-4d9f-bd38-faf7089d31dd",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Nive Suresh",
+        "img_url": "https://www.gravatar.com/avatar/36848cb0307543418b98be186b364de6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1068409464198614486"
+      },
+      "created_at": "2024-05-10T17:48:41.768Z",
+      "resolved_at": null,
+      "message": "does this mean they search for multiple items or they see multiple items for the same query? can't understand the steps between this and \"navigate to amazon\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5382:1370",
+        "node_offset": {
+          "x": 123,
+          "y": 116
+        },
+        "stable_path": [
+          "5382:1370"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "798520647",
+      "uuid": "a9341b37-4db3-4284-bb2c-149eaf326371",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Vladimir Stepanov",
+        "img_url": "https://www.gravatar.com/avatar/90e9ebf61319ca0a7a27b1f6693b2ecf?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "1242615324713569230"
+      },
+      "created_at": "2024-05-09T20:29:13.668Z",
+      "resolved_at": null,
+      "message": "This step usually includes a lot of reviews reading for each item type. It's time consuming.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5470:2418",
+        "node_offset": {
+          "x": 798,
+          "y": 714.5000000000005
+        },
+        "stable_path": [
+          "5470:2418"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "798506572",
+      "uuid": "893d9556-b569-4980-b643-1fbea50dbd7b",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Vladimir Stepanov",
+        "img_url": "https://www.gravatar.com/avatar/90e9ebf61319ca0a7a27b1f6693b2ecf?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "1242615324713569230"
+      },
+      "created_at": "2024-05-09T20:15:20.091Z",
+      "resolved_at": null,
+      "message": "I usually first try to find a known brand from the suggested list, and after that look into a combination of a price and total reviews (to get users feedback)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5382:1582",
+        "node_offset": {
+          "x": 34,
+          "y": 37
+        },
+        "stable_path": [
+          "5382:1582"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "798294345",
+      "uuid": "96b30702-ab80-4d93-866d-bb04e31eae0d",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-05-09T17:03:59.255Z",
+      "resolved_at": null,
+      "message": "@Stafford Brooke How does pricing work? Like does every result have an associated price? Or a range? What if there are multiple sizes of an item and cost is different for each?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4903:29531",
+        "node_offset": {
+          "x": 768,
+          "y": 95
+        },
+        "stable_path": [
+          "4903:29531"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "798288528",
+      "uuid": "3dc497b6-d9ea-4ebc-9f26-72071318b261",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-05-09T16:58:48.802Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter @Stafford Brooke do you think some of these items have a long and a short name?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5549:3492",
+        "node_offset": {
+          "x": 36,
+          "y": 90
+        },
+        "stable_path": [
+          "5549:3492"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "798279442",
+      "uuid": "e609010b-a4a3-4ae1-ba79-4206085ff0fe",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-05-09T16:51:14.884Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter does this make sense from an information / content POV?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4903:29531",
+        "node_offset": {
+          "x": 2201,
+          "y": 2137
+        },
+        "stable_path": [
+          "4903:29531"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "798197542",
+      "uuid": "6ab67db1-cac9-4186-ac8c-6da499afd8f6",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Joe McBride",
+        "img_url": "https://www.gravatar.com/avatar/cd07b7a986954ea308c3e3323f5f0dbb?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1264234813507229943"
+      },
+      "created_at": "2024-05-09T15:44:47.485Z",
+      "resolved_at": null,
+      "message": "A sneaky trick I've found for higher dollar items is to search for coupons on reddit and google.  I saved 100s on a recent purchase of the eight sleep.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5382:758",
+        "node_offset": {
+          "x": 685,
+          "y": 540
+        },
+        "stable_path": [
+          "5382:758"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "798196340",
+      "uuid": "b21ef5f0-fd4e-4129-b411-da8d6e33084e",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Joe McBride",
+        "img_url": "https://www.gravatar.com/avatar/cd07b7a986954ea308c3e3323f5f0dbb?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1264234813507229943"
+      },
+      "created_at": "2024-05-09T15:43:52.742Z",
+      "resolved_at": null,
+      "message": "I spent time on reddit to understand the mattress toppers that were out there.  It is difficult to know which performance features I cared about. Getting perspective on Reddit educated me on the major choices available.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5382:756",
+        "node_offset": {
+          "x": 569,
+          "y": 529
+        },
+        "stable_path": [
+          "5382:756"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "798193044",
+      "uuid": "1f6e19aa-6f69-4e9a-b9d7-6ade5f8f118f",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Joe McBride",
+        "img_url": "https://www.gravatar.com/avatar/cd07b7a986954ea308c3e3323f5f0dbb?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1264234813507229943"
+      },
+      "created_at": "2024-05-09T15:41:23.907Z",
+      "resolved_at": null,
+      "message": "Maybe we can detect that a user came to the page and provide additional features through review checker. That, or simply get ads/alternative products right.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5502:2809",
+        "node_offset": {
+          "x": 143,
+          "y": 79
+        },
+        "stable_path": [
+          "5502:2809"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "798191207",
+      "uuid": "2f0727da-db1f-4c70-9916-83c8321133e9",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Joe McBride",
+        "img_url": "https://www.gravatar.com/avatar/cd07b7a986954ea308c3e3323f5f0dbb?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1264234813507229943"
+      },
+      "created_at": "2024-05-09T15:40:00.134Z",
+      "resolved_at": null,
+      "message": "Having recently purchased a talalal latex mattress topper, I also found it difficult to decide where to it from. There was Amazon, but there were also several other independent sellers. These folks even manufactured their own variation.  It was difficult to determine if they were legit and trustworthy sellers. The amazon return and shipping policies are difficult to ignore in the process, but I ultimately went with a non amazon listed product because amazon did not have the specific material I wanted. \n\nIt was scary and annoying to send my money to the little guy.  There shopping kart/purchase process was cumbersome.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5470:2336",
+        "node_offset": {
+          "x": 50,
+          "y": 83
+        },
+        "stable_path": [
+          "5470:2336"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "798180604",
+      "uuid": "993605a3-4796-4e58-8de4-56931d0d774c",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Joe McBride",
+        "img_url": "https://www.gravatar.com/avatar/cd07b7a986954ea308c3e3323f5f0dbb?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1264234813507229943"
+      },
+      "created_at": "2024-05-09T15:32:06.655Z",
+      "resolved_at": null,
+      "message": "Before I started using Fakespot, I was less likely to scan the review for a cheap item.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5382:1834",
+        "node_offset": {
+          "x": 98,
+          "y": 399.5
+        },
+        "stable_path": [
+          "5382:1834"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "798178121",
+      "uuid": "ac4d61cf-c36a-4560-8857-82a41f539a18",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Joe McBride",
+        "img_url": "https://www.gravatar.com/avatar/cd07b7a986954ea308c3e3323f5f0dbb?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1264234813507229943"
+      },
+      "created_at": "2024-05-09T15:30:15.159Z",
+      "resolved_at": null,
+      "message": "I usually look at a combo of the number of reviews, star rating and price",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5382:1582",
+        "node_offset": {
+          "x": 164,
+          "y": 74
+        },
+        "stable_path": [
+          "5382:1582"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "797125978",
+      "uuid": "4b3bdb61-08b1-4153-8819-8fb54014ab58",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-05-08T20:05:00.277Z",
+      "resolved_at": null,
+      "message": "Hypothesis: When a user makes a high value product search without appending terms like \"review\" they are likely to be ready to purchase.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5382:733",
+        "node_offset": {
+          "x": 4984,
+          "y": 1249
+        },
+        "stable_path": [
+          "5382:733"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "797122428",
+      "uuid": "b751d48d-34ae-4529-8441-3a4cd292d3bc",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-05-08T20:01:18.926Z",
+      "resolved_at": null,
+      "message": "Hypothesis: For high cost items, customer reviews are necessary but not sufficient to make users comfortable with a purchase",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5470:2403",
+        "node_offset": {
+          "x": 310,
+          "y": 117
+        },
+        "stable_path": [
+          "5470:2403"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "797118748",
+      "uuid": "3fb31c77-b86c-4745-89d6-788d6b3bd5e3",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-05-08T19:57:50.589Z",
+      "resolved_at": null,
+      "message": "Hypothesis: CTAs will be low for FS interventions on high cost products when prefixes like \"best\" or \"top\" are appended to the product category in search query.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2024-05-10T17:54:02.746Z",
+          "user": {
+            "id": "1068409464198614486",
+            "handle": "Nive Suresh",
+            "img_url": "https://www.gravatar.com/avatar/36848cb0307543418b98be186b364de6?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "5503:2870",
+        "node_offset": {
+          "x": 387,
+          "y": 324
+        },
+        "stable_path": [
+          "5503:2870"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "797116988",
+      "uuid": "c2234893-b59d-48b5-a7b3-fe4e09b3cc7e",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-05-08T19:56:10.463Z",
+      "resolved_at": null,
+      "message": "Hypothesis: Even for low cost items, users want to do some cursory browsing for pricing and aesthetics.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5382:1744",
+        "node_offset": {
+          "x": 12,
+          "y": 140
+        },
+        "stable_path": [
+          "5382:1744"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "797115241",
+      "uuid": "959e5fa7-be84-452f-b786-1a39538b06fc",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-05-08T19:54:31.811Z",
+      "resolved_at": null,
+      "message": "This fakespot intervention to improve opt-in needs to be non-invasive so as to let the user complete their primary task without engaging with this opt-in",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5382:1866",
+        "node_offset": {
+          "x": 197,
+          "y": 59
+        },
+        "stable_path": [
+          "5382:1866"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "797114315",
+      "uuid": "d5759df7-977b-426b-8cb8-049ae2007730",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-05-08T19:53:41.899Z",
+      "resolved_at": null,
+      "message": "Hypothesis: When a user appends Amazon to a search, they would rather go directly to a relevant product page than leverage a quick action to search with Amazon.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5382:1243",
+        "node_offset": {
+          "x": 228,
+          "y": 46
+        },
+        "stable_path": [
+          "5382:1243"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "797113474",
+      "uuid": "dd970cc3-a5d2-469d-8e8c-5f2c3c7d6f68",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-05-08T19:52:55.185Z",
+      "resolved_at": null,
+      "message": "Hypothesis: CTRs on general low cost item searches (\"eraser\") will be relatively high",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4903:29531",
+        "node_offset": {
+          "x": 2267,
+          "y": 1621
+        },
+        "stable_path": [
+          "4903:29531"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "797112314",
+      "uuid": "cdf91d31-3b21-46c5-b8f8-ca9156e3e450",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-05-08T19:51:50.563Z",
+      "resolved_at": null,
+      "message": "Hypothesis: We will see a higher CTA when a user makes a category search for a low cost item (\"best eraser\") vs a high cost item (\"best tv\")",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5382:1259",
+        "node_offset": {
+          "x": 266,
+          "y": 38
+        },
+        "stable_path": [
+          "5382:1259"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "860413233",
+      "uuid": "8e283c17-030b-4c1d-a4e1-b829bf5ace2f",
+      "file_key": "sozFWajAq8Zd3O1uvJ82VL",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-07-02T18:19:42.151Z",
+      "resolved_at": null,
+      "message": "@Josh Berman could you please add here an (orange) landmark so we could make sure this is either a live region (probably not since the URL bar itself is live) or that when the content is changed:\n1. the focus is placed to the \"Got it\" button, while\n2. this button is included in the group with label from the static text on the left hand side of the button - this would be announced then after the button's accessible name too\nMaking sure the change in context is made known to assistive tech users.\n\nAdding: the landmark would include both the Fx logo + TY text + Got it button",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6972:10492",
+        "node_offset": {
+          "x": 493,
+          "y": 25
+        },
+        "stable_path": [
+          "6972:10492"
+        ]
+      },
+      "order_id": "84"
+    }
+  ]
+}

@@ -1,0 +1,1174 @@
+{
+  "unresolved": [
+    {
+      "id": "1537603425",
+      "uuid": "385788f7-9ed3-4098-9638-82d536bac774",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-12-01T16:52:31.409Z",
+      "resolved_at": null,
+      "message": "@Petru Lingurar here's a tiny toolbar to put on top of the keyboard, you think that could work? Would we also use this for top toolbar? TY",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "15356:17687",
+        "node_offset": {
+          "x": 286,
+          "y": 469
+        },
+        "stable_path": [
+          "15356:17687"
+        ]
+      },
+      "order_id": "101"
+    },
+    {
+      "id": "1428656567",
+      "uuid": "baa1f50e-0a61-4c5b-80c4-e22e751bb717",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-09-16T19:48:41.807Z",
+      "resolved_at": null,
+      "message": "@Roger Yang is anything missing from the customize options?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "13867:9467",
+        "node_offset": {
+          "x": 153,
+          "y": 131
+        },
+        "stable_path": [
+          "13867:9467"
+        ]
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "1359164330",
+      "uuid": "e2216a7b-963a-49c3-8b67-8f18a147fb02",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Petru Lingurar",
+        "img_url": "https://www.gravatar.com/avatar/8f83425cec0f55ea34d5fd519e505742?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "897718176023977647"
+      },
+      "created_at": "2025-07-29T06:58:37.882Z",
+      "resolved_at": null,
+      "message": "Just a note that this button is about more than just the security of the page.\nCurrently we'd read: \"Site information. Button. Double-tap to activate\"\nI see Chrome reading \"Connection is secure. View site information. Double tap to view site information\"\nDo we want to move to the simpler form of just saying \"Shield - Secure connection\" and not say that this button also provides more site information/settings?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8891:8471",
+        "node_offset": {
+          "x": 162,
+          "y": 47
+        },
+        "stable_path": [
+          "8891:8471"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "1359156449",
+      "uuid": "4cb62aba-e899-46b9-a83b-f8b08bdffde0",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Petru Lingurar",
+        "img_url": "https://www.gravatar.com/avatar/8f83425cec0f55ea34d5fd519e505742?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "897718176023977647"
+      },
+      "created_at": "2025-07-29T06:53:56.545Z",
+      "resolved_at": null,
+      "message": "The URL is not a text field but an editable.\nCurrently we'd read: \"theverge.com. Search or enter address\".\nDo we want to move away from this to support only reading the url?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8891:8472",
+        "node_offset": {
+          "x": 116,
+          "y": 77
+        },
+        "stable_path": [
+          "8891:8472"
+        ]
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "1359153405",
+      "uuid": "409ebbe4-52ab-4877-a3f2-aa6f98865b0d",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Petru Lingurar",
+        "img_url": "https://www.gravatar.com/avatar/8f83425cec0f55ea34d5fd519e505742?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "897718176023977647"
+      },
+      "created_at": "2025-07-29T06:52:03.781Z",
+      "resolved_at": null,
+      "message": "Wanted to check on this since I think the current description (\"Non-private tab open: 3. Tap to switch tabs\") is more useful.\nDo we want to move off of that to this simpler form?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8891:8474",
+        "node_offset": {
+          "x": 71,
+          "y": 48
+        },
+        "stable_path": [
+          "8891:8474"
+        ]
+      },
+      "order_id": "94"
+    },
+    {
+      "id": "1352165601",
+      "uuid": "c325f193-52f3-4574-bb0d-fa992187a21e",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Crystal Wong",
+        "img_url": "https://s3-alpha.figma.com/profile/b5db92da-625e-4cac-a442-1108428197be",
+        "id": "997882185557217931"
+      },
+      "created_at": "2025-07-23T13:42:10.094Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber, sorry one more Q! I notice we're not using the surfaceLow and surfaceMedium combo here as we do on the menu. Is that intentional or do we want them to use the same layers?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8306:9533",
+        "node_offset": {
+          "x": 752,
+          "y": 51
+        },
+        "stable_path": [
+          "8306:9533"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "1352153254",
+      "uuid": "8ef0886f-b274-4b38-b6bf-55e308b4b2af",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Crystal Wong",
+        "img_url": "https://s3-alpha.figma.com/profile/b5db92da-625e-4cac-a442-1108428197be",
+        "id": "997882185557217931"
+      },
+      "created_at": "2025-07-23T13:36:51.120Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber what state is this address bar and should it be included in the library?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8306:9533",
+        "node_offset": {
+          "x": 356,
+          "y": 429
+        },
+        "stable_path": [
+          "8306:9533"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "1350168698",
+      "uuid": "a7c0dee9-4ffa-48ff-9303-2f94dcea9481",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Winnie Teichmann",
+        "img_url": "https://www.gravatar.com/avatar/9863d981df5abc4333d3c645753e7378?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_w_v2.png",
+        "id": "1116457205307509693"
+      },
+      "created_at": "2025-07-22T13:53:25.613Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber should the color also be changed on iPhone in landscape or only in portrait?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10152:11091",
+        "node_offset": {
+          "x": 383,
+          "y": 78
+        },
+        "stable_path": [
+          "10152:11091"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "1346425346",
+      "uuid": "3ce1caa8-570b-4c3b-9bc2-fc84ed7eda2d",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-07-18T16:48:31.831Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber Does translation icon come back in expanded view?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8541:14208",
+        "node_offset": {
+          "x": 356,
+          "y": 65
+        },
+        "stable_path": [
+          "8541:14208"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "1342305255",
+      "uuid": "e9a5e5ef-de50-471f-a808-3f3de2ff6ac3",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-07-16T13:19:59.989Z",
+      "resolved_at": null,
+      "message": "@Winnie Teichmann is it possible to define the touch target to go beyond the darker search box?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8256:3252",
+        "node_offset": {
+          "x": 32,
+          "y": 77
+        },
+        "stable_path": [
+          "8256:3252"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "1319778587",
+      "uuid": "927074f4-43c9-4876-a029-2fe225bf5a7f",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Petru Lingurar",
+        "img_url": "https://www.gravatar.com/avatar/8f83425cec0f55ea34d5fd519e505742?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "897718176023977647"
+      },
+      "created_at": "2025-06-30T15:30:53.334Z",
+      "resolved_at": null,
+      "message": "I see that the top toolbar is set to have a 64dp height and the navbar a 60dp height.\nWanted to double check this since both values are bigger than what we had before.\n\nCurrently the toolbar has a 56dp height and the previous navbar had a 48dp height.\n\n@Nicole Weber Do we want to still use different heights but bigger or could we have both the toolbar and the navbar have 56dp height?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8541:14208",
+        "node_offset": {
+          "x": 392,
+          "y": 854
+        },
+        "stable_path": [
+          "8541:14208"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "1319477734",
+      "uuid": "7cd81f00-6adf-4597-9121-87a7407322c6",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Roger Yang",
+        "img_url": "https://s3-alpha.figma.com/profile/f9ca1e99-067b-4f91-84bf-d017c52e1a0e",
+        "id": "873074543766700749"
+      },
+      "created_at": "2025-06-30T12:57:15.501Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber Do we hide the navigation bar when user is typing in the address bar?  I suggest that we keep the navigation bar shown so the user always have access to the navigation bar buttons.  However, the vertical space could be a problem.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9500:15128",
+        "node_offset": {
+          "x": 381,
+          "y": 793
+        },
+        "stable_path": [
+          "9500:15128"
+        ]
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "1281055373",
+      "uuid": "c495a4b8-9639-4f6f-9228-fab3f2920f61",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-06-02T07:49:00.334Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong @Maggie Atkinson do we have an 'official' way to badge the menu icon? as a component or something? Or should I just place it like this in the handoff? TY",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10660:9557",
+        "node_offset": {
+          "x": 366,
+          "y": 57
+        },
+        "stable_path": [
+          "10660:9557"
+        ]
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "1269206429",
+      "uuid": "9d3167d1-6688-454b-a992-cc2352136d05",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Roger Yang",
+        "img_url": "https://s3-alpha.figma.com/profile/f9ca1e99-067b-4f91-84bf-d017c52e1a0e",
+        "id": "873074543766700749"
+      },
+      "created_at": "2025-05-22T21:57:09.797Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber are we sure we don't want to respect user's choice in the customize menu?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9506:8558",
+        "node_offset": {
+          "x": 302,
+          "y": 60
+        },
+        "stable_path": [
+          "9506:8558"
+        ]
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "1268939023",
+      "uuid": "0e44a646-6eda-45b9-8762-89b075185cbc",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Roger Yang",
+        "img_url": "https://s3-alpha.figma.com/profile/f9ca1e99-067b-4f91-84bf-d017c52e1a0e",
+        "id": "873074543766700749"
+      },
+      "created_at": "2025-05-22T18:09:09.502Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber, Is this divider line suppose to be here? Or does the order of the shortcut options is always the same?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8335:8832",
+        "node_offset": {
+          "x": 4039,
+          "y": 844
+        },
+        "stable_path": [
+          "8335:8832"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1264220373",
+      "uuid": "ee1ea06e-fa58-444a-9b08-1c3ff1f57d71",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Crystal Wong",
+        "img_url": "https://s3-alpha.figma.com/profile/b5db92da-625e-4cac-a442-1108428197be",
+        "id": "997882185557217931"
+      },
+      "created_at": "2025-05-20T12:56:21.510Z",
+      "resolved_at": null,
+      "message": "Hi @Nicole Weber, curious will this address bar color on Android be white as well like on iOS? Or is it staying grey? Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10208:9510",
+        "node_offset": {
+          "x": 200,
+          "y": 61
+        },
+        "stable_path": [
+          "10208:9510"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1260657005",
+      "uuid": "a641b564-2d55-4841-bc37-25f07f5c5881",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Andres Furlan",
+        "img_url": "https://www.gravatar.com/avatar/9099d2b2209543f33542d5ed1ea1405b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1298294506515844534"
+      },
+      "created_at": "2025-05-16T20:26:05.124Z",
+      "resolved_at": null,
+      "message": "Need dark mode colors and private mode",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10152:10275",
+        "node_offset": {
+          "x": 263,
+          "y": 105
+        },
+        "stable_path": [
+          "10152:10275"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "1260656792",
+      "uuid": "8faa85f9-2510-401a-b8ad-b87b68c7a56e",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Andres Furlan",
+        "img_url": "https://www.gravatar.com/avatar/9099d2b2209543f33542d5ed1ea1405b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1298294506515844534"
+      },
+      "created_at": "2025-05-16T20:25:51.647Z",
+      "resolved_at": null,
+      "message": "What is the functionality of the search icon there @Nicole Weber ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10152:10611",
+        "node_offset": {
+          "x": 420,
+          "y": 129
+        },
+        "stable_path": [
+          "10152:10611"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "1246889308",
+      "uuid": "dd4c380e-f4a3-4e85-baed-63de75a8461c",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-05-07T15:54:31.314Z",
+      "resolved_at": null,
+      "message": "Note for L10N - in RTL locales, the instructions to find tabs on the right needs to change to indicate that tabs can be found on the left.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8256:2316",
+        "node_offset": {
+          "x": 62,
+          "y": 4268
+        },
+        "stable_path": [
+          "8256:2316"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "1246582877",
+      "uuid": "25c3b8fd-03df-4a44-b301-09b55ca720b6",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Andres Furlan",
+        "img_url": "https://www.gravatar.com/avatar/9099d2b2209543f33542d5ed1ea1405b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1298294506515844534"
+      },
+      "created_at": "2025-05-07T13:32:15.701Z",
+      "resolved_at": null,
+      "message": "@Rick Russie @Nicole Weber we need to review the colors here and the shadow that you wanted. Also, we need color codes from the design system (not hex)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8256:2589",
+        "node_offset": {
+          "x": 201,
+          "y": 525
+        },
+        "stable_path": [
+          "8256:2589"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "1240351994",
+      "uuid": "32a5b3f0-3d8d-477f-a5fc-2776e64bb594",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-05-01T23:11:12.410Z",
+      "resolved_at": null,
+      "message": "Looks good:+1:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9728:3500",
+        "node_offset": {
+          "x": 343,
+          "y": 664
+        },
+        "stable_path": [
+          "9728:3500"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1240325649",
+      "uuid": "83f0cb4f-57b1-4d82-9440-e24a9c3f8d1f",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-05-01T22:18:03.596Z",
+      "resolved_at": null,
+      "message": "Hey @Jeff Pfaller can you pls help firm up the text for this string? Thanks cc @Eduardo Feo",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9716:27611",
+        "node_offset": {
+          "x": 486,
+          "y": 755
+        },
+        "stable_path": [
+          "9716:27611"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "1237140698",
+      "uuid": "157975a5-464f-4ae1-b549-4cbff8c28860",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Rick Russie",
+        "img_url": "https://s3-alpha.figma.com/profile/1dc52e8f-9d10-4da2-bc70-7f851ad13194",
+        "id": "932288466684909710"
+      },
+      "created_at": "2025-04-29T18:46:47.405Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber how do we want to handle multiple + buttons if user edits this?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9508:23356",
+        "node_offset": {
+          "x": 778,
+          "y": 112
+        },
+        "stable_path": [
+          "9508:23356"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1234051399",
+      "uuid": "6335b432-7fd6-407d-bd62-ac17b76aabe4",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-04-28T07:48:56.491Z",
+      "resolved_at": null,
+      "message": "@Rick Russie building on what you have on the left, what you think about making it a tiny bit bigger and tilting the top one a little to the left?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8300:3371",
+        "node_offset": {
+          "x": 2705,
+          "y": 461
+        },
+        "stable_path": [
+          "8300:3371"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1216481722",
+      "uuid": "f33d9165-7b3e-455c-a04f-b495dd855721",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Rick Russie",
+        "img_url": "https://s3-alpha.figma.com/profile/1dc52e8f-9d10-4da2-bc70-7f851ad13194",
+        "id": "932288466684909710"
+      },
+      "created_at": "2025-04-14T19:09:23.999Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber wanted to confirm, are we doing a bottom bar option for iPad or just top? I see @Christopher Logan has bottom bar options in his hnt file.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8256:3577",
+        "node_offset": {
+          "x": 557.0000325212729,
+          "y": 44.000049525002396
+        },
+        "stable_path": [
+          "8256:3577"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1206134391",
+      "uuid": "92db703a-2304-4395-bcbc-55a63ad5ef37",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Channing Bell",
+        "img_url": "https://www.gravatar.com/avatar/316105b10feb492c88800d6878e73ec0?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_c_v2.png",
+        "id": "942137081198568051"
+      },
+      "created_at": "2025-04-07T16:24:31.371Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber Isn't this the fly out search engine that we are leaving out as part of phase 1?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9271:14194",
+        "node_offset": {
+          "x": 1533,
+          "y": 382
+        },
+        "stable_path": [
+          "9271:14194"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1205055675",
+      "uuid": "6f51fb44-ea30-4d67-b708-e9ae2979db1b",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-04-07T06:43:43.808Z",
+      "resolved_at": null,
+      "message": "@Channing Bell @Roger Yang @Zac McKenney I also added a version for foldable here -- this still needs some more definition especially how it works with the various combinations (toolbar top/bottom, compact/extended) and I'll add that. But let me know if you have some initial thoughts, especially around how to keep it simple for phase 1. TY",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9271:14818",
+        "node_offset": {
+          "x": 1869,
+          "y": 242
+        },
+        "stable_path": [
+          "9271:14818"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1205052479",
+      "uuid": "9cf93a32-18d3-4dee-903b-87e90a3ad94d",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-04-07T06:41:13.418Z",
+      "resolved_at": null,
+      "message": "@Channing Bell @Roger Yang @Zac McKenney I started to create a dedicated page for phase 1 of the toolbar work and removed the following: \n* new quick search switcher (the fly-out menu to switch to other search engines for a one off search)\n* the option to select a toolbar shortcut in settings, and\n* the clearing of the address and offering the current URL as card below with options to share, copy, edit -- once you select the adressbar field and the keyboard pops up (similar to what chromium browsers do)\n\nLet me know if you see anything here, that should rather be in phase 2 or if anything is missing, thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9271:14195",
+        "node_offset": {
+          "x": 355,
+          "y": 260
+        },
+        "stable_path": [
+          "9271:14195"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1202620345",
+      "uuid": "72634581-4e4f-4753-b5e4-0ca95c2d2d36",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2025-04-03T21:02:28.025Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber  @Rick Russie  we were looking at this and are wondering why there are 2 search bars here",
+      "reactions": [
+        {
+          "emoji": ":eyes:",
+          "created_at": "2025-04-03T21:35:39.160Z",
+          "user": {
+            "id": "1441180334482577951",
+            "handle": "Anthony Keane",
+            "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8111:5789",
+        "node_offset": {
+          "x": 193,
+          "y": 421
+        },
+        "stable_path": [
+          "8111:5789"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1196743578",
+      "uuid": "1c2cb54f-2f87-427f-982a-9d8fcb635403",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-31T19:29:19.622Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber could you wrap the items E-I in another orange container without a Name but with \"Role: Toolbar\", please? The Firefox iOS is missing it in the release too",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8155:28862",
+        "node_offset": {
+          "x": 266,
+          "y": 67
+        },
+        "stable_path": [
+          "8155:28862"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1196740884",
+      "uuid": "199d6996-2380-4f57-a26d-0960b6597377",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-31T19:27:13.528Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber an enhancement may be to include \"Add\" in the name: \"Add New Tab\", since the on-screen label is \"+\" which is often guessed as \"add\".",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-2:",
+          "created_at": "2025-04-03T11:33:08.617Z",
+          "user": {
+            "id": "862656244535756550",
+            "handle": "Nicole Weber",
+            "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8155:28892",
+        "node_offset": {
+          "x": 206,
+          "y": 51
+        },
+        "stable_path": [
+          "8155:28892"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1196728843",
+      "uuid": "e0c61264-e5c1-4945-8c16-601da91f52cf",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-31T19:17:49.730Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber we could use the \"Name\" field for an accessible label for the field (while the URL in it would be a \"value\" and would still be announced). What is shown when there is nothing entered in the URL bar? options that come to mind:\n1. We could use this string as a \"Name\": i.e. on-screen placeholder is \"Search or enter an address\" - it would be a name and a VoiceOver would announce the URL bar from the example here as: \"Search or enter an address, theverge dot com, Text field\". - I like this is visible on-screen at some point, but it's long\n2. Safari uses \"Address\" as a \"Name\" and the example would be announced as \"Address, theverge dot com, Text field\" - I like that it's short\n3. We could use \"URL\" as a name too: \"URL, theverge dot com, Text field\" - it may be too technical for some users (I am not a context designer though, I do not know how familiar users are with this term)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8155:28940",
+        "node_offset": {
+          "x": 178,
+          "y": 40
+        },
+        "stable_path": [
+          "8155:28940"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1196723694",
+      "uuid": "02fceb06-8c4a-489e-9a55-363e5e57aa9c",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-31T19:13:49.800Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber a screen reader would announce it as \"Shield secure connection\". I am not sure \"shield\" word is adding information here, but since it's not a control (we cannot tap it to open a dialog, right?) it is not required by WCAG 2.2 to include it as a visual label at the beginning of the textual alternative. Trying to say that \"Shield secure connection\" would be equally accessible as \"Secure connection\" for this image.\n\nAlso, could you please add \"Role: Image\" in the note here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8155:28832",
+        "node_offset": {
+          "x": 303,
+          "y": 57
+        },
+        "stable_path": [
+          "8155:28832"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1162518553",
+      "uuid": "c1b2d35c-b561-47dc-af61-db85fbac8f27",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Andres Furlan",
+        "img_url": "https://www.gravatar.com/avatar/9099d2b2209543f33542d5ed1ea1405b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1298294506515844534"
+      },
+      "created_at": "2025-03-06T22:18:42.722Z",
+      "resolved_at": null,
+      "message": "Can we do the tab preview for 138?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8256:2484",
+        "node_offset": {
+          "x": 360,
+          "y": 793
+        },
+        "stable_path": [
+          "8256:2484"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1162188220",
+      "uuid": "3a2683c0-3eb9-4880-8cee-874ad8e4bb35",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-03-06T18:02:05.623Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber\nI think we should should Recent & Trending (once implemented) on search zero cc @Gayatri Pendse",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-2:",
+          "created_at": "2025-03-10T07:22:26.135Z",
+          "user": {
+            "id": "862656244535756550",
+            "handle": "Nicole Weber",
+            "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8207:1318",
+        "node_offset": {
+          "x": 275.0000325212727,
+          "y": 85.0000495250024
+        },
+        "stable_path": [
+          "8207:1318"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1162013690",
+      "uuid": "22364a8b-9162-40bd-a662-11384c6770ba",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2025-03-06T16:18:45.162Z",
+      "resolved_at": null,
+      "message": "keep landscape and iPad as little as possible for experiment --> this makes it more complex for the experiment",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4914:45094",
+        "node_offset": {
+          "x": 764,
+          "y": 211
+        },
+        "stable_path": [
+          "4914:45094"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1152693939",
+      "uuid": "00433d61-0b8f-4a74-8719-cce29f0c1d1c",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-02-27T22:23:26.027Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber how the UI fades away should closely follow Safari",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-2:",
+          "created_at": "2025-02-28T11:42:00.677Z",
+          "user": {
+            "id": "862656244535756550",
+            "handle": "Nicole Weber",
+            "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8107:16185",
+        "node_offset": {
+          "x": 344,
+          "y": 778
+        },
+        "stable_path": [
+          "8107:16185"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1152692524",
+      "uuid": "2f1d23d7-26a2-4c29-a75c-e09c1920d583",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-02-27T22:22:02.249Z",
+      "resolved_at": null,
+      "message": "Recent and Trending Searches would show on this screen",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8111:5644",
+        "node_offset": {
+          "x": 287,
+          "y": 315
+        },
+        "stable_path": [
+          "8111:5644"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1152689974",
+      "uuid": "7593e897-ad2f-4adc-ad1f-31ca89020c07",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Anthony Keane",
+        "img_url": "https://www.gravatar.com/avatar/24e4f5aa2c0405adc3b96c4943ff49c1?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1441180334482577951"
+      },
+      "created_at": "2025-02-27T22:19:29.314Z",
+      "resolved_at": null,
+      "message": "@Brooke Katalinich @Eduardo Feo\n\nWhen we have time, can we create a follow-up step to determine what we show in this instance? I\u2019m thinking we should link into Firefox Suggest in some way (though I\u2019m not sure if Firefox Suggest is available globally).\nMy suggestion is to show:\n\u2022 Recent Searches (from the search engine)\n\u2022 Open Tabs\n\u2022 History\n\u2022 Favorites\nPerhaps 3-4 of each.\nAs the user types, the list should constantly update and refine.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8111:5789",
+        "node_offset": {
+          "x": 252,
+          "y": 413
+        },
+        "stable_path": [
+          "8111:5789"
+        ]
+      },
+      "order_id": "5"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1196743578",
+      "uuid": "1c2cb54f-2f87-427f-982a-9d8fcb635403",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-31T19:29:19.622Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber could you wrap the items E-I in another orange container without a Name but with \"Role: Toolbar\", please? The Firefox iOS is missing it in the release too",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8155:28862",
+        "node_offset": {
+          "x": 266,
+          "y": 67
+        },
+        "stable_path": [
+          "8155:28862"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1196740884",
+      "uuid": "199d6996-2380-4f57-a26d-0960b6597377",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-31T19:27:13.528Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber an enhancement may be to include \"Add\" in the name: \"Add New Tab\", since the on-screen label is \"+\" which is often guessed as \"add\".",
+      "reactions": [
+        {
+          "emoji": ":+1::skin-tone-2:",
+          "created_at": "2025-04-03T11:33:08.617Z",
+          "user": {
+            "id": "862656244535756550",
+            "handle": "Nicole Weber",
+            "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "8155:28892",
+        "node_offset": {
+          "x": 206,
+          "y": 51
+        },
+        "stable_path": [
+          "8155:28892"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1196728843",
+      "uuid": "e0c61264-e5c1-4945-8c16-601da91f52cf",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-31T19:17:49.730Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber we could use the \"Name\" field for an accessible label for the field (while the URL in it would be a \"value\" and would still be announced). What is shown when there is nothing entered in the URL bar? options that come to mind:\n1. We could use this string as a \"Name\": i.e. on-screen placeholder is \"Search or enter an address\" - it would be a name and a VoiceOver would announce the URL bar from the example here as: \"Search or enter an address, theverge dot com, Text field\". - I like this is visible on-screen at some point, but it's long\n2. Safari uses \"Address\" as a \"Name\" and the example would be announced as \"Address, theverge dot com, Text field\" - I like that it's short\n3. We could use \"URL\" as a name too: \"URL, theverge dot com, Text field\" - it may be too technical for some users (I am not a context designer though, I do not know how familiar users are with this term)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8155:28940",
+        "node_offset": {
+          "x": 178,
+          "y": 40
+        },
+        "stable_path": [
+          "8155:28940"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1196723694",
+      "uuid": "02fceb06-8c4a-489e-9a55-363e5e57aa9c",
+      "file_key": "EQBqApLh2iZjwvpnJG9NQD",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-31T19:13:49.800Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber a screen reader would announce it as \"Shield secure connection\". I am not sure \"shield\" word is adding information here, but since it's not a control (we cannot tap it to open a dialog, right?) it is not required by WCAG 2.2 to include it as a visual label at the beginning of the textual alternative. Trying to say that \"Shield secure connection\" would be equally accessible as \"Secure connection\" for this image.\n\nAlso, could you please add \"Role: Image\" in the note here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8155:28832",
+        "node_offset": {
+          "x": 303,
+          "y": 57
+        },
+        "stable_path": [
+          "8155:28832"
+        ]
+      },
+      "order_id": "35"
+    }
+  ]
+}

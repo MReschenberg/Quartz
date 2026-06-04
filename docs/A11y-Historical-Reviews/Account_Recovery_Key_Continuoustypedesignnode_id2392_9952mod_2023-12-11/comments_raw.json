@@ -1,0 +1,1590 @@
+{
+  "unresolved": [
+    {
+      "id": "871777537",
+      "uuid": "ebcc1400-c275-43e3-b979-a99c82f9850a",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Lauren Zugai",
+        "img_url": "https://www.gravatar.com/avatar/0c4007e67c551f17c7d3be40783513ac?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "801567230499623073"
+      },
+      "created_at": "2024-07-11T21:49:38.673Z",
+      "resolved_at": null,
+      "message": "Just confirming - I know we're not going to use the same copy as what's inside Settings, but should we replace the images in Settings to match? (there's 4 total here from Settings that I've shared, might need to click to see the 4th)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2922:9075",
+        "node_offset": {
+          "x": 1004,
+          "y": 418
+        },
+        "stable_path": [
+          "2922:9075"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "871775660",
+      "uuid": "da9ad3da-5e23-4d94-b949-07e7b8b875bc",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Lauren Zugai",
+        "img_url": "https://www.gravatar.com/avatar/0c4007e67c551f17c7d3be40783513ac?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png",
+        "id": "801567230499623073"
+      },
+      "created_at": "2024-07-11T21:47:09.616Z",
+      "resolved_at": null,
+      "message": "Users in the Sync flow should be taken to the /connect_another_device page instead of Settings. Should we show a success message on that page?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2926:18277",
+        "node_offset": {
+          "x": 1488,
+          "y": 186
+        },
+        "stable_path": [
+          "2926:18277"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "822353331",
+      "uuid": "06c42054-205b-48bc-8b11-046360a413db",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2024-05-30T12:31:42.478Z",
+      "resolved_at": null,
+      "message": "Improve this upselling. Currently looks like a long EXTRA step",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2785:22105",
+        "node_offset": {
+          "x": 1215,
+          "y": 626
+        },
+        "stable_path": [
+          "2785:22105"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "796967476",
+      "uuid": "022feea9-d61c-43ea-8af8-a72fe53ea94b",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2024-05-08T17:43:43.980Z",
+      "resolved_at": null,
+      "message": "Evaluate experiment process between ARK and Connect a new device.\n\nDefine metrics and User cases",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2806:44625",
+        "node_offset": {
+          "x": 1612,
+          "y": 240
+        },
+        "stable_path": [
+          "2806:44625"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "773693190",
+      "uuid": "39922fd7-7d1f-405f-b08f-784c3ebe60fd",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2024-04-17T17:29:19.726Z",
+      "resolved_at": null,
+      "message": "https://storage.googleapis.com/mozilla-storybooks-fxa/commits/latest/fxa-settings/index.html?path=/story/components-settings-modalverifysession--default-with-valid-code-123456\n\nReferenced (UI)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2806:44520",
+        "node_offset": {
+          "x": 3491,
+          "y": 10257
+        },
+        "stable_path": [
+          "2806:44520"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "773692863",
+      "uuid": "8ebeffb6-58ad-4091-82ca-5da7e4ab7aab",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Eduardo Feo",
+        "img_url": "https://s3-alpha.figma.com/profile/8a0daeb9-7b96-4885-ad6e-82226511e264",
+        "id": "966012506228212394"
+      },
+      "created_at": "2024-04-17T17:29:03.750Z",
+      "resolved_at": null,
+      "message": "https://github.com/mozilla/fxa/blob/main/packages/fxa-settings/README.md#sessions-verifiedsessionguard-and-modalverifysession \n\nReview user scenarios with this approach.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2806:44520",
+        "node_offset": {
+          "x": 3414,
+          "y": 10262
+        },
+        "stable_path": [
+          "2806:44520"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "666598511",
+      "uuid": "c627f747-026b-434b-af66-b6c07dfd5a3b",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Casey Tang",
+        "img_url": "https://s3-alpha.figma.com/profile/78e55cbc-8292-46e8-bddb-78db7301f960",
+        "id": "1066403607587083765"
+      },
+      "created_at": "2024-01-11T19:37:23.632Z",
+      "resolved_at": null,
+      "message": "I just saw this logging into github last week",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2581:3862",
+        "node_offset": {
+          "x": 1193.3916015625,
+          "y": 160.6798095703125
+        },
+        "stable_path": [
+          "2581:3862"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "666594625",
+      "uuid": "9da872cb-10dc-4205-b9d0-7d957cfbf1fa",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Casey Tang",
+        "img_url": "https://s3-alpha.figma.com/profile/78e55cbc-8292-46e8-bddb-78db7301f960",
+        "id": "1066403607587083765"
+      },
+      "created_at": "2024-01-11T19:33:15.054Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem @Jihwan Kim In Google's case - they were doing for the light and neutral approach but more recently shift to reframing it with loss aversion.\n\nI think this is too aggressive for signing up",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2581:3864",
+        "node_offset": {
+          "x": 358.3916015625,
+          "y": 81.634765625
+        },
+        "stable_path": [
+          "2581:3864"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "666593428",
+      "uuid": "352c7d66-31df-4238-a4a0-963e6bbcd797",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Casey Tang",
+        "img_url": "https://s3-alpha.figma.com/profile/78e55cbc-8292-46e8-bddb-78db7301f960",
+        "id": "1066403607587083765"
+      },
+      "created_at": "2024-01-11T19:32:00.773Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem @Jihwan Kim Just throwing this out for thoughts and consideration. \n\nYou can see a pattern on how apple and 1password talks about end-to-end encryption.\n\nThere's a notion of we cannot access this if you lose it. I think it convey's what is at stake. \n\nApple clearly conveys the value prop \n\nApple launched end-to-end encryption on December 2022, and released it globally in January 2023. \n\nIn Apple's case you do have to go out of your way to turn it on.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2581:3866",
+        "node_offset": {
+          "x": 206.5,
+          "y": 147.33990478515625
+        },
+        "stable_path": [
+          "2581:3866"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "665271243",
+      "uuid": "8289adb9-a9ce-4fb2-bad3-fcb21b77fffc",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Tracey Vantyghem",
+        "img_url": "https://www.gravatar.com/avatar/1bb8785e96be618596c1fb3a66b5f842?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1271106026990389400"
+      },
+      "created_at": "2024-01-10T20:31:10.956Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim Here's an option to 1) confirm the account is created, and 2) then prompt a person to create an account recovery key. I also tried out what Casey said about framing it around \"securing your data\" rather than setting up your account.\n\nOne question here: right now everything is the same size \u2013 not sure if these should be different? \nWe can discuss tomorrow during the meeting you set up.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2566:3888",
+        "node_offset": {
+          "x": 454,
+          "y": 66
+        },
+        "stable_path": [
+          "2566:3888"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "665247203",
+      "uuid": "6fc60d86-d905-4ea4-9c4e-cf219695da0a",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-10T20:04:26.566Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , here is the mock up, you can adjust the copies here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2567:13570",
+        "node_offset": {
+          "x": 444,
+          "y": 32
+        },
+        "stable_path": [
+          "2567:13570"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "665217361",
+      "uuid": "586bb6bf-007f-4895-80bf-9a9cb4d047e1",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Tracey Vantyghem",
+        "img_url": "https://www.gravatar.com/avatar/1bb8785e96be618596c1fb3a66b5f842?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1271106026990389400"
+      },
+      "created_at": "2024-01-10T19:33:25.479Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim Could we create a version of this screen with these content options to use in user testing?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2479:12817",
+        "node_offset": {
+          "x": 1252,
+          "y": 318
+        },
+        "stable_path": [
+          "2479:12817"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "659142931",
+      "uuid": "128ed136-6b20-463b-8854-b05d9c9ba25d",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-03T19:56:13.886Z",
+      "resolved_at": null,
+      "message": "Update wording since users already finished signing up. @Tracey Vantyghem",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2479:12817",
+        "node_offset": {
+          "x": 930,
+          "y": 244
+        },
+        "stable_path": [
+          "2479:12817"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "656662521",
+      "uuid": "5b2d0af2-b08c-4cb8-a4ee-7d3007d8a48d",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-12-28T17:58:31.238Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , @Casey Tang , I think there were two possible ideas based on the meeting, let me know if we have new ideas or if I missed anything.\n1. Use a secondary button saying \"continue\" (it can be a different content)\n2. Keep one primary button and update the content\n3. NEW idea: Keep the one primary button saying \"Download key\" and after PDF is downloaded in a new tab, users will comeback to this tab and they will see the button saying \"Finish\" like the current recovery key creation flow.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2479:12928",
+        "node_offset": {
+          "x": 916,
+          "y": 715
+        },
+        "stable_path": [
+          "2479:12928"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "642629944",
+      "uuid": "a75a065c-6204-4cf0-9527-c39af2bdee9f",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-11T22:25:08.405Z",
+      "resolved_at": null,
+      "message": "Please mark this graphic as presentational",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2392:8978",
+        "node_offset": {
+          "x": 716,
+          "y": 373
+        },
+        "stable_path": [
+          "2392:8978"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "642629922",
+      "uuid": "3fbc39d2-0559-4688-af22-aa7be6696567",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-11T22:25:06.810Z",
+      "resolved_at": null,
+      "message": "Please mark this graphic as presentational",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2392:8867",
+        "node_offset": {
+          "x": 770,
+          "y": 426
+        },
+        "stable_path": [
+          "2392:8867"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "642629888",
+      "uuid": "9a6c8445-c1d6-41de-bf18-30b27d8e339e",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-11T22:25:04.006Z",
+      "resolved_at": null,
+      "message": "Please mark this graphic as presentational",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2392:9089",
+        "node_offset": {
+          "x": 726,
+          "y": 425
+        },
+        "stable_path": [
+          "2392:9089"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "642624829",
+      "uuid": "ac469840-c7bd-499e-9def-5868d8ed9e71",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-11T22:17:34.716Z",
+      "resolved_at": null,
+      "message": "Please use the regular Background color here, with a 1px solid Text color border",
+      "reactions": [
+        {
+          "emoji": ":saluting_face:",
+          "created_at": "2023-12-12T17:36:06.286Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2388:12738",
+        "node_offset": {
+          "x": 599,
+          "y": 431
+        },
+        "stable_path": [
+          "2388:12738"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "633677467",
+      "uuid": "7a3a358a-09a8-406f-bde2-3530d1fb189d",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-12-01T17:48:23.083Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , has the footer copy been updated? Sorry just confirming since I am seeing {} :grimacing:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2307:30806",
+        "node_offset": {
+          "x": 947,
+          "y": 636
+        },
+        "stable_path": [
+          "2307:30806"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "632290876",
+      "uuid": "6c1ae750-8177-48b3-8cec-111c68cc164b",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Tracey Vantyghem",
+        "img_url": "https://www.gravatar.com/avatar/1bb8785e96be618596c1fb3a66b5f842?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1271106026990389400"
+      },
+      "created_at": "2023-11-30T15:48:19.221Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim I think we can take out this line, and the one below \"Continue to Firefox\". I think it might  be ok to just confirm that someone is signed in and nudge users to connect another device, without putting too much content here. Does this sound ok to you?\n\nAlso, where does this go if someone clicks on it?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2307:31315",
+        "node_offset": {
+          "x": 833,
+          "y": 451
+        },
+        "stable_path": [
+          "2307:31315"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "631317418",
+      "uuid": "1dddb418-bed5-4aa1-a49e-aaafe74bc4ca",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-29T23:35:37.445Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , this can have the same contents as the one from sign up flow. What do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2307:31457",
+        "node_offset": {
+          "x": 938,
+          "y": 220
+        },
+        "stable_path": [
+          "2307:31457"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "631316924",
+      "uuid": "535f89c2-7cf1-4535-ab9f-f889e4f2af0c",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-29T23:34:41.462Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , should we mention about exiting this page won't save your recovery key something like that?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2307:30695",
+        "node_offset": {
+          "x": 913,
+          "y": 241
+        },
+        "stable_path": [
+          "2307:30695"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "631314385",
+      "uuid": "d39ea1a5-6b1e-472a-8d10-53c0629b93e5",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-29T23:29:42.370Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , in the sign in flow, like we said we want to have a strong tone of voice to encourage users to set up their recovery key. Could you take a step updating the contents?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2307:31173",
+        "node_offset": {
+          "x": 924,
+          "y": 235
+        },
+        "stable_path": [
+          "2307:31173"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "631311911",
+      "uuid": "96d71b8c-307b-4d0c-a34f-5e988c9428e6",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-29T23:25:09.469Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , based on today's talk, seems like we only want users to engage in connecting anther device. Let me know what you think. Also this one needs your help on contents.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2307:30806",
+        "node_offset": {
+          "x": 907,
+          "y": 342
+        },
+        "stable_path": [
+          "2307:30806"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "631311113",
+      "uuid": "3b9a195a-dd61-436e-bd65-58e271e06128",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-29T23:23:42.009Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , cleaned up the design here. Let me know if I missed anything. I also copied the contents over here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2307:30584",
+        "node_offset": {
+          "x": 918,
+          "y": 222
+        },
+        "stable_path": [
+          "2307:30584"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "630925142",
+      "uuid": "d1220c6c-9e84-4675-91cf-bf5ef7df5fbd",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Tracey Vantyghem",
+        "img_url": "https://www.gravatar.com/avatar/1bb8785e96be618596c1fb3a66b5f842?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1271106026990389400"
+      },
+      "created_at": "2023-11-29T16:45:55.469Z",
+      "resolved_at": null,
+      "message": "Do we want to add some help content to tell users this will download a PDF with their account recovery key [set expectations for this action]",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2023-11-29T17:04:58.303Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2273:12180",
+        "node_offset": {
+          "x": 26295,
+          "y": -3424
+        },
+        "stable_path": [
+          "2273:12180"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "630918578",
+      "uuid": "d5f85b93-410f-4942-9ef3-45c421fa6c56",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Tracey Vantyghem",
+        "img_url": "https://www.gravatar.com/avatar/1bb8785e96be618596c1fb3a66b5f842?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1271106026990389400"
+      },
+      "created_at": "2023-11-29T16:41:19.507Z",
+      "resolved_at": null,
+      "message": "From @Benjamin Bangert, during UX review: \n\"We'd have to do this immediately after they set their password during that flow to ensure we have the key data needed to avoid having them re-enter their password.\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2273:12180",
+        "node_offset": {
+          "x": 25444,
+          "y": -3772
+        },
+        "stable_path": [
+          "2273:12180"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "630781757",
+      "uuid": "00d2c4fb-f85e-412d-b334-723c59d09bdd",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Tracey Vantyghem",
+        "img_url": "https://www.gravatar.com/avatar/1bb8785e96be618596c1fb3a66b5f842?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1271106026990389400"
+      },
+      "created_at": "2023-11-29T15:11:14.767Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim Can we use exactly the same content as in the recovery key flow? It seems good for consistency. I've taken out the \"step 1 of 2\" / \"step 2 of 2\" \u2013 I think it felt a bit strange, because the user is already several steps into creating their account, so separating this out as different \"steps\" feels a little awkward, in my opinion. What do you think of these for the two modals?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2295:6356",
+        "node_offset": {
+          "x": 425,
+          "y": 28
+        },
+        "stable_path": [
+          "2295:6356"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "630678283",
+      "uuid": "17561307-3c4f-4880-bcdb-916cfba45204",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Tracey Vantyghem",
+        "img_url": "https://www.gravatar.com/avatar/1bb8785e96be618596c1fb3a66b5f842?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1271106026990389400"
+      },
+      "created_at": "2023-11-29T14:07:00.678Z",
+      "resolved_at": null,
+      "message": "It feels like there's something missing here \u2013 confirmation/feedback that your account has been created, after you enter in the confirmation code. Maybe we can incorporate that into the \"Finish setting up your account\" screen.\n\nIs there any confirmation screen right now? Or does it go straight into the \"You're signed into Firefox\" screen?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2273:12180",
+        "node_offset": {
+          "x": 24906,
+          "y": -5012
+        },
+        "stable_path": [
+          "2273:12180"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "629760151",
+      "uuid": "2c790c86-5e0f-4059-bcbf-ebbad0f2bdad",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-28T21:51:06.953Z",
+      "resolved_at": null,
+      "message": "key should be under header",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2278:21619",
+        "node_offset": {
+          "x": 454,
+          "y": 482
+        },
+        "stable_path": [
+          "2278:21619"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "623301290",
+      "uuid": "df514e54-85d3-4c70-b561-1ab429f41914",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Vesta Zare",
+        "img_url": "https://www.gravatar.com/avatar/b67a1b15aede061af98c4f11c071e584?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "895157570354695790"
+      },
+      "created_at": "2023-11-22T02:22:31.042Z",
+      "resolved_at": null,
+      "message": "I like this option; However, I think \"you're signed in successfully should come before generating a recovery key\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2216:14787",
+        "node_offset": {
+          "x": 835,
+          "y": 258
+        },
+        "stable_path": [
+          "2216:14787"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "621655265",
+      "uuid": "b09c5044-b0ab-4326-8926-cf0a7683571e",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Casey Tang",
+        "img_url": "https://s3-alpha.figma.com/profile/78e55cbc-8292-46e8-bddb-78db7301f960",
+        "id": "1066403607587083765"
+      },
+      "created_at": "2023-11-20T21:04:08.047Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim this would have the same problem",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2023-11-20T21:36:07.604Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2230:11913",
+        "node_offset": {
+          "x": 341,
+          "y": 101
+        },
+        "stable_path": [
+          "2230:11913"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "621655032",
+      "uuid": "686590cc-1f6a-4b81-a11e-74fc88003567",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Casey Tang",
+        "img_url": "https://s3-alpha.figma.com/profile/78e55cbc-8292-46e8-bddb-78db7301f960",
+        "id": "1066403607587083765"
+      },
+      "created_at": "2023-11-20T21:03:50.782Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim\nthis design does poorly we should reconsider status vs action",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2216:8546",
+        "node_offset": {
+          "x": 720,
+          "y": 276
+        },
+        "stable_path": [
+          "2216:8546"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "615854254",
+      "uuid": "fe5d4d6f-8e5a-4782-8186-0c28188091bb",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Casey Tang",
+        "img_url": "https://s3-alpha.figma.com/profile/78e55cbc-8292-46e8-bddb-78db7301f960",
+        "id": "1066403607587083765"
+      },
+      "created_at": "2023-11-14T20:55:50.785Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim this appears right when you make an account for Google Bard",
+      "reactions": [
+        {
+          "emoji": ":fire:",
+          "created_at": "2023-11-14T21:52:03.573Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2171:2233",
+        "node_offset": {
+          "x": 639.197265625,
+          "y": 377.216796875
+        },
+        "stable_path": [
+          "2171:2233"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "607127068",
+      "uuid": "b5a509e2-3421-4974-9ff3-b13b3fbe06be",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-06T19:36:22.629Z",
+      "resolved_at": null,
+      "message": "Note:\nQ: Is the recovery key more priority action than 2sv? Or are we making both of them fairly equal?\n\nWe think Recovery key should be more of the next step after setting up an account and sync, and we highlight why the recovery key is important. Then 2sv or other set up keys can be following.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2028:7248",
+        "node_offset": {
+          "x": 996,
+          "y": 38
+        },
+        "stable_path": [
+          "2028:7248"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "607123888",
+      "uuid": "3aef1f75-3116-40d0-9850-833b0285b9c5",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-06T19:33:00.837Z",
+      "resolved_at": null,
+      "message": "Note: Can we test out a few versions of contents?\n1. informative, transparent, direct.\n2. have some kinds of strong and negative words\n3. friendly, emotional, positive\ncc: @Casey Tang @Tracey Vantyghem",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2028:211",
+        "node_offset": {
+          "x": 3461,
+          "y": 1379
+        },
+        "stable_path": [
+          "2028:211"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "607121815",
+      "uuid": "d032fc2e-9657-441d-8c28-164d4f2d3161",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-06T19:30:41.260Z",
+      "resolved_at": null,
+      "message": "Note: What are the triggers? What data we are bringing in? How long the panel should be shown?\nStory line: bookmark trigger?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2028:7396",
+        "node_offset": {
+          "x": 1384,
+          "y": 110
+        },
+        "stable_path": [
+          "2028:7396"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "605642289",
+      "uuid": "ba09ece2-f80f-45ba-a86c-a987cf57886c",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Tracey Vantyghem",
+        "img_url": "https://www.gravatar.com/avatar/1bb8785e96be618596c1fb3a66b5f842?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1271106026990389400"
+      },
+      "created_at": "2023-11-03T21:37:59.256Z",
+      "resolved_at": null,
+      "message": "@Jihwan Kim @Casey Tang I really liked the Adobe \"Recommended\" label on items that weren't set up. Not sure if you two were fans as well, but here's a quick idea: what if we had recommended labels that were clickable and able to show some guidance on why an item was recommended? (And then the modal or whatever that was displayed could take you straight into the 'set up' flow).\n\nJust thought I'd add it as an idea to the pile \u2013\u00a0I like the idea of somehow being able to flag an item as recommended where it actually sits, and then provide an easy way for users to take action (and guide them through the action they should take).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2072:1663",
+        "node_offset": {
+          "x": 796,
+          "y": 37
+        },
+        "stable_path": [
+          "2072:1663"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "605603735",
+      "uuid": "0e050fac-0587-41db-8cdc-22d153fb2d95",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-03T20:25:38.957Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , this is where users can see what they've set up and what they are recommended to do to secure their accounts. So I thought it will be great to see some kinds of visual check marks and click through to set up right away.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2064:1578",
+        "node_offset": {
+          "x": 680,
+          "y": 241
+        },
+        "stable_path": [
+          "2064:1578"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "605602612",
+      "uuid": "00d9c05d-a755-45bb-a61d-9318a1560301",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-03T20:23:59.989Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , something about reminder of setting up the recovery key? that can be an example to start.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2064:1561",
+        "node_offset": {
+          "x": 103,
+          "y": 30
+        },
+        "stable_path": [
+          "2064:1561"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "665247203",
+      "uuid": "6fc60d86-d905-4ea4-9c4e-cf219695da0a",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-10T20:04:26.566Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , here is the mock up, you can adjust the copies here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2567:13570",
+        "node_offset": {
+          "x": 444,
+          "y": 32
+        },
+        "stable_path": [
+          "2567:13570"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "659142931",
+      "uuid": "128ed136-6b20-463b-8854-b05d9c9ba25d",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2024-01-03T19:56:13.886Z",
+      "resolved_at": null,
+      "message": "Update wording since users already finished signing up. @Tracey Vantyghem",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2479:12817",
+        "node_offset": {
+          "x": 930,
+          "y": 244
+        },
+        "stable_path": [
+          "2479:12817"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "656662521",
+      "uuid": "5b2d0af2-b08c-4cb8-a4ee-7d3007d8a48d",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-12-28T17:58:31.238Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , @Casey Tang , I think there were two possible ideas based on the meeting, let me know if we have new ideas or if I missed anything.\n1. Use a secondary button saying \"continue\" (it can be a different content)\n2. Keep one primary button and update the content\n3. NEW idea: Keep the one primary button saying \"Download key\" and after PDF is downloaded in a new tab, users will comeback to this tab and they will see the button saying \"Finish\" like the current recovery key creation flow.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2479:12928",
+        "node_offset": {
+          "x": 916,
+          "y": 715
+        },
+        "stable_path": [
+          "2479:12928"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "642629944",
+      "uuid": "a75a065c-6204-4cf0-9527-c39af2bdee9f",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-11T22:25:08.405Z",
+      "resolved_at": null,
+      "message": "Please mark this graphic as presentational",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2392:8978",
+        "node_offset": {
+          "x": 716,
+          "y": 373
+        },
+        "stable_path": [
+          "2392:8978"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "642629922",
+      "uuid": "3fbc39d2-0559-4688-af22-aa7be6696567",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-11T22:25:06.810Z",
+      "resolved_at": null,
+      "message": "Please mark this graphic as presentational",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2392:8867",
+        "node_offset": {
+          "x": 770,
+          "y": 426
+        },
+        "stable_path": [
+          "2392:8867"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "642629888",
+      "uuid": "9a6c8445-c1d6-41de-bf18-30b27d8e339e",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-11T22:25:04.006Z",
+      "resolved_at": null,
+      "message": "Please mark this graphic as presentational",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2392:9089",
+        "node_offset": {
+          "x": 726,
+          "y": 425
+        },
+        "stable_path": [
+          "2392:9089"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "642624829",
+      "uuid": "ac469840-c7bd-499e-9def-5868d8ed9e71",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-12-11T22:17:34.716Z",
+      "resolved_at": null,
+      "message": "Please use the regular Background color here, with a 1px solid Text color border",
+      "reactions": [
+        {
+          "emoji": ":saluting_face:",
+          "created_at": "2023-12-12T17:36:06.286Z",
+          "user": {
+            "id": "1019981722725068113",
+            "handle": "Jihwan Kim",
+            "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2388:12738",
+        "node_offset": {
+          "x": 599,
+          "y": 431
+        },
+        "stable_path": [
+          "2388:12738"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "633677467",
+      "uuid": "7a3a358a-09a8-406f-bde2-3530d1fb189d",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-12-01T17:48:23.083Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , has the footer copy been updated? Sorry just confirming since I am seeing {} :grimacing:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2307:30806",
+        "node_offset": {
+          "x": 947,
+          "y": 636
+        },
+        "stable_path": [
+          "2307:30806"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "631317418",
+      "uuid": "1dddb418-bed5-4aa1-a49e-aaafe74bc4ca",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-29T23:35:37.445Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , this can have the same contents as the one from sign up flow. What do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2307:31457",
+        "node_offset": {
+          "x": 938,
+          "y": 220
+        },
+        "stable_path": [
+          "2307:31457"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "631316924",
+      "uuid": "535f89c2-7cf1-4535-ab9f-f889e4f2af0c",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-29T23:34:41.462Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , should we mention about exiting this page won't save your recovery key something like that?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2307:30695",
+        "node_offset": {
+          "x": 913,
+          "y": 241
+        },
+        "stable_path": [
+          "2307:30695"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "631314385",
+      "uuid": "d39ea1a5-6b1e-472a-8d10-53c0629b93e5",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-29T23:29:42.370Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , in the sign in flow, like we said we want to have a strong tone of voice to encourage users to set up their recovery key. Could you take a step updating the contents?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2307:31173",
+        "node_offset": {
+          "x": 924,
+          "y": 235
+        },
+        "stable_path": [
+          "2307:31173"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "631311911",
+      "uuid": "96d71b8c-307b-4d0c-a34f-5e988c9428e6",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-29T23:25:09.469Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , based on today's talk, seems like we only want users to engage in connecting anther device. Let me know what you think. Also this one needs your help on contents.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2307:30806",
+        "node_offset": {
+          "x": 907,
+          "y": 342
+        },
+        "stable_path": [
+          "2307:30806"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "631311113",
+      "uuid": "3b9a195a-dd61-436e-bd65-58e271e06128",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-29T23:23:42.009Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , cleaned up the design here. Let me know if I missed anything. I also copied the contents over here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2307:30584",
+        "node_offset": {
+          "x": 918,
+          "y": 222
+        },
+        "stable_path": [
+          "2307:30584"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "629760151",
+      "uuid": "2c790c86-5e0f-4059-bcbf-ebbad0f2bdad",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-28T21:51:06.953Z",
+      "resolved_at": null,
+      "message": "key should be under header",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2278:21619",
+        "node_offset": {
+          "x": 454,
+          "y": 482
+        },
+        "stable_path": [
+          "2278:21619"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "607127068",
+      "uuid": "b5a509e2-3421-4974-9ff3-b13b3fbe06be",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-06T19:36:22.629Z",
+      "resolved_at": null,
+      "message": "Note:\nQ: Is the recovery key more priority action than 2sv? Or are we making both of them fairly equal?\n\nWe think Recovery key should be more of the next step after setting up an account and sync, and we highlight why the recovery key is important. Then 2sv or other set up keys can be following.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2028:7248",
+        "node_offset": {
+          "x": 996,
+          "y": 38
+        },
+        "stable_path": [
+          "2028:7248"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "607123888",
+      "uuid": "3aef1f75-3116-40d0-9850-833b0285b9c5",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-06T19:33:00.837Z",
+      "resolved_at": null,
+      "message": "Note: Can we test out a few versions of contents?\n1. informative, transparent, direct.\n2. have some kinds of strong and negative words\n3. friendly, emotional, positive\ncc: @Casey Tang @Tracey Vantyghem",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2028:211",
+        "node_offset": {
+          "x": 3461,
+          "y": 1379
+        },
+        "stable_path": [
+          "2028:211"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "607121815",
+      "uuid": "d032fc2e-9657-441d-8c28-164d4f2d3161",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-06T19:30:41.260Z",
+      "resolved_at": null,
+      "message": "Note: What are the triggers? What data we are bringing in? How long the panel should be shown?\nStory line: bookmark trigger?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2028:7396",
+        "node_offset": {
+          "x": 1384,
+          "y": 110
+        },
+        "stable_path": [
+          "2028:7396"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "605603735",
+      "uuid": "0e050fac-0587-41db-8cdc-22d153fb2d95",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-03T20:25:38.957Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , this is where users can see what they've set up and what they are recommended to do to secure their accounts. So I thought it will be great to see some kinds of visual check marks and click through to set up right away.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2064:1578",
+        "node_offset": {
+          "x": 680,
+          "y": 241
+        },
+        "stable_path": [
+          "2064:1578"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "605602612",
+      "uuid": "00d9c05d-a755-45bb-a61d-9318a1560301",
+      "file_key": "v5d5xDL7R2xYfN3Hx9gtN2",
+      "parent_id": "",
+      "user": {
+        "handle": "Jihwan Kim",
+        "img_url": "https://www.gravatar.com/avatar/8d65489934cd3ad658089989718dbb00?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1019981722725068113"
+      },
+      "created_at": "2023-11-03T20:23:59.989Z",
+      "resolved_at": null,
+      "message": "@Tracey Vantyghem , something about reminder of setting up the recovery key? that can be an example to start.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2064:1561",
+        "node_offset": {
+          "x": 103,
+          "y": 30
+        },
+        "stable_path": [
+          "2064:1561"
+        ]
+      },
+      "order_id": "1"
+    }
+  ]
+}

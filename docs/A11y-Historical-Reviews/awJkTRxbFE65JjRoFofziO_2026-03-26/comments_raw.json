@@ -1,0 +1,588 @@
+{
+  "unresolved": [
+    {
+      "id": "1725735349",
+      "uuid": "dd7b957d-0a3c-4cf7-982b-76b0550b8ec8",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-04-20T14:27:43.271Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk This screen + dark one to the right have been updated w/ new color names.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14333:140738",
+        "node_offset": {
+          "x": 394,
+          "y": 223
+        },
+        "stable_path": [
+          "14333:140738"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1725710674",
+      "uuid": "1cde85b2-f10d-42a9-bac6-1b9b30ea6eff",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-04-20T14:16:42.990Z",
+      "resolved_at": null,
+      "message": "Rename to: Classic",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14283:23060",
+        "node_offset": {
+          "x": 568,
+          "y": 651
+        },
+        "stable_path": [
+          "14283:23060"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1717431193",
+      "uuid": "9673197e-4e7d-4414-a5c0-378d437a3880",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-04-14T14:49:15.910Z",
+      "resolved_at": null,
+      "message": "hi @Emily Wachowiak @Eric Pang ! I've reviewed the theme names and my notes can be found below:\n\n* the following theme names scored 'low', meaning they're considered college level for readability: Nova, Ember, Smolder, Moonrise / I'd consider changing these if possible\n* I understand the use in Nova but I'm concerned users who have low vision or are colorblind may not know what color to associate with this\n* Flare scores well for readability, but I have a slight concern that it could be associated with red or orange too instead of pink\n\nHere are words I've found and checked for Ember, Smolder, and Moonrise:\n* Ember- gold, straw\n* Smolder- violet, plum, jam, jelly\n* Moonrise- sky, ocean\n(note: the words above are not required to use, just suggestions. if there are different theme names you'd like to use and have checked, just let me know!)\n\nif you have any questions, please reach out! thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14283:23060",
+        "node_offset": {
+          "x": 335,
+          "y": 531
+        },
+        "stable_path": [
+          "14283:23060"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1715813676",
+      "uuid": "7b2d2b6a-0691-491b-a40c-3ddc51edf35e",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Ekaterina Galetski",
+        "img_url": "https://s3-alpha.figma.com/profile/90d9c8c0-de8f-4290-ab0b-cd4f88b60f31",
+        "id": "986671480981835276"
+      },
+      "created_at": "2026-04-13T19:26:26.150Z",
+      "resolved_at": null,
+      "message": "explore more themes - that would lead to",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14342:49632",
+        "node_offset": {
+          "x": 1160,
+          "y": 634
+        },
+        "stable_path": [
+          "14342:49632"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1713299655",
+      "uuid": "fda0ed43-ad92-49fd-932d-e745dbe61c3a",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2026-04-10T16:03:12.522Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak colour swatches are not updated here yet, but can you look at the overall content of these screen? Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14283:23276",
+        "node_offset": {
+          "x": 240,
+          "y": 390
+        },
+        "stable_path": [
+          "14283:23276"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1713298936",
+      "uuid": "38eb89cb-6e40-48fa-bc2c-2e8cb46fe6a1",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2026-04-10T16:02:40.536Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak latest work around themes. Some of the swatches need tweaking in dark mode. \n\nCan you take a look at the theme names in light and dark? We've also added Smoke and Ash as two more neutral coloured themes. note: We are planning to tone down the purple in smoke",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14283:23060",
+        "node_offset": {
+          "x": 62,
+          "y": 66
+        },
+        "stable_path": [
+          "14283:23060"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1713251468",
+      "uuid": "e0ad0cc3-f4d0-46e0-8634-31748e908c59",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2026-04-10T15:31:50.257Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk looks like the coloured tab is new in the components for dark theme. I think we should theme the colour in dark themes since the purple isn't going to work for everything. I think it's fine to leave for light themes since white is fine for all.",
+      "reactions": [
+        {
+          "emoji": ":heavy_plus_sign:",
+          "created_at": "2026-04-10T17:58:24.987Z",
+          "user": {
+            "id": "1113946896976654346",
+            "handle": "Misha Bruk",
+            "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "14283:23060",
+        "node_offset": {
+          "x": 377,
+          "y": 1103
+        },
+        "stable_path": [
+          "14283:23060"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1694145347",
+      "uuid": "da487ab6-cf4e-4e45-bb0c-5357fba50efc",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2026-03-27T15:31:23.925Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk just a wip here to capture that we should have a way to change themes in preferences. \n\n@Jules Simplicio (when you're back) - do we have a way to handle filters for the update to settings?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14231:15051",
+        "node_offset": {
+          "x": 750,
+          "y": 524
+        },
+        "stable_path": [
+          "14231:15051"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1692797767",
+      "uuid": "5416d29a-1e80-487b-a0fb-5cf2b1dd32e6",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-03-26T20:54:36.071Z",
+      "resolved_at": null,
+      "message": "Accessibility please review the color names here and on next screen.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14075:17893",
+        "node_offset": {
+          "x": 893,
+          "y": 2863
+        },
+        "stable_path": [
+          "14075:17893"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1692605395",
+      "uuid": "af63a4a5-c26e-4d62-bcea-2ef392889805",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2026-03-26T18:30:11.546Z",
+      "resolved_at": null,
+      "message": "If you go nature-themed with the colors, wonder how that could be part of the headline...",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14075:17893",
+        "node_offset": {
+          "x": 7255,
+          "y": 1683
+        },
+        "stable_path": [
+          "14075:17893"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1692603709",
+      "uuid": "6489557e-f1cc-4939-8107-5b0dfa21a9fb",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-03-26T18:29:04.389Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Is there an aspect of colors/themes that we know resonate?\n\nPersonally, the \"make it yours\" riff resonates more so than talking about my style/spark/my look. \n\nAlso I kinda like the vibe of the body copy, too :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14149:6862",
+        "node_offset": {
+          "x": 254,
+          "y": 9
+        },
+        "stable_path": [
+          "14149:6862"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1692602270",
+      "uuid": "2eadabd8-93ea-41f4-81e3-5f15f53228f2",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2026-03-26T18:28:10.239Z",
+      "resolved_at": null,
+      "message": "Your Firefox, your flavor",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14149:3314",
+        "node_offset": {
+          "x": 1241,
+          "y": 264
+        },
+        "stable_path": [
+          "14149:3314"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1692598063",
+      "uuid": "219feeea-db51-426b-b606-c118c7c5c232",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-03-26T18:25:27.366Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak These riffs seem to work nicely in light + dark mode! (OPO)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14075:17893",
+        "node_offset": {
+          "x": 3627,
+          "y": 1943
+        },
+        "stable_path": [
+          "14075:17893"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1692597727",
+      "uuid": "1c17b161-0adf-4f86-a499-72cec6e29ffd",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2026-03-26T18:25:15.918Z",
+      "resolved_at": null,
+      "message": "How about: Pick your vibe",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14149:3314",
+        "node_offset": {
+          "x": 1063,
+          "y": 280
+        },
+        "stable_path": [
+          "14149:3314"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1692596479",
+      "uuid": "d50742bf-dcea-40e8-bb65-d093e4092db5",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2026-03-26T18:24:30.456Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak OPO: I'm leaning away from these bc of the l10n impacts. \n\nI'm sure there are other languages that rely heavily on compound words (a la German) so these prob aren't even the longest examples out there.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14075:17893",
+        "node_offset": {
+          "x": 1900,
+          "y": 838
+        },
+        "stable_path": [
+          "14075:17893"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "1692593427",
+      "uuid": "5b03ede7-a424-4c6b-adc7-b4ed63f44557",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Meridel Walkington",
+        "img_url": "https://s3-alpha.figma.com/profile/9ebf6868-3aa6-41b1-876b-cb68ed9b1451",
+        "id": "551476150859297062"
+      },
+      "created_at": "2026-03-26T18:22:33.422Z",
+      "resolved_at": null,
+      "message": "I'd probably veer away from names that include \"fox\" because I think it could just feel like... too much fox since Kit is also very present on this screen",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14075:17893",
+        "node_offset": {
+          "x": 3983,
+          "y": 1803
+        },
+        "stable_path": [
+          "14075:17893"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1692353427",
+      "uuid": "50f320be-47a1-4730-aee6-3497535f9d9d",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-03-26T16:05:20.065Z",
+      "resolved_at": null,
+      "message": "Alt: Paw pink / Pink paw",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14075:17893",
+        "node_offset": {
+          "x": 4008,
+          "y": 1825
+        },
+        "stable_path": [
+          "14075:17893"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1690078190",
+      "uuid": "15c4c433-0baa-4d41-abf8-a44592bf4f2c",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-03-25T14:41:44.643Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk can you use this for your review today? Say we are working on copy and on-brand color names, taking l10n length into account. I'm getting peer feedback tomorrow.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14075:17893",
+        "node_offset": {
+          "x": 3105,
+          "y": 1469
+        },
+        "stable_path": [
+          "14075:17893"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1684328031",
+      "uuid": "355f5fab-c4d8-48a2-b9ce-afcc83843bff",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-03-20T20:38:06.098Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk see example names here and in German...hmw allow for more length?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14075:17893",
+        "node_offset": {
+          "x": 1205,
+          "y": 447
+        },
+        "stable_path": [
+          "14075:17893"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1682643001",
+      "uuid": "f9a1a271-517c-4c3a-8ee8-921310d4136a",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Jane Wolf",
+        "img_url": "https://s3-alpha.figma.com/profile/1113697483839481128/35ab3931-4980-48bc-8017-709e7b4c4d30",
+        "id": "1113697483839481128"
+      },
+      "created_at": "2026-03-19T19:26:55.760Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk try this with the dark buttons. the buttons feel like the smallest pieces here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14029:35924",
+        "node_offset": {
+          "x": 1966,
+          "y": 922
+        },
+        "stable_path": [
+          "14029:35924"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1717431193",
+      "uuid": "9673197e-4e7d-4414-a5c0-378d437a3880",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-04-14T14:49:15.910Z",
+      "resolved_at": null,
+      "message": "hi @Emily Wachowiak @Eric Pang ! I've reviewed the theme names and my notes can be found below:\n\n* the following theme names scored 'low', meaning they're considered college level for readability: Nova, Ember, Smolder, Moonrise / I'd consider changing these if possible\n* I understand the use in Nova but I'm concerned users who have low vision or are colorblind may not know what color to associate with this\n* Flare scores well for readability, but I have a slight concern that it could be associated with red or orange too instead of pink\n\nHere are words I've found and checked for Ember, Smolder, and Moonrise:\n* Ember- gold, straw\n* Smolder- violet, plum, jam, jelly\n* Moonrise- sky, ocean\n(note: the words above are not required to use, just suggestions. if there are different theme names you'd like to use and have checked, just let me know!)\n\nif you have any questions, please reach out! thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14283:23060",
+        "node_offset": {
+          "x": 335,
+          "y": 531
+        },
+        "stable_path": [
+          "14283:23060"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1692797767",
+      "uuid": "5416d29a-1e80-487b-a0fb-5cf2b1dd32e6",
+      "file_key": "awJkTRxbFE65JjRoFofziO",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-03-26T20:54:36.071Z",
+      "resolved_at": null,
+      "message": "Accessibility please review the color names here and on next screen.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "14075:17893",
+        "node_offset": {
+          "x": 893,
+          "y": 2863
+        },
+        "stable_path": [
+          "14075:17893"
+        ]
+      },
+      "order_id": "12"
+    }
+  ]
+}

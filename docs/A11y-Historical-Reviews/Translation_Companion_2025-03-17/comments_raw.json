@@ -1,0 +1,1128 @@
+{
+  "unresolved": [
+    {
+      "id": "1616256314",
+      "uuid": "38138db3-fc9f-4335-9ffb-e9b707e6c4ca",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Erik Nordin",
+        "img_url": "https://www.gravatar.com/avatar/2320b938379c93b7c530c6fc5138b7b5?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "1114570434086854767"
+      },
+      "created_at": "2026-02-03T14:37:50.625Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko \n\nDidn't we decide this was going to be an \"Unblock\" button?\n\nOr did we decide to go back to \"Go to Settings\" as the final option?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1517:23453",
+        "node_offset": {
+          "x": 94.94580078125,
+          "y": 113
+        },
+        "stable_path": [
+          "1517:23453"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1589943318",
+      "uuid": "54ec0f08-2243-486c-ad7c-cd2b05e98a3d",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2026-01-15T17:19:12.409Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko This is the final copy for this msg; can you adjust the text width so there isn't a widow word?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1436:23501",
+        "node_offset": {
+          "x": 268,
+          "y": 246
+        },
+        "stable_path": [
+          "1436:23501"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1584568805",
+      "uuid": "4a68ac0d-0c7d-49bc-aed9-9b4a3499eb28",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2026-01-13T00:55:33.375Z",
+      "resolved_at": null,
+      "message": "@Erik Nordin let me know that we can technically do this one! \n\nAnd in the settings the user will basically have the KIll switch off.. but translations will be enabled.\n\nCC @Emily Wachowiak",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1439:18668",
+        "node_offset": {
+          "x": 297,
+          "y": 319
+        },
+        "stable_path": [
+          "1439:18668"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1356296482",
+      "uuid": "c6be880f-da47-4c2c-8450-053c40366449",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Erik Nordin",
+        "img_url": "https://www.gravatar.com/avatar/2320b938379c93b7c530c6fc5138b7b5?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "1114570434086854767"
+      },
+      "created_at": "2025-07-25T18:08:29.214Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko \n\nOption 3 looks like what we currently have.\n\nI think both options 1 and 2 are an improvement.\n\nOption 2 is very easy to implement, since it is so similar to option 3, just with different strings. \n\nOption 1 probably feels best, but we would need to choose an ultimate fallback language for the target in case we absolutely cannot determine anything else.\n\nWe've had to do this in the past for SelectTranslationsPanel, falling back to English as a last resort. \n\nThis would only ever happen if the user has never translated before, and none of their web requested languages or UI language are a valid option for translation. Very rare these days, since we support so many more languages than at the start.\n\nMy vote is for option 1.\n\nThis also lessens the burden of getting started. The user can just start typing, where as with the setup in options 2 and 3 they have to open the dropdown and select a target.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "869:18278",
+        "node_offset": {
+          "x": 1270,
+          "y": 99
+        },
+        "stable_path": [
+          "869:18278"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1348666918",
+      "uuid": "dc58ce50-fdb2-41fe-b871-347d5200120a",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-21T18:37:14.418Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak just want to have your eyes on the copy for this state!",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2025-07-21T19:12:03.087Z",
+          "user": {
+            "id": "1108498254843026326",
+            "handle": "Emily Wachowiak",
+            "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "805:17567",
+        "node_offset": {
+          "x": 295,
+          "y": 341
+        },
+        "stable_path": [
+          "805:17567"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1348666540",
+      "uuid": "59dd30a0-ce2f-41e6-b213-fe88100e202d",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-21T18:36:57.057Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak what do you think about these being \"translate from\" and \"to\" instead of  \"choose a language\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "805:17567",
+        "node_offset": {
+          "x": 329,
+          "y": 276
+        },
+        "stable_path": [
+          "805:17567"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1344739780",
+      "uuid": "db30c2b6-6df4-4893-83c9-b92a5deee858",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Erik Nordin",
+        "img_url": "https://www.gravatar.com/avatar/2320b938379c93b7c530c6fc5138b7b5?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "1114570434086854767"
+      },
+      "created_at": "2025-07-17T17:08:55.300Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko @Emily Wachowiak \n\nAs I'm getting into the implementation weeds, I realize that we're not doing a great job when the user types in a detected language that is not supported. \n\nCurrently, we just ignore it entirely, with no messaging, and the selector UI stays as \"Detect language\"\n\nWe should decide on a behavior for this, perhaps still showing the detected language in the source-language selector, but displaying a localized not-supported message in the target text area? Or even replacing the target text area with an info message bar?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "282:6772",
+        "node_offset": {
+          "x": 265.390625,
+          "y": 266.5
+        },
+        "stable_path": [
+          "282:6772"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "1332979650",
+      "uuid": "3f073fc6-8e39-4519-a90a-f52291c0b41b",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-09T16:52:30.135Z",
+      "resolved_at": null,
+      "message": "resize with text.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "649:11914",
+        "node_offset": {
+          "x": 605.78173828125,
+          "y": 532.23046875
+        },
+        "stable_path": [
+          "649:11914"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1332945606",
+      "uuid": "3d1998a5-8763-480e-8c0c-44b7343479d9",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-09T16:29:13.304Z",
+      "resolved_at": null,
+      "message": "translate.firefox.com",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "652:19136",
+        "node_offset": {
+          "x": 124.80126953125,
+          "y": 47.115234375
+        },
+        "stable_path": [
+          "652:19136"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1332943504",
+      "uuid": "7aed62a5-bc4e-4612-bef1-fee8a0a517f4",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-09T16:27:51.906Z",
+      "resolved_at": null,
+      "message": "* Need to check in with bedrock team. \n* Maybe check with legal",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "652:19133",
+        "node_offset": {
+          "x": 134.92529296875,
+          "y": 45.115234375
+        },
+        "stable_path": [
+          "652:19133"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1330951752",
+      "uuid": "20873c30-f749-42a5-975d-397607b91cca",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-08T16:29:14.298Z",
+      "resolved_at": null,
+      "message": "@Erik Nordin so from my last convo with @Kim Bryant she mentioned that we'd like to have the URL redirect. However, there was no clarity about the whole marketing page situation. \n\nFor now, I am thinking for non FX users we could maybe redirect them to this existing FX translation page. Which somewhat does what we intended to do... just less CTA focused... but my thinking is it's good enough for MVP. \n\nWill need to double check in Wednesday's meeting if Kim likes this idea!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "652:19136",
+        "node_offset": {
+          "x": 219.83740234375,
+          "y": 51.115234375
+        },
+        "stable_path": [
+          "652:19136"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1330926827",
+      "uuid": "6b86e26e-d8d7-41ee-a887-da7b3bae314e",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-08T16:13:46.313Z",
+      "resolved_at": null,
+      "message": "@Erik Nordin I've also added a an \"x\" symbol\" allowing users to clear the things they've typed in one click. \n\nThis is in-particular useful for users who are using mobile devices!\n\nLet me know if this might be doable!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "652:16353",
+        "node_offset": {
+          "x": 337.59033203125,
+          "y": 309
+        },
+        "stable_path": [
+          "652:16353"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1330925158",
+      "uuid": "977a3818-a9cc-4956-9c41-02209e178c85",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-08T16:12:43.932Z",
+      "resolved_at": null,
+      "message": "@Erik Nordin here are some of the responsiveness specs I've been mocking up.. let me know your thoughts! \n\nMy thinking:\n* for phones (super small screens) we should make the boxes much smaller in height, so that when users type, they are able to still see ideally the before and after at least initially. \n* For super large screens (aka desktop sizing) we should try and make everything a bit larger. That way it doesn't look too bare.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "652:12996",
+        "node_offset": {
+          "x": 188,
+          "y": 68
+        },
+        "stable_path": [
+          "652:12996"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1329395637",
+      "uuid": "f0fccad8-3b48-4aa3-afda-8f2d98041cf9",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-07T22:46:26.607Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak please check error strings here and let us know if they need to updated in anyway!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "638:13437",
+        "node_offset": {
+          "x": 402.98486328125,
+          "y": 283
+        },
+        "stable_path": [
+          "638:13437"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1329395482",
+      "uuid": "af4c5be4-076d-434d-9ccc-e939832517e3",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-07T22:46:08.177Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak please check the translation states here... let us know if they need to be updated in any way!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "782:17522",
+        "node_offset": {
+          "x": 661.9638671875,
+          "y": 206
+        },
+        "stable_path": [
+          "782:17522"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1304808860",
+      "uuid": "52d1a914-ad35-44d8-bf00-edafce0b1ab0",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-06-18T16:30:12.890Z",
+      "resolved_at": null,
+      "message": "We did have a website that used to work across all browsers. @Evgeny Pavlov mentioned this.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "559:12818",
+        "node_offset": {
+          "x": 642.474609375,
+          "y": 235.431640625
+        },
+        "stable_path": [
+          "559:12818"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1209921648",
+      "uuid": "1355c300-a4d9-4d85-9a7e-5c8dc6733f1c",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2025-04-09T14:02:13.687Z",
+      "resolved_at": null,
+      "message": "Copy button is missing from this view",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "290:40319",
+        "node_offset": {
+          "x": 1388,
+          "y": 1162
+        },
+        "stable_path": [
+          "290:40319"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1208554390",
+      "uuid": "fe530a84-ca77-4417-acd1-c47edf42ffae",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-04-08T20:57:39.300Z",
+      "resolved_at": null,
+      "message": "Keep min mind @Emily Wachowiak some users will quickly tab though this.. and not know what the learn more pertains to. Might be nice to add a bit more detail about what this learn more is about.. maybe something shorter then what I've put here. \n\nCC @Anna Yeddi let me know if u agree",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "290:40319",
+        "node_offset": {
+          "x": 317,
+          "y": 142
+        },
+        "stable_path": [
+          "290:40319"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1208221282",
+      "uuid": "f5f72ef9-64b1-49a4-baa6-829cdfe3ebd5",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-04-08T17:01:22.981Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi is this ok?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "290:40319",
+        "node_offset": {
+          "x": 114,
+          "y": 789
+        },
+        "stable_path": [
+          "290:40319"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1194765144",
+      "uuid": "90c21633-a68b-4b81-aa60-487f9d115780",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-03-28T20:49:03.157Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi so i've tweaked this order a bit based from my QA sesh with the user yesterday... something he mentioned is that this order would allow him to have the final translation as the last component cause and all the editable capabilities before. this also aligns with your comment in slack about making swap as number 3! \n\nWhat do u think!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "290:40319",
+        "node_offset": {
+          "x": 1327,
+          "y": 429
+        },
+        "stable_path": [
+          "290:40319"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1194762596",
+      "uuid": "46ed703a-c8b7-42d1-8489-a39ea54d2e8a",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-03-28T20:46:07.877Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi what do u think of this... the user in the QA test.. mentioned that instead of reading full translation it makes more sense to just have a peep or a shorter less intrusive message that let's u know that what u have currently written is translated... this way if the user wants to keep typing... they don't loose their train of thought. \n\nAnd he said that when user is ready... they just go over to the actual field by tabbing over there.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "290:40319",
+        "node_offset": {
+          "x": 2242,
+          "y": 224
+        },
+        "stable_path": [
+          "290:40319"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1194568489",
+      "uuid": "87b008e3-7be1-4e1b-a991-35cd7fb15895",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-28T17:44:42.026Z",
+      "resolved_at": null,
+      "message": "removed the \"{detected language}\" here and the \"{language}\" below because this would be provided by the `<select>` and its pre-selected `<option>` item (that we see by default) - and would be announced, we need to make sure we're not overwriting it and just are setting `aria-label` to \"Translate from\" and \"Translate to\".",
+      "reactions": [
+        {
+          "emoji": ":pray:",
+          "created_at": "2025-03-28T20:36:38.945Z",
+          "user": {
+            "id": "1174480039733711256",
+            "handle": "Dasha Andriyenko",
+            "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "290:40319",
+        "node_offset": {
+          "x": 278,
+          "y": 132
+        },
+        "stable_path": [
+          "290:40319"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1194561780",
+      "uuid": "7beda0c0-5a3e-4f52-8ad0-f5e555ae061d",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-28T17:39:19.046Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko I don't think we need to make an announcement that the text is being translated - in that case the user is most likely listening to what they're typing in. We could keep changing the `placeholder` for this from \"Translated text\" to \"Translating...\" AND to add `aria-busy=\"true\"` to it while it is in progress ;)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "290:40319",
+        "node_offset": {
+          "x": 2283,
+          "y": 126
+        },
+        "stable_path": [
+          "290:40319"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1194559429",
+      "uuid": "27f5e763-ee4b-43f7-ba8d-f11dd682e46a",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-28T17:37:27.979Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko this seems to be a duplicate of 2 ;)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "290:40319",
+        "node_offset": {
+          "x": 184,
+          "y": 248
+        },
+        "stable_path": [
+          "290:40319"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1194558528",
+      "uuid": "d5b4ebd0-25c0-4f97-8c0a-99934d0d5b63",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-28T17:36:46.051Z",
+      "resolved_at": null,
+      "message": "The translated text field would be `<output>` HTML element (specs link for engineers: https://html.spec.whatwg.org/#the-output-element). If we need to use `<textarea>, it should have `readonly` HTML attribute",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "290:40319",
+        "node_offset": {
+          "x": 218,
+          "y": 569
+        },
+        "stable_path": [
+          "290:40319"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1178897430",
+      "uuid": "69241368-2d55-477a-8646-3875042034b0",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-03-18T21:39:05.203Z",
+      "resolved_at": null,
+      "message": "expect 2% to engage, really good is 5%, and incredible 15%\ncould look up how many people look at the search message",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "306:35626",
+        "node_offset": {
+          "x": 643,
+          "y": 27.98828125
+        },
+        "stable_path": [
+          "306:35626"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1178897228",
+      "uuid": "f81cc1cc-f9f8-4e84-ad06-ff2e66b90890",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-03-18T21:38:51.933Z",
+      "resolved_at": null,
+      "message": "how much of the translations market do you  capture\ndo they do it multiple times\nWhat would be revenue impact (guardrail metrics impact get negatively impacted)\nSearch engamenet (would that be affected negatively)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "306:35626",
+        "node_offset": {
+          "x": 688,
+          "y": 36.98828125
+        },
+        "stable_path": [
+          "306:35626"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1178520484",
+      "uuid": "7216a8bc-004d-43e2-86dc-956576967fc2",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-03-18T17:14:03.748Z",
+      "resolved_at": null,
+      "message": "Don't need that specific experiment... we have data.. like people like to have other forms of transaltions",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "305:35605",
+        "node_offset": {
+          "x": 292.6904296875,
+          "y": 12.31640625
+        },
+        "stable_path": [
+          "305:35605"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1160141770",
+      "uuid": "c90c9a78-f8f8-4156-9abe-115d0ba543fb",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-03-05T17:50:08.905Z",
+      "resolved_at": null,
+      "message": "length of sentence,",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "287:33225",
+        "node_offset": {
+          "x": 3457,
+          "y": 6868
+        },
+        "stable_path": [
+          "287:33225"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1160120039",
+      "uuid": "98ef495d-4b06-4daa-904a-f63554d8037b",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-03-05T17:36:03.729Z",
+      "resolved_at": null,
+      "message": "eventually we'd want to add dictionary for single words",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "242:6439",
+        "node_offset": {
+          "x": 802.8147583007812,
+          "y": 317
+        },
+        "stable_path": [
+          "242:6439"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1160115570",
+      "uuid": "5b60d675-31e5-49de-8f1d-f26cb30f2b03",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-03-05T17:33:05.131Z",
+      "resolved_at": null,
+      "message": "measure length of sentenses",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "242:6439",
+        "node_offset": {
+          "x": 470.81475830078125,
+          "y": 340
+        },
+        "stable_path": [
+          "242:6439"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "1160111399",
+      "uuid": "1ec11517-09ca-4286-8092-a29c55eace22",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-03-05T17:30:21.539Z",
+      "resolved_at": null,
+      "message": "After this we just need to go to data science hrs on wednesday.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "242:6439",
+        "node_offset": {
+          "x": 759.8147583007812,
+          "y": 265
+        },
+        "stable_path": [
+          "242:6439"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "1069919138",
+      "uuid": "55edc012-6190-4f4f-9b6a-67c266c41c72",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-12-18T21:25:56.934Z",
+      "resolved_at": null,
+      "message": "@Josh Berman",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "16:26080",
+        "node_offset": {
+          "x": 677.92578125,
+          "y": 76.859375
+        },
+        "stable_path": [
+          "16:26080"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1330951752",
+      "uuid": "20873c30-f749-42a5-975d-397607b91cca",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-07-08T16:29:14.298Z",
+      "resolved_at": null,
+      "message": "@Erik Nordin so from my last convo with @Kim Bryant she mentioned that we'd like to have the URL redirect. However, there was no clarity about the whole marketing page situation. \n\nFor now, I am thinking for non FX users we could maybe redirect them to this existing FX translation page. Which somewhat does what we intended to do... just less CTA focused... but my thinking is it's good enough for MVP. \n\nWill need to double check in Wednesday's meeting if Kim likes this idea!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "652:19136",
+        "node_offset": {
+          "x": 219.83740234375,
+          "y": 51.115234375
+        },
+        "stable_path": [
+          "652:19136"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1208554390",
+      "uuid": "fe530a84-ca77-4417-acd1-c47edf42ffae",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-04-08T20:57:39.300Z",
+      "resolved_at": null,
+      "message": "Keep min mind @Emily Wachowiak some users will quickly tab though this.. and not know what the learn more pertains to. Might be nice to add a bit more detail about what this learn more is about.. maybe something shorter then what I've put here. \n\nCC @Anna Yeddi let me know if u agree",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "290:40319",
+        "node_offset": {
+          "x": 317,
+          "y": 142
+        },
+        "stable_path": [
+          "290:40319"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1208221282",
+      "uuid": "f5f72ef9-64b1-49a4-baa6-829cdfe3ebd5",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-04-08T17:01:22.981Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi is this ok?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "290:40319",
+        "node_offset": {
+          "x": 114,
+          "y": 789
+        },
+        "stable_path": [
+          "290:40319"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1194765144",
+      "uuid": "90c21633-a68b-4b81-aa60-487f9d115780",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-03-28T20:49:03.157Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi so i've tweaked this order a bit based from my QA sesh with the user yesterday... something he mentioned is that this order would allow him to have the final translation as the last component cause and all the editable capabilities before. this also aligns with your comment in slack about making swap as number 3! \n\nWhat do u think!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "290:40319",
+        "node_offset": {
+          "x": 1327,
+          "y": 429
+        },
+        "stable_path": [
+          "290:40319"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "1194762596",
+      "uuid": "46ed703a-c8b7-42d1-8489-a39ea54d2e8a",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2025-03-28T20:46:07.877Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi what do u think of this... the user in the QA test.. mentioned that instead of reading full translation it makes more sense to just have a peep or a shorter less intrusive message that let's u know that what u have currently written is translated... this way if the user wants to keep typing... they don't loose their train of thought. \n\nAnd he said that when user is ready... they just go over to the actual field by tabbing over there.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "290:40319",
+        "node_offset": {
+          "x": 2242,
+          "y": 224
+        },
+        "stable_path": [
+          "290:40319"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "1194568489",
+      "uuid": "87b008e3-7be1-4e1b-a991-35cd7fb15895",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-28T17:44:42.026Z",
+      "resolved_at": null,
+      "message": "removed the \"{detected language}\" here and the \"{language}\" below because this would be provided by the `<select>` and its pre-selected `<option>` item (that we see by default) - and would be announced, we need to make sure we're not overwriting it and just are setting `aria-label` to \"Translate from\" and \"Translate to\".",
+      "reactions": [
+        {
+          "emoji": ":pray:",
+          "created_at": "2025-03-28T20:36:38.945Z",
+          "user": {
+            "id": "1174480039733711256",
+            "handle": "Dasha Andriyenko",
+            "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "290:40319",
+        "node_offset": {
+          "x": 278,
+          "y": 132
+        },
+        "stable_path": [
+          "290:40319"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "1194561780",
+      "uuid": "7beda0c0-5a3e-4f52-8ad0-f5e555ae061d",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-28T17:39:19.046Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko I don't think we need to make an announcement that the text is being translated - in that case the user is most likely listening to what they're typing in. We could keep changing the `placeholder` for this from \"Translated text\" to \"Translating...\" AND to add `aria-busy=\"true\"` to it while it is in progress ;)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "290:40319",
+        "node_offset": {
+          "x": 2283,
+          "y": 126
+        },
+        "stable_path": [
+          "290:40319"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "1194559429",
+      "uuid": "27f5e763-ee4b-43f7-ba8d-f11dd682e46a",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-28T17:37:27.979Z",
+      "resolved_at": null,
+      "message": "@Dasha Andriyenko this seems to be a duplicate of 2 ;)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "290:40319",
+        "node_offset": {
+          "x": 184,
+          "y": 248
+        },
+        "stable_path": [
+          "290:40319"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1194558528",
+      "uuid": "d5b4ebd0-25c0-4f97-8c0a-99934d0d5b63",
+      "file_key": "Em957HrebIhUDSp0iPZX54",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-03-28T17:36:46.051Z",
+      "resolved_at": null,
+      "message": "The translated text field would be `<output>` HTML element (specs link for engineers: https://html.spec.whatwg.org/#the-output-element). If we need to use `<textarea>, it should have `readonly` HTML attribute",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "290:40319",
+        "node_offset": {
+          "x": 218,
+          "y": 569
+        },
+        "stable_path": [
+          "290:40319"
+        ]
+      },
+      "order_id": "10"
+    }
+  ]
+}

@@ -1,0 +1,3672 @@
+{
+  "unresolved": [
+    {
+      "id": "1651043722",
+      "uuid": "e03b487e-ce1c-4806-b6e1-3c47e4ccaa9b",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-26T16:44:02.919Z",
+      "resolved_at": null,
+      "message": "hey @Juliana Gaibler ! can we have color tokens created for input boxes? given we have a handful of inputs for different reasons I think this would be helpful (:\nwe'd want the fill color for the default ones to be ButtonFace #292929 to align with what we have for HCM and also indicate to users that this can be interacted with. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2248:1570",
+        "node_offset": {
+          "x": 192,
+          "y": 28
+        },
+        "stable_path": [
+          "2248:1570"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1576002770",
+      "uuid": "96487e8a-c56a-49b2-b2aa-1ec7637733a0",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-01-05T22:11:44.465Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - hi! for the top row of toggle switches here, let's update these so the  tokens start with 'button/...' like the ones in the bottom row. We should also add a fill color for the toggle switches in the top row. Please let me know if you have any questions!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12706",
+        "node_offset": {
+          "x": 9,
+          "y": 23
+        },
+        "stable_path": [
+          "629:12706"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1345052944",
+      "uuid": "c6afb02d-c994-43e2-9d49-08bc8dcf82d0",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Victoria Wang",
+        "img_url": "https://s3-alpha.figma.com/profile/18f43f89-0a20-4d06-bebb-3a7922857a23",
+        "id": "931303445056880943"
+      },
+      "created_at": "2025-07-17T21:16:15.438Z",
+      "resolved_at": null,
+      "message": "Looks like these are using SF Pro?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2031:43947",
+        "node_offset": {
+          "x": 925,
+          "y": 376
+        },
+        "stable_path": [
+          "2031:43947"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "1270852814",
+      "uuid": "08677f8a-6e7e-412e-9a93-9500b2d2bfae",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-23T21:37:23.205Z",
+      "resolved_at": null,
+      "message": "hey @Juliana Gaibler - for Tab Group, we should be implementing the HCM colors that we defined in this Figma file (https://www.figma.com/design/f6J2lH6XDxLxyzOLr2E8oE/Tab-Grouping-Spec?node-id=9429-240756&p=f&t=SZbvGPoMoSMkxz4J-0). I checked with a local build and it looks like we're not currently implementing these. let me know if you have any questions!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:20813",
+        "node_offset": {
+          "x": 1025,
+          "y": 3672
+        },
+        "stable_path": [
+          "538:20813"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1269036442",
+      "uuid": "4ae53aa5-8959-4c0f-bcd9-942f43b8338f",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:21:37.502Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - requested changes for individual components (tabs, tab strip, icon buttons, buttons, sidebar, etc) should be applied and carry over to the Browser. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15652",
+        "node_offset": {
+          "x": 1574,
+          "y": 407
+        },
+        "stable_path": [
+          "629:15652"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1269031294",
+      "uuid": "398eda67-30c7-463d-888e-1f1285bcfa15",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:17:41.276Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler for this we'll want for the requested changes for the components in the sidebar to carry over (tabs, buttons, etc)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15674",
+        "node_offset": {
+          "x": 453,
+          "y": 122
+        },
+        "stable_path": [
+          "629:15674"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "1269030013",
+      "uuid": "181e7c79-64f4-46b0-9051-2311eb1ebc49",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:16:40.480Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler let's adjust the icon and text for hover and active to SelectedItem purple",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15671",
+        "node_offset": {
+          "x": 183,
+          "y": 31
+        },
+        "stable_path": [
+          "629:15671"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "1269029497",
+      "uuid": "02a2233c-6b5a-4c2c-aca8-585d53a62dca",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:16:17.240Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler let's change the fill to ButtonFace gray",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15671",
+        "node_offset": {
+          "x": 76,
+          "y": 30
+        },
+        "stable_path": [
+          "629:15671"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "1269027477",
+      "uuid": "95a58740-6529-46d1-a2f2-a9744feb8217",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:14:47.560Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler for this we'll want for the requested changes for icon button, search input, and checkboxes to be applied and carry over here. The fill should be ButtonFace gray and 'Find in page' should be ButtonText yellow. Here is the original HCM Find Bar for reference https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1397-14481&t=dO1JivE3BiQlOwWC-4 thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "541:8321",
+        "node_offset": {
+          "x": 5306,
+          "y": 272
+        },
+        "stable_path": [
+          "541:8321"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1269025090",
+      "uuid": "14b52723-9b6f-4a17-9d1f-bcb885c38433",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:12:51.699Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler looks good! for the two 'x' icon buttons, let's change the fill to ButtonFace gray. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15665",
+        "node_offset": {
+          "x": 955,
+          "y": 39
+        },
+        "stable_path": [
+          "629:15665"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1269023622",
+      "uuid": "8a276537-811b-40a8-b106-b71821b7a346",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:11:42.879Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - below is the link to the original HCM bookmark items. Default should have ButtonFace gray fill and ButtonText yellow icon+text. Hover and active should have SelectedItem purple icon+text. Focus will have the same changes as default as well as a white focus outline. Thank you!\n\nhttps://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-5093&t=dO1JivE3BiQlOwWC-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "541:8321",
+        "node_offset": {
+          "x": 578,
+          "y": 850
+        },
+        "stable_path": [
+          "541:8321"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "1269020496",
+      "uuid": "4a8d48ba-5d75-40bc-b235-8207a8055f0a",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:09:19.877Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - for this we'll want to change the fill to ButtonFace gray and the icons and text to ButtonText yellow. Here is the original HCM Bookmarks Toolbar for reference (https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-5131&t=dO1JivE3BiQlOwWC-4) thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15662",
+        "node_offset": {
+          "x": 367,
+          "y": 63
+        },
+        "stable_path": [
+          "629:15662"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1269018576",
+      "uuid": "0843c127-f1f0-4f29-9e4c-2eb61a1ada97",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:07:49.875Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler what would be the use case for this? is this clickable?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21136",
+        "node_offset": {
+          "x": 75,
+          "y": 68
+        },
+        "stable_path": [
+          "629:21136"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1269017493",
+      "uuid": "c4343e2a-9ad3-420b-88ab-4bd114c4d9ef",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:07:01.390Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg similar situation here where there isn't a distinct change in the original HCM for the zoom controls (https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-4340&t=dO1JivE3BiQlOwWC-4)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21141",
+        "node_offset": {
+          "x": 69,
+          "y": 43
+        },
+        "stable_path": [
+          "629:21141"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1269015983",
+      "uuid": "15558375-13f3-41b1-ab51-4e47ff83dff5",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:05:46.692Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg - for this, should it follow the HCM for secondary buttons? (default and active) or would things invert? secondary --> primary?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21134",
+        "node_offset": {
+          "x": 68,
+          "y": 46
+        },
+        "stable_path": [
+          "629:21134"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1269014468",
+      "uuid": "12a9bde8-d5ad-4d48-b7e3-8621b24e028e",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:04:31.588Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler for these, I would change the white text to ButtonText yellow and add a ButtonText yellow border. The white focus outline will be kept for the focused example. The styling would be similar to HCM secondary buttons (for reference: https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1-270&t=dO1JivE3BiQlOwWC-4) thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21140",
+        "node_offset": {
+          "x": 91,
+          "y": 56
+        },
+        "stable_path": [
+          "629:21140"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1269011197",
+      "uuid": "620899dc-7726-4452-a7e3-6c200448c79a",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:01:50.593Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg - can you help me clarify what this should look like between on/off? Here is the link to the Search Mode Indicator in the original HCM file but it doesn't look like there's any change between the 2 states? https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-4368&t=dO1JivE3BiQlOwWC-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21132",
+        "node_offset": {
+          "x": 114,
+          "y": 43
+        },
+        "stable_path": [
+          "629:21132"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1268990528",
+      "uuid": "e105bd79-e76a-47c9-aa92-2dc71b051e4b",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:46:27.065Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler let's change the ellipses icon button from a circle to square. The ellipses will be SelectedItemText gray as well (https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-4143&t=dO1JivE3BiQlOwWC-4)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21130",
+        "node_offset": {
+          "x": 854,
+          "y": 265
+        },
+        "stable_path": [
+          "629:21130"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1268989510",
+      "uuid": "47619e2d-61c7-4537-b0f3-a73f184b173c",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:45:41.751Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler we will want these to be inverted where the fill is SelectedItem purple with SelectedItemText gray text. this will apply to the Switch to Tab button and ellipses icon button too. here are the HCM address bar list items for reference https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-4143&t=dO1JivE3BiQlOwWC-4\nthank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21130",
+        "node_offset": {
+          "x": 460,
+          "y": 272
+        },
+        "stable_path": [
+          "629:21130"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "1268987764",
+      "uuid": "3deb6557-4856-4647-a79c-3ad9dd192328",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:44:25.260Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler The fill for these including 'Switch to Tab' should be ButtonFace gray. Here are the HCM Address Bar list items for example https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-4143&t=dO1JivE3BiQlOwWC-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21130",
+        "node_offset": {
+          "x": 451,
+          "y": 194
+        },
+        "stable_path": [
+          "629:21130"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "1268984175",
+      "uuid": "92e3bf42-9f79-4bc7-8b6d-9dd91af1b9c7",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:41:53.180Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler the fill for icon buttons and input should be ButtonFace gray. The text and icons should be ButtonText yellow and we'll want the input to have a ButtonText yellow border",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21128",
+        "node_offset": {
+          "x": 315,
+          "y": 41
+        },
+        "stable_path": [
+          "629:21128"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1268981889",
+      "uuid": "457d4c42-6527-4407-b97a-3192e4617d10",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:40:15.543Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler we'll want to invert this so that the fill is the SelectedItem purple and the text is SelectedItemText gray. This is the original HCM Address Bar example for reference https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-4388&t=dO1JivE3BiQlOwWC-4\n\nthank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21126",
+        "node_offset": {
+          "x": 274,
+          "y": 170
+        },
+        "stable_path": [
+          "629:21126"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1268980307",
+      "uuid": "667bd60f-9b5f-4f5e-9a6d-a9464a4d851b",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:39:05.989Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler let's change this from a circle to a square to reflect the icon buttons above. The ellipses should also be ButtonText yellow\n\ncc @Morgan Rae Reschenberg",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21126",
+        "node_offset": {
+          "x": 578,
+          "y": 161
+        },
+        "stable_path": [
+          "629:21126"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "1268979418",
+      "uuid": "31673976-89db-44e1-9fd3-6f90f7296b9d",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:38:26.188Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler the fill for the icon buttons and URL button should be ButtonFace gray text. The icons and text should be ButtonText yellow",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21126",
+        "node_offset": {
+          "x": 351,
+          "y": 124
+        },
+        "stable_path": [
+          "629:21126"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1268976060",
+      "uuid": "f33c0167-cd49-4b6e-9297-d8665740dfb6",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:35:51.977Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler these will also look like icon buttons with ButtonText yellow outlines and icons. The fill will be ButtonFace gray and the indicator badges (circles, triangles) will stay the same color as Light/Dark\n\nwe don't have an example from the original HCM Figma but it'll follow the same style as above. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21124",
+        "node_offset": {
+          "x": 51,
+          "y": 41
+        },
+        "stable_path": [
+          "629:21124"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1268974335",
+      "uuid": "8eaeedd2-5425-4136-9fa4-8382217fd5be",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:34:35.830Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler these will also look like icon buttons with ButtonText yellow outlines and icons. The fill will be ButtonFace gray and the indicator badges (circles, triangles) will stay the same color as Light/Dark\n\nhere is the Toolbar buttons / App Menu HCM example for reference https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1396-11831&t=dO1JivE3BiQlOwWC-4\n\nthank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21122",
+        "node_offset": {
+          "x": 48,
+          "y": 15
+        },
+        "stable_path": [
+          "629:21122"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1268971711",
+      "uuid": "b37e5cd2-2935-4383-921a-f82b1f48fc50",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:32:35.237Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler these will also look like icon buttons with ButtonText yellow outlines and icons (profile pics being the exception). The fill will be ButtonFace gray and the indicator badges (circles, triangles) will stay the same color as Light/Dark\n\nhere's the original Toolbar / Firefox Accounts HCM example for reference https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1396-11873&t=dO1JivE3BiQlOwWC-4\n\nthank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21120",
+        "node_offset": {
+          "x": 139,
+          "y": 173
+        },
+        "stable_path": [
+          "629:21120"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1268968982",
+      "uuid": "92bcb53d-7114-4760-96e4-8eb5462c54e5",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:30:30.264Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - we'll want these to reflect the style of icon buttons. Default, Informational, Warning, and Critical will have ButtonText yellow outlines and icons. The fill will be ButtonFace gray. In addition, the indicator circle/triangle badges will keep their colors\n\nFor In Progress and Complete, we'll invert these so that the fill is ButtonText yellow with ButtonFace gray icons.\n\nhere's the original 'Toolbar button/ Downloads' example https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1396-11922&t=dO1JivE3BiQlOwWC-4\n\nthank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:20813",
+        "node_offset": {
+          "x": 7206,
+          "y": 804
+        },
+        "stable_path": [
+          "538:20813"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1268963349",
+      "uuid": "2d76896d-36f7-4003-aca3-4bff2fc3f1fc",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:26:26.494Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler ! \n\n* for the URL bar, let's change the outline from white to ButtonText yellow\n* the text in the URL bar and the icons in the icon buttons will also be ButtonText yellow\n\nhere's the original toolbar HCM page for reference :) https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1396-11947&t=dO1JivE3BiQlOwWC-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21116",
+        "node_offset": {
+          "x": 325,
+          "y": 85
+        },
+        "stable_path": [
+          "629:21116"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1268959683",
+      "uuid": "a836443d-795b-4645-8e6e-46bc829bc8fc",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:23:47.869Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg - these look like they're applicable to tab groups when they're different colors and such. we won't apply HCM here right?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:24107",
+        "node_offset": {
+          "x": 412,
+          "y": 9
+        },
+        "stable_path": [
+          "538:24107"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1268958014",
+      "uuid": "6c7a3971-e8e5-4794-8f04-9cfb2321fc93",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:22:35.459Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg will we want these to reflect icon buttons as well? looks like this would be in the tab strip when you have a bunch of tabs open and have to move left or right",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21108",
+        "node_offset": {
+          "x": 100,
+          "y": 117
+        },
+        "stable_path": [
+          "629:21108"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1268956458",
+      "uuid": "92713d0b-8475-452b-901f-49cb797b77e5",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:21:30.282Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - this looks good! for this we'll want to apply the same requested changes for default on the left here as well but keep the white focus outline :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21106",
+        "node_offset": {
+          "x": 913,
+          "y": 44
+        },
+        "stable_path": [
+          "629:21106"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1268955283",
+      "uuid": "9b041cb7-a7e2-4830-a4d9-2533ded84ad1",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:20:40.419Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler lets change the fill to SelectedItem purple, and the text + globe icon to SelectedItemText gray. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21106",
+        "node_offset": {
+          "x": 686,
+          "y": 40
+        },
+        "stable_path": [
+          "629:21106"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1268953536",
+      "uuid": "5b3a7226-62a8-4f77-a63f-a8ac9cd03959",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:19:27.677Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - let's change the text and globe icon to SelectedItem purple. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21106",
+        "node_offset": {
+          "x": 375,
+          "y": 46
+        },
+        "stable_path": [
+          "629:21106"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "1268952961",
+      "uuid": "12aff6e7-dd67-4a7a-9542-ffb26d0d5467",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:19:03.111Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg - should the volume/sound icon here reflect an icon button? it doesn't appear this way in the original HCM Figma but I know for tabs in prod, you can click on the icon to mute/unmute",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21106",
+        "node_offset": {
+          "x": 74,
+          "y": 35
+        },
+        "stable_path": [
+          "629:21106"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1268950929",
+      "uuid": "5a0d0419-023b-4814-a88c-5d51c07691d8",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:17:40.628Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler let's change the text and globe icon to ButtonText yellow and the fill color to ButtonFace gray",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21106",
+        "node_offset": {
+          "x": 150,
+          "y": 52
+        },
+        "stable_path": [
+          "629:21106"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "1268948754",
+      "uuid": "f7408c99-135d-4898-afa1-a0660e7d6155",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:16:09.101Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler \n\n* for default tabs, let's change the fill color to use ButtonFace gray. these would be the non-active tabs\n* for the active/selected tab, we'll want a ButtonText yellow outline, SelectedItem purple fill, SelectedItemText gray text\n* the 'x' close button inside of the active/selected tab should have a ButtonText yellow outline and 'x' with a ButtonFace gray fill.\n\nhere is the HCM tab strip for reference (https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-6179&t=dO1JivE3BiQlOwWC-4) thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15655",
+        "node_offset": {
+          "x": 470,
+          "y": 223
+        },
+        "stable_path": [
+          "629:15655"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1267185957",
+      "uuid": "33a19aed-979d-4a4b-956e-53843e5caec5",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:58:18.113Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - we won't need the top 2 designs for Mac since they do not have HCM. thank you :D",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15655",
+        "node_offset": {
+          "x": 79,
+          "y": 72
+        },
+        "stable_path": [
+          "629:15655"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1267184586",
+      "uuid": "057392d0-869e-48cb-8635-23b89cdbfa81",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:56:40.538Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for these designs, we'll want to make sure we're using Windows for the mockup as Mac does not have HCM. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15652",
+        "node_offset": {
+          "x": 316,
+          "y": 342
+        },
+        "stable_path": [
+          "629:15652"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1267183559",
+      "uuid": "38e08e2c-6833-4d3c-8cfe-64f6432c1d14",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:55:27.460Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for the 'x' icon buttons, let's use the ButtonFace gray for these",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:13951",
+        "node_offset": {
+          "x": 465,
+          "y": 301
+        },
+        "stable_path": [
+          "629:13951"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1267182912",
+      "uuid": "8ee03b47-5358-454d-9b0a-ea3adf1459dc",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:54:38.632Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for the icon buttons, let's change the fill to the gray ButtonFace color. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2030:26489",
+        "node_offset": {
+          "x": 669,
+          "y": 42
+        },
+        "stable_path": [
+          "2030:26489"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1267181575",
+      "uuid": "84ee6725-f973-4804-b9c0-719243c12713",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:53:07.147Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler will there be an HCM version for this?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2030:30012",
+        "node_offset": {
+          "x": 422,
+          "y": 145
+        },
+        "stable_path": [
+          "2030:30012"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1267180498",
+      "uuid": "ee85c8fb-3da1-489a-88c3-89630b6c8625",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:51:47.143Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler -\n* for the default state, let's change the text and icon to ButtonText yellow and the fill to ButtonFace gray\n* for the hover state, let's change the text and icon to SelectedItem purple\n\nfor the 4 items at the bottom, what is the difference between these and the top 4?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:13949",
+        "node_offset": {
+          "x": 256,
+          "y": 103
+        },
+        "stable_path": [
+          "629:13949"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1267176470",
+      "uuid": "c5f06c5c-c286-443e-84df-73aea923233a",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:46:56.328Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - this should follow the active HCM state- a ButtonText yellow stroke, SelectedItemText fill, and SelectedItem for the icon and text. I do see to the far left the note about incorrect HCM tokens. Is that applicable here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:13946",
+        "node_offset": {
+          "x": 245,
+          "y": 176
+        },
+        "stable_path": [
+          "629:13946"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1267174029",
+      "uuid": "58a13df5-eea1-434c-bc52-26a16ee38b27",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:44:09.139Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - since there is no border for the individual options, let's apply the HCM menu item styles to these. Please refer to https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=51-1592&t=3QXKUZE6WSr6Pnj7-4 for the different styles. Thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:13941",
+        "node_offset": {
+          "x": 135,
+          "y": 153
+        },
+        "stable_path": [
+          "629:13941"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1267171752",
+      "uuid": "7f225428-77cc-43a7-be78-1c2bdba2e135",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:41:31.509Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for the individual items in the panel list, since they're clickable, let's change this to ButtonFace gray. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:13944",
+        "node_offset": {
+          "x": 154,
+          "y": 408
+        },
+        "stable_path": [
+          "629:13944"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1267169127",
+      "uuid": "16bd5d1b-1683-49ce-90ac-148dcd99c7bd",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:38:30.424Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - is the 'i' icon clickable?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2500:8909",
+        "node_offset": {
+          "x": 28,
+          "y": 22
+        },
+        "stable_path": [
+          "2500:8909"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1267167528",
+      "uuid": "f0a286c4-a118-4473-9638-5ee89c87cbc6",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:36:45.575Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi - what are your thoughts on using Zap for the divider in HCM?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:18166",
+        "node_offset": {
+          "x": 271,
+          "y": 53
+        },
+        "stable_path": [
+          "629:18166"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1267166705",
+      "uuid": "ecf9fad9-f311-421c-b10b-9ea57aff7759",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:35:55.058Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - to clarify, if this referring only to the Text, Description piece or does this include the 'Learn more' link text?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:18164",
+        "node_offset": {
+          "x": 109,
+          "y": 38
+        },
+        "stable_path": [
+          "629:18164"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1267164777",
+      "uuid": "87e549af-4561-49f3-8954-f029e0d57129",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:33:49.601Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - can you advise on where the subheading component will be located in regards to the menu? thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:18156",
+        "node_offset": {
+          "x": 165,
+          "y": 35
+        },
+        "stable_path": [
+          "629:18156"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1267163998",
+      "uuid": "e49dd1da-51d6-4fca-8800-4bf32a64820c",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:32:58.471Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - can you advise on where the menu overflow component will be located in regards to the menu? thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:18154",
+        "node_offset": {
+          "x": 211,
+          "y": 31
+        },
+        "stable_path": [
+          "629:18154"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1267157968",
+      "uuid": "40731f25-efe2-4f9a-853c-d5873265e7ab",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:26:48.540Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - the changes requested on the individual components should be carried over here as well. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12733",
+        "node_offset": {
+          "x": 487,
+          "y": 250
+        },
+        "stable_path": [
+          "629:12733"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1267157007",
+      "uuid": "ede985a1-1cdd-433a-9ce8-383788d4968b",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:25:47.086Z",
+      "resolved_at": null,
+      "message": "hey @Juliana Gaibler - the changes requested on the individual components should be carried over here. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12728",
+        "node_offset": {
+          "x": 426,
+          "y": 269
+        },
+        "stable_path": [
+          "629:12728"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1267155273",
+      "uuid": "c3f161ba-0f50-498a-a1f7-08b249b9ff57",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:24:03.842Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for the disabled state, let's change the stroke from white to GrayText. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12731",
+        "node_offset": {
+          "x": 137,
+          "y": 430
+        },
+        "stable_path": [
+          "629:12731"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1267153949",
+      "uuid": "b76f658a-b780-4e1b-b7c0-5a8c7a5cd3f7",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:22:43.284Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler -\n\n* for each state, let's adjust the Description text and > caret to have the same color as the Label text\n* for hover state, let's change the stroke to SelectedItem purple\n* for default and active state, let's change the stroke to ButtonText yellow\n\nThank you! :partying_face:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12731",
+        "node_offset": {
+          "x": 223,
+          "y": 144
+        },
+        "stable_path": [
+          "629:12731"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1267147564",
+      "uuid": "ee41aed9-e0f0-4b9c-aa9f-3cbef0120af6",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:16:27.559Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for the stroke on the swatch circle, let's change this to SelectedItem purple (for both over and active). Thank you :D",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12719",
+        "node_offset": {
+          "x": 56,
+          "y": 105
+        },
+        "stable_path": [
+          "629:12719"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1267146164",
+      "uuid": "f2e3207b-3790-479f-9bde-c17e3d8d3ce9",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:15:01.843Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - for the pencil icon, let's change the color so that each icon matches the color of the text on the left. Thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12719",
+        "node_offset": {
+          "x": 158,
+          "y": 171
+        },
+        "stable_path": [
+          "629:12719"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1267144063",
+      "uuid": "ae096581-b3de-4217-a456-0d31af032c5d",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:13:01.439Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for the disabled checked state, let's use gray :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12711",
+        "node_offset": {
+          "x": 159,
+          "y": 56
+        },
+        "stable_path": [
+          "629:12711"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1267142306",
+      "uuid": "466382d3-56dd-41a9-8883-26689fb714f4",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:11:18.486Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for the active checked state, let's change the thin outer ring to ButtonText yellow. Thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12711",
+        "node_offset": {
+          "x": 102,
+          "y": 54
+        },
+        "stable_path": [
+          "629:12711"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1267137034",
+      "uuid": "4d80c599-d33c-493e-812c-bb8fe96b710f",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:06:15.224Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for these 3 inputs, can you add active and hover states? Thank you!! :tada:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:6964",
+        "node_offset": {
+          "x": 2671,
+          "y": 211
+        },
+        "stable_path": [
+          "538:6964"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1267128188",
+      "uuid": "acbcee9e-dd72-4e5b-b56d-74109d46cf16",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T20:58:01.920Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - regarding links, are they intended to be styled like buttons?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:17003",
+        "node_offset": {
+          "x": 390,
+          "y": 54
+        },
+        "stable_path": [
+          "538:17003"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1267117284",
+      "uuid": "0a47bf4f-23bc-468f-be3c-f0f89f4ed8f2",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T20:48:57.939Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - \n\n* for default, focus, and disabled, we'll want to use ButtonFace gray\n* for hover and active we'll want to use SelectedItemText gray\n* for active off, the outline of the toggle will be ButtonText yellow and the circle inside will be SelectedItem purple\n* for active on, the outline of the toggle will be ButtonText yellow \n\nHere is the HCM toggle switch page for reference (https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=11-126&t=YZxstRtDdjjZ513W-4) Thank you!! :tada:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12706",
+        "node_offset": {
+          "x": 67,
+          "y": 9
+        },
+        "stable_path": [
+          "629:12706"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1267108595",
+      "uuid": "36ae6862-70f9-4669-914f-98080df849a6",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T20:42:02.559Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler ! A couple things:\n* The fill for default, focus, and disabled should all be the ButtonFace dark gray color\n* The fill for hover and active should be the SelectedItemText gray\n* For the active checked state, we'll want to add a ButtonFace yellow stroke.\n\nHere is the HCM checkbox page for reference! (https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=9-225&t=YZxstRtDdjjZ513W-0) Thank you! :star:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12709",
+        "node_offset": {
+          "x": 167,
+          "y": 37
+        },
+        "stable_path": [
+          "629:12709"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1267009658",
+      "uuid": "02eb9278-f793-4e97-ad02-b5a00a4f5fcb",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-21T19:23:59.164Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler while we're here, do we have a control over the size of this chevron? Seems too small for precise tapping/clicking, even when the rest of the area is clickable, because the panel would have the same background color and only the chevron would be a visible/discernible identification of a control. It's an access-S4 issue at most, largely for the delight than compliance though",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:18153",
+        "node_offset": {
+          "x": 186,
+          "y": 22
+        },
+        "stable_path": [
+          "629:18153"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1266655215",
+      "uuid": "7395d724-3e1f-43b4-9fe5-f243f83c55e3",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T15:33:13.615Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg - for the text input/search input, would the X icon button be outlined or only when it's in focus for HCM?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:6964",
+        "node_offset": {
+          "x": 2487,
+          "y": 763
+        },
+        "stable_path": [
+          "538:6964"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1265047137",
+      "uuid": "3487f370-3265-4fab-8ad5-294d1f736eec",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-20T20:44:38.539Z",
+      "resolved_at": null,
+      "message": "hey @Juliana Gaibler - this comment is applicable to the Error states for each 3 but we should ensure that the error message we see in the left column is also used with the error states in the right. We want to make sure we're not relying on color alone (https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html) to indicate an error. Thank you!! :tada:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:6964",
+        "node_offset": {
+          "x": 2883,
+          "y": 1405
+        },
+        "stable_path": [
+          "538:6964"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1264810519",
+      "uuid": "cfde7109-5e17-4246-8df4-a9c28fd74a37",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-20T17:51:31.603Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler ! For the hover and active states, let's change the icon/Label text/caret to the SelectedItem purple :grin: thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:11938",
+        "node_offset": {
+          "x": 296,
+          "y": 6
+        },
+        "stable_path": [
+          "629:11938"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1264804073",
+      "uuid": "b9c5fffd-fa78-4cee-ba63-121f3c39120c",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-20T17:47:10.544Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler would that be possible to add hover and active states in there too? I tried to toggle the state in the example and they seem to be missing HCM styling. This is what we had in the playground as an idea of the treatment for menus/panels for the reference.\n\nCC @Natalie Stroud",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:18152",
+        "node_offset": {
+          "x": 270,
+          "y": 167
+        },
+        "stable_path": [
+          "629:18152"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1260658383",
+      "uuid": "7cbf851f-0061-4eac-87b4-2eb89abf0ed8",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-16T20:27:41.505Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler for the split button HCM, would we want to create examples for the different states like we did in the High Contrast Mode file? (HCM Split Button for reference- https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=51-864&t=KHu8VVqs49r9jBU6-4)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "533:7349",
+        "node_offset": {
+          "x": 1510,
+          "y": 1150
+        },
+        "stable_path": [
+          "533:7349"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1260651979",
+      "uuid": "d63548e0-d33c-4dfd-ac98-34a975209c74",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-16T20:20:16.652Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler these look good! a few notes/changes needed\n\n* for Ghost, Default, Focus, and Disabled the button fill will need the #292929 ButtonFace color\n* for Hover and Active, the yellow star should change to 'SelectedItem' purple\n\nthank you again! :tada:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "533:7349",
+        "node_offset": {
+          "x": 1358,
+          "y": 675
+        },
+        "stable_path": [
+          "533:7349"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1258931350",
+      "uuid": "3348c25a-e788-49ae-8a1e-bce1088149bc",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-15T20:14:57.177Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - what state applies to each of these?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "533:7349",
+        "node_offset": {
+          "x": 1308,
+          "y": 682
+        },
+        "stable_path": [
+          "533:7349"
+        ]
+      },
+      "order_id": "3"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1651043722",
+      "uuid": "e03b487e-ce1c-4806-b6e1-3c47e4ccaa9b",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-02-26T16:44:02.919Z",
+      "resolved_at": null,
+      "message": "hey @Juliana Gaibler ! can we have color tokens created for input boxes? given we have a handful of inputs for different reasons I think this would be helpful (:\nwe'd want the fill color for the default ones to be ButtonFace #292929 to align with what we have for HCM and also indicate to users that this can be interacted with. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2248:1570",
+        "node_offset": {
+          "x": 192,
+          "y": 28
+        },
+        "stable_path": [
+          "2248:1570"
+        ]
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "1576002770",
+      "uuid": "96487e8a-c56a-49b2-b2aa-1ec7637733a0",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2026-01-05T22:11:44.465Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - hi! for the top row of toggle switches here, let's update these so the  tokens start with 'button/...' like the ones in the bottom row. We should also add a fill color for the toggle switches in the top row. Please let me know if you have any questions!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12706",
+        "node_offset": {
+          "x": 9,
+          "y": 23
+        },
+        "stable_path": [
+          "629:12706"
+        ]
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "1270852814",
+      "uuid": "08677f8a-6e7e-412e-9a93-9500b2d2bfae",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-23T21:37:23.205Z",
+      "resolved_at": null,
+      "message": "hey @Juliana Gaibler - for Tab Group, we should be implementing the HCM colors that we defined in this Figma file (https://www.figma.com/design/f6J2lH6XDxLxyzOLr2E8oE/Tab-Grouping-Spec?node-id=9429-240756&p=f&t=SZbvGPoMoSMkxz4J-0). I checked with a local build and it looks like we're not currently implementing these. let me know if you have any questions!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:20813",
+        "node_offset": {
+          "x": 1025,
+          "y": 3672
+        },
+        "stable_path": [
+          "538:20813"
+        ]
+      },
+      "order_id": "77"
+    },
+    {
+      "id": "1269036442",
+      "uuid": "4ae53aa5-8959-4c0f-bcd9-942f43b8338f",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:21:37.502Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - requested changes for individual components (tabs, tab strip, icon buttons, buttons, sidebar, etc) should be applied and carry over to the Browser. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15652",
+        "node_offset": {
+          "x": 1574,
+          "y": 407
+        },
+        "stable_path": [
+          "629:15652"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "1269031294",
+      "uuid": "398eda67-30c7-463d-888e-1f1285bcfa15",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:17:41.276Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler for this we'll want for the requested changes for the components in the sidebar to carry over (tabs, buttons, etc)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15674",
+        "node_offset": {
+          "x": 453,
+          "y": 122
+        },
+        "stable_path": [
+          "629:15674"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "1269030013",
+      "uuid": "181e7c79-64f4-46b0-9051-2311eb1ebc49",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:16:40.480Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler let's adjust the icon and text for hover and active to SelectedItem purple",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15671",
+        "node_offset": {
+          "x": 183,
+          "y": 31
+        },
+        "stable_path": [
+          "629:15671"
+        ]
+      },
+      "order_id": "74"
+    },
+    {
+      "id": "1269029497",
+      "uuid": "02a2233c-6b5a-4c2c-aca8-585d53a62dca",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:16:17.240Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler let's change the fill to ButtonFace gray",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15671",
+        "node_offset": {
+          "x": 76,
+          "y": 30
+        },
+        "stable_path": [
+          "629:15671"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "1269027477",
+      "uuid": "95a58740-6529-46d1-a2f2-a9744feb8217",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:14:47.560Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler for this we'll want for the requested changes for icon button, search input, and checkboxes to be applied and carry over here. The fill should be ButtonFace gray and 'Find in page' should be ButtonText yellow. Here is the original HCM Find Bar for reference https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1397-14481&t=dO1JivE3BiQlOwWC-4 thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "541:8321",
+        "node_offset": {
+          "x": 5306,
+          "y": 272
+        },
+        "stable_path": [
+          "541:8321"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "1269025090",
+      "uuid": "14b52723-9b6f-4a17-9d1f-bcb885c38433",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:12:51.699Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler looks good! for the two 'x' icon buttons, let's change the fill to ButtonFace gray. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15665",
+        "node_offset": {
+          "x": 955,
+          "y": 39
+        },
+        "stable_path": [
+          "629:15665"
+        ]
+      },
+      "order_id": "71"
+    },
+    {
+      "id": "1269023622",
+      "uuid": "8a276537-811b-40a8-b106-b71821b7a346",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:11:42.879Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - below is the link to the original HCM bookmark items. Default should have ButtonFace gray fill and ButtonText yellow icon+text. Hover and active should have SelectedItem purple icon+text. Focus will have the same changes as default as well as a white focus outline. Thank you!\n\nhttps://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-5093&t=dO1JivE3BiQlOwWC-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "541:8321",
+        "node_offset": {
+          "x": 578,
+          "y": 850
+        },
+        "stable_path": [
+          "541:8321"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "1269020496",
+      "uuid": "4a8d48ba-5d75-40bc-b235-8207a8055f0a",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:09:19.877Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - for this we'll want to change the fill to ButtonFace gray and the icons and text to ButtonText yellow. Here is the original HCM Bookmarks Toolbar for reference (https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-5131&t=dO1JivE3BiQlOwWC-4) thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15662",
+        "node_offset": {
+          "x": 367,
+          "y": 63
+        },
+        "stable_path": [
+          "629:15662"
+        ]
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "1269018576",
+      "uuid": "0843c127-f1f0-4f29-9e4c-2eb61a1ada97",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:07:49.875Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler what would be the use case for this? is this clickable?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21136",
+        "node_offset": {
+          "x": 75,
+          "y": 68
+        },
+        "stable_path": [
+          "629:21136"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "1269017493",
+      "uuid": "c4343e2a-9ad3-420b-88ab-4bd114c4d9ef",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:07:01.390Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg similar situation here where there isn't a distinct change in the original HCM for the zoom controls (https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-4340&t=dO1JivE3BiQlOwWC-4)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21141",
+        "node_offset": {
+          "x": 69,
+          "y": 43
+        },
+        "stable_path": [
+          "629:21141"
+        ]
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "1269015983",
+      "uuid": "15558375-13f3-41b1-ab51-4e47ff83dff5",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:05:46.692Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg - for this, should it follow the HCM for secondary buttons? (default and active) or would things invert? secondary --> primary?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21134",
+        "node_offset": {
+          "x": 68,
+          "y": 46
+        },
+        "stable_path": [
+          "629:21134"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "1269014468",
+      "uuid": "12a9bde8-d5ad-4d48-b7e3-8621b24e028e",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:04:31.588Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler for these, I would change the white text to ButtonText yellow and add a ButtonText yellow border. The white focus outline will be kept for the focused example. The styling would be similar to HCM secondary buttons (for reference: https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1-270&t=dO1JivE3BiQlOwWC-4) thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21140",
+        "node_offset": {
+          "x": 91,
+          "y": 56
+        },
+        "stable_path": [
+          "629:21140"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "1269011197",
+      "uuid": "620899dc-7726-4452-a7e3-6c200448c79a",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T19:01:50.593Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg - can you help me clarify what this should look like between on/off? Here is the link to the Search Mode Indicator in the original HCM file but it doesn't look like there's any change between the 2 states? https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-4368&t=dO1JivE3BiQlOwWC-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21132",
+        "node_offset": {
+          "x": 114,
+          "y": 43
+        },
+        "stable_path": [
+          "629:21132"
+        ]
+      },
+      "order_id": "64"
+    },
+    {
+      "id": "1268990528",
+      "uuid": "e105bd79-e76a-47c9-aa92-2dc71b051e4b",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:46:27.065Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler let's change the ellipses icon button from a circle to square. The ellipses will be SelectedItemText gray as well (https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-4143&t=dO1JivE3BiQlOwWC-4)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21130",
+        "node_offset": {
+          "x": 854,
+          "y": 265
+        },
+        "stable_path": [
+          "629:21130"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "1268989510",
+      "uuid": "47619e2d-61c7-4537-b0f3-a73f184b173c",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:45:41.751Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler we will want these to be inverted where the fill is SelectedItem purple with SelectedItemText gray text. this will apply to the Switch to Tab button and ellipses icon button too. here are the HCM address bar list items for reference https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-4143&t=dO1JivE3BiQlOwWC-4\nthank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21130",
+        "node_offset": {
+          "x": 460,
+          "y": 272
+        },
+        "stable_path": [
+          "629:21130"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "1268987764",
+      "uuid": "3deb6557-4856-4647-a79c-3ad9dd192328",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:44:25.260Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler The fill for these including 'Switch to Tab' should be ButtonFace gray. Here are the HCM Address Bar list items for example https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-4143&t=dO1JivE3BiQlOwWC-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21130",
+        "node_offset": {
+          "x": 451,
+          "y": 194
+        },
+        "stable_path": [
+          "629:21130"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "1268984175",
+      "uuid": "92e3bf42-9f79-4bc7-8b6d-9dd91af1b9c7",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:41:53.180Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler the fill for icon buttons and input should be ButtonFace gray. The text and icons should be ButtonText yellow and we'll want the input to have a ButtonText yellow border",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21128",
+        "node_offset": {
+          "x": 315,
+          "y": 41
+        },
+        "stable_path": [
+          "629:21128"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "1268981889",
+      "uuid": "457d4c42-6527-4407-b97a-3192e4617d10",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:40:15.543Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler we'll want to invert this so that the fill is the SelectedItem purple and the text is SelectedItemText gray. This is the original HCM Address Bar example for reference https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-4388&t=dO1JivE3BiQlOwWC-4\n\nthank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21126",
+        "node_offset": {
+          "x": 274,
+          "y": 170
+        },
+        "stable_path": [
+          "629:21126"
+        ]
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "1268980307",
+      "uuid": "667bd60f-9b5f-4f5e-9a6d-a9464a4d851b",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:39:05.989Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler let's change this from a circle to a square to reflect the icon buttons above. The ellipses should also be ButtonText yellow\n\ncc @Morgan Rae Reschenberg",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21126",
+        "node_offset": {
+          "x": 578,
+          "y": 161
+        },
+        "stable_path": [
+          "629:21126"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "1268979418",
+      "uuid": "31673976-89db-44e1-9fd3-6f90f7296b9d",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:38:26.188Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler the fill for the icon buttons and URL button should be ButtonFace gray text. The icons and text should be ButtonText yellow",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21126",
+        "node_offset": {
+          "x": 351,
+          "y": 124
+        },
+        "stable_path": [
+          "629:21126"
+        ]
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "1268976060",
+      "uuid": "f33c0167-cd49-4b6e-9297-d8665740dfb6",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:35:51.977Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler these will also look like icon buttons with ButtonText yellow outlines and icons. The fill will be ButtonFace gray and the indicator badges (circles, triangles) will stay the same color as Light/Dark\n\nwe don't have an example from the original HCM Figma but it'll follow the same style as above. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21124",
+        "node_offset": {
+          "x": 51,
+          "y": 41
+        },
+        "stable_path": [
+          "629:21124"
+        ]
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "1268974335",
+      "uuid": "8eaeedd2-5425-4136-9fa4-8382217fd5be",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:34:35.830Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler these will also look like icon buttons with ButtonText yellow outlines and icons. The fill will be ButtonFace gray and the indicator badges (circles, triangles) will stay the same color as Light/Dark\n\nhere is the Toolbar buttons / App Menu HCM example for reference https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1396-11831&t=dO1JivE3BiQlOwWC-4\n\nthank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21122",
+        "node_offset": {
+          "x": 48,
+          "y": 15
+        },
+        "stable_path": [
+          "629:21122"
+        ]
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "1268971711",
+      "uuid": "b37e5cd2-2935-4383-921a-f82b1f48fc50",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:32:35.237Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler these will also look like icon buttons with ButtonText yellow outlines and icons (profile pics being the exception). The fill will be ButtonFace gray and the indicator badges (circles, triangles) will stay the same color as Light/Dark\n\nhere's the original Toolbar / Firefox Accounts HCM example for reference https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1396-11873&t=dO1JivE3BiQlOwWC-4\n\nthank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21120",
+        "node_offset": {
+          "x": 139,
+          "y": 173
+        },
+        "stable_path": [
+          "629:21120"
+        ]
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "1268968982",
+      "uuid": "92bcb53d-7114-4760-96e4-8eb5462c54e5",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:30:30.264Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - we'll want these to reflect the style of icon buttons. Default, Informational, Warning, and Critical will have ButtonText yellow outlines and icons. The fill will be ButtonFace gray. In addition, the indicator circle/triangle badges will keep their colors\n\nFor In Progress and Complete, we'll invert these so that the fill is ButtonText yellow with ButtonFace gray icons.\n\nhere's the original 'Toolbar button/ Downloads' example https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1396-11922&t=dO1JivE3BiQlOwWC-4\n\nthank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:20813",
+        "node_offset": {
+          "x": 7206,
+          "y": 804
+        },
+        "stable_path": [
+          "538:20813"
+        ]
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "1268963349",
+      "uuid": "2d76896d-36f7-4003-aca3-4bff2fc3f1fc",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:26:26.494Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler ! \n\n* for the URL bar, let's change the outline from white to ButtonText yellow\n* the text in the URL bar and the icons in the icon buttons will also be ButtonText yellow\n\nhere's the original toolbar HCM page for reference :) https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1396-11947&t=dO1JivE3BiQlOwWC-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21116",
+        "node_offset": {
+          "x": 325,
+          "y": 85
+        },
+        "stable_path": [
+          "629:21116"
+        ]
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "1268959683",
+      "uuid": "a836443d-795b-4645-8e6e-46bc829bc8fc",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:23:47.869Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg - these look like they're applicable to tab groups when they're different colors and such. we won't apply HCM here right?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:24107",
+        "node_offset": {
+          "x": 412,
+          "y": 9
+        },
+        "stable_path": [
+          "538:24107"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "1268958014",
+      "uuid": "6c7a3971-e8e5-4794-8f04-9cfb2321fc93",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:22:35.459Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg will we want these to reflect icon buttons as well? looks like this would be in the tab strip when you have a bunch of tabs open and have to move left or right",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21108",
+        "node_offset": {
+          "x": 100,
+          "y": 117
+        },
+        "stable_path": [
+          "629:21108"
+        ]
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "1268956458",
+      "uuid": "92713d0b-8475-452b-901f-49cb797b77e5",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:21:30.282Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - this looks good! for this we'll want to apply the same requested changes for default on the left here as well but keep the white focus outline :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21106",
+        "node_offset": {
+          "x": 913,
+          "y": 44
+        },
+        "stable_path": [
+          "629:21106"
+        ]
+      },
+      "order_id": "49"
+    },
+    {
+      "id": "1268955283",
+      "uuid": "9b041cb7-a7e2-4830-a4d9-2533ded84ad1",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:20:40.419Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler lets change the fill to SelectedItem purple, and the text + globe icon to SelectedItemText gray. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21106",
+        "node_offset": {
+          "x": 686,
+          "y": 40
+        },
+        "stable_path": [
+          "629:21106"
+        ]
+      },
+      "order_id": "48"
+    },
+    {
+      "id": "1268953536",
+      "uuid": "5b3a7226-62a8-4f77-a63f-a8ac9cd03959",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:19:27.677Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - let's change the text and globe icon to SelectedItem purple. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21106",
+        "node_offset": {
+          "x": 375,
+          "y": 46
+        },
+        "stable_path": [
+          "629:21106"
+        ]
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "1268952961",
+      "uuid": "12aff6e7-dd67-4a7a-9542-ffb26d0d5467",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:19:03.111Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg - should the volume/sound icon here reflect an icon button? it doesn't appear this way in the original HCM Figma but I know for tabs in prod, you can click on the icon to mute/unmute",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21106",
+        "node_offset": {
+          "x": 74,
+          "y": 35
+        },
+        "stable_path": [
+          "629:21106"
+        ]
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "1268950929",
+      "uuid": "5a0d0419-023b-4814-a88c-5d51c07691d8",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:17:40.628Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler let's change the text and globe icon to ButtonText yellow and the fill color to ButtonFace gray",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:21106",
+        "node_offset": {
+          "x": 150,
+          "y": 52
+        },
+        "stable_path": [
+          "629:21106"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "1268948754",
+      "uuid": "f7408c99-135d-4898-afa1-a0660e7d6155",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-22T18:16:09.101Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler \n\n* for default tabs, let's change the fill color to use ButtonFace gray. these would be the non-active tabs\n* for the active/selected tab, we'll want a ButtonText yellow outline, SelectedItem purple fill, SelectedItemText gray text\n* the 'x' close button inside of the active/selected tab should have a ButtonText yellow outline and 'x' with a ButtonFace gray fill.\n\nhere is the HCM tab strip for reference (https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=1366-6179&t=dO1JivE3BiQlOwWC-4) thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15655",
+        "node_offset": {
+          "x": 470,
+          "y": 223
+        },
+        "stable_path": [
+          "629:15655"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "1267185957",
+      "uuid": "33a19aed-979d-4a4b-956e-53843e5caec5",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:58:18.113Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - we won't need the top 2 designs for Mac since they do not have HCM. thank you :D",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15655",
+        "node_offset": {
+          "x": 79,
+          "y": 72
+        },
+        "stable_path": [
+          "629:15655"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "1267184586",
+      "uuid": "057392d0-869e-48cb-8635-23b89cdbfa81",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:56:40.538Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for these designs, we'll want to make sure we're using Windows for the mockup as Mac does not have HCM. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:15652",
+        "node_offset": {
+          "x": 316,
+          "y": 342
+        },
+        "stable_path": [
+          "629:15652"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "1267183559",
+      "uuid": "38e08e2c-6833-4d3c-8cfe-64f6432c1d14",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:55:27.460Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for the 'x' icon buttons, let's use the ButtonFace gray for these",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:13951",
+        "node_offset": {
+          "x": 465,
+          "y": 301
+        },
+        "stable_path": [
+          "629:13951"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "1267182912",
+      "uuid": "8ee03b47-5358-454d-9b0a-ea3adf1459dc",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:54:38.632Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for the icon buttons, let's change the fill to the gray ButtonFace color. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2030:26489",
+        "node_offset": {
+          "x": 669,
+          "y": 42
+        },
+        "stable_path": [
+          "2030:26489"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "1267181575",
+      "uuid": "84ee6725-f973-4804-b9c0-719243c12713",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:53:07.147Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler will there be an HCM version for this?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2030:30012",
+        "node_offset": {
+          "x": 422,
+          "y": 145
+        },
+        "stable_path": [
+          "2030:30012"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "1267180498",
+      "uuid": "ee85c8fb-3da1-489a-88c3-89630b6c8625",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:51:47.143Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler -\n* for the default state, let's change the text and icon to ButtonText yellow and the fill to ButtonFace gray\n* for the hover state, let's change the text and icon to SelectedItem purple\n\nfor the 4 items at the bottom, what is the difference between these and the top 4?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:13949",
+        "node_offset": {
+          "x": 256,
+          "y": 103
+        },
+        "stable_path": [
+          "629:13949"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "1267176470",
+      "uuid": "c5f06c5c-c286-443e-84df-73aea923233a",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:46:56.328Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - this should follow the active HCM state- a ButtonText yellow stroke, SelectedItemText fill, and SelectedItem for the icon and text. I do see to the far left the note about incorrect HCM tokens. Is that applicable here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:13946",
+        "node_offset": {
+          "x": 245,
+          "y": 176
+        },
+        "stable_path": [
+          "629:13946"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "1267174029",
+      "uuid": "58a13df5-eea1-434c-bc52-26a16ee38b27",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:44:09.139Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - since there is no border for the individual options, let's apply the HCM menu item styles to these. Please refer to https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=51-1592&t=3QXKUZE6WSr6Pnj7-4 for the different styles. Thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:13941",
+        "node_offset": {
+          "x": 135,
+          "y": 153
+        },
+        "stable_path": [
+          "629:13941"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "1267171752",
+      "uuid": "7f225428-77cc-43a7-be78-1c2bdba2e135",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:41:31.509Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for the individual items in the panel list, since they're clickable, let's change this to ButtonFace gray. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:13944",
+        "node_offset": {
+          "x": 154,
+          "y": 408
+        },
+        "stable_path": [
+          "629:13944"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "1267169127",
+      "uuid": "16bd5d1b-1683-49ce-90ac-148dcd99c7bd",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:38:30.424Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - is the 'i' icon clickable?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2500:8909",
+        "node_offset": {
+          "x": 28,
+          "y": 22
+        },
+        "stable_path": [
+          "2500:8909"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "1267167528",
+      "uuid": "f0a286c4-a118-4473-9638-5ee89c87cbc6",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:36:45.575Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi - what are your thoughts on using Zap for the divider in HCM?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:18166",
+        "node_offset": {
+          "x": 271,
+          "y": 53
+        },
+        "stable_path": [
+          "629:18166"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "1267166705",
+      "uuid": "ecf9fad9-f311-421c-b10b-9ea57aff7759",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:35:55.058Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - to clarify, if this referring only to the Text, Description piece or does this include the 'Learn more' link text?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:18164",
+        "node_offset": {
+          "x": 109,
+          "y": 38
+        },
+        "stable_path": [
+          "629:18164"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "1267164777",
+      "uuid": "87e549af-4561-49f3-8954-f029e0d57129",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:33:49.601Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - can you advise on where the subheading component will be located in regards to the menu? thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:18156",
+        "node_offset": {
+          "x": 165,
+          "y": 35
+        },
+        "stable_path": [
+          "629:18156"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "1267163998",
+      "uuid": "e49dd1da-51d6-4fca-8800-4bf32a64820c",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:32:58.471Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - can you advise on where the menu overflow component will be located in regards to the menu? thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:18154",
+        "node_offset": {
+          "x": 211,
+          "y": 31
+        },
+        "stable_path": [
+          "629:18154"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "1267157968",
+      "uuid": "40731f25-efe2-4f9a-853c-d5873265e7ab",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:26:48.540Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - the changes requested on the individual components should be carried over here as well. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12733",
+        "node_offset": {
+          "x": 487,
+          "y": 250
+        },
+        "stable_path": [
+          "629:12733"
+        ]
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "1267157007",
+      "uuid": "ede985a1-1cdd-433a-9ce8-383788d4968b",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:25:47.086Z",
+      "resolved_at": null,
+      "message": "hey @Juliana Gaibler - the changes requested on the individual components should be carried over here. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12728",
+        "node_offset": {
+          "x": 426,
+          "y": 269
+        },
+        "stable_path": [
+          "629:12728"
+        ]
+      },
+      "order_id": "27"
+    },
+    {
+      "id": "1267155273",
+      "uuid": "c3f161ba-0f50-498a-a1f7-08b249b9ff57",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:24:03.842Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for the disabled state, let's change the stroke from white to GrayText. thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12731",
+        "node_offset": {
+          "x": 137,
+          "y": 430
+        },
+        "stable_path": [
+          "629:12731"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "1267153949",
+      "uuid": "b76f658a-b780-4e1b-b7c0-5a8c7a5cd3f7",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:22:43.284Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler -\n\n* for each state, let's adjust the Description text and > caret to have the same color as the Label text\n* for hover state, let's change the stroke to SelectedItem purple\n* for default and active state, let's change the stroke to ButtonText yellow\n\nThank you! :partying_face:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12731",
+        "node_offset": {
+          "x": 223,
+          "y": 144
+        },
+        "stable_path": [
+          "629:12731"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "1267147564",
+      "uuid": "ee41aed9-e0f0-4b9c-aa9f-3cbef0120af6",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:16:27.559Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for the stroke on the swatch circle, let's change this to SelectedItem purple (for both over and active). Thank you :D",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12719",
+        "node_offset": {
+          "x": 56,
+          "y": 105
+        },
+        "stable_path": [
+          "629:12719"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "1267146164",
+      "uuid": "f2e3207b-3790-479f-9bde-c17e3d8d3ce9",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:15:01.843Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - for the pencil icon, let's change the color so that each icon matches the color of the text on the left. Thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12719",
+        "node_offset": {
+          "x": 158,
+          "y": 171
+        },
+        "stable_path": [
+          "629:12719"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "1267144063",
+      "uuid": "ae096581-b3de-4217-a456-0d31af032c5d",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:13:01.439Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for the disabled checked state, let's use gray :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12711",
+        "node_offset": {
+          "x": 159,
+          "y": 56
+        },
+        "stable_path": [
+          "629:12711"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "1267142306",
+      "uuid": "466382d3-56dd-41a9-8883-26689fb714f4",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:11:18.486Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for the active checked state, let's change the thin outer ring to ButtonText yellow. Thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12711",
+        "node_offset": {
+          "x": 102,
+          "y": 54
+        },
+        "stable_path": [
+          "629:12711"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "1267137034",
+      "uuid": "4d80c599-d33c-493e-812c-bb8fe96b710f",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T21:06:15.224Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - for these 3 inputs, can you add active and hover states? Thank you!! :tada:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:6964",
+        "node_offset": {
+          "x": 2671,
+          "y": 211
+        },
+        "stable_path": [
+          "538:6964"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "1267128188",
+      "uuid": "acbcee9e-dd72-4e5b-b56d-74109d46cf16",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T20:58:01.920Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - regarding links, are they intended to be styled like buttons?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:17003",
+        "node_offset": {
+          "x": 390,
+          "y": 54
+        },
+        "stable_path": [
+          "538:17003"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "1267117284",
+      "uuid": "0a47bf4f-23bc-468f-be3c-f0f89f4ed8f2",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T20:48:57.939Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler - \n\n* for default, focus, and disabled, we'll want to use ButtonFace gray\n* for hover and active we'll want to use SelectedItemText gray\n* for active off, the outline of the toggle will be ButtonText yellow and the circle inside will be SelectedItem purple\n* for active on, the outline of the toggle will be ButtonText yellow \n\nHere is the HCM toggle switch page for reference (https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=11-126&t=YZxstRtDdjjZ513W-4) Thank you!! :tada:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12706",
+        "node_offset": {
+          "x": 67,
+          "y": 9
+        },
+        "stable_path": [
+          "629:12706"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "1267108595",
+      "uuid": "36ae6862-70f9-4669-914f-98080df849a6",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T20:42:02.559Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler ! A couple things:\n* The fill for default, focus, and disabled should all be the ButtonFace dark gray color\n* The fill for hover and active should be the SelectedItemText gray\n* For the active checked state, we'll want to add a ButtonFace yellow stroke.\n\nHere is the HCM checkbox page for reference! (https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=9-225&t=YZxstRtDdjjZ513W-0) Thank you! :star:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:12709",
+        "node_offset": {
+          "x": 167,
+          "y": 37
+        },
+        "stable_path": [
+          "629:12709"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "1267009658",
+      "uuid": "02eb9278-f793-4e97-ad02-b5a00a4f5fcb",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-21T19:23:59.164Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler while we're here, do we have a control over the size of this chevron? Seems too small for precise tapping/clicking, even when the rest of the area is clickable, because the panel would have the same background color and only the chevron would be a visible/discernible identification of a control. It's an access-S4 issue at most, largely for the delight than compliance though",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:18153",
+        "node_offset": {
+          "x": 186,
+          "y": 22
+        },
+        "stable_path": [
+          "629:18153"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "1266655215",
+      "uuid": "7395d724-3e1f-43b4-9fe5-f243f83c55e3",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-21T15:33:13.615Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg - for the text input/search input, would the X icon button be outlined or only when it's in focus for HCM?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:6964",
+        "node_offset": {
+          "x": 2487,
+          "y": 763
+        },
+        "stable_path": [
+          "538:6964"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "1265047137",
+      "uuid": "3487f370-3265-4fab-8ad5-294d1f736eec",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-20T20:44:38.539Z",
+      "resolved_at": null,
+      "message": "hey @Juliana Gaibler - this comment is applicable to the Error states for each 3 but we should ensure that the error message we see in the left column is also used with the error states in the right. We want to make sure we're not relying on color alone (https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html) to indicate an error. Thank you!! :tada:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "538:6964",
+        "node_offset": {
+          "x": 2883,
+          "y": 1405
+        },
+        "stable_path": [
+          "538:6964"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "1264810519",
+      "uuid": "cfde7109-5e17-4246-8df4-a9c28fd74a37",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-20T17:51:31.603Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler ! For the hover and active states, let's change the icon/Label text/caret to the SelectedItem purple :grin: thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:11938",
+        "node_offset": {
+          "x": 296,
+          "y": 6
+        },
+        "stable_path": [
+          "629:11938"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "1264804073",
+      "uuid": "b9c5fffd-fa78-4cee-ba63-121f3c39120c",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-05-20T17:47:10.544Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler would that be possible to add hover and active states in there too? I tried to toggle the state in the example and they seem to be missing HCM styling. This is what we had in the playground as an idea of the treatment for menus/panels for the reference.\n\nCC @Natalie Stroud",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "629:18152",
+        "node_offset": {
+          "x": 270,
+          "y": 167
+        },
+        "stable_path": [
+          "629:18152"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "1260658383",
+      "uuid": "7cbf851f-0061-4eac-87b4-2eb89abf0ed8",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-16T20:27:41.505Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler for the split button HCM, would we want to create examples for the different states like we did in the High Contrast Mode file? (HCM Split Button for reference- https://www.figma.com/design/VHRA9hZ54oJqKKJwPd6FWa/High-Contrast-Mode?node-id=51-864&t=KHu8VVqs49r9jBU6-4)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "533:7349",
+        "node_offset": {
+          "x": 1510,
+          "y": 1150
+        },
+        "stable_path": [
+          "533:7349"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "1260651979",
+      "uuid": "d63548e0-d33c-4dfd-ac98-34a975209c74",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-16T20:20:16.652Z",
+      "resolved_at": null,
+      "message": "@Juliana Gaibler these look good! a few notes/changes needed\n\n* for Ghost, Default, Focus, and Disabled the button fill will need the #292929 ButtonFace color\n* for Hover and Active, the yellow star should change to 'SelectedItem' purple\n\nthank you again! :tada:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "533:7349",
+        "node_offset": {
+          "x": 1358,
+          "y": 675
+        },
+        "stable_path": [
+          "533:7349"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "1258931350",
+      "uuid": "3348c25a-e788-49ae-8a1e-bce1088149bc",
+      "file_key": "3WoKOSGtaSjhUHKldHCXbc",
+      "parent_id": "",
+      "user": {
+        "handle": "Natalie Stroud",
+        "img_url": "https://www.gravatar.com/avatar/ae79e8004ee69b9b7a114fa34325989a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1423002262484994562"
+      },
+      "created_at": "2025-05-15T20:14:57.177Z",
+      "resolved_at": null,
+      "message": "hi @Juliana Gaibler - what state applies to each of these?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "533:7349",
+        "node_offset": {
+          "x": 1308,
+          "y": 682
+        },
+        "stable_path": [
+          "533:7349"
+        ]
+      },
+      "order_id": "3"
+    }
+  ]
+}

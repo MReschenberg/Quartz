@@ -1,0 +1,162 @@
+{
+  "unresolved": [
+    {
+      "id": "605542820",
+      "uuid": "e0c3b175-3b62-449a-b3e7-8fbbb6a25867",
+      "file_key": "aj5fRBiu8gXqRBDu4Hta1X",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-11-03T19:00:51.021Z",
+      "resolved_at": null,
+      "message": "Is the mozilla social text part of the illustration? It'd be helpful to have it separate so screen reader users have a heading on screen they can read to understand the context of the sign in/sign up/choose server actions that come next.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "52:1119",
+        "node_offset": {
+          "x": 4855,
+          "y": 131
+        },
+        "stable_path": [
+          "52:1119"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "600460557",
+      "uuid": "09ddad3b-f6e8-462b-bfc8-ab138fbf3609",
+      "file_key": "aj5fRBiu8gXqRBDu4Hta1X",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Cederberg",
+        "img_url": "https://s3-alpha.figma.com/profile/77803e27-bb5d-40b2-97a4-8997130d3eda",
+        "id": "1283190171653367206"
+      },
+      "created_at": "2023-10-30T22:16:08.948Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg if we have to send users to an authentication page with their account's server, would this count as needing \"haspopup\" property?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "39:3430",
+        "node_offset": {
+          "x": 677,
+          "y": 887
+        },
+        "stable_path": [
+          "39:3430"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "596217165",
+      "uuid": "79ec4571-8fa8-45ab-b520-b900dcb35f7f",
+      "file_key": "aj5fRBiu8gXqRBDu4Hta1X",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-10-26T00:34:22.297Z",
+      "resolved_at": null,
+      "message": "@Sarah Cederberg Hi there, I'm on the a11y team, and reviewing your designs :) Can you please add annotations for screen reader users? Each element in each view should have a role, name/description, and notes about any state that needs to be communicated (ie. expanded/collapsed/checked/etc.)\nYou can use whatever figma library you'd like for this, though we usually recommend the plugins listed here -- https://firefox-source-docs.mozilla.org/bug-mgmt/processes/accessibility-review.html -- the focus order one has role/name/desc/state notation ability",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "39:3320",
+        "node_offset": {
+          "x": 1601,
+          "y": 382
+        },
+        "stable_path": [
+          "39:3320"
+        ]
+      },
+      "order_id": "2"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "605542820",
+      "uuid": "e0c3b175-3b62-449a-b3e7-8fbbb6a25867",
+      "file_key": "aj5fRBiu8gXqRBDu4Hta1X",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-11-03T19:00:51.021Z",
+      "resolved_at": null,
+      "message": "Is the mozilla social text part of the illustration? It'd be helpful to have it separate so screen reader users have a heading on screen they can read to understand the context of the sign in/sign up/choose server actions that come next.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "52:1119",
+        "node_offset": {
+          "x": 4855,
+          "y": 131
+        },
+        "stable_path": [
+          "52:1119"
+        ]
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "600460557",
+      "uuid": "09ddad3b-f6e8-462b-bfc8-ab138fbf3609",
+      "file_key": "aj5fRBiu8gXqRBDu4Hta1X",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Cederberg",
+        "img_url": "https://s3-alpha.figma.com/profile/77803e27-bb5d-40b2-97a4-8997130d3eda",
+        "id": "1283190171653367206"
+      },
+      "created_at": "2023-10-30T22:16:08.948Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg if we have to send users to an authentication page with their account's server, would this count as needing \"haspopup\" property?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "39:3430",
+        "node_offset": {
+          "x": 677,
+          "y": 887
+        },
+        "stable_path": [
+          "39:3430"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "596217165",
+      "uuid": "79ec4571-8fa8-45ab-b520-b900dcb35f7f",
+      "file_key": "aj5fRBiu8gXqRBDu4Hta1X",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-10-26T00:34:22.297Z",
+      "resolved_at": null,
+      "message": "@Sarah Cederberg Hi there, I'm on the a11y team, and reviewing your designs :) Can you please add annotations for screen reader users? Each element in each view should have a role, name/description, and notes about any state that needs to be communicated (ie. expanded/collapsed/checked/etc.)\nYou can use whatever figma library you'd like for this, though we usually recommend the plugins listed here -- https://firefox-source-docs.mozilla.org/bug-mgmt/processes/accessibility-review.html -- the focus order one has role/name/desc/state notation ability",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "39:3320",
+        "node_offset": {
+          "x": 1601,
+          "y": 382
+        },
+        "stable_path": [
+          "39:3320"
+        ]
+      },
+      "order_id": "2"
+    }
+  ]
+}

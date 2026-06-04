@@ -1,0 +1,4186 @@
+{
+  "unresolved": [
+    {
+      "id": "839567149",
+      "uuid": "d216ef98-ef45-435b-a2a8-d46a6a579a92",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-06-13T21:30:56.807Z",
+      "resolved_at": null,
+      "message": "Is there container tabs in release per this mock?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12617:177037",
+        "node_offset": {
+          "x": 871,
+          "y": 289
+        },
+        "stable_path": [
+          "12617:177037"
+        ]
+      },
+      "order_id": "244"
+    },
+    {
+      "id": "839555913",
+      "uuid": "40d97d9b-1163-494e-a0ce-910de59d0da6",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Laura Lopez",
+        "img_url": "https://s3-alpha.figma.com/profile/8f6cd395-4f41-4acf-895e-9410a709c935",
+        "id": "1357000100758670069"
+      },
+      "created_at": "2024-06-13T21:16:50.705Z",
+      "resolved_at": null,
+      "message": "@Amy Lee Mocked up 3 more versions here. The tl;dr is that Close duplicate tabs should be last on the list for tab management related tasks. Agreed on moving hidden tabs in its own section as it will pop up depending on the context.\n\n* Nightly: with container tabs + hidden tabs\n* Release: no container tabs + with hidden tabs\n* Release: no container tabs + no hidden tabs\n\nThere's a 4th version mocked to the left that is still valid:\n* Nightly: with container tabs + no hidden tabs",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12633:57431",
+        "node_offset": {
+          "x": 230,
+          "y": 86
+        },
+        "stable_path": [
+          "12633:57431"
+        ]
+      },
+      "order_id": "243"
+    },
+    {
+      "id": "839502580",
+      "uuid": "00889bb6-8670-441a-9725-629447325bdd",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-06-13T20:22:10.431Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \u2013 Please take a look here. I wanted to highlight some issues if we reorder the actions based on if a user has an extension or not. I propose we don't change what we currently do in the browser.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12617:177037",
+        "node_offset": {
+          "x": 478,
+          "y": 912
+        },
+        "stable_path": [
+          "12617:177037"
+        ]
+      },
+      "order_id": "242"
+    },
+    {
+      "id": "834137574",
+      "uuid": "53dee6aa-aceb-42a1-a2a7-38d507adc424",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-06-10T14:54:32.522Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \u2013 I know it's not ideal to have a separate menu for close duplicate tabs but I'm concerned about the discoverability of this feature if we bury it in close multiple tabs. I'm also okay with holding off on rethinking the menus and just having the string updates (Option 1 - for clarity) since that was the original goal.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12531:85089",
+        "node_offset": {
+          "x": 3394,
+          "y": 762
+        },
+        "stable_path": [
+          "12531:85089"
+        ]
+      },
+      "order_id": "240"
+    },
+    {
+      "id": "834106642",
+      "uuid": "3825a132-71fd-40e3-8bd2-e09fe16234d0",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-06-10T14:37:27.281Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \u2013 This will be unchanged. This is identical to Brave's and Opera's strings/behaviour.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12531:57391",
+        "node_offset": {
+          "x": 3422,
+          "y": 1040
+        },
+        "stable_path": [
+          "12531:57391"
+        ]
+      },
+      "order_id": "239"
+    },
+    {
+      "id": "834103914",
+      "uuid": "816ad676-b6f5-4135-a398-b91a0a981c38",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-06-10T14:35:55.892Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \u2013 Optional: Not sure if we really need this but we could add additional strings to say that we are only closing duplicates in this window.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12531:57391",
+        "node_offset": {
+          "x": 1074,
+          "y": 2027
+        },
+        "stable_path": [
+          "12531:57391"
+        ]
+      },
+      "order_id": "238"
+    },
+    {
+      "id": "834098711",
+      "uuid": "1f6eed52-5cc3-4f3b-b527-9c9393ba0f80",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-06-10T14:32:58.565Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez \u2013 Suggestion: We update the strings so it's different than the strings in the context menu. The original feedback was that it was confusing that the same strings were being used even though the behaviour was slightly different.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12531:57391",
+        "node_offset": {
+          "x": 1462,
+          "y": 783
+        },
+        "stable_path": [
+          "12531:57391"
+        ]
+      },
+      "order_id": "237"
+    },
+    {
+      "id": "832533043",
+      "uuid": "8018da12-48eb-4b70-b416-6802b2c587e4",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-06-07T17:18:17.699Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez - If your reco is to remove the modal, this wouldn't come into play / would not be needed. Am I understanding it correctly?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12462:51961",
+        "node_offset": {
+          "x": 135,
+          "y": 117
+        },
+        "stable_path": [
+          "12462:51961"
+        ]
+      },
+      "order_id": "234"
+    },
+    {
+      "id": "832532424",
+      "uuid": "91a9a155-dd60-4486-ae61-cc7916d474f8",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-06-07T17:17:39.881Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez - In your Loom you mentioned a recommendation to remove the modal. Can you add a note about that here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12462:48373",
+        "node_offset": {
+          "x": 902,
+          "y": 338
+        },
+        "stable_path": [
+          "12462:48373"
+        ]
+      },
+      "order_id": "233"
+    },
+    {
+      "id": "832529352",
+      "uuid": "6101758c-c10c-4f21-a3cf-6a07022fb08f",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-06-07T17:14:25.457Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez - Yes, super call!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12494:33143",
+        "node_offset": {
+          "x": 335,
+          "y": 52
+        },
+        "stable_path": [
+          "12494:33143"
+        ]
+      },
+      "order_id": "232"
+    },
+    {
+      "id": "826122315",
+      "uuid": "b9f17b8f-a5c4-4f57-ae85-d47cacd09af7",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-06-03T18:04:03.883Z",
+      "resolved_at": null,
+      "message": "@Laura Lopez @Amy Lee @Emanuela Damiani - Sharing in this frame some initial ideas I had, before this got officially on your plate Laura :D Take or leave as you see fit!\n\nI would not consider \"Multiple\" tabs to be an official term. I believe it is merely descriptive to mean (in this very confined space) \"more than one tab\".",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12301:34157",
+        "node_offset": {
+          "x": 898,
+          "y": 168
+        },
+        "stable_path": [
+          "12301:34157"
+        ]
+      },
+      "order_id": "226"
+    },
+    {
+      "id": "826096419",
+      "uuid": "e47b004d-9e9d-4b8b-b38f-d89af9b55952",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2024-06-03T17:40:51.134Z",
+      "resolved_at": null,
+      "message": "I don't think we have this step right now",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12366:51862",
+        "node_offset": {
+          "x": 1643,
+          "y": 1573
+        },
+        "stable_path": [
+          "12366:51862"
+        ]
+      },
+      "order_id": "225"
+    },
+    {
+      "id": "824159020",
+      "uuid": "abe883f2-f55e-4274-9222-eabc3e618900",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-05-31T16:10:35.059Z",
+      "resolved_at": null,
+      "message": "@Katie Lower \u2013 How this would look if a user has saved tab groups. The tab groups are available across windows (the solid fill colour means it's opened in another window and if a user clicks on it, it will go to that window and outline means it's not opened anywhere). This will be user-tested next week so this isn't final.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12366:51862",
+        "node_offset": {
+          "x": 3474,
+          "y": 327
+        },
+        "stable_path": [
+          "12366:51862"
+        ]
+      },
+      "order_id": "224"
+    },
+    {
+      "id": "824157429",
+      "uuid": "961ecdf8-a6fe-4c0d-81db-701d37281f18",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-05-31T16:09:09.774Z",
+      "resolved_at": null,
+      "message": "@Katie Lower \u2013 Some other possible places to be more explicit about what is happening (we close duplicates in this window). TBH, I'm not sure how much of an issue this is. No one mentioned there was confusion over if it closed duplicates across windows or this window only.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12366:51862",
+        "node_offset": {
+          "x": 1146,
+          "y": 1563
+        },
+        "stable_path": [
+          "12366:51862"
+        ]
+      },
+      "order_id": "223"
+    },
+    {
+      "id": "824155644",
+      "uuid": "9c3aa760-b08c-4f89-bf46-189b93420d56",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-05-31T16:07:35.115Z",
+      "resolved_at": null,
+      "message": "@Emanuela Damiani @Katie Lower \u2013 Version with string change for clarity \u2013 Katie, feel free to edit as needed.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12366:51862",
+        "node_offset": {
+          "x": 2004,
+          "y": 415
+        },
+        "stable_path": [
+          "12366:51862"
+        ]
+      },
+      "order_id": "222"
+    },
+    {
+      "id": "824153225",
+      "uuid": "a4519a67-2be2-4a63-9370-458f8ffa298a",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-05-31T16:05:24.812Z",
+      "resolved_at": null,
+      "message": "@Emanuela Damiani @Katie Lower \u2013 One of the suggests was if we could have both actions in the context menu. I left some \"pros/cons\" of this version.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12366:27076",
+        "node_offset": {
+          "x": 1723,
+          "y": 643
+        },
+        "stable_path": [
+          "12366:27076"
+        ]
+      },
+      "order_id": "221"
+    },
+    {
+      "id": "824151857",
+      "uuid": "ffa0b875-4e6c-4dd7-8359-9db7aef02da0",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-05-31T16:04:09.849Z",
+      "resolved_at": null,
+      "message": "@Emanuela Damiani @Katie Lower \u2013 This is the current implementation of close duplicate tabs in the context menu. It's identical in UX/strings to Brave and Opera",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12350:23395",
+        "node_offset": {
+          "x": 1756,
+          "y": 105
+        },
+        "stable_path": [
+          "12350:23395"
+        ]
+      },
+      "order_id": "220"
+    },
+    {
+      "id": "811622944",
+      "uuid": "7e9e23c9-44f1-46dd-b657-1eed9bf5688c",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-05-21T20:36:47.202Z",
+      "resolved_at": null,
+      "message": "@Katie Lower \u2013 Wanted to get your recommendation on making the strings clearer between closing duplicates of a specific tab vs. closing all duplicate tabs in the window.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11928:17105",
+        "node_offset": {
+          "x": 162,
+          "y": 16
+        },
+        "stable_path": [
+          "11928:17105"
+        ]
+      },
+      "order_id": "219"
+    },
+    {
+      "id": "811622329",
+      "uuid": "b3dff0d5-7d0d-428f-a58e-639b5c94b3e9",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-05-21T20:36:11.234Z",
+      "resolved_at": null,
+      "message": "@Katie Lower \u2013 Wanted to get your recommendation on making the strings clearer between closing duplicates of a specific tab vs. closing all duplicate tabs in the window.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8276:175428",
+        "node_offset": {
+          "x": 947,
+          "y": 558
+        },
+        "stable_path": [
+          "8276:175428"
+        ]
+      },
+      "order_id": "218"
+    },
+    {
+      "id": "785385110",
+      "uuid": "c7209760-8682-40bd-bf86-36e9d9c3943f",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-04-26T23:26:55.109Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde - In this context, we wouldn't say \"opened tabs\". Tabs that are open are just... open. \n\nIf you're referring to tabs that were once open, that's more about history or recently closed tabs.\n\nShould this second sentence read:\n\nWe keep a history of your recently closed tabs for you. \n\nAs an alt for that second sentence, I might suggest:\n\nLook under Recently closed tabs.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12063:1394",
+        "node_offset": {
+          "x": 2074,
+          "y": 439
+        },
+        "stable_path": [
+          "12063:1394"
+        ]
+      },
+      "order_id": "217"
+    },
+    {
+      "id": "785204827",
+      "uuid": "23befd9b-a061-4c5b-9986-131f16bb7e93",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-04-26T18:30:12.315Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak - @Ana Medinac Should we remove the \"retry\" button since you mentioned we should remove it from the android version below?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11038:80294",
+        "node_offset": {
+          "x": 7860,
+          "y": 1121
+        },
+        "stable_path": [
+          "11038:80294"
+        ]
+      },
+      "order_id": "214"
+    },
+    {
+      "id": "785195805",
+      "uuid": "4182b419-83b9-4814-8a24-fdf7ab38d57f",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-04-26T18:20:49.550Z",
+      "resolved_at": null,
+      "message": "@Tina Vaamonde \u2013 I like this one with the shorter headline.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-04-26T19:15:53.319Z",
+          "user": {
+            "id": "1298754465457927621",
+            "handle": "Tina Vaamonde",
+            "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "12063:1394",
+        "node_offset": {
+          "x": 618,
+          "y": 299
+        },
+        "stable_path": [
+          "12063:1394"
+        ]
+      },
+      "order_id": "213"
+    },
+    {
+      "id": "783933710",
+      "uuid": "375bdb09-ef60-48aa-9a69-d8e818ca19cf",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-04-25T20:38:46.772Z",
+      "resolved_at": null,
+      "message": "@Ana Medinac @Lina Butler \u2013 We have 2 options with how to display the error message (toast or alert). Recommendation is toast since it's less disruptive.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11038:80294",
+        "node_offset": {
+          "x": 7684,
+          "y": 1119
+        },
+        "stable_path": [
+          "11038:80294"
+        ]
+      },
+      "order_id": "211"
+    },
+    {
+      "id": "783889833",
+      "uuid": "66cf274f-4097-40b3-8747-917a3660d4d7",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-04-25T19:54:57.803Z",
+      "resolved_at": null,
+      "message": "@Amy Lee This component is not correct for iOS. Needs to be an alert https://developer.apple.com/design/human-interface-guidelines/alerts",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11025:16730",
+        "node_offset": {
+          "x": 3946,
+          "y": 635
+        },
+        "stable_path": [
+          "11025:16730"
+        ]
+      },
+      "order_id": "210"
+    },
+    {
+      "id": "783821741",
+      "uuid": "d8a03a14-251a-4430-9b0b-72afcaf91d59",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-04-25T18:51:51.513Z",
+      "resolved_at": null,
+      "message": "@Amy Lee I don't believe this menu should close after the user clicks X to close a tab because they might want to close multiple tabs. So we need to rethink the call to action on the error message.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11057:83452",
+        "node_offset": {
+          "x": 1889,
+          "y": 590
+        },
+        "stable_path": [
+          "11057:83452"
+        ]
+      },
+      "order_id": "208"
+    },
+    {
+      "id": "782335564",
+      "uuid": "ca81e260-d8f9-4f8d-869a-b5ea245c4edf",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-04-24T20:45:39.601Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak \u2013 Hi, sorry I missed a tooltip here. We need to communicate what this button does.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11594:35634",
+        "node_offset": {
+          "x": 1563,
+          "y": 461
+        },
+        "stable_path": [
+          "11594:35634"
+        ]
+      },
+      "order_id": "207"
+    },
+    {
+      "id": "782229224",
+      "uuid": "f52c5f17-d84e-4f4e-8f90-04ac3768c2b8",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-04-24T19:10:18.252Z",
+      "resolved_at": null,
+      "message": "@Amy Lee Are these strings ready for review?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11025:16730",
+        "node_offset": {
+          "x": 4100,
+          "y": 1674
+        },
+        "stable_path": [
+          "11025:16730"
+        ]
+      },
+      "order_id": "206"
+    },
+    {
+      "id": "775642654",
+      "uuid": "36b5cb52-8740-440e-a193-e836fbff329d",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-04-18T21:42:13.471Z",
+      "resolved_at": null,
+      "message": "@Lina Butler \u2013 This is what @Mark Hammond was talking about in terms of batch closing inactive tabs.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-04-23T22:23:23.163Z",
+          "user": {
+            "id": "1203376650105312387",
+            "handle": "Lina Butler",
+            "img_url": "https://www.gravatar.com/avatar/fdcfbd32e84c469795ef517746ded0b8?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "11594:35634",
+        "node_offset": {
+          "x": 3243,
+          "y": 454
+        },
+        "stable_path": [
+          "11594:35634"
+        ]
+      },
+      "order_id": "203"
+    },
+    {
+      "id": "775635539",
+      "uuid": "f768f708-43aa-487f-a24d-845637db484f",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-04-18T21:32:41.906Z",
+      "resolved_at": null,
+      "message": "@Mark Hammond \u2013 Updated spec",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11594:35634",
+        "node_offset": {
+          "x": 1555,
+          "y": 511
+        },
+        "stable_path": [
+          "11594:35634"
+        ]
+      },
+      "order_id": "202"
+    },
+    {
+      "id": "775631931",
+      "uuid": "ed556e80-0bf0-4f92-9758-a19f624c9150",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-04-18T21:28:06.957Z",
+      "resolved_at": null,
+      "message": "@Ana Medinac \u2013 I wanted to show you a proposal for separating inactive tabs. There's already an existing version in Nightly but I feel this version would be better for when we land closing tabs remotely.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11594:35634",
+        "node_offset": {
+          "x": 1551,
+          "y": 494
+        },
+        "stable_path": [
+          "11594:35634"
+        ]
+      },
+      "order_id": "201"
+    },
+    {
+      "id": "775628515",
+      "uuid": "4db8e827-f6ed-4b5d-a5d0-4c9fbaf976f1",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-04-18T21:23:44.834Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak \u2013 I didn't feel that we needed the device title again since we already have it in the previous menu",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11594:35634",
+        "node_offset": {
+          "x": 3233,
+          "y": 253
+        },
+        "stable_path": [
+          "11594:35634"
+        ]
+      },
+      "order_id": "200"
+    },
+    {
+      "id": "775628023",
+      "uuid": "25118387-082b-47bb-9bd7-550365252d10",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-04-18T21:23:08.726Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak \u2013 There's been a slight change in interaction for displaying inactive sync tabs. We will have a sub-section in the synced tabs list that shows all inactive tabs. Once we have the ability to close tabs remotely, we'd like to allow the user to close all inactive tabs with one click. Requesting a string review for this button. Thank you",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11594:35634",
+        "node_offset": {
+          "x": 3238,
+          "y": 472
+        },
+        "stable_path": [
+          "11594:35634"
+        ]
+      },
+      "order_id": "199"
+    },
+    {
+      "id": "773918900",
+      "uuid": "35997dc8-0547-4a9d-bf5a-5d76804ac690",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-04-17T20:41:45.299Z",
+      "resolved_at": null,
+      "message": "@Ana Medinac Updated specs based on our meeting today",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11025:16730",
+        "node_offset": {
+          "x": 2331,
+          "y": 524
+        },
+        "stable_path": [
+          "11025:16730"
+        ]
+      },
+      "order_id": "198"
+    },
+    {
+      "id": "773914039",
+      "uuid": "1a7691d2-2e0b-43d1-a121-65a22258034b",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-04-17T20:37:16.279Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak \u2013 Need to communicate that tab failed to close",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11038:80294",
+        "node_offset": {
+          "x": 7780,
+          "y": 2267
+        },
+        "stable_path": [
+          "11038:80294"
+        ]
+      },
+      "order_id": "197"
+    },
+    {
+      "id": "773913980",
+      "uuid": "51beff09-3b9b-41df-a238-f00fb6341536",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-04-17T20:37:13.114Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak \u2013 Need to communicate that tab failed to close",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11038:80294",
+        "node_offset": {
+          "x": 7776,
+          "y": 1139
+        },
+        "stable_path": [
+          "11038:80294"
+        ]
+      },
+      "order_id": "196"
+    },
+    {
+      "id": "773912111",
+      "uuid": "e695a4aa-bbed-4d60-a289-c4ca43be207e",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-04-17T20:35:26.983Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak \u2013 Strings needed for tooltip explaining why a user can't close a tab due to potential user data loss.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11025:16730",
+        "node_offset": {
+          "x": 2185,
+          "y": 844
+        },
+        "stable_path": [
+          "11025:16730"
+        ]
+      },
+      "order_id": "195"
+    },
+    {
+      "id": "773910550",
+      "uuid": "ecb7f6a1-0a64-4d30-839c-8ae1477b95ed",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-04-17T20:33:55.078Z",
+      "resolved_at": null,
+      "message": "@Lina Butler \u2013 Are we able to have a \"retry\" button here? cc @Ana Medinac",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11038:80294",
+        "node_offset": {
+          "x": 4368,
+          "y": 391
+        },
+        "stable_path": [
+          "11038:80294"
+        ]
+      },
+      "order_id": "194"
+    },
+    {
+      "id": "773909978",
+      "uuid": "f9cce2d2-a8a7-4717-89ac-1733bf4dc2bb",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-04-17T20:33:20.924Z",
+      "resolved_at": null,
+      "message": "@Lina Butler \u2013 Are we able to have a \"retry\" button here to try to close the tab(s)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11038:80294",
+        "node_offset": {
+          "x": 4554,
+          "y": 2522
+        },
+        "stable_path": [
+          "11038:80294"
+        ]
+      },
+      "order_id": "193"
+    },
+    {
+      "id": "763995454",
+      "uuid": "db09a6f6-1bdd-48a1-8df6-6b677dffeaad",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-04-09T15:20:37.601Z",
+      "resolved_at": null,
+      "message": "@Tina Rattliff \u2013 Can we have an option that specifically talks about being able to see all your tabs across windows?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12063:1394",
+        "node_offset": {
+          "x": 3777,
+          "y": 337
+        },
+        "stable_path": [
+          "12063:1394"
+        ]
+      },
+      "order_id": "192"
+    },
+    {
+      "id": "763993491",
+      "uuid": "0ab70952-806b-4677-9584-190b15d2ddaf",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-04-09T15:19:27.051Z",
+      "resolved_at": null,
+      "message": "@Ray Fambro @Venetia Tay - I put some of the options in visuals to have a better idea of the copy in context.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "12063:1394",
+        "node_offset": {
+          "x": 484,
+          "y": 300
+        },
+        "stable_path": [
+          "12063:1394"
+        ]
+      },
+      "order_id": "191"
+    },
+    {
+      "id": "749140023",
+      "uuid": "6cc82c31-4eeb-44b8-896a-5c6270283d7e",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-03-26T18:46:50.758Z",
+      "resolved_at": null,
+      "message": "@Ana Medinac - added flow for how to handle potential data loss - It looks like we only show these warnings when closing desktop tabs. We don't have this for mobile.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11025:16730",
+        "node_offset": {
+          "x": 2230,
+          "y": 868
+        },
+        "stable_path": [
+          "11025:16730"
+        ]
+      },
+      "order_id": "186"
+    },
+    {
+      "id": "749138693",
+      "uuid": "83cba361-20d4-415d-9af5-08be27a72834",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-03-26T18:45:44.421Z",
+      "resolved_at": null,
+      "message": "@Ana Medinac \u2013 Updated screens to show disabled close button and bolded active tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10569:384330",
+        "node_offset": {
+          "x": 4346,
+          "y": 638
+        },
+        "stable_path": [
+          "10569:384330"
+        ]
+      },
+      "order_id": "185"
+    },
+    {
+      "id": "749138062",
+      "uuid": "234fb35d-a05f-46a8-a197-629490232b8c",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-03-26T18:45:13.705Z",
+      "resolved_at": null,
+      "message": "@Ana Medinac \u2013 Updated screens to show disabled close button and bolded active tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "11052:82918",
+        "node_offset": {
+          "x": 1252,
+          "y": 367
+        },
+        "stable_path": [
+          "11052:82918"
+        ]
+      },
+      "order_id": "184"
+    },
+    {
+      "id": "745688680",
+      "uuid": "70d2d7ca-9485-4e1c-b50a-f48150b404d1",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-03-22T18:56:13.243Z",
+      "resolved_at": null,
+      "message": "@Amy Lee for reference I included a screenshot from my OnePlus Android device of a notification-looks slightly different from the one here in that it says Firefox at the top. Do you know if the layout above is for a specific device or maybe just outdated Android component in Figma?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10569:384337",
+        "node_offset": {
+          "x": 625,
+          "y": 2937
+        },
+        "stable_path": [
+          "10569:384337"
+        ]
+      },
+      "order_id": "183"
+    },
+    {
+      "id": "745671348",
+      "uuid": "7ef40659-9645-4c29-99d1-666ab9b87ffb",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Emily Wachowiak",
+        "img_url": "https://s3-alpha.figma.com/profile/573cff47-057f-45b9-9013-0d6d20d59e69",
+        "id": "1108498254843026326"
+      },
+      "created_at": "2024-03-22T18:38:26.841Z",
+      "resolved_at": null,
+      "message": "We should ask iOS eng about the feasibility of including a label here to indicate that this list is Recently Closed Tabs (could follow style of the Today / Yesterday\" labels from the initial History view. It is a barrier to user comprehension that we don't have this, especially in the context of landing here from a push notification",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10569:384337",
+        "node_offset": {
+          "x": 1467,
+          "y": 194
+        },
+        "stable_path": [
+          "10569:384337"
+        ]
+      },
+      "order_id": "182"
+    },
+    {
+      "id": "744428517",
+      "uuid": "25f5cf39-9fca-4c6b-9413-139cc3884f18",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-03-21T21:38:03.267Z",
+      "resolved_at": null,
+      "message": "@Sammy Khamis @Lina Butler Added specification around \"undo\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10570:386714",
+        "node_offset": {
+          "x": 1576,
+          "y": 1027
+        },
+        "stable_path": [
+          "10570:386714"
+        ]
+      },
+      "order_id": "181"
+    },
+    {
+      "id": "744387174",
+      "uuid": "b5a9119b-b7c1-4af5-8b0a-1ce080d05d2c",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-03-21T20:50:35.665Z",
+      "resolved_at": null,
+      "message": "@Ana Medinac @Lina Butler @Sammy Khamis\u2013 Added a note here for if a user has notifications turned off.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-04-15T21:58:10.218Z",
+          "user": {
+            "id": "1203376650105312387",
+            "handle": "Lina Butler",
+            "img_url": "https://www.gravatar.com/avatar/fdcfbd32e84c469795ef517746ded0b8?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_l_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "10569:384337",
+        "node_offset": {
+          "x": 715,
+          "y": 1271
+        },
+        "stable_path": [
+          "10569:384337"
+        ]
+      },
+      "order_id": "180"
+    },
+    {
+      "id": "744367299",
+      "uuid": "e3aad7a8-f8af-4a9b-a2e9-8de99f794ee0",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-03-21T20:30:55.458Z",
+      "resolved_at": null,
+      "message": "@Lina Butler \u2013 We show a toast notification after the user hits close.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10570:386714",
+        "node_offset": {
+          "x": 1252,
+          "y": 1165
+        },
+        "stable_path": [
+          "10570:386714"
+        ]
+      },
+      "order_id": "179"
+    },
+    {
+      "id": "744366897",
+      "uuid": "e8a2b34e-4bdf-4c18-aade-64b50bb9a2ad",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-03-21T20:30:33.300Z",
+      "resolved_at": null,
+      "message": "@Lina Butler @Sammy Khamis\u2013 Close button is no longer red (spoke to design systems team, they will file a ticket to make a universal change for close buttons in iOS). I believe they need to change the token assigned?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10570:386714",
+        "node_offset": {
+          "x": 692,
+          "y": 905
+        },
+        "stable_path": [
+          "10570:386714"
+        ]
+      },
+      "order_id": "178"
+    },
+    {
+      "id": "741150203",
+      "uuid": "80461111-3f41-4154-a3fb-157812219874",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-03-19T21:29:52.240Z",
+      "resolved_at": null,
+      "message": "@Ana Medinac \u2013 Small update here. Instead of opening a new tab with Firefox View if the user removed Firefox View from the tab bar, we open Recently closed tabs in the application menu. The reasoning was that we currently hide the URL for about:firefoxview, if we were to show this in a new tab we would need to unhide the URL for Firefox View in general. Secondly, it's a very small % of users that actually removed View but we also want to respect their chose of removing it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10570:384406",
+        "node_offset": {
+          "x": 4942,
+          "y": 649
+        },
+        "stable_path": [
+          "10570:384406"
+        ]
+      },
+      "order_id": "177"
+    },
+    {
+      "id": "740987682",
+      "uuid": "699de608-250d-40b8-ac89-3d33cb027d50",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-03-19T19:00:15.551Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak \u2013  Toast notification - strings for review",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10570:386714",
+        "node_offset": {
+          "x": 1307,
+          "y": 1161
+        },
+        "stable_path": [
+          "10570:386714"
+        ]
+      },
+      "order_id": "176"
+    },
+    {
+      "id": "740987301",
+      "uuid": "fdc71f68-0bd6-468f-8b0f-1baf57d8d011",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-03-19T18:59:56.288Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak \u2013 Strings for review",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10570:386714",
+        "node_offset": {
+          "x": 761,
+          "y": 905
+        },
+        "stable_path": [
+          "10570:386714"
+        ]
+      },
+      "order_id": "175"
+    },
+    {
+      "id": "740987140",
+      "uuid": "119450bd-bb06-49b2-ab0e-12111c561a25",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-03-19T18:59:47.587Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Strings for review",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10570:386714",
+        "node_offset": {
+          "x": 1308,
+          "y": 2316
+        },
+        "stable_path": [
+          "10570:386714"
+        ]
+      },
+      "order_id": "174"
+    },
+    {
+      "id": "740985684",
+      "uuid": "5d1f5c10-c076-42fb-8229-7a368246d51d",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-03-19T18:58:30.623Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak \u2013 Strings for review",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10570:384406",
+        "node_offset": {
+          "x": 2045,
+          "y": 2404
+        },
+        "stable_path": [
+          "10570:384406"
+        ]
+      },
+      "order_id": "173"
+    },
+    {
+      "id": "740985448",
+      "uuid": "1b3e69a9-f93a-4f9b-b637-db929ebf4389",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-03-19T18:58:18.021Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak Strings for review",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10570:384406",
+        "node_offset": {
+          "x": 2046,
+          "y": 251
+        },
+        "stable_path": [
+          "10570:384406"
+        ]
+      },
+      "order_id": "172"
+    },
+    {
+      "id": "740984916",
+      "uuid": "28a2e845-8a62-435f-9010-923da0fd7526",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-03-19T18:57:49.235Z",
+      "resolved_at": null,
+      "message": "@Emily Wachowiak \u2013 Strings for review",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10569:384337",
+        "node_offset": {
+          "x": 737,
+          "y": 1907
+        },
+        "stable_path": [
+          "10569:384337"
+        ]
+      },
+      "order_id": "171"
+    },
+    {
+      "id": "719999494",
+      "uuid": "fad53e70-c8c7-4bd5-9e8e-d232e2f3f927",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-02-29T21:20:47.630Z",
+      "resolved_at": null,
+      "message": "@Ana Medinac \u2013 I think these strings should be reviewed by the content team",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10569:384337",
+        "node_offset": {
+          "x": 731,
+          "y": 1025
+        },
+        "stable_path": [
+          "10569:384337"
+        ]
+      },
+      "order_id": "169"
+    },
+    {
+      "id": "715010524",
+      "uuid": "6609d70b-3abf-4fc1-b0cb-4206ca25f8af",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-02-26T20:12:57.812Z",
+      "resolved_at": null,
+      "message": "@Kelly Cochrane - Added note to prioritize bookmark icon over pinned to New Tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2835:74968",
+        "node_offset": {
+          "x": 634,
+          "y": 969
+        },
+        "stable_path": [
+          "2835:74968"
+        ]
+      },
+      "order_id": "164"
+    },
+    {
+      "id": "715003937",
+      "uuid": "9ce80cb0-14f0-4694-a111-8c757a2ab0c5",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-02-26T20:06:41.422Z",
+      "resolved_at": null,
+      "message": "@Kelly Cochrane Updated icons from blue to grey",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2835:74968",
+        "node_offset": {
+          "x": 539,
+          "y": 310
+        },
+        "stable_path": [
+          "2835:74968"
+        ]
+      },
+      "order_id": "163"
+    },
+    {
+      "id": "715002267",
+      "uuid": "ef5b432e-52f7-4461-9f9d-c12f1a7738e8",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-02-26T20:05:00.369Z",
+      "resolved_at": null,
+      "message": "@Kelly Cochrane \u2013 Added \n\u2022 Mute/Unmute",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6713:196565",
+        "node_offset": {
+          "x": 1038,
+          "y": 1993
+        },
+        "stable_path": [
+          "6713:196565"
+        ]
+      },
+      "order_id": "162"
+    },
+    {
+      "id": "715001717",
+      "uuid": "aa6f83b7-1301-4a05-b407-6412b119c690",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-02-26T20:04:26.639Z",
+      "resolved_at": null,
+      "message": "@Kelly Cochrane \u2013 Updated context menus. Added:\n\u2022 Mute/Unmute Tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6713:196565",
+        "node_offset": {
+          "x": 768,
+          "y": 1772
+        },
+        "stable_path": [
+          "6713:196565"
+        ]
+      },
+      "order_id": "161"
+    },
+    {
+      "id": "714967307",
+      "uuid": "5ac0677b-1dc6-4416-b312-3229ae1d7413",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-02-26T19:33:21.004Z",
+      "resolved_at": null,
+      "message": "@Kelly Cochrane Updated to include tooltip for mute/unmute - Added note about tabindex as well.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2835:74968",
+        "node_offset": {
+          "x": 742,
+          "y": 1161
+        },
+        "stable_path": [
+          "2835:74968"
+        ]
+      },
+      "order_id": "160"
+    },
+    {
+      "id": "714947235",
+      "uuid": "d24ba06b-fe74-4a18-8b9d-934220d79f08",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-02-26T19:15:57.385Z",
+      "resolved_at": null,
+      "message": "@Kelly Cochrane - Removed \"Switch to\" for unpinned tabs.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2835:74968",
+        "node_offset": {
+          "x": 1608,
+          "y": 232
+        },
+        "stable_path": [
+          "2835:74968"
+        ]
+      },
+      "order_id": "159"
+    },
+    {
+      "id": "708412844",
+      "uuid": "4bae1c00-8591-418c-a0ba-75b101fd2bed",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-02-20T18:01:23.411Z",
+      "resolved_at": null,
+      "message": "@Katie Lower \u2013 We are proposing use a right-click context menu for button/tabs for Opened tabs/Pinned tabs since these are technically opened tabs and not links (like history, recently closed tabs). I'm wondering if it's a good idea to review the items in the right-click menu for tabs in the tab strip and to see if any of those items should be applied to these menus?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6713:196565",
+        "node_offset": {
+          "x": 858,
+          "y": 1776
+        },
+        "stable_path": [
+          "6713:196565"
+        ]
+      },
+      "order_id": "158"
+    },
+    {
+      "id": "702446313",
+      "uuid": "fd2ef472-867b-4eb9-9e02-4fa3e6e0d249",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-02-14T20:37:14.251Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg - Hi, can you take a look and let me know if there's anything that I may have missed or concerns with the recommendations in regards to keyboard actions? Thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10129:270594",
+        "node_offset": {
+          "x": 1092,
+          "y": 107
+        },
+        "stable_path": [
+          "10129:270594"
+        ]
+      },
+      "order_id": "157"
+    },
+    {
+      "id": "702195205",
+      "uuid": "a7f562f3-f4f5-4902-8b29-8615380d053d",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-02-14T16:50:43.887Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg I also updated the spec here to show tab title and not URL. Please let me know if there's anything else that I'm missing.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2835:74968",
+        "node_offset": {
+          "x": 1664,
+          "y": 312
+        },
+        "stable_path": [
+          "2835:74968"
+        ]
+      },
+      "order_id": "156"
+    },
+    {
+      "id": "702194495",
+      "uuid": "5ca1ced4-0739-4e36-a8e9-d83bdd6719b8",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-02-14T16:50:13.906Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg \u2013 Hi, can you confirm if these are the correct updates for tooltips? I was speaking to @Kelly Cochrane and it was a bit unclear where we wanted \"Switch to\" and where we didn't? I'm taking over for Eric so just trying to ramp up on my understanding. Thanks",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2835:74968",
+        "node_offset": {
+          "x": 758,
+          "y": 1065
+        },
+        "stable_path": [
+          "2835:74968"
+        ]
+      },
+      "order_id": "155"
+    },
+    {
+      "id": "693599184",
+      "uuid": "ff74eb16-be34-4cf4-9059-6c7829822efd",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-06T19:05:03.250Z",
+      "resolved_at": null,
+      "message": "Can you add a wrapper around this with role=tablist and name=\"pinned tabs\", and then set each of the pinned tabs to have role=tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6700:748631",
+        "node_offset": {
+          "x": 547,
+          "y": 546
+        },
+        "stable_path": [
+          "6700:748631"
+        ]
+      },
+      "order_id": "154"
+    },
+    {
+      "id": "692228714",
+      "uuid": "58d22cc3-0060-4d06-a09b-570727f125cd",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:26:39.631Z",
+      "resolved_at": null,
+      "message": "How can this be done with keyboard only?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9394:297175",
+        "node_offset": {
+          "x": 654,
+          "y": 22
+        },
+        "stable_path": [
+          "9394:297175"
+        ]
+      },
+      "order_id": "152"
+    },
+    {
+      "id": "692228463",
+      "uuid": "f659f2a7-f1b0-45da-bbc7-372153756e71",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:26:17.794Z",
+      "resolved_at": null,
+      "message": "How can this be done with keyboard only?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9234:230500",
+        "node_offset": {
+          "x": 1211,
+          "y": 70
+        },
+        "stable_path": [
+          "9234:230500"
+        ]
+      },
+      "order_id": "151"
+    },
+    {
+      "id": "692228430",
+      "uuid": "6ea46c71-4e4a-4333-b312-66919782998e",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:26:15.312Z",
+      "resolved_at": null,
+      "message": "How can this be done with keyboard only?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9542:216351",
+        "node_offset": {
+          "x": 535,
+          "y": 64
+        },
+        "stable_path": [
+          "9542:216351"
+        ]
+      },
+      "order_id": "150"
+    },
+    {
+      "id": "692228403",
+      "uuid": "84419346-c60c-45af-a176-5aef36d43888",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:26:13.091Z",
+      "resolved_at": null,
+      "message": "How can this be done with keyboard only?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9234:230502",
+        "node_offset": {
+          "x": 1519,
+          "y": 96
+        },
+        "stable_path": [
+          "9234:230502"
+        ]
+      },
+      "order_id": "149"
+    },
+    {
+      "id": "692228372",
+      "uuid": "eb52e8d6-a765-4784-8a6c-aa31e3cb60fa",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:26:11.199Z",
+      "resolved_at": null,
+      "message": "How can this be done with keyboard only?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9453:326010",
+        "node_offset": {
+          "x": 1011,
+          "y": 52
+        },
+        "stable_path": [
+          "9453:326010"
+        ]
+      },
+      "order_id": "148"
+    },
+    {
+      "id": "692228077",
+      "uuid": "d099abcc-2510-46e5-9565-fab918d01363",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:25:45.932Z",
+      "resolved_at": null,
+      "message": "Does the cursor change to indicate it is possible to drag ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9234:230546",
+        "node_offset": {
+          "x": 2580,
+          "y": 855
+        },
+        "stable_path": [
+          "9234:230546"
+        ]
+      },
+      "order_id": "147"
+    },
+    {
+      "id": "692227159",
+      "uuid": "f5962634-db3e-4e03-975e-c45e18a65cdd",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:24:34.237Z",
+      "resolved_at": null,
+      "message": "Can we have this blue line appear in the spot a window originates from when a window is first dragged? That way users understand where the window came from / where it would go back to when they're under the 50% threshold for the action",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9542:216352",
+        "node_offset": {
+          "x": 923,
+          "y": 4166
+        },
+        "stable_path": [
+          "9542:216352"
+        ]
+      },
+      "order_id": "145"
+    },
+    {
+      "id": "692226552",
+      "uuid": "2e0ee091-f225-43a7-b215-937f25aadc66",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:23:41.607Z",
+      "resolved_at": null,
+      "message": "What effect does reordering windows in fx view have on the windows in the user's desktop environment?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9542:216352",
+        "node_offset": {
+          "x": 2030,
+          "y": 1743
+        },
+        "stable_path": [
+          "9542:216352"
+        ]
+      },
+      "order_id": "144"
+    },
+    {
+      "id": "692225727",
+      "uuid": "78cf7219-9e3c-47b2-b28f-96059f766c1e",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:22:30.188Z",
+      "resolved_at": null,
+      "message": "How is this selection being performed? Shift+click? Command+click? Where is the click landing to trigger selection?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9542:216352",
+        "node_offset": {
+          "x": 811,
+          "y": 564
+        },
+        "stable_path": [
+          "9542:216352"
+        ]
+      },
+      "order_id": "142"
+    },
+    {
+      "id": "692225043",
+      "uuid": "a5c0f22f-a972-4bfe-b41c-4f4b99089a17",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:21:27.986Z",
+      "resolved_at": null,
+      "message": "Similar to the proposal in dragging between two windows -- can we add a focus state to the current window a tab is in when the \"drag\" starts? This would help users maintain context",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-02-13T19:00:39.891Z",
+          "user": {
+            "id": "870758038064914784",
+            "handle": "Amy Lee",
+            "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9453:326011",
+        "node_offset": {
+          "x": 1699,
+          "y": 759
+        },
+        "stable_path": [
+          "9453:326011"
+        ]
+      },
+      "order_id": "141"
+    },
+    {
+      "id": "633901107",
+      "uuid": "c93013de-edfb-4f2b-97e3-10e341743535",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-12-01T23:48:10.445Z",
+      "resolved_at": null,
+      "message": "@Amy Lee - I took a look at the confirm prompt for closing multiple tabs and I wonder if we can follow some of the patterns there. One is bringing in the number of tabs that will be closed.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8277:138695",
+        "node_offset": {
+          "x": 265,
+          "y": 15
+        },
+        "stable_path": [
+          "8277:138695"
+        ]
+      },
+      "order_id": "138"
+    },
+    {
+      "id": "633828116",
+      "uuid": "58cf7fc4-e989-43cd-bfa6-3731bb51afbb",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-12-01T21:03:58.834Z",
+      "resolved_at": null,
+      "message": "@Katie Lower \u2013 We want to show a confirmation here. There might be a time where tabs are closed below the fold so it might not be obvious if something happened. Also showing a number gives the user a sense of how many tabs they had cleaned up.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6881:154962",
+        "node_offset": {
+          "x": 1126,
+          "y": 5164
+        },
+        "stable_path": [
+          "6881:154962"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "633826711",
+      "uuid": "3f87bbde-3768-4ed5-bf18-173e8ee22503",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-12-01T21:01:45.042Z",
+      "resolved_at": null,
+      "message": "@Katie Lower \u2013 Hi, I think we still want to give the user a way to cancel if they was not what they expected to happen. I had slightly modified one of your suggestions so it's saying this is what we will be doing instead of what we just did.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8271:111929",
+        "node_offset": {
+          "x": 246,
+          "y": 25
+        },
+        "stable_path": [
+          "8271:111929"
+        ]
+      },
+      "order_id": "136"
+    },
+    {
+      "id": "633816559",
+      "uuid": "97159b35-f73b-4a8b-8acd-fb2eb0338387",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-12-01T20:46:22.935Z",
+      "resolved_at": null,
+      "message": "@Katie Lower I realize if we have a confirmation that we would also need to add a line item in preferences here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6881:154962",
+        "node_offset": {
+          "x": 882,
+          "y": 4384
+        },
+        "stable_path": [
+          "6881:154962"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "632784431",
+      "uuid": "0c375d41-b518-4ab1-8e3f-82c60eda94ae",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-12-01T01:20:40.849Z",
+      "resolved_at": null,
+      "message": "A more 'informational' style message about what's happened. Would be a headline, one line of body copy, and one CTA to dismiss the message.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8238:138148",
+        "node_offset": {
+          "x": 173,
+          "y": 38
+        },
+        "stable_path": [
+          "8238:138148"
+        ]
+      },
+      "order_id": "133"
+    },
+    {
+      "id": "627936041",
+      "uuid": "059d0d5d-ac72-41ea-94e2-27d2d5dc21ff",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-11-27T16:17:52.236Z",
+      "resolved_at": null,
+      "message": "@Katie Lower \u2013 New tooltip",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7996:147853",
+        "node_offset": {
+          "x": 103,
+          "y": 6
+        },
+        "stable_path": [
+          "7996:147853"
+        ]
+      },
+      "order_id": "128"
+    },
+    {
+      "id": "627935388",
+      "uuid": "23b40c00-6622-425b-9d0d-c5795dcb675f",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-11-27T16:17:22.964Z",
+      "resolved_at": null,
+      "message": "@Katie Lower \u2013 Suggesting to add a new list item here to direct users to View.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7996:147655",
+        "node_offset": {
+          "x": 1846,
+          "y": 699
+        },
+        "stable_path": [
+          "7996:147655"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "617371005",
+      "uuid": "6126c13e-bf52-4e76-bc8c-c019fb55eab6",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-11-15T22:44:43.679Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg \u2013 Requesting an accessibility review on adding an additional \"close\" button in Firefox View \u2013 Open tabs. Please note that we will still have a close action in the \u2026 menu. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7786:179013",
+        "node_offset": {
+          "x": 1141,
+          "y": 182
+        },
+        "stable_path": [
+          "7786:179013"
+        ]
+      },
+      "order_id": "122"
+    },
+    {
+      "id": "570196200",
+      "uuid": "6c33c575-3a5a-4001-ad5c-ca3fb8ca811d",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-09-28T20:55:52.776Z",
+      "resolved_at": null,
+      "message": "@Katie Lower I also wanted to confirm if this upper/lower casing is right? I updated it to follow the context menus. Thank you",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6881:154962",
+        "node_offset": {
+          "x": 1051,
+          "y": 2045
+        },
+        "stable_path": [
+          "6881:154962"
+        ]
+      },
+      "order_id": "121"
+    },
+    {
+      "id": "570193954",
+      "uuid": "a281cffe-7996-4213-8377-13e998200dc1",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-09-28T20:53:04.351Z",
+      "resolved_at": null,
+      "message": "@Katie Lower - Hi, we were thinking of having a prompt to alert users what tabs we will be closing when you close duplicate tabs since it came up that it's ambiguous to the user what tab we would keep.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6881:154962",
+        "node_offset": {
+          "x": 1188,
+          "y": 3206
+        },
+        "stable_path": null
+      },
+      "order_id": "120"
+    },
+    {
+      "id": "562674264",
+      "uuid": "3fe0e9cc-befe-4812-9075-4036581e943a",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Clements",
+        "img_url": "https://www.gravatar.com/avatar/a5c64c086e83ba611b034ee859d843d4?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "845740316875106093"
+      },
+      "created_at": "2023-09-21T10:16:38.058Z",
+      "resolved_at": null,
+      "message": "Note: this should include the actual URL, not use the word \"URL\".",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-09-28T21:08:38.535Z",
+          "user": {
+            "id": "845670076645908195",
+            "handle": "Eric Pang",
+            "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "6694:319993",
+        "node_offset": {
+          "x": 1975,
+          "y": 660
+        },
+        "stable_path": null
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "543230864",
+      "uuid": "4228b08b-8e95-4fdb-97b8-17342e26cf2b",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-08-31T16:23:25.081Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova I was thinking we could show 2 rows from each window max and if the user has more than 2 rows we have a \"view more\" button to expand it and the user can still collapse the window entirely (like how we do for the other pages).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6295:385937",
+        "node_offset": {
+          "x": 1233,
+          "y": 113
+        },
+        "stable_path": null
+      },
+      "order_id": "117"
+    },
+    {
+      "id": "542126334",
+      "uuid": "268326c0-834c-45a4-9895-90ed536d4844",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-08-30T20:09:42.412Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova I think we should go with rows for grid view in Open tabs. It's easier to scan than rows. Thoughts?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6286:382975",
+        "node_offset": {
+          "x": 1595,
+          "y": 256
+        },
+        "stable_path": null
+      },
+      "order_id": "114"
+    },
+    {
+      "id": "509546597",
+      "uuid": "61c9047d-23bf-450a-a08f-449056de176d",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2023-07-26T21:31:22.089Z",
+      "resolved_at": null,
+      "message": "@Katie Lower added the new sync in progress \"empty\" state here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3123:150137",
+        "node_offset": {
+          "x": 1319,
+          "y": 3291
+        }
+      },
+      "order_id": "113"
+    },
+    {
+      "id": "509546173",
+      "uuid": "6ba61f94-1979-444c-a980-df8723b7b221",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2023-07-26T21:30:47.130Z",
+      "resolved_at": null,
+      "message": "@Katie Lower added the new sync in progress \"empty\" state here for recently browsing.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2404:111442",
+        "node_offset": {
+          "x": 1073,
+          "y": 1889
+        },
+        "stable_path": [
+          "2404:111442"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "498854923",
+      "uuid": "4efedb5c-1050-4f29-84af-45b691d7935c",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-07-14T21:51:17.742Z",
+      "resolved_at": null,
+      "message": "@Amy Lee @Eric Pang - Oh this seems slick! Just making sure I understand. So the View surface will be able to \"know\" that I have a tab open on a mobile device and I also have that tab open on my desktop device?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4958:219869",
+        "node_offset": {
+          "x": 1371,
+          "y": 1073
+        },
+        "stable_path": null
+      },
+      "order_id": "111"
+    },
+    {
+      "id": "497791374",
+      "uuid": "39eb3d84-7e72-4340-9651-1cfc484e711e",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-13T21:17:21.929Z",
+      "resolved_at": null,
+      "message": "@Amy Lee This badge would be a separate button, right? If so, we'll need to style it as buttons",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5003:309775",
+        "node_offset": {
+          "x": 1164,
+          "y": 515
+        }
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "494047751",
+      "uuid": "4d0fbcc4-e69a-4a8c-8054-8d808475ea88",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-07-11T04:27:06.141Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi I added another example here to consider. \nIn your example on the left, I modified the hover states to show what hovering the buttons individually would look like, since we can't hover them both at once",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5179:214370",
+        "node_offset": {
+          "x": 237,
+          "y": 73
+        }
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "493890001",
+      "uuid": "e2ae7d76-67f1-4398-9547-9372c4f249c7",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-10T22:15:07.819Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg What do you think? I'm not sure about hover state too since it looks the same for pressed and not pressed button. I'll keep thinking about it though",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5179:214370",
+        "node_offset": {
+          "x": 242,
+          "y": 175
+        }
+      },
+      "order_id": "107"
+    },
+    {
+      "id": "493653433",
+      "uuid": "3883a255-d46b-4131-ad3a-ed00c08f5668",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-07-10T16:47:38.493Z",
+      "resolved_at": null,
+      "message": "@Katie Lower Hi, this isn't urgent since the word for grid view hasn't been scoped yet, but there was feedback amongst our team if this would be the right strings. I copied the wording from the URL bar in the scenario where there is already an opened tab of this URL so the user can jump to the opened tab instead of opening another tab to avoid duplicates. Some feedback was that it might be clearer to say something like \"already opened\" or \"opened tab\" etc. Just wanted your take on this.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4844:195507",
+        "node_offset": {
+          "x": 657,
+          "y": 125
+        }
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "493491773",
+      "uuid": "07b6624c-273f-43b9-9ad1-c561cdafda8c",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-10T14:31:28.864Z",
+      "resolved_at": null,
+      "message": "@Amy Lee this icon button would need to get a border and differentiate from the card, but I am not sure how to do it in a better way. Maybe, we could style the card with Canvas/CanvasText colors and use only the title and URL text to be styled as button on HCM (with a border and Button/ButtonText colors) - then the Close and Menu buttons would be styled as buttons and the clickable area would be clearer",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5003:309775",
+        "node_offset": {
+          "x": 1278,
+          "y": 391
+        }
+      },
+      "order_id": "105"
+    },
+    {
+      "id": "493473906",
+      "uuid": "73f213c5-2942-4a1c-ac99-fde1a6063a1c",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-10T14:18:49.806Z",
+      "resolved_at": null,
+      "message": "@Amy Lee, the favicon appears to be migrating from the bottom left corner to the bottom right corner of the thumbnail section. If possible, to have them all in one side that would be better for consistency purpose that would improve a11y for users with cognitive and learning difficulties",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4958:231272",
+        "node_offset": {
+          "x": 776,
+          "y": 119
+        }
+      },
+      "order_id": "104"
+    },
+    {
+      "id": "493470075",
+      "uuid": "1f7ab5c8-d91d-45e8-9237-cb88aa879b2f",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-10T14:16:08.930Z",
+      "resolved_at": null,
+      "message": "Engineering note: focus would still be managed with arrow keys within each grid, but a specific implementation between controls within a card is TBD since overlapping active areas is not recommended... I'll get back with it",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4958:219939",
+        "node_offset": {
+          "x": 1221,
+          "y": 482
+        },
+        "stable_path": null
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "493464974",
+      "uuid": "ef03faeb-031e-474f-9001-5c6ed6872342",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-10T14:12:28.949Z",
+      "resolved_at": null,
+      "message": "This icon's text alternative would need to be included in the card text as well",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4958:219939",
+        "node_offset": {
+          "x": 853,
+          "y": 830
+        }
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "493462820",
+      "uuid": "95f6c71c-8357-4ee4-a37b-18831d9040d3",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-10T14:10:59.250Z",
+      "resolved_at": null,
+      "message": "These stars would need to be included in the favicon's alt text, i.e. prepend it with \"Bookmarked: \"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4958:219939",
+        "node_offset": {
+          "x": 1098,
+          "y": 445
+        },
+        "stable_path": null
+      },
+      "order_id": "101"
+    },
+    {
+      "id": "493308234",
+      "uuid": "ffcace67-f87e-44fe-9950-64f484477824",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-10T12:13:11.229Z",
+      "resolved_at": null,
+      "message": "@Amy Lee Color contrast for the unselected view button label is too low (1.3:1 while 3 or higher is needed) and would be difficult to discern for people with low vision, with color deficiency, or users with screens with glare",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4958:219939",
+        "node_offset": {
+          "x": 1226,
+          "y": 376
+        },
+        "stable_path": null
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "493284042",
+      "uuid": "50112223-50ad-4fd3-b6e2-775a2e8f24dd",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-10T11:50:55.130Z",
+      "resolved_at": null,
+      "message": "@Amy Lee Thank you for mocking the HCM up! The icon buttons like \"...\" and the view ones would need to have their own borders since they have separate functionality from the card itself (like they are now differentiated from the tab information within the row).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5003:309775",
+        "node_offset": {
+          "x": 1295,
+          "y": 139
+        }
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "491168227",
+      "uuid": "bad72341-d26c-4343-a0d8-eedbe0a0998c",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-07-06T18:01:02.505Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg \u2013 This is the grid view version of the Firefox View. I wanted to run it by accessibility. I think it's pretty similar to the list view but just the layout of the cards are different and the addition of thumbnail images. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4958:220025",
+        "node_offset": {
+          "x": 111,
+          "y": 11
+        }
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "491166326",
+      "uuid": "78911360-dc26-43a0-94c3-85d613bdc7eb",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-07-06T17:59:02.230Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg \u2013 Hi, just wanted to run this spec by you for the grid view version of Firefox View for accessibility. I wanted to highlight the close icon on hover. Since we also have the close button in the \u2026 menu I feel that it's okay this appears on hover. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4844:195507",
+        "node_offset": {
+          "x": 1284,
+          "y": 117
+        }
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "444491445",
+      "uuid": "75037a40-3284-4005-9dd3-c008011d6591",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-05-15T14:33:58.124Z",
+      "resolved_at": null,
+      "message": "@Sarah Clements - Hi, I have annotated when we use each empty state here.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3123:150137",
+        "node_offset": {
+          "x": 568,
+          "y": 207
+        }
+      },
+      "order_id": "95"
+    },
+    {
+      "id": "444166900",
+      "uuid": "f75b41ac-2838-4d7c-83a0-efbd55664704",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Clements",
+        "img_url": "https://www.gravatar.com/avatar/a5c64c086e83ba611b034ee859d843d4?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "845740316875106093"
+      },
+      "created_at": "2023-05-15T10:04:15.022Z",
+      "resolved_at": null,
+      "message": "@Amy Lee What about the other empty/error states we have implemented? Will those also get new image asset or other changes? https://www.figma.com/file/SE4xHgOW84yLiv7vFugm9R/Firefox-View-Stepping-Stone?type=design&node-id=7698-154673&t=P9pWUZZG5peQdhy0-0",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3123:150137",
+        "node_offset": {
+          "x": 1440,
+          "y": 700
+        }
+      },
+      "order_id": "94"
+    },
+    {
+      "id": "444160236",
+      "uuid": "ac050cfd-a6b3-461e-9c0f-3a4479197a1f",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Clements",
+        "img_url": "https://www.gravatar.com/avatar/a5c64c086e83ba611b034ee859d843d4?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "845740316875106093"
+      },
+      "created_at": "2023-05-15T09:58:39.629Z",
+      "resolved_at": null,
+      "message": "@Amy Lee Can you add an annotation with an for this. Since we are filtering out the current device, I believe this will show if there isn't another device synced? Or will this also show if they have another desktop device synced rather than mobile?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3123:150137",
+        "node_offset": {
+          "x": 1646,
+          "y": 1494
+        }
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "444153922",
+      "uuid": "e733b471-7714-418f-b753-bf6592a9fffb",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Clements",
+        "img_url": "https://www.gravatar.com/avatar/a5c64c086e83ba611b034ee859d843d4?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "845740316875106093"
+      },
+      "created_at": "2023-05-15T09:53:38.383Z",
+      "resolved_at": null,
+      "message": "This is for the pref to allow synced devices that we have implemented in Firefox View.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3123:150137",
+        "node_offset": {
+          "x": 1619,
+          "y": 2515
+        }
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "439744202",
+      "uuid": "3cca3b57-1492-4967-81e7-c2156fe24937",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-05-09T19:41:44.950Z",
+      "resolved_at": null,
+      "message": "@Sarah Clements - Hi, @Katie Lower and I are proposing a banner for \"import data\" instead of having it integrated into the empty state. This solves the issue of having the Privacy policy as a new tab and the user never seeing the empty state with \"import data\" since their history is not empty or having to make an except for the privacy policy to not show up as a history item. This banner will be persistent unless the user closes it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2742:90260",
+        "node_offset": {
+          "x": 1543,
+          "y": 1704
+        }
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "439681805",
+      "uuid": "5c2fe989-780d-46dc-9286-1b12230417e5",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Shannon French",
+        "img_url": "https://www.gravatar.com/avatar/c6d1fd80c8811a2ba9b09fae4cd4bb8b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1214636720753185145"
+      },
+      "created_at": "2023-05-09T18:31:06.140Z",
+      "resolved_at": null,
+      "message": "@Katie Lower Also curious if this is a specific call out to history? Almost seems like the header should be more generic, like \"all your data, in one spot\"?  with the details below?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3536:169672",
+        "node_offset": {
+          "x": 484,
+          "y": 416
+        }
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "439680703",
+      "uuid": "517ae43a-0e27-4ac1-ac2d-f7f672dcaa01",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Shannon French",
+        "img_url": "https://www.gravatar.com/avatar/c6d1fd80c8811a2ba9b09fae4cd4bb8b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "1214636720753185145"
+      },
+      "created_at": "2023-05-09T18:29:51.889Z",
+      "resolved_at": null,
+      "message": "@Katie Lower curious why you chose history and passwords? i'm doing similar strings and it sounded like bookmarks were a big deal but it seems like it was intentional to use these two?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3536:169672",
+        "node_offset": {
+          "x": 427,
+          "y": 168
+        }
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "439590328",
+      "uuid": "19b9cf2a-928b-4e02-b383-f0c036cfdb14",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Kelly Cochrane",
+        "img_url": "https://www.gravatar.com/avatar/f989c265f3463d5df9e699d0dca074b0?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1115636830870013805"
+      },
+      "created_at": "2023-05-09T16:54:23.702Z",
+      "resolved_at": null,
+      "message": "@Eric Pang @Morgan Rae Reschenberg Similar question here. In about:addons / about:preferences, we're only able to tab to the first item in the side navigation menu and then arrow up/down allows you to cycle through the options. Which would be preferred/expected here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2304:38043",
+        "node_offset": {
+          "x": 216,
+          "y": 462
+        }
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "439534382",
+      "uuid": "d422f42b-d75b-42c1-a01d-93d2b0a43745",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-05-09T15:59:22.110Z",
+      "resolved_at": null,
+      "message": "I wonder if you could experiment with different CTAs. With the right headline that delivers context, you could do just \"Upload\" or \"Add\". Or we could be longer and more descriptive - \"Import bookmarks and more\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3536:169672",
+        "node_offset": {
+          "x": 1173,
+          "y": 127
+        }
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "439530340",
+      "uuid": "8536a31b-4aef-4248-ae7e-a10a6c746969",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-05-09T15:55:56.528Z",
+      "resolved_at": null,
+      "message": "I like this if we can tell that this is a new user, and I agree, after a period of time it becomes less relevant. @Katie Lower",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3536:169672",
+        "node_offset": {
+          "x": 468,
+          "y": 186
+        }
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "439529284",
+      "uuid": "faa9964a-4129-4665-b1ff-8c5d030adf0f",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-05-09T15:55:01.372Z",
+      "resolved_at": null,
+      "message": "This kind of implies sync, but import is a single point in time. If I use Chrome, i'd have to keep importing, right? @Katie Lower",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3536:169672",
+        "node_offset": {
+          "x": 609,
+          "y": 543
+        }
+      },
+      "order_id": "85"
+    },
+    {
+      "id": "439528504",
+      "uuid": "597c480d-c7b6-456b-aee2-ccd7dec094c1",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-05-09T15:54:21.196Z",
+      "resolved_at": null,
+      "message": "One thing I've been thinking about in FXA is the hierarchy of what's important to users. Where we talk about encryption, for example, I bring passwords and payments to a higher priority. For importing - what's the thing that's most valuable to get into my new browser? I would hypothesize bookmarks and passwords is more important than history. @Katie Lower",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3536:169672",
+        "node_offset": {
+          "x": 419,
+          "y": 300
+        }
+      },
+      "order_id": "84"
+    },
+    {
+      "id": "439526728",
+      "uuid": "3ff0e509-a27f-4032-a889-4b931472ab32",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-05-09T15:52:52.145Z",
+      "resolved_at": null,
+      "message": "Are you testing? It might be worth doing one that's straightforward like \"Import your data\" to see if being as clear / straightforward as possible works @Katie Lower",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3536:169672",
+        "node_offset": {
+          "x": 594,
+          "y": 75
+        }
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "439485409",
+      "uuid": "89080705-502c-4def-8a4a-c6bf18e5cad0",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-05-09T15:19:00.728Z",
+      "resolved_at": null,
+      "message": "@Katie Lower - Small fix, browsing was missing the \"s\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3536:169672",
+        "node_offset": {
+          "x": 824,
+          "y": 529
+        }
+      },
+      "order_id": "82"
+    },
+    {
+      "id": "439427978",
+      "uuid": "c5949287-8bf4-4579-87bf-1a6e2a0054a0",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2023-05-09T14:36:06.000Z",
+      "resolved_at": null,
+      "message": "@Katie Lower I'm trying to think if it's a safe assumption that they are coming from another browser for this banner. If not coming from another browser this message wouldn't be relevant since they won't have anything to import. (I think?)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3536:169672",
+        "node_offset": {
+          "x": 171,
+          "y": 132
+        }
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "434939623",
+      "uuid": "19636719-71cd-4109-b8bb-ee57453478db",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Clements",
+        "img_url": "https://www.gravatar.com/avatar/a5c64c086e83ba611b034ee859d843d4?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "845740316875106093"
+      },
+      "created_at": "2023-05-03T16:47:53.650Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova How will the search results be displayed? If we're searching across all windows are we showing results per window or just one list of all results?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3169:161458",
+        "node_offset": {
+          "x": 1069,
+          "y": 134
+        }
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "428470878",
+      "uuid": "defd2996-5570-43b1-a0ee-26899ea68c11",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-04-25T18:58:58.376Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg wanted to get your opinion on the scrolling behaviour here. I was imagining each column to have individual scroll, so users can be more flexible. \nDo you think it will be OK? Or would you suggest that the whole content of the page should move all together (like pinterest board)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3008:158725",
+        "node_offset": {
+          "x": 1237,
+          "y": 970
+        }
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "427997127",
+      "uuid": "cb750fb4-fb07-4c0a-901d-1f38bcb23359",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Clements",
+        "img_url": "https://www.gravatar.com/avatar/a5c64c086e83ba611b034ee859d843d4?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "845740316875106093"
+      },
+      "created_at": "2023-04-25T12:13:41.052Z",
+      "resolved_at": null,
+      "message": "@Katie Lower, @Amy Lee One caveat here is that even with a new user/profile I think you're always going to have at least one history entry, because a new window will open with new tab and the Mozilla privacy policy in a separate tab and that will be the first history entry. Do we ignore that one entry?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2742:90260",
+        "node_offset": {
+          "x": 1103,
+          "y": 2205
+        }
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "427990221",
+      "uuid": "1ead0dca-f449-4f68-b18d-91822e581739",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Sarah Clements",
+        "img_url": "https://www.gravatar.com/avatar/a5c64c086e83ba611b034ee859d843d4?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_s_v2.png",
+        "id": "845740316875106093"
+      },
+      "created_at": "2023-04-25T12:07:31.156Z",
+      "resolved_at": null,
+      "message": "@Amy Lee, @Mike Kaply, @Katie Lower do know how quick this is once 'import' is selected? I suspect its not instantaneous since it'd need to populate the appropriate tables and we'd need some sort of notification or event listenener to know when the API has data to query. I'm wondering if we'd need an interim empty state or loading state.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2885:93453",
+        "node_offset": {
+          "x": 2959,
+          "y": 472
+        }
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "427398648",
+      "uuid": "b0399e04-f727-45e9-afb1-2af23805e9a2",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-04-24T21:42:16.852Z",
+      "resolved_at": null,
+      "message": "@Sarah Clements Updated conditions for when to show \"import data\" empty state",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2742:90260",
+        "node_offset": {
+          "x": 871,
+          "y": 2157
+        }
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "427391852",
+      "uuid": "70ceef22-a60f-40b2-b5ef-b6cd209aa6b8",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-04-24T21:30:04.597Z",
+      "resolved_at": null,
+      "message": "@Sarah Clements - FYI added last synced time here",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2926:160405",
+        "node_offset": {
+          "x": 1083,
+          "y": 758
+        },
+        "stable_path": null
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "427330578",
+      "uuid": "2f748410-fcee-4932-ae3f-dd1da3bf8889",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-04-24T20:06:20.661Z",
+      "resolved_at": null,
+      "message": "@Amy Lee - This needs to be the \"import\" version of the empty state (so, pulling from that component).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2885:93453",
+        "node_offset": {
+          "x": 817,
+          "y": 636
+        }
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "427227505",
+      "uuid": "1ec1a85f-2640-4663-ae08-e0ab2b9c1f94",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2023-04-24T17:59:38.625Z",
+      "resolved_at": null,
+      "message": "@James Stephens II -  This is an empty state on the History page, for new users that have not imported browsing history. \n\nAs for defining \"new\", I am recommending it to mean a profile age of 7 or fewer days, which I arrived at based on anecdotal info from Ania about import behavior (that it likely usually happens within the first day or two. As that team gets set up with telemetry and a dashboard, we can review and adjust this timing if / as needed. \n\nPlease let myself and @Amy Lee know if any concerns with this.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2742:90260",
+        "node_offset": {
+          "x": 1029,
+          "y": 2164
+        }
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "422238305",
+      "uuid": "2960b36a-136d-4e61-8dd2-deb559f359af",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-04-18T15:09:45.889Z",
+      "resolved_at": null,
+      "message": "@Eric Pang after talking to Morgan and Kelly, we decided that we should be consistent between pages. Morgan suggested that items in the list should be navigable with arrow keys instead of tab (this is the general convention for lists).\nUpdating this spec accordingly.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2304:38043",
+        "node_offset": {
+          "x": 1486,
+          "y": 531
+        }
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "422218723",
+      "uuid": "23a71b48-09d3-4f5c-8ceb-3beccdc8566f",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-04-18T14:54:51.983Z",
+      "resolved_at": null,
+      "message": "@Eric Pang FYI updated this spec with the formatting we agreed on.\nSee more info here:\nhttps://www.figma.com/file/wP9MY9KJn9xqPf140lTvTv/Fx-View-Specs-2023?node-id=2710-58589&t=vPbZYbbl6pwmUp98-4",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2304:37007",
+        "node_offset": {
+          "x": -8536,
+          "y": -2808
+        },
+        "stable_path": null
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "419431707",
+      "uuid": "496804a7-d42e-4425-b255-c66b7697e930",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-04-14T11:03:15.525Z",
+      "resolved_at": null,
+      "message": "@Katie Lower I added this section in the spec. I think it would be the best place to mention the correct format.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2377:52400",
+        "node_offset": {
+          "x": 1329,
+          "y": 2086
+        }
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "414137502",
+      "uuid": "ed556b01-3b4a-4bc3-816e-acb894993a09",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-04-07T18:35:32.362Z",
+      "resolved_at": null,
+      "message": "an open q that I don't have strong feelings about: should we be using visited link colour for these ? since they're all technically \"history\" and therefore visited before? I'm leaning \"no\" right now because there isn't an explicit \"visited\" link colour in the HCM palette (we create one on the fly) but it's something we might wanna come back to :woman-shrugging: noting here for future discussion",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2377:51753",
+        "node_offset": {
+          "x": 505,
+          "y": 76
+        }
+      },
+      "order_id": "27"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "714967307",
+      "uuid": "5ac0677b-1dc6-4416-b312-3229ae1d7413",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-02-26T19:33:21.004Z",
+      "resolved_at": null,
+      "message": "@Kelly Cochrane Updated to include tooltip for mute/unmute - Added note about tabindex as well.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2835:74968",
+        "node_offset": {
+          "x": 742,
+          "y": 1161
+        },
+        "stable_path": [
+          "2835:74968"
+        ]
+      },
+      "order_id": "160"
+    },
+    {
+      "id": "702446313",
+      "uuid": "fd2ef472-867b-4eb9-9e02-4fa3e6e0d249",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-02-14T20:37:14.251Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg - Hi, can you take a look and let me know if there's anything that I may have missed or concerns with the recommendations in regards to keyboard actions? Thank you!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "10129:270594",
+        "node_offset": {
+          "x": 1092,
+          "y": 107
+        },
+        "stable_path": [
+          "10129:270594"
+        ]
+      },
+      "order_id": "157"
+    },
+    {
+      "id": "702195205",
+      "uuid": "a7f562f3-f4f5-4902-8b29-8615380d053d",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-02-14T16:50:43.887Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg I also updated the spec here to show tab title and not URL. Please let me know if there's anything else that I'm missing.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2835:74968",
+        "node_offset": {
+          "x": 1664,
+          "y": 312
+        },
+        "stable_path": [
+          "2835:74968"
+        ]
+      },
+      "order_id": "156"
+    },
+    {
+      "id": "702194495",
+      "uuid": "5ca1ced4-0739-4e36-a8e9-d83bdd6719b8",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2024-02-14T16:50:13.906Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg \u2013 Hi, can you confirm if these are the correct updates for tooltips? I was speaking to @Kelly Cochrane and it was a bit unclear where we wanted \"Switch to\" and where we didn't? I'm taking over for Eric so just trying to ramp up on my understanding. Thanks",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2835:74968",
+        "node_offset": {
+          "x": 758,
+          "y": 1065
+        },
+        "stable_path": [
+          "2835:74968"
+        ]
+      },
+      "order_id": "155"
+    },
+    {
+      "id": "693599184",
+      "uuid": "ff74eb16-be34-4cf4-9059-6c7829822efd",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-06T19:05:03.250Z",
+      "resolved_at": null,
+      "message": "Can you add a wrapper around this with role=tablist and name=\"pinned tabs\", and then set each of the pinned tabs to have role=tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "6700:748631",
+        "node_offset": {
+          "x": 547,
+          "y": 546
+        },
+        "stable_path": [
+          "6700:748631"
+        ]
+      },
+      "order_id": "154"
+    },
+    {
+      "id": "692228714",
+      "uuid": "58d22cc3-0060-4d06-a09b-570727f125cd",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:26:39.631Z",
+      "resolved_at": null,
+      "message": "How can this be done with keyboard only?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9394:297175",
+        "node_offset": {
+          "x": 654,
+          "y": 22
+        },
+        "stable_path": [
+          "9394:297175"
+        ]
+      },
+      "order_id": "152"
+    },
+    {
+      "id": "692228463",
+      "uuid": "f659f2a7-f1b0-45da-bbc7-372153756e71",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:26:17.794Z",
+      "resolved_at": null,
+      "message": "How can this be done with keyboard only?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9234:230500",
+        "node_offset": {
+          "x": 1211,
+          "y": 70
+        },
+        "stable_path": [
+          "9234:230500"
+        ]
+      },
+      "order_id": "151"
+    },
+    {
+      "id": "692228430",
+      "uuid": "6ea46c71-4e4a-4333-b312-66919782998e",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:26:15.312Z",
+      "resolved_at": null,
+      "message": "How can this be done with keyboard only?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9542:216351",
+        "node_offset": {
+          "x": 535,
+          "y": 64
+        },
+        "stable_path": [
+          "9542:216351"
+        ]
+      },
+      "order_id": "150"
+    },
+    {
+      "id": "692228403",
+      "uuid": "84419346-c60c-45af-a176-5aef36d43888",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:26:13.091Z",
+      "resolved_at": null,
+      "message": "How can this be done with keyboard only?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9234:230502",
+        "node_offset": {
+          "x": 1519,
+          "y": 96
+        },
+        "stable_path": [
+          "9234:230502"
+        ]
+      },
+      "order_id": "149"
+    },
+    {
+      "id": "692228372",
+      "uuid": "eb52e8d6-a765-4784-8a6c-aa31e3cb60fa",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:26:11.199Z",
+      "resolved_at": null,
+      "message": "How can this be done with keyboard only?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9453:326010",
+        "node_offset": {
+          "x": 1011,
+          "y": 52
+        },
+        "stable_path": [
+          "9453:326010"
+        ]
+      },
+      "order_id": "148"
+    },
+    {
+      "id": "692228077",
+      "uuid": "d099abcc-2510-46e5-9565-fab918d01363",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:25:45.932Z",
+      "resolved_at": null,
+      "message": "Does the cursor change to indicate it is possible to drag ?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9234:230546",
+        "node_offset": {
+          "x": 2580,
+          "y": 855
+        },
+        "stable_path": [
+          "9234:230546"
+        ]
+      },
+      "order_id": "147"
+    },
+    {
+      "id": "692227159",
+      "uuid": "f5962634-db3e-4e03-975e-c45e18a65cdd",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:24:34.237Z",
+      "resolved_at": null,
+      "message": "Can we have this blue line appear in the spot a window originates from when a window is first dragged? That way users understand where the window came from / where it would go back to when they're under the 50% threshold for the action",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9542:216352",
+        "node_offset": {
+          "x": 923,
+          "y": 4166
+        },
+        "stable_path": [
+          "9542:216352"
+        ]
+      },
+      "order_id": "145"
+    },
+    {
+      "id": "692226552",
+      "uuid": "2e0ee091-f225-43a7-b215-937f25aadc66",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:23:41.607Z",
+      "resolved_at": null,
+      "message": "What effect does reordering windows in fx view have on the windows in the user's desktop environment?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9542:216352",
+        "node_offset": {
+          "x": 2030,
+          "y": 1743
+        },
+        "stable_path": [
+          "9542:216352"
+        ]
+      },
+      "order_id": "144"
+    },
+    {
+      "id": "692225727",
+      "uuid": "78cf7219-9e3c-47b2-b28f-96059f766c1e",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:22:30.188Z",
+      "resolved_at": null,
+      "message": "How is this selection being performed? Shift+click? Command+click? Where is the click landing to trigger selection?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "9542:216352",
+        "node_offset": {
+          "x": 811,
+          "y": 564
+        },
+        "stable_path": [
+          "9542:216352"
+        ]
+      },
+      "order_id": "142"
+    },
+    {
+      "id": "692225043",
+      "uuid": "a5c0f22f-a972-4bfe-b41c-4f4b99089a17",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2024-02-05T22:21:27.986Z",
+      "resolved_at": null,
+      "message": "Similar to the proposal in dragging between two windows -- can we add a focus state to the current window a tab is in when the \"drag\" starts? This would help users maintain context",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-02-13T19:00:39.891Z",
+          "user": {
+            "id": "870758038064914784",
+            "handle": "Amy Lee",
+            "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "9453:326011",
+        "node_offset": {
+          "x": 1699,
+          "y": 759
+        },
+        "stable_path": [
+          "9453:326011"
+        ]
+      },
+      "order_id": "141"
+    },
+    {
+      "id": "617371005",
+      "uuid": "6126c13e-bf52-4e76-bc8c-c019fb55eab6",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-11-15T22:44:43.679Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg \u2013 Requesting an accessibility review on adding an additional \"close\" button in Firefox View \u2013 Open tabs. Please note that we will still have a close action in the \u2026 menu. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7786:179013",
+        "node_offset": {
+          "x": 1141,
+          "y": 182
+        },
+        "stable_path": [
+          "7786:179013"
+        ]
+      },
+      "order_id": "122"
+    },
+    {
+      "id": "497791374",
+      "uuid": "39eb3d84-7e72-4340-9651-1cfc484e711e",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-13T21:17:21.929Z",
+      "resolved_at": null,
+      "message": "@Amy Lee This badge would be a separate button, right? If so, we'll need to style it as buttons",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5003:309775",
+        "node_offset": {
+          "x": 1164,
+          "y": 515
+        }
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "494047751",
+      "uuid": "4d0fbcc4-e69a-4a8c-8054-8d808475ea88",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-07-11T04:27:06.141Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi I added another example here to consider. \nIn your example on the left, I modified the hover states to show what hovering the buttons individually would look like, since we can't hover them both at once",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5179:214370",
+        "node_offset": {
+          "x": 237,
+          "y": 73
+        }
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "493890001",
+      "uuid": "e2ae7d76-67f1-4398-9547-9372c4f249c7",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-10T22:15:07.819Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg What do you think? I'm not sure about hover state too since it looks the same for pressed and not pressed button. I'll keep thinking about it though",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5179:214370",
+        "node_offset": {
+          "x": 242,
+          "y": 175
+        }
+      },
+      "order_id": "107"
+    },
+    {
+      "id": "493491773",
+      "uuid": "07b6624c-273f-43b9-9ad1-c561cdafda8c",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-10T14:31:28.864Z",
+      "resolved_at": null,
+      "message": "@Amy Lee this icon button would need to get a border and differentiate from the card, but I am not sure how to do it in a better way. Maybe, we could style the card with Canvas/CanvasText colors and use only the title and URL text to be styled as button on HCM (with a border and Button/ButtonText colors) - then the Close and Menu buttons would be styled as buttons and the clickable area would be clearer",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5003:309775",
+        "node_offset": {
+          "x": 1278,
+          "y": 391
+        }
+      },
+      "order_id": "105"
+    },
+    {
+      "id": "493473906",
+      "uuid": "73f213c5-2942-4a1c-ac99-fde1a6063a1c",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-10T14:18:49.806Z",
+      "resolved_at": null,
+      "message": "@Amy Lee, the favicon appears to be migrating from the bottom left corner to the bottom right corner of the thumbnail section. If possible, to have them all in one side that would be better for consistency purpose that would improve a11y for users with cognitive and learning difficulties",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4958:231272",
+        "node_offset": {
+          "x": 776,
+          "y": 119
+        }
+      },
+      "order_id": "104"
+    },
+    {
+      "id": "493470075",
+      "uuid": "1f7ab5c8-d91d-45e8-9237-cb88aa879b2f",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-10T14:16:08.930Z",
+      "resolved_at": null,
+      "message": "Engineering note: focus would still be managed with arrow keys within each grid, but a specific implementation between controls within a card is TBD since overlapping active areas is not recommended... I'll get back with it",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4958:219939",
+        "node_offset": {
+          "x": 1221,
+          "y": 482
+        },
+        "stable_path": null
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "493464974",
+      "uuid": "ef03faeb-031e-474f-9001-5c6ed6872342",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-10T14:12:28.949Z",
+      "resolved_at": null,
+      "message": "This icon's text alternative would need to be included in the card text as well",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4958:219939",
+        "node_offset": {
+          "x": 853,
+          "y": 830
+        }
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "493462820",
+      "uuid": "95f6c71c-8357-4ee4-a37b-18831d9040d3",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-10T14:10:59.250Z",
+      "resolved_at": null,
+      "message": "These stars would need to be included in the favicon's alt text, i.e. prepend it with \"Bookmarked: \"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4958:219939",
+        "node_offset": {
+          "x": 1098,
+          "y": 445
+        },
+        "stable_path": null
+      },
+      "order_id": "101"
+    },
+    {
+      "id": "493308234",
+      "uuid": "ffcace67-f87e-44fe-9950-64f484477824",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-10T12:13:11.229Z",
+      "resolved_at": null,
+      "message": "@Amy Lee Color contrast for the unselected view button label is too low (1.3:1 while 3 or higher is needed) and would be difficult to discern for people with low vision, with color deficiency, or users with screens with glare",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4958:219939",
+        "node_offset": {
+          "x": 1226,
+          "y": 376
+        },
+        "stable_path": null
+      },
+      "order_id": "100"
+    },
+    {
+      "id": "493284042",
+      "uuid": "50112223-50ad-4fd3-b6e2-775a2e8f24dd",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-10T11:50:55.130Z",
+      "resolved_at": null,
+      "message": "@Amy Lee Thank you for mocking the HCM up! The icon buttons like \"...\" and the view ones would need to have their own borders since they have separate functionality from the card itself (like they are now differentiated from the tab information within the row).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5003:309775",
+        "node_offset": {
+          "x": 1295,
+          "y": 139
+        }
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "491168227",
+      "uuid": "bad72341-d26c-4343-a0d8-eedbe0a0998c",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-07-06T18:01:02.505Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg \u2013 This is the grid view version of the Firefox View. I wanted to run it by accessibility. I think it's pretty similar to the list view but just the layout of the cards are different and the addition of thumbnail images. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4958:220025",
+        "node_offset": {
+          "x": 111,
+          "y": 11
+        }
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "491166326",
+      "uuid": "78911360-dc26-43a0-94c3-85d613bdc7eb",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Amy Lee",
+        "img_url": "https://www.gravatar.com/avatar/078247a5c6c8e56d02b34bf9bcd1ce04?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "870758038064914784"
+      },
+      "created_at": "2023-07-06T17:59:02.230Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg \u2013 Hi, just wanted to run this spec by you for the grid view version of Firefox View for accessibility. I wanted to highlight the close icon on hover. Since we also have the close button in the \u2026 menu I feel that it's okay this appears on hover. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4844:195507",
+        "node_offset": {
+          "x": 1284,
+          "y": 117
+        }
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "439590328",
+      "uuid": "19b9cf2a-928b-4e02-b383-f0c036cfdb14",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Kelly Cochrane",
+        "img_url": "https://www.gravatar.com/avatar/f989c265f3463d5df9e699d0dca074b0?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1115636830870013805"
+      },
+      "created_at": "2023-05-09T16:54:23.702Z",
+      "resolved_at": null,
+      "message": "@Eric Pang @Morgan Rae Reschenberg Similar question here. In about:addons / about:preferences, we're only able to tab to the first item in the side navigation menu and then arrow up/down allows you to cycle through the options. Which would be preferred/expected here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2304:38043",
+        "node_offset": {
+          "x": 216,
+          "y": 462
+        }
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "428470878",
+      "uuid": "defd2996-5570-43b1-a0ee-26899ea68c11",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2023-04-25T18:58:58.376Z",
+      "resolved_at": null,
+      "message": "@Morgan Rae Reschenberg wanted to get your opinion on the scrolling behaviour here. I was imagining each column to have individual scroll, so users can be more flexible. \nDo you think it will be OK? Or would you suggest that the whole content of the page should move all together (like pinterest board)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3008:158725",
+        "node_offset": {
+          "x": 1237,
+          "y": 970
+        }
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "414137502",
+      "uuid": "ed556b01-3b4a-4bc3-816e-acb894993a09",
+      "file_key": "wP9MY9KJn9xqPf140lTvTv",
+      "parent_id": "",
+      "user": {
+        "handle": "Morgan Rae Reschenberg",
+        "img_url": "https://www.gravatar.com/avatar/ca7c4bb800037e8d453a5f369f33201c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "939685140842746524"
+      },
+      "created_at": "2023-04-07T18:35:32.362Z",
+      "resolved_at": null,
+      "message": "an open q that I don't have strong feelings about: should we be using visited link colour for these ? since they're all technically \"history\" and therefore visited before? I'm leaning \"no\" right now because there isn't an explicit \"visited\" link colour in the HCM palette (we create one on the fly) but it's something we might wanna come back to :woman-shrugging: noting here for future discussion",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2377:51753",
+        "node_offset": {
+          "x": 505,
+          "y": 76
+        }
+      },
+      "order_id": "27"
+    }
+  ]
+}

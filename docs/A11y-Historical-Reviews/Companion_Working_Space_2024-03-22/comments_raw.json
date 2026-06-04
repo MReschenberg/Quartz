@@ -1,0 +1,1773 @@
+{
+  "unresolved": [
+    {
+      "id": "784077243",
+      "uuid": "8fe8b358-a7a2-405d-9997-18ff3fd22933",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-04-26T00:50:20.250Z",
+      "resolved_at": null,
+      "message": "Idea: Add right-click menu when clicking in 'blank space' of sidebar. One item: \nCustomize Sidebar",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5619:216123",
+        "node_offset": {
+          "x": -15424,
+          "y": -1956
+        },
+        "stable_path": [
+          "5619:216123"
+        ]
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "784068161",
+      "uuid": "ce10c186-80aa-428c-b952-e3a279dd508e",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-04-26T00:27:05.233Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova - Can you provide some context around this exploration for a right-click menu for vertical tabs? The note suggests that there's a possibility we can't have the same right click menu for tabs, if they're positioned vertically. Was this an engineering consideration? Something you were thinking we should explore from a UX perspective?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5619:223337",
+        "node_offset": {
+          "x": 1994,
+          "y": 1026
+        },
+        "stable_path": [
+          "5619:223337"
+        ]
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "749421320",
+      "uuid": "8df0545d-a6e0-463f-ab84-2c767718eca1",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-03-27T00:25:47.463Z",
+      "resolved_at": null,
+      "message": "@Katie Lower and @Yulia Popova - while the consistency is important for a few reasons, there is some wiggle room here because we're introducing new component with new orientation and new set of functionality for tabs. \n\nUsers aren't likely to have muscle memory to, for instance, reopen the closed tab with the context menu. Plus, the options that will be included for pinned tabs too are nearly the same, they appear in the same order (i.e to reload the tab a keyboard user would need to press \"Down\" arrow twice in both cases) and cover the basic functionality. \n\nAnd for the pinned tabs specifically, I think removing the \"Close tab\" option would be beneficial for users with cognitive difficulties because, well, pinned tabs are always open (but could be unpinned instead to remove it from the toolbar).\n\nI think the offered variation (small number of unrelated menu items is skipped for pinned tabs) would be acceptable. We probably don't want to only allow to leave 2 options for pinned tabs while unpinned ones have 11, but this is not what's been considered anyway :)\n\nThank you for reaching out about it!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4927:77254",
+        "node_offset": {
+          "x": 360,
+          "y": 761
+        },
+        "stable_path": [
+          "4927:77254"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "742586472",
+      "uuid": "47f09968-6298-4e52-812e-57dee9448883",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-03-20T18:22:24.174Z",
+      "resolved_at": null,
+      "message": "@Emanuela Damiani Not ideal, but I think we can have something like this for the expanded state. I personally think that it would be okay if we had a different representation of pinned tabs in the expanded view for horizontal tab setup and for vertical tabs setup. Thinking about these scenarios helped me understand that pinned tabs and tools should not be mixed. Their design, interaction, and active states are different. But curious to hear your thoughts as well.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4876:122658",
+        "node_offset": {
+          "x": 169,
+          "y": 244
+        },
+        "stable_path": [
+          "4876:122658"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "742552997",
+      "uuid": "7287bfb5-78b4-46fe-a323-e697a08bc1d3",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-03-20T17:56:53.587Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova - Here is a 'quick and dirty' riff on what the the settings could look like based on Anna Y's feedback on Slack, to move the control (checkbox or button) to the first position instead of at the end of the line: https://mozilla.slack.com/archives/CNP7Q51KN/p1710945711362139?thread_ts=1710870114.140289&cid=CNP7Q51KN\n\nAlso, I wanted to see whether we even need the categorical headers (like \"Firefox Tools\", \"AI tools\", etc.). For the MVP release of this, I'm wondering if we actually don't. \n\nIn that way we can also have the header be descriptive - help the user know what action to take (Select items to pin to the sidebar)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4870:63476",
+        "node_offset": {
+          "x": 266,
+          "y": 142
+        },
+        "stable_path": [
+          "4870:63476"
+        ]
+      },
+      "order_id": "92"
+    },
+    {
+      "id": "742162586",
+      "uuid": "e06c8184-bfdd-422f-b6a5-1d09b7aa4128",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-03-20T14:11:26.642Z",
+      "resolved_at": null,
+      "message": "@Katie Lower what do you think about adding this info to each subcategory that can be pinned?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4850:284658",
+        "node_offset": {
+          "x": 298,
+          "y": 336
+        },
+        "stable_path": [
+          "4850:284658"
+        ]
+      },
+      "order_id": "91"
+    },
+    {
+      "id": "742161063",
+      "uuid": "f9d51dce-3849-41fc-8ff4-5c229bca1c15",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-03-20T14:10:39.423Z",
+      "resolved_at": null,
+      "message": "@Katie Lower wondering if it should be \"add to sidebar\" or \"pin to sidebar\"?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4681:189029",
+        "node_offset": {
+          "x": 295,
+          "y": 130
+        },
+        "stable_path": [
+          "4681:189029"
+        ]
+      },
+      "order_id": "90"
+    },
+    {
+      "id": "738481560",
+      "uuid": "5cb40739-0e67-4081-a2e8-c173ab38f70d",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-03-18T09:44:10.616Z",
+      "resolved_at": null,
+      "message": "@Katie Lower good point about notifications. I think it does make sense to include it here as well.\nRegarding extensions: I would assume we show sidebar-specific extensions that have been installed. Wondering if we should feature some other extensions?:thinking_face:\nRegarding the \"show more\" pattern - good point. I can look into it. My initial thought was that we would have a scroll bar.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4681:189656",
+        "node_offset": {
+          "x": 195,
+          "y": 140
+        },
+        "stable_path": [
+          "4681:189656"
+        ]
+      },
+      "order_id": "89"
+    },
+    {
+      "id": "737562314",
+      "uuid": "72e39615-6419-40c9-ae85-03fc373e000b",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-03-15T21:49:55.125Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova - Hi Yulia - Just a heads up that I made a little secion over here so I would work on strings and order for the Customize sidebar element.",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2024-03-18T09:39:53.948Z",
+          "user": {
+            "id": "1042453533635562984",
+            "handle": "Yulia Popova",
+            "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "4681:189027",
+        "node_offset": {
+          "x": 107,
+          "y": 103
+        },
+        "stable_path": [
+          "4681:189027"
+        ]
+      },
+      "order_id": "88"
+    },
+    {
+      "id": "720072386",
+      "uuid": "e3e6d40c-96e1-4801-8cd0-67e2288d0c4b",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-02-29T22:49:45.612Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova and @Eric Pang - Would love your review and crit of these various sidebar menu options. And also feedback on if you think the hypothesis holds... and whether we can validate it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3958:147864",
+        "node_offset": {
+          "x": 717,
+          "y": 252
+        },
+        "stable_path": [
+          "3958:147864"
+        ]
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "713196425",
+      "uuid": "a2672a81-9d47-4f2e-a6ad-5547b7031e4c",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2024-02-23T22:09:39.795Z",
+      "resolved_at": null,
+      "message": "this button is still necessarily to use it in case of 'hidden tabs'",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3265:333059",
+        "node_offset": {
+          "x": 94,
+          "y": 908
+        },
+        "stable_path": [
+          "3265:333059"
+        ],
+        "region_width": 123,
+        "region_height": 45,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "713194878",
+      "uuid": "a82da617-8542-43fe-a2c1-6608740523cc",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2024-02-23T22:06:45.303Z",
+      "resolved_at": null,
+      "message": "I'm confused on why we are not keeping the same pattern we use on the horizontal tab strip:\n* select tab has the close button visible\n* others have it visible on hover",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3410:76795",
+        "node_offset": {
+          "x": 395,
+          "y": 197
+        },
+        "stable_path": [
+          "3410:76795"
+        ],
+        "region_width": 430,
+        "region_height": 53,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "81"
+    },
+    {
+      "id": "713193201",
+      "uuid": "a70b34b1-0cba-431c-aaec-d4b102ff2ed7",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2024-02-23T22:03:25.385Z",
+      "resolved_at": null,
+      "message": "Assumption: With vertical tabs, we can implement common behavior such as using a scrollbar without the need for arrows as signifiers.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3265:336145",
+        "node_offset": {
+          "x": 82,
+          "y": 943
+        },
+        "stable_path": [
+          "3265:336145"
+        ],
+        "region_width": 174,
+        "region_height": 650,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "80"
+    },
+    {
+      "id": "712516954",
+      "uuid": "61e61d3a-b495-476d-9f0f-68269ac5a268",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-02-23T11:08:13.187Z",
+      "resolved_at": null,
+      "message": "@Eric Pang do you think it would be useful to highlight the tab that was selected first?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3449:109547",
+        "node_offset": {
+          "x": 41,
+          "y": 37
+        },
+        "stable_path": [
+          "3449:109547"
+        ]
+      },
+      "order_id": "79"
+    },
+    {
+      "id": "708328135",
+      "uuid": "2f4e95c5-d04c-4cd5-b65d-ffba7654ffc2",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-02-20T16:55:51.552Z",
+      "resolved_at": null,
+      "message": "@Katie Lower earmark for later: I think it might be helpful to revisit whether we might want to use shorter strings: Mute, Pin, Close.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3168:97227",
+        "node_offset": {
+          "x": 1504,
+          "y": 777
+        },
+        "stable_path": [
+          "3168:97227"
+        ]
+      },
+      "order_id": "78"
+    },
+    {
+      "id": "699454622",
+      "uuid": "854adb06-dc17-4a8a-bc82-e4d8758b9d07",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Stefan Smagula",
+        "img_url": "https://s3-alpha.figma.com/profile/fd1bfa77-78d7-4c3b-ae5e-d00e36515484",
+        "id": "1083048020877993982"
+      },
+      "created_at": "2024-02-12T19:20:08.923Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova This is interesting.  What about an accordion style treatment for tab groups? Tab groups are aligned left. One group is always open. Click a closed tab group, and the previously open group closes, making room to open the just clicked group.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1341:48785",
+        "node_offset": {
+          "x": 3694,
+          "y": 726
+        },
+        "stable_path": [
+          "1341:48785"
+        ]
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "684041535",
+      "uuid": "8b0300b6-5e04-4930-a8d8-cb57aa9ab8d9",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-01-29T15:45:31.196Z",
+      "resolved_at": null,
+      "message": "I think in this case it would be difficult to differentiate between home and new tab icons. (house vs plus icon)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2255:206045",
+        "node_offset": {
+          "x": 555,
+          "y": 92
+        },
+        "stable_path": [
+          "2255:206045"
+        ]
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "682615458",
+      "uuid": "93c3430d-17f4-4ac9-91e0-73a630f78f6c",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-01-26T21:00:41.402Z",
+      "resolved_at": null,
+      "message": "choosing interests populates other tiles",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2255:208400",
+        "node_offset": {
+          "x": 1182,
+          "y": 467
+        },
+        "stable_path": [
+          "2255:208400"
+        ]
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "679841093",
+      "uuid": "20c1663b-675b-4e89-b485-751a93a3dd32",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Amulya Aradhyula",
+        "img_url": "https://www.gravatar.com/avatar/88df3896bc5aa7a60215f2df4e902e8a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1066407343029489593"
+      },
+      "created_at": "2024-01-24T19:59:01.057Z",
+      "resolved_at": null,
+      "message": "Is there more to the organize tabs flow? Or are we just seeing what users would expect to happen if they clicked?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1807:218824",
+        "node_offset": {
+          "x": 589,
+          "y": 286
+        },
+        "stable_path": [
+          "1807:218824"
+        ]
+      },
+      "order_id": "70"
+    },
+    {
+      "id": "678520920",
+      "uuid": "718814cc-bf08-4dc7-be4d-a4ca07c7c367",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-01-24T01:03:43.239Z",
+      "resolved_at": null,
+      "message": "@Eric Pang @Ania Safko @Amulya Aradhyula - Would describing the value of the split view feature in the empty state be appropriate for this test? \n\nContext - I was going to ask Eric to update the strings here to be: \n\n[bolded] View two tabs, side by side\n[regular] Drag in an open tab or search for a new tab above\n\nBut, if we don't want to put words in users mouths, we can keep it as it is for now (just functional).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1742:186875",
+        "node_offset": {
+          "x": 447,
+          "y": 512
+        },
+        "stable_path": [
+          "1742:186875"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "678005956",
+      "uuid": "999c5f6e-fa57-47dc-bf33-734d70e4350c",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-01-23T16:06:28.394Z",
+      "resolved_at": null,
+      "message": "not sure this will be helpful since the user will also see these suggestions while they are typing in the search bar, it feels redundant",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1807:247050",
+        "node_offset": {
+          "x": 558,
+          "y": 150
+        },
+        "stable_path": [
+          "1807:247050"
+        ]
+      },
+      "order_id": "61"
+    },
+    {
+      "id": "677989098",
+      "uuid": "f103f93d-1b9d-46c5-94f2-9b19ed9e89eb",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Jared Hirsch",
+        "img_url": "https://s3-alpha.figma.com/profile/8230030e-6a9d-4a4e-8001-e3bd262f532c",
+        "id": "895459557954719821"
+      },
+      "created_at": "2024-01-23T15:55:11.839Z",
+      "resolved_at": null,
+      "message": "If we implement a split view by duplicating the urlbar, or the forward/back buttons, I fear the interactions are going to become extremely confusing. In this screen of the mockup, what would the back button do? does its behavior depend on which split has the focus?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1742:188492",
+        "node_offset": {
+          "x": 195,
+          "y": 65
+        },
+        "stable_path": [
+          "1742:188492"
+        ]
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "676825228",
+      "uuid": "50fff2cc-056a-4a0a-b06d-bf46ab28d268",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-01-22T21:15:54.304Z",
+      "resolved_at": null,
+      "message": "work with ania to pair down menu",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1595:127052",
+        "node_offset": {
+          "x": 12103,
+          "y": 3854
+        },
+        "stable_path": [
+          "1595:127052"
+        ]
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "675075842",
+      "uuid": "8b368bb3-0332-4aec-b90b-8bb4db9e577e",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Katie Lower",
+        "img_url": "https://www.gravatar.com/avatar/c1f718390e385a72453ed681712a54ce?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_k_v2.png",
+        "id": "1169379060174051036"
+      },
+      "created_at": "2024-01-19T21:35:50.223Z",
+      "resolved_at": null,
+      "message": "@Ania Safko and @Eric Pang - Is there any difference, conceptually, between a \"Tab folder\" and a \"Tab group\"? Or, is it the same concept by different names?\n\nWhen I look at the visuals in this section, tab folders seem to be the same thing as tab groups (or, rather, how tab groups have been implemented in other browsers). \n\nLet me know if I'm missing any nuance or context here -",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1064:62741",
+        "node_offset": {
+          "x": 8724,
+          "y": -1734
+        },
+        "stable_path": [
+          "1064:62741"
+        ]
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "673572114",
+      "uuid": "ecacf63d-a719-4ea8-9794-73f3ecb1c991",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-18T17:47:01.144Z",
+      "resolved_at": null,
+      "message": "The \"hide horizontal tabs + switch to vertical tabs\" button is missing",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1064:63122",
+        "node_offset": {
+          "x": 1780,
+          "y": 65
+        },
+        "stable_path": [
+          "1064:63122"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "673336705",
+      "uuid": "1840bade-a518-48b4-a07d-5d1c9cc30689",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Eric Pang",
+        "img_url": "https://www.gravatar.com/avatar/37b81f053b8fb5b1a09a06abaa0fda1b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_e_v2.png",
+        "id": "845670076645908195"
+      },
+      "created_at": "2024-01-18T15:01:19.460Z",
+      "resolved_at": null,
+      "message": "note:just wanted to call out that users will need time to get accustomed to a new spatial model. I'm not sure how we can address this in quick testing where there isn't time to get used to this new model.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "502:16704",
+        "node_offset": {
+          "x": -3638,
+          "y": 685
+        },
+        "stable_path": [
+          "502:16704"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "667837224",
+      "uuid": "4b087ae8-5d27-4d48-9570-3870f6bc9d47",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-12T19:52:55.635Z",
+      "resolved_at": null,
+      "message": "@Ekaterina Galetski had a really cool way to define this in a slightly alternative way: this is the time-aware space. It helps me to be productive - for instance: \n* anything that detects countdowns of any kind (from queue spot to price drop or time until event you bought the tickets for). \n* tabs/tasks aside for later, \n* deliveries (Fedex, USPS, UPS).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1066:91854",
+        "node_offset": {
+          "x": 491,
+          "y": 81
+        },
+        "stable_path": [
+          "1066:91854"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "664953826",
+      "uuid": "8e7b2a4b-1ca9-485c-814c-cfa6fde50c78",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-10T15:44:17.718Z",
+      "resolved_at": null,
+      "message": "The group name could be auto-suggested based on the pages keywords or themes extraction.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1064:69687",
+        "node_offset": {
+          "x": 120,
+          "y": 410
+        },
+        "stable_path": [
+          "1064:69687"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "662704566",
+      "uuid": "8026ff79-c837-4bd1-8253-0069acd44df6",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-09T00:04:04.917Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova I need to install SF Pro, it keeps disappearing from available fonts for me. I think a fitting generalized prompt could be \"Add this URL as a task\".",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "925:50419",
+        "node_offset": {
+          "x": 261,
+          "y": 873
+        },
+        "stable_path": [
+          "925:50419"
+        ]
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "662700320",
+      "uuid": "7086c160-58df-4560-af39-f64cfce6f39f",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-08T23:53:23.833Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova might be a crazy idea, but I'm wondering if the same idea:\n* hover states on destinations will be actionable (e.g., show you your recently closed tabs), \ncould be applied on action buttons? Could + by default create a new tab, but also give users an option to start \"a new\" on hover - to save all the currently open tabs into a neat little \"session\" stack that doesn't interfere with their new session and allows for a mental blank slate?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "856:49408",
+        "node_offset": {
+          "x": 30,
+          "y": 390
+        },
+        "stable_path": [
+          "856:49408"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "662698705",
+      "uuid": "4056e9ae-c31a-4e29-8724-a7791210aed9",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-08T23:49:25.897Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova I was not sure what this button would do and wondered if it could be a \"stacking\" tab group action button, where you can drag tabs to separate them from your whole list of open tabs.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "856:49408",
+        "node_offset": {
+          "x": 30,
+          "y": 165
+        },
+        "stable_path": [
+          "856:49408"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "662698080",
+      "uuid": "fdf76744-3f71-4776-9f8d-519c3b626705",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-08T23:47:51.192Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova noting that for the purposes of the prototype we decided to add (from top to bottom:\n* recently closed tabs/history (one icon),\n* bookmarks,\n* downloads,\n* optional - profile - the purpose of this one is to test what do users expect there.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "856:49408",
+        "node_offset": {
+          "x": 35,
+          "y": 1011
+        },
+        "stable_path": [
+          "856:49408"
+        ]
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "662684651",
+      "uuid": "20e26064-7580-461f-88f7-e10bf4903472",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-08T23:17:02.874Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova added another example of a potential realistic prompt that we can try out",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "856:49408",
+        "node_offset": {
+          "x": 347,
+          "y": 661
+        },
+        "stable_path": [
+          "856:49408"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "662278481",
+      "uuid": "c927e266-6361-477a-b362-7fbc8343a30e",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Mark Striemer",
+        "img_url": "https://www.gravatar.com/avatar/8407f1551cb10122bad1fc181e6177ac?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_m_v2.png",
+        "id": "902611020167152389"
+      },
+      "created_at": "2024-01-08T15:25:43.316Z",
+      "resolved_at": null,
+      "message": "There's no fxview button in the toolbar in these, but where would the fxview button go if the tab strip is hidden?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "532:30776",
+        "node_offset": {
+          "x": 254,
+          "y": 28
+        },
+        "stable_path": [
+          "532:30776"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "662126338",
+      "uuid": "13e5ee93-8aff-4d3e-af4c-04e1abb444ff",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-01-08T13:15:44.781Z",
+      "resolved_at": null,
+      "message": "Wondering if this could be a place where we help with information management.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "925:49070",
+        "node_offset": {
+          "x": 59,
+          "y": 896
+        },
+        "stable_path": [
+          "925:49070"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "662123841",
+      "uuid": "0942d5a5-84fd-47ee-93d8-5338aafcb15e",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-01-08T13:13:28.835Z",
+      "resolved_at": null,
+      "message": "I am wondering how this cat would be different from another? \nOr is this the same chat just in a different context and with different prompts.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "856:49408",
+        "node_offset": {
+          "x": 116,
+          "y": 973
+        },
+        "stable_path": [
+          "856:49408"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "661249017",
+      "uuid": "f4c59ade-889a-443b-8e68-abf5b0caff7c",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-05T23:16:39.630Z",
+      "resolved_at": null,
+      "message": "Implicit user intent, we're guessing they will find it useful",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "856:50879",
+        "node_offset": {
+          "x": 220,
+          "y": 194
+        },
+        "stable_path": [
+          "856:50879"
+        ]
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "661248942",
+      "uuid": "0d45eb68-6683-4eed-abba-a0d0e58ad4ea",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-05T23:16:23.329Z",
+      "resolved_at": null,
+      "message": "Implicit user intent: we're guessing they will find this useful",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "807:52136",
+        "node_offset": {
+          "x": 338,
+          "y": 145
+        },
+        "stable_path": [
+          "807:52136"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "661247893",
+      "uuid": "67e12e43-55dd-4ad2-ae7a-5be97571e6a9",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-05T23:12:52.698Z",
+      "resolved_at": null,
+      "message": "Agent (conversational) AI goes here in this approach",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "807:52136",
+        "node_offset": {
+          "x": 178,
+          "y": 965
+        },
+        "stable_path": [
+          "807:52136"
+        ]
+      },
+      "order_id": "30"
+    },
+    {
+      "id": "661098110",
+      "uuid": "41c77cf9-3f52-4511-8b6d-98db7c639d72",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2024-01-05T18:42:55.292Z",
+      "resolved_at": null,
+      "message": "lol",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "782:39441",
+        "node_offset": {
+          "x": 325,
+          "y": 571
+        },
+        "stable_path": [
+          "782:39441"
+        ],
+        "region_width": 209,
+        "region_height": 30,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "661097780",
+      "uuid": "5e60cf04-1d87-41b9-a9ee-79318c50268e",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Emanuela Damiani",
+        "img_url": "https://s3-alpha.figma.com/profile/b9de56b5-d32f-4fb0-b346-1907a23060a5",
+        "id": "368785027972814935"
+      },
+      "created_at": "2024-01-05T18:42:29.052Z",
+      "resolved_at": null,
+      "message": "@Ania Safko I think you mean horizontal tab",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "782:39441",
+        "node_offset": {
+          "x": 519,
+          "y": 48
+        },
+        "stable_path": [
+          "782:39441"
+        ],
+        "region_width": 510,
+        "region_height": 81,
+        "comment_pin_corner": "bottom-right"
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "660207674",
+      "uuid": "4db3f9a0-0756-44cd-9a8f-af0575e0fc96",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-04T20:18:36.468Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova I think there are (at least) two potential approaches to Home:\n* everything that's important and relevant to the current page (this begs a question on what's the role of the awesome bar then - just search and retrieval? Or are we now showing some page actions in the awesome bar, while others - in the sidebar?), \n* AI-powered edge-copilot like experience that tries to bring in all sorts of stuff an LLM can do to help users be more productive, return to the relevant tasks, etc. I think Edge does it terribly right now, tbh. So to provide value, we'll need to do way more than throwing random prompts on the page as Edge does. \n* some mixture of both approaches.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "707:77653",
+        "node_offset": {
+          "x": 158,
+          "y": 184
+        },
+        "stable_path": [
+          "707:77653"
+        ]
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "660203457",
+      "uuid": "bf4d57ae-3ae2-4f9a-9f8f-021ca9075a2b",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-04T20:12:54.879Z",
+      "resolved_at": null,
+      "message": "We'll also need to give users a segmentation survey at some point, to understand what group they belong to.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "579:16828",
+        "node_offset": {
+          "x": 136,
+          "y": 11
+        },
+        "stable_path": [
+          "579:16828"
+        ]
+      },
+      "order_id": "25"
+    },
+    {
+      "id": "660184780",
+      "uuid": "413fcdb7-acc2-498c-9179-9ef2f5a53795",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-04T19:48:59.104Z",
+      "resolved_at": null,
+      "message": "Spoke with Jon and it seems that we might want to start with a simpler, async version of this (e.g., create a figjam/miro and provide instructions on how to participate).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "579:16845",
+        "node_offset": {
+          "x": 257,
+          "y": 21
+        },
+        "stable_path": [
+          "579:16845"
+        ]
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "660181254",
+      "uuid": "4922a1e0-0d03-499c-94d7-00de40d80797",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-04T19:44:30.610Z",
+      "resolved_at": null,
+      "message": "Think about what existing threads should be notified about this post once it goes live.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "579:16828",
+        "node_offset": {
+          "x": 322,
+          "y": 11
+        },
+        "stable_path": [
+          "579:16828"
+        ]
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "660171890",
+      "uuid": "03dac539-e3ae-42ed-a8d9-dbd5e5d13a08",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-04T19:32:26.961Z",
+      "resolved_at": null,
+      "message": "Some of these tools (chatgpt, notes, any sidebar-ready extensions like todoist would occupy the column view. So column view would exist in some sense, but it's a valid question whether \"home\" is actually useful in this approach.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "706:76381",
+        "node_offset": {
+          "x": 201,
+          "y": 185
+        },
+        "stable_path": [
+          "706:76381"
+        ]
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "660169984",
+      "uuid": "0ba4e577-e5fc-45e1-b633-a42ac27da5f4",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-04T19:30:04.092Z",
+      "resolved_at": null,
+      "message": "Let's perhaps test two different alternatives? The known challenge with the current pinned tabs is they are not easily discoverable as functionality, but users find a lot of value in them (usage is low, but consistent). What do you think?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "696:73195",
+        "node_offset": {
+          "x": 210,
+          "y": 309
+        },
+        "stable_path": [
+          "696:73195"
+        ]
+      },
+      "order_id": "21"
+    },
+    {
+      "id": "660005140",
+      "uuid": "20ed4db4-4c61-4c45-9577-0cddaa74aa11",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-04T16:28:04.186Z",
+      "resolved_at": null,
+      "message": "Existing sidebar button: no longer necessary (since the open tabs button already serves the same purpose), we removed it from the prototype",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "719:80201",
+        "node_offset": {
+          "x": 232,
+          "y": 25
+        },
+        "stable_path": [
+          "719:80201"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "660004199",
+      "uuid": "0fe0844e-bb1f-47ed-8745-c3876f8cca07",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-04T16:27:12.785Z",
+      "resolved_at": null,
+      "message": "Toolbar action button: toggles horizontal tabs (and bookmarks toolbar ideally) on and off\nPurpose: let prototype testers get back to full functionality of the tab strip if necessary",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "0:1",
+        "node_offset": {
+          "x": 16797,
+          "y": 11185
+        },
+        "stable_path": [
+          "0:1"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "660000326",
+      "uuid": "9216a326-1975-4890-bd37-c76526fa61ea",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-04T16:23:38.886Z",
+      "resolved_at": null,
+      "message": "Open tabs button: toggles the column view of the sidebar on and off",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "719:80201",
+        "node_offset": {
+          "x": 35,
+          "y": 73
+        },
+        "stable_path": [
+          "719:80201"
+        ]
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "659794583",
+      "uuid": "fb5b88da-2cd9-4c5e-ab22-9d63532bfe75",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-01-04T13:14:56.817Z",
+      "resolved_at": null,
+      "message": "I think download is a more common icon to be surfaced as history and synced tabs.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "688:66822",
+        "node_offset": {
+          "x": 33,
+          "y": 988
+        },
+        "stable_path": [
+          "688:66822"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "659788930",
+      "uuid": "39d2a033-e991-4c25-8970-185f4c54a1eb",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-01-04T13:09:14.818Z",
+      "resolved_at": null,
+      "message": "Maybe we add search at the top and show more narrow selection by default? A long list of items feels overwhelming.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "692:69577",
+        "node_offset": {
+          "x": 127,
+          "y": 65
+        },
+        "stable_path": [
+          "692:69577"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "659773737",
+      "uuid": "0bc61ad2-e810-4a33-b191-c5fea0c44d0a",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-01-04T12:52:45.892Z",
+      "resolved_at": null,
+      "message": "I am wondering if there is a difference between how users add pinned tab and shortcuts to web apps or other widgets? And if we should have intentionally different ways to do it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "664:51151",
+        "node_offset": {
+          "x": 122,
+          "y": 61
+        },
+        "stable_path": [
+          "664:51151"
+        ]
+      },
+      "order_id": "15"
+    },
+    {
+      "id": "659763524",
+      "uuid": "145e611e-aa4d-441e-a98c-b067fbea2229",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-01-04T12:41:14.384Z",
+      "resolved_at": null,
+      "message": "I think we should be consistent in the way we use headers for all cards. Testing a version with headers inside of cards.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "688:67393",
+        "node_offset": {
+          "x": 137,
+          "y": 99
+        },
+        "stable_path": [
+          "688:67393"
+        ]
+      },
+      "order_id": "14"
+    },
+    {
+      "id": "659763327",
+      "uuid": "e20304a8-5a47-40e3-81e6-7b02a2cdb945",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Yulia Popova",
+        "img_url": "https://www.gravatar.com/avatar/d3daf6f29214adfaf84c56cb32ce9a1a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_y_v2.png",
+        "id": "1042453533635562984"
+      },
+      "created_at": "2024-01-04T12:41:00.552Z",
+      "resolved_at": null,
+      "message": "I think we should be consistent in the way we use headers for all cards. Testing a version with headers outside of cards.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "688:66822",
+        "node_offset": {
+          "x": 77,
+          "y": 95
+        },
+        "stable_path": [
+          "688:66822"
+        ]
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "659271056",
+      "uuid": "5e3d6534-5b2c-4019-83bc-ebe6d4155f41",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-03T23:49:16.858Z",
+      "resolved_at": null,
+      "message": "This separator is possible a little too \"modest\" and not noticeable separator for this approach, but I think we can have display both pinned and regular tabs vertically in this case, if we show the separation a little clearer.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "671:54797",
+        "node_offset": {
+          "x": 42,
+          "y": 144
+        },
+        "stable_path": [
+          "671:54797"
+        ]
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "659261703",
+      "uuid": "41b849d3-e17c-497a-b17c-a3626d3be8f1",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-03T23:21:38.795Z",
+      "resolved_at": null,
+      "message": "Think about how we can avoid presenting an extra hierarchy layer here or, if impossible, what should be the order of items here and how to divide them into logical sections, e.g. \"destinations\" (bookmarks, shopping, extensions) and application-level actions (customize settings, appearance, etc).",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "668:53430",
+        "node_offset": {
+          "x": 230,
+          "y": 739
+        },
+        "stable_path": [
+          "668:53430"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "659247389",
+      "uuid": "7c254a57-914c-41fd-9ffd-2d5797b69a0e",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-03T22:45:50.177Z",
+      "resolved_at": null,
+      "message": "Perhaps, in this approach, items in the URL bar are all actionable, e.g.,:\n* bookmarking, \n* copying the url, \n* sharing the url,\n* \"sideviewing\" the tab, \n* making a screenshot\nWhile the toolbar houses \"actionable\" add-ons - ones that perform actions on a page rather than provide information about it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "0:1",
+        "node_offset": {
+          "x": 20681,
+          "y": -2311
+        },
+        "stable_path": [
+          "0:1"
+        ]
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "659232940",
+      "uuid": "b56d97cf-b775-44ce-9b89-62e63a1eb4a1",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-03T22:15:19.274Z",
+      "resolved_at": null,
+      "message": "@Emanuela Damiani @Yulia Popova perhaps the best approach/default view is somewhere in the synthesis of approach 1 and 2: I feel like vertical tabs view would be greatly enhanced if calendar \"widget\" with the upcoming meetings was sitting \"on top\" of the vertical tabs.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "666:52008",
+        "node_offset": {
+          "x": 472,
+          "y": 394
+        },
+        "stable_path": [
+          "666:52008"
+        ]
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "659230855",
+      "uuid": "0fd876c7-03c7-4b42-90a8-9ee13d1a1b98",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-03T22:11:21.219Z",
+      "resolved_at": null,
+      "message": "Perhaps we use: \n* on-hover states - to expose most frequently used or important information, \n* on-click - open the full list of items in a column view (if such a list exists)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "664:45970",
+        "node_offset": {
+          "x": 218,
+          "y": 127
+        },
+        "stable_path": [
+          "664:45970"
+        ]
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "659206694",
+      "uuid": "501f83c6-cf3d-41ec-9f97-d3f1c72557a4",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-03T21:30:32.698Z",
+      "resolved_at": null,
+      "message": "I have used the term \"destinations\" for brevity to identify all the different things in this lower bottom area. @Emanuela Damiani @Yulia Popova not attached to either terms, just wanted a faster way to refer to these.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "664:46430",
+        "node_offset": {
+          "x": 35,
+          "y": 969
+        },
+        "stable_path": [
+          "664:46430"
+        ]
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "659206057",
+      "uuid": "aa1762ae-8364-48a5-ab80-e2e37e7d43cd",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-03T21:29:31.104Z",
+      "resolved_at": null,
+      "message": "I have used the term \"shortcuts\" for the pinned tabs for brevity for now. \n@Emanuela Damiani @Yulia Popova",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "664:46430",
+        "node_offset": {
+          "x": 16,
+          "y": 150
+        },
+        "stable_path": [
+          "664:46430"
+        ]
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "658288984",
+      "uuid": "1782c82b-400c-493f-926a-ceeb70cf03db",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-02T23:10:18.365Z",
+      "resolved_at": null,
+      "message": "@Yulia Popova @Eric Pang @Emanuela Damiani a part of me wonders if it makes sense to apply the idea of frecency to tab management in the sidebar? \nFor \"inactive\" (non-foregrounded tabs): Expose most frequent action - close the tab (e.g., on-hover) for all but the foreground tab and let the right click menu contain the less frequent ones (copy link, move, etc).\n\nFor \"active\" (foreground tab), expose more actions right away since users are more likely to engage with them (e.g., close, mute for tabs with audio stream, make a screenshot, share)?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "512:34185",
+        "node_offset": {
+          "x": 393,
+          "y": 201
+        },
+        "stable_path": [
+          "512:34185"
+        ]
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "658269077",
+      "uuid": "37be6ddf-93d4-4752-96c0-90bb3af62043",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-02T22:18:03.049Z",
+      "resolved_at": null,
+      "message": "@Eric Pang @Yulia Popova @Emanuela Damiani at a risk of trying to test too much simultaneously, I think we'll have to deal with the problem of vertical stacking (tab bar, awesome bar, bookmarks bar, various website specific bars) pretty early. What do you think about attempting to come up with a conceptual framework that will allow us to separate actions (e.g. save something for later, via Pocket or otherwise) that likely make sense in the toolbar from static entry points (e.g., hamburger menu) that might be better placed towards the bottom of the vertical bar?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "516:42687",
+        "node_offset": {
+          "x": 1904,
+          "y": 71
+        },
+        "stable_path": [
+          "516:42687"
+        ]
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "658223853",
+      "uuid": "ebb8c1ba-d3bc-427a-84dc-d7422e1d969e",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-02T20:47:21.677Z",
+      "resolved_at": null,
+      "message": "@Eric Pang @Yulia Popova @Emanuela Damiani I've been thinking about the dichotomy of recently closed tabs/history resulting in two icons leading users to essentially the same location. What do you think about changing the pattern a bit: keeping the history icon, but displaying recently closed tabs on hover in a scrollable dialog?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "516:42687",
+        "node_offset": {
+          "x": 44,
+          "y": 989
+        },
+        "stable_path": [
+          "516:42687"
+        ]
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "658219188",
+      "uuid": "49074767-008a-4183-8054-e2b3e69dee1d",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Ania Safko",
+        "img_url": "https://www.gravatar.com/avatar/58fd6a2bde43e1b553dcab4bfdf64166?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "1111766810269568032"
+      },
+      "created_at": "2024-01-02T20:38:23.346Z",
+      "resolved_at": null,
+      "message": "@Eric Pang @Yulia Popova @Emanuela Damiani Hi folks! Displaying the Window 1 label when only one window is in use (the vastest majority of cases) feels extraneous as it takes a good deal of vertical space. What do you think about displaying the label only if more than one window is open?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "516:42687",
+        "node_offset": {
+          "x": 265,
+          "y": 116
+        },
+        "stable_path": [
+          "516:42687"
+        ]
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "749421320",
+      "uuid": "8df0545d-a6e0-463f-ab84-2c767718eca1",
+      "file_key": "ZgMM9gXRL0C1bXrLBR9eeH",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-03-27T00:25:47.463Z",
+      "resolved_at": null,
+      "message": "@Katie Lower and @Yulia Popova - while the consistency is important for a few reasons, there is some wiggle room here because we're introducing new component with new orientation and new set of functionality for tabs. \n\nUsers aren't likely to have muscle memory to, for instance, reopen the closed tab with the context menu. Plus, the options that will be included for pinned tabs too are nearly the same, they appear in the same order (i.e to reload the tab a keyboard user would need to press \"Down\" arrow twice in both cases) and cover the basic functionality. \n\nAnd for the pinned tabs specifically, I think removing the \"Close tab\" option would be beneficial for users with cognitive difficulties because, well, pinned tabs are always open (but could be unpinned instead to remove it from the toolbar).\n\nI think the offered variation (small number of unrelated menu items is skipped for pinned tabs) would be acceptable. We probably don't want to only allow to leave 2 options for pinned tabs while unpinned ones have 11, but this is not what's been considered anyway :)\n\nThank you for reaching out about it!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4927:77254",
+        "node_offset": {
+          "x": 360,
+          "y": 761
+        },
+        "stable_path": [
+          "4927:77254"
+        ]
+      },
+      "order_id": "96"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "unresolved": [
+    {
+      "id": "1343119377",
+      "uuid": "364bcb2f-1d49-4283-9513-bb42908235db",
+      "file_key": "T2Oi5PrWO7b2kUkRWPsli5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2025-07-16T21:49:03.678Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi struggling to find a good combo here...Is this what HCM panels look like on Windows? If so the highlights would clash :(",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "327:15372",
+        "node_offset": {
+          "x": 191,
+          "y": 12
+        },
+        "stable_path": [
+          "327:15372"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1321819040",
+      "uuid": "d363f716-29de-4c4c-bb1c-12b11958b9ff",
+      "file_key": "T2Oi5PrWO7b2kUkRWPsli5",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T17:27:22.323Z",
+      "resolved_at": null,
+      "message": "clarification that we may want to add that this color combination for HCM is to be used for a static badges (aka \"Beta\" next to a Translation panel heading where clicking it won't do anything). And the Button colors (as shown below) should be used when the badge is a part of a control (aka included in a menuitem within a  context menu where clicking the badge would activate its parent menuitem)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:107",
+        "node_offset": {
+          "x": 53,
+          "y": 2
+        },
+        "stable_path": [
+          "224:107"
+        ]
+      },
+      "order_id": "10"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "1343119377",
+      "uuid": "364bcb2f-1d49-4283-9513-bb42908235db",
+      "file_key": "T2Oi5PrWO7b2kUkRWPsli5",
+      "parent_id": "",
+      "user": {
+        "handle": "Jules Simplicio",
+        "img_url": "https://s3-alpha.figma.com/profile/9dbc90ce-3f3d-4867-b116-1aadd8c73b85",
+        "id": "976542130978680800"
+      },
+      "created_at": "2025-07-16T21:49:03.678Z",
+      "resolved_at": null,
+      "message": "@Anna Yeddi struggling to find a good combo here...Is this what HCM panels look like on Windows? If so the highlights would clash :(",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "327:15372",
+        "node_offset": {
+          "x": 191,
+          "y": 12
+        },
+        "stable_path": [
+          "327:15372"
+        ]
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "1321819040",
+      "uuid": "d363f716-29de-4c4c-bb1c-12b11958b9ff",
+      "file_key": "T2Oi5PrWO7b2kUkRWPsli5",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2025-07-01T17:27:22.323Z",
+      "resolved_at": null,
+      "message": "clarification that we may want to add that this color combination for HCM is to be used for a static badges (aka \"Beta\" next to a Translation panel heading where clicking it won't do anything). And the Button colors (as shown below) should be used when the badge is a part of a control (aka included in a menuitem within a  context menu where clicking the badge would activate its parent menuitem)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "224:107",
+        "node_offset": {
+          "x": 53,
+          "y": 2
+        },
+        "stable_path": [
+          "224:107"
+        ]
+      },
+      "order_id": "10"
+    }
+  ]
+}

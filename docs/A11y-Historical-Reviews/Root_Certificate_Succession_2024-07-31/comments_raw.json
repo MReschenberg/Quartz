@@ -1,0 +1,962 @@
+{
+  "unresolved": [
+    {
+      "id": "1000283249",
+      "uuid": "80f97e16-f914-4ce6-ab40-b678245f63c6",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2024-10-24T23:42:33.679Z",
+      "resolved_at": null,
+      "message": "Just a thought, given that Mobile might have less resources - what if we combined HCW2 and HCW3 and just show \"Last Chance to update\" card only.\n\nIs it possible for it to also be persistent until they update?\n\nOr for it to show again a few days before?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "25:1615",
+        "node_offset": {
+          "x": 1605,
+          "y": 857
+        },
+        "stable_path": [
+          "25:1615"
+        ]
+      },
+      "order_id": "103"
+    },
+    {
+      "id": "999789011",
+      "uuid": "e3adf89d-55fc-482f-80f9-03367b15f609",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-10-24T15:49:14.216Z",
+      "resolved_at": null,
+      "message": "Link to https://play.google.com/store/apps/details?id=org.mozilla.firefox",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "25:1615",
+        "node_offset": {
+          "x": 270,
+          "y": 1088
+        },
+        "stable_path": [
+          "25:1615"
+        ]
+      },
+      "order_id": "99"
+    },
+    {
+      "id": "999788813",
+      "uuid": "06a28726-dd10-463c-8111-43c1f4bfeb1f",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-10-24T15:49:07.015Z",
+      "resolved_at": null,
+      "message": "Link to https://play.google.com/store/apps/details?id=org.mozilla.firefox",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "25:1615",
+        "node_offset": {
+          "x": 937,
+          "y": 1160
+        },
+        "stable_path": [
+          "25:1615"
+        ]
+      },
+      "order_id": "98"
+    },
+    {
+      "id": "999788603",
+      "uuid": "e03368e3-e00b-44a6-a0ff-5b70e253899c",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-10-24T15:48:59.906Z",
+      "resolved_at": null,
+      "message": "Link tohttps://play.google.com/store/apps/details?id=org.mozilla.firefox",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "25:1615",
+        "node_offset": {
+          "x": 1587,
+          "y": 1185
+        },
+        "stable_path": [
+          "25:1615"
+        ]
+      },
+      "order_id": "97"
+    },
+    {
+      "id": "999788299",
+      "uuid": "13d40b4c-241a-4a79-833c-f26f756f7a5b",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-10-24T15:48:49.407Z",
+      "resolved_at": null,
+      "message": "Link to https://play.google.com/store/apps/details?id=org.mozilla.firefox",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "25:1615",
+        "node_offset": {
+          "x": 2288,
+          "y": 1142
+        },
+        "stable_path": [
+          "25:1615"
+        ]
+      },
+      "order_id": "96"
+    },
+    {
+      "id": "990785132",
+      "uuid": "48502cdb-0be3-4a94-a91e-838c93d8be90",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-10-17T17:35:08.922Z",
+      "resolved_at": null,
+      "message": "Link to SUMO thread here: https://support.mozilla.org/en-US/questions/1468274",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 2504,
+          "y": 1153
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "93"
+    },
+    {
+      "id": "951103275",
+      "uuid": "9f054ce6-88b3-4b4a-ac26-b7bfc986985a",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Noel De La Torre",
+        "img_url": "https://s3-alpha.figma.com/profile/46e37a04-18c5-4258-9868-ca6eb641f2f8",
+        "id": "1259179507290857735"
+      },
+      "created_at": "2024-09-16T19:48:28.499Z",
+      "resolved_at": null,
+      "message": "@Emma Navajas FYI",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 271,
+          "y": 252
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "918787525",
+      "uuid": "60a07c86-a5ad-4faf-a77d-1a6d66ab821e",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2024-08-20T22:42:53.556Z",
+      "resolved_at": null,
+      "message": "perhaps drop the search add-ons as it doesnt add to the user value in this particular instance",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "348:2255",
+        "node_offset": {
+          "x": 760,
+          "y": 886
+        },
+        "stable_path": [
+          "348:2255"
+        ]
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "918736439",
+      "uuid": "90de03aa-39f0-4ebe-ab90-14ed2c58ba11",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Chris Peterson",
+        "img_url": "https://s3-alpha.figma.com/profile/cab0e5e9-3f94-44e4-b11a-9530e0279afd",
+        "id": "893717597898174582"
+      },
+      "created_at": "2024-08-20T21:27:45.113Z",
+      "resolved_at": null,
+      "message": "The update link should point to:\n\nhttps://www.mozilla.org/firefox/new/\n\nThat page will check the users' OS version and offer the installer for ESR 115 or the latest Firefox version, as appropriate.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 832,
+          "y": 631
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "918720620",
+      "uuid": "70e9015e-39f6-4d5c-9ec4-dbd57f3446f5",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2024-08-20T21:10:25.760Z",
+      "resolved_at": null,
+      "message": "ideally a different illustration -- it looks too similar",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "348:2255",
+        "node_offset": {
+          "x": 2137,
+          "y": 423
+        },
+        "stable_path": [
+          "348:2255"
+        ]
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "918719285",
+      "uuid": "b540c028-35e4-4273-ae66-5e2e11f792b1",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2024-08-20T21:08:57.615Z",
+      "resolved_at": null,
+      "message": "why except Fx115 - we can specifically avoid Fx115 ESR i believe",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "348:4901",
+        "node_offset": {
+          "x": 710,
+          "y": 30
+        },
+        "stable_path": [
+          "348:4901"
+        ]
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "918717928",
+      "uuid": "718427a0-f401-4737-86d9-b15174cdf137",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2024-08-20T21:07:27.753Z",
+      "resolved_at": null,
+      "message": "Similar comment - can we make it more urgent? It seems we are taking the positive approach but could be inject some urgency? \"Alert!!\"\n\nI like the idea of inserting something like \"Take 5 mins to update your firefox - your future self will thank you\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 2384,
+          "y": 481
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "918709324",
+      "uuid": "acf4ba44-2912-4856-8423-c96dfff3380a",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Venetia Tay",
+        "img_url": "https://www.gravatar.com/avatar/7536d6efc104c4901d82b42b5431191c?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_v_v2.png",
+        "id": "918551424399836335"
+      },
+      "created_at": "2024-08-20T20:58:17.966Z",
+      "resolved_at": null,
+      "message": "why wouldnt we add \"protect your data\" here as well?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 1180,
+          "y": 827
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "900302211",
+      "uuid": "d016ea49-b650-45b5-a37e-8d0ce6e1d545",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-08-05T17:29:17.487Z",
+      "resolved_at": null,
+      "message": "Eng a11y note: \n* ensure the message is `<moz-message-bar>` component or it has `role=alert`\n* ensure the container of the message has `aria-labelledby` referring to the static text \"Update (...) 2025\", so this static text is announced when navigating using `tab` key with a screen reader running (otherwise assistive tech users users won't be aware what this link and buttons mean and what's the deadline). \n* If you have questions or concerns, slack the a11y team in #accessibility any time ;)",
+      "reactions": [
+        {
+          "emoji": ":eyes:",
+          "created_at": "2024-09-16T22:24:48.874Z",
+          "user": {
+            "id": "1126616842081648247",
+            "handle": "Mimi Jung",
+            "img_url": "https://s3-alpha.figma.com/profile/13cc0b31-6fa5-4a6c-a115-74f936b2c446"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "7:1628",
+        "node_offset": {
+          "x": 1032,
+          "y": 282
+        },
+        "stable_path": [
+          "7:1628"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "900298703",
+      "uuid": "977df870-5497-4ca6-ac1a-94b8e8ce8664",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-08-05T17:26:09.087Z",
+      "resolved_at": null,
+      "message": "a11y eng note: \nThis image could be marked up as a decorative image (i.e. `alt=\"\"` for `<img>` would be needed), but if @Victoria Wang and @Jeff Pfaller could/would offer a textual alternative to this image, an alt text would need to be provided.\n\n@Victoria Wang and @Jeff Pfaller , this is up to you to decide: we could use some textual description of the image to provide emotional bump for blind screen reader users (or those with cognitive disabilities, dyslexia, or someone from the spectrum who uses screen reader to better understand the content of the page) too similarly to what we do for sighted users with this cute foxy, i.e. \"Dedicated foxy is on the mission\" or, I mean, something better (I'm in no way a content writer, as you can see, hehe)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 2121,
+          "y": 408
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "900277126",
+      "uuid": "888c4fce-a67b-43ce-8a6e-d34692be50ce",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-08-05T17:06:18.938Z",
+      "resolved_at": null,
+      "message": "a11y eng note: these icons seem to be decorative images (i.e. `alt=\"\"` for `<img>` would be needed)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 1083,
+          "y": 745
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "900269116",
+      "uuid": "ead6f3aa-b917-43c1-bf38-b9a3ad4d11d4",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-08-05T16:58:34.613Z",
+      "resolved_at": null,
+      "message": "eng a11y note: \n1. The heading text is H1 heading\n2. For bolden text, use `<strong>` HTML tag to ensure assistive technology as screen readers could also communicate the visual emphasis (if they user has this pref on)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 1014,
+          "y": 417
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "900264118",
+      "uuid": "35e127bb-be81-46f2-b58a-ef4eca6daf8d",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-08-05T16:54:05.376Z",
+      "resolved_at": null,
+      "message": "eng a11y note: ensure the \"X\" button is labeled as \"Close\"\n\nNote: While a button does not have any visible text always, NVDA will not read the label, which is a known issue with NVDA mouse tracking. The button still should have an accessible name provided (which can be checked in the Devtools Accessibility inspector or by `tab`bing to the button with NVDA). [Editing to add: QA would likely flag it because it is a suboptimal user experience, even thought it is a screen reader bug].\n\nWhat we could do to make the user experience more delightful is to add an invisible `<span>` in the button as Calixte offered in the bug 1886964#c1 and in the attached patch. This would also work as an accessible name source for the button.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:2026",
+        "node_offset": {
+          "x": 314,
+          "y": 61
+        },
+        "stable_path": [
+          "7:2026"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "900257559",
+      "uuid": "478af302-29e6-4bf0-ba2c-1fe252dcf2f7",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-08-05T16:48:18.163Z",
+      "resolved_at": null,
+      "message": "@Victoria Wang Would this snackbar would be shown with the entire page thus serving as the page content or would that be shown dynamically after some checks are completed thus serving as an alert?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 887,
+          "y": 296
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "898502152",
+      "uuid": "89ce40c8-073c-4874-badc-4aede0a2da5a",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-08-02T18:21:50.991Z",
+      "resolved_at": null,
+      "message": "he SUMO article links here: https://bugzilla.mozilla.org/show_bug.cgi?id=1906487#c2\n\nThe web link is:\n\nhttps://support.mozilla.org/kb/root-certificate-expiration\n\nBut we will want to add discuss adding UTM parameters for each message surface that will be appended to the article link like:\n\nhttps://support.mozilla.org/kb/root-certificate-expiration?utm_source=nameofsource",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 3488,
+          "y": 709
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "897349409",
+      "uuid": "d7112ddb-1f94-49ad-b1e5-94e29197af4a",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Chris Peterson",
+        "img_url": "https://s3-alpha.figma.com/profile/cab0e5e9-3f94-44e4-b11a-9530e0279afd",
+        "id": "893717597898174582"
+      },
+      "created_at": "2024-08-02T00:34:34.220Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller: @Lucas Siebert shared the SUMO article links here: https://bugzilla.mozilla.org/show_bug.cgi?id=1906487#c2\n\nThe web link is:\n\nhttps://support.mozilla.org/kb/root-certificate-expiration\n\nBut we will want to add discuss adding UTM parameters for each message surface that will be appended to the article link like:\n\nhttps://support.mozilla.org/kb/root-certificate-expiration?utm_source=nameofsource",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 951,
+          "y": 531
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "893535033",
+      "uuid": "13caf248-ca9b-492e-bd0f-ecde53c921c3",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-07-30T16:38:15.253Z",
+      "resolved_at": null,
+      "message": "Continue to noodle to make it not feel like a step.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "227:1531",
+        "node_offset": {
+          "x": 276,
+          "y": 653.3406982421875
+        },
+        "stable_path": [
+          "227:1531"
+        ]
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "893529209",
+      "uuid": "20245c5f-aabb-49ea-9804-a178dfa0e593",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-07-30T16:33:55.915Z",
+      "resolved_at": null,
+      "message": "Will windows and tabs re-open on start / update?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "155:22883",
+        "node_offset": {
+          "x": 2239,
+          "y": 97
+        },
+        "stable_path": [
+          "155:22883"
+        ]
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "893508311",
+      "uuid": "463317ff-9737-4fb6-8510-73a5df28f6d7",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-07-30T16:18:56.215Z",
+      "resolved_at": null,
+      "message": "Should we have a critical version of this moments page. OS comms do this well.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "155:22883",
+        "node_offset": {
+          "x": 2473,
+          "y": 117
+        },
+        "stable_path": [
+          "155:22883"
+        ]
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "892093384",
+      "uuid": "382245ed-8878-456b-8c6a-15b3ace8ecb4",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-07-29T20:53:08.354Z",
+      "resolved_at": null,
+      "message": "Do we know that there would be an add on for doing this? In aggregate.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 1886,
+          "y": 875
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "29"
+    },
+    {
+      "id": "881259340",
+      "uuid": "15f75194-8b04-4f17-8c71-5f860b1908d2",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-07-19T15:25:55.325Z",
+      "resolved_at": null,
+      "message": "Link to new SUMO article about root cert expiration @Venetia Tay to request",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 2121,
+          "y": 701
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "20"
+    },
+    {
+      "id": "881259156",
+      "uuid": "a2dd9530-1536-4a35-bf23-a5b9646f6e88",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-07-19T15:25:46.755Z",
+      "resolved_at": null,
+      "message": "Link to new SUMO article about root cert expiration @Venetia Tay to request",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1628",
+        "node_offset": {
+          "x": 702,
+          "y": 295
+        },
+        "stable_path": [
+          "7:1628"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "881257110",
+      "uuid": "f32971d1-bca4-4872-af9a-c1222119d710",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-07-19T15:24:15.082Z",
+      "resolved_at": null,
+      "message": "Link to https://addons.mozilla.org/",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 2007,
+          "y": 1177
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "881256630",
+      "uuid": "97e15aeb-2eec-4290-9b0e-d8c7c82348c8",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-07-19T15:23:54.675Z",
+      "resolved_at": null,
+      "message": "Link to https://support.mozilla.org/en-US/kb/back-and-restore-information-firefox-profiles",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 1665,
+          "y": 1184
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "878222785",
+      "uuid": "842dbeec-acd1-462c-bdc0-675fe2244bec",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-07-17T17:44:44.158Z",
+      "resolved_at": null,
+      "message": "How would we feel about directing people to a SUMO forum post so the community and support team can have a dialog? @Venetia Tay",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 2333,
+          "y": 1225
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "15"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "900302211",
+      "uuid": "d016ea49-b650-45b5-a37e-8d0ce6e1d545",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-08-05T17:29:17.487Z",
+      "resolved_at": null,
+      "message": "Eng a11y note: \n* ensure the message is `<moz-message-bar>` component or it has `role=alert`\n* ensure the container of the message has `aria-labelledby` referring to the static text \"Update (...) 2025\", so this static text is announced when navigating using `tab` key with a screen reader running (otherwise assistive tech users users won't be aware what this link and buttons mean and what's the deadline). \n* If you have questions or concerns, slack the a11y team in #accessibility any time ;)",
+      "reactions": [
+        {
+          "emoji": ":eyes:",
+          "created_at": "2024-09-16T22:24:48.874Z",
+          "user": {
+            "id": "1126616842081648247",
+            "handle": "Mimi Jung",
+            "img_url": "https://s3-alpha.figma.com/profile/13cc0b31-6fa5-4a6c-a115-74f936b2c446"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "7:1628",
+        "node_offset": {
+          "x": 1032,
+          "y": 282
+        },
+        "stable_path": [
+          "7:1628"
+        ]
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "900298703",
+      "uuid": "977df870-5497-4ca6-ac1a-94b8e8ce8664",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-08-05T17:26:09.087Z",
+      "resolved_at": null,
+      "message": "a11y eng note: \nThis image could be marked up as a decorative image (i.e. `alt=\"\"` for `<img>` would be needed), but if @Victoria Wang and @Jeff Pfaller could/would offer a textual alternative to this image, an alt text would need to be provided.\n\n@Victoria Wang and @Jeff Pfaller , this is up to you to decide: we could use some textual description of the image to provide emotional bump for blind screen reader users (or those with cognitive disabilities, dyslexia, or someone from the spectrum who uses screen reader to better understand the content of the page) too similarly to what we do for sighted users with this cute foxy, i.e. \"Dedicated foxy is on the mission\" or, I mean, something better (I'm in no way a content writer, as you can see, hehe)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 2121,
+          "y": 408
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "900277126",
+      "uuid": "888c4fce-a67b-43ce-8a6e-d34692be50ce",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-08-05T17:06:18.938Z",
+      "resolved_at": null,
+      "message": "a11y eng note: these icons seem to be decorative images (i.e. `alt=\"\"` for `<img>` would be needed)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 1083,
+          "y": 745
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "900269116",
+      "uuid": "ead6f3aa-b917-43c1-bf38-b9a3ad4d11d4",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-08-05T16:58:34.613Z",
+      "resolved_at": null,
+      "message": "eng a11y note: \n1. The heading text is H1 heading\n2. For bolden text, use `<strong>` HTML tag to ensure assistive technology as screen readers could also communicate the visual emphasis (if they user has this pref on)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 1014,
+          "y": 417
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "900264118",
+      "uuid": "35e127bb-be81-46f2-b58a-ef4eca6daf8d",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-08-05T16:54:05.376Z",
+      "resolved_at": null,
+      "message": "eng a11y note: ensure the \"X\" button is labeled as \"Close\"\n\nNote: While a button does not have any visible text always, NVDA will not read the label, which is a known issue with NVDA mouse tracking. The button still should have an accessible name provided (which can be checked in the Devtools Accessibility inspector or by `tab`bing to the button with NVDA). [Editing to add: QA would likely flag it because it is a suboptimal user experience, even thought it is a screen reader bug].\n\nWhat we could do to make the user experience more delightful is to add an invisible `<span>` in the button as Calixte offered in the bug 1886964#c1 and in the attached patch. This would also work as an accessible name source for the button.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:2026",
+        "node_offset": {
+          "x": 314,
+          "y": 61
+        },
+        "stable_path": [
+          "7:2026"
+        ]
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "900257559",
+      "uuid": "478af302-29e6-4bf0-ba2c-1fe252dcf2f7",
+      "file_key": "qxwVpxJJTpc8OsylbN7S95",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-08-05T16:48:18.163Z",
+      "resolved_at": null,
+      "message": "@Victoria Wang Would this snackbar would be shown with the entire page thus serving as the page content or would that be shown dynamically after some checks are completed thus serving as an alert?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:1627",
+        "node_offset": {
+          "x": 887,
+          "y": 296
+        },
+        "stable_path": [
+          "7:1627"
+        ]
+      },
+      "order_id": "38"
+    }
+  ]
+}

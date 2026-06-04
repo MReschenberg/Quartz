@@ -1,0 +1,360 @@
+{
+  "unresolved": [
+    {
+      "id": "1003756433",
+      "uuid": "cf9a9bff-5ab9-42be-a0d0-c2cc3585b72a",
+      "file_key": "o7FiykrKIyDBgsjEQUYDOr",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-10-28T20:32:54.311Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter halp please. This is a message bar the second time a user has engaged with a contextual search action. If they click \"Add\" it would add it to their prefs in search engines and as an option in the Unified Search Button. If they clicked \"No\", it would not add it anywhere. The user can always add the engine later by clicking on the USB while on the site, and selecting the row for the site they are on, which will have a plus icon https://www.figma.com/design/4co0kOw3eJMQK3HRpTuD1b/Unified-search-button?node-id=2896-35374&t=0Iq3ArVMVpGK0YRM-1",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2535:11384",
+        "node_offset": {
+          "x": 285,
+          "y": 104
+        },
+        "stable_path": [
+          "2535:11384"
+        ]
+      },
+      "order_id": "19"
+    },
+    {
+      "id": "684171586",
+      "uuid": "08975da8-f16e-4cb2-8c29-e5ac9a4a8e56",
+      "file_key": "o7FiykrKIyDBgsjEQUYDOr",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-01-29T17:19:36.591Z",
+      "resolved_at": null,
+      "message": "Color contrast issues with the way the button (that is not hovered) could be mistaken to be included in the suggestion row (hovered) were discussed on the \"Design anatomy\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1596:87738",
+        "node_offset": {
+          "x": 1025,
+          "y": 97
+        },
+        "stable_path": [
+          "1596:87738"
+        ]
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "270685791",
+      "uuid": null,
+      "file_key": "o7FiykrKIyDBgsjEQUYDOr",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2022-09-21T15:56:13.264Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter Curious your thoughts on this exploration. Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "566:10542",
+        "node_offset": {
+          "x": 296,
+          "y": 5099
+        }
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "270626641",
+      "uuid": null,
+      "file_key": "o7FiykrKIyDBgsjEQUYDOr",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2022-09-21T14:54:36.170Z",
+      "resolved_at": null,
+      "message": "@Brent Trotter here's an example of my comment in your brief: Could we/should we show keyboard shortcuts where applicable? I sort of like the idea of also using the awesomebar as a way to quickly see/get educated on shortcuts for Fx.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "566:10542",
+        "node_offset": {
+          "x": 512,
+          "y": 3835
+        }
+      },
+      "order_id": "11"
+    },
+    {
+      "id": "234488928",
+      "uuid": null,
+      "file_key": "o7FiykrKIyDBgsjEQUYDOr",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2022-07-25T21:27:45.057Z",
+      "resolved_at": null,
+      "message": "@Dale Harvey Take a look at this for a quick actions icon and let me know if you think that could work. Note I havent shared this with the broader UX team yet so this may change down the road.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:2288",
+        "node_offset": {
+          "x": 705,
+          "y": 1189
+        }
+      },
+      "order_id": "10"
+    },
+    {
+      "id": "233345586",
+      "uuid": null,
+      "file_key": "o7FiykrKIyDBgsjEQUYDOr",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2022-07-22T15:38:46.716Z",
+      "resolved_at": null,
+      "message": "@Dale Harvey apologies, I forgot to share these states which you were asking about - disabled, etc. Let me know if you have any questions, but I figured it wouldn't be any big surprises in the UI.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7:2288",
+        "node_offset": {
+          "x": 452,
+          "y": 1923
+        }
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "231838343",
+      "uuid": null,
+      "file_key": "o7FiykrKIyDBgsjEQUYDOr",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2022-07-20T18:14:12.187Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey @Dale Harvey \n\nCurrently, it appears that if you have pinned items on New Tab, the Quick Actions that exist in the address bar on selection are underneath the first  pinned item.\n\n1) I wanted to confirm this wasn't something I was seeing\n\n2) We're thinking we should shift the  the Quick Actions (with the label) to the top upon selecting the address bar to prevent confusion. For example, someone could think they're clearing gmail history or that the related items are for the pinned item.\n\nRyan, feel free to correct me if I explained that poorly :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "248:5987",
+        "node_offset": {
+          "x": 1991,
+          "y": 408
+        }
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "226590292",
+      "uuid": null,
+      "file_key": "o7FiykrKIyDBgsjEQUYDOr",
+      "parent_id": "",
+      "user": {
+        "handle": "Ryan Casey",
+        "img_url": "https://s3-alpha.figma.com/profile/f002b9c4-a77e-4ce0-807f-e261df3d8fc7",
+        "id": "929456823076472832"
+      },
+      "created_at": "2022-07-12T12:42:49.642Z",
+      "resolved_at": null,
+      "message": "Going to update based on @Dale Harvey's latest in Nightly, as it makes more sense to have the checkbox for actions live under the address bar controls. cc @Brent Trotter",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "189:5039",
+        "node_offset": {
+          "x": 1459,
+          "y": 3761
+        }
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "224564634",
+      "uuid": null,
+      "file_key": "o7FiykrKIyDBgsjEQUYDOr",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2022-07-07T21:40:38.732Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey\n\nI think keeping this simple is good.\n\n\"Enable quick actions\" is my gut. WIP, of course.\n\nBut I'm wondering how much flexibility should users have to manage Quick Actions at launch? In the future?\n\nThat feels like a good determinant of how much content this line should include.\n\nLove the \"New\" bug and \"Learn more\" fits with our existing patterns in Settings",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "189:5039",
+        "node_offset": {
+          "x": 787,
+          "y": 4102
+        }
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "224563820",
+      "uuid": null,
+      "file_key": "o7FiykrKIyDBgsjEQUYDOr",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2022-07-07T21:38:39.866Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey I wonder if this would be more compelling if it looked a little more like a button. I\u2019m not clear what would happen if I select this version. Looks similar to a search query.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "189:5039",
+        "node_offset": {
+          "x": 643,
+          "y": 2427
+        }
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "224563574",
+      "uuid": null,
+      "file_key": "o7FiykrKIyDBgsjEQUYDOr",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2022-07-07T21:38:01.752Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey \nI like having this as a variant to see how it performs, but it feels like it could get a little lost if trying to quickly access it.\n\nStill marinating on adding the \"Firefox\" vs just calling it \"Quick actions\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "189:5039",
+        "node_offset": {
+          "x": 1966,
+          "y": 1119
+        }
+      },
+      "order_id": "4"
+    },
+    {
+      "id": "224562437",
+      "uuid": null,
+      "file_key": "o7FiykrKIyDBgsjEQUYDOr",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2022-07-07T21:35:13.070Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey \n\nStylistically, I'm pro-icon here, but it might not add much context since the user has to type the word to trigger the action.\n\nBut I guess it depends on what all the actions we want to include here are as well. It might be helpful.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "189:5039",
+        "node_offset": {
+          "x": 446,
+          "y": 1006
+        }
+      },
+      "order_id": "3"
+    },
+    {
+      "id": "224561949",
+      "uuid": null,
+      "file_key": "o7FiykrKIyDBgsjEQUYDOr",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2022-07-07T21:34:02.802Z",
+      "resolved_at": null,
+      "message": "@Ryan Casey \n\nInstead of the [?] could we take the user directly to settings with the gear icon? Is it confusing to have two instances of the gear icon in one spot?\n\nI'm wondering if we'll need to do some education about this function (maybe with the new call out message surface) upon launch.\n\nAnd that could serve as our intro to the SUMO article. Then the gear could directly get users to the place where they could manage the setting.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "189:5039",
+        "node_offset": {
+          "x": 1056,
+          "y": 939
+        }
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "218302212",
+      "uuid": null,
+      "file_key": "o7FiykrKIyDBgsjEQUYDOr",
+      "parent_id": "",
+      "user": {
+        "handle": "Nan Jiang",
+        "img_url": "https://www.gravatar.com/avatar/c54645c0c456e4ad786dcaa7c38f48dd?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_n_v2.png",
+        "id": "1060602698542860270"
+      },
+      "created_at": "2022-06-27T18:18:57.276Z",
+      "resolved_at": null,
+      "message": "Just a quick note that putting action items inside the urlbar could confuse some users as they are not clear about if those are browser provided features or the ones offered by the site. Also, if the user is on a wide display, the search query and the actions would be located at two ends of the urlbar, which might not easy for them to notice. Learned this from CFR :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "39:4115",
+        "node_offset": {
+          "x": 2868,
+          "y": 2357
+        }
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "684171586",
+      "uuid": "08975da8-f16e-4cb2-8c29-e5ac9a4a8e56",
+      "file_key": "o7FiykrKIyDBgsjEQUYDOr",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2024-01-29T17:19:36.591Z",
+      "resolved_at": null,
+      "message": "Color contrast issues with the way the button (that is not hovered) could be mistaken to be included in the suggestion row (hovered) were discussed on the \"Design anatomy\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1596:87738",
+        "node_offset": {
+          "x": 1025,
+          "y": 97
+        },
+        "stable_path": [
+          "1596:87738"
+        ]
+      },
+      "order_id": "16"
+    }
+  ]
+}

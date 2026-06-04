@@ -1,0 +1,3691 @@
+{
+  "unresolved": [
+    {
+      "id": "1544074981",
+      "uuid": "236a0257-1b2e-48d1-b518-85703b2f0fae",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-12-04T20:18:45.767Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7396:12172",
+        "node_offset": {
+          "x": 654,
+          "y": 994
+        },
+        "stable_path": [
+          "7396:12172"
+        ]
+      },
+      "order_id": "177"
+    },
+    {
+      "id": "1544074592",
+      "uuid": "de597f74-ad98-4972-8297-9b37e293c354",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2025-12-04T20:18:26.766Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5821:6504",
+        "node_offset": {
+          "x": 388,
+          "y": 604
+        },
+        "stable_path": [
+          "5821:6504"
+        ]
+      },
+      "order_id": "176"
+    },
+    {
+      "id": "760709600",
+      "uuid": "5d163155-d0f4-48e2-85d1-4b039a9ea441",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-04-05T16:10:51.383Z",
+      "resolved_at": null,
+      "message": "Updated to \"Alternative Search Engines\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8619:19760",
+        "node_offset": {
+          "x": 495,
+          "y": 482
+        },
+        "stable_path": [
+          "8619:19760"
+        ]
+      },
+      "order_id": "175"
+    },
+    {
+      "id": "760708157",
+      "uuid": "b230e935-79c3-4551-bd61-a359d64ee6ce",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2024-04-05T16:09:35.551Z",
+      "resolved_at": null,
+      "message": "@Josh Berman are these exposed by default now? \n\nLast I reviewed they were behind the little carrot on their own page\n\nsee mock here: https://www.figma.com/file/Tr5V91qdlhds6MhH1CCjp5/Cross-platform-suggest?type=design&node-id=1348%3A26704&mode=design&t=vnfIxNgd9iRFeWGo-1",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8619:19280",
+        "node_offset": {
+          "x": 231,
+          "y": 236
+        },
+        "stable_path": [
+          "8619:19280"
+        ]
+      },
+      "order_id": "174"
+    },
+    {
+      "id": "760699711",
+      "uuid": "bd6c8851-d885-4711-8208-4f69bce1dbc2",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-04-05T16:01:48.261Z",
+      "resolved_at": null,
+      "message": "Suggestions from the web was out of date copy. Should have been as it is now.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "8619:19760",
+        "node_offset": {
+          "x": 498,
+          "y": 2898
+        },
+        "stable_path": [
+          "8619:19760"
+        ]
+      },
+      "order_id": "173"
+    },
+    {
+      "id": "693798813",
+      "uuid": "4b70f74e-aa85-4923-ae4b-df8b83bf861c",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-02-06T22:21:52.528Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber am is this correct feedback? Is it supposed to be flush?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7396:17178",
+        "node_offset": {
+          "x": 816,
+          "y": 756
+        },
+        "stable_path": [
+          "7396:17178"
+        ]
+      },
+      "order_id": "172"
+    },
+    {
+      "id": "693794252",
+      "uuid": "f563a91d-12fa-4e33-8e46-8d45175ca62a",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Dasha Andriyenko",
+        "img_url": "https://www.gravatar.com/avatar/6818b4b0a8760ee75acff0b45a69554b?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_d_v2.png",
+        "id": "1174480039733711256"
+      },
+      "created_at": "2024-02-06T22:16:08.958Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7396:17185",
+        "node_offset": {
+          "x": 1553,
+          "y": 4449
+        },
+        "stable_path": [
+          "7396:17185"
+        ]
+      },
+      "order_id": "171"
+    },
+    {
+      "id": "693507048",
+      "uuid": "d79d9c69-24e9-45ff-a809-11d0f987cff0",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-02-06T17:47:06.312Z",
+      "resolved_at": null,
+      "message": "Current functionality is that suggestions from Firefox or from sponsors never show in PBM. FYI @Tina Vaamonde @Juhee Jain @Jeff Pfaller",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7125:13633",
+        "node_offset": {
+          "x": 242,
+          "y": 781
+        },
+        "stable_path": [
+          "7125:13633"
+        ]
+      },
+      "order_id": "170"
+    },
+    {
+      "id": "693505642",
+      "uuid": "84356843-f50d-4cfb-b0b9-fa4c41e56de7",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2024-02-06T17:45:58.468Z",
+      "resolved_at": null,
+      "message": "Would it make sense to be more specific in this content so users understand they are turning off all suggestions in this section for PBM? @Tina Vaamonde",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7291:15826",
+        "node_offset": {
+          "x": 242,
+          "y": 884
+        },
+        "stable_path": [
+          "7291:15826"
+        ]
+      },
+      "order_id": "169"
+    },
+    {
+      "id": "693340690",
+      "uuid": "5e9e18cb-daec-43bc-9f54-62c9e6079b26",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-02-06T15:53:08.260Z",
+      "resolved_at": null,
+      "message": "These subcopy elements make the bottom heavy here - I wonder if you made the toggles \"Suggestions From the Web\" if you could get rid of both subcopy elements. If Firefox Suggest is in the header, it's clear what its related to, and I don't think the subscopy on Suggestions from Sponsors is additive. @Tina Vaamonde @Josh Berman @Juhee Jain",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7291:15826",
+        "node_offset": {
+          "x": 274,
+          "y": 725
+        },
+        "stable_path": [
+          "7291:15826"
+        ]
+      },
+      "order_id": "168"
+    },
+    {
+      "id": "693333770",
+      "uuid": "f92895b6-c8dd-4a98-9ce3-0f0b470dfc31",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-02-06T15:49:01.244Z",
+      "resolved_at": null,
+      "message": "What's the rationale behind including Address Bar here? It feels like it's extra cognitive load but it doesn't help me understand the feature. If it's not here (like in Android) I would get that all this is related to how I search @Tina Vaamonde @Josh Berman @Juhee Jain",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7125:13372",
+        "node_offset": {
+          "x": 83,
+          "y": 678
+        },
+        "stable_path": [
+          "7125:13372"
+        ]
+      },
+      "order_id": "166"
+    },
+    {
+      "id": "691854050",
+      "uuid": "34147d79-7bf7-43ae-9470-0590175ff15e",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-02-05T16:24:33.681Z",
+      "resolved_at": null,
+      "message": "@Josh Berman Another hierarchy question: I think this proposal for the Address bar preferences section makes a ton of sense. Are the Address bar preferences here in order of importance to the user? It looks like the previous version showed them in this order so wondering if we know which is more intuitive:\n\nAutocomplete URLs\nShow clipboard suggestions\nShow voice search",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7125:14360",
+        "node_offset": {
+          "x": 351,
+          "y": 926
+        },
+        "stable_path": [
+          "7125:14360"
+        ]
+      },
+      "order_id": "165"
+    },
+    {
+      "id": "691002448",
+      "uuid": "7ab6834c-b2b3-4535-b5d2-5da7c9bc6d16",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Tina Vaamonde",
+        "img_url": "https://www.gravatar.com/avatar/59cb761e256e98e84f2306cdbd2f2d4a?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_t_v2.png",
+        "id": "1298754465457927621"
+      },
+      "created_at": "2024-02-05T05:20:19.334Z",
+      "resolved_at": null,
+      "message": "@Josh Berman Playing around with the hierarchy here. Does it make sense to flip the order of \"Show in private sessions\" and \"Learn more about  Firefox Suggest?\" I think we've been including the \"Learn more ...\" link at the bottom of other menus and that seems like the right hierarchy. It's the only item in the list that isn't a setting.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7125:14360",
+        "node_offset": {
+          "x": 274,
+          "y": 797
+        },
+        "stable_path": [
+          "7125:14360"
+        ]
+      },
+      "order_id": "164"
+    },
+    {
+      "id": "679842139",
+      "uuid": "928e605d-60f8-4c89-983a-907c95ef79db",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Aarjav Pandya",
+        "img_url": "https://s3-alpha.figma.com/profile/e207ad50-4a3c-465d-98b4-5669e4e1a8b9",
+        "id": "1130907002513196392"
+      },
+      "created_at": "2024-01-24T19:59:58.610Z",
+      "resolved_at": null,
+      "message": "@Juhee Jain @Nicole Weber Is the idea to have a home button for Ipad, but not for mobile screens?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4188:10470",
+        "node_offset": {
+          "x": 717,
+          "y": 87.5
+        },
+        "stable_path": [
+          "4188:10470"
+        ]
+      },
+      "order_id": "163"
+    },
+    {
+      "id": "665094332",
+      "uuid": "ee3b2240-68a2-4869-a9c5-8b799a276b10",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2024-01-10T17:33:11.143Z",
+      "resolved_at": null,
+      "message": "@Daniela Arcese is this okay?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3333:22585",
+        "node_offset": {
+          "x": -6283,
+          "y": 3511
+        },
+        "stable_path": [
+          "3333:22585"
+        ]
+      },
+      "order_id": "162"
+    },
+    {
+      "id": "656741487",
+      "uuid": "3170905f-da76-4746-9530-5bbbe777a10e",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Daniela Arcese",
+        "img_url": "https://s3-alpha.figma.com/profile/a210a68c-7b93-4e79-af7d-ca23cca8bdc0",
+        "id": "892486685252040800"
+      },
+      "created_at": "2023-12-28T21:28:15.878Z",
+      "resolved_at": null,
+      "message": "@Juhee Jain is there any reason we are not adding the private mode shortcut on iOS as well?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3333:28046",
+        "node_offset": {
+          "x": 616,
+          "y": 194
+        },
+        "stable_path": [
+          "3333:28046"
+        ]
+      },
+      "order_id": "161"
+    },
+    {
+      "id": "654097412",
+      "uuid": "77a27148-0d74-496e-9e13-6ee6df3a11da",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-12-22T17:48:26.244Z",
+      "resolved_at": null,
+      "message": "Can we use bullets or something else to help these with scannability? @Misha Bruk",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4310:8202",
+        "node_offset": {
+          "x": 360,
+          "y": 1721
+        },
+        "stable_path": [
+          "4310:8202"
+        ]
+      },
+      "order_id": "160"
+    },
+    {
+      "id": "654096611",
+      "uuid": "48e60cbf-e7f2-4459-9afc-9b99a69518d4",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-12-22T17:46:55.449Z",
+      "resolved_at": null,
+      "message": "What's the rationale for hiding this behind a button? @Misha Bruk",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4310:8202",
+        "node_offset": {
+          "x": 562,
+          "y": 1777
+        },
+        "stable_path": [
+          "4310:8202"
+        ]
+      },
+      "order_id": "159"
+    },
+    {
+      "id": "652301221",
+      "uuid": "614eac12-4cad-43c7-8b6f-51c324d05b21",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2023-12-21T02:17:15.589Z",
+      "resolved_at": null,
+      "message": "@Josh Berman @Jeff Pfaller @Brent Trotter @Jules Simplicio @Molly Howell hey yall - update on the private search settings based on acorn's rec to move to a secondary pages pattern ala translations. maybe we can chat as a group in the new year to make sure we're all aligned on this still :) thanks!",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-12-21T17:18:45.403Z",
+          "user": {
+            "id": "1113937443180999805",
+            "handle": "Josh Berman",
+            "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "4310:8202",
+        "node_offset": {
+          "x": 747,
+          "y": 983
+        },
+        "stable_path": [
+          "4310:8202"
+        ]
+      },
+      "order_id": "158"
+    },
+    {
+      "id": "650694987",
+      "uuid": "26adee01-3239-4924-88ff-4176de3056c9",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2023-12-19T18:06:13.982Z",
+      "resolved_at": null,
+      "message": "@Cyndi Chin",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3333:26392",
+        "node_offset": {
+          "x": 6027,
+          "y": 413
+        },
+        "stable_path": [
+          "3333:26392"
+        ]
+      },
+      "order_id": "156"
+    },
+    {
+      "id": "650689582",
+      "uuid": "c58ea0b4-df47-4870-b636-49caae7476f9",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2023-12-19T18:00:21.935Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller thoughts for this on Android? I can even put a sub-description under the main bullet",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:13257",
+        "node_offset": {
+          "x": 21182,
+          "y": 9281
+        },
+        "stable_path": [
+          "1:13257"
+        ]
+      },
+      "order_id": "155"
+    },
+    {
+      "id": "646874023",
+      "uuid": "369b853f-d62a-4bba-9df2-b006b51efe8f",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-12-14T22:05:38.255Z",
+      "resolved_at": null,
+      "message": "Pick Alice Rhee's brain around ideas",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5821:8472",
+        "node_offset": {
+          "x": 3132,
+          "y": 3922
+        },
+        "stable_path": [
+          "5821:8472"
+        ]
+      },
+      "order_id": "154"
+    },
+    {
+      "id": "646872569",
+      "uuid": "5cd0f5ff-f7aa-4982-a78e-95a16d8f5bf8",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-12-14T22:03:26.038Z",
+      "resolved_at": null,
+      "message": "Connect this to more user focused benefits (health info is hidden, what sites your on, etc.)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5821:8472",
+        "node_offset": {
+          "x": 2534,
+          "y": 4236
+        },
+        "stable_path": [
+          "5821:8472"
+        ]
+      },
+      "order_id": "153"
+    },
+    {
+      "id": "646871566",
+      "uuid": "d1d3b721-dcc1-4c8f-9901-f61dbfd2362d",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-12-14T22:02:00.330Z",
+      "resolved_at": null,
+      "message": "Ideate against people who want to hide what they're doing from other people on their device.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5821:8472",
+        "node_offset": {
+          "x": 2494,
+          "y": 4108
+        },
+        "stable_path": [
+          "5821:8472"
+        ]
+      },
+      "order_id": "152"
+    },
+    {
+      "id": "646869782",
+      "uuid": "d482bacd-56a8-4135-8c71-3d9bbc9bfacb",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-12-14T21:59:15.800Z",
+      "resolved_at": null,
+      "message": "Prefer, big, chunky, scannable to the options with more text",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5821:6501",
+        "node_offset": {
+          "x": 928,
+          "y": 744
+        },
+        "stable_path": [
+          "5821:6501"
+        ]
+      },
+      "order_id": "151"
+    },
+    {
+      "id": "646869156",
+      "uuid": "de1f89a9-e3ee-4fd9-b972-2e277e49dfd3",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-12-14T21:58:22.357Z",
+      "resolved_at": null,
+      "message": "Use icons / fox doodles to communicate ideas / make things more graphic",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5821:6500",
+        "node_offset": {
+          "x": 1129,
+          "y": 524
+        },
+        "stable_path": [
+          "5821:6500"
+        ]
+      },
+      "order_id": "150"
+    },
+    {
+      "id": "646868504",
+      "uuid": "9eaf5e0a-9360-4c7e-b200-f9897146cb84",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-12-14T21:57:30.863Z",
+      "resolved_at": null,
+      "message": "Rotating items that are different so that we are highlighting different features.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5821:6504",
+        "node_offset": {
+          "x": 953,
+          "y": 602
+        },
+        "stable_path": [
+          "5821:6504"
+        ]
+      },
+      "order_id": "149"
+    },
+    {
+      "id": "646867887",
+      "uuid": "a5e2e018-02be-4b4e-87c2-ce5bdd3c22a6",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-12-14T21:56:39.006Z",
+      "resolved_at": null,
+      "message": "Highlighting the non-profit aspect of it in contrast to brave - we're the leader. Connect that story to the 'trackers blocked' story",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5821:8472",
+        "node_offset": {
+          "x": 2680,
+          "y": 2438
+        },
+        "stable_path": [
+          "5821:8472"
+        ]
+      },
+      "order_id": "148"
+    },
+    {
+      "id": "643750719",
+      "uuid": "f8785772-538f-4bca-82ba-afb5ec17b630",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-12-12T16:54:19.565Z",
+      "resolved_at": null,
+      "message": "Could we do a variant of this that lets people toggle settings on and off? @Misha Bruk @Nicole Weber @Juhee Jain",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5821:6582",
+        "node_offset": {
+          "x": 344,
+          "y": 36
+        },
+        "stable_path": [
+          "5821:6582"
+        ]
+      },
+      "order_id": "147"
+    },
+    {
+      "id": "642551202",
+      "uuid": "1cd62260-7ed5-4a06-8f1f-56be09977c6e",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-12-11T20:47:33.444Z",
+      "resolved_at": null,
+      "message": "What are some potential features we could call out in PBM? Cookie Banner Blocking, Private search, Stritcter ETP, what else? @Nicole Weber @Misha Bruk @Juhee Jain",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5821:6509",
+        "node_offset": {
+          "x": 22,
+          "y": 61
+        },
+        "stable_path": [
+          "5821:6509"
+        ]
+      },
+      "order_id": "146"
+    },
+    {
+      "id": "629617520",
+      "uuid": "2952f5b3-25c6-4253-92f6-cde3b0a66a47",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2023-11-28T19:22:44.855Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller @Dasha Andriyenko this is the latest and greatest",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3280:7512",
+        "node_offset": {
+          "x": 268,
+          "y": 78
+        },
+        "stable_path": [
+          "3280:7512"
+        ]
+      },
+      "order_id": "145"
+    },
+    {
+      "id": "624200129",
+      "uuid": "d4c0835b-a733-4f01-bddd-ba5a4b421ce1",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "John Hall",
+        "img_url": "https://www.gravatar.com/avatar/c3ea2555c85b9ca7c2e99411f189c901?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1116417447678874919"
+      },
+      "created_at": "2023-11-22T15:31:04.473Z",
+      "resolved_at": null,
+      "message": "These should be Turned Off by Default",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4486:3399",
+        "node_offset": {
+          "x": 480.25,
+          "y": 2066
+        },
+        "stable_path": [
+          "4486:3399"
+        ]
+      },
+      "order_id": "144"
+    },
+    {
+      "id": "624180778",
+      "uuid": "603d4a84-ea71-406c-b1ef-6647b44dc4cc",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "John Hall",
+        "img_url": "https://www.gravatar.com/avatar/c3ea2555c85b9ca7c2e99411f189c901?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1116417447678874919"
+      },
+      "created_at": "2023-11-22T15:18:40.999Z",
+      "resolved_at": null,
+      "message": "Private Window Search suggestions are off by default because we have to send your query to Google to get the suggestions",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4317:2891",
+        "node_offset": {
+          "x": 602,
+          "y": 379
+        },
+        "stable_path": [
+          "4317:2891"
+        ]
+      },
+      "order_id": "143"
+    },
+    {
+      "id": "624178845",
+      "uuid": "22b196ae-17bc-4622-800a-b24faee9cb9f",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "John Hall",
+        "img_url": "https://www.gravatar.com/avatar/c3ea2555c85b9ca7c2e99411f189c901?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1116417447678874919"
+      },
+      "created_at": "2023-11-22T15:17:27.353Z",
+      "resolved_at": null,
+      "message": "search engine suggestion should also be off by default as this is the current default because in order to get suggestions we have to send your searches to Google.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4486:3399",
+        "node_offset": {
+          "x": 718.25,
+          "y": 1627
+        },
+        "stable_path": [
+          "4486:3399"
+        ]
+      },
+      "order_id": "142"
+    },
+    {
+      "id": "610174136",
+      "uuid": "db54b755-0433-4cf4-8fb2-0f417297e232",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-11-08T21:21:46.597Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk the gray background vs dark gray radio button (unchecked) provides insufficient color contrast - it's only 2.2:1 while at least 3:1 is needed to help users with low vision or with color deficiency to better discern the active UI",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4317:2891",
+        "node_offset": {
+          "x": 721,
+          "y": 1720
+        },
+        "stable_path": [
+          "4317:2891"
+        ]
+      },
+      "order_id": "141"
+    },
+    {
+      "id": "610168808",
+      "uuid": "5d410e1e-dc32-44c5-a217-bae881cf0e9a",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-11-08T21:16:17.875Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk While it is not required for HCM, but since we are striving to provide delightful experience, if the logo can be re-colored a bit, we could use the HCM/system colors for this - we have a few examples for an inspiration. Again, the idea behind it to ensure the user would still get a discernable image when they have their HCM on.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4909:53486",
+        "node_offset": {
+          "x": 767,
+          "y": 255
+        },
+        "stable_path": [
+          "4909:53486"
+        ]
+      },
+      "order_id": "140"
+    },
+    {
+      "id": "610164549",
+      "uuid": "9b0a9b50-a142-4005-99c5-31d1ba68d343",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-11-08T21:11:41.177Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk Do we need to review/comment on the chrome elements here or they won't be changed in this project? :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4909:53486",
+        "node_offset": {
+          "x": 842,
+          "y": 64
+        },
+        "stable_path": [
+          "4909:53486"
+        ]
+      },
+      "order_id": "139"
+    },
+    {
+      "id": "610162517",
+      "uuid": "fe26fa6c-da76-4f62-90e1-eca8a1e9712b",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-11-08T21:09:25.033Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk The text color here would be `CanvasText` (`Text` that would appear also white with this specific HCM theme, but using the system color reference would then be rendering the color that the user set on their own machine ;)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4909:53486",
+        "node_offset": {
+          "x": 813,
+          "y": 516
+        },
+        "stable_path": [
+          "4909:53486"
+        ]
+      },
+      "order_id": "138"
+    },
+    {
+      "id": "610161335",
+      "uuid": "381d4b47-550e-418b-a741-d7987012fb3c",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-11-08T21:08:03.006Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk The background color here would be `ButtonFace` (Button Background, it would appear gray-ish for HCM Win 11 Dark Sky) and the text color for the placeholder and then for the input text would be `ButtonText` (would appear yellow in this theme).\n\nJust in case, this Figma page provides focus/hover/active styles for the text inputs in HCM. CC @Molly Howell",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4909:53486",
+        "node_offset": {
+          "x": 818,
+          "y": 372
+        },
+        "stable_path": [
+          "4909:53486"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "595439306",
+      "uuid": "3584051e-8da3-4e93-84da-e44fc6be62fe",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrei Bodea",
+        "img_url": "https://www.gravatar.com/avatar/56448c7cd91bf74f1d1cf7fcf5296951?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "967407740315827266"
+      },
+      "created_at": "2023-10-25T12:24:00.069Z",
+      "resolved_at": null,
+      "message": "Hello, will iOS have the same option as Android to undo the deleted tabs from Private Browsing?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1863:72630",
+        "node_offset": {
+          "x": 336,
+          "y": 348.9951171875
+        },
+        "stable_path": [
+          "1863:72630"
+        ]
+      },
+      "order_id": "136"
+    },
+    {
+      "id": "594716693",
+      "uuid": "e3ca6a9b-e4b2-47fa-a903-442cd0da57df",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Harrison Oglesby",
+        "img_url": "https://www.gravatar.com/avatar/769cefffbe6f8a9b35cda8faa9622878?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_h_v2.png",
+        "id": "1164310951003700889"
+      },
+      "created_at": "2023-10-24T23:17:02.790Z",
+      "resolved_at": null,
+      "message": "Are future in-app support links going to have the same query strings at the end? @John Hall",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3534:25531",
+        "node_offset": {
+          "x": 189,
+          "y": 48
+        },
+        "stable_path": [
+          "3534:25531"
+        ]
+      },
+      "order_id": "135"
+    },
+    {
+      "id": "590116012",
+      "uuid": "87ac9c93-3f17-472a-8eff-b3fa9e9ec98e",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-10-19T16:15:10.729Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong did I use the new 48 icon correctly? the mask is a little smaller than in the previous one, right? Thanks",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4188:9092",
+        "node_offset": {
+          "x": 317,
+          "y": 26
+        },
+        "stable_path": [
+          "4188:9092"
+        ]
+      },
+      "order_id": "134"
+    },
+    {
+      "id": "589900745",
+      "uuid": "10c18595-1daf-41d4-8343-bba17ad98684",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Oana Horvath",
+        "img_url": "https://www.gravatar.com/avatar/2c2eb7d173916aa092fb307fae0691c3?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_o_v2.png",
+        "id": "962342517871272332"
+      },
+      "created_at": "2023-10-19T13:51:46.602Z",
+      "resolved_at": null,
+      "message": "For a consistent look with the normal mode, I think it would be nice to keep the collapse handle, the same \"add tab\" floating button, and maybe a floating trash icon as well.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4478:4859",
+        "node_offset": {
+          "x": 196,
+          "y": 79
+        },
+        "stable_path": [
+          "4478:4859"
+        ]
+      },
+      "order_id": "133"
+    },
+    {
+      "id": "589887098",
+      "uuid": "b98ebbba-7f3a-4fc9-86e9-65e2b09a8558",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Oana Horvath",
+        "img_url": "https://www.gravatar.com/avatar/2c2eb7d173916aa092fb307fae0691c3?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_o_v2.png",
+        "id": "962342517871272332"
+      },
+      "created_at": "2023-10-19T13:43:32.339Z",
+      "resolved_at": null,
+      "message": "What would the \"done\" button do? Just dismiss the tabs tray?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4478:4859",
+        "node_offset": {
+          "x": 324,
+          "y": 85
+        },
+        "stable_path": [
+          "4478:4859"
+        ]
+      },
+      "order_id": "132"
+    },
+    {
+      "id": "589886415",
+      "uuid": "79b7e98c-8f25-4c3d-9fdb-abe174b890d4",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Oana Horvath",
+        "img_url": "https://www.gravatar.com/avatar/2c2eb7d173916aa092fb307fae0691c3?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_o_v2.png",
+        "id": "962342517871272332"
+      },
+      "created_at": "2023-10-19T13:43:06.593Z",
+      "resolved_at": null,
+      "message": "The close tab button (the \"x\" in the corner) is missing from the picture, was it intentional?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4478:4859",
+        "node_offset": {
+          "x": 123,
+          "y": 226
+        },
+        "stable_path": [
+          "4478:4859"
+        ]
+      },
+      "order_id": "131"
+    },
+    {
+      "id": "581902028",
+      "uuid": "8aa0b5b9-7804-455f-aeca-f2d2e12c4dd8",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-10-11T19:43:14.475Z",
+      "resolved_at": null,
+      "message": "If we are still structuring the settings this way, could this header be \"Suggestions from Firefox Suggest\" to be consistent with above? @Brent Trotter",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4317:2891",
+        "node_offset": {
+          "x": 461,
+          "y": 449
+        },
+        "stable_path": [
+          "4317:2891"
+        ]
+      },
+      "order_id": "128"
+    },
+    {
+      "id": "581900729",
+      "uuid": "e5fad81d-8060-48b7-ace6-0ea89997ab0f",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-10-11T19:41:49.758Z",
+      "resolved_at": null,
+      "message": "@Josh Berman @Misha Bruk @Brent Trotter @Andrew Crago Since we are touching this whole page, can we make all the headings sentence case to be in line with content guidelines? I realize it will be inconsistent with the rest of settings, but at least it will be locally consistent",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1289:8517",
+        "node_offset": {
+          "x": 591,
+          "y": 2877
+        },
+        "stable_path": [
+          "1289:8517"
+        ]
+      },
+      "order_id": "127"
+    },
+    {
+      "id": "580531376",
+      "uuid": "127bb633-0763-42ed-b7b0-77654d01b0a9",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2023-10-10T20:34:50.800Z",
+      "resolved_at": null,
+      "message": "Added a frame showing how the user can expand/collapse custom. In about:preferences if a user clicks on an interactive element in the custom area, \"Custom\" is selected.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4486:3399",
+        "node_offset": {
+          "x": 839.25,
+          "y": 1873
+        },
+        "stable_path": [
+          "4486:3399"
+        ]
+      },
+      "order_id": "125"
+    },
+    {
+      "id": "580251087",
+      "uuid": "df390401-37b2-4fc2-b6e6-1cfb2dcce2c5",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2023-10-10T15:58:31.620Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk @Jeff Pfaller \n\nDo we feel this warrants a new \"section\" or should the formatting read like a subsection of \"Search\" like the others (e.g. \"Alternative Search Engines,\" Address bar - Firefox Suggest,\" etc.?\n\ncc: @Josh Berman",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4310:8202",
+        "node_offset": {
+          "x": 533,
+          "y": 1619
+        },
+        "stable_path": [
+          "4310:8202"
+        ]
+      },
+      "order_id": "124"
+    },
+    {
+      "id": "576794614",
+      "uuid": "f351fe4b-191a-404e-81d3-c1b037570d2a",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Gabriel Luong",
+        "img_url": "https://www.gravatar.com/avatar/61971c71e0b16793b6c2b7378091711f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_g_v2.png",
+        "id": "890605728240782952"
+      },
+      "created_at": "2023-10-06T05:26:32.376Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber I see we are using Dark/Border/iOS/Accent Private as the fill color of the circle for the private mode icon. Is there an Android design color token that we should be using instead?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4188:9468",
+        "node_offset": {
+          "x": 307,
+          "y": 606
+        },
+        "stable_path": [
+          "4188:9468"
+        ]
+      },
+      "order_id": "120"
+    },
+    {
+      "id": "576598212",
+      "uuid": "d08d25a4-9e40-42e9-86fd-7abd6974819d",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Brent Trotter",
+        "img_url": "https://s3-alpha.figma.com/profile/9ee8b303-c376-4aab-a934-06a8868ccb86",
+        "id": "1042905853028956067"
+      },
+      "created_at": "2023-10-05T21:39:24.179Z",
+      "resolved_at": null,
+      "message": "Alt: Use selected default search engine",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4310:8202",
+        "node_offset": {
+          "x": 763,
+          "y": 1695
+        },
+        "stable_path": [
+          "4310:8202"
+        ]
+      },
+      "order_id": "118"
+    },
+    {
+      "id": "576420639",
+      "uuid": "27f8c735-02f7-47f2-a441-64941a177029",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Josh Berman",
+        "img_url": "https://s3-alpha.figma.com/profile/51c6cf5e-92c6-4db6-95a4-4a14120dc8e3",
+        "id": "1113937443180999805"
+      },
+      "created_at": "2023-10-05T18:12:23.592Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk what would be the default state of this custom panel? Would the starting point be the same settings as \"Recommended\", all on, all off, or same as normal browsing?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4317:2891",
+        "node_offset": {
+          "x": 779,
+          "y": 1927
+        },
+        "stable_path": [
+          "4317:2891"
+        ]
+      },
+      "order_id": "117"
+    },
+    {
+      "id": "576392566",
+      "uuid": "d6c518b4-cf98-4e84-9552-9906799b7937",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrew Crago",
+        "img_url": "https://s3-alpha.figma.com/profile/ba211a9e-af73-4555-9524-33f939c11805",
+        "id": "1075270157069956042"
+      },
+      "created_at": "2023-10-05T17:44:11.302Z",
+      "resolved_at": null,
+      "message": "I think this is the most effective variation. :+1:",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4310:8202",
+        "node_offset": {
+          "x": 360,
+          "y": 1676
+        },
+        "stable_path": [
+          "4310:8202"
+        ]
+      },
+      "order_id": "115"
+    },
+    {
+      "id": "574857264",
+      "uuid": "1d261d52-fc5b-4185-b425-cac070112c28",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrei Bodea",
+        "img_url": "https://www.gravatar.com/avatar/56448c7cd91bf74f1d1cf7fcf5296951?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "967407740315827266"
+      },
+      "created_at": "2023-10-04T15:06:33.290Z",
+      "resolved_at": null,
+      "message": "Will the link open in PB? There might be worth to see the screen after accessing the hyperlink so the user is able to easy navigate back.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3522:12530",
+        "node_offset": {
+          "x": 817,
+          "y": 3
+        },
+        "stable_path": [
+          "3522:12530"
+        ]
+      },
+      "order_id": "113"
+    },
+    {
+      "id": "574854653",
+      "uuid": "b0a7aacf-9cef-44b6-b4da-48bbd62c785d",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrei Bodea",
+        "img_url": "https://www.gravatar.com/avatar/56448c7cd91bf74f1d1cf7fcf5296951?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "967407740315827266"
+      },
+      "created_at": "2023-10-04T15:04:41.995Z",
+      "resolved_at": null,
+      "message": "The toolbar now respects the device selected theme, adding a solid color that will match the PB colors will look way better and as a user you will know better when you navigate in PB.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3333:28046",
+        "node_offset": {
+          "x": 2327,
+          "y": 879
+        },
+        "stable_path": [
+          "3333:28046"
+        ]
+      },
+      "order_id": "112"
+    },
+    {
+      "id": "574845181",
+      "uuid": "089eb2f3-e53b-43be-9de7-776c05b1c07d",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrei Bodea",
+        "img_url": "https://www.gravatar.com/avatar/56448c7cd91bf74f1d1cf7fcf5296951?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "967407740315827266"
+      },
+      "created_at": "2023-10-04T14:58:09.158Z",
+      "resolved_at": null,
+      "message": "Will the link open in PB? There might be worth to see the screen after accessing the hyperlink so the user is able to easy navigate back.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3530:25509",
+        "node_offset": {
+          "x": 355,
+          "y": 11
+        },
+        "stable_path": [
+          "3530:25509"
+        ]
+      },
+      "order_id": "110"
+    },
+    {
+      "id": "574832027",
+      "uuid": "afd5502c-d72c-4cf3-8f4d-126895e03812",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrei Bodea",
+        "img_url": "https://www.gravatar.com/avatar/56448c7cd91bf74f1d1cf7fcf5296951?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "967407740315827266"
+      },
+      "created_at": "2023-10-04T14:49:46.466Z",
+      "resolved_at": null,
+      "message": "The size of the top section looks ok but I consider we need a scenario for when the URL is at the top so we cover both top and bottom URL scenarios.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3471:19363",
+        "node_offset": {
+          "x": 352,
+          "y": 14
+        },
+        "stable_path": [
+          "3471:19363"
+        ]
+      },
+      "order_id": "109"
+    },
+    {
+      "id": "574828105",
+      "uuid": "4b6f8f6f-908e-46b3-9611-ca54d63852e9",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrei Bodea",
+        "img_url": "https://www.gravatar.com/avatar/56448c7cd91bf74f1d1cf7fcf5296951?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "967407740315827266"
+      },
+      "created_at": "2023-10-04T14:47:22.500Z",
+      "resolved_at": null,
+      "message": "The new CFR looks good but there might be worth to add some info regarding bookmarks being able to be added from PB.\nThe CFR should have \"x\" button for the user to be able to close it.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3333:28065",
+        "node_offset": {
+          "x": 362,
+          "y": 12
+        },
+        "stable_path": [
+          "3333:28065"
+        ]
+      },
+      "order_id": "108"
+    },
+    {
+      "id": "574825669",
+      "uuid": "6fb0cbec-063f-4d25-9782-c172035b4ecb",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Andrei Bodea",
+        "img_url": "https://www.gravatar.com/avatar/56448c7cd91bf74f1d1cf7fcf5296951?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_a_v2.png",
+        "id": "967407740315827266"
+      },
+      "created_at": "2023-10-04T14:45:52.386Z",
+      "resolved_at": null,
+      "message": "The Private Browsing screen should be also updated - when no tabs are open (Right now its with the following text: Firefox won't remember any of your history or cookies, but new bookmarks will be saved.)\nThe Logo Looks the same as it's on the normal browsing so there is a cotinuity of the design.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3333:28064",
+        "node_offset": {
+          "x": 341,
+          "y": 9
+        },
+        "stable_path": [
+          "3333:28064"
+        ]
+      },
+      "order_id": "107"
+    },
+    {
+      "id": "572530935",
+      "uuid": "cbed066b-0a65-4683-b114-ab92c7924b5d",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2023-10-02T19:22:23.486Z",
+      "resolved_at": null,
+      "message": "Dev - this is the last screen tbd, don't start working on this yet!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3333:28046",
+        "node_offset": {
+          "x": 4140,
+          "y": 838
+        },
+        "stable_path": [
+          "3333:28046"
+        ]
+      },
+      "order_id": "106"
+    },
+    {
+      "id": "572279650",
+      "uuid": "400bce27-c469-44c0-9f81-f0d2c6ceb994",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2023-10-02T15:02:58.277Z",
+      "resolved_at": null,
+      "message": "@Josh Berman mobile settings",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3333:24385",
+        "node_offset": {
+          "x": 173,
+          "y": 155
+        },
+        "stable_path": [
+          "3333:24385"
+        ]
+      },
+      "order_id": "105"
+    },
+    {
+      "id": "564095714",
+      "uuid": "a0477ecb-64a9-4eb4-a707-6658db9ae04c",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Oana Horvath",
+        "img_url": "https://www.gravatar.com/avatar/2c2eb7d173916aa092fb307fae0691c3?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_o_v2.png",
+        "id": "962342517871272332"
+      },
+      "created_at": "2023-09-22T12:00:56.412Z",
+      "resolved_at": null,
+      "message": "Note: We already have a dialog to enable search suggestions in PB when you type in the search bar, which explains well what happens if you do it. I think we should keep that if possible, or something similar.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3333:28020",
+        "node_offset": {
+          "x": 351,
+          "y": 20
+        },
+        "stable_path": null
+      },
+      "order_id": "102"
+    },
+    {
+      "id": "564091944",
+      "uuid": "bcaa5197-ccd5-43fa-b583-3b4520171df2",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Oana Horvath",
+        "img_url": "https://www.gravatar.com/avatar/2c2eb7d173916aa092fb307fae0691c3?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_o_v2.png",
+        "id": "962342517871272332"
+      },
+      "created_at": "2023-09-22T11:57:09.749Z",
+      "resolved_at": null,
+      "message": "As a user, it's not clear to me that the \"suggestions\" term here refers to all of the above, being placed right under the \"Show search suggestions\" option. Maybe the position or the copy of this checkbox should reflect that.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3333:27128",
+        "node_offset": {
+          "x": 351,
+          "y": 508
+        },
+        "stable_path": null
+      },
+      "order_id": "101"
+    },
+    {
+      "id": "553735723",
+      "uuid": "7a27e129-d07c-4c63-b42d-3929e5273ed5",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-09-12T18:29:35.288Z",
+      "resolved_at": null,
+      "message": "@Josh Berman @Brent Trotter re. Felt Privacy search settings: we want to run an experiment where we disable all suggestions in the address bar in private mode, so also anything stored locally like bookmarks etc; happy to chat more, thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3333:26392",
+        "node_offset": {
+          "x": 1693,
+          "y": 129
+        },
+        "stable_path": null
+      },
+      "order_id": "87"
+    },
+    {
+      "id": "553731267",
+      "uuid": "a3ae1fd8-6736-4932-a107-18292bc8ec02",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-09-12T18:25:05.494Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk could we add the update to desktop search settings here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1289:8517",
+        "node_offset": {
+          "x": 2417,
+          "y": 551
+        },
+        "stable_path": null
+      },
+      "order_id": "86"
+    },
+    {
+      "id": "552772963",
+      "uuid": "a5f5f883-c9d3-453e-91cb-28322ca15e83",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-09-12T06:20:07.406Z",
+      "resolved_at": null,
+      "message": "@Juhee Jain based on the iPad comment, I think this might be also a little too light and it should be layer 1 instead",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3333:28046",
+        "node_offset": {
+          "x": 2311,
+          "y": 707
+        },
+        "stable_path": [
+          "3333:28046"
+        ]
+      },
+      "order_id": "83"
+    },
+    {
+      "id": "549608677",
+      "uuid": "2f479032-bcdb-42e6-bed0-11a8f9a27d55",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2023-09-07T18:02:10.563Z",
+      "resolved_at": null,
+      "message": "@Roux Buciu and any other designs you need for ipad?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3214:30899",
+        "node_offset": {
+          "x": -307,
+          "y": -571
+        },
+        "stable_path": null
+      },
+      "order_id": "76"
+    },
+    {
+      "id": "549608231",
+      "uuid": "371646df-1377-491e-a41e-fc56f1a36791",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2023-09-07T18:01:37.341Z",
+      "resolved_at": null,
+      "message": "@Roux Buciu can you remind me why we needed the toolbar to be split? @Misha Bruk",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3214:30899",
+        "node_offset": {
+          "x": 2767,
+          "y": -638
+        },
+        "stable_path": null
+      },
+      "order_id": "75"
+    },
+    {
+      "id": "542965685",
+      "uuid": "aa2e3335-9d43-4ef5-9af6-d2b4f122e4ba",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-08-31T13:13:15.900Z",
+      "resolved_at": null,
+      "message": "@Juhee Jain a11y",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:73730",
+        "node_offset": {
+          "x": 239,
+          "y": 126
+        },
+        "stable_path": null
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "542055171",
+      "uuid": "7eea6fa4-a452-4983-b61b-5fb46062a9c8",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2023-08-30T18:49:32.646Z",
+      "resolved_at": null,
+      "message": "@James Mathias this is what it looks like with the darkest part of the gradient",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3214:30899",
+        "node_offset": {
+          "x": 2894,
+          "y": -177
+        },
+        "stable_path": null
+      },
+      "order_id": "72"
+    },
+    {
+      "id": "539922470",
+      "uuid": "ed8833c7-711a-4e4a-83b1-dd41775889b6",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-08-29T08:43:16.427Z",
+      "resolved_at": null,
+      "message": "@Juhee Jain why the dark bg?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "3214:31080",
+        "node_offset": {
+          "x": 693,
+          "y": 187
+        },
+        "stable_path": null
+      },
+      "order_id": "69"
+    },
+    {
+      "id": "539113229",
+      "uuid": "43cabe64-69a6-4e3c-8315-583a46b22719",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Paul Z\u00fchlcke",
+        "img_url": "https://www.gravatar.com/avatar/7a9878b007930b8995d604d5f12db1fc?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "956945382745945914"
+      },
+      "created_at": "2023-08-28T14:56:34.529Z",
+      "resolved_at": null,
+      "message": "How long should this panel be shown? Does it stay when the user clicks away?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 2685,
+          "y": 2600
+        }
+      },
+      "order_id": "68"
+    },
+    {
+      "id": "539112430",
+      "uuid": "22ff0551-d6e8-47fd-a07a-a917583da7fd",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Paul Z\u00fchlcke",
+        "img_url": "https://www.gravatar.com/avatar/7a9878b007930b8995d604d5f12db1fc?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "956945382745945914"
+      },
+      "created_at": "2023-08-28T14:55:56.534Z",
+      "resolved_at": null,
+      "message": "Is this panel persistent or does it close when the user clicks somewhere else?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 1299,
+          "y": 2593
+        }
+      },
+      "order_id": "67"
+    },
+    {
+      "id": "539110099",
+      "uuid": "ed8dce06-450d-4f15-bb85-f7619c6ec21b",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Paul Z\u00fchlcke",
+        "img_url": "https://www.gravatar.com/avatar/7a9878b007930b8995d604d5f12db1fc?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_p_v2.png",
+        "id": "956945382745945914"
+      },
+      "created_at": "2023-08-28T14:54:13.517Z",
+      "resolved_at": null,
+      "message": "Could you please also provide a tooltiptext and label for this button?\nThe tooltiptext is shown on mouse hover. The label shows up in other UIs like the cutomise mode.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1289:8517",
+        "node_offset": {
+          "x": 1600,
+          "y": 1477
+        },
+        "stable_path": [
+          "1289:8517"
+        ]
+      },
+      "order_id": "66"
+    },
+    {
+      "id": "535476567",
+      "uuid": "b23810d3-2866-4fd0-ae79-7952ca0609d2",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Juhee Jain",
+        "img_url": "https://www.gravatar.com/avatar/0e7654c2e0f57f7132a1c34678a23c9f?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "1271560742993685127"
+      },
+      "created_at": "2023-08-23T20:27:16.446Z",
+      "resolved_at": null,
+      "message": "The ticket also talked about separating the URL bar from the tool bar. Here are some different color ideas!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1401:73815",
+        "node_offset": {
+          "x": 3399,
+          "y": -13837
+        }
+      },
+      "order_id": "65"
+    },
+    {
+      "id": "521249607",
+      "uuid": "2938399d-e142-429f-8249-8bf6eec73d8d",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Harrison Oglesby",
+        "img_url": "https://www.gravatar.com/avatar/769cefffbe6f8a9b35cda8faa9622878?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_h_v2.png",
+        "id": "1164310951003700889"
+      },
+      "created_at": "2023-08-08T20:52:16.307Z",
+      "resolved_at": null,
+      "message": "Where does this action take the user? is it the same action as the existing \"Common myths about private browsing\" link in the private homescreen?\n\n@Crystal Wong",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2777:17807",
+        "node_offset": {
+          "x": 222,
+          "y": 201
+        }
+      },
+      "order_id": "63"
+    },
+    {
+      "id": "517120832",
+      "uuid": "b166afbe-50a9-47c2-9fa3-9f5c263c241f",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Harrison Oglesby",
+        "img_url": "https://www.gravatar.com/avatar/769cefffbe6f8a9b35cda8faa9622878?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_h_v2.png",
+        "id": "1164310951003700889"
+      },
+      "created_at": "2023-08-03T16:45:01.749Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong is this the final asset?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2777:17807",
+        "node_offset": {
+          "x": 148,
+          "y": 38
+        }
+      },
+      "order_id": "62"
+    },
+    {
+      "id": "514116948",
+      "uuid": "c08d48bf-097a-421c-a3dd-609f730443fc",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-08-01T12:26:10.151Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk what do you think about this placement for the data deletion action?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2652:5602",
+        "node_offset": {
+          "x": 232.0859375,
+          "y": 76.9658203125
+        }
+      },
+      "order_id": "60"
+    },
+    {
+      "id": "513295772",
+      "uuid": "55845dc8-1b66-4640-9a89-d934050d3156",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Boek",
+        "img_url": "https://www.gravatar.com/avatar/e49a28e5fed7340a3e51d46100902d93?size=240&default=https%3A%2F%2Fs3-alpha.figma.com%2Fstatic%2Fuser_j_v2.png",
+        "id": "916378091260914421"
+      },
+      "created_at": "2023-07-31T18:55:04.468Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong It looks like the colors of the background gradient here changed slightly from\n#722291\n#45278D\n#393473\n\nto\n\n#7529A7\n#492E85\n#383372\n\nAre these named colors? Do we have a list of the colors that have changed?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2585:15060",
+        "node_offset": {
+          "x": 220,
+          "y": 14.046875
+        }
+      },
+      "order_id": "59"
+    },
+    {
+      "id": "512757326",
+      "uuid": "95bf2440-3a81-40c2-a22f-11c2d0f4353e",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-07-31T10:55:16.412Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong is there anything we need to update in the library to enable the badged tab icon? Or anything to get that to engineering? Thanks!",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2585:14916",
+        "node_offset": {
+          "x": 319,
+          "y": 618
+        }
+      },
+      "order_id": "58"
+    },
+    {
+      "id": "511871378",
+      "uuid": "eada86c4-6ddf-4ce1-ad3d-e7e43022e945",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-07-28T19:38:15.968Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong Hi Crystal, do you have time to create a cleaned up version of the wordmark with the additional label 'private'? \n\nFWIW, on mobile, we'll keep the 'normal' logo for now since we already have a mask in the upper right corner.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2540:99007",
+        "node_offset": {
+          "x": 131.2841796875,
+          "y": 33
+        }
+      },
+      "order_id": "57"
+    },
+    {
+      "id": "510934134",
+      "uuid": "e9f8d34b-0611-47c3-9225-d9d22062e600",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-28T00:07:34.614Z",
+      "resolved_at": null,
+      "message": "Implementation notes:\n\n1. Header: Ensure the logo is an accessible element, image, with a label, so it can be focused with VoiceOver and is announced, for instance, as \"Firefox\"\n2. Main content: if the graphic is meaningful, ensure it has meaningful accessibility label. At the same time if the image is more decorative, the importantForAccessibility could be set to false so the image is not focusable with VoiceOver (is marked up as decorative)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:73918",
+        "node_offset": {
+          "x": 327,
+          "y": 44
+        }
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "510933420",
+      "uuid": "7a822d47-d548-48f0-934b-5906c7f20b53",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-28T00:05:17.143Z",
+      "resolved_at": null,
+      "message": "Implementation notes:\n\n1. Header: If these images are not functional (tapping on them does not do anything), they could be exposed to accessibility / TalkBack as one custom image view, so a user would need only one swipe (focus stop) to hear both, i.e. \"FIrefox: Private Mode\"\n2. Main content: if the graphic is meaningful, ensure it has meaningful contentDescription. At the same time if the image is more decorative, the contentDescription could be omitted so the image is not focusable with TalkBack (is marked up as decorative)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:115247",
+        "node_offset": {
+          "x": 338,
+          "y": 23
+        }
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "510932076",
+      "uuid": "4d9e83fb-a5ad-4e33-bb0e-c99167873518",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-28T00:01:07.649Z",
+      "resolved_at": null,
+      "message": "Implementation note: ensure that the status message is being announced to a user of TalkBack. One way may be to use announceForAccessibility, but in this case better option would be to move the focus to the status message text and then ensure the \"Undo\" button is the next in the traversal order.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:116551",
+        "node_offset": {
+          "x": 326.99609375,
+          "y": 286
+        }
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "510928550",
+      "uuid": "98e04bdc-7278-455d-8aee-5b1ad55fc2d3",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-27T23:50:18.361Z",
+      "resolved_at": null,
+      "message": "Implementation note: ensure all image buttons have accessible name, i.e. \"Clear session\" button, \"3 private tabs\" button, \"More\" button (or \"Settings\").\n\nFor the button with number of tabs, ensure the accessible name (content description) of the button is being updated when the number of tabs is changed",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:116388",
+        "node_offset": {
+          "x": 325.99609375,
+          "y": 607
+        }
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "510925932",
+      "uuid": "d89ddbce-21fc-4665-b978-07930c373afc",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-27T23:42:33.115Z",
+      "resolved_at": null,
+      "message": "Implementation note: ensure that this status message is posted with notification (i.e. layoutChanged or screenChanged) so a VoiceOver would be made aware about new element being added to the view and it will be announced for a user",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:73954",
+        "node_offset": {
+          "x": 310,
+          "y": 343
+        }
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "510924671",
+      "uuid": "ed921144-4797-47e3-8b81-e91b2824a3b4",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-27T23:38:49.251Z",
+      "resolved_at": null,
+      "message": "Color contrast increase is recommended here as well",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:73954",
+        "node_offset": {
+          "x": 317,
+          "y": 408
+        }
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "510924095",
+      "uuid": "9bf0dc6b-3ebe-4b1f-aba0-12e98e88bd44",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-27T23:37:05.432Z",
+      "resolved_at": null,
+      "message": "Increasing color contrast is also recommended here, as it was for the AD mockup above",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2025:95355",
+        "node_offset": {
+          "x": 336,
+          "y": 598
+        }
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "510921007",
+      "uuid": "20813c17-dd14-4b29-b2cd-7f3fac65cfec",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-27T23:27:38.498Z",
+      "resolved_at": null,
+      "message": "Color contrast of this text is not sufficient on the right side of the tooltip: the lighter part of the gradient against the white text gives only up to 4:1 color contrast ratio while 4.5:1 or higher is expected for the text of this size",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:116427",
+        "node_offset": {
+          "x": 298.99609375,
+          "y": 567
+        }
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "510920044",
+      "uuid": "ce5a73d9-e35a-4a5c-beae-5a19f4cc3908",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-27T23:24:58.045Z",
+      "resolved_at": null,
+      "message": "1. Could we add an underline for the link?\n\nAFAIK it was recently decided to unify hyperlinks to have underline by default. While it may be only set for desktop, I think it is very solid indication of the difference between the link and its surrounding static text, that also does not rely on use of color alone.\n\n2. Also, the color contrast for the link text is low for the regular text like it - the color contrast for the purple text against the indigo background provides only 3.9:1 ratio while 4.5:1 or higher is expected for the text of this size",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:115247",
+        "node_offset": {
+          "x": 222,
+          "y": 207
+        }
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "509387606",
+      "uuid": "7fc5c4f8-dd60-48d3-9ce7-2ebfa99c081e",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-07-26T18:26:31.078Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong here's an underline, this is a screenshot of release",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-07-26T18:32:55.439Z",
+          "user": {
+            "id": "997882185557217931",
+            "handle": "Crystal Wong",
+            "img_url": "https://s3-alpha.figma.com/profile/b5db92da-625e-4cac-a442-1108428197be"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "2308:87814",
+        "node_offset": {
+          "x": 269,
+          "y": 266.966796875
+        }
+      },
+      "order_id": "45"
+    },
+    {
+      "id": "503827882",
+      "uuid": "ea0d9e1d-0842-4900-98c7-1d43eb0f74ef",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-07-20T14:16:38.614Z",
+      "resolved_at": null,
+      "message": "Does it really do that? Probably not, since we stay in private mode.... @Jeff Pfaller",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1863:72957",
+        "node_offset": {
+          "x": 684.6396484375,
+          "y": 266.0458984375
+        }
+      },
+      "order_id": "44"
+    },
+    {
+      "id": "500022883",
+      "uuid": "6c556e5e-1d82-41f3-9b2a-bcc7c53a6191",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-07-17T16:01:48.336Z",
+      "resolved_at": null,
+      "message": "Do we need \"Always ask me\" here? Also, the hierachy seems off - why is the title so much smaller than body and buttons? Or is that an iOS constratnt?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2158:96810",
+        "node_offset": {
+          "x": 4427,
+          "y": 1951
+        }
+      },
+      "order_id": "43"
+    },
+    {
+      "id": "498694404",
+      "uuid": "da356a2b-3d14-45d4-9bf3-9d7b0c88b5ad",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Crystal Wong",
+        "img_url": "https://s3-alpha.figma.com/profile/b5db92da-625e-4cac-a442-1108428197be",
+        "id": "997882185557217931"
+      },
+      "created_at": "2023-07-14T17:25:21.751Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber I think everything proposed here can be released right away! \n\nFor the card, I\u2019m not sure if the link is accessible on top of the opaque background color, may need to find a new color for the background.\n\nOther than that, for iOS, the gradient is no problem to introduce as long as the colors come from the Fx rainbow palette (which it does) so Eng can easily create a new token for it. Let me know when this is ready for eng, and I will add a new token to the design system and we can update this to link to it.\n\nI have some other small additional suggestions for iOS that would help better align iOS and Android colors, but maybe for v2?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2158:96810",
+        "node_offset": {
+          "x": 2901,
+          "y": 1774
+        }
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "498587174",
+      "uuid": "3c3f1bc2-3abf-49e3-8fbe-954fd2b8035f",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Michael Verdi",
+        "img_url": "https://s3-alpha.figma.com/profile/52220d82-0e0a-44e4-927f-a9cc8ed86edf",
+        "id": "185146236911313054"
+      },
+      "created_at": "2023-07-14T15:18:29.924Z",
+      "resolved_at": null,
+      "message": "Will people understand the word \"session\" in this context? It might be surprising to end your private session and then still be in private browsing mode on the next screen.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:116483",
+        "node_offset": {
+          "x": 218.99609375,
+          "y": 217
+        },
+        "stable_path": null
+      },
+      "order_id": "41"
+    },
+    {
+      "id": "498585592",
+      "uuid": "cd753a41-f7d0-4565-9715-b09ae9c63465",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Michael Verdi",
+        "img_url": "https://s3-alpha.figma.com/profile/52220d82-0e0a-44e4-927f-a9cc8ed86edf",
+        "id": "185146236911313054"
+      },
+      "created_at": "2023-07-14T15:16:54.079Z",
+      "resolved_at": null,
+      "message": "Should this be \"Show suggestions in  private browsing\" with the toggle defaulted to off?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2158:96810",
+        "node_offset": {
+          "x": 5858,
+          "y": 1038
+        }
+      },
+      "order_id": "40"
+    },
+    {
+      "id": "497809529",
+      "uuid": "4f0fa5f1-3056-4875-a878-5d6c79220c96",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-13T21:46:44.020Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk The HCM references for different states are added for toggle, checkbox, and text input elements",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-07-17T23:21:09.059Z",
+          "user": {
+            "id": "1113946896976654346",
+            "handle": "Misha Bruk",
+            "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "15:3479",
+        "node_offset": {
+          "x": -2615,
+          "y": -3156
+        }
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "497806959",
+      "uuid": "89a6a591-3bda-4ea3-b7da-ef261e8f1fa3",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-13T21:42:15.949Z",
+      "resolved_at": null,
+      "message": "\"Show suggestions...\" text should be referenced as a legend/ programmatic label for the fieldset/group of checkboxes (ideally using https://www.w3.org/WAI/tutorials/forms/grouping/#checkboxes or at least https://www.w3.org/WAI/tutorials/forms/grouping/#associating-related-controls-with-wai-aria)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 650,
+          "y": 3457
+        }
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "497805784",
+      "uuid": "e7c5d689-04c8-4fbe-bebf-01dad5ec035f",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-13T21:40:20.837Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk is this doorhanger actionable? if not, it would need to be an alert.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 2673,
+          "y": 1399
+        }
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "497805322",
+      "uuid": "c94eba45-23f9-47a6-bb4b-b8f1081c8cf5",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-13T21:39:30.850Z",
+      "resolved_at": null,
+      "message": "when the trashcan icon button is pressed with keyboard, the focus should move to the dialog, i.e. to the checkbox \"Always ask me, checked\". When the dialog is marked up correctly (it has role=dialog and aria-label or aria-labelledby, see Full Page Translations or Security doorhangers), a screen reader would still announce that it is in the dialog, would announce the dialog's label and would read the dialog's full content, then proceeding to announce the focused element, so a blind user would still know what is the doorhanger is about.\n\nPressing Tab would move the focus to the \"Cancel\" button > tab to \"Delete session data\".\n\nOR the initial focus could land on the doorhanger dialog container itself (with tabindex=-1), then pressing Tab would move the visual focus to the checkbox etc.\n\nWhen the dialog is dismissed by Escape or by pressing either of buttons, the focus should land back on the trashcan icon button (unless the entire window is refreshed, then the focus would be managed by the default browser behavior itself)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 1413,
+          "y": 1374
+        }
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "497801179",
+      "uuid": "e29a8d79-4856-410a-ba24-cae6d2308fbc",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-13T21:32:29.182Z",
+      "resolved_at": null,
+      "message": "\"Learn more\" link is either the 2nd focusable element or the 1st one (if we want to force users to use the awesomebar still).\n\nImage looks like it has meaning like \"Magic\" - but it could be marked up as decorative too, whichever your team prefers, @Misha Bruk",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 1103,
+          "y": 649
+        }
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "497800209",
+      "uuid": "916c9661-24d2-4be4-8036-776d269086fc",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-13T21:30:57.001Z",
+      "resolved_at": null,
+      "message": "First focusable element, <input type=search> with the label being the on-screen text \"Search with Google or enter address\".\n\n@Misha Bruk I know It was not focusable with keyboard before to send users to type in their search in the awesomebar - would that still be the case?\n\nCurrently the search input is not focusable and (in the private window) is hidden from screen readers too. The latter would need not to happen for sure. And the former depends on the focus approach now :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 1107,
+          "y": 516
+        }
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "497798178",
+      "uuid": "cce47562-3fd7-4246-92d2-c4a2bac6ae29",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-13T21:27:45.663Z",
+      "resolved_at": null,
+      "message": "Logo is an informative image, i.e. \"Firefox Private\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 920,
+          "y": 394
+        }
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "494846783",
+      "uuid": "c929d3ba-5489-48f3-96ab-842388b04b81",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2023-07-11T15:39:49.797Z",
+      "resolved_at": null,
+      "message": "add the new stuff to address bar in privacy which is where you're linked to from change prefs of other search settings and leave search the same",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 192,
+          "y": 3858
+        }
+      },
+      "order_id": "32"
+    },
+    {
+      "id": "492342886",
+      "uuid": "3dca84df-2574-48d8-8e82-d254f5717993",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-07-07T19:48:47.151Z",
+      "resolved_at": null,
+      "message": "Are there no address bar controls in iOS? @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2104:98531",
+        "node_offset": {
+          "x": 265.498046875,
+          "y": 579
+        }
+      },
+      "order_id": "31"
+    },
+    {
+      "id": "491244469",
+      "uuid": "2bbcfd49-5247-40c9-8ea9-88a024900a39",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-07-06T19:31:20.857Z",
+      "resolved_at": null,
+      "message": "What if we followed the pattern in the mobile pref here? Move it up to the same level as Search suggestions make \"Turn off suggestions in private browsing\". If the pref is selected, nothing shows. If it is not selected, private follows the standard settings above. Does that make sense? Feels like it would lower cognitive load @Misha Bruk @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 989,
+          "y": 3458
+        }
+      },
+      "order_id": "28"
+    },
+    {
+      "id": "491233578",
+      "uuid": "d95d6b13-47cc-4278-b9b5-62982fedefa3",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-07-06T19:18:18.126Z",
+      "resolved_at": null,
+      "message": "Where did we net out on this? Does this pref also control if a user X's out or command-Q's a private session? The more I think about it, the more I think it should. Do we think we need this in desktop prefs? Right now we have two prefs for closing, this feels like it should be its own use case @Misha Bruk @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2158:96810",
+        "node_offset": {
+          "x": 5211,
+          "y": 715
+        }
+      },
+      "order_id": "26"
+    },
+    {
+      "id": "485621109",
+      "uuid": "cd059afd-ee28-4377-9288-511648d0c1a9",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-06-29T21:12:34.128Z",
+      "resolved_at": null,
+      "message": "Should there be an undo option? Would we have this on desktop too? @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1823:72279",
+        "node_offset": {
+          "x": 1160.8525390625,
+          "y": 570.2548828125
+        }
+      },
+      "order_id": "24"
+    },
+    {
+      "id": "485576733",
+      "uuid": "ed6b8d41-4ab9-4e42-a4e2-130c8cf56d59",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2023-06-29T20:13:25.522Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller fyi this is the latest and greatest in terms of color/trash icon placement",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-06-29T21:54:58.073Z",
+          "user": {
+            "id": "1083509274597697392",
+            "handle": "Jeff Pfaller",
+            "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 1397,
+          "y": 683
+        }
+      },
+      "order_id": "23"
+    },
+    {
+      "id": "485576530",
+      "uuid": "1b719893-8318-41e7-9eb9-8e7e9e756384",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-06-29T20:13:10.127Z",
+      "resolved_at": null,
+      "message": "For the opt out checkbox, let's make it \"Always ask me\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1102:16579",
+        "node_offset": {
+          "x": 4310,
+          "y": -9190
+        }
+      },
+      "order_id": "22"
+    },
+    {
+      "id": "485071945",
+      "uuid": "04e9e8c2-048b-4d93-b3a8-41a9770a4277",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-06-29T12:17:24.315Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk what are your thoughts on removing the light background for the illustration to tone it a little down, similar to what's here? or do you think we should add a light bg here?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1784:74634",
+        "node_offset": {
+          "x": 320,
+          "y": 159.0458984375
+        }
+      },
+      "order_id": "18"
+    },
+    {
+      "id": "485060873",
+      "uuid": "ab21f4e1-12c0-4520-972d-024813e92acb",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-06-29T12:07:08.503Z",
+      "resolved_at": null,
+      "message": "@Jeff Pfaller @Misha Bruk we had a brief discussion with Phil whether we should shorten the label that is currently in release \"Private browsing\" to just \"Private\" but I can't recall if we ever made a decision. What should we do?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1491:45642",
+        "node_offset": {
+          "x": 4116,
+          "y": 179
+        }
+      },
+      "order_id": "17"
+    },
+    {
+      "id": "481448795",
+      "uuid": "9fa7ef83-ccdb-4aa2-ba62-2ac80f28b1dd",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-06-26T13:03:20.087Z",
+      "resolved_at": null,
+      "message": "@John Hall not sure if you already had the chance to talk to Stefan about the stories; a few things around search in private mode came up last week, see 'Open Questions' note.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1784:77282",
+        "node_offset": {
+          "x": 157,
+          "y": 58.0458984375
+        }
+      },
+      "order_id": "16"
+    },
+    {
+      "id": "475220137",
+      "uuid": "ef3ae09e-ab02-45ba-809c-6fbd86035983",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-06-19T11:31:21.515Z",
+      "resolved_at": null,
+      "message": "@Bothun this is the current copy we have on Android, should we keep it for now or replace it with the shorter copy we have on desktop?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1664:58273",
+        "node_offset": {
+          "x": 584.360107421875,
+          "y": 1662
+        }
+      },
+      "order_id": "13"
+    },
+    {
+      "id": "472686769",
+      "uuid": "1dae18d7-cd00-4d5e-87ad-c2b1ea1105f0",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-06-15T11:50:17.069Z",
+      "resolved_at": null,
+      "message": "@Crystal Wong following our discussion from Tuesday, here are a few variations, also this one with the logo on the right. Curious to get your feedback! Thanks",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1:13257",
+        "node_offset": {
+          "x": 3957,
+          "y": -7213
+        }
+      },
+      "order_id": "12"
+    },
+    {
+      "id": "468775259",
+      "uuid": "882e1b01-3c34-40eb-86e3-d51e03f758e0",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-06-12T10:35:03.510Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk do we have an exploration with the icon + label left to the menu?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1429:42007",
+        "node_offset": {
+          "x": 1262,
+          "y": 166
+        }
+      },
+      "order_id": "9"
+    },
+    {
+      "id": "468774733",
+      "uuid": "20acd79d-1945-4a18-b0cc-7db8543d06a0",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-06-12T10:34:32.782Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk we can remove the extension icon, products recommendation is to show the icon only for users who have extensions enabled in PBM but have it disabled per default",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-06-12T14:37:01.190Z",
+          "user": {
+            "id": "1113946896976654346",
+            "handle": "Misha Bruk",
+            "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "1429:42007",
+        "node_offset": {
+          "x": 1373,
+          "y": 210
+        }
+      },
+      "order_id": "8"
+    },
+    {
+      "id": "468773738",
+      "uuid": "97e81387-ca3b-4d54-80ee-a8adf7ff38f1",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-06-12T10:33:34.077Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk what's the rational for adding a lighter background to the trash can?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1429:42007",
+        "node_offset": {
+          "x": 1388,
+          "y": 152
+        }
+      },
+      "order_id": "7"
+    },
+    {
+      "id": "468771631",
+      "uuid": "6022d534-0ea7-4386-9850-842da7396af5",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-06-12T10:31:26.616Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk what's your take, should we offer the option to x-away the message?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1491:45642",
+        "node_offset": {
+          "x": 1106,
+          "y": 656
+        }
+      },
+      "order_id": "6"
+    },
+    {
+      "id": "467048827",
+      "uuid": "c86ae3e5-337e-4ba3-b912-32039574e528",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2023-06-08T22:39:34.106Z",
+      "resolved_at": null,
+      "message": "letterboxing :) with gradients @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1491:49901",
+        "node_offset": {
+          "x": 920,
+          "y": 48
+        }
+      },
+      "order_id": "5"
+    },
+    {
+      "id": "465189161",
+      "uuid": "7eb4b602-da95-4dd2-a257-ba21007cd6b2",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-06-07T11:51:28.894Z",
+      "resolved_at": null,
+      "message": "@John Hall @Romain Testard we are cleaning up the playground file and created a new one just for the v1; can you double-check the feature list below and leave a comment if anything is missing or off; \n\nfor the simplified UI task, should we give users the option to add Pocket, extensions, account, bookmark toolbar, search suggestions back to private mode independet of non-private mode?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1451:42344",
+        "node_offset": {
+          "x": 624,
+          "y": 532
+        }
+      },
+      "order_id": "2"
+    },
+    {
+      "id": "455919875",
+      "uuid": "2486f1d0-228e-4443-9c5e-4a05c83f662f",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Misha Bruk",
+        "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877",
+        "id": "1113946896976654346"
+      },
+      "created_at": "2023-05-26T18:31:16.533Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber here's a couple explorations :) using the font styling that we currently use and have a close button version - i think this would be a good in between with the little illustration",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1401:75517",
+        "node_offset": {
+          "x": 5721,
+          "y": 102
+        }
+      },
+      "order_id": "1"
+    }
+  ],
+  "a11y": [
+    {
+      "id": "693333770",
+      "uuid": "f92895b6-c8dd-4a98-9ce3-0f0b470dfc31",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2024-02-06T15:49:01.244Z",
+      "resolved_at": null,
+      "message": "What's the rationale behind including Address Bar here? It feels like it's extra cognitive load but it doesn't help me understand the feature. If it's not here (like in Android) I would get that all this is related to how I search @Tina Vaamonde @Josh Berman @Juhee Jain",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "7125:13372",
+        "node_offset": {
+          "x": 83,
+          "y": 678
+        },
+        "stable_path": [
+          "7125:13372"
+        ]
+      },
+      "order_id": "166"
+    },
+    {
+      "id": "646867887",
+      "uuid": "a5e2e018-02be-4b4e-87c2-ce5bdd3c22a6",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-12-14T21:56:39.006Z",
+      "resolved_at": null,
+      "message": "Highlighting the non-profit aspect of it in contrast to brave - we're the leader. Connect that story to the 'trackers blocked' story",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "5821:8472",
+        "node_offset": {
+          "x": 2680,
+          "y": 2438
+        },
+        "stable_path": [
+          "5821:8472"
+        ]
+      },
+      "order_id": "148"
+    },
+    {
+      "id": "610174136",
+      "uuid": "db54b755-0433-4cf4-8fb2-0f417297e232",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-11-08T21:21:46.597Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk the gray background vs dark gray radio button (unchecked) provides insufficient color contrast - it's only 2.2:1 while at least 3:1 is needed to help users with low vision or with color deficiency to better discern the active UI",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4317:2891",
+        "node_offset": {
+          "x": 721,
+          "y": 1720
+        },
+        "stable_path": [
+          "4317:2891"
+        ]
+      },
+      "order_id": "141"
+    },
+    {
+      "id": "610168808",
+      "uuid": "5d410e1e-dc32-44c5-a217-bae881cf0e9a",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-11-08T21:16:17.875Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk While it is not required for HCM, but since we are striving to provide delightful experience, if the logo can be re-colored a bit, we could use the HCM/system colors for this - we have a few examples for an inspiration. Again, the idea behind it to ensure the user would still get a discernable image when they have their HCM on.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4909:53486",
+        "node_offset": {
+          "x": 767,
+          "y": 255
+        },
+        "stable_path": [
+          "4909:53486"
+        ]
+      },
+      "order_id": "140"
+    },
+    {
+      "id": "610164549",
+      "uuid": "9b0a9b50-a142-4005-99c5-31d1ba68d343",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-11-08T21:11:41.177Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk Do we need to review/comment on the chrome elements here or they won't be changed in this project? :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4909:53486",
+        "node_offset": {
+          "x": 842,
+          "y": 64
+        },
+        "stable_path": [
+          "4909:53486"
+        ]
+      },
+      "order_id": "139"
+    },
+    {
+      "id": "610162517",
+      "uuid": "fe26fa6c-da76-4f62-90e1-eca8a1e9712b",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-11-08T21:09:25.033Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk The text color here would be `CanvasText` (`Text` that would appear also white with this specific HCM theme, but using the system color reference would then be rendering the color that the user set on their own machine ;)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4909:53486",
+        "node_offset": {
+          "x": 813,
+          "y": 516
+        },
+        "stable_path": [
+          "4909:53486"
+        ]
+      },
+      "order_id": "138"
+    },
+    {
+      "id": "610161335",
+      "uuid": "381d4b47-550e-418b-a741-d7987012fb3c",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-11-08T21:08:03.006Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk The background color here would be `ButtonFace` (Button Background, it would appear gray-ish for HCM Win 11 Dark Sky) and the text color for the placeholder and then for the input text would be `ButtonText` (would appear yellow in this theme).\n\nJust in case, this Figma page provides focus/hover/active styles for the text inputs in HCM. CC @Molly Howell",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "4909:53486",
+        "node_offset": {
+          "x": 818,
+          "y": 372
+        },
+        "stable_path": [
+          "4909:53486"
+        ]
+      },
+      "order_id": "137"
+    },
+    {
+      "id": "542965685",
+      "uuid": "aa2e3335-9d43-4ef5-9af6-d2b4f122e4ba",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Nicole Weber",
+        "img_url": "https://s3-alpha.figma.com/profile/659fa807-45cc-4f21-ba58-6677e8454ddf",
+        "id": "862656244535756550"
+      },
+      "created_at": "2023-08-31T13:13:15.900Z",
+      "resolved_at": null,
+      "message": "@Juhee Jain a11y",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:73730",
+        "node_offset": {
+          "x": 239,
+          "y": 126
+        },
+        "stable_path": null
+      },
+      "order_id": "73"
+    },
+    {
+      "id": "510934134",
+      "uuid": "e9f8d34b-0611-47c3-9225-d9d22062e600",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-28T00:07:34.614Z",
+      "resolved_at": null,
+      "message": "Implementation notes:\n\n1. Header: Ensure the logo is an accessible element, image, with a label, so it can be focused with VoiceOver and is announced, for instance, as \"Firefox\"\n2. Main content: if the graphic is meaningful, ensure it has meaningful accessibility label. At the same time if the image is more decorative, the importantForAccessibility could be set to false so the image is not focusable with VoiceOver (is marked up as decorative)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:73918",
+        "node_offset": {
+          "x": 327,
+          "y": 44
+        }
+      },
+      "order_id": "56"
+    },
+    {
+      "id": "510933420",
+      "uuid": "7a822d47-d548-48f0-934b-5906c7f20b53",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-28T00:05:17.143Z",
+      "resolved_at": null,
+      "message": "Implementation notes:\n\n1. Header: If these images are not functional (tapping on them does not do anything), they could be exposed to accessibility / TalkBack as one custom image view, so a user would need only one swipe (focus stop) to hear both, i.e. \"FIrefox: Private Mode\"\n2. Main content: if the graphic is meaningful, ensure it has meaningful contentDescription. At the same time if the image is more decorative, the contentDescription could be omitted so the image is not focusable with TalkBack (is marked up as decorative)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:115247",
+        "node_offset": {
+          "x": 338,
+          "y": 23
+        }
+      },
+      "order_id": "55"
+    },
+    {
+      "id": "510932076",
+      "uuid": "4d9e83fb-a5ad-4e33-bb0e-c99167873518",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-28T00:01:07.649Z",
+      "resolved_at": null,
+      "message": "Implementation note: ensure that the status message is being announced to a user of TalkBack. One way may be to use announceForAccessibility, but in this case better option would be to move the focus to the status message text and then ensure the \"Undo\" button is the next in the traversal order.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:116551",
+        "node_offset": {
+          "x": 326.99609375,
+          "y": 286
+        }
+      },
+      "order_id": "54"
+    },
+    {
+      "id": "510928550",
+      "uuid": "98e04bdc-7278-455d-8aee-5b1ad55fc2d3",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-27T23:50:18.361Z",
+      "resolved_at": null,
+      "message": "Implementation note: ensure all image buttons have accessible name, i.e. \"Clear session\" button, \"3 private tabs\" button, \"More\" button (or \"Settings\").\n\nFor the button with number of tabs, ensure the accessible name (content description) of the button is being updated when the number of tabs is changed",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:116388",
+        "node_offset": {
+          "x": 325.99609375,
+          "y": 607
+        }
+      },
+      "order_id": "53"
+    },
+    {
+      "id": "510925932",
+      "uuid": "d89ddbce-21fc-4665-b978-07930c373afc",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-27T23:42:33.115Z",
+      "resolved_at": null,
+      "message": "Implementation note: ensure that this status message is posted with notification (i.e. layoutChanged or screenChanged) so a VoiceOver would be made aware about new element being added to the view and it will be announced for a user",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:73954",
+        "node_offset": {
+          "x": 310,
+          "y": 343
+        }
+      },
+      "order_id": "52"
+    },
+    {
+      "id": "510924671",
+      "uuid": "ed921144-4797-47e3-8b81-e91b2824a3b4",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-27T23:38:49.251Z",
+      "resolved_at": null,
+      "message": "Color contrast increase is recommended here as well",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:73954",
+        "node_offset": {
+          "x": 317,
+          "y": 408
+        }
+      },
+      "order_id": "51"
+    },
+    {
+      "id": "510924095",
+      "uuid": "9bf0dc6b-3ebe-4b1f-aba0-12e98e88bd44",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-27T23:37:05.432Z",
+      "resolved_at": null,
+      "message": "Increasing color contrast is also recommended here, as it was for the AD mockup above",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2025:95355",
+        "node_offset": {
+          "x": 336,
+          "y": 598
+        }
+      },
+      "order_id": "50"
+    },
+    {
+      "id": "510921007",
+      "uuid": "20813c17-dd14-4b29-b2cd-7f3fac65cfec",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-27T23:27:38.498Z",
+      "resolved_at": null,
+      "message": "Color contrast of this text is not sufficient on the right side of the tooltip: the lighter part of the gradient against the white text gives only up to 4:1 color contrast ratio while 4.5:1 or higher is expected for the text of this size",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:116427",
+        "node_offset": {
+          "x": 298.99609375,
+          "y": 567
+        }
+      },
+      "order_id": "47"
+    },
+    {
+      "id": "510920044",
+      "uuid": "ce5a73d9-e35a-4a5c-beae-5a19f4cc3908",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-27T23:24:58.045Z",
+      "resolved_at": null,
+      "message": "1. Could we add an underline for the link?\n\nAFAIK it was recently decided to unify hyperlinks to have underline by default. While it may be only set for desktop, I think it is very solid indication of the difference between the link and its surrounding static text, that also does not rely on use of color alone.\n\n2. Also, the color contrast for the link text is low for the regular text like it - the color contrast for the purple text against the indigo background provides only 3.9:1 ratio while 4.5:1 or higher is expected for the text of this size",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2024:115247",
+        "node_offset": {
+          "x": 222,
+          "y": 207
+        }
+      },
+      "order_id": "46"
+    },
+    {
+      "id": "498694404",
+      "uuid": "da356a2b-3d14-45d4-9bf3-9d7b0c88b5ad",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Crystal Wong",
+        "img_url": "https://s3-alpha.figma.com/profile/b5db92da-625e-4cac-a442-1108428197be",
+        "id": "997882185557217931"
+      },
+      "created_at": "2023-07-14T17:25:21.751Z",
+      "resolved_at": null,
+      "message": "@Nicole Weber I think everything proposed here can be released right away! \n\nFor the card, I\u2019m not sure if the link is accessible on top of the opaque background color, may need to find a new color for the background.\n\nOther than that, for iOS, the gradient is no problem to introduce as long as the colors come from the Fx rainbow palette (which it does) so Eng can easily create a new token for it. Let me know when this is ready for eng, and I will add a new token to the design system and we can update this to link to it.\n\nI have some other small additional suggestions for iOS that would help better align iOS and Android colors, but maybe for v2?",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "2158:96810",
+        "node_offset": {
+          "x": 2901,
+          "y": 1774
+        }
+      },
+      "order_id": "42"
+    },
+    {
+      "id": "497809529",
+      "uuid": "4f0fa5f1-3056-4875-a878-5d6c79220c96",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-13T21:46:44.020Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk The HCM references for different states are added for toggle, checkbox, and text input elements",
+      "reactions": [
+        {
+          "emoji": ":+1:",
+          "created_at": "2023-07-17T23:21:09.059Z",
+          "user": {
+            "id": "1113946896976654346",
+            "handle": "Misha Bruk",
+            "img_url": "https://s3-alpha.figma.com/profile/e63bc3a6-590b-4f34-8cd6-e395efb33877"
+          }
+        }
+      ],
+      "client_meta": {
+        "node_id": "15:3479",
+        "node_offset": {
+          "x": -2615,
+          "y": -3156
+        }
+      },
+      "order_id": "39"
+    },
+    {
+      "id": "497806959",
+      "uuid": "89a6a591-3bda-4ea3-b7da-ef261e8f1fa3",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-13T21:42:15.949Z",
+      "resolved_at": null,
+      "message": "\"Show suggestions...\" text should be referenced as a legend/ programmatic label for the fieldset/group of checkboxes (ideally using https://www.w3.org/WAI/tutorials/forms/grouping/#checkboxes or at least https://www.w3.org/WAI/tutorials/forms/grouping/#associating-related-controls-with-wai-aria)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 650,
+          "y": 3457
+        }
+      },
+      "order_id": "38"
+    },
+    {
+      "id": "497805784",
+      "uuid": "e7c5d689-04c8-4fbe-bebf-01dad5ec035f",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-13T21:40:20.837Z",
+      "resolved_at": null,
+      "message": "@Misha Bruk is this doorhanger actionable? if not, it would need to be an alert.",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 2673,
+          "y": 1399
+        }
+      },
+      "order_id": "37"
+    },
+    {
+      "id": "497805322",
+      "uuid": "c94eba45-23f9-47a6-bb4b-b8f1081c8cf5",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-13T21:39:30.850Z",
+      "resolved_at": null,
+      "message": "when the trashcan icon button is pressed with keyboard, the focus should move to the dialog, i.e. to the checkbox \"Always ask me, checked\". When the dialog is marked up correctly (it has role=dialog and aria-label or aria-labelledby, see Full Page Translations or Security doorhangers), a screen reader would still announce that it is in the dialog, would announce the dialog's label and would read the dialog's full content, then proceeding to announce the focused element, so a blind user would still know what is the doorhanger is about.\n\nPressing Tab would move the focus to the \"Cancel\" button > tab to \"Delete session data\".\n\nOR the initial focus could land on the doorhanger dialog container itself (with tabindex=-1), then pressing Tab would move the visual focus to the checkbox etc.\n\nWhen the dialog is dismissed by Escape or by pressing either of buttons, the focus should land back on the trashcan icon button (unless the entire window is refreshed, then the focus would be managed by the default browser behavior itself)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 1413,
+          "y": 1374
+        }
+      },
+      "order_id": "36"
+    },
+    {
+      "id": "497801179",
+      "uuid": "e29a8d79-4856-410a-ba24-cae6d2308fbc",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-13T21:32:29.182Z",
+      "resolved_at": null,
+      "message": "\"Learn more\" link is either the 2nd focusable element or the 1st one (if we want to force users to use the awesomebar still).\n\nImage looks like it has meaning like \"Magic\" - but it could be marked up as decorative too, whichever your team prefers, @Misha Bruk",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 1103,
+          "y": 649
+        }
+      },
+      "order_id": "35"
+    },
+    {
+      "id": "497800209",
+      "uuid": "916c9661-24d2-4be4-8036-776d269086fc",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-13T21:30:57.001Z",
+      "resolved_at": null,
+      "message": "First focusable element, <input type=search> with the label being the on-screen text \"Search with Google or enter address\".\n\n@Misha Bruk I know It was not focusable with keyboard before to send users to type in their search in the awesomebar - would that still be the case?\n\nCurrently the search input is not focusable and (in the private window) is hidden from screen readers too. The latter would need not to happen for sure. And the former depends on the focus approach now :)",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 1107,
+          "y": 516
+        }
+      },
+      "order_id": "34"
+    },
+    {
+      "id": "497798178",
+      "uuid": "cce47562-3fd7-4246-92d2-c4a2bac6ae29",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Anna Yeddi",
+        "img_url": "https://s3-alpha.figma.com/profile/3e9a4c1c-840b-42a5-b6cb-dbcd347e52d3",
+        "id": "1065698646736968458"
+      },
+      "created_at": "2023-07-13T21:27:45.663Z",
+      "resolved_at": null,
+      "message": "Logo is an informative image, i.e. \"Firefox Private\"",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 920,
+          "y": 394
+        }
+      },
+      "order_id": "33"
+    },
+    {
+      "id": "491244469",
+      "uuid": "2bbcfd49-5247-40c9-8ea9-88a024900a39",
+      "file_key": "Ha2T4I0nX0h7B95GYxH6wV",
+      "parent_id": "",
+      "user": {
+        "handle": "Jeff Pfaller",
+        "img_url": "https://s3-alpha.figma.com/profile/8c308117-d327-40e5-9865-42fc6879a8ba",
+        "id": "1083509274597697392"
+      },
+      "created_at": "2023-07-06T19:31:20.857Z",
+      "resolved_at": null,
+      "message": "What if we followed the pattern in the mobile pref here? Move it up to the same level as Search suggestions make \"Turn off suggestions in private browsing\". If the pref is selected, nothing shows. If it is not selected, private follows the standard settings above. Does that make sense? Feels like it would lower cognitive load @Misha Bruk @Nicole Weber",
+      "reactions": [],
+      "client_meta": {
+        "node_id": "1577:52217",
+        "node_offset": {
+          "x": 989,
+          "y": 3458
+        }
+      },
+      "order_id": "28"
+    }
+  ]
+}
