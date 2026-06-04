@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.morgan.meeting-monitor</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/opt/homebrew/bin/python3</string>
+        <string>/Users/morganraereschenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents/Scripts/meeting_monitor.py</string>
+    </array>
+
+    <!-- Run every 60 seconds -->
+    <key>StartInterval</key>
+    <integer>60</integer>
+
+    <!-- Don't fire at load time -->
+    <key>RunAtLoad</key>
+    <false/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/morganraereschenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents/Scripts/meeting_monitor.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/morganraereschenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents/Scripts/meeting_monitor.log</string>
+</dict>
+</plist>

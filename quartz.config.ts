@@ -66,6 +66,7 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
+      Plugin.ObsidianMermaidLinks(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
