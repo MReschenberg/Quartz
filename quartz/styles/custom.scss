@@ -213,3 +213,28 @@ body {
 
   // Article/document title: keep as H1 color (red)
 }
+
+// ── Mermaid diagram node text contrast ──────────────────────────────────────
+// In dark mode, mermaid.inline.ts sets primaryTextColor to --darkgray, which
+// resolves to #ebdbb2 (Gruvbox light cream). The diagram node fills are light
+// pastels, so this produces near-zero contrast (~1.1:1). The fix pins node
+// label text to Gruvbox dark (#282828) in both modes — all six light-pastel
+// node fills yield ≥17:1 against this value (WCAG AAA).
+//
+// Edge labels are deliberately excluded: in dark mode they sit on the dark
+// page background (#282828) and are already legible with the default light
+// primaryTextColor. Targeting .node and .cluster avoids touching them.
+code.mermaid,
+#mermaid-space .mermaid-content {
+  // HTML labels rendered via <foreignObject> (Mermaid v10+)
+  .nodeLabel,
+  .nodeLabel * {
+    color: #282828 !important;
+  }
+
+  // SVG <text> labels in node and subgraph cluster groups
+  .node text,
+  .cluster text {
+    fill: #282828 !important;
+  }
+}
