@@ -1,19 +1,37 @@
-#! /bin/bash
+#!/bin/bash
+#
+# Auto-commit and push the Obsidian vault.
+# Run nightly by the launchd agent ~/Library/LaunchAgents/com.morgan.git-push.plist
+# (launchd runs this on the next wake if the Mac was asleep at the scheduled time).
 
-cd "/Users/morganraereschenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents"
+# launchd gives processes a minimal environment, so set PATH/HOME explicitly.
+export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/bin:/usr/local/bin"
+export HOME="/Users/morganraereschenberg"
 
-# Date in format Day-Month-Year
+VAULT="/Users/morganraereschenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents"
+LOG="$HOME/git_push.log"
+
+log() { echo "$(date '+%Y-%m-%d %H:%M:%S')  $*" >> "$LOG"; }
+
+cd "$VAULT" || { log "ERROR: cannot cd into vault (Full Disk Access for the launchd process?)"; exit 1; }
+
 date=$(date +"%Y-%m-%d %T")
-
-# Commit message
-message="Commit for $date"
 git add -A
-git commit -m"${message}"
-status="$(git status --branch --porcelain)"
-echo $status >> ~/cron_echo.txt
-if [ "$status" == "## master...origin/master" ]; then
-  echo "IT IS CLEAN" >> ~/cron_echo.txt
+
+# Commit only if there is something staged (avoids a noisy non-zero exit on a clean tree).
+if ! git diff --cached --quiet; then
+  git commit -m "Commit for $date" >> "$LOG" 2>&1
+  log "committed changes"
 else
-  echo "There is stuff to push" >> ~/cron_echo.txt
-  git push
+  log "nothing to commit"
+fi
+
+# Push whenever the local branch is ahead of its upstream (branch-name agnostic).
+status="$(git status --branch --porcelain | head -1)"
+log "status: $status"
+if echo "$status" | grep -q "ahead"; then
+  log "pushing..."
+  git push >> "$LOG" 2>&1 && log "push OK" || log "push FAILED (rc=$?)"
+else
+  log "nothing to push"
 fi

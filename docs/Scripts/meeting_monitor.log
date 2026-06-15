@@ -1,3 +1,15 @@
 2026-06-04 14:44:58,916 WARNING Calendar read failed: Command '['osascript', '-e', '\ntell application "Calendar"\n    set today to current date\n    set startOfDay to today - (time of today)\n    set endOfDay to startOfDay + (24 * 60 * 60 - 1)\n    set output to ""\n    repeat with cal in every calendar\n        try\n            set calEvents to (every event of cal whose start date >= startOfDay and start date <= endOfDay)\n            repeat with evt in calEvents\n                set output to output & (summary of evt) & "|" & ((start date of evt) as string) & linefeed\n            end repeat\n        end try\n    end repeat\n    return output\nend tell\n']' timed out after 15 seconds
 2026-06-04 14:45:49,960 WARNING Calendar read failed: Command '['osascript', '-e', '\ntell application "Calendar"\n    set today to current date\n    set startOfDay to today - (time of today)\n    set endOfDay to startOfDay + (24 * 60 * 60 - 1)\n    set output to ""\n    repeat with cal in every calendar\n        try\n            set calEvents to (every event of cal whose start date >= startOfDay and start date <= endOfDay)\n            repeat with evt in calEvents\n                set output to output & (summary of evt) & "|" & ((start date of evt) as string) & linefeed\n            end repeat\n        end try\n    end repeat\n    return output\nend tell\n']' timed out after 15 seconds
 2026-06-04 14:47:43,356 WARNING Calendar read failed: Command '['osascript', '-e', '\ntell application "Calendar"\n    set today to current date\n    set startOfDay to today - (time of today)\n    set endOfDay to startOfDay + (24 * 60 * 60 - 1)\n    set output to ""\n    set cal to first calendar whose name is "Work"\n    set calEvents to (every event of cal whose start date >= startOfDay and start date <= endOfDay)\n    repeat with evt in calEvents\n        set output to output & (summary of evt) & "|" & ((start date of evt) as string) & linefeed\n    end repeat\n    return output\nend tell\n']' timed out after 15 seconds
+2026-06-08 13:52:01,321 INFO Meeting '1:1 with Anna' started but Zoom not running — skipping
+2026-06-08 13:52:47,667 INFO Logged meeting: 1:1 with Anna
+2026-06-08 14:10:52,385 INFO Logged meeting: morgan x morgan 1:1
+2026-06-09 11:16:44,473 INFO Logged meeting: Review Prioritisation Discussion
+2026-06-09 15:00:10,127 INFO Logged meeting: Review Reducting Strategy
+2026-06-10 14:05:44,178 INFO Logged meeting: Morgan / Natalie 1:1
+2026-06-10 15:01:58,531 INFO Meeting 'Accessibility team meeting' started but Zoom not running — skipping
+2026-06-10 15:04:17,107 INFO Logged meeting: Accessibility team meeting
+2026-06-11 09:01:27,012 WARNING No day entry found for 2026-06-11 in /Users/morganraereschenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents/Work/2026/Q2/Week 24/2026-W24.md
+2026-06-11 11:01:50,398 INFO Meeting 'New Event' started but Zoom not running — skipping
+2026-06-11 15:00:53,776 INFO Logged meeting: Morgan - Jamie 1:1
+2026-06-12 09:00:44,609 INFO Logged meeting: Accessibility Reviews - Project Check-in

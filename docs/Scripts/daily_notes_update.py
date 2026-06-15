@@ -443,7 +443,10 @@ def insert_items_into_section(lines, header, items, day_start, day_end):
         if not item_urls or not item_urls.intersection(existing_urls):
             new.append(f"- {item}")
     if not new: return lines, 0
-    lines[content_end:content_end] = new
+    # Rebuild the section body: keep real bullets, drop empty "- " placeholders,
+    # append the new items, and end with a single blank-line separator.
+    real = [l for l in lines[hdr_idx + 1:content_end] if l.strip() and l.strip() != '-']
+    lines[hdr_idx + 1:content_end] = real + new + ['']
     return lines, len(new)
 
 def ensure_section_exists(lines, section_header, subsections, before_header, day_start, day_end):
@@ -518,6 +521,22 @@ if not phab_section_exists:
              '#### Phab Viewed', '- ', '']
     lines[ins:ins] = block
     day_end = find_next_h2(lines, day_idx)
+
+# Ensure Phab subsections exist even when ### Phab Revisions Touched is already present
+# (the day template defines the parent header but not the #### subsections)
+phab_posted_exists = any(lines[i].strip() == '#### Phab Posted/Updated' for i in range(day_idx, day_end))
+if not phab_posted_exists:
+    for i in range(day_idx, day_end):
+        if lines[i].strip() == '### Phab Revisions Touched':
+            end = i + 1
+            while end < day_end and not (lines[end].startswith('####') or lines[end].startswith('###') or lines[end].startswith('## ')):
+                end += 1
+            block = ['#### Phab Posted/Updated', '- ', '',
+                     '#### Phab Reviewed', '- ', '',
+                     '#### Phab Viewed', '- ', '']
+            lines[end:end] = block
+            day_end = find_next_h2(lines, day_idx)
+            break
 
 # Insert content
 lines, n = insert_items_into_section(lines, '#### Bugs Modified or Created', bz_interacted, day_idx, day_end)

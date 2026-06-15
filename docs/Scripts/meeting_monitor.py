@@ -13,7 +13,7 @@ from datetime import date, datetime, time as dtime
 VAULT = os.path.expanduser("~/Library/Mobile Documents/iCloud~md~obsidian/Documents")
 STATE_FILE = os.path.join(VAULT, "Scripts", "meeting_monitor_state.json")
 LOG_FILE   = os.path.join(VAULT, "Scripts", "meeting_monitor.log")
-ZOOM_WINDOW_SECS = 5 * 60
+ZOOM_WINDOW_SECS = 10 * 60
 
 logging.basicConfig(
     level=logging.INFO,
@@ -106,12 +106,19 @@ def get_today_events():
 # ── Zoom detection ─────────────────────────────────────────────────────────────
 
 def is_zoom_in_meeting():
-    """True only when ZoomHybridConf is running, i.e. actively in a meeting."""
-    try:
-        r = subprocess.run(['pgrep', 'ZoomHybridConf'], capture_output=True)
-        return r.returncode == 0
-    except Exception:
-        return False
+    """True only when ZoomHybridConf is running, i.e. actively in a meeting.
+    Retries for up to ~10s to handle the race where WatchPaths fires just before
+    ZoomHybridConf finishes spawning."""
+    import time
+    for _ in range(5):
+        try:
+            r = subprocess.run(['pgrep', 'ZoomHybridConf'], capture_output=True)
+            if r.returncode == 0:
+                return True
+        except Exception:
+            pass
+        time.sleep(2)
+    return False
 
 
 # ── State ──────────────────────────────────────────────────────────────────────

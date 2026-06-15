@@ -25,9 +25,11 @@
         <string>/Users/morganraereschenberg/Library/Application Support/zoom.us/data/chatcf/f9di6hsdr7i3uk8cboboiq@xmpp.zoom.us/meet</string>
     </array>
 
+    <!-- launchd can't write to iCloud Drive paths; use /tmp for its own stdout/stderr.
+         The script's Python logger still writes to the vault log independently. -->
     <key>StandardOutPath</key>
-    <string>/Users/morganraereschenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents/Scripts/meeting_monitor.log</string>
+    <string>/tmp/meeting_monitor_launchd.log</string>
     <key>StandardErrorPath</key>
-    <string>/Users/morganraereschenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents/Scripts/meeting_monitor.log</string>
+    <string>/tmp/meeting_monitor_launchd.log</string>
 </dict>
 </plist>

@@ -1,0 +1,807 @@
+2026-06-10 21:24:30,275 INFO Found 18 summaries total on the hub
+2026-06-10 21:24:30,276 INFO 9 are from 2026
+2026-06-10 21:24:30,351 INFO [dry] would create /Users/morganraereschenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents/Work/2026/Q1/Week 8 and move 2026-W08.md into it
+2026-06-10 21:24:37,189 INFO [dry] would save Week 8/Morgan - Natalie 1-1.md (W08, 4400 chars)
+2026-06-10 21:24:37,190 INFO [dry] would create /Users/morganraereschenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents/Work/2026/Q1/Week 8 and move 2026-W08.md into it
+2026-06-10 21:24:44,000 INFO [dry] would save Week 8/[Check-in] Natalie Performance III.md (W08, 3865 chars)
+2026-06-10 21:24:44,001 INFO [dry] would create /Users/morganraereschenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents/Work/2026/Q1/Week 9 and move 2026-W09.md into it
+2026-06-10 21:24:50,813 INFO [dry] would save Week 9/Morgan - Natalie 1-1.md (W09, 4725 chars)
+2026-06-10 21:24:50,814 INFO [dry] would create /Users/morganraereschenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents/Work/2026/Q1/Week 9 and move 2026-W09.md into it
+2026-06-10 21:24:57,640 INFO [dry] would save Week 9/Accessibility Reviews - Project Check-in.md (W09, 3884 chars)
+2026-06-10 21:24:57,641 INFO [dry] would create /Users/morganraereschenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents/Work/2026/Q1/Week 10 and move 2026-W10.md into it
+2026-06-10 21:25:04,522 INFO [dry] would save Week 10/Review Prioritisation Discussion.md (W10, 5721 chars)
+2026-06-10 21:25:04,525 INFO SKIP (already done): [Check-in] Natalie Performance VI [2026-06-02] -> Week 23/[Check-in] Natalie Performance VI.md
+2026-06-10 21:25:10,734 INFO [dry] would save Week 23/Morgan - Natalie 1-1.md (W23, 16304 chars)
+2026-06-10 21:25:17,530 INFO [dry] would save Week 23/Google Calendar Meeting (not synced).md (W23, 380 chars)
+2026-06-10 21:25:24,344 INFO [dry] would save Week 23/Accessibility Reviews - Project Check-in.md (W23, 9677 chars)
+2026-06-10 21:25:53,592 INFO Found 18 summaries total on the hub
+2026-06-10 21:25:53,593 INFO 9 are from 2026
+2026-06-10 21:25:53,665 INFO Created Week 8/ and moved 2026-W08.md in
+2026-06-10 21:25:59,857 INFO SAVED: Week 8/[Check-in] Natalie Performance III.md (W08)
+2026-06-10 21:26:06,688 INFO SAVED: Week 8/Morgan - Natalie 1-1.md (W08)
+2026-06-10 21:26:06,689 INFO Created Week 9/ and moved 2026-W09.md in
+2026-06-10 21:26:12,898 INFO SAVED: Week 9/Morgan - Natalie 1-1.md (W09)
+2026-06-10 21:26:19,071 INFO SAVED: Week 9/Accessibility Reviews - Project Check-in.md (W09)
+2026-06-10 21:26:19,071 INFO Created Week 10/ and moved 2026-W10.md in
+2026-06-10 21:26:25,264 INFO SAVED: Week 10/Review Prioritisation Discussion.md (W10)
+2026-06-10 21:26:25,267 INFO SKIP (already done): [Check-in] Natalie Performance VI [2026-06-02] -> Week 23/[Check-in] Natalie Performance VI.md
+2026-06-10 21:26:32,098 INFO SAVED: Week 23/Google Calendar Meeting (not synced).md (W23)
+2026-06-10 21:26:38,285 INFO SAVED: Week 23/Morgan - Natalie 1-1.md (W23)
+2026-06-10 21:26:45,126 INFO SAVED: Week 23/Accessibility Reviews - Project Check-in.md (W23)
+2026-06-10 21:51:36,430 INFO 9 summaries already on disk for 2026
+2026-06-10 21:51:43,100 INFO Enumerated 194 meetings in 2026
+2026-06-10 21:51:51,613 INFO 137 summaries found | 133 accessible | 4 inaccessible
+2026-06-10 21:51:51,681 INFO [dry] create Work/2026/Q1/Week 2 + move 2026-W02.md in
+2026-06-10 21:51:51,681 INFO [dry] (1/133) W02 Work/2026/Q1/Week 2/Morgan - Anna 1-1 (2026-01-07).md
+2026-06-10 21:51:51,681 INFO [dry] create Work/2026/Q1/Week 2 + move 2026-W02.md in
+2026-06-10 21:51:51,681 INFO [dry] (2/133) W02 Work/2026/Q1/Week 2/UX + A11y Sync (2026-01-07).md
+2026-06-10 21:51:51,682 INFO [dry] create Work/2026/Q1/Week 2 + move 2026-W02.md in
+2026-06-10 21:51:51,682 INFO [dry] (3/133) W02 Work/2026/Q1/Week 2/Accessibility Reviews - Project Check-in (2026-01-08).md
+2026-06-10 21:51:51,682 INFO [dry] create Work/2026/Q1/Week 2 + move 2026-W02.md in
+2026-06-10 21:51:51,682 INFO [dry] (4/133) W02 Work/2026/Q1/Week 2/Accessibility Reviews - Project Check-in (2026-01-09).md
+2026-06-10 21:51:51,682 INFO [dry] create Work/2026/Q1/Week 3 + move 2026-W03.md in
+2026-06-10 21:51:51,682 INFO [dry] (5/133) W03 Work/2026/Q1/Week 3/Anna's Career Discussion (2026-01-13).md
+2026-06-10 21:51:51,682 INFO [dry] create Work/2026/Q1/Week 3 + move 2026-W03.md in
+2026-06-10 21:51:51,682 INFO [dry] (6/133) W03 Work/2026/Q1/Week 3/Accessibility Reviews - Project Check-in (2026-01-15).md
+2026-06-10 21:51:51,683 INFO [dry] create Work/2026/Q1/Week 3 + move 2026-W03.md in
+2026-06-10 21:51:51,683 INFO [dry] (7/133) W03 Work/2026/Q1/Week 3/Accessibility Reviews - Project Check-in (2026-01-16).md
+2026-06-10 21:51:51,683 INFO [dry] create Work/2026/Q1/Week 4 + move 2026-W04.md in
+2026-06-10 21:51:51,683 INFO [dry] (8/133) W04 Work/2026/Q1/Week 4/Accessibility team meeting (2026-01-21).md
+2026-06-10 21:51:51,683 INFO [dry] create Work/2026/Q1/Week 4 + move 2026-W04.md in
+2026-06-10 21:51:51,683 INFO [dry] (9/133) W04 Work/2026/Q1/Week 4/Morgan - Anna 1-1 (2026-01-21).md
+2026-06-10 21:51:51,684 INFO [dry] create Work/2026/Q1/Week 4 + move 2026-W04.md in
+2026-06-10 21:51:51,684 INFO [dry] (10/133) W04 Work/2026/Q1/Week 4/Accessibility Reviews - Project Check-in (2026-01-22).md
+2026-06-10 21:51:51,684 INFO [dry] create Work/2026/Q1/Week 4 + move 2026-W04.md in
+2026-06-10 21:51:51,684 INFO [dry] (11/133) W04 Work/2026/Q1/Week 4/Accessibility Reviews - Project Check-in (2026-01-23).md
+2026-06-10 21:51:51,684 INFO [dry] create Work/2026/Q1/Week 4 + move 2026-W04.md in
+2026-06-10 21:51:51,684 INFO [dry] (12/133) W04 Work/2026/Q1/Week 4/Accessibility Reviews - Project Check-in (2026-01-23) (2).md
+2026-06-10 21:51:51,684 INFO [dry] create Work/2026/Q1/Week 5 + move 2026-W05.md in
+2026-06-10 21:51:51,684 INFO [dry] (13/133) W05 Work/2026/Q1/Week 5/Google Calendar Meeting (not synced) (2026-01-27).md
+2026-06-10 21:51:51,685 INFO [dry] create Work/2026/Q1/Week 5 + move 2026-W05.md in
+2026-06-10 21:51:51,685 INFO [dry] (14/133) W05 Work/2026/Q1/Week 5/UX + A11y Sync (2026-01-28).md
+2026-06-10 21:51:51,685 INFO [dry] create Work/2026/Q1/Week 5 + move 2026-W05.md in
+2026-06-10 21:51:51,685 INFO [dry] (15/133) W05 Work/2026/Q1/Week 5/Accessibility Reviews - Project Check-in (2026-01-29).md
+2026-06-10 21:51:51,685 INFO [dry] create Work/2026/Q1/Week 5 + move 2026-W05.md in
+2026-06-10 21:51:51,685 INFO [dry] (16/133) W05 Work/2026/Q1/Week 5/Morgan - Natalie 1-1 (extended version) (2026-01-29).md
+2026-06-10 21:51:51,685 INFO [dry] create Work/2026/Q1/Week 5 + move 2026-W05.md in
+2026-06-10 21:51:51,685 INFO [dry] (17/133) W05 Work/2026/Q1/Week 5/Accessibility Reviews - Project Check-in (2026-01-30).md
+2026-06-10 21:51:51,686 INFO [dry] create Work/2026/Q1/Week 5 + move 2026-W05.md in
+2026-06-10 21:51:51,686 INFO [dry] (18/133) W05 Work/2026/Q1/Week 5/Morgan - Anna work week check in (2026-01-30).md
+2026-06-10 21:51:51,686 INFO [dry] create Work/2026/Q1/Week 6 + move 2026-W06.md in
+2026-06-10 21:51:51,686 INFO [dry] (19/133) W06 Work/2026/Q1/Week 6/Accessibility team meeting (2026-02-04).md
+2026-06-10 21:51:51,686 INFO [dry] create Work/2026/Q1/Week 7 + move 2026-W07.md in
+2026-06-10 21:51:51,686 INFO [dry] (20/133) W07 Work/2026/Q1/Week 7/2026 H2 - A11y Contractor Discussion (2026-02-10).md
+2026-06-10 21:51:51,687 INFO [dry] create Work/2026/Q1/Week 7 + move 2026-W07.md in
+2026-06-10 21:51:51,687 INFO [dry] (21/133) W07 Work/2026/Q1/Week 7/Accessibility Reviews - Project Check-in (2026-02-12).md
+2026-06-10 21:51:51,687 INFO [dry] create Work/2026/Q1/Week 7 + move 2026-W07.md in
+2026-06-10 21:51:51,687 INFO [dry] (22/133) W07 Work/2026/Q1/Week 7/Accessibility Reviews - Project Check-in (2026-02-13).md
+2026-06-10 21:51:51,687 INFO [dry] (23/133) W08 Work/2026/Q1/Week 8/Accessibility team meeting (2026-02-18).md
+2026-06-10 21:51:51,687 INFO [dry] (24/133) W08 Work/2026/Q1/Week 8/Morgan - Anna 1-1 (2026-02-18).md
+2026-06-10 21:51:51,688 INFO [dry] (25/133) W08 Work/2026/Q1/Week 8/Morgan - Natalie 1-1 (2026-02-18).md
+2026-06-10 21:51:51,688 INFO [dry] (26/133) W08 Work/2026/Q1/Week 8/UX + A11y Sync (2026-02-18).md
+2026-06-10 21:51:51,688 INFO [dry] (27/133) W08 Work/2026/Q1/Week 8/[Check-in] Natalie Performance III (2026-02-18).md
+2026-06-10 21:51:51,688 INFO [dry] (28/133) W08 Work/2026/Q1/Week 8/Accessibility Reviews - Project Check-in (2026-02-19).md
+2026-06-10 21:51:51,689 INFO [dry] (29/133) W08 Work/2026/Q1/Week 8/Accessibility Reviews - Project Check-in (2026-02-20).md
+2026-06-10 21:51:51,689 INFO [dry] (30/133) W08 Work/2026/Q1/Week 8/Accessibility Reviews - Project Check-in (2026-02-20) (2).md
+2026-06-10 21:51:51,689 INFO [dry] (31/133) W09 Work/2026/Q1/Week 9/Review Prioritisation Discussion (2026-02-24).md
+2026-06-10 21:51:51,689 INFO [dry] (32/133) W09 Work/2026/Q1/Week 9/Morgan - Natalie 1-1 (2026-02-25).md
+2026-06-10 21:51:51,689 INFO [dry] (33/133) W09 Work/2026/Q1/Week 9/Morgan - Natalie 1-1 (2026-02-25) (2).md
+2026-06-10 21:51:51,690 INFO [dry] (34/133) W09 Work/2026/Q1/Week 9/[Check-in] Natalie Performance III, pt.2 (2026-02-25).md
+2026-06-10 21:51:51,690 INFO [dry] (35/133) W09 Work/2026/Q1/Week 9/Accessibility Reviews - Project Check-in (2026-02-26).md
+2026-06-10 21:51:51,690 INFO [dry] (36/133) W09 Work/2026/Q1/Week 9/Accessibility Reviews - Project Check-in (2026-02-27).md
+2026-06-10 21:51:51,690 INFO [dry] (37/133) W10 Work/2026/Q1/Week 10/Morgan - Anna 1-1 (2026-03-02).md
+2026-06-10 21:51:51,691 INFO [dry] (38/133) W10 Work/2026/Q1/Week 10/Review Prioritisation Discussion (2026-03-03).md
+2026-06-10 21:51:51,691 INFO [dry] (39/133) W10 Work/2026/Q1/Week 10/Accessibility team meeting (2026-03-04).md
+2026-06-10 21:51:51,691 INFO [dry] (40/133) W10 Work/2026/Q1/Week 10/Morgan - Natalie 1-1 (2026-03-04).md
+2026-06-10 21:51:51,691 INFO [dry] (41/133) W10 Work/2026/Q1/Week 10/Accessibility Reviews - Project Check-in (2026-03-05).md
+2026-06-10 21:51:51,692 INFO [dry] create Work/2026/Q1/Week 11 + move 2026-W11.md in
+2026-06-10 21:51:51,692 INFO [dry] (42/133) W11 Work/2026/Q1/Week 11/Morgan - Anna 1-1 (2026-03-09).md
+2026-06-10 21:51:51,692 INFO [dry] create Work/2026/Q1/Week 11 + move 2026-W11.md in
+2026-06-10 21:51:51,692 INFO [dry] (43/133) W11 Work/2026/Q1/Week 11/Review Prioritisation Discussion (2026-03-10).md
+2026-06-10 21:51:51,692 INFO [dry] create Work/2026/Q1/Week 11 + move 2026-W11.md in
+2026-06-10 21:51:51,692 INFO [dry] (44/133) W11 Work/2026/Q1/Week 11/A11y bugs dashboard discussion (2026-03-11).md
+2026-06-10 21:51:51,693 INFO [dry] create Work/2026/Q1/Week 11 + move 2026-W11.md in
+2026-06-10 21:51:51,693 INFO [dry] (45/133) W11 Work/2026/Q1/Week 11/Morgan - Natalie 1-1 (2026-03-11).md
+2026-06-10 21:51:51,693 INFO [dry] create Work/2026/Q1/Week 11 + move 2026-W11.md in
+2026-06-10 21:51:51,693 INFO [dry] (46/133) W11 Work/2026/Q1/Week 11/UX + A11y Sync (2026-03-11).md
+2026-06-10 21:51:51,693 INFO [dry] create Work/2026/Q1/Week 11 + move 2026-W11.md in
+2026-06-10 21:51:51,693 INFO [dry] (47/133) W11 Work/2026/Q1/Week 11/Accessibility Reviews - Project Check-in (2026-03-12).md
+2026-06-10 21:51:51,693 INFO [dry] create Work/2026/Q1/Week 11 + move 2026-W11.md in
+2026-06-10 21:51:51,693 INFO [dry] (48/133) W11 Work/2026/Q1/Week 11/Accessibility Reviews - Project Check-in (2026-03-13).md
+2026-06-10 21:51:51,694 INFO [dry] create Work/2026/Q1/Week 11 + move 2026-W11.md in
+2026-06-10 21:51:51,694 INFO [dry] (49/133) W11 Work/2026/Q1/Week 11/Accessibility Reviews - Project Check-in (2026-03-13) (2).md
+2026-06-10 21:51:51,694 INFO [dry] create Work/2026/Q1/Week 12 + move 2026-W12.md in
+2026-06-10 21:51:51,694 INFO [dry] (50/133) W12 Work/2026/Q1/Week 12/Morgan - Anna 1-1 (2026-03-16).md
+2026-06-10 21:51:51,694 INFO [dry] create Work/2026/Q1/Week 12 + move 2026-W12.md in
+2026-06-10 21:51:51,694 INFO [dry] (51/133) W12 Work/2026/Q1/Week 12/Accessibility team meeting (2026-03-17).md
+2026-06-10 21:51:51,694 INFO [dry] create Work/2026/Q1/Week 12 + move 2026-W12.md in
+2026-06-10 21:51:51,694 INFO [dry] (52/133) W12 Work/2026/Q1/Week 12/Review Prioritisation Discussion (2026-03-17).md
+2026-06-10 21:51:51,694 INFO [dry] create Work/2026/Q1/Week 12 + move 2026-W12.md in
+2026-06-10 21:51:51,695 INFO [dry] (53/133) W12 Work/2026/Q1/Week 12/Accessibility team meeting (2026-03-18).md
+2026-06-10 21:51:51,695 INFO [dry] create Work/2026/Q1/Week 12 + move 2026-W12.md in
+2026-06-10 21:51:51,695 INFO [dry] (54/133) W12 Work/2026/Q1/Week 12/Morgan - Natalie 1-1 (2026-03-18).md
+2026-06-10 21:51:51,695 INFO [dry] create Work/2026/Q1/Week 12 + move 2026-W12.md in
+2026-06-10 21:51:51,695 INFO [dry] (55/133) W12 Work/2026/Q1/Week 12/Accessibility Reviews - Project Check-in (2026-03-19).md
+2026-06-10 21:51:51,695 INFO [dry] create Work/2026/Q1/Week 12 + move 2026-W12.md in
+2026-06-10 21:51:51,695 INFO [dry] (56/133) W12 Work/2026/Q1/Week 12/Accessibility Reviews - Project Check-in (2026-03-20).md
+2026-06-10 21:51:51,696 INFO [dry] create Work/2026/Q1/Week 13 + move 2026-W13.md in
+2026-06-10 21:51:51,696 INFO [dry] (57/133) W13 Work/2026/Q1/Week 13/Morgan - Anna 1-1 (2026-03-23).md
+2026-06-10 21:51:51,696 INFO [dry] create Work/2026/Q1/Week 13 + move 2026-W13.md in
+2026-06-10 21:51:51,696 INFO [dry] (58/133) W13 Work/2026/Q1/Week 13/Review Prioritisation Discussion (2026-03-24).md
+2026-06-10 21:51:51,696 INFO [dry] create Work/2026/Q1/Week 13 + move 2026-W13.md in
+2026-06-10 21:51:51,696 INFO [dry] (59/133) W13 Work/2026/Q1/Week 13/[Check-in] Natalie Performance IV (2026-03-24).md
+2026-06-10 21:51:51,696 INFO [dry] create Work/2026/Q1/Week 13 + move 2026-W13.md in
+2026-06-10 21:51:51,696 INFO [dry] (60/133) W13 Work/2026/Q1/Week 13/Morgan - Natalie 1-1 (2026-03-25).md
+2026-06-10 21:51:51,697 INFO [dry] create Work/2026/Q1/Week 13 + move 2026-W13.md in
+2026-06-10 21:51:51,697 INFO [dry] (61/133) W13 Work/2026/Q1/Week 13/Accessibility Reviews - Project Check-in (2026-03-26).md
+2026-06-10 21:51:51,697 INFO [dry] create Work/2026/Q1/Week 13 + move 2026-W13.md in
+2026-06-10 21:51:51,697 INFO [dry] (62/133) W13 Work/2026/Q1/Week 13/Accessibility Reviews - Project Check-in (2026-03-27).md
+2026-06-10 21:51:51,697 INFO [dry] create Work/2026/Q1/Week 14 + move 2026-W14.md in
+2026-06-10 21:51:51,697 INFO [dry] (63/133) W14 Work/2026/Q1/Week 14/Review Prioritisation Discussion (2026-03-31).md
+2026-06-10 21:51:51,698 INFO [dry] create Work/2026/Q1/Week 14 + move 2026-W14.md in
+2026-06-10 21:51:51,698 INFO [dry] (64/133) W14 Work/2026/Q1/Week 14/Accessibility team meeting (2026-04-01).md
+2026-06-10 21:51:51,698 INFO [dry] create Work/2026/Q1/Week 14 + move 2026-W14.md in
+2026-06-10 21:51:51,698 INFO [dry] (65/133) W14 Work/2026/Q1/Week 14/UX + A11y Sync (2026-04-01).md
+2026-06-10 21:51:51,698 INFO [dry] create Work/2026/Q1/Week 14 + move 2026-W14.md in
+2026-06-10 21:51:51,698 INFO [dry] (66/133) W14 Work/2026/Q1/Week 14/Morgan - Natalie 1-1 (2026-04-03).md
+2026-06-10 21:51:51,699 INFO [dry] create Work/2026/Q2/Week 15 + move 2026-W15.md in
+2026-06-10 21:51:51,699 INFO [dry] (67/133) W15 Work/2026/Q2/Week 15/Review Prioritisation Discussion (2026-04-07).md
+2026-06-10 21:51:51,699 INFO [dry] create Work/2026/Q2/Week 15 + move 2026-W15.md in
+2026-06-10 21:51:51,699 INFO [dry] (68/133) W15 Work/2026/Q2/Week 15/Accessibility Reviews - Project Check-in (2026-04-09).md
+2026-06-10 21:51:51,699 INFO [dry] create Work/2026/Q2/Week 15 + move 2026-W15.md in
+2026-06-10 21:51:51,699 INFO [dry] (69/133) W15 Work/2026/Q2/Week 15/Accessibility Reviews - Project Check-in (2026-04-10).md
+2026-06-10 21:51:51,700 INFO [dry] create Work/2026/Q2/Week 16 + move 2026-W16.md in
+2026-06-10 21:51:51,700 INFO [dry] (70/133) W16 Work/2026/Q2/Week 16/Morgan - Anna 1-1 (2026-04-13).md
+2026-06-10 21:51:51,700 INFO [dry] create Work/2026/Q2/Week 16 + move 2026-W16.md in
+2026-06-10 21:51:51,700 INFO [dry] (71/133) W16 Work/2026/Q2/Week 16/Review Prioritisation Discussion (2026-04-14).md
+2026-06-10 21:51:51,700 INFO [dry] create Work/2026/Q2/Week 16 + move 2026-W16.md in
+2026-06-10 21:51:51,700 INFO [dry] (72/133) W16 Work/2026/Q2/Week 16/Accessibility team meeting (2026-04-15).md
+2026-06-10 21:51:51,700 INFO [dry] create Work/2026/Q2/Week 16 + move 2026-W16.md in
+2026-06-10 21:51:51,700 INFO [dry] (73/133) W16 Work/2026/Q2/Week 16/Morgan - Natalie 1-1 (2026-04-15).md
+2026-06-10 21:51:51,700 INFO [dry] create Work/2026/Q2/Week 16 + move 2026-W16.md in
+2026-06-10 21:51:51,700 INFO [dry] (74/133) W16 Work/2026/Q2/Week 16/Accessibility Reviews - Project Check-in (2026-04-16).md
+2026-06-10 21:51:51,701 INFO [dry] create Work/2026/Q2/Week 16 + move 2026-W16.md in
+2026-06-10 21:51:51,701 INFO [dry] (75/133) W16 Work/2026/Q2/Week 16/Accessibility Reviews - Project Check-in (2026-04-17).md
+2026-06-10 21:51:51,701 INFO [dry] create Work/2026/Q2/Week 16 + move 2026-W16.md in
+2026-06-10 21:51:51,701 INFO [dry] (76/133) W16 Work/2026/Q2/Week 16/Accessibility Reviews - Project Check-in (2026-04-17) (2).md
+2026-06-10 21:51:51,702 INFO [dry] create Work/2026/Q2/Week 17 + move 2026-W17.md in
+2026-06-10 21:51:51,702 INFO [dry] (77/133) W17 Work/2026/Q2/Week 17/Morgan - Anna 1-1 (2026-04-20).md
+2026-06-10 21:51:51,702 INFO [dry] create Work/2026/Q2/Week 17 + move 2026-W17.md in
+2026-06-10 21:51:51,702 INFO [dry] (78/133) W17 Work/2026/Q2/Week 17/Review Prioritisation Discussion (2026-04-21).md
+2026-06-10 21:51:51,702 INFO [dry] create Work/2026/Q2/Week 17 + move 2026-W17.md in
+2026-06-10 21:51:51,702 INFO [dry] (79/133) W17 Work/2026/Q2/Week 17/Morgan - Frank 1-1 - Quarterly Check-in (2026-04-22).md
+2026-06-10 21:51:51,703 INFO [dry] create Work/2026/Q2/Week 17 + move 2026-W17.md in
+2026-06-10 21:51:51,703 INFO [dry] (80/133) W17 Work/2026/Q2/Week 17/Morgan - Natalie 1-1 (2026-04-22).md
+2026-06-10 21:51:51,703 INFO [dry] create Work/2026/Q2/Week 17 + move 2026-W17.md in
+2026-06-10 21:51:51,703 INFO [dry] (81/133) W17 Work/2026/Q2/Week 17/UX + A11y Sync (2026-04-22).md
+2026-06-10 21:51:51,703 INFO [dry] create Work/2026/Q2/Week 17 + move 2026-W17.md in
+2026-06-10 21:51:51,703 INFO [dry] (82/133) W17 Work/2026/Q2/Week 17/Accessibility Reviews - Project Check-in (2026-04-23).md
+2026-06-10 21:51:51,703 INFO [dry] create Work/2026/Q2/Week 17 + move 2026-W17.md in
+2026-06-10 21:51:51,703 INFO [dry] (83/133) W17 Work/2026/Q2/Week 17/Accessibility Reviews - Project Check-in (2026-04-24).md
+2026-06-10 21:51:51,704 INFO [dry] create Work/2026/Q2/Week 18 + move 2026-W18.md in
+2026-06-10 21:51:51,704 INFO [dry] (84/133) W18 Work/2026/Q2/Week 18/Morgan - Anna 1-1 (2026-04-27).md
+2026-06-10 21:51:51,704 INFO [dry] create Work/2026/Q2/Week 18 + move 2026-W18.md in
+2026-06-10 21:51:51,704 INFO [dry] (85/133) W18 Work/2026/Q2/Week 18/Review Prioritisation Discussion (2026-04-28).md
+2026-06-10 21:51:51,704 INFO [dry] create Work/2026/Q2/Week 18 + move 2026-W18.md in
+2026-06-10 21:51:51,705 INFO [dry] (86/133) W18 Work/2026/Q2/Week 18/Accessibility team meeting (2026-04-29).md
+2026-06-10 21:51:51,705 INFO [dry] create Work/2026/Q2/Week 18 + move 2026-W18.md in
+2026-06-10 21:51:51,705 INFO [dry] (87/133) W18 Work/2026/Q2/Week 18/Morgan - Frank hiring chat (2026-04-29).md
+2026-06-10 21:51:51,705 INFO [dry] create Work/2026/Q2/Week 18 + move 2026-W18.md in
+2026-06-10 21:51:51,705 INFO [dry] (88/133) W18 Work/2026/Q2/Week 18/Morgan - Natalie 1-1 (2026-04-29).md
+2026-06-10 21:51:51,705 INFO [dry] create Work/2026/Q2/Week 18 + move 2026-W18.md in
+2026-06-10 21:51:51,705 INFO [dry] (89/133) W18 Work/2026/Q2/Week 18/Accessibility Reviews - Project Check-in (2026-04-30).md
+2026-06-10 21:51:51,705 INFO [dry] create Work/2026/Q2/Week 18 + move 2026-W18.md in
+2026-06-10 21:51:51,705 INFO [dry] (90/133) W18 Work/2026/Q2/Week 18/Accessibility Reviews - Project Check-in (2026-05-01).md
+2026-06-10 21:51:51,706 INFO [dry] create Work/2026/Q2/Week 19 + move 2026-W19.md in
+2026-06-10 21:51:51,706 INFO [dry] (91/133) W19 Work/2026/Q2/Week 19/Morgan - Anna 1-1 (2026-05-04).md
+2026-06-10 21:51:51,706 INFO [dry] create Work/2026/Q2/Week 19 + move 2026-W19.md in
+2026-06-10 21:51:51,706 INFO [dry] (92/133) W19 Work/2026/Q2/Week 19/General A11y Reviews Management (2026-05-05).md
+2026-06-10 21:51:51,707 INFO [dry] create Work/2026/Q2/Week 19 + move 2026-W19.md in
+2026-06-10 21:51:51,707 INFO [dry] (93/133) W19 Work/2026/Q2/Week 19/Review Prioritisation Discussion (2026-05-05).md
+2026-06-10 21:51:51,707 INFO [dry] create Work/2026/Q2/Week 19 + move 2026-W19.md in
+2026-06-10 21:51:51,707 INFO [dry] (94/133) W19 Work/2026/Q2/Week 19/Google Calendar Meeting (not synced) (2026-05-06).md
+2026-06-10 21:51:51,707 INFO [dry] create Work/2026/Q2/Week 19 + move 2026-W19.md in
+2026-06-10 21:51:51,707 INFO [dry] (95/133) W19 Work/2026/Q2/Week 19/Morgan - Natalie 1-1 (2026-05-06).md
+2026-06-10 21:51:51,707 INFO [dry] create Work/2026/Q2/Week 19 + move 2026-W19.md in
+2026-06-10 21:51:51,707 INFO [dry] (96/133) W19 Work/2026/Q2/Week 19/Accessibility Reviews - Project Check-in (2026-05-07).md
+2026-06-10 21:51:51,708 INFO [dry] create Work/2026/Q2/Week 19 + move 2026-W19.md in
+2026-06-10 21:51:51,708 INFO [dry] (97/133) W19 Work/2026/Q2/Week 19/Google Calendar Meeting (not synced) (2026-05-07).md
+2026-06-10 21:51:51,708 INFO [dry] create Work/2026/Q2/Week 19 + move 2026-W19.md in
+2026-06-10 21:51:51,708 INFO [dry] (98/133) W19 Work/2026/Q2/Week 19/Accessibility Reviews - Project Check-in (2026-05-08).md
+2026-06-10 21:51:51,708 INFO [dry] create Work/2026/Q2/Week 20 + move 2026-W20.md in
+2026-06-10 21:51:51,709 INFO [dry] (99/133) W20 Work/2026/Q2/Week 20/Morgan - Anna 1-1 (2026-05-11).md
+2026-06-10 21:51:51,709 INFO [dry] create Work/2026/Q2/Week 20 + move 2026-W20.md in
+2026-06-10 21:51:51,709 INFO [dry] (100/133) W20 Work/2026/Q2/Week 20/Review Quality Assessment Strategising (2026-05-11).md
+2026-06-10 21:51:51,709 INFO [dry] create Work/2026/Q2/Week 20 + move 2026-W20.md in
+2026-06-10 21:51:51,709 INFO [dry] (101/133) W20 Work/2026/Q2/Week 20/a11y-ai review tools precheck (2026-05-11).md
+2026-06-10 21:51:51,709 INFO [dry] create Work/2026/Q2/Week 20 + move 2026-W20.md in
+2026-06-10 21:51:51,709 INFO [dry] (102/133) W20 Work/2026/Q2/Week 20/Review Prioritisation Discussion (2026-05-12).md
+2026-06-10 21:51:51,709 INFO [dry] create Work/2026/Q2/Week 20 + move 2026-W20.md in
+2026-06-10 21:51:51,709 INFO [dry] (103/133) W20 Work/2026/Q2/Week 20/Accessibility team meeting (2026-05-13).md
+2026-06-10 21:51:51,710 INFO [dry] create Work/2026/Q2/Week 20 + move 2026-W20.md in
+2026-06-10 21:51:51,710 INFO [dry] (104/133) W20 Work/2026/Q2/Week 20/Morgan - Natalie 1-1 (2026-05-13).md
+2026-06-10 21:51:51,710 INFO [dry] create Work/2026/Q2/Week 20 + move 2026-W20.md in
+2026-06-10 21:51:51,710 INFO [dry] (105/133) W20 Work/2026/Q2/Week 20/UX + A11y Sync (2026-05-13).md
+2026-06-10 21:51:51,710 INFO [dry] create Work/2026/Q2/Week 20 + move 2026-W20.md in
+2026-06-10 21:51:51,710 INFO [dry] (106/133) W20 Work/2026/Q2/Week 20/Accessibility Reviews - Project Check-in (2026-05-14).md
+2026-06-10 21:51:51,711 INFO [dry] create Work/2026/Q2/Week 21 + move 2026-W21.md in
+2026-06-10 21:51:51,711 INFO [dry] (107/133) W21 Work/2026/Q2/Week 21/Morgan - Anna 1-1 (2026-05-18).md
+2026-06-10 21:51:51,711 INFO [dry] create Work/2026/Q2/Week 21 + move 2026-W21.md in
+2026-06-10 21:51:51,711 INFO [dry] (108/133) W21 Work/2026/Q2/Week 21/Review Prioritisation Discussion (2026-05-19).md
+2026-06-10 21:51:51,711 INFO [dry] create Work/2026/Q2/Week 21 + move 2026-W21.md in
+2026-06-10 21:51:51,711 INFO [dry] (109/133) W21 Work/2026/Q2/Week 21/Reviewer Contractor Discussion (2026-05-19).md
+2026-06-10 21:51:51,711 INFO [dry] create Work/2026/Q2/Week 21 + move 2026-W21.md in
+2026-06-10 21:51:51,711 INFO [dry] (110/133) W21 Work/2026/Q2/Week 21/Morgan - Kim phab review skill sync (2026-05-20).md
+2026-06-10 21:51:51,712 INFO [dry] create Work/2026/Q2/Week 21 + move 2026-W21.md in
+2026-06-10 21:51:51,712 INFO [dry] (111/133) W21 Work/2026/Q2/Week 21/Morgan - Natalie 1-1 (2026-05-20).md
+2026-06-10 21:51:51,712 INFO [dry] create Work/2026/Q2/Week 21 + move 2026-W21.md in
+2026-06-10 21:51:51,712 INFO [dry] (112/133) W21 Work/2026/Q2/Week 21/Accessibility Reviews - Project Check-in (2026-05-21).md
+2026-06-10 21:51:51,712 INFO [dry] create Work/2026/Q2/Week 21 + move 2026-W21.md in
+2026-06-10 21:51:51,712 INFO [dry] (113/133) W21 Work/2026/Q2/Week 21/Accessibility Reviews - Project Check-in (2026-05-21) (2).md
+2026-06-10 21:51:51,713 INFO [dry] create Work/2026/Q2/Week 22 + move 2026-W22.md in
+2026-06-10 21:51:51,713 INFO [dry] (114/133) W22 Work/2026/Q2/Week 22/Morgan - Anna 1-1 (2026-05-26).md
+2026-06-10 21:51:51,713 INFO [dry] create Work/2026/Q2/Week 22 + move 2026-W22.md in
+2026-06-10 21:51:51,713 INFO [dry] (115/133) W22 Work/2026/Q2/Week 22/Review Prioritisation Discussion (2026-05-26).md
+2026-06-10 21:51:51,713 INFO [dry] create Work/2026/Q2/Week 22 + move 2026-W22.md in
+2026-06-10 21:51:51,713 INFO [dry] (116/133) W22 Work/2026/Q2/Week 22/Accessibility team meeting (2026-05-27).md
+2026-06-10 21:51:51,714 INFO [dry] create Work/2026/Q2/Week 22 + move 2026-W22.md in
+2026-06-10 21:51:51,714 INFO [dry] (117/133) W22 Work/2026/Q2/Week 22/Morgan - Natalie 1-1 (2026-05-27).md
+2026-06-10 21:51:51,714 INFO [dry] create Work/2026/Q2/Week 22 + move 2026-W22.md in
+2026-06-10 21:51:51,714 INFO [dry] (118/133) W22 Work/2026/Q2/Week 22/Accessibility Reviews - Project Check-in (2026-05-28).md
+2026-06-10 21:51:51,714 INFO [dry] create Work/2026/Q2/Week 22 + move 2026-W22.md in
+2026-06-10 21:51:51,714 INFO [dry] (119/133) W22 Work/2026/Q2/Week 22/Accessibility Reviews - Project Check-in (2026-05-29).md
+2026-06-10 21:51:51,715 INFO [dry] (120/133) W23 Work/2026/Q2/Week 23/Morgan - Anna 1-1 (2026-06-01).md
+2026-06-10 21:51:51,715 INFO [dry] (121/133) W23 Work/2026/Q2/Week 23/Review Prioritisation Discussion (2026-06-02).md
+2026-06-10 21:51:51,715 INFO [dry] (122/133) W23 Work/2026/Q2/Week 23/[Check-in] Natalie Performance VI (2026-06-02).md
+2026-06-10 21:51:51,715 INFO [dry] (123/133) W23 Work/2026/Q2/Week 23/Morgan - Natalie 1-1 (2026-06-03).md
+2026-06-10 21:51:51,716 INFO [dry] (124/133) W23 Work/2026/Q2/Week 23/UX + A11y Sync (2026-06-03).md
+2026-06-10 21:51:51,716 INFO [dry] (125/133) W23 Work/2026/Q2/Week 23/Accessibility Reviews - Project Check-in (2026-06-04).md
+2026-06-10 21:51:51,717 INFO [dry] (126/133) W24 Work/2026/Q2/Week 24/Morgan (she-they)'s Personal Meeting Room (2026-06-08).md
+2026-06-10 21:51:51,717 INFO [dry] (127/133) W24 Work/2026/Q2/Week 24/Morgan - Anna 1-1 (2026-06-08).md
+2026-06-10 21:51:51,717 INFO [dry] (128/133) W24 Work/2026/Q2/Week 24/Morgan - Anna 1-1 (2026-06-08) (2).md
+2026-06-10 21:51:51,717 INFO [dry] (129/133) W24 Work/2026/Q2/Week 24/morgan x morgan 1-1 (2026-06-08).md
+2026-06-10 21:51:51,717 INFO [dry] (130/133) W24 Work/2026/Q2/Week 24/Review Prioritisation Discussion (2026-06-09).md
+2026-06-10 21:51:51,718 INFO [dry] (131/133) W24 Work/2026/Q2/Week 24/[Hold] Review Reducting Strategy (2026-06-09).md
+2026-06-10 21:51:51,718 INFO [dry] (132/133) W24 Work/2026/Q2/Week 24/Accessibility team meeting (2026-06-10).md
+2026-06-10 21:51:51,718 INFO [dry] (133/133) W24 Work/2026/Q2/Week 24/Morgan - Natalie 1-1 (2026-06-10).md
+2026-06-10 21:53:05,846 INFO 9 summaries already on disk for 2026
+2026-06-10 21:53:11,893 INFO Enumerated 194 meetings in 2026
+2026-06-10 21:53:18,373 INFO +1 extra summaries from the recent-summaries list
+2026-06-10 21:53:18,374 INFO 138 summaries found | 134 accessible | 4 inaccessible
+2026-06-10 21:53:18,426 INFO [dry] create Work/2026/Q1/Week 2 + move 2026-W02.md in
+2026-06-10 21:53:18,426 INFO [dry] (1/134) W02 Work/2026/Q1/Week 2/Morgan - Anna 1-1 (2026-01-07).md
+2026-06-10 21:53:18,427 INFO [dry] create Work/2026/Q1/Week 2 + move 2026-W02.md in
+2026-06-10 21:53:18,427 INFO [dry] (2/134) W02 Work/2026/Q1/Week 2/UX + A11y Sync (2026-01-07).md
+2026-06-10 21:53:18,427 INFO [dry] create Work/2026/Q1/Week 2 + move 2026-W02.md in
+2026-06-10 21:53:18,427 INFO [dry] (3/134) W02 Work/2026/Q1/Week 2/Accessibility Reviews - Project Check-in (2026-01-08).md
+2026-06-10 21:53:18,427 INFO [dry] create Work/2026/Q1/Week 2 + move 2026-W02.md in
+2026-06-10 21:53:18,427 INFO [dry] (4/134) W02 Work/2026/Q1/Week 2/Accessibility Reviews - Project Check-in (2026-01-09).md
+2026-06-10 21:53:18,427 INFO [dry] create Work/2026/Q1/Week 3 + move 2026-W03.md in
+2026-06-10 21:53:18,427 INFO [dry] (5/134) W03 Work/2026/Q1/Week 3/Anna's Career Discussion (2026-01-13).md
+2026-06-10 21:53:18,428 INFO [dry] create Work/2026/Q1/Week 3 + move 2026-W03.md in
+2026-06-10 21:53:18,428 INFO [dry] (6/134) W03 Work/2026/Q1/Week 3/Accessibility Reviews - Project Check-in (2026-01-15).md
+2026-06-10 21:53:18,428 INFO [dry] create Work/2026/Q1/Week 3 + move 2026-W03.md in
+2026-06-10 21:53:18,428 INFO [dry] (7/134) W03 Work/2026/Q1/Week 3/Accessibility Reviews - Project Check-in (2026-01-16).md
+2026-06-10 21:53:18,428 INFO [dry] create Work/2026/Q1/Week 4 + move 2026-W04.md in
+2026-06-10 21:53:18,428 INFO [dry] (8/134) W04 Work/2026/Q1/Week 4/Accessibility team meeting (2026-01-21).md
+2026-06-10 21:53:18,429 INFO [dry] create Work/2026/Q1/Week 4 + move 2026-W04.md in
+2026-06-10 21:53:18,429 INFO [dry] (9/134) W04 Work/2026/Q1/Week 4/Morgan - Anna 1-1 (2026-01-21).md
+2026-06-10 21:53:18,429 INFO [dry] create Work/2026/Q1/Week 4 + move 2026-W04.md in
+2026-06-10 21:53:18,429 INFO [dry] (10/134) W04 Work/2026/Q1/Week 4/Accessibility Reviews - Project Check-in (2026-01-22).md
+2026-06-10 21:53:18,429 INFO [dry] create Work/2026/Q1/Week 4 + move 2026-W04.md in
+2026-06-10 21:53:18,429 INFO [dry] (11/134) W04 Work/2026/Q1/Week 4/Accessibility Reviews - Project Check-in (2026-01-23).md
+2026-06-10 21:53:18,429 INFO [dry] create Work/2026/Q1/Week 4 + move 2026-W04.md in
+2026-06-10 21:53:18,429 INFO [dry] (12/134) W04 Work/2026/Q1/Week 4/Accessibility Reviews - Project Check-in (2026-01-23) (2).md
+2026-06-10 21:53:18,430 INFO [dry] create Work/2026/Q1/Week 5 + move 2026-W05.md in
+2026-06-10 21:53:18,430 INFO [dry] (13/134) W05 Work/2026/Q1/Week 5/Google Calendar Meeting (not synced) (2026-01-27).md
+2026-06-10 21:53:18,430 INFO [dry] create Work/2026/Q1/Week 5 + move 2026-W05.md in
+2026-06-10 21:53:18,430 INFO [dry] (14/134) W05 Work/2026/Q1/Week 5/UX + A11y Sync (2026-01-28).md
+2026-06-10 21:53:18,430 INFO [dry] create Work/2026/Q1/Week 5 + move 2026-W05.md in
+2026-06-10 21:53:18,430 INFO [dry] (15/134) W05 Work/2026/Q1/Week 5/Accessibility Reviews - Project Check-in (2026-01-29).md
+2026-06-10 21:53:18,431 INFO [dry] create Work/2026/Q1/Week 5 + move 2026-W05.md in
+2026-06-10 21:53:18,431 INFO [dry] (16/134) W05 Work/2026/Q1/Week 5/Morgan - Natalie 1-1 (extended version) (2026-01-29).md
+2026-06-10 21:53:18,431 INFO [dry] create Work/2026/Q1/Week 5 + move 2026-W05.md in
+2026-06-10 21:53:18,431 INFO [dry] (17/134) W05 Work/2026/Q1/Week 5/Accessibility Reviews - Project Check-in (2026-01-30).md
+2026-06-10 21:53:18,431 INFO [dry] create Work/2026/Q1/Week 5 + move 2026-W05.md in
+2026-06-10 21:53:18,431 INFO [dry] (18/134) W05 Work/2026/Q1/Week 5/Morgan - Anna work week check in (2026-01-30).md
+2026-06-10 21:53:18,431 INFO [dry] create Work/2026/Q1/Week 6 + move 2026-W06.md in
+2026-06-10 21:53:18,431 INFO [dry] (19/134) W06 Work/2026/Q1/Week 6/Accessibility team meeting (2026-02-04).md
+2026-06-10 21:53:18,432 INFO [dry] create Work/2026/Q1/Week 7 + move 2026-W07.md in
+2026-06-10 21:53:18,432 INFO [dry] (20/134) W07 Work/2026/Q1/Week 7/2026 H2 - A11y Contractor Discussion (2026-02-10).md
+2026-06-10 21:53:18,432 INFO [dry] create Work/2026/Q1/Week 7 + move 2026-W07.md in
+2026-06-10 21:53:18,432 INFO [dry] (21/134) W07 Work/2026/Q1/Week 7/Accessibility Reviews - Project Check-in (2026-02-12).md
+2026-06-10 21:53:18,432 INFO [dry] create Work/2026/Q1/Week 7 + move 2026-W07.md in
+2026-06-10 21:53:18,432 INFO [dry] (22/134) W07 Work/2026/Q1/Week 7/Accessibility Reviews - Project Check-in (2026-02-13).md
+2026-06-10 21:53:18,432 INFO [dry] (23/134) W08 Work/2026/Q1/Week 8/Accessibility team meeting (2026-02-18).md
+2026-06-10 21:53:18,432 INFO [dry] (24/134) W08 Work/2026/Q1/Week 8/Morgan - Anna 1-1 (2026-02-18).md
+2026-06-10 21:53:18,433 INFO [dry] (25/134) W08 Work/2026/Q1/Week 8/Morgan - Natalie 1-1 (2026-02-18).md
+2026-06-10 21:53:18,433 INFO [dry] (26/134) W08 Work/2026/Q1/Week 8/UX + A11y Sync (2026-02-18).md
+2026-06-10 21:53:18,433 INFO [dry] (27/134) W08 Work/2026/Q1/Week 8/[Check-in] Natalie Performance III (2026-02-18).md
+2026-06-10 21:53:18,433 INFO [dry] (28/134) W08 Work/2026/Q1/Week 8/Accessibility Reviews - Project Check-in (2026-02-19).md
+2026-06-10 21:53:18,433 INFO [dry] (29/134) W08 Work/2026/Q1/Week 8/Accessibility Reviews - Project Check-in (2026-02-20).md
+2026-06-10 21:53:18,434 INFO [dry] (30/134) W08 Work/2026/Q1/Week 8/Accessibility Reviews - Project Check-in (2026-02-20) (2).md
+2026-06-10 21:53:18,434 INFO [dry] (31/134) W09 Work/2026/Q1/Week 9/Review Prioritisation Discussion (2026-02-24).md
+2026-06-10 21:53:18,434 INFO [dry] (32/134) W09 Work/2026/Q1/Week 9/Morgan - Natalie 1-1 (2026-02-25).md
+2026-06-10 21:53:18,434 INFO [dry] (33/134) W09 Work/2026/Q1/Week 9/Morgan - Natalie 1-1 (2026-02-25) (2).md
+2026-06-10 21:53:18,434 INFO [dry] (34/134) W09 Work/2026/Q1/Week 9/[Check-in] Natalie Performance III, pt.2 (2026-02-25).md
+2026-06-10 21:53:18,435 INFO [dry] (35/134) W09 Work/2026/Q1/Week 9/Accessibility Reviews - Project Check-in (2026-02-26).md
+2026-06-10 21:53:18,435 INFO [dry] (36/134) W09 Work/2026/Q1/Week 9/Accessibility Reviews - Project Check-in (2026-02-27).md
+2026-06-10 21:53:18,435 INFO [dry] (37/134) W10 Work/2026/Q1/Week 10/Morgan - Anna 1-1 (2026-03-02).md
+2026-06-10 21:53:18,435 INFO [dry] (38/134) W10 Work/2026/Q1/Week 10/Review Prioritisation Discussion (2026-03-03).md
+2026-06-10 21:53:18,436 INFO [dry] (39/134) W10 Work/2026/Q1/Week 10/Accessibility team meeting (2026-03-04).md
+2026-06-10 21:53:18,436 INFO [dry] (40/134) W10 Work/2026/Q1/Week 10/Morgan - Natalie 1-1 (2026-03-04).md
+2026-06-10 21:53:18,436 INFO [dry] (41/134) W10 Work/2026/Q1/Week 10/Accessibility Reviews - Project Check-in (2026-03-05).md
+2026-06-10 21:53:18,436 INFO [dry] create Work/2026/Q1/Week 11 + move 2026-W11.md in
+2026-06-10 21:53:18,436 INFO [dry] (42/134) W11 Work/2026/Q1/Week 11/Morgan - Anna 1-1 (2026-03-09).md
+2026-06-10 21:53:18,436 INFO [dry] create Work/2026/Q1/Week 11 + move 2026-W11.md in
+2026-06-10 21:53:18,436 INFO [dry] (43/134) W11 Work/2026/Q1/Week 11/Review Prioritisation Discussion (2026-03-10).md
+2026-06-10 21:53:18,437 INFO [dry] create Work/2026/Q1/Week 11 + move 2026-W11.md in
+2026-06-10 21:53:18,437 INFO [dry] (44/134) W11 Work/2026/Q1/Week 11/A11y bugs dashboard discussion (2026-03-11).md
+2026-06-10 21:53:18,437 INFO [dry] create Work/2026/Q1/Week 11 + move 2026-W11.md in
+2026-06-10 21:53:18,437 INFO [dry] (45/134) W11 Work/2026/Q1/Week 11/Morgan - Natalie 1-1 (2026-03-11).md
+2026-06-10 21:53:18,437 INFO [dry] create Work/2026/Q1/Week 11 + move 2026-W11.md in
+2026-06-10 21:53:18,437 INFO [dry] (46/134) W11 Work/2026/Q1/Week 11/UX + A11y Sync (2026-03-11).md
+2026-06-10 21:53:18,437 INFO [dry] create Work/2026/Q1/Week 11 + move 2026-W11.md in
+2026-06-10 21:53:18,437 INFO [dry] (47/134) W11 Work/2026/Q1/Week 11/Accessibility Reviews - Project Check-in (2026-03-12).md
+2026-06-10 21:53:18,438 INFO [dry] create Work/2026/Q1/Week 11 + move 2026-W11.md in
+2026-06-10 21:53:18,438 INFO [dry] (48/134) W11 Work/2026/Q1/Week 11/Accessibility Reviews - Project Check-in (2026-03-13).md
+2026-06-10 21:53:18,438 INFO [dry] create Work/2026/Q1/Week 11 + move 2026-W11.md in
+2026-06-10 21:53:18,438 INFO [dry] (49/134) W11 Work/2026/Q1/Week 11/Accessibility Reviews - Project Check-in (2026-03-13) (2).md
+2026-06-10 21:53:18,438 INFO [dry] create Work/2026/Q1/Week 12 + move 2026-W12.md in
+2026-06-10 21:53:18,438 INFO [dry] (50/134) W12 Work/2026/Q1/Week 12/Morgan - Anna 1-1 (2026-03-16).md
+2026-06-10 21:53:18,438 INFO [dry] create Work/2026/Q1/Week 12 + move 2026-W12.md in
+2026-06-10 21:53:18,438 INFO [dry] (51/134) W12 Work/2026/Q1/Week 12/Accessibility team meeting (2026-03-17).md
+2026-06-10 21:53:18,439 INFO [dry] create Work/2026/Q1/Week 12 + move 2026-W12.md in
+2026-06-10 21:53:18,439 INFO [dry] (52/134) W12 Work/2026/Q1/Week 12/Review Prioritisation Discussion (2026-03-17).md
+2026-06-10 21:53:18,439 INFO [dry] create Work/2026/Q1/Week 12 + move 2026-W12.md in
+2026-06-10 21:53:18,439 INFO [dry] (53/134) W12 Work/2026/Q1/Week 12/Accessibility team meeting (2026-03-18).md
+2026-06-10 21:53:18,439 INFO [dry] create Work/2026/Q1/Week 12 + move 2026-W12.md in
+2026-06-10 21:53:18,439 INFO [dry] (54/134) W12 Work/2026/Q1/Week 12/Morgan - Natalie 1-1 (2026-03-18).md
+2026-06-10 21:53:18,439 INFO [dry] create Work/2026/Q1/Week 12 + move 2026-W12.md in
+2026-06-10 21:53:18,439 INFO [dry] (55/134) W12 Work/2026/Q1/Week 12/Accessibility Reviews - Project Check-in (2026-03-19).md
+2026-06-10 21:53:18,440 INFO [dry] create Work/2026/Q1/Week 12 + move 2026-W12.md in
+2026-06-10 21:53:18,440 INFO [dry] (56/134) W12 Work/2026/Q1/Week 12/Accessibility Reviews - Project Check-in (2026-03-20).md
+2026-06-10 21:53:18,440 INFO [dry] create Work/2026/Q1/Week 13 + move 2026-W13.md in
+2026-06-10 21:53:18,440 INFO [dry] (57/134) W13 Work/2026/Q1/Week 13/Morgan - Anna 1-1 (2026-03-23).md
+2026-06-10 21:53:18,440 INFO [dry] create Work/2026/Q1/Week 13 + move 2026-W13.md in
+2026-06-10 21:53:18,440 INFO [dry] (58/134) W13 Work/2026/Q1/Week 13/Review Prioritisation Discussion (2026-03-24).md
+2026-06-10 21:53:18,440 INFO [dry] create Work/2026/Q1/Week 13 + move 2026-W13.md in
+2026-06-10 21:53:18,440 INFO [dry] (59/134) W13 Work/2026/Q1/Week 13/[Check-in] Natalie Performance IV (2026-03-24).md
+2026-06-10 21:53:18,440 INFO [dry] create Work/2026/Q1/Week 13 + move 2026-W13.md in
+2026-06-10 21:53:18,440 INFO [dry] (60/134) W13 Work/2026/Q1/Week 13/Morgan - Natalie 1-1 (2026-03-25).md
+2026-06-10 21:53:18,441 INFO [dry] create Work/2026/Q1/Week 13 + move 2026-W13.md in
+2026-06-10 21:53:18,441 INFO [dry] (61/134) W13 Work/2026/Q1/Week 13/Accessibility Reviews - Project Check-in (2026-03-26).md
+2026-06-10 21:53:18,441 INFO [dry] create Work/2026/Q1/Week 13 + move 2026-W13.md in
+2026-06-10 21:53:18,441 INFO [dry] (62/134) W13 Work/2026/Q1/Week 13/Accessibility Reviews - Project Check-in (2026-03-27).md
+2026-06-10 21:53:18,441 INFO [dry] create Work/2026/Q1/Week 14 + move 2026-W14.md in
+2026-06-10 21:53:18,441 INFO [dry] (63/134) W14 Work/2026/Q1/Week 14/Review Prioritisation Discussion (2026-03-31).md
+2026-06-10 21:53:18,442 INFO [dry] create Work/2026/Q1/Week 14 + move 2026-W14.md in
+2026-06-10 21:53:18,442 INFO [dry] (64/134) W14 Work/2026/Q1/Week 14/Accessibility team meeting (2026-04-01).md
+2026-06-10 21:53:18,442 INFO [dry] create Work/2026/Q1/Week 14 + move 2026-W14.md in
+2026-06-10 21:53:18,442 INFO [dry] (65/134) W14 Work/2026/Q1/Week 14/UX + A11y Sync (2026-04-01).md
+2026-06-10 21:53:18,442 INFO [dry] create Work/2026/Q1/Week 14 + move 2026-W14.md in
+2026-06-10 21:53:18,442 INFO [dry] (66/134) W14 Work/2026/Q1/Week 14/Morgan - Natalie 1-1 (2026-04-03).md
+2026-06-10 21:53:18,442 INFO [dry] create Work/2026/Q2/Week 15 + move 2026-W15.md in
+2026-06-10 21:53:18,442 INFO [dry] (67/134) W15 Work/2026/Q2/Week 15/Review Prioritisation Discussion (2026-04-07).md
+2026-06-10 21:53:18,443 INFO [dry] create Work/2026/Q2/Week 15 + move 2026-W15.md in
+2026-06-10 21:53:18,443 INFO [dry] (68/134) W15 Work/2026/Q2/Week 15/Accessibility Reviews - Project Check-in (2026-04-09).md
+2026-06-10 21:53:18,443 INFO [dry] create Work/2026/Q2/Week 15 + move 2026-W15.md in
+2026-06-10 21:53:18,443 INFO [dry] (69/134) W15 Work/2026/Q2/Week 15/Accessibility Reviews - Project Check-in (2026-04-10).md
+2026-06-10 21:53:18,443 INFO [dry] create Work/2026/Q2/Week 16 + move 2026-W16.md in
+2026-06-10 21:53:18,443 INFO [dry] (70/134) W16 Work/2026/Q2/Week 16/Morgan - Anna 1-1 (2026-04-13).md
+2026-06-10 21:53:18,443 INFO [dry] create Work/2026/Q2/Week 16 + move 2026-W16.md in
+2026-06-10 21:53:18,443 INFO [dry] (71/134) W16 Work/2026/Q2/Week 16/Review Prioritisation Discussion (2026-04-14).md
+2026-06-10 21:53:18,444 INFO [dry] create Work/2026/Q2/Week 16 + move 2026-W16.md in
+2026-06-10 21:53:18,444 INFO [dry] (72/134) W16 Work/2026/Q2/Week 16/Accessibility team meeting (2026-04-15).md
+2026-06-10 21:53:18,444 INFO [dry] create Work/2026/Q2/Week 16 + move 2026-W16.md in
+2026-06-10 21:53:18,444 INFO [dry] (73/134) W16 Work/2026/Q2/Week 16/Morgan - Natalie 1-1 (2026-04-15).md
+2026-06-10 21:53:18,444 INFO [dry] create Work/2026/Q2/Week 16 + move 2026-W16.md in
+2026-06-10 21:53:18,444 INFO [dry] (74/134) W16 Work/2026/Q2/Week 16/Accessibility Reviews - Project Check-in (2026-04-16).md
+2026-06-10 21:53:18,444 INFO [dry] create Work/2026/Q2/Week 16 + move 2026-W16.md in
+2026-06-10 21:53:18,444 INFO [dry] (75/134) W16 Work/2026/Q2/Week 16/Accessibility Reviews - Project Check-in (2026-04-17).md
+2026-06-10 21:53:18,445 INFO [dry] create Work/2026/Q2/Week 16 + move 2026-W16.md in
+2026-06-10 21:53:18,445 INFO [dry] (76/134) W16 Work/2026/Q2/Week 16/Accessibility Reviews - Project Check-in (2026-04-17) (2).md
+2026-06-10 21:53:18,445 INFO [dry] create Work/2026/Q2/Week 17 + move 2026-W17.md in
+2026-06-10 21:53:18,445 INFO [dry] (77/134) W17 Work/2026/Q2/Week 17/Morgan - Anna 1-1 (2026-04-20).md
+2026-06-10 21:53:18,445 INFO [dry] create Work/2026/Q2/Week 17 + move 2026-W17.md in
+2026-06-10 21:53:18,445 INFO [dry] (78/134) W17 Work/2026/Q2/Week 17/Review Prioritisation Discussion (2026-04-21).md
+2026-06-10 21:53:18,445 INFO [dry] create Work/2026/Q2/Week 17 + move 2026-W17.md in
+2026-06-10 21:53:18,445 INFO [dry] (79/134) W17 Work/2026/Q2/Week 17/Morgan - Frank 1-1 - Quarterly Check-in (2026-04-22).md
+2026-06-10 21:53:18,445 INFO [dry] create Work/2026/Q2/Week 17 + move 2026-W17.md in
+2026-06-10 21:53:18,446 INFO [dry] (80/134) W17 Work/2026/Q2/Week 17/Morgan - Natalie 1-1 (2026-04-22).md
+2026-06-10 21:53:18,446 INFO [dry] create Work/2026/Q2/Week 17 + move 2026-W17.md in
+2026-06-10 21:53:18,446 INFO [dry] (81/134) W17 Work/2026/Q2/Week 17/UX + A11y Sync (2026-04-22).md
+2026-06-10 21:53:18,446 INFO [dry] create Work/2026/Q2/Week 17 + move 2026-W17.md in
+2026-06-10 21:53:18,446 INFO [dry] (82/134) W17 Work/2026/Q2/Week 17/Accessibility Reviews - Project Check-in (2026-04-23).md
+2026-06-10 21:53:18,446 INFO [dry] create Work/2026/Q2/Week 17 + move 2026-W17.md in
+2026-06-10 21:53:18,446 INFO [dry] (83/134) W17 Work/2026/Q2/Week 17/Accessibility Reviews - Project Check-in (2026-04-24).md
+2026-06-10 21:53:18,447 INFO [dry] create Work/2026/Q2/Week 18 + move 2026-W18.md in
+2026-06-10 21:53:18,447 INFO [dry] (84/134) W18 Work/2026/Q2/Week 18/Morgan - Anna 1-1 (2026-04-27).md
+2026-06-10 21:53:18,447 INFO [dry] create Work/2026/Q2/Week 18 + move 2026-W18.md in
+2026-06-10 21:53:18,447 INFO [dry] (85/134) W18 Work/2026/Q2/Week 18/Review Prioritisation Discussion (2026-04-28).md
+2026-06-10 21:53:18,447 INFO [dry] create Work/2026/Q2/Week 18 + move 2026-W18.md in
+2026-06-10 21:53:18,447 INFO [dry] (86/134) W18 Work/2026/Q2/Week 18/Accessibility team meeting (2026-04-29).md
+2026-06-10 21:53:18,447 INFO [dry] create Work/2026/Q2/Week 18 + move 2026-W18.md in
+2026-06-10 21:53:18,447 INFO [dry] (87/134) W18 Work/2026/Q2/Week 18/Morgan - Frank hiring chat (2026-04-29).md
+2026-06-10 21:53:18,448 INFO [dry] create Work/2026/Q2/Week 18 + move 2026-W18.md in
+2026-06-10 21:53:18,448 INFO [dry] (88/134) W18 Work/2026/Q2/Week 18/Morgan - Natalie 1-1 (2026-04-29).md
+2026-06-10 21:53:18,448 INFO [dry] create Work/2026/Q2/Week 18 + move 2026-W18.md in
+2026-06-10 21:53:18,448 INFO [dry] (89/134) W18 Work/2026/Q2/Week 18/Accessibility Reviews - Project Check-in (2026-04-30).md
+2026-06-10 21:53:18,448 INFO [dry] create Work/2026/Q2/Week 18 + move 2026-W18.md in
+2026-06-10 21:53:18,448 INFO [dry] (90/134) W18 Work/2026/Q2/Week 18/Accessibility Reviews - Project Check-in (2026-05-01).md
+2026-06-10 21:53:18,448 INFO [dry] create Work/2026/Q2/Week 19 + move 2026-W19.md in
+2026-06-10 21:53:18,449 INFO [dry] (91/134) W19 Work/2026/Q2/Week 19/Morgan - Anna 1-1 (2026-05-04).md
+2026-06-10 21:53:18,449 INFO [dry] create Work/2026/Q2/Week 19 + move 2026-W19.md in
+2026-06-10 21:53:18,449 INFO [dry] (92/134) W19 Work/2026/Q2/Week 19/General A11y Reviews Management (2026-05-05).md
+2026-06-10 21:53:18,449 INFO [dry] create Work/2026/Q2/Week 19 + move 2026-W19.md in
+2026-06-10 21:53:18,449 INFO [dry] (93/134) W19 Work/2026/Q2/Week 19/Review Prioritisation Discussion (2026-05-05).md
+2026-06-10 21:53:18,449 INFO [dry] create Work/2026/Q2/Week 19 + move 2026-W19.md in
+2026-06-10 21:53:18,449 INFO [dry] (94/134) W19 Work/2026/Q2/Week 19/Google Calendar Meeting (not synced) (2026-05-06).md
+2026-06-10 21:53:18,449 INFO [dry] create Work/2026/Q2/Week 19 + move 2026-W19.md in
+2026-06-10 21:53:18,449 INFO [dry] (95/134) W19 Work/2026/Q2/Week 19/Morgan - Natalie 1-1 (2026-05-06).md
+2026-06-10 21:53:18,450 INFO [dry] create Work/2026/Q2/Week 19 + move 2026-W19.md in
+2026-06-10 21:53:18,450 INFO [dry] (96/134) W19 Work/2026/Q2/Week 19/Accessibility Reviews - Project Check-in (2026-05-07).md
+2026-06-10 21:53:18,450 INFO [dry] create Work/2026/Q2/Week 19 + move 2026-W19.md in
+2026-06-10 21:53:18,450 INFO [dry] (97/134) W19 Work/2026/Q2/Week 19/Google Calendar Meeting (not synced) (2026-05-07).md
+2026-06-10 21:53:18,450 INFO [dry] create Work/2026/Q2/Week 19 + move 2026-W19.md in
+2026-06-10 21:53:18,450 INFO [dry] (98/134) W19 Work/2026/Q2/Week 19/Accessibility Reviews - Project Check-in (2026-05-08).md
+2026-06-10 21:53:18,450 INFO [dry] create Work/2026/Q2/Week 20 + move 2026-W20.md in
+2026-06-10 21:53:18,450 INFO [dry] (99/134) W20 Work/2026/Q2/Week 20/Morgan - Anna 1-1 (2026-05-11).md
+2026-06-10 21:53:18,451 INFO [dry] create Work/2026/Q2/Week 20 + move 2026-W20.md in
+2026-06-10 21:53:18,451 INFO [dry] (100/134) W20 Work/2026/Q2/Week 20/Review Quality Assessment Strategising (2026-05-11).md
+2026-06-10 21:53:18,451 INFO [dry] create Work/2026/Q2/Week 20 + move 2026-W20.md in
+2026-06-10 21:53:18,451 INFO [dry] (101/134) W20 Work/2026/Q2/Week 20/a11y-ai review tools precheck (2026-05-11).md
+2026-06-10 21:53:18,451 INFO [dry] create Work/2026/Q2/Week 20 + move 2026-W20.md in
+2026-06-10 21:53:18,451 INFO [dry] (102/134) W20 Work/2026/Q2/Week 20/Review Prioritisation Discussion (2026-05-12).md
+2026-06-10 21:53:18,451 INFO [dry] create Work/2026/Q2/Week 20 + move 2026-W20.md in
+2026-06-10 21:53:18,451 INFO [dry] (103/134) W20 Work/2026/Q2/Week 20/Accessibility team meeting (2026-05-13).md
+2026-06-10 21:53:18,451 INFO [dry] create Work/2026/Q2/Week 20 + move 2026-W20.md in
+2026-06-10 21:53:18,452 INFO [dry] (104/134) W20 Work/2026/Q2/Week 20/Morgan - Natalie 1-1 (2026-05-13).md
+2026-06-10 21:53:18,452 INFO [dry] create Work/2026/Q2/Week 20 + move 2026-W20.md in
+2026-06-10 21:53:18,452 INFO [dry] (105/134) W20 Work/2026/Q2/Week 20/UX + A11y Sync (2026-05-13).md
+2026-06-10 21:53:18,452 INFO [dry] create Work/2026/Q2/Week 20 + move 2026-W20.md in
+2026-06-10 21:53:18,452 INFO [dry] (106/134) W20 Work/2026/Q2/Week 20/Accessibility Reviews - Project Check-in (2026-05-14).md
+2026-06-10 21:53:18,452 INFO [dry] create Work/2026/Q2/Week 21 + move 2026-W21.md in
+2026-06-10 21:53:18,452 INFO [dry] (107/134) W21 Work/2026/Q2/Week 21/Morgan - Anna 1-1 (2026-05-18).md
+2026-06-10 21:53:18,453 INFO [dry] create Work/2026/Q2/Week 21 + move 2026-W21.md in
+2026-06-10 21:53:18,453 INFO [dry] (108/134) W21 Work/2026/Q2/Week 21/Review Prioritisation Discussion (2026-05-19).md
+2026-06-10 21:53:18,453 INFO [dry] create Work/2026/Q2/Week 21 + move 2026-W21.md in
+2026-06-10 21:53:18,453 INFO [dry] (109/134) W21 Work/2026/Q2/Week 21/Reviewer Contractor Discussion (2026-05-19).md
+2026-06-10 21:53:18,453 INFO [dry] create Work/2026/Q2/Week 21 + move 2026-W21.md in
+2026-06-10 21:53:18,453 INFO [dry] (110/134) W21 Work/2026/Q2/Week 21/Morgan - Kim phab review skill sync (2026-05-20).md
+2026-06-10 21:53:18,453 INFO [dry] create Work/2026/Q2/Week 21 + move 2026-W21.md in
+2026-06-10 21:53:18,453 INFO [dry] (111/134) W21 Work/2026/Q2/Week 21/Morgan - Natalie 1-1 (2026-05-20).md
+2026-06-10 21:53:18,454 INFO [dry] create Work/2026/Q2/Week 21 + move 2026-W21.md in
+2026-06-10 21:53:18,454 INFO [dry] (112/134) W21 Work/2026/Q2/Week 21/Accessibility Reviews - Project Check-in (2026-05-21).md
+2026-06-10 21:53:18,454 INFO [dry] create Work/2026/Q2/Week 21 + move 2026-W21.md in
+2026-06-10 21:53:18,454 INFO [dry] (113/134) W21 Work/2026/Q2/Week 21/Accessibility Reviews - Project Check-in (2026-05-21) (2).md
+2026-06-10 21:53:18,454 INFO [dry] create Work/2026/Q2/Week 22 + move 2026-W22.md in
+2026-06-10 21:53:18,454 INFO [dry] (114/134) W22 Work/2026/Q2/Week 22/Morgan - Anna 1-1 (2026-05-26).md
+2026-06-10 21:53:18,454 INFO [dry] create Work/2026/Q2/Week 22 + move 2026-W22.md in
+2026-06-10 21:53:18,454 INFO [dry] (115/134) W22 Work/2026/Q2/Week 22/Review Prioritisation Discussion (2026-05-26).md
+2026-06-10 21:53:18,455 INFO [dry] create Work/2026/Q2/Week 22 + move 2026-W22.md in
+2026-06-10 21:53:18,455 INFO [dry] (116/134) W22 Work/2026/Q2/Week 22/Accessibility team meeting (2026-05-27).md
+2026-06-10 21:53:18,455 INFO [dry] create Work/2026/Q2/Week 22 + move 2026-W22.md in
+2026-06-10 21:53:18,455 INFO [dry] (117/134) W22 Work/2026/Q2/Week 22/Morgan - Natalie 1-1 (2026-05-27).md
+2026-06-10 21:53:18,455 INFO [dry] create Work/2026/Q2/Week 22 + move 2026-W22.md in
+2026-06-10 21:53:18,455 INFO [dry] (118/134) W22 Work/2026/Q2/Week 22/Accessibility Reviews - Project Check-in (2026-05-28).md
+2026-06-10 21:53:18,455 INFO [dry] create Work/2026/Q2/Week 22 + move 2026-W22.md in
+2026-06-10 21:53:18,455 INFO [dry] (119/134) W22 Work/2026/Q2/Week 22/Accessibility Reviews - Project Check-in (2026-05-29).md
+2026-06-10 21:53:18,456 INFO [dry] (120/134) W23 Work/2026/Q2/Week 23/Morgan - Anna 1-1 (2026-06-01).md
+2026-06-10 21:53:18,456 INFO [dry] (121/134) W23 Work/2026/Q2/Week 23/Review Prioritisation Discussion (2026-06-02).md
+2026-06-10 21:53:18,456 INFO [dry] (122/134) W23 Work/2026/Q2/Week 23/[Check-in] Natalie Performance VI (2026-06-02).md
+2026-06-10 21:53:18,456 INFO [dry] (123/134) W23 Work/2026/Q2/Week 23/Google Calendar Meeting (not synced) (2026-06-03).md
+2026-06-10 21:53:18,456 INFO [dry] (124/134) W23 Work/2026/Q2/Week 23/Morgan - Natalie 1-1 (2026-06-03).md
+2026-06-10 21:53:18,457 INFO [dry] (125/134) W23 Work/2026/Q2/Week 23/UX + A11y Sync (2026-06-03).md
+2026-06-10 21:53:18,457 INFO [dry] (126/134) W23 Work/2026/Q2/Week 23/Accessibility Reviews - Project Check-in (2026-06-04).md
+2026-06-10 21:53:18,457 INFO [dry] (127/134) W24 Work/2026/Q2/Week 24/Morgan (she-they)'s Personal Meeting Room (2026-06-08).md
+2026-06-10 21:53:18,457 INFO [dry] (128/134) W24 Work/2026/Q2/Week 24/Morgan - Anna 1-1 (2026-06-08).md
+2026-06-10 21:53:18,458 INFO [dry] (129/134) W24 Work/2026/Q2/Week 24/Morgan - Anna 1-1 (2026-06-08) (2).md
+2026-06-10 21:53:18,458 INFO [dry] (130/134) W24 Work/2026/Q2/Week 24/morgan x morgan 1-1 (2026-06-08).md
+2026-06-10 21:53:18,458 INFO [dry] (131/134) W24 Work/2026/Q2/Week 24/Review Prioritisation Discussion (2026-06-09).md
+2026-06-10 21:53:18,458 INFO [dry] (132/134) W24 Work/2026/Q2/Week 24/[Hold] Review Reducting Strategy (2026-06-09).md
+2026-06-10 21:53:18,458 INFO [dry] (133/134) W24 Work/2026/Q2/Week 24/Accessibility team meeting (2026-06-10).md
+2026-06-10 21:53:18,459 INFO [dry] (134/134) W24 Work/2026/Q2/Week 24/Morgan - Natalie 1-1 (2026-06-10).md
+2026-06-10 21:53:30,799 INFO 9 summaries already on disk for 2026
+2026-06-10 21:53:37,130 INFO Enumerated 194 meetings in 2026
+2026-06-10 21:53:43,354 INFO +1 extra summaries from the recent-summaries list
+2026-06-10 21:53:43,354 INFO 138 summaries found | 134 accessible | 4 inaccessible
+2026-06-10 21:53:43,405 INFO Created Work/2026/Q1/Week 2/ and moved 2026-W02.md in
+2026-06-10 21:53:49,715 INFO (1/134) SAVED W02 Work/2026/Q1/Week 2/Morgan - Anna 1-1 (2026-01-07).md
+2026-06-10 21:53:55,356 INFO (2/134) SAVED W02 Work/2026/Q1/Week 2/UX + A11y Sync (2026-01-07).md
+2026-06-10 21:54:01,025 INFO (3/134) SAVED W02 Work/2026/Q1/Week 2/Accessibility Reviews - Project Check-in (2026-01-08).md
+2026-06-10 21:54:07,343 INFO (4/134) SAVED W02 Work/2026/Q1/Week 2/Accessibility Reviews - Project Check-in (2026-01-09).md
+2026-06-10 21:54:07,345 INFO Created Work/2026/Q1/Week 3/ and moved 2026-W03.md in
+2026-06-10 21:54:13,682 INFO (5/134) SAVED W03 Work/2026/Q1/Week 3/Anna's Career Discussion (2026-01-13).md
+2026-06-10 21:54:19,360 INFO (6/134) SAVED W03 Work/2026/Q1/Week 3/Accessibility Reviews - Project Check-in (2026-01-15).md
+2026-06-10 21:54:25,673 INFO (7/134) SAVED W03 Work/2026/Q1/Week 3/Accessibility Reviews - Project Check-in (2026-01-16).md
+2026-06-10 21:54:25,676 INFO Created Work/2026/Q1/Week 4/ and moved 2026-W04.md in
+2026-06-10 21:54:31,319 INFO (8/134) SAVED W04 Work/2026/Q1/Week 4/Accessibility team meeting (2026-01-21).md
+2026-06-10 21:54:37,639 INFO (9/134) SAVED W04 Work/2026/Q1/Week 4/Morgan - Anna 1-1 (2026-01-21).md
+2026-06-10 21:54:43,922 INFO (10/134) SAVED W04 Work/2026/Q1/Week 4/Accessibility Reviews - Project Check-in (2026-01-22).md
+2026-06-10 21:54:48,771 INFO (11/134) SAVED W04 Work/2026/Q1/Week 4/Accessibility Reviews - Project Check-in (2026-01-23).md
+2026-06-10 21:54:55,053 INFO (12/134) SAVED W04 Work/2026/Q1/Week 4/Accessibility Reviews - Project Check-in (2026-01-23) (2).md
+2026-06-10 21:54:55,057 INFO Created Work/2026/Q1/Week 5/ and moved 2026-W05.md in
+2026-06-10 21:55:01,421 INFO (13/134) SAVED W05 Work/2026/Q1/Week 5/Google Calendar Meeting (not synced) (2026-01-27).md
+2026-06-10 21:55:07,724 INFO (14/134) SAVED W05 Work/2026/Q1/Week 5/UX + A11y Sync (2026-01-28).md
+2026-06-10 21:55:14,044 INFO (15/134) SAVED W05 Work/2026/Q1/Week 5/Accessibility Reviews - Project Check-in (2026-01-29).md
+2026-06-10 21:55:20,322 INFO (16/134) SAVED W05 Work/2026/Q1/Week 5/Morgan - Natalie 1-1 (extended version) (2026-01-29).md
+2026-06-10 21:55:26,628 INFO (17/134) SAVED W05 Work/2026/Q1/Week 5/Accessibility Reviews - Project Check-in (2026-01-30).md
+2026-06-10 21:55:32,906 INFO (18/134) SAVED W05 Work/2026/Q1/Week 5/Morgan - Anna work week check in (2026-01-30).md
+2026-06-10 21:55:32,909 INFO Created Work/2026/Q1/Week 6/ and moved 2026-W06.md in
+2026-06-10 21:55:39,573 INFO (19/134) SAVED W06 Work/2026/Q1/Week 6/Accessibility team meeting (2026-02-04).md
+2026-06-10 21:55:39,575 INFO Created Work/2026/Q1/Week 7/ and moved 2026-W07.md in
+2026-06-10 21:55:45,245 INFO (20/134) SAVED W07 Work/2026/Q1/Week 7/2026 H2 - A11y Contractor Discussion (2026-02-10).md
+2026-06-10 21:55:52,267 INFO (21/134) SAVED W07 Work/2026/Q1/Week 7/Accessibility Reviews - Project Check-in (2026-02-12).md
+2026-06-10 21:55:57,905 INFO (22/134) SAVED W07 Work/2026/Q1/Week 7/Accessibility Reviews - Project Check-in (2026-02-13).md
+2026-06-10 21:56:04,239 INFO (23/134) SAVED W08 Work/2026/Q1/Week 8/Accessibility team meeting (2026-02-18).md
+2026-06-10 21:56:09,892 INFO (24/134) SAVED W08 Work/2026/Q1/Week 8/Morgan - Anna 1-1 (2026-02-18).md
+2026-06-10 21:56:16,198 INFO (25/134) SAVED W08 Work/2026/Q1/Week 8/Morgan - Natalie 1-1 (2026-02-18).md
+2026-06-10 21:56:22,501 INFO (26/134) SAVED W08 Work/2026/Q1/Week 8/UX + A11y Sync (2026-02-18).md
+2026-06-10 21:56:28,858 INFO (27/134) SAVED W08 Work/2026/Q1/Week 8/[Check-in] Natalie Performance III (2026-02-18).md
+2026-06-10 21:56:35,158 INFO (28/134) SAVED W08 Work/2026/Q1/Week 8/Accessibility Reviews - Project Check-in (2026-02-19).md
+2026-06-10 21:56:40,826 INFO (29/134) SAVED W08 Work/2026/Q1/Week 8/Accessibility Reviews - Project Check-in (2026-02-20).md
+2026-06-10 21:56:50,119 WARNING (30/134) EMPTY Accessibility Reviews - Project Check-in [2026-02-20]
+2026-06-10 21:56:56,432 INFO (31/134) SAVED W09 Work/2026/Q1/Week 9/Review Prioritisation Discussion (2026-02-24).md
+2026-06-10 21:57:02,732 INFO (32/134) SAVED W09 Work/2026/Q1/Week 9/Morgan - Natalie 1-1 (2026-02-25).md
+2026-06-10 21:57:11,379 WARNING (33/134) EMPTY Morgan / Natalie 1:1 [2026-02-25]
+2026-06-10 21:57:17,668 INFO (34/134) SAVED W09 Work/2026/Q1/Week 9/[Check-in] Natalie Performance III, pt.2 (2026-02-25).md
+2026-06-10 21:57:23,949 INFO (35/134) SAVED W09 Work/2026/Q1/Week 9/Accessibility Reviews - Project Check-in (2026-02-26).md
+2026-06-10 21:57:30,242 INFO (36/134) SAVED W09 Work/2026/Q1/Week 9/Accessibility Reviews - Project Check-in (2026-02-27).md
+2026-06-10 21:57:36,549 INFO (37/134) SAVED W10 Work/2026/Q1/Week 10/Morgan - Anna 1-1 (2026-03-02).md
+2026-06-10 21:57:42,836 INFO (38/134) SAVED W10 Work/2026/Q1/Week 10/Review Prioritisation Discussion (2026-03-03).md
+2026-06-10 21:57:49,114 INFO (39/134) SAVED W10 Work/2026/Q1/Week 10/Accessibility team meeting (2026-03-04).md
+2026-06-10 21:57:54,756 INFO (40/134) SAVED W10 Work/2026/Q1/Week 10/Morgan - Natalie 1-1 (2026-03-04).md
+2026-06-10 21:58:03,141 INFO (41/134) SAVED W10 Work/2026/Q1/Week 10/Accessibility Reviews - Project Check-in (2026-03-05).md
+2026-06-10 21:58:03,145 INFO Created Work/2026/Q1/Week 11/ and moved 2026-W11.md in
+2026-06-10 21:58:09,429 INFO (42/134) SAVED W11 Work/2026/Q1/Week 11/Morgan - Anna 1-1 (2026-03-09).md
+2026-06-10 21:58:15,726 INFO (43/134) SAVED W11 Work/2026/Q1/Week 11/Review Prioritisation Discussion (2026-03-10).md
+2026-06-10 21:58:22,023 INFO (44/134) SAVED W11 Work/2026/Q1/Week 11/A11y bugs dashboard discussion (2026-03-11).md
+2026-06-10 21:58:27,578 INFO (45/134) SAVED W11 Work/2026/Q1/Week 11/Morgan - Natalie 1-1 (2026-03-11).md
+2026-06-10 21:58:33,864 INFO (46/134) SAVED W11 Work/2026/Q1/Week 11/UX + A11y Sync (2026-03-11).md
+2026-06-10 21:58:40,153 INFO (47/134) SAVED W11 Work/2026/Q1/Week 11/Accessibility Reviews - Project Check-in (2026-03-12).md
+2026-06-10 21:58:49,457 WARNING (48/134) EMPTY Accessibility Reviews - Project Check-in [2026-03-13]
+2026-06-10 21:58:55,763 INFO (49/134) SAVED W11 Work/2026/Q1/Week 11/Accessibility Reviews - Project Check-in (2026-03-13) (2).md
+2026-06-10 21:58:55,766 INFO Created Work/2026/Q1/Week 12/ and moved 2026-W12.md in
+2026-06-10 21:59:02,061 INFO (50/134) SAVED W12 Work/2026/Q1/Week 12/Morgan - Anna 1-1 (2026-03-16).md
+2026-06-10 21:59:27,056 INFO (51/134) SAVED W12 Work/2026/Q1/Week 12/Accessibility team meeting (2026-03-17).md
+2026-06-10 21:59:33,419 INFO (52/134) SAVED W12 Work/2026/Q1/Week 12/Review Prioritisation Discussion (2026-03-17).md
+2026-06-10 21:59:39,744 INFO (53/134) SAVED W12 Work/2026/Q1/Week 12/Accessibility team meeting (2026-03-18).md
+2026-06-10 21:59:46,065 INFO (54/134) SAVED W12 Work/2026/Q1/Week 12/Morgan - Natalie 1-1 (2026-03-18).md
+2026-06-10 21:59:51,461 INFO (55/134) SAVED W12 Work/2026/Q1/Week 12/Accessibility Reviews - Project Check-in (2026-03-19).md
+2026-06-10 21:59:57,760 INFO (56/134) SAVED W12 Work/2026/Q1/Week 12/Accessibility Reviews - Project Check-in (2026-03-20).md
+2026-06-10 21:59:57,764 INFO Created Work/2026/Q1/Week 13/ and moved 2026-W13.md in
+2026-06-10 22:00:03,446 INFO (57/134) SAVED W13 Work/2026/Q1/Week 13/Morgan - Anna 1-1 (2026-03-23).md
+2026-06-10 22:00:09,790 INFO (58/134) SAVED W13 Work/2026/Q1/Week 13/Review Prioritisation Discussion (2026-03-24).md
+2026-06-10 22:00:16,082 INFO (59/134) SAVED W13 Work/2026/Q1/Week 13/[Check-in] Natalie Performance IV (2026-03-24).md
+2026-06-10 22:00:22,380 INFO (60/134) SAVED W13 Work/2026/Q1/Week 13/Morgan - Natalie 1-1 (2026-03-25).md
+2026-06-10 22:00:28,684 INFO (61/134) SAVED W13 Work/2026/Q1/Week 13/Accessibility Reviews - Project Check-in (2026-03-26).md
+2026-06-10 22:00:35,094 INFO (62/134) SAVED W13 Work/2026/Q1/Week 13/Accessibility Reviews - Project Check-in (2026-03-27).md
+2026-06-10 22:00:35,096 INFO Created Work/2026/Q1/Week 14/ and moved 2026-W14.md in
+2026-06-10 22:00:59,758 INFO (63/134) SAVED W14 Work/2026/Q1/Week 14/Review Prioritisation Discussion (2026-03-31).md
+2026-06-10 22:01:06,122 INFO (64/134) SAVED W14 Work/2026/Q1/Week 14/Accessibility team meeting (2026-04-01).md
+2026-06-10 22:01:20,668 INFO (65/134) SAVED W14 Work/2026/Q1/Week 14/UX + A11y Sync (2026-04-01).md
+2026-06-10 22:01:26,979 INFO (66/134) SAVED W14 Work/2026/Q1/Week 14/Morgan - Natalie 1-1 (2026-04-03).md
+2026-06-10 22:01:26,983 INFO Created Work/2026/Q2/Week 15/ and moved 2026-W15.md in
+2026-06-10 22:01:33,294 INFO (67/134) SAVED W15 Work/2026/Q2/Week 15/Review Prioritisation Discussion (2026-04-07).md
+2026-06-10 22:01:39,581 INFO (68/134) SAVED W15 Work/2026/Q2/Week 15/Accessibility Reviews - Project Check-in (2026-04-09).md
+2026-06-10 22:01:45,885 INFO (69/134) SAVED W15 Work/2026/Q2/Week 15/Accessibility Reviews - Project Check-in (2026-04-10).md
+2026-06-10 22:01:45,888 INFO Created Work/2026/Q2/Week 16/ and moved 2026-W16.md in
+2026-06-10 22:01:52,189 INFO (70/134) SAVED W16 Work/2026/Q2/Week 16/Morgan - Anna 1-1 (2026-04-13).md
+2026-06-10 22:01:57,874 INFO (71/134) SAVED W16 Work/2026/Q2/Week 16/Review Prioritisation Discussion (2026-04-14).md
+2026-06-10 22:02:04,191 INFO (72/134) SAVED W16 Work/2026/Q2/Week 16/Accessibility team meeting (2026-04-15).md
+2026-06-10 22:02:09,896 INFO (73/134) SAVED W16 Work/2026/Q2/Week 16/Morgan - Natalie 1-1 (2026-04-15).md
+2026-06-10 22:02:16,208 INFO (74/134) SAVED W16 Work/2026/Q2/Week 16/Accessibility Reviews - Project Check-in (2026-04-16).md
+2026-06-10 22:02:25,531 WARNING (75/134) EMPTY Accessibility Reviews - Project Check-in [2026-04-17]
+2026-06-10 22:02:33,933 INFO (76/134) SAVED W16 Work/2026/Q2/Week 16/Accessibility Reviews - Project Check-in (2026-04-17) (2).md
+2026-06-10 22:02:33,939 INFO Created Work/2026/Q2/Week 17/ and moved 2026-W17.md in
+2026-06-10 22:02:40,225 INFO (77/134) SAVED W17 Work/2026/Q2/Week 17/Morgan - Anna 1-1 (2026-04-20).md
+2026-06-10 22:02:46,527 INFO (78/134) SAVED W17 Work/2026/Q2/Week 17/Review Prioritisation Discussion (2026-04-21).md
+2026-06-10 22:02:52,834 INFO (79/134) SAVED W17 Work/2026/Q2/Week 17/Morgan - Frank 1-1 - Quarterly Check-in (2026-04-22).md
+2026-06-10 22:03:00,132 INFO (80/134) SAVED W17 Work/2026/Q2/Week 17/Morgan - Natalie 1-1 (2026-04-22).md
+2026-06-10 22:03:06,486 INFO (81/134) SAVED W17 Work/2026/Q2/Week 17/UX + A11y Sync (2026-04-22).md
+2026-06-10 22:03:12,803 INFO (82/134) SAVED W17 Work/2026/Q2/Week 17/Accessibility Reviews - Project Check-in (2026-04-23).md
+2026-06-10 22:03:19,132 INFO (83/134) SAVED W17 Work/2026/Q2/Week 17/Accessibility Reviews - Project Check-in (2026-04-24).md
+2026-06-10 22:03:19,135 INFO Created Work/2026/Q2/Week 18/ and moved 2026-W18.md in
+2026-06-10 22:03:25,440 INFO (84/134) SAVED W18 Work/2026/Q2/Week 18/Morgan - Anna 1-1 (2026-04-27).md
+2026-06-10 22:03:31,753 INFO (85/134) SAVED W18 Work/2026/Q2/Week 18/Review Prioritisation Discussion (2026-04-28).md
+2026-06-10 22:03:39,905 INFO (86/134) SAVED W18 Work/2026/Q2/Week 18/Accessibility team meeting (2026-04-29).md
+2026-06-10 22:03:46,169 INFO (87/134) SAVED W18 Work/2026/Q2/Week 18/Morgan - Frank hiring chat (2026-04-29).md
+2026-06-10 22:03:52,453 INFO (88/134) SAVED W18 Work/2026/Q2/Week 18/Morgan - Natalie 1-1 (2026-04-29).md
+2026-06-10 22:03:58,783 INFO (89/134) SAVED W18 Work/2026/Q2/Week 18/Accessibility Reviews - Project Check-in (2026-04-30).md
+2026-06-10 22:04:05,098 INFO (90/134) SAVED W18 Work/2026/Q2/Week 18/Accessibility Reviews - Project Check-in (2026-05-01).md
+2026-06-10 22:04:05,104 INFO Created Work/2026/Q2/Week 19/ and moved 2026-W19.md in
+2026-06-10 22:04:11,428 INFO (91/134) SAVED W19 Work/2026/Q2/Week 19/Morgan - Anna 1-1 (2026-05-04).md
+2026-06-10 22:04:17,740 INFO (92/134) SAVED W19 Work/2026/Q2/Week 19/General A11y Reviews Management (2026-05-05).md
+2026-06-10 22:04:23,448 INFO (93/134) SAVED W19 Work/2026/Q2/Week 19/Review Prioritisation Discussion (2026-05-05).md
+2026-06-10 22:04:34,967 INFO (94/134) SAVED W19 Work/2026/Q2/Week 19/Google Calendar Meeting (not synced) (2026-05-06).md
+2026-06-10 22:04:40,641 INFO (95/134) SAVED W19 Work/2026/Q2/Week 19/Morgan - Natalie 1-1 (2026-05-06).md
+2026-06-10 22:04:47,005 INFO (96/134) SAVED W19 Work/2026/Q2/Week 19/Accessibility Reviews - Project Check-in (2026-05-07).md
+2026-06-10 22:04:53,348 INFO (97/134) SAVED W19 Work/2026/Q2/Week 19/Google Calendar Meeting (not synced) (2026-05-07).md
+2026-06-10 22:04:59,770 INFO (98/134) SAVED W19 Work/2026/Q2/Week 19/Accessibility Reviews - Project Check-in (2026-05-08).md
+2026-06-10 22:04:59,774 INFO Created Work/2026/Q2/Week 20/ and moved 2026-W20.md in
+2026-06-10 22:05:05,492 INFO (99/134) SAVED W20 Work/2026/Q2/Week 20/Morgan - Anna 1-1 (2026-05-11).md
+2026-06-10 22:05:15,769 INFO (100/134) SAVED W20 Work/2026/Q2/Week 20/Review Quality Assessment Strategising (2026-05-11).md
+2026-06-10 22:05:22,077 INFO (101/134) SAVED W20 Work/2026/Q2/Week 20/a11y-ai review tools precheck (2026-05-11).md
+2026-06-10 22:05:32,691 INFO (102/134) SAVED W20 Work/2026/Q2/Week 20/Review Prioritisation Discussion (2026-05-12).md
+2026-06-10 22:05:39,014 INFO (103/134) SAVED W20 Work/2026/Q2/Week 20/Accessibility team meeting (2026-05-13).md
+2026-06-10 22:05:45,346 INFO (104/134) SAVED W20 Work/2026/Q2/Week 20/Morgan - Natalie 1-1 (2026-05-13).md
+2026-06-10 22:05:51,012 INFO (105/134) SAVED W20 Work/2026/Q2/Week 20/UX + A11y Sync (2026-05-13).md
+2026-06-10 22:06:06,270 INFO (106/134) SAVED W20 Work/2026/Q2/Week 20/Accessibility Reviews - Project Check-in (2026-05-14).md
+2026-06-10 22:06:06,274 INFO Created Work/2026/Q2/Week 21/ and moved 2026-W21.md in
+2026-06-10 22:06:13,436 INFO (107/134) SAVED W21 Work/2026/Q2/Week 21/Morgan - Anna 1-1 (2026-05-18).md
+2026-06-10 22:06:19,839 INFO (108/134) SAVED W21 Work/2026/Q2/Week 21/Review Prioritisation Discussion (2026-05-19).md
+2026-06-10 22:06:25,522 INFO (109/134) SAVED W21 Work/2026/Q2/Week 21/Reviewer Contractor Discussion (2026-05-19).md
+2026-06-10 22:06:31,217 INFO (110/134) SAVED W21 Work/2026/Q2/Week 21/Morgan - Kim phab review skill sync (2026-05-20).md
+2026-06-10 22:06:36,885 INFO (111/134) SAVED W21 Work/2026/Q2/Week 21/Morgan - Natalie 1-1 (2026-05-20).md
+2026-06-10 22:06:45,598 WARNING (112/134) EMPTY Accessibility Reviews - Project Check-in [2026-05-21]
+2026-06-10 22:06:51,951 INFO (113/134) SAVED W21 Work/2026/Q2/Week 21/Accessibility Reviews - Project Check-in (2026-05-21) (2).md
+2026-06-10 22:06:51,956 INFO Created Work/2026/Q2/Week 22/ and moved 2026-W22.md in
+2026-06-10 22:06:58,269 INFO (114/134) SAVED W22 Work/2026/Q2/Week 22/Morgan - Anna 1-1 (2026-05-26).md
+2026-06-10 22:07:03,979 INFO (115/134) SAVED W22 Work/2026/Q2/Week 22/Review Prioritisation Discussion (2026-05-26).md
+2026-06-10 22:07:09,657 INFO (116/134) SAVED W22 Work/2026/Q2/Week 22/Accessibility team meeting (2026-05-27).md
+2026-06-10 22:07:16,095 INFO (117/134) SAVED W22 Work/2026/Q2/Week 22/Morgan - Natalie 1-1 (2026-05-27).md
+2026-06-10 22:07:22,496 INFO (118/134) SAVED W22 Work/2026/Q2/Week 22/Accessibility Reviews - Project Check-in (2026-05-28).md
+2026-06-10 22:07:28,783 INFO (119/134) SAVED W22 Work/2026/Q2/Week 22/Accessibility Reviews - Project Check-in (2026-05-29).md
+2026-06-10 22:07:35,099 INFO (120/134) SAVED W23 Work/2026/Q2/Week 23/Morgan - Anna 1-1 (2026-06-01).md
+2026-06-10 22:07:41,392 INFO (121/134) SAVED W23 Work/2026/Q2/Week 23/Review Prioritisation Discussion (2026-06-02).md
+2026-06-10 22:07:47,756 INFO (122/134) SAVED W23 Work/2026/Q2/Week 23/[Check-in] Natalie Performance VI (2026-06-02).md
+2026-06-10 22:07:54,415 INFO (123/134) SAVED W23 Work/2026/Q2/Week 23/Google Calendar Meeting (not synced) (2026-06-03).md
+2026-06-10 22:07:59,552 INFO (124/134) SAVED W23 Work/2026/Q2/Week 23/Morgan - Natalie 1-1 (2026-06-03).md
+2026-06-10 22:08:08,148 INFO (125/134) SAVED W23 Work/2026/Q2/Week 23/UX + A11y Sync (2026-06-03).md
+2026-06-10 22:08:14,434 INFO (126/134) SAVED W23 Work/2026/Q2/Week 23/Accessibility Reviews - Project Check-in (2026-06-04).md
+2026-06-10 22:08:20,125 INFO (127/134) SAVED W24 Work/2026/Q2/Week 24/Morgan (she-they)'s Personal Meeting Room (2026-06-08).md
+2026-06-10 22:08:28,824 WARNING (128/134) EMPTY Morgan / Anna 1:1 [2026-06-08]
+2026-06-10 22:08:39,081 INFO (129/134) SAVED W24 Work/2026/Q2/Week 24/Morgan - Anna 1-1 (2026-06-08) (2).md
+2026-06-10 22:08:44,762 INFO (130/134) SAVED W24 Work/2026/Q2/Week 24/morgan x morgan 1-1 (2026-06-08).md
+2026-06-10 22:08:51,079 INFO (131/134) SAVED W24 Work/2026/Q2/Week 24/Review Prioritisation Discussion (2026-06-09).md
+2026-06-10 22:08:54,747 INFO (132/134) SAVED W24 Work/2026/Q2/Week 24/[Hold] Review Reducting Strategy (2026-06-09).md
+2026-06-10 22:09:01,166 INFO (133/134) SAVED W24 Work/2026/Q2/Week 24/Accessibility team meeting (2026-06-10).md
+2026-06-10 22:09:07,564 INFO (134/134) SAVED W24 Work/2026/Q2/Week 24/Morgan - Natalie 1-1 (2026-06-10).md
+2026-06-11 10:26:40,693 INFO 0 summaries already on disk for 2025
+2026-06-11 10:26:45,413 WARNING list_my_meetings 500 for window starting 2025-03-26
+2026-06-11 10:26:49,040 INFO Enumerated 225 meetings in 2025
+2026-06-11 10:26:56,812 INFO 30 summaries found | 29 accessible | 1 inaccessible
+2026-06-11 10:26:56,876 INFO [dry] (1/29) Work/2025/Q3/Meetings/Knowbility - Mozilla Collaboration Discussion (2025-08-11)/summary.md
+2026-06-11 10:26:56,876 INFO [dry] (2/29) Work/2025/Q3/Meetings/Agency Selection Debrief (2025-09-25)/summary.md
+2026-06-11 10:26:56,876 INFO [dry] (3/29) Work/2025/Q4/Meetings/A11y chat - HNT Stories (2025-10-29)/summary.md
+2026-06-11 10:26:56,876 INFO [dry] (4/29) Work/2025/Q4/Meetings/UX + A11y Sync (2025-10-29)/summary.md
+2026-06-11 10:26:56,876 INFO [dry] (5/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-06)/summary.md
+2026-06-11 10:26:56,877 INFO [dry] (6/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-07)/summary.md
+2026-06-11 10:26:56,877 INFO [dry] (7/29) Work/2025/Q4/Meetings/Morgan - Anna 1-1 (2025-11-12)/summary.md
+2026-06-11 10:26:56,877 INFO [dry] (8/29) Work/2025/Q4/Meetings/Review Prioritisation Discussion (2025-11-12)/summary.md
+2026-06-11 10:26:56,877 INFO [dry] (9/29) Work/2025/Q4/Meetings/Zoom Meeting (2025-11-12)/summary.md
+2026-06-11 10:26:56,877 INFO [dry] (10/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-13)/summary.md
+2026-06-11 10:26:56,877 INFO [dry] (11/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-14)/summary.md
+2026-06-11 10:26:56,877 INFO [dry] (12/29) Work/2025/Q4/Meetings/Review Prioritisation Discussion (2025-11-18)/summary.md
+2026-06-11 10:26:56,878 INFO [dry] (13/29) Work/2025/Q4/Meetings/Accessibility team meeting (2025-11-19)/summary.md
+2026-06-11 10:26:56,878 INFO [dry] (14/29) Work/2025/Q4/Meetings/UX + A11y Sync (2025-11-19)/summary.md
+2026-06-11 10:26:56,878 INFO [dry] (15/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-20)/summary.md
+2026-06-11 10:26:56,878 INFO [dry] (16/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-20) (2)/summary.md
+2026-06-11 10:26:56,878 INFO [dry] (17/29) Work/2025/Q4/Meetings/Zoom Meeting (2025-11-20)/summary.md
+2026-06-11 10:26:56,878 INFO [dry] (18/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-21)/summary.md
+2026-06-11 10:26:56,878 INFO [dry] (19/29) Work/2025/Q4/Meetings/Morgan - Natalie 1-1 (2025-12-03)/summary.md
+2026-06-11 10:26:56,879 INFO [dry] (20/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-04)/summary.md
+2026-06-11 10:26:56,879 INFO [dry] (21/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-05)/summary.md
+2026-06-11 10:26:56,879 INFO [dry] (22/29) Work/2025/Q4/Meetings/Accessibility team meeting (2025-12-10)/summary.md
+2026-06-11 10:26:56,879 INFO [dry] (23/29) Work/2025/Q4/Meetings/UX + A11y Sync (2025-12-10)/summary.md
+2026-06-11 10:26:56,879 INFO [dry] (24/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-11)/summary.md
+2026-06-11 10:26:56,879 INFO [dry] (25/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-12)/summary.md
+2026-06-11 10:26:56,880 INFO [dry] create Work/2025/Q4/Week 51 + move 2025-W51.md in
+2026-06-11 10:26:56,880 INFO [dry] (26/29) Work/2025/Q4/Week 51/Meetings/Morgan - Anna 1-1 (2025-12-17)/summary.md
+2026-06-11 10:26:56,880 INFO [dry] create Work/2025/Q4/Week 51 + move 2025-W51.md in
+2026-06-11 10:26:56,880 INFO [dry] (27/29) Work/2025/Q4/Week 51/Meetings/Morgan - Natalie 1-1 (2025-12-17)/summary.md
+2026-06-11 10:26:56,880 INFO [dry] create Work/2025/Q4/Week 51 + move 2025-W51.md in
+2026-06-11 10:26:56,880 INFO [dry] (28/29) Work/2025/Q4/Week 51/Meetings/Accessibility Reviews - Project Check-in (2025-12-18)/summary.md
+2026-06-11 10:26:56,881 INFO [dry] create Work/2025/Q4/Week 51 + move 2025-W51.md in
+2026-06-11 10:26:56,881 INFO [dry] (29/29) Work/2025/Q4/Week 51/Meetings/Accessibility Reviews - Project Check-in (2025-12-19)/summary.md
+2026-06-11 10:28:56,110 INFO 0 summaries already on disk for 2025
+2026-06-11 10:29:00,883 WARNING list_my_meetings 500 for window starting 2025-03-26
+2026-06-11 10:29:05,020 INFO Enumerated 225 meetings in 2025
+2026-06-11 10:29:10,380 INFO 30 summaries found | 29 accessible | 1 inaccessible
+2026-06-11 10:29:10,438 INFO [dry] (1/29) Work/2025/Q3/Meetings/Knowbility - Mozilla Collaboration Discussion (2025-08-11)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (2/29) Work/2025/Q3/Meetings/Agency Selection Debrief (2025-09-25)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (3/29) Work/2025/Q4/Meetings/A11y chat - HNT Stories (2025-10-29)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (4/29) Work/2025/Q4/Meetings/UX + A11y Sync (2025-10-29)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (5/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-06)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (6/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-07)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (7/29) Work/2025/Q4/Meetings/Morgan - Anna 1-1 (2025-11-12)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (8/29) Work/2025/Q4/Meetings/Review Prioritisation Discussion (2025-11-12)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (9/29) Work/2025/Q4/Meetings/Zoom Meeting (2025-11-12)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (10/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-13)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (11/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-14)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (12/29) Work/2025/Q4/Meetings/Review Prioritisation Discussion (2025-11-18)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (13/29) Work/2025/Q4/Meetings/Accessibility team meeting (2025-11-19)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (14/29) Work/2025/Q4/Meetings/UX + A11y Sync (2025-11-19)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (15/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-20)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (16/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-20) (2)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (17/29) Work/2025/Q4/Meetings/Zoom Meeting (2025-11-20)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (18/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-21)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (19/29) Work/2025/Q4/Meetings/Morgan - Natalie 1-1 (2025-12-03)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (20/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-04)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (21/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-05)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (22/29) Work/2025/Q4/Meetings/Accessibility team meeting (2025-12-10)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (23/29) Work/2025/Q4/Meetings/UX + A11y Sync (2025-12-10)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (24/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-11)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (25/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-12)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (26/29) Work/2025/Q4/Meetings/Morgan - Anna 1-1 (2025-12-17)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (27/29) Work/2025/Q4/Meetings/Morgan - Natalie 1-1 (2025-12-17)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (28/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-18)/summary.md
+2026-06-11 10:29:10,438 INFO [dry] (29/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-19)/summary.md
+2026-06-11 10:29:10,769 INFO 0 summaries already on disk for 2025
+2026-06-11 10:29:15,453 WARNING list_my_meetings 500 for window starting 2025-03-26
+2026-06-11 10:29:18,893 INFO Enumerated 225 meetings in 2025
+2026-06-11 10:29:24,763 INFO 30 summaries found | 29 accessible | 1 inaccessible
+2026-06-11 10:29:24,820 INFO [dry] (1/29) Work/2025/Q3/Meetings/Knowbility - Mozilla Collaboration Discussion (2025-08-11)/summary.md
+2026-06-11 10:29:24,820 INFO [dry] (2/29) Work/2025/Q3/Meetings/Agency Selection Debrief (2025-09-25)/summary.md
+2026-06-11 10:29:24,820 INFO [dry] (3/29) Work/2025/Q4/Meetings/A11y chat - HNT Stories (2025-10-29)/summary.md
+2026-06-11 10:29:24,820 INFO [dry] (4/29) Work/2025/Q4/Meetings/UX + A11y Sync (2025-10-29)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (5/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-06)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (6/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-07)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (7/29) Work/2025/Q4/Meetings/Morgan - Anna 1-1 (2025-11-12)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (8/29) Work/2025/Q4/Meetings/Review Prioritisation Discussion (2025-11-12)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (9/29) Work/2025/Q4/Meetings/Zoom Meeting (2025-11-12)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (10/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-13)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (11/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-14)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (12/29) Work/2025/Q4/Meetings/Review Prioritisation Discussion (2025-11-18)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (13/29) Work/2025/Q4/Meetings/Accessibility team meeting (2025-11-19)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (14/29) Work/2025/Q4/Meetings/UX + A11y Sync (2025-11-19)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (15/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-20)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (16/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-20) (2)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (17/29) Work/2025/Q4/Meetings/Zoom Meeting (2025-11-20)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (18/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-21)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (19/29) Work/2025/Q4/Meetings/Morgan - Natalie 1-1 (2025-12-03)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (20/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-04)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (21/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-05)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (22/29) Work/2025/Q4/Meetings/Accessibility team meeting (2025-12-10)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (23/29) Work/2025/Q4/Meetings/UX + A11y Sync (2025-12-10)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (24/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-11)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (25/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-12)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (26/29) Work/2025/Q4/Meetings/Morgan - Anna 1-1 (2025-12-17)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (27/29) Work/2025/Q4/Meetings/Morgan - Natalie 1-1 (2025-12-17)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (28/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-18)/summary.md
+2026-06-11 10:29:24,821 INFO [dry] (29/29) Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-19)/summary.md
+2026-06-11 10:29:48,769 INFO 0 summaries already on disk for 2025
+2026-06-11 10:29:53,241 WARNING list_my_meetings 500 for window starting 2025-03-26
+2026-06-11 10:29:56,671 INFO Enumerated 225 meetings in 2025
+2026-06-11 10:30:02,445 INFO 30 summaries found | 29 accessible | 1 inaccessible
+2026-06-11 10:30:07,495 INFO (1/29) SAVED Work/2025/Q3/Meetings/Knowbility - Mozilla Collaboration Discussion (2025-08-11)/summary.md
+2026-06-11 10:30:13,096 INFO (2/29) SAVED Work/2025/Q3/Meetings/Agency Selection Debrief (2025-09-25)/summary.md
+2026-06-11 10:30:18,082 INFO (3/29) SAVED Work/2025/Q4/Meetings/A11y chat - HNT Stories (2025-10-29)/summary.md
+2026-06-11 10:30:23,023 INFO (4/29) SAVED Work/2025/Q4/Meetings/UX + A11y Sync (2025-10-29)/summary.md
+2026-06-11 10:30:27,790 INFO (5/29) SAVED Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-06)/summary.md
+2026-06-11 10:30:33,441 INFO (6/29) SAVED Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-07)/summary.md
+2026-06-11 10:30:38,390 INFO (7/29) SAVED Work/2025/Q4/Meetings/Morgan - Anna 1-1 (2025-11-12)/summary.md
+2026-06-11 10:30:43,317 INFO (8/29) SAVED Work/2025/Q4/Meetings/Review Prioritisation Discussion (2025-11-12)/summary.md
+2026-06-11 10:30:48,849 INFO (9/29) SAVED Work/2025/Q4/Meetings/Zoom Meeting (2025-11-12)/summary.md
+2026-06-11 10:30:53,714 INFO (10/29) SAVED Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-13)/summary.md
+2026-06-11 10:31:04,306 INFO (11/29) SAVED Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-14)/summary.md
+2026-06-11 10:31:09,949 INFO (12/29) SAVED Work/2025/Q4/Meetings/Review Prioritisation Discussion (2025-11-18)/summary.md
+2026-06-11 10:31:14,869 INFO (13/29) SAVED Work/2025/Q4/Meetings/Accessibility team meeting (2025-11-19)/summary.md
+2026-06-11 10:31:18,466 INFO (14/29) SAVED Work/2025/Q4/Meetings/UX + A11y Sync (2025-11-19)/summary.md
+2026-06-11 10:31:23,342 INFO (15/29) SAVED Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-20)/summary.md
+2026-06-11 10:31:28,953 INFO (16/29) SAVED Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-20) (2)/summary.md
+2026-06-11 10:31:33,846 INFO (17/29) SAVED Work/2025/Q4/Meetings/Zoom Meeting (2025-11-20)/summary.md
+2026-06-11 10:31:38,804 INFO (18/29) SAVED Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-11-21)/summary.md
+2026-06-11 10:31:43,849 INFO (19/29) SAVED Work/2025/Q4/Meetings/Morgan - Natalie 1-1 (2025-12-03)/summary.md
+2026-06-11 10:31:48,476 INFO (20/29) SAVED Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-04)/summary.md
+2026-06-11 10:31:54,700 INFO (21/29) SAVED Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-05)/summary.md
+2026-06-11 10:32:00,344 INFO (22/29) SAVED Work/2025/Q4/Meetings/Accessibility team meeting (2025-12-10)/summary.md
+2026-06-11 10:32:05,137 INFO (23/29) SAVED Work/2025/Q4/Meetings/UX + A11y Sync (2025-12-10)/summary.md
+2026-06-11 10:32:10,747 INFO (24/29) SAVED Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-11)/summary.md
+2026-06-11 10:32:15,292 INFO (25/29) SAVED Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-12)/summary.md
+2026-06-11 10:32:19,786 INFO (26/29) SAVED Work/2025/Q4/Meetings/Morgan - Anna 1-1 (2025-12-17)/summary.md
+2026-06-11 10:32:24,332 INFO (27/29) SAVED Work/2025/Q4/Meetings/Morgan - Natalie 1-1 (2025-12-17)/summary.md
+2026-06-11 10:32:29,019 INFO (28/29) SAVED Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-18)/summary.md
+2026-06-11 10:32:32,791 INFO (29/29) SAVED Work/2025/Q4/Meetings/Accessibility Reviews - Project Check-in (2025-12-19)/summary.md
+2026-06-11 10:33:40,376 INFO 128 summaries already on disk for 2026
+2026-06-11 10:33:46,557 INFO Enumerated 195 meetings in 2026
+2026-06-11 10:33:55,802 INFO +1 extra summaries from the recent-summaries list
+2026-06-11 10:33:55,803 INFO 139 summaries found | 135 accessible | 4 inaccessible
+2026-06-11 10:33:56,044 INFO [dry] (30/135) Work/2026/Q1/Week 8/Meetings/Accessibility Reviews - Project Check-in (2026-02-20) (2)/summary.md
+2026-06-11 10:33:56,060 INFO [dry] (33/135) Work/2026/Q1/Week 9/Meetings/Morgan - Natalie 1-1 (2026-02-25) (2)/summary.md
+2026-06-11 10:33:56,140 INFO [dry] (48/135) Work/2026/Q1/Week 11/Meetings/Accessibility Reviews - Project Check-in (2026-03-13)/summary.md
+2026-06-11 10:33:56,281 INFO [dry] (75/135) Work/2026/Q2/Week 16/Meetings/Accessibility Reviews - Project Check-in (2026-04-17)/summary.md
+2026-06-11 10:33:56,476 INFO [dry] (112/135) Work/2026/Q2/Week 21/Meetings/Accessibility Reviews - Project Check-in (2026-05-21)/summary.md
+2026-06-11 10:33:56,566 INFO [dry] (128/135) Work/2026/Q2/Week 24/Meetings/Morgan - Anna 1-1 (2026-06-08)/summary.md
+2026-06-11 10:33:56,604 INFO [dry] (135/135) Work/2026/Q2/Week 24/Meetings/Accessibility Reviews - Project Check-in (2026-06-11)/summary.md

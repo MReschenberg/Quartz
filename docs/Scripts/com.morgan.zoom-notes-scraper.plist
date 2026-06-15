@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.morgan.zoom-notes-scraper</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/opt/homebrew/bin/python3</string>
+        <string>/Users/morganraereschenberg/Library/Mobile Documents/iCloud~md~obsidian/Documents/Scripts/zoom_notes_scraper.py</string>
+        <string>--headless</string>
+    </array>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>17</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/tmp/zoom_notes_scraper_launchd.log</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/zoom_notes_scraper_launchd.log</string>
+</dict>
+</plist>
