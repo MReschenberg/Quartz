@@ -1,4 +1,5 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
 // put your custom CSS here!
 
@@ -236,5 +237,23 @@ code.mermaid,
   .node text,
   .cluster text {
     fill: #282828 !important;
+  }
+}
+
+// ── Sidebar scroll: let the Explorer file-tree scroll on its own ─────────────
+// The left sidebar is height:100vh and the tree is meant to scroll internally,
+// but `.explorer` (flex:0 1 auto) and `.explorer-content` keep min-height:auto,
+// so they never shrink below content height — the inner `ul.overflow` can't
+// scroll and the tree gets clipped. Letting the explorer claim the remaining
+// height and allowing both to shrink (min-height:0) engages the existing scroll.
+// Scoped to non-mobile (mobile hamburger untouched); `.sidebar.left` prefix wins
+// specificity over the component's own `.explorer` rule regardless of CSS order.
+@media all and not ($mobile) {
+  .sidebar.left .explorer {
+    flex: 1 1 auto;
+    min-height: 0;
+  }
+  .sidebar.left .explorer-content {
+    min-height: 0;
   }
 }
