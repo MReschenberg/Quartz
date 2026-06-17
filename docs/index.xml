@@ -6,65 +6,65 @@
       <description>Last 10 notes on Morgan&#039;s Digital Garden 🪴</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>8. Flow Diagram</title>
-    <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/review-workflow-walkthrough/8.-Flow-Diagram</link>
-    <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/review-workflow-walkthrough/8.-Flow-Diagram</guid>
-    <description><![CDATA[ ← Review Workflow — Walkthrough Review Workflow — Flow Diagram This is the path every design or engineering review follows, from picking it up to closing it out. ]]></description>
-    <pubDate>Tue, 16 Jun 2026 00:36:09 GMT</pubDate>
-  </item><item>
     <title>0. index</title>
-    <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/bug-verification/0.-index</link>
-    <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/bug-verification/0.-index</guid>
-    <description><![CDATA[ Bug Verification &amp; Filing — Contents Bug Verification &amp; Filing — the process Flow diagram Worked examples . ]]></description>
-    <pubDate>Sat, 13 Jun 2026 09:00:11 GMT</pubDate>
+    <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/escalation-and-handoff/0.-index</link>
+    <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/escalation-and-handoff/0.-index</guid>
+    <description><![CDATA[ Escalation &amp; Handoff — Routing Work You Don’t Own Not every request that lands on you is yours to decide on or act on. ]]></description>
+    <pubDate>Wed, 17 Jun 2026 04:08:07 GMT</pubDate>
   </item><item>
-    <title>bug-verification-and-filing-revised</title>
-    <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/bug-verification/bug-verification-and-filing-revised</link>
-    <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/bug-verification/bug-verification-and-filing-revised</guid>
-    <description><![CDATA[ Bug Verification and Filing — Revised Purpose of this section When you find a potential bug in AT testing, your job is to answer one question before filing: Is this a generic bug (affects every platform) or is it specific to a platform or AT? Your answer determines how you file and what scope you as... ]]></description>
-    <pubDate>Sat, 13 Jun 2026 09:00:11 GMT</pubDate>
+    <title>1. What escalation is</title>
+    <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/escalation-and-handoff/1.-What-escalation-is</link>
+    <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/escalation-and-handoff/1.-What-escalation-is</guid>
+    <description><![CDATA[ ← Escalation &amp; Handoff What escalation is Escalation is passing a request — or a decision — to the person who owns it, because it sits above your authority, outside your assigned priorities, or needs a call that isn’t yours to make. ]]></description>
+    <pubDate>Wed, 17 Jun 2026 04:08:07 GMT</pubDate>
   </item><item>
-    <title>bug-verification-flowchart</title>
-    <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/bug-verification/bug-verification-flowchart</link>
-    <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/bug-verification/bug-verification-flowchart</guid>
-    <description><![CDATA[ Bug Verification &amp; Filing — Flow Diagram Click any blue or amber node to open the corresponding section in bug-verification-and-filing-revised. ]]></description>
-    <pubDate>Sat, 13 Jun 2026 09:00:11 GMT</pubDate>
+    <title>2. When to escalate</title>
+    <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/escalation-and-handoff/2.-When-to-escalate</link>
+    <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/escalation-and-handoff/2.-When-to-escalate</guid>
+    <description><![CDATA[ ← Escalation &amp; Handoff When to escalate Escalate when a request needs a decision you don’t own, or asks for work that isn’t yours to start. ]]></description>
+    <pubDate>Wed, 17 Jun 2026 04:08:07 GMT</pubDate>
   </item><item>
-    <title>bug-verification-worked-examples</title>
-    <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/bug-verification/bug-verification-worked-examples</link>
-    <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/bug-verification/bug-verification-worked-examples</guid>
-    <description><![CDATA[ Bug Verification — Worked Examples Each example below traces a recently closed bug through the flowchart in bug-verification-flowchart. ]]></description>
-    <pubDate>Sat, 13 Jun 2026 09:00:11 GMT</pubDate>
+    <title>3. The clean handoff</title>
+    <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/escalation-and-handoff/3.-The-clean-handoff</link>
+    <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/escalation-and-handoff/3.-The-clean-handoff</guid>
+    <description><![CDATA[ ← Escalation &amp; Handoff The clean handoff A good escalation is one clear message to the owner, and then you stop. ]]></description>
+    <pubDate>Wed, 17 Jun 2026 04:08:07 GMT</pubDate>
   </item><item>
-    <title>0. index</title>
-    <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/priority-guide/0.-index</link>
-    <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/priority-guide/0.-index</guid>
-    <description><![CDATA[ Priority Guide — What to Work On, and How to Know You’re on Track The goal of your day is not to finish everything in the queue. ]]></description>
-    <pubDate>Sat, 13 Jun 2026 09:00:11 GMT</pubDate>
+    <title>4. After you escalate, it&#039;s not yours to carry</title>
+    <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/escalation-and-handoff/4.-After-you-escalate,-it's-not-yours-to-carry</link>
+    <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/escalation-and-handoff/4.-After-you-escalate,-it's-not-yours-to-carry</guid>
+    <description><![CDATA[ ← Escalation &amp; Handoff After you escalate, it’s not yours to carry This is the most important page in this guide. ]]></description>
+    <pubDate>Wed, 17 Jun 2026 04:08:07 GMT</pubDate>
   </item><item>
-    <title>1. Rules for Prioritisation of Reviews</title>
-    <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/priority-guide/1.-Rules-for-Prioritisation-of-Reviews</link>
-    <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/priority-guide/1.-Rules-for-Prioritisation-of-Reviews</guid>
-    <description><![CDATA[ ← Priority Guide Rules for Prioritisation of Reviews When many pieces of review work compete for your time use these rules order to decide what to work on: The priority in the review sheet sets your priority. ]]></description>
-    <pubDate>Sat, 13 Jun 2026 09:00:11 GMT</pubDate>
+    <title>5. Pressure is not a task</title>
+    <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/escalation-and-handoff/5.-Pressure-is-not-a-task</link>
+    <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/escalation-and-handoff/5.-Pressure-is-not-a-task</guid>
+    <description><![CDATA[ ← Escalation &amp; Handoff Pressure is not a task The pages before this are about what to do. This one is about the feeling that makes it hard. ]]></description>
+    <pubDate>Wed, 17 Jun 2026 04:08:07 GMT</pubDate>
+  </item><item>
+    <title>6. Flow Diagram</title>
+    <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/escalation-and-handoff/6.-Flow-Diagram</link>
+    <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/escalation-and-handoff/6.-Flow-Diagram</guid>
+    <description><![CDATA[ ← Escalation &amp; Handoff Flow Diagram There are two moments to start from: when a request first lands on you, and when a request you’ve already escalated gets pinged again. ]]></description>
+    <pubDate>Wed, 17 Jun 2026 04:08:07 GMT</pubDate>
   </item><item>
     <title>2. What do I do right now (Flowchart)</title>
     <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/priority-guide/2.-What-do-I-do-right-now-(Flowchart)</link>
     <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/priority-guide/2.-What-do-I-do-right-now-(Flowchart)</guid>
     <description><![CDATA[ ← Priority Guide ”What do I do right now?” Flowchart Start at the top whenever you finish a piece of work, get blocked, or aren’t sure what’s next. ]]></description>
-    <pubDate>Sat, 13 Jun 2026 09:00:11 GMT</pubDate>
+    <pubDate>Wed, 17 Jun 2026 04:08:07 GMT</pubDate>
   </item><item>
     <title>3. Getting Unblocked</title>
     <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/priority-guide/3.-Getting-Unblocked</link>
     <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/priority-guide/3.-Getting-Unblocked</guid>
-    <description><![CDATA[ ← Priority Guide Getting Unblocked Being blocked on someone else’s feedback, or waiting for a response to a question is a normal and expected part of reviewing. ]]></description>
-    <pubDate>Sat, 13 Jun 2026 09:00:11 GMT</pubDate>
+    <description><![CDATA[ ← Priority Guide Getting Unblocked Precondition — is this work actually yours? This page is about getting unblocked on a review that is already assigned to you. ]]></description>
+    <pubDate>Wed, 17 Jun 2026 04:08:07 GMT</pubDate>
   </item><item>
-    <title>4. Non-Review Work</title>
-    <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/priority-guide/4.-Non-Review-Work</link>
-    <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/priority-guide/4.-Non-Review-Work</guid>
-    <description><![CDATA[ ← Priority Guide Non-Review Work The “Extras” In addition to review work, your job consists of other tasks with blurrier deadlines. ]]></description>
-    <pubDate>Sat, 13 Jun 2026 09:00:11 GMT</pubDate>
+    <title>0. index</title>
+    <link>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/priority-guide/0.-index</link>
+    <guid>https://mreschenberg.github.io/Quartz/Work/Documentation/Reviews/priority-guide/0.-index</guid>
+    <description><![CDATA[ Priority Guide — What to Work On, and How to Know You’re on Track The goal of your day is not to finish everything in the queue. ]]></description>
+    <pubDate>Tue, 16 Jun 2026 09:00:18 GMT</pubDate>
   </item>
     </channel>
   </rss>
